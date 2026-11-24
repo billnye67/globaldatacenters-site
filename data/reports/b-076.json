@@ -1,0 +1,598 @@
+[
+ {
+  "id": "ft-1775186170925-3942",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The city received 475 letters about this one, and not one of them was in favour.",
+    "src": "https://www.kcur.org/housing-development-section/2026-08-10/kansas-city-officials-denied-a-plan-for-downtown-data-center-some-residents-vow-to-keep-fighting"
+   },
+   {
+    "para": 0,
+    "t": "Revitalization Unlimited, a Miami developer, wanted to demolish the three storey Western Newspaper Union building at 304 West 10th Street, in the Quality Hill neighbourhood of Kansas City, in Jackson County, Missouri, and put up a 20 storey, 384 foot data center with shops on the ground floor.",
+    "src": "https://www.kcur.org/housing-development-section/2026-08-10/kansas-city-officials-denied-a-plan-for-downtown-data-center-some-residents-vow-to-keep-fighting"
+   },
+   {
+    "para": 0,
+    "t": "On August 5, 2026 the city plan commission voted 6 to 0 to reject it, after 55 people testified.",
+    "src": "https://www.kcur.org/housing-development-section/2026-08-10/kansas-city-officials-denied-a-plan-for-downtown-data-center-some-residents-vow-to-keep-fighting"
+   },
+   {
+    "para": 1,
+    "t": "Megan Haave told the commission: \"It will not house, feed, or clothe residents. It will not increase civic pride or public trust.\"",
+    "src": "https://www.kcur.org/housing-development-section/2026-08-10/kansas-city-officials-denied-a-plan-for-downtown-data-center-some-residents-vow-to-keep-fighting"
+   },
+   {
+    "para": 1,
+    "t": "Ethan Starr, executive director of Historic Kansas City, pointed out that the building had been bought on a preservation argument: \"The Western Newspaper Union's building acquisition was presented as a preservation-oriented investment ... Now, instead, the city is being asked to approve demolition.\"",
+    "src": "https://www.kcur.org/housing-development-section/2026-08-10/kansas-city-officials-denied-a-plan-for-downtown-data-center-some-residents-vow-to-keep-fighting"
+   },
+   {
+    "para": 1,
+    "t": "Commissioner Matt Hasek said: \"It's not a productive use of downtown space. And I find it ironic, too, that the historic building that you're wanting to tear down has more productive capacity than what you're offering, almost twice as much as the 20-story building.\"",
+    "src": "https://www.kcur.org/housing-development-section/2026-08-10/kansas-city-officials-denied-a-plan-for-downtown-data-center-some-residents-vow-to-keep-fighting"
+   },
+   {
+    "para": 2,
+    "t": "The developer can appeal to the city council, though Mayor Quinton Lucas said a reversal was \"highly unlikely and would not have my support\".",
+    "src": "https://www.kcur.org/housing-development-section/2026-08-10/kansas-city-officials-denied-a-plan-for-downtown-data-center-some-residents-vow-to-keep-fighting"
+   },
+   {
+    "para": 2,
+    "t": "Two groups, Sunrise Movement KC and KC Data Center Watchdog, are pressing for a complete ban, and a data center transparency task force ordinance went to a council committee on August 11.",
+    "src": "https://www.kcur.org/housing-development-section/2026-08-10/kansas-city-officials-denied-a-plan-for-downtown-data-center-some-residents-vow-to-keep-fighting"
+   },
+   {
+    "para": 3,
+    "t": "The entry is recorded as cancelled at 30 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 4,
+    "t": "Ten other recorded data center sites sit within 25 kilometres, and the county and city have both moved: Jackson County adopted a moratorium from June 22, 2026 and a ban from June 24, Kansas City zoning limits on January 16, 2026, and Peculiar a ban going back to 2024.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The 955 megawatt Hawthorn coal plant is 10 kilometres away and the 396 megawatt Northeast oil plant three.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.kcur.org/housing-development-section/2026-08-10/kansas-city-officials-denied-a-plan-for-downtown-data-center-some-residents-vow-to-keep-fighting"
+  ],
+  "unconfirmed": "The capacity is unresolved. A line saying KCUR put the building at 20 megawatts against 30 in the trade press came out: the KCUR account of the plan commission hearing gives no megawatt figure at all, and the 30 in our record rests on trade reports that are not fetchable. Whether Revitalization Unlimited has appealed to the council, and what has happened to the Western Newspaper Union building since August 2026, are unknown. The water demand was not published."
+ },
+ {
+  "id": "ft-1775149605384-7770",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Most of the neighbours did not know until a reporter called them.",
+    "src": "https://www.kshb.com/news/local-news/missouri/clay-county/libertys-1st-data-center-proposal-raises-residents-concerns-about-utilities-costs"
+   },
+   {
+    "para": 0,
+    "t": "Metrobloks is building Liberty's first data center at 2515 Old Hughes Road, in Clay County, Missouri: a two storey building of 177,000 square feet on about 29 acres, the first of three on the site.",
+    "src": "https://www.kshb.com/news/local-news/missouri/clay-county/libertys-1st-data-center-proposal-raises-residents-concerns-about-utilities-costs"
+   },
+   {
+    "para": 0,
+    "t": "The city has approved it and planning permission is granted; building permits had not been submitted at the time of the report.",
+    "src": "https://www.kshb.com/news/local-news/missouri/clay-county/libertys-1st-data-center-proposal-raises-residents-concerns-about-utilities-costs"
+   },
+   {
+    "para": 1,
+    "t": "The money is the part residents keep returning to.",
+    "src": "https://www.kshb.com/news/local-news/missouri/clay-county/libertys-1st-data-center-proposal-raises-residents-concerns-about-utilities-costs"
+   },
+   {
+    "para": 1,
+    "t": "Mayor Greg Canuteson called it \"the largest investment in the history of Liberty\", worth somewhere between $1.5 and $8 billion, and said: \"It's not a hyperscaler data center. This is not the type of data center that uses lots of water.\"",
+    "src": "https://www.kshb.com/news/local-news/missouri/clay-county/libertys-1st-data-center-proposal-raises-residents-concerns-about-utilities-costs"
+   },
+   {
+    "para": 1,
+    "t": "The city council approved $1.4 billion in bonds and about $202.7 million in tax abatements over 25 years, for three buildings totalling 568,800 square feet, and the city will not back the bonds.",
+    "src": "https://www.kxcv.org/regional-news/2026-03-25/liberty-welcomes-ai-data-center-with-200-million-in-tax-breaks-heres-what-we-know"
+   },
+   {
+    "para": 1,
+    "t": "Metrobloks announced the investment on March 24, 2026 at $1.4 billion.",
+    "src": "https://www.kxcv.org/regional-news/2026-03-25/liberty-welcomes-ai-data-center-with-200-million-in-tax-breaks-heres-what-we-know"
+   },
+   {
+    "para": 2,
+    "t": "The three buildings together are expected to use 150 megawatts of electricity, and the cooling is a closed loop, with water recirculated and little lost to evaporation.",
+    "src": "https://www.kshb.com/news/local-news/missouri/clay-county/libertys-1st-data-center-proposal-raises-residents-concerns-about-utilities-costs"
+   },
+   {
+    "para": 2,
+    "t": "Hope Martin, an engineer for the company, said of the grid upgrades the campus needs: \"There will be power upgrades that need to be made to support our site. However, we pay for all those upgrades so that cost isn't put onto others.\"",
+    "src": "https://www.kshb.com/news/local-news/missouri/clay-county/libertys-1st-data-center-proposal-raises-residents-concerns-about-utilities-costs"
+   },
+   {
+    "para": 2,
+    "t": "Resident Kathleen Fullerton was not reassured about the water supply, asking: \"Is that going to be compromised with the data centers?\"",
+    "src": "https://www.kshb.com/news/local-news/missouri/clay-county/libertys-1st-data-center-proposal-raises-residents-concerns-about-utilities-costs"
+   },
+   {
+    "para": 3,
+    "t": "The entry is recorded on 29 acres at $1.4 billion, proposed, with no capacity figure and no developer field filled in.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Google's operating Kansas City East campus is five kilometres away, and ten other recorded sites sit within 28 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 955 megawatt Hawthorn coal plant is nine kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Clay County has no data center moratorium or zoning limit recorded, though Jackson County to the south has both.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.kshb.com/news/local-news/missouri/clay-county/libertys-1st-data-center-proposal-raises-residents-concerns-about-utilities-costs",
+   "https://www.kxcv.org/regional-news/2026-03-25/liberty-welcomes-ai-data-center-with-200-million-in-tax-breaks-heres-what-we-know"
+  ],
+  "unconfirmed": "The investment figure is unstable: $1.4 billion in the company's March 2026 announcement and in our record, $1.5 to $8 billion in the mayor's later description. The 150 megawatt figure is described as consumption across all three buildings, which is not a well formed unit, and no source gives a load figure we could rely on. Whether the abatement was contested, and whether building permits have since been issued, are unknown. Metrobloks has not named a customer, and our record's developer field is empty even though the company is named in the entry. The acreage is in the KSHB report but not in the KXCV account of the council agreement, which gives floor area instead."
+ },
+ {
+  "id": "ft-1779304562667-7801",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The renderings were taken down the same day people noticed them.",
+    "src": "https://sbj.net/stories/second-marshfield-data-center-pauses-plans,104356"
+   },
+   {
+    "para": 0,
+    "t": "Swarm Systems had shown a Missouri data center campus on its website promising 20 megawatts and service by mid-2027, on about 8.2 acres of a larger parcel at 630 George Street in the industrial park at Marshfield, in Webster County; the images and the text disappeared on May 18.",
+    "src": "https://sbj.net/stories/second-marshfield-data-center-pauses-plans,104356"
+   },
+   {
+    "para": 0,
+    "t": "The company had asked about connecting to city facilities at an unincorporated site nearby and was told, in the reporting's words, pretty well basically no.",
+    "src": "https://sbj.net/stories/second-marshfield-data-center-pauses-plans,104356"
+   },
+   {
+    "para": 1,
+    "t": "Marshfield had already had one of these meetings.",
+    "src": "https://www.ky3.com/2026/05/11/hundreds-pack-marshfield-mo-meeting-over-planned-ai-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "On May 11, 2026 hundreds of people filled the high school auditorium over a different project, a five acre facility on Rifle Range Road north of the town being built by Lumon Solutions, where site preparation had begun with no public announcement.",
+    "src": "https://www.ky3.com/2026/05/11/hundreds-pack-marshfield-mo-meeting-over-planned-ai-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Dale Fraker, an associate commissioner for Webster County, explained the limits of what the county could do: \"Because there's not a lot of county oversight here with planning and zoning or anything like that. What folks in Webster County do with their personal property is their business.\"",
+    "src": "https://www.ky3.com/2026/05/11/hundreds-pack-marshfield-mo-meeting-over-planned-ai-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Christine Vande Griend left unconvinced: \"Those answers did not put me at ease. In fact, I think it probably raised more questions than answers.\"",
+    "src": "https://www.ky3.com/2026/05/11/hundreds-pack-marshfield-mo-meeting-over-planned-ai-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Seth Atkison's worry was heat: energy that is used, he said, cannot be destroyed or created, so it has to be put somewhere.",
+    "src": "https://www.ky3.com/2026/05/11/hundreds-pack-marshfield-mo-meeting-over-planned-ai-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "That developer said it would draw only a few gallons a day from a 500 foot well through a closed loop, and afterwards declined to comment further.",
+    "src": "https://www.ky3.com/2026/05/11/hundreds-pack-marshfield-mo-meeting-over-planned-ai-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "The Swarm Systems project is recorded at 20 megawatts, proposed, with no acreage and no cost.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "The Lumon Solutions site is listed separately, five kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "No moratorium is recorded anywhere near here, and Webster County has no planning and zoning to impose one, though the county has taken legal advice on what it can do.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The grid is small: the Associated Electric Cooperative control area peaks at 4,770 megawatts, and the nearest generator is a 100 megawatt gas plant 24 kilometres away.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [
+   "https://sbj.net/stories/second-marshfield-data-center-pauses-plans,104356",
+   "https://www.ky3.com/2026/05/11/hundreds-pack-marshfield-mo-meeting-over-planned-ai-data-center/"
+  ],
+  "unconfirmed": "The Springfield Business Journal reports we relied on returned HTTP 403 and could not be fetched; the details of the Swarm Systems site, the 8.2 acres, the 20 megawatts and the removal of the web pages on May 18 come from search summaries of those reports and are attributed to them rather than to pages read in full. Whether the pause has been lifted, who backs Swarm Systems, and whether it has gone elsewhere in Webster County, are unknown. The group Protect Webster County maintains a page on the project which we did not read. No cost figure has been published."
+ },
+ {
+  "id": "ft-1776913850649-9361",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The landowners here have signed nondisclosure agreements, so the county commission is discussing a $4 billion project it cannot fully describe.",
+    "src": "https://www.kxcv.org/news/2026-03-11/with-little-public-notice-data-center-developers-consider-nodaway-county"
+   },
+   {
+    "para": 0,
+    "t": "ReLoad, a Chicago company that says it sites, designs and permits gigawatt-scale data center campuses, met the Nodaway County commissioners on December 16, 2025 about land in the south of the county near Maryville.",
+    "src": "https://www.kxcv.org/news/2026-03-11/with-little-public-notice-data-center-developers-consider-nodaway-county"
+   },
+   {
+    "para": 0,
+    "t": "The plan would involve several buildings of about a million square feet each.",
+    "src": "https://www.kxcv.org/news/2026-03-11/with-little-public-notice-data-center-developers-consider-nodaway-county"
+   },
+   {
+    "para": 1,
+    "t": "The county cannot stop it.",
+    "src": "https://www.kxcv.org/news/2026-03-11/with-little-public-notice-data-center-developers-consider-nodaway-county"
+   },
+   {
+    "para": 1,
+    "t": "Commissioner Chris Burns said the reaction was divisive, with people \"either 100% for it or 100% against it\", and that without zoning the county's hands are tied: \"If the landowners choose to sell their land or lease their land for that purpose, without zoning, we don't have a lot of control over that.\"",
+    "src": "https://www.kxcv.org/news/2026-03-11/with-little-public-notice-data-center-developers-consider-nodaway-county"
+   },
+   {
+    "para": 1,
+    "t": "Josh McKim, who runs the Nodaway County Economic Development Corporation, said the answers to water and noise include recycling water and using non-potable sources, and that many facilities generate their own electricity.",
+    "src": "https://www.kxcv.org/news/2026-03-11/with-little-public-notice-data-center-developers-consider-nodaway-county"
+   },
+   {
+    "para": 1,
+    "t": "He put the jobs at 150 to 200 for a very large campus.",
+    "src": "https://www.kxcv.org/news/2026-03-11/with-little-public-notice-data-center-developers-consider-nodaway-county"
+   },
+   {
+    "para": 2,
+    "t": "Evergy is building a 440 megawatt gas plant eight miles south of Maryville on US Highway 71, due by 2030, and says it is for existing demand rather than for any new customer.",
+    "src": "https://www.kxcv.org/news/2026-03-11/with-little-public-notice-data-center-developers-consider-nodaway-county"
+   },
+   {
+    "para": 2,
+    "t": "Officials expected public forums at some point, while acknowledging that the industry's practice of discretion makes that difficult.",
+    "src": "https://www.kxcv.org/news/2026-03-11/with-little-public-notice-data-center-developers-consider-nodaway-county"
+   },
+   {
+    "para": 3,
+    "t": "The entry stands at $4 billion, proposed, with no acreage and no capacity figure, and the location given as southern Nodaway County, possibly off Galaxy Road, with confidence marked low.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "A change.org petition against data centers in Nodaway County and other Missouri counties is attached to the entry.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 4,
+    "t": "The land immediately around the recorded point is already generating: the 237 megawatt White Cloud wind project is on it, the 242 megawatt Clear Creek wind farm is 14 kilometres away, the 171 megawatt Nodaway gas plant 16 kilometres, and the 300 megawatt Rock Creek wind project 25 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "No other data center site is recorded anywhere in the county.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://www.kxcv.org/news/2026-03-11/with-little-public-notice-data-center-developers-consider-nodaway-county"
+  ],
+  "unconfirmed": "The exact site is unknown and our own record says so, giving only \"southern Nodaway County, possibly off Galaxy Rd\" at low confidence; the coordinates should not be treated as a parcel. No acreage, megawatt figure or water figure has been published, and the nondisclosure agreements are the reason. Whether ReLoad has since bought or optioned land, and whether any public forum was held, we could not establish. The Maryville Forum report in our record, headlined that the commission believed the project likely to go forward, could not be fetched."
+ },
+ {
+  "id": "ft-1765662789346-3319",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Two enormous data center campuses are going up on the same stretch of farmland between New Florence and High Hill, north of Interstate 70.",
+    "src": "https://abc17news.com/news/montgomery/2025/12/03/montgomery-county-approves-land-for-two-large-scale-projects-on-amazon-data-center-campus/"
+   },
+   {
+    "para": 0,
+    "t": "On December 3, 2025 the Montgomery County Commission received the administrative review confirming land approval for both.",
+    "src": "https://abc17news.com/news/montgomery/2025/12/03/montgomery-county-approves-land-for-two-large-scale-projects-on-amazon-data-center-campus/"
+   },
+   {
+    "para": 0,
+    "t": "Project Green, from NorthPoint Development, covers about 1,000 acres with four buildings to start and thirteen more planned for a second phase, and Steve Etcher of the Greater Montgomery County Economic Development Council named Amazon as the operator.",
+    "src": "https://abc17news.com/news/montgomery/2025/12/03/montgomery-county-approves-land-for-two-large-scale-projects-on-amazon-data-center-campus/"
+   },
+   {
+    "para": 0,
+    "t": "Project Spade, under the name Spade Property Owner LLC, covers about 780 acres with three main buildings, each more than a million square feet, alongside a security station and a visitor centre.",
+    "src": "https://abc17news.com/news/montgomery/2025/12/03/montgomery-county-approves-land-for-two-large-scale-projects-on-amazon-data-center-campus/"
+   },
+   {
+    "para": 1,
+    "t": "The power comes from Ameren under its large load tariff, and the water from the Montgomery County Public District, with Project Spade including a pump house and a water filtration building of its own.",
+    "src": "https://abc17news.com/news/montgomery/2025/12/03/montgomery-county-approves-land-for-two-large-scale-projects-on-amazon-data-center-campus/"
+   },
+   {
+    "para": 1,
+    "t": "Building permits had not been secured at that point, and a town hall was set for the following Monday at Montgomery City Elementary.",
+    "src": "https://abc17news.com/news/montgomery/2025/12/03/montgomery-county-approves-land-for-two-large-scale-projects-on-amazon-data-center-campus/"
+   },
+   {
+    "para": 1,
+    "t": "Project Spade's end user was not identified in the December reporting.",
+    "src": "https://abc17news.com/news/montgomery/2025/12/03/montgomery-county-approves-land-for-two-large-scale-projects-on-amazon-data-center-campus/"
+   },
+   {
+    "para": 2,
+    "t": "The entry names Google as the end user and Related Digital as the developer, at 1,200 megawatts on 910 acres, proposed.",
+    "src": "data:developer"
+   },
+   {
+    "para": 3,
+    "t": "The Amazon Web Services project, Project Green, is four kilometres away and a Crusoe site under construction 24 kilometres off, the only other entries in the county.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 1,190 megawatt Callaway nuclear station is 33 kilometres away, and the two nearest other generators are solar farms of 139 and 50 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Montgomery County has no data center moratorium or zoning limit recorded, and nor does any jurisdiction within reach of it.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The control area here is Associated Electric Cooperative, which peaks at 4,770 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 4,
+    "t": "The 1,200 megawatt figure recorded for this one campus is a quarter of that entire system's peak load.",
+    "src": "data:capacity_mw"
+   }
+  ],
+  "sources": [
+   "https://abc17news.com/news/montgomery/2025/12/03/montgomery-county-approves-land-for-two-large-scale-projects-on-amazon-data-center-campus/"
+  ],
+  "unconfirmed": "Google's involvement is in our record and in the headline of a local report we could not fetch; the December 2025 account we did read says Project Spade's end user was not identified, so Google is named above only as our record has it. The acreage differs, 910 in our record against about 780 in the reporting. The 1,200 megawatt figure is not confirmed by any source we read, and neither Ameren nor the county has published a load figure. The KRCG report in our record on residents resisting the development could not be fetched, so no resident is quoted here even though our record marks pushback as yes. What the water district has agreed to supply is not stated."
+ },
+ {
+  "id": "ft-1773978372506-6542",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The planning and zoning commission sat for eleven hours on two data center proposals, and split four to five against this one.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "BLE Landholdings, also known as Beltline, asked Franklin County to rezone twelve parcels totalling 490 acres around 684 Phelan Road at Pacific from agricultural to industrial.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The commission recommended denial.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The county commissioners went the other way.",
+    "src": "https://www.firstalert4.com/2026/09/15/data-centers-approved-by-franklin-county-commissioners-tuesday-vote/?outputType=amp"
+   },
+   {
+    "para": 1,
+    "t": "On September 14, 2026 they voted to rezone both the site south of Pacific along Highway O and the Gateway Digital Campus near Villa Ridge, although the zoning commission had recommended approval only for the second.",
+    "src": "https://www.firstalert4.com/2026/09/15/data-centers-approved-by-franklin-county-commissioners-tuesday-vote/?outputType=amp"
+   },
+   {
+    "para": 1,
+    "t": "Gene Elkins, who has depended on a well for his water for more than 20 years, told the meeting: \"It's just the wrong piece of dirt and the wrong way to go about it.\"",
+    "src": "https://www.firstalert4.com/2026/09/15/data-centers-approved-by-franklin-county-commissioners-tuesday-vote/?outputType=amp"
+   },
+   {
+    "para": 1,
+    "t": "He said there were a lot of questions that never get answered, and that the three individuals who lead the county commission seemed set on moving ahead regardless; he had put his concerns to presiding commissioner Dave Schatz a fortnight earlier.",
+    "src": "https://www.firstalert4.com/2026/09/15/data-centers-approved-by-franklin-county-commissioners-tuesday-vote/?outputType=amp"
+   },
+   {
+    "para": 1,
+    "t": "Dana Bowers said: \"I want them to just say no. I just want them to say no.\"",
+    "src": "https://www.firstalert4.com/2026/09/15/data-centers-approved-by-franklin-county-commissioners-tuesday-vote/?outputType=amp"
+   },
+   {
+    "para": 2,
+    "t": "Before that vote the proposal had already been pulled once.",
+    "src": "https://www.ksdk.com/article/news/local/data-center-plan-near-pacific-withdrawn/63-f4946624-b6d1-468a-bc45-605ccfc3e843"
+   },
+   {
+    "para": 2,
+    "t": "Beltline Energy, through its subsidiary BLE Landholdings, had proposed a $16 billion hyperscale campus on 500 acres of the Crooked Creek Beef property near Highway O and the Meramec River, outside Pacific in Franklin County.",
+    "src": "https://www.ksdk.com/article/news/local/data-center-plan-near-pacific-withdrawn/63-f4946624-b6d1-468a-bc45-605ccfc3e843"
+   },
+   {
+    "para": 2,
+    "t": "A rezoning hearing in February 2026 ended abruptly when the developer tabled its request, and in August the company withdrew and terminated the zoning application altogether.",
+    "src": "https://www.ksdk.com/article/news/local/data-center-plan-near-pacific-withdrawn/63-f4946624-b6d1-468a-bc45-605ccfc3e843"
+   },
+   {
+    "para": 2,
+    "t": "Two days before the withdrawal the city of Pacific passed a one year moratorium barring any data center application.",
+    "src": "https://www.ksdk.com/article/news/local/data-center-plan-near-pacific-withdrawn/63-f4946624-b6d1-468a-bc45-605ccfc3e843"
+   },
+   {
+    "para": 2,
+    "t": "The Missouri Department of Conservation had warned that the site could affect bald eagles, bat species, the eastern hellbender, fish, mussels and plants, and public meetings had been packed with residents objecting to the scale of the development, its water demand and the effect on local wildlife.",
+    "src": "https://www.ksdk.com/article/news/local/data-center-plan-near-pacific-withdrawn/63-f4946624-b6d1-468a-bc45-605ccfc3e843"
+   },
+   {
+    "para": 3,
+    "t": "The entry is recorded as suspended on 490 acres, with no developer, no cost and no capacity, and a Facebook group formed against it is on file.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "The land is in unincorporated Franklin County, which is why the city moratorium did not end it and why the county was able to rezone it a month later.",
+    "src": "https://www.ksdk.com/article/news/local/data-center-plan-near-pacific-withdrawn/63-f4946624-b6d1-468a-bc45-605ccfc3e843"
+   },
+   {
+    "para": 3,
+    "t": "A Facebook group called No AI Data Centers in Franklin County has more than 3,000 members.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "The county has no moratorium or zoning limit of its own recorded, while three jurisdictions towards St Louis have adopted measures since May 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The 2,372 megawatt Labadie coal plant is 16 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "The grid here is Associated Electric Cooperative, whose whole system peaks at 4,770 megawatts.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [
+   "https://www.firstalert4.com/2026/09/15/data-centers-approved-by-franklin-county-commissioners-tuesday-vote/?outputType=amp",
+   "https://www.ksdk.com/article/news/local/data-center-plan-near-pacific-withdrawn/63-f4946624-b6d1-468a-bc45-605ccfc3e843"
+  ],
+  "unconfirmed": "Our record held this proposal three times, at Highway O and Phelan Road, at 684 Phelan Road and on the blocked list five kilometres away; they have been merged into one. The acreage differs between 500 and 490, and the withdrawal and the September 2026 rezoning come from different outlets, so whether the parcel the county rezoned is exactly this one could not be confirmed from any single source. The KSDK report of the withdrawal returned HTTP 403 on this pass and could not be re-read, so the account of the February hearing, the August withdrawal, the Pacific moratorium and the conservation department's warning stands as the earlier reading had it. No megawatt or water figure exists for the project, and no developer behind BLE Landholdings has been named. The eleven hour planning meeting and the four to five vote come from search summaries of reports that could not be fetched."
+ },
+ {
+  "id": "ft-319",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Peculiar, in Cass County, Missouri, did not block this data center by refusing it.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "It removed data centers from the zoning code altogether.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Diode Ventures had proposed the Harper Road Technology Park, a $1.5 billion campus of seven buildings of about 300,000 square feet each on roughly 508 acres at 203rd Street and Harper Street.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "In October 2024 the board of aldermen, facing a standing room crowd, took the definition of a data center out of the ordinance, which left the project with nothing to apply under.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The group that did it was called Don't Dump Data in Peculiar, and its arguments were the ordinary ones: the look of the thing, the noise, and what it would do to house prices.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Peculiar has about 3,000 residents and sits roughly 40 minutes southwest of Kansas City.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "It was among the earliest towns in the country to stop a data center this way.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The entry is recorded as cancelled at $1.5 billion, with no acreage and no capacity figure, and the Peculiar ban runs from October 2024 with no end date.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "Everything that has happened in the surrounding counties since is later: Kansas City zoning limits in January 2026, Jackson County a moratorium and a ban in June 2026, Independence a moratorium in July, and Miami County across the Kansas line in May.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The land here is well supplied with gas: the 321 megawatt South Harper plant is eight kilometres away, the 657 megawatt Dogwood Energy facility 17 kilometres, and the 253 megawatt Greenwood plant 20 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded anywhere in Cass County, and the nearest other entry is a cancelled project 26 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Both of our record's usable sources are the same Data Center Dynamics article, which is not fetchable, and the third is a campaign report rather than reporting. Everything above about the project itself, the ordinance change and the opposition group comes from search summaries of that article and of a KSHB report, so no source is listed and every sentence is marked as coming from our record's source list. We could not read a single page in full. The exact date of the aldermen's vote, the vote count, the names of aldermen and residents, and whether Diode Ventures challenged the decision are all unknown. No megawatt or water figure was ever published. Searches run: Peculiar with Diode Ventures and Project Harper; the ordinance change and residents; and the Cass County context."
+ },
+ {
+  "id": "ft-1774580479532-3628",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Rhys Hine lives near this one and did the thing people do now, which is start a Facebook group.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Geronimo Power, a Minnesota company, wants to put a data center between Sarcoxie and La Russell in Jasper County, Missouri, on land along County Road 20 near the Liberty Energy Park at Fir Road and County Road 30, and pair it with a solar farm and battery storage to the north.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The solar and storage would cover about 2,000 acres, 1,360 of them in Jasper County and 640 in Lawrence County, and would generate about 150 megawatts, only part of what the data center would need.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Hine's objection was about what the place is for.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "He said having six data centers within half a mile would take away the rural life people moved there for.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "A coalition called Southwest Missouri Citizens Against Data Centers has formed against the data center and solar projects across the rural parts of Jasper and Webster counties.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The entry stands as proposed with no developer, no capacity, no acreage and no cost.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "Geronimo Power is the same company whose $4 billion campus in Nobles County, Minnesota was refused by county commissioners on April 21, 2026, after which it said it would look at other communities.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The power is right there: the 262 megawatt Empire Energy Center is one kilometre away and the 146 megawatt Kings Point wind farm 15 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Jasper County has no data center moratorium or zoning limit recorded, and nor does anywhere within reach of it.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The county's other entry, the Wildwood Ranch site at Joplin, is beyond the 40 kilometre radius from here.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "All three of our record's sources returned errors: the KOAM report was rate limited, the Four States Homepage report and the Yahoo syndication both returned HTTP 403. Everything above about the project and the opposition comes from search summaries of those reports and of Geronimo Power's own project page, so no source url is listed and each sentence is attributed to our record's source list. No megawatt figure for the data center itself, no acreage for it, no cost and no end user could be established. The dates of the company's presentations to Sarcoxie residents are not known. Whether the county commission has taken any position is unknown. Our record does not name Geronimo Power as the developer, which the reporting does."
+ }
+]

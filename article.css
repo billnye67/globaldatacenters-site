@@ -1,0 +1,228 @@
+/* Article CSS - shared across all SEO guide pages */
+
+.article-hero {
+    padding: 60px 0 40px;
+    border-bottom: 1px solid var(--rule);
+}
+.article-kicker {
+    font-size: 0.75rem;
+    color: var(--red);
+    text-transform: uppercase;
+    letter-spacing: 0.22em;
+    font-weight: 600;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+.article-kicker::before {
+    content: '';
+    width: 32px;
+    height: 2px;
+    background: var(--red);
+}
+.article-title {
+    font-family: 'Fraunces', serif;
+    font-weight: 400;
+    font-size: clamp(2rem, 4vw, 3.2rem);
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    margin-bottom: 20px;
+    max-width: 880px;
+}
+.article-dek {
+    font-family: 'Fraunces', serif;
+    font-size: 1.25rem;
+    line-height: 1.55;
+    color: var(--ink-soft);
+    max-width: 780px;
+}
+.article-meta {
+    margin-top: 24px;
+    font-size: 0.85rem;
+    color: var(--ink-fade);
+    font-style: italic;
+}
+
+.article-body {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 50px 32px 60px;
+}
+.article-body h2 {
+    font-family: 'Fraunces', serif;
+    font-size: 1.65rem;
+    font-weight: 500;
+    margin: 44px 0 16px;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+}
+.article-body h3 {
+    font-family: 'Fraunces', serif;
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 28px 0 10px;
+    color: var(--ink);
+}
+.article-body p {
+    font-size: 1.08rem;
+    line-height: 1.75;
+    color: var(--ink-soft);
+    margin-bottom: 20px;
+}
+.article-body p strong { color: var(--ink); font-weight: 600; }
+.article-body p em { color: var(--ink); font-style: italic; }
+.article-body ul, .article-body ol { margin: 0 0 24px 24px; color: var(--ink-soft); }
+.article-body li { margin-bottom: 10px; line-height: 1.7; font-size: 1.05rem; }
+.article-body a { color: var(--red); border-bottom: 1px solid var(--red); }
+.article-body a:hover { color: var(--red-dark); }
+
+.lead-paragraph {
+    font-family: 'Fraunces', serif;
+    font-size: 1.25rem !important;
+    line-height: 1.6 !important;
+    color: var(--ink) !important;
+    font-style: italic;
+}
+
+.callout-urgent {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 30px 36px;
+    margin: 32px 0;
+    border-left: 4px solid var(--red);
+}
+.callout-urgent strong { color: var(--paper); }
+.callout-urgent h3 {
+    font-family: 'Fraunces', serif;
+    color: var(--paper) !important;
+    font-size: 1.25rem !important;
+    margin: 0 0 12px !important;
+}
+.callout-urgent p {
+    color: var(--sand) !important;
+    font-size: 1.02rem !important;
+    line-height: 1.65 !important;
+    margin-bottom: 0 !important;
+}
+
+.callout-case {
+    background: var(--paper-dark);
+    border-left: 4px solid var(--red);
+    padding: 24px 28px;
+    margin: 32px 0;
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    color: var(--ink);
+}
+.callout-case p {
+    font-family: 'Fraunces', serif !important;
+    font-size: 1.08rem !important;
+    line-height: 1.65 !important;
+    color: var(--ink) !important;
+    margin-bottom: 12px !important;
+    font-style: italic;
+}
+.callout-case p:last-child { margin-bottom: 0 !important; }
+.callout-case .source {
+    display: block;
+    margin-top: 16px;
+    font-size: 0.85rem;
+    color: var(--ink-fade);
+    font-style: normal;
+}
+
+.article-body .cta-box {
+    background: var(--ink);
+    color: var(--paper);
+    padding: 40px;
+    margin: 44px 0;
+    border: 1px solid var(--ink);
+    display: block !important;
+    grid-template-columns: none !important;
+    gap: 0 !important;
+}
+.article-body .cta-box h3 {
+    font-family: 'Fraunces', serif;
+    color: var(--paper) !important;
+    font-size: 1.5rem !important;
+    margin: 0 0 14px !important;
+    letter-spacing: -0.01em;
+}
+.article-body .cta-box p {
+    color: var(--sand) !important;
+    font-size: 1rem !important;
+    line-height: 1.6 !important;
+    margin-bottom: 24px !important;
+    max-width: 100%;
+}
+.article-body .cta-btn {
+    display: inline-block !important;
+    background: var(--red);
+    color: var(--paper) !important;
+    padding: 14px 28px;
+    font-size: 0.88rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    border: none;
+    cursor: pointer;
+    transition: background 0.2s;
+    border-bottom: none !important;
+    white-space: nowrap;
+}
+.article-body .cta-btn:hover { background: var(--red-dark); color: var(--paper) !important; }
+
+.related-section {
+    padding: 40px 0;
+    border-top: 1px solid var(--rule);
+    margin-top: 60px;
+}
+.related-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    margin-top: 20px;
+}
+.related-card {
+    padding: 24px;
+    border: 1px solid var(--rule);
+    transition: border-color 0.15s, background 0.15s;
+}
+.related-card:hover { border-color: var(--red); background: var(--paper-dark); }
+.related-card a {
+    color: var(--ink);
+    border-bottom: none !important;
+}
+.related-card h4 {
+    font-family: 'Fraunces', serif;
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: var(--ink);
+    margin-bottom: 6px;
+}
+.related-card p {
+    font-size: 0.9rem;
+    color: var(--ink-fade);
+    line-height: 1.5;
+    margin: 0 !important;
+}
+
+@media (max-width: 640px) {
+    .article-body { padding: 30px 20px 40px; }
+    .cta-box { padding: 28px 22px; }
+    .callout-urgent { padding: 22px 24px; }
+    .related-grid { grid-template-columns: 1fr; }
+}
+
+/* State page sections */
+.article-section { padding: 32px 0; border-bottom: 1px solid var(--rule); }
+.article-section:last-child { border-bottom: none; }
+.article-wrap { max-width: 720px; }
+.article-section h2 { font-family: "Fraunces", Georgia, serif; font-size: 1.5rem; font-weight: 500; margin-bottom: 18px; letter-spacing: -0.01em; }
+.article-section p { font-size: 1.02rem; line-height: 1.7; color: var(--ink-soft); margin-bottom: 16px; }
+.article-section p strong { color: var(--ink); font-weight: 600; }
+.article-section p a { color: var(--red); border-bottom: 1px solid var(--red); text-decoration: none; }
+.article-section ul { list-style: none; padding: 0; }
+.article-section ul li { margin-bottom: 12px; }
+.article-section ul li a { color: var(--red); font-family: "Fraunces", Georgia, serif; font-size: 1rem; border-bottom: 1px solid var(--red); text-decoration: none; }

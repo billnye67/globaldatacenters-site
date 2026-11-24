@@ -1,0 +1,862 @@
+[
+ {
+  "id": "ft-969",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is a small building that has been doing the same job for a quarter of a century.",
+    "src": "https://infotelsystems.com/facilities/"
+   },
+   {
+    "para": 0,
+    "t": "Infotel Systems built its own edge data center at 6008 Hermitage Road, in the Lakeside part of Henrico County, in 2000, to host the voice, video, fax and data services it sells, and it sits less than a mile from Interstates 64, 95 and 195.",
+    "src": "https://infotelsystems.com/facilities/"
+   },
+   {
+    "para": 0,
+    "t": "The entry puts it at one acre, marks it operating, holds no capacity figure, and its only source is a Henrico County parcel record.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The company's own description is of a careful small operation rather than a campus.",
+    "src": "https://infotelsystems.com/facilities/"
+   },
+   {
+    "para": 1,
+    "t": "It lists redundant generators with twenty days of propane, an hour of battery backup on everything, redundant high efficiency air conditioning, a reflective white insulated roof fitted in 2016, card access, thirty days of video, a VESDA Laser Plus early warning smoke system, Halon suppression and round the clock monitoring by Richmond Alarm.",
+    "src": "https://infotelsystems.com/facilities/"
+   },
+   {
+    "para": 1,
+    "t": "Its fibre reaches Verizon a hundred feet away, Comcast and Lumen a mile off and Windstream two, with unlit fibre to TPx.",
+    "src": "https://infotelsystems.com/facilities/"
+   },
+   {
+    "para": 1,
+    "t": "The page gives the electrical service as 200,000 KW peak.",
+    "src": "https://infotelsystems.com/facilities/"
+   },
+   {
+    "para": 2,
+    "t": "Nobody is objecting to this and nothing is being decided about it.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "The data centers nearest to it are a different order of thing.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Eleven data center sites are counted in Henrico County, and the ones near this address are a different order of thing: a 10 megawatt project called Azalea is proposed five kilometres away, the Pixel Factory and Cavalier Innsbrook buildings are operating ten kilometres off, and a 900 megawatt Tract campus in Hanover County, also ten kilometres away, is recorded as blocked.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generation is the 340 megawatt Darbytown gas plant, 16 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Henrico County has no moratorium and no zoning limit on data centers, though since June 2025 each one has needed a permit rather than passing by right.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://infotelsystems.com/facilities/"
+  ],
+  "unconfirmed": "The floor area, the real power draw and the number of customers are not published, and our record holds no capacity figure. The 200,000 KW peak on the company's own page would be 200 gigawatts, which cannot be right for a one acre building, and no corrected figure was found. Searches on the company name with the street, on the street with Henrico and data center, and on the company with Richmond returned only the company's own pages and directory listings; no local reporting on the building was found."
+ },
+ {
+  "id": "ft-684",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The fight on Darbytown Road was about data centers, the developer lost it, and then it built something else on the same ground.",
+    "src": "https://richmondbizsense.com/2025/12/17/after-withdrawing-data-center-plan-developer-proposes-industrial-buildings-at-same-varina-site/"
+   },
+   {
+    "para": 0,
+    "t": "Darbytown Road LLC, a Wagner entity, bought 200 acres off Darbytown Road in Varina, Henrico County, on November 14, 2025, paying the pharmaceutical company Fareva $13.5 million.",
+    "src": "https://richmondbizsense.com/2025/12/17/after-withdrawing-data-center-plan-developer-proposes-industrial-buildings-at-same-varina-site/"
+   },
+   {
+    "para": 0,
+    "t": "The entry puts the site at 195 acres and marks it suspended.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "The plan was eight data center buildings totalling a million square feet.",
+    "src": "https://richmondbizsense.com/2025/12/17/after-withdrawing-data-center-plan-developer-proposes-industrial-buildings-at-same-varina-site/"
+   },
+   {
+    "para": 1,
+    "t": "It was the first proposal filed under Henrico's new rules, which from June 2025 required a provisional use permit for every data center and ended approval by right.",
+    "src": "https://richmondbizsense.com/2025/12/17/after-withdrawing-data-center-plan-developer-proposes-industrial-buildings-at-same-varina-site/"
+   },
+   {
+    "para": 1,
+    "t": "The planning commission turned it down, and Wagner withdrew it.",
+    "src": "https://richmondbizsense.com/2025/12/17/after-withdrawing-data-center-plan-developer-proposes-industrial-buildings-at-same-varina-site/"
+   },
+   {
+    "para": 2,
+    "t": "Then came the argument about whether it had the right to build anyway.",
+    "src": "https://richmondbizsense.com/2025/12/17/after-withdrawing-data-center-plan-developer-proposes-industrial-buildings-at-same-varina-site/"
+   },
+   {
+    "para": 2,
+    "t": "Wagner filed a vested rights claim in October 2025.",
+    "src": "https://richmondbizsense.com/2025/12/17/after-withdrawing-data-center-plan-developer-proposes-industrial-buildings-at-same-varina-site/"
+   },
+   {
+    "para": 2,
+    "t": "On December 10, 2025 Henrico's planning director, Joe Emerson, refused it, finding that Wagner had not owned the property when it made the request, that state law allows vested rights only to landowners and not to contract purchasers, and that Wagner had not obtained the permit.",
+    "src": "https://richmondbizsense.com/2025/12/17/after-withdrawing-data-center-plan-developer-proposes-industrial-buildings-at-same-varina-site/"
+   },
+   {
+    "para": 3,
+    "t": "Three days later, on December 13, 2025, Wagner filed a different plan for the same 200 acres: seven industrial warehouses totalling 1.8 million square feet, for distribution.",
+    "src": "https://richmondbizsense.com/2025/12/17/after-withdrawing-data-center-plan-developer-proposes-industrial-buildings-at-same-varina-site/"
+   },
+   {
+    "para": 3,
+    "t": "That needed no public hearing and no vote by the supervisors, because it involved neither a rezoning nor a provisional use permit, and Henrico's planning staff approved it administratively in January 2026.",
+    "src": "https://richmondbizsense.com/2026/01/27/henrico-approves-industrial-buildings-for-darbytown-site-as-developer-appeals-data-centers-denial/"
+   },
+   {
+    "para": 3,
+    "t": "The managing partner, David Wagner, said the group would keep pursuing its original plan for up to eight data centers while positioning the site for distribution centres as well.",
+    "src": "https://richmondbizsense.com/2026/01/27/henrico-approves-industrial-buildings-for-darbytown-site-as-developer-appeals-data-centers-denial/"
+   },
+   {
+    "para": 3,
+    "t": "The Varina supervisor, Tyrone Nelson, did not think both were possible: \"I feel like if they put in for the warehouse piece, you can't do the data center piece and the warehouse at the same time. I think that's confusing the community to a certain degree.\"",
+    "src": "https://richmondbizsense.com/2026/01/27/henrico-approves-industrial-buildings-for-darbytown-site-as-developer-appeals-data-centers-denial/"
+   },
+   {
+    "para": 3,
+    "t": "The appeal against the vested rights refusal was expected before the Henrico Board of Zoning Appeals in February 2026, with the developer represented by Andy Condlin of Roth Jackson.",
+    "src": "https://richmondbizsense.com/2026/01/27/henrico-approves-industrial-buildings-for-darbytown-site-as-developer-appeals-data-centers-denial/"
+   },
+   {
+    "para": 4,
+    "t": "The ground around this parcel is already heavily built.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "Meta's Sandston site is five kilometres away and Meta Henrico eleven, and four QTS Richmond buildings sit ten kilometres off, three of them operating at 238, 180 and 144 megawatts.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 340 megawatt Darbytown gas plant is two kilometres from the site.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Nothing in Henrico County limits data centers by zoning, but since June 2025 none of them can be approved by right.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://richmondbizsense.com/2025/12/17/after-withdrawing-data-center-plan-developer-proposes-industrial-buildings-at-same-varina-site/",
+   "https://richmondbizsense.com/2026/01/27/henrico-approves-industrial-buildings-for-darbytown-site-as-developer-appeals-data-centers-denial/"
+  ],
+  "unconfirmed": "The outcome of the Board of Zoning Appeals hearing is not known, nor whether the warehouses have been built. No megawatt figure was ever published for the data center plan and our record holds none. The distance from the New Market Village neighbourhood and George F. Baker Elementary School, reported elsewhere, is not carried here because the Henrico Citizen articles are behind a subscription wall."
+ },
+ {
+  "id": "ft-686",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "It is over.",
+    "src": "https://www.wdbj7.com/2026/08/17/data-center-proposal-dropped-franklin-county/"
+   },
+   {
+    "para": 0,
+    "t": "The data center proposed for Summit View Business Park, just north of Rocky Mount in Franklin County, will not be built.",
+    "src": "https://www.wdbj7.com/2026/08/17/data-center-proposal-dropped-franklin-county/"
+   },
+   {
+    "para": 0,
+    "t": "Boone District supervisor Mike Meredith said the county had been told the week before that the project would not go ahead: \"Project Flash is not proceeding.\"",
+    "src": "https://www.wdbj7.com/2026/08/17/data-center-proposal-dropped-franklin-county/"
+   },
+   {
+    "para": 0,
+    "t": "It was known as Project Flash, and the company was Crusoe AI: 50 to 100 megawatts on 150 acres, of which at least 95 were developable.",
+    "src": "https://www.wdbj7.com/2026/08/17/data-center-proposal-dropped-franklin-county/"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 100 megawatts and 150 acres, names Crusoe as the developer, and puts Google in the project's title, which none of the reporting supports.",
+    "src": "data:developer"
+   },
+   {
+    "para": 1,
+    "t": "Residents found it themselves.",
+    "src": "https://www.wdbj7.com/2026/08/17/data-center-proposal-dropped-franklin-county/"
+   },
+   {
+    "para": 1,
+    "t": "The proposal surfaced in July 2026, through documents released under a Freedom of Information Act request.",
+    "src": "https://www.wsls.com/news/local/2026/08/27/what-was-project-flash/"
+   },
+   {
+    "para": 1,
+    "t": "More than a hundred people met at the Scruggs volunteer fire department to work out what it would mean.",
+    "src": "https://www.wdbj7.com/2026/08/17/data-center-proposal-dropped-franklin-county/"
+   },
+   {
+    "para": 1,
+    "t": "The Franklin County Community Coalition had been at it for about six months, and its chair, Kim Jones, said: \"It's hard to wrap your head around the magnitude of the whole thing.\"",
+    "src": "https://www.wdbj7.com/2026/08/17/data-center-proposal-dropped-franklin-county/"
+   },
+   {
+    "para": 1,
+    "t": "The mayor of Rocky Mount, Holland Perdue, went to the meetings and opposed the project: \"Economic development is not simply about attracting investment. It is about attracting the right investment for the community.\"",
+    "src": "https://www.wdbj7.com/2026/08/17/data-center-proposal-dropped-franklin-county/"
+   },
+   {
+    "para": 1,
+    "t": "Laura Carter, a resident, was not treating the ending as final: \"We won a battle, but we haven't won the war.\"",
+    "src": "https://www.wdbj7.com/2026/08/17/data-center-proposal-dropped-franklin-county/"
+   },
+   {
+    "para": 2,
+    "t": "What made it hard to argue about was that nobody would say what it was.",
+    "src": "https://www.wsls.com/news/local/2026/08/27/what-was-project-flash/"
+   },
+   {
+    "para": 2,
+    "t": "The released records showed the county had been negotiating with Crusoe for months and that the company had been talking to Appalachian Power about the electricity it would need.",
+    "src": "https://www.wsls.com/news/local/2026/08/27/what-was-project-flash/"
+   },
+   {
+    "para": 2,
+    "t": "County officials were bound by non-disclosure agreements.",
+    "src": "https://www.wsls.com/news/local/2026/08/27/what-was-project-flash/"
+   },
+   {
+    "para": 2,
+    "t": "Christine Sizemore put the objection plainly: \"I think one of the issues, or primarily issue that I'm sensing really is the lack of transparency. This is a major infrastructure project that isn't just putting a factory up or another building somewhere.\"",
+    "src": "https://www.wsls.com/news/local/2026/08/27/what-was-project-flash/"
+   },
+   {
+    "para": 2,
+    "t": "Dan Quinn, a representative for Union Hall, said the county had not been chasing a data center in particular but exploring a range of possibilities for Summit View that could generate revenue and economic activity.",
+    "src": "https://www.wsls.com/news/local/2026/08/27/what-was-project-flash/"
+   },
+   {
+    "para": 2,
+    "t": "Neither the county nor Crusoe would say why the project ended.",
+    "src": "https://www.wsls.com/news/local/2026/08/27/what-was-project-flash/"
+   },
+   {
+    "para": 3,
+    "t": "The record now marks the project cancelled.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "It was the only data center site recorded in Franklin County, and the nearest other entry is the Google campus in Botetourt County, 30 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "No moratorium applies, and the nearest generation is the 586 megawatt Smith Mountain dam, 35 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.wdbj7.com/2026/08/17/data-center-proposal-dropped-franklin-county/",
+   "https://www.wsls.com/news/local/2026/08/27/what-was-project-flash/"
+  ],
+  "unconfirmed": "The non-disclosure agreements mean the investment figure, the water demand and the reason for the withdrawal were never made public. Neither the county nor Crusoe answered requests for comment on why it ended. Why Google appears in our own project name is unexplained; the word does not appear in either report and no source ties Google to this site. The WDBJ7 report, dated August 17, 2026, does not date Mike Meredith's statement. What becomes of Summit View Business Park is unresolved."
+ },
+ {
+  "id": "ft-1047",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The pitch at Rushmere, in Surry County, starts with the reactors: four to six small modular reactors built to power 20 to 30 data centers on the same ground.",
+    "src": "https://world-nuclear-news.org/Articles/IP3,-GEP-team-up-for-Surry-Green-Energy-Center"
+   },
+   {
+    "para": 0,
+    "t": "Green Energy Partners secured 641 acres there, on Hog Island Road next to Dominion Energy's Surry nuclear station, and on August 15, 2023 announced a joint venture with IP3 Corporation to develop what they call the Surry Green Energy Center.",
+    "src": "https://world-nuclear-news.org/Articles/IP3,-GEP-team-up-for-Surry-Green-Energy-Center"
+   },
+   {
+    "para": 0,
+    "t": "The campus is also meant to generate hydrogen fuel and to provide backup power to Virginia's grid.",
+    "src": "https://world-nuclear-news.org/Articles/IP3,-GEP-team-up-for-Surry-Green-Energy-Center"
+   },
+   {
+    "para": 0,
+    "t": "The project is marked proposed, and no capacity figure is attached.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Data Center Frontier described the data centers on individual plots of three to five acres, with the reactors bringing pressurised water to 800 degrees and an electrolyser splitting it into hydrogen and oxygen.",
+    "src": "https://www.datacenterfrontier.com/energy/article/33010239/onsite-energy-plans-for-new-data-center-projects-reflect-industrys-decarbonization-investment"
+   },
+   {
+    "para": 1,
+    "t": "Bill Puckett said construction would begin within eighteen months once permitting was complete, and that the plants could start coming online in as little as five years, which the magazine called an aggressive timeline that \"would likely make these SMRs the first commercially deployed in the US, and potentially, worldwide.\"",
+    "src": "https://www.datacenterfrontier.com/energy/article/33010239/onsite-energy-plans-for-new-data-center-projects-reflect-industrys-decarbonization-investment"
+   },
+   {
+    "para": 1,
+    "t": "It also noted that the hydrogen half only follows once enough reactors are built, an outcome it did not treat as settled.",
+    "src": "https://www.datacenterfrontier.com/energy/article/33010239/onsite-energy-plans-for-new-data-center-projects-reflect-industrys-decarbonization-investment"
+   },
+   {
+    "para": 2,
+    "t": "The reason for the location is the neighbour.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The 1,676 megawatt Surry nuclear plant is two kilometres away and the 368 megawatt Gravel Neck gas plant one kilometre, with two Cavalier solar farms 16 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Green Energy Partners' chief executive, Mark Andrews, said \"for nearly fifty years, we have delivered positive growth for Virginia,\" and pointed to clean power that reinforces national security, while IP3's chief executive, Michael Hewitt, argued that infrastructure investment needs to be radically reoriented.",
+    "src": "https://world-nuclear-news.org/Articles/IP3,-GEP-team-up-for-Surry-Green-Energy-Center"
+   },
+   {
+    "para": 2,
+    "t": "The customers they name are governmental: agencies and military bases from Washington to Norfolk.",
+    "src": "https://world-nuclear-news.org/Articles/IP3,-GEP-team-up-for-Surry-Green-Energy-Center"
+   },
+   {
+    "para": 2,
+    "t": "They also note that Virginia's data centres process over 70 percent of the world's internet data and consume about 25 percent of the state's energy.",
+    "src": "https://world-nuclear-news.org/Articles/IP3,-GEP-team-up-for-Surry-Green-Energy-Center"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Surry County and there is no other within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Suffolk adopted a moratorium on data centers on June 18, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://world-nuclear-news.org/Articles/IP3,-GEP-team-up-for-Surry-Green-Energy-Center",
+   "https://www.datacenterfrontier.com/energy/article/33010239/onsite-energy-plans-for-new-data-center-projects-reflect-industrys-decarbonization-investment"
+  ],
+  "unconfirmed": "No reactor has been ordered, licensed or sited, and the Nuclear Regulatory Commission process for any of the four to six SMRs was not established; nothing has been reported built on the ground. The county rezoning reported in February 2024, its vote and the proffered road work on Hog Island Road appear in the Smithfield Times, which refused requests, so none of it is carried here. No megawatt figure, tenant or construction start was found."
+ },
+ {
+  "id": "ft-690",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "On July 24, 2025 the Caroline County planning commission voted 4 to 2 to recommend refusing the Ladysmith Data Hub, a data center proposed near Ladysmith in Caroline County.",
+    "src": "https://www.fredericksburgfreepress.com/2025/07/28/caroline-planning-commission-recommends-denial-of-ladysmith-data-hub-after-residents-speak-out/"
+   },
+   {
+    "para": 0,
+    "t": "The site is 140.3 acres at 18577 Green Road near Ladysmith, just west of Interstate 95 off U.S. Route 1, and the plan includes a ten acre substation.",
+    "src": "https://www.fredericksburgfreepress.com/2025/07/28/caroline-planning-commission-recommends-denial-of-ladysmith-data-hub-after-residents-speak-out/"
+   },
+   {
+    "para": 0,
+    "t": "The land had last been rezoned in 1995, for Good Earth Horticulture.",
+    "src": "https://www.fredericksburgfreepress.com/2025/07/28/caroline-planning-commission-recommends-denial-of-ladysmith-data-hub-after-residents-speak-out/"
+   },
+   {
+    "para": 0,
+    "t": "Chair Bob Schwartz, Lee Tingler, Steve Rollins and Richard Williams voted to deny; J.D. Young and Carol Horton voted to approve.",
+    "src": "https://www.fredericksburgfreepress.com/2025/07/28/caroline-planning-commission-recommends-denial-of-ladysmith-data-hub-after-residents-speak-out/"
+   },
+   {
+    "para": 1,
+    "t": "Residents spoke about noise, water, electricity and the risk of eminent domain.",
+    "src": "https://www.fredericksburgfreepress.com/2025/07/28/caroline-planning-commission-recommends-denial-of-ladysmith-data-hub-after-residents-speak-out/"
+   },
+   {
+    "para": 1,
+    "t": "Chris Smith, of Lake Caroline, said: \"I love to drive down the road, smell those trees, smell those flowers, smell the manure of the cows on that road. I didn't come here to hear the noise that's going to come from that data center.\"",
+    "src": "https://www.fredericksburgfreepress.com/2025/07/28/caroline-planning-commission-recommends-denial-of-ladysmith-data-hub-after-residents-speak-out/"
+   },
+   {
+    "para": 1,
+    "t": "The board of supervisors makes the final decision, and no hearing date had been set.",
+    "src": "https://www.fredericksburgfreepress.com/2025/07/28/caroline-planning-commission-recommends-denial-of-ladysmith-data-hub-after-residents-speak-out/"
+   },
+   {
+    "para": 1,
+    "t": "The county had already approved two data centers elsewhere, with three more able to be built by right and waiting on site plan approval.",
+    "src": "https://www.fredericksburgfreepress.com/2025/07/28/caroline-planning-commission-recommends-denial-of-ladysmith-data-hub-after-residents-speak-out/"
+   },
+   {
+    "para": 2,
+    "t": "More than a year later it is still waiting.",
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+   },
+   {
+    "para": 2,
+    "t": "Caroline County's list of applications carries RZ-02-2025 and SPEX-06-2025, from ADP Ladysmith Data Hub LLC, over 140.38 acres at 18577 Green Road in the Mattaponi voting district, as deemed complete and forwarded for review.",
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+   },
+   {
+    "para": 2,
+    "t": "The record carries 140 acres, no developer and no capacity figure.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "It would not be alone if it is built.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Bull Church, the Airlee site and CleanArc's campus, which is under construction at 600 megawatts, are all within a kilometre or two, and the Ladysmith Technology Park is three kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Eleven data center sites are counted in Caroline County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The 814 megawatt Ladysmith gas plant is eight kilometres off, Doswell at 1,189 megawatts 21 kilometres, and the 1,893 megawatt North Anna nuclear station 26 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Green Road is under no moratorium and no zoning limit on data centers, and neither is the rest of the county.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.fredericksburgfreepress.com/2025/07/28/caroline-planning-commission-recommends-denial-of-ladysmith-data-hub-after-residents-speak-out/",
+   "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+  ],
+  "unconfirmed": "The applicant behind ADP Ladysmith Data Hub LLC, the number of buildings, the power draw and the water demand are unpublished, and our record holds none of them. The board of supervisors had not voted as of the county's current list. The county rezoning file our record cites returned a corrupted PDF we could not read."
+ },
+ {
+  "id": "ft-689",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Airlee industrial and data center site is 184 acres at the intersection of Route 1 and CCC Road in Ruther Glen, Caroline County.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Its only source on record, a Virginia Economic Development Partnership property listing, has been taken down and now returns a 404.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "What Caroline County's own application list shows is a case from Airlee-Mattaponi, numbered RZ-06-2026 and SPEX-10-2026, over 191 acres between U.S. 1 and Interstate 95 in the Mattaponi voting district, deemed complete and forwarded for review.",
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+   },
+   {
+    "para": 0,
+    "t": "The two acreages differ by seven.",
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+   },
+   {
+    "para": 1,
+    "t": "Almost everything else on that list is the same kind of thing.",
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+   },
+   {
+    "para": 1,
+    "t": "Thornberry wants 657 acres of a 1,001.5 acre parcel at Carneal Lane; ADP Ladysmith wants 140.38 acres at Green Road; Luck Stone Corporation wants 1,196.3 acres off Jericho Road under case RZ-06-2024; Avanti Management wants 1,658 acres at Ware Creek Road under RZ-05-2024; NRD Retail is still in technical review on Bull Church Road.",
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+   },
+   {
+    "para": 1,
+    "t": "Within two kilometres of the Airlee parcel the record holds the ADP Ladysmith site, Bull Church, and CleanArc's campus under construction at 600 megawatts.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "CleanArc is the one that has actually been agreed, and it shows what the county is trading for.",
+    "src": "https://www.fredericksburgfreepress.com/2025/09/10/caroline-officials-announce-650-acre-data-center-campus-at-former-virginia-bazaar-site/"
+   },
+   {
+    "para": 2,
+    "t": "On August 12, 2025 the board of supervisors approved a performance agreement with CADC VA-1 LLC, a CleanArc subsidiary, over 650 acres in the Ladysmith area just east of Interstate 95 off exit 110, on the former Virginia Bazaar site, with Bowling Green supervisor Jeff Sili the only vote against.",
+    "src": "https://www.fredericksburgfreepress.com/2025/09/10/caroline-officials-announce-650-acre-data-center-campus-at-former-virginia-bazaar-site/"
+   },
+   {
+    "para": 2,
+    "t": "The agreement allows three buildings of 490,000 square feet each, with more possible on a further 87.5 and 126.6 acres, against a projected $8.8 billion at full build, 50 jobs paying 150 percent of the county's average wage, and more than $13 million a year in tax, about 17 percent of the general fund.",
+    "src": "https://www.fredericksburgfreepress.com/2025/09/10/caroline-officials-announce-650-acre-data-center-campus-at-former-virginia-bazaar-site/"
+   },
+   {
+    "para": 2,
+    "t": "The county offered better terms if the first building is finished by September 30, 2027.",
+    "src": "https://www.fredericksburgfreepress.com/2025/09/10/caroline-officials-announce-650-acre-data-center-campus-at-former-virginia-bazaar-site/"
+   },
+   {
+    "para": 3,
+    "t": "Eleven data center sites are counted in Caroline County and no moratorium or zoning limit applies anywhere in it.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The 814 megawatt Ladysmith gas plant is eight kilometres from this parcel and the 1,893 megawatt North Anna nuclear station 26.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings",
+   "https://www.fredericksburgfreepress.com/2025/09/10/caroline-officials-announce-650-acre-data-center-campus-at-former-virginia-bazaar-site/"
+  ],
+  "unconfirmed": "We could not confirm that the Airlee-Mattaponi case on the county's list is the same parcel as our entry, though the district, the road frontage and the acreage are close. No owner, applicant, building plan, power figure or hearing date was found. The only source in our record is a dead site listing."
+ },
+ {
+  "id": "ft-1065",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Carmel Church Data Hub is 97 acres on Welcom Way Drive at Ruther Glen, in Caroline County, and it is the hardest data center in the county to document.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The entry gives the applicant as W & F Partners and sources it to the county rezoning file RZ-03-2023.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "That file returns a 404, and the case no longer appears on Caroline County's list of applications, which now runs from 2024 to 2026.",
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+   },
+   {
+    "para": 0,
+    "t": "Writing in July 2025, the Fredericksburg Free Press noted the county had already approved two data centers, with three more able to be built by right.",
+    "src": "https://www.fredericksburgfreepress.com/2025/07/28/caroline-planning-commission-recommends-denial-of-ladysmith-data-hub-after-residents-speak-out/"
+   },
+   {
+    "para": 0,
+    "t": "The entry gives no capacity figure and no date.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "What is happening around it is easier to establish than the project itself.",
+    "src": "http://www.fredericksburgfreepress.com/2026/08/28/in-3-2-vote-caroline-planning-commission-recommends-denial-of-carmel-technology-and-enterprise-center/"
+   },
+   {
+    "para": 1,
+    "t": "Three kilometres away, Luck Stone wants to rezone about 1,111 acres from Rural Preservation to Industrial for the Carmel Technology and Enterprise Center, and on August 28, 2026 the planning commission voted 3 to 1 to recommend refusing it.",
+    "src": "http://www.fredericksburgfreepress.com/2026/08/28/in-3-2-vote-caroline-planning-commission-recommends-denial-of-carmel-technology-and-enterprise-center/"
+   },
+   {
+    "para": 1,
+    "t": "Its attorney, Charlie Payne, told the commission the development will not be a data center but logistics, distribution, warehousing, manufacturing and similar uses.",
+    "src": "http://www.fredericksburgfreepress.com/2026/08/28/in-3-2-vote-caroline-planning-commission-recommends-denial-of-carmel-technology-and-enterprise-center/"
+   },
+   {
+    "para": 1,
+    "t": "Commissioner Mary Hodge was not reassured: \"Because the applicant is not forthcoming with any information about potential tenants on this property, I am very concerned with language in the GDP narrative which states the site will include storage warehouses and distribution facilities.\"",
+    "src": "http://www.fredericksburgfreepress.com/2026/08/28/in-3-2-vote-caroline-planning-commission-recommends-denial-of-carmel-technology-and-enterprise-center/"
+   },
+   {
+    "para": 2,
+    "t": "Within eight kilometres of Welcom Way Drive the record holds the Carmel Technology and Enterprise Center, both Caroline Center for Innovation parcels, the Thornberry rezoning, the VALCO site and the Airlee parcel, all marked proposed.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Eleven data center sites are counted in the county.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The 1,189 megawatt Doswell Energy Center is 13 kilometres away, the 814 megawatt Ladysmith plant 15, and the 1,893 megawatt North Anna nuclear station 30.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Nothing in Caroline County is covered by a moratorium or a zoning limit on data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings",
+   "https://www.fredericksburgfreepress.com/2025/07/28/caroline-planning-commission-recommends-denial-of-ladysmith-data-hub-after-residents-speak-out/",
+   "http://www.fredericksburgfreepress.com/2026/08/28/in-3-2-vote-caroline-planning-commission-recommends-denial-of-carmel-technology-and-enterprise-center/"
+  ],
+  "unconfirmed": "Whether this is one of the two data centers the county had approved by July 2025 was not established, nor the date or vote of any approval, nor the number of buildings, the power draw or the water demand. The county rezoning file our record cites is a dead link, and no local reporting naming this project was found in three searches on the project name, the applicant and the county."
+ },
+ {
+  "id": "ft-1050",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The applicant says this is not a data center.",
+    "src": "http://www.fredericksburgfreepress.com/2026/07/24/caroline-planning-commission-defers-vote-on-carmel-technology-campus/"
+   },
+   {
+    "para": 0,
+    "t": "Luck Stone, a Richmond crushed stone and gravel producer, wants to rezone about 1,111 acres off Jericho Road in Caroline County from Rural Preservation to Industrial, across parcels between Jericho Road and U.S. Route 1 and along Zion and Oxford roads.",
+    "src": "http://www.fredericksburgfreepress.com/2026/07/24/caroline-planning-commission-defers-vote-on-carmel-technology-campus/"
+   },
+   {
+    "para": 0,
+    "t": "Its attorney, Charlie Payne, told the planning commission: \"It's not going to be data centers. We envision this to be your typical industrial park where you're going to have logistics, distribution, warehousing, and manufacturing.\"",
+    "src": "http://www.fredericksburgfreepress.com/2026/07/24/caroline-planning-commission-defers-vote-on-carmel-technology-campus/"
+   },
+   {
+    "para": 0,
+    "t": "The zoning being asked for would permit data centers among the other industrial uses, which is why the site is on record at all.",
+    "src": "data:dataset"
+   },
+   {
+    "para": 0,
+    "t": "The county records the case as RZ-06-2024 from Luck Stone Corporation over 1,196.3 acres in the Reedy Church district; the record carries 1,196 acres.",
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+   },
+   {
+    "para": 1,
+    "t": "The commission heard it on Thursday, July 23, 2026 and, after a marathon meeting of long and heated public testimony, deferred its vote to August 27.",
+    "src": "http://www.fredericksburgfreepress.com/2026/07/24/caroline-planning-commission-defers-vote-on-carmel-technology-campus/"
+   },
+   {
+    "para": 1,
+    "t": "Members of Oxford Mount Zion Baptist Church spoke for it, among them Bishop Duane Fields Sr., because Luck Stone has offered to help build a community centre and to assist Carmel Baptist Church's food pantry.",
+    "src": "http://www.fredericksburgfreepress.com/2026/07/24/caroline-planning-commission-defers-vote-on-carmel-technology-campus/"
+   },
+   {
+    "para": 1,
+    "t": "Blake Morris, a recent Caroline High School graduate, said several children in the county have no mentors or role models at home, and that the centre \"would give them a purpose and a reason to keep going in life to better themselves.\"",
+    "src": "http://www.fredericksburgfreepress.com/2026/07/24/caroline-planning-commission-defers-vote-on-carmel-technology-campus/"
+   },
+   {
+    "para": 1,
+    "t": "Mark Atkinson, against, called the rezoning \"a blank check that you're giving the developer in exchange for doing a few good things.\"",
+    "src": "http://www.fredericksburgfreepress.com/2026/07/24/caroline-planning-commission-defers-vote-on-carmel-technology-campus/"
+   },
+   {
+    "para": 1,
+    "t": "Commissioner Mary Hodge questioned the proffers, including $50,000 towards a traffic light estimated to cost $700,000, and a $25,000 donation to the Musical Creations Foundation, a nonprofit run by the wife of another commissioner.",
+    "src": "http://www.fredericksburgfreepress.com/2026/07/24/caroline-planning-commission-defers-vote-on-carmel-technology-campus/"
+   },
+   {
+    "para": 2,
+    "t": "The vote came on Thursday, August 27, 2026: 3 to 1 to recommend refusal.",
+    "src": "http://www.fredericksburgfreepress.com/2026/08/28/in-3-2-vote-caroline-planning-commission-recommends-denial-of-carmel-technology-and-enterprise-center/"
+   },
+   {
+    "para": 2,
+    "t": "Mary Hodge, Richard Williams and Steve Rollins voted to deny, Lee Tingler to approve, Carol Horton was absent, and J.D. Young abstained because of the conflict of interest.",
+    "src": "http://www.fredericksburgfreepress.com/2026/08/28/in-3-2-vote-caroline-planning-commission-recommends-denial-of-carmel-technology-and-enterprise-center/"
+   },
+   {
+    "para": 2,
+    "t": "Hodge's stated reason was the applicant's own wording: \"Because the applicant is not forthcoming with any information about potential tenants on this property, I am very concerned with language in the GDP narrative which states the site will include storage warehouses and distribution facilities.\"",
+    "src": "http://www.fredericksburgfreepress.com/2026/08/28/in-3-2-vote-caroline-planning-commission-recommends-denial-of-carmel-technology-and-enterprise-center/"
+   },
+   {
+    "para": 2,
+    "t": "Luck Stone has also offered to help Jericho Baptist Church and Carmel Baptist Church with ministry needs.",
+    "src": "http://www.fredericksburgfreepress.com/2026/08/28/in-3-2-vote-caroline-planning-commission-recommends-denial-of-carmel-technology-and-enterprise-center/"
+   },
+   {
+    "para": 2,
+    "t": "The board of supervisors decides, and it had already voted 6 to 0 in August 2024 to change this land in the comprehensive plan from Rural Transition to Industrial.",
+    "src": "http://www.fredericksburgfreepress.com/2026/08/28/in-3-2-vote-caroline-planning-commission-recommends-denial-of-carmel-technology-and-enterprise-center/"
+   },
+   {
+    "para": 3,
+    "t": "Within eight kilometres the record holds the Carmel Church Data Hub, the VALCO site, the Airlee parcel and both Caroline Center for Innovation entries.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Eleven data center sites are counted in the county and none of them is covered by a moratorium.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The Doswell and Ladysmith gas plants, 1,189 and 814 megawatts, are 13 and 16 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "http://www.fredericksburgfreepress.com/2026/07/24/caroline-planning-commission-defers-vote-on-carmel-technology-campus/",
+   "http://www.fredericksburgfreepress.com/2026/08/28/in-3-2-vote-caroline-planning-commission-recommends-denial-of-carmel-technology-and-enterprise-center/",
+   "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+  ],
+  "unconfirmed": "The board of supervisors had not voted when we looked. No tenant, building count, square footage or power figure has been published, and our record holds no capacity. The two acreages in circulation, about 1,111 acres in the rezoning as reported and 1,196.3 on the county's list, are unreconciled. Whether data centers would in fact be built here is the point in dispute and is not settled."
+ },
+ {
+  "id": "ft-872",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Caroline Center for Innovation is a proposed data center on 278 acres at 23286 Carneal Lane, Ruther Glen, in Caroline County.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The entry holds no developer and no capacity figure for it and sources it to the county rezoning file RZ-01-2025, which now returns a 404.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The case does not appear on the county's current list of applications, which runs from 2024 to 2026.",
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+   },
+   {
+    "para": 1,
+    "t": "The parcel sits in the middle of the county's densest cluster.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Its companion entry, Caroline Center for Innovation North, is a kilometre away; Thornberry's 657 acre rezoning at Carneal Lane is two kilometres; the Carmel Church Data Hub five; the Carmel Technology and Enterprise Center eight; and Bull Church and the ADP Ladysmith site ten.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Eleven data center sites are counted in Caroline County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "Two of those neighbours show how the county has been deciding.",
+    "src": "https://www.fredericksburgfreepress.com/2025/07/28/caroline-planning-commission-recommends-denial-of-ladysmith-data-hub-after-residents-speak-out/"
+   },
+   {
+    "para": 2,
+    "t": "On July 24, 2025 the planning commission voted 4 to 2 to recommend refusing the Ladysmith Data Hub, after residents spoke about noise, water, electricity and eminent domain.",
+    "src": "https://www.fredericksburgfreepress.com/2025/07/28/caroline-planning-commission-recommends-denial-of-ladysmith-data-hub-after-residents-speak-out/"
+   },
+   {
+    "para": 2,
+    "t": "On August 28, 2026 it voted 3 to 1 to recommend refusing Luck Stone's rezoning of about 1,111 acres down the road.",
+    "src": "http://www.fredericksburgfreepress.com/2026/08/28/in-3-2-vote-caroline-planning-commission-recommends-denial-of-carmel-technology-and-enterprise-center/"
+   },
+   {
+    "para": 2,
+    "t": "In between, on August 12, 2025, the board of supervisors approved a performance agreement for CleanArc's 650 acre campus, with a single vote against.",
+    "src": "https://www.fredericksburgfreepress.com/2025/09/10/caroline-officials-announce-650-acre-data-center-campus-at-former-virginia-bazaar-site/"
+   },
+   {
+    "para": 2,
+    "t": "The commission recommends and the board decides, and on this evidence the two do not always agree.",
+    "src": "http://www.fredericksburgfreepress.com/2026/08/28/in-3-2-vote-caroline-planning-commission-recommends-denial-of-carmel-technology-and-enterprise-center/"
+   },
+   {
+    "para": 3,
+    "t": "The 1,189 megawatt Doswell Energy Center is 14 kilometres from Carneal Lane, the 814 megawatt Ladysmith plant 17, and the 1,893 megawatt North Anna nuclear station 35.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "No moratorium and no zoning limit on data centers has been written anywhere in Caroline County.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings",
+   "https://www.fredericksburgfreepress.com/2025/07/28/caroline-planning-commission-recommends-denial-of-ladysmith-data-hub-after-residents-speak-out/",
+   "http://www.fredericksburgfreepress.com/2026/08/28/in-3-2-vote-caroline-planning-commission-recommends-denial-of-carmel-technology-and-enterprise-center/",
+   "https://www.fredericksburgfreepress.com/2025/09/10/caroline-officials-announce-650-acre-data-center-campus-at-former-virginia-bazaar-site/"
+  ],
+  "unconfirmed": "Whether the case was approved, refused or withdrawn could not be established. The applicant, the owner and the building plan are all unknown. Descriptions attributed to county records place the case southeast of Rogers Clark Boulevard off Dry Bridge Road, between Carneal Lane and Innovation Drive, in the Reedy Church district, seeking rezoning to the Planned Innovation, Research and Technology district; the county documents could not be opened to confirm that, and it is not carried above. Three searches on the project name, the address and the county produced no news coverage."
+ },
+ {
+  "id": "ft-687",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Caroline Center for Innovation North is a proposed data center on 95 acres at 13039 Mickey's Way, Ruther Glen, in Caroline County, and it is the smaller half of a pair.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The entry holds no developer and no capacity figure for it and sources it to the county file SPEX-08-2025.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "That document returns a 404, and the case is not on the county's current list of applications.",
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+   },
+   {
+    "para": 0,
+    "t": "The Caroline Center for Innovation, 278 acres a kilometre away, is in the same position.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "A special exception is the route Caroline County uses for this kind of thing, usually paired with a rezoning on the same parcel.",
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+   },
+   {
+    "para": 1,
+    "t": "Its live list pairs ADP Ladysmith Data Hub LLC's RZ-02-2025 with SPEX-06-2025 over 140.38 acres at Green Road, and Airlee-Mattaponi's RZ-06-2026 with SPEX-10-2026 over 191 acres between U.S. 1 and Interstate 95.",
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+   },
+   {
+    "para": 1,
+    "t": "Both are recorded as deemed complete and forwarded for review, which is the stage SPEX-08-2025 was at when the record captured it.",
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+   },
+   {
+    "para": 2,
+    "t": "The county's planning commission has been recommending refusal.",
+    "src": "https://www.fredericksburgfreepress.com/2025/07/28/caroline-planning-commission-recommends-denial-of-ladysmith-data-hub-after-residents-speak-out/"
+   },
+   {
+    "para": 2,
+    "t": "It refused the Ladysmith Data Hub 4 to 2 on July 24, 2025, after residents spoke about noise, water, electricity and the risk of eminent domain, Chris Smith of Lake Caroline among them: \"I didn't come here to hear the noise that's going to come from that data center.\"",
+    "src": "https://www.fredericksburgfreepress.com/2025/07/28/caroline-planning-commission-recommends-denial-of-ladysmith-data-hub-after-residents-speak-out/"
+   },
+   {
+    "para": 2,
+    "t": "It refused Luck Stone's Carmel rezoning 3 to 1 on August 28, 2026, with one commissioner abstaining over a $25,000 proffer to a nonprofit run by another commissioner's wife.",
+    "src": "http://www.fredericksburgfreepress.com/2026/08/28/in-3-2-vote-caroline-planning-commission-recommends-denial-of-carmel-technology-and-enterprise-center/"
+   },
+   {
+    "para": 2,
+    "t": "The board of supervisors, which decides, approved CleanArc's 650 acre campus on August 12, 2025 with one vote against.",
+    "src": "https://www.fredericksburgfreepress.com/2025/09/10/caroline-officials-announce-650-acre-data-center-campus-at-former-virginia-bazaar-site/"
+   },
+   {
+    "para": 3,
+    "t": "Thornberry's 657 acre rezoning is two kilometres from Mickey's Way, the Carmel Church Data Hub five, the Carmel Technology and Enterprise Center eight, and Bull Church and ADP Ladysmith nine.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The Doswell and Ladysmith gas plants, 1,189 and 814 megawatts, are 15 and 16 kilometres off, and the North Anna nuclear station 34.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Mickey's Way, like the rest of Caroline County, is covered by no moratorium and no zoning limit on data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings",
+   "https://www.fredericksburgfreepress.com/2025/07/28/caroline-planning-commission-recommends-denial-of-ladysmith-data-hub-after-residents-speak-out/",
+   "http://www.fredericksburgfreepress.com/2026/08/28/in-3-2-vote-caroline-planning-commission-recommends-denial-of-carmel-technology-and-enterprise-center/",
+   "https://www.fredericksburgfreepress.com/2025/09/10/caroline-officials-announce-650-acre-data-center-campus-at-former-virginia-bazaar-site/"
+  ],
+  "unconfirmed": "The applicant, the owner and the outcome are unknown. Search results attributed to county records name CCCII CDEFG LLC as owner and SAC III Acquisition Co LLC as applicant for a phased data center campus with substations and on-site generation on a 95.4 acre M-1 parcel east of Colemans Mill Road off W.C. Spratt Drive, which is a different address from the Mickey's Way one in our record; we could not open the county documents to confirm either, so neither is carried above."
+ }
+]

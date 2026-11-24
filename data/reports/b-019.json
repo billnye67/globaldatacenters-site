@@ -1,0 +1,532 @@
+[
+ {
+  "id": "gemini-cyrusone-shaw-road",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CyrusOne has run a data center on Shaw Road in Loudoun County, Virginia since 2016, one of roughly 50 in the county.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "State records list it among the data centers holding air permits for backup generators, and in Loudoun that is the thing worth knowing about.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Loudoun County holds nearly half of Virginia's data center backup generators, across nearly 200 air permits.",
+    "src": "https://technical.ly/entrepreneurship/mapped-virginia-data-centers-thousands-of-backup-generators/"
+   },
+   {
+    "para": 1,
+    "t": "They mostly burn diesel and run when the grid cannot supply enough power, during outages or mechanical failures, and they are the source of the noise complaints and the calls for tighter oversight.",
+    "src": "https://technical.ly/entrepreneurship/mapped-virginia-data-centers-thousands-of-backup-generators/"
+   },
+   {
+    "para": 1,
+    "t": "Virginia has begun monitoring air quality in what the industry calls data center alley.",
+    "src": "https://www.nbcwashington.com/news/local/northern-virginia/virginia-monitoring-air-quality-in-data-center-alley/4097413/"
+   },
+   {
+    "para": 2,
+    "t": "The rules are changing.",
+    "src": "https://virginiamercury.com/2025/12/16/virginia-regulators-weigh-expanded-use-of-data-centers-polluting-generators/"
+   },
+   {
+    "para": 2,
+    "t": "For permit applications made on or after July 1, 2026, new generators must meet emissions limits at least as strict as the federal Tier 4 standard.",
+    "src": "https://virginiamercury.com/2025/12/16/virginia-regulators-weigh-expanded-use-of-data-centers-polluting-generators/"
+   },
+   {
+    "para": 2,
+    "t": "The state's environmental regulators have also made information on data center operations easier for the public to get at.",
+    "src": "https://www.insidenova.com/headlines/virginia-environmental-regulators-make-info-on-data-center-operations-more-publicly-accessible/article_24b8d5ac-a1ea-11ef-9e7f-13c10a5d96d2.html"
+   },
+   {
+    "para": 3,
+    "t": "After a power failure on July 16, 2026 set generators running across the county, one homeowner told WJLA: \"I always know when they're running their diesel generators because it irritates my throat and my lungs, and I've even woken up at night.\"",
+    "src": "https://wjla.com/news/local/data-center-noise-fumes-create-flood-of-complaints-in-loudoun-county-virginia-board-of-supervisors-sterling"
+   },
+   {
+    "para": 3,
+    "t": "County chair Phyllis Randall was due to meet the residents affected that week.",
+    "src": "https://wjla.com/news/local/data-center-noise-fumes-create-flood-of-complaints-in-loudoun-county-virginia-board-of-supervisors-sterling"
+   }
+  ],
+  "sources": [
+   "https://technical.ly/entrepreneurship/mapped-virginia-data-centers-thousands-of-backup-generators/",
+   "https://www.nbcwashington.com/news/local/northern-virginia/virginia-monitoring-air-quality-in-data-center-alley/4097413/",
+   "https://virginiamercury.com/2025/12/16/virginia-regulators-weigh-expanded-use-of-data-centers-polluting-generators/",
+   "https://www.insidenova.com/headlines/virginia-environmental-regulators-make-info-on-data-center-operations-more-publicly-accessible/article_24b8d5ac-a1ea-11ef-9e7f-13c10a5d96d2.html",
+   "https://wjla.com/news/local/data-center-noise-fumes-create-flood-of-complaints-in-loudoun-county-virginia-board-of-supervisors-sterling"
+  ],
+  "unconfirmed": "Searches on CyrusOne with Shaw Road, on Loudoun County with data center air permits, and on Shaw Road with data center found no capacity figure, water figure, hearing record or resident comment naming this building, and no count of its own generators. The generator and air quality material describes Loudoun County as a whole. A separate CyrusOne project at Broadlands, about 50 acres near Broadlands Boulevard and Belmont Ridge Road, is a different site and is not described here."
+ },
+ {
+  "id": "gemini-stack-stafford",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "STACK Infrastructure plans a data center campus at Richmond Highway and Eskimo Hill Road in Stafford, Virginia.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "A Mordor Intelligence market report describes it as a 1 gigawatt campus covering 500 acres, with 19 buildings engineered for liquid cooling and 300 megawatts of battery reserves.",
+    "src": "https://www.mordorintelligence.com/industry-reports/northern-virginia-data-center-market"
+   },
+   {
+    "para": 0,
+    "t": "A count of 23 planned buildings is carried against the project, which does not match the reporting.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "Mordor Intelligence projects the campus alone would account for 7 percent of Northern Virginia's data center market by 2030.",
+    "src": "https://www.mordorintelligence.com/industry-reports/northern-virginia-data-center-market"
+   },
+   {
+    "para": 1,
+    "t": "The same report expects rising community scrutiny to slow the pace of projects like this one, even as it predicts mega campuses will keep being built near the region's fiber hubs.",
+    "src": "https://www.mordorintelligence.com/industry-reports/northern-virginia-data-center-market"
+   },
+   {
+    "para": 1,
+    "t": "Several nearby Virginia localities, including Fairfax and Fauquier counties and the town of Warrenton, have already imposed zoning limits or bans on data centers since 2023.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "No groundbreaking date has been set and construction has not started, with operations projected for 2030.",
+    "src": "data:status"
+   }
+  ],
+  "sources": [
+   "https://www.mordorintelligence.com/industry-reports/northern-virginia-data-center-market"
+  ],
+  "unconfirmed": "Could not find Stafford County news coverage of a rezoning hearing, resident objections, or a groundbreaking date. The only detailed source found was a market-research report, not local reporting, so it is unconfirmed how residents or officials in Stafford itself have responded."
+ },
+ {
+  "id": "gemini-stack-berry-hill",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "STACK Infrastructure's Berry Hill data center project sits on Berry Hill Road at Danville, in Pittsylvania County, Virginia, and it is very large.",
+    "src": "https://cardinalnews.org/2026/05/19/a-data-center-project-in-pittsylvania-was-approved-monday-with-higher-investment-and-jobs-than-previously-announced/"
+   },
+   {
+    "para": 0,
+    "t": "On Monday May 18, 2026 the Danville-Pittsylvania Regional Industrial Facilities Authority voted unanimously to approve a performance agreement with STACK.",
+    "src": "https://cardinalnews.org/2026/05/19/a-data-center-project-in-pittsylvania-was-approved-monday-with-higher-investment-and-jobs-than-previously-announced/"
+   },
+   {
+    "para": 0,
+    "t": "The numbers had grown since the first announcement: $100 billion over 30 years and 2,500 jobs at minimum salaries of $80,500, where the earlier agreement had said $73 billion and 2,050 jobs.",
+    "src": "https://cardinalnews.org/2026/05/19/a-data-center-project-in-pittsylvania-was-approved-monday-with-higher-investment-and-jobs-than-previously-announced/"
+   },
+   {
+    "para": 0,
+    "t": "STACK bought 2,990 acres of the 3,528 acre Southern Virginia Megasite.",
+    "src": "https://cardinalnews.org/2026/05/19/a-data-center-project-in-pittsylvania-was-approved-monday-with-higher-investment-and-jobs-than-previously-announced/"
+   },
+   {
+    "para": 0,
+    "t": "Danville city council member Lee Vogler, on the authority's board, compared it to the money the region already gets from its casino: \"We've talked about what we're able to do with the money from the casino. This blows that away.\"",
+    "src": "https://cardinalnews.org/2026/05/19/a-data-center-project-in-pittsylvania-was-approved-monday-with-higher-investment-and-jobs-than-previously-announced/"
+   },
+   {
+    "para": 1,
+    "t": "The whole thing rests on a tax break.",
+    "src": "https://cardinalnews.org/2026/05/19/a-data-center-project-in-pittsylvania-was-approved-monday-with-higher-investment-and-jobs-than-previously-announced/"
+   },
+   {
+    "para": 1,
+    "t": "The agreement depends on Virginia's data center sales and use tax exemption staying in place; it currently runs to 2035, and a proposal to end it in 2027 would threaten the deal.",
+    "src": "https://cardinalnews.org/2026/05/19/a-data-center-project-in-pittsylvania-was-approved-monday-with-higher-investment-and-jobs-than-previously-announced/"
+   },
+   {
+    "para": 2,
+    "t": "Three residents spoke against it at the meeting, raising water use, environmental effects and the lack of transparency with the community; one spoke for it, saying the region had learned from the overcrowding in Northern Virginia counties.",
+    "src": "https://cardinalnews.org/2026/05/19/a-data-center-project-in-pittsylvania-was-approved-monday-with-higher-investment-and-jobs-than-previously-announced/"
+   },
+   {
+    "para": 2,
+    "t": "One resident living about four miles from the site has said publicly that he worries about groundwater and about what it does to nearby properties.",
+    "src": "https://wset.com/news/local/local-leaders-approve-100b-ai-data-campus-in-pittsylvania-county-amid-citizen-concerns-megasite-berry-hill-may-2026"
+   }
+  ],
+  "sources": [
+   "https://cardinalnews.org/2026/05/19/a-data-center-project-in-pittsylvania-was-approved-monday-with-higher-investment-and-jobs-than-previously-announced/",
+   "https://wset.com/news/local/local-leaders-approve-100b-ai-data-campus-in-pittsylvania-county-amid-citizen-concerns-megasite-berry-hill-may-2026"
+  ],
+  "unconfirmed": "Our record used to place this proposed STACK Infrastructure campus in Prince Edward County, Virginia, well north of where a tracking site reports the STACK Berry Hill project; the entry now sits on Berry Hill Road at Danville, in Pittsylvania County."
+ },
+ {
+  "id": "developers3-stack-hillsboro-por01",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "STACK Infrastructure runs a data center campus, known as POR03, in Hillsboro, in Washington County, Oregon.",
+    "src": "data:aliases"
+   },
+   {
+    "para": 0,
+    "t": "The campus currently operates about 72 megawatts across three buildings, next to a dedicated substation and a local fiber ring built for the area's data centers.",
+    "src": "https://www.blackridgeresearch.com/blog/list-of-upcoming-new-data-center-projects-oregon"
+   },
+   {
+    "para": 0,
+    "t": "STACK is adding three more buildings and roughly 121 more megawatts, with the first addition due by the fourth quarter of 2027, which would bring the campus to about 200 megawatts total.",
+    "src": "https://www.blackridgeresearch.com/blog/list-of-upcoming-new-data-center-projects-oregon"
+   },
+   {
+    "para": 1,
+    "t": "On July 26, 2026, Hillsboro's city council enacted a 120-day moratorium on new data center permits, following a lawsuit and pushback from residents.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "The moratorium was set to run until November 23, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Whether the moratorium reaches this campus's expansion, which is already under construction, is not clear.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Hillsboro already has nine data centers in Washington County, including campuses run by Meta, QTS, T5, Aligned, NTT, Flexential and Digital Realty within about 3 kilometers of this site.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.blackridgeresearch.com/blog/list-of-upcoming-new-data-center-projects-oregon"
+  ],
+  "unconfirmed": "The news article behind our moratorium record blocked automated access, so the substance of the lawsuit, which residents were involved, and the council vote count are unconfirmed."
+ },
+ {
+  "id": "gemini-stack-svy02a",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "STACK Infrastructure finished a 48 megawatt data center in Santa Clara, California, called SVY02A, with its own substation and eight data halls.",
+    "src": "https://www.datacenterdynamics.com/en/news/silicon-valley-data-centers-stand-empty-awaiting-power-connections-report/"
+   },
+   {
+    "para": 0,
+    "t": "It cannot be switched on.",
+    "src": "https://www.datacenterdynamics.com/en/news/silicon-valley-data-centers-stand-empty-awaiting-power-connections-report/"
+   },
+   {
+    "para": 1,
+    "t": "The building sits complete and unpowered while the city owned utility, Silicon Valley Power, catches up.",
+    "src": "https://www.tomshardware.com/tech-industry/data-centers-in-nvidias-hometown-sit-idle-as-grid-struggles-to-keep-up"
+   },
+   {
+    "para": 1,
+    "t": "Together with a Digital Realty facility nearby it accounts for close to 100 megawatts of finished capacity standing idle.",
+    "src": "https://www.tomshardware.com/tech-industry/data-centers-in-nvidias-hometown-sit-idle-as-grid-struggles-to-keep-up"
+   },
+   {
+    "para": 1,
+    "t": "Santa Clara has 57 data center facilities active or in progress and is spending $450 million on grid upgrades due to finish in 2028.",
+    "src": "https://www.tomshardware.com/tech-industry/data-centers-in-nvidias-hometown-sit-idle-as-grid-struggles-to-keep-up"
+   },
+   {
+    "para": 1,
+    "t": "The utility says it is sequencing power delivery between customers as new substations and transmission lines come on.",
+    "src": "https://www.tomshardware.com/tech-industry/data-centers-in-nvidias-hometown-sit-idle-as-grid-struggles-to-keep-up"
+   },
+   {
+    "para": 1,
+    "t": "STACK has 12 megawatts available immediately from its own substation and expects more under its agreement with the utility through 2027.",
+    "src": "https://www.tomshardware.com/tech-industry/data-centers-in-nvidias-hometown-sit-idle-as-grid-struggles-to-keep-up"
+   },
+   {
+    "para": 2,
+    "t": "Neither project has a firm date for full energization.",
+    "src": "https://www.tomshardware.com/tech-industry/data-centers-in-nvidias-hometown-sit-idle-as-grid-struggles-to-keep-up"
+   },
+   {
+    "para": 2,
+    "t": "This is the constraint that decides where these buildings go, and in the town Nvidia is headquartered in it has stopped two of them cold.",
+    "src": "https://www.tomshardware.com/tech-industry/data-centers-in-nvidias-hometown-sit-idle-as-grid-struggles-to-keep-up"
+   }
+  ],
+  "sources": [
+   "https://www.tomshardware.com/tech-industry/data-centers-in-nvidias-hometown-sit-idle-as-grid-struggles-to-keep-up",
+   "https://www.datacenterdynamics.com/en/news/silicon-valley-data-centers-stand-empty-awaiting-power-connections-report/"
+  ],
+  "unconfirmed": "Searches on STACK with Santa Clara, on Santa Clara with data center power, and on Silicon Valley Power with data centers found no hearing record, no resident comment and no water figure for this building. When it was completed is not stated, and the original Bloomberg reporting behind these accounts could not be read directly."
+ },
+ {
+  "id": "digitalrealty-buildings-digital-realty-2401-walsh-santa-clara",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Digital Realty operates a data center at 2401 Walsh Avenue in Santa Clara, California, part of its larger campus there, leased to a single unnamed tenant under a triple net lease.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Santa Clara is the place where this industry has run out of electricity.",
+    "src": "https://www.tomshardware.com/tech-industry/data-centers-in-nvidias-hometown-sit-idle-as-grid-struggles-to-keep-up"
+   },
+   {
+    "para": 1,
+    "t": "A finished Digital Realty building in the city sits unpowered alongside STACK's 48 megawatt SVY02A, close to 100 megawatts of completed capacity that cannot be switched on.",
+    "src": "https://www.tomshardware.com/tech-industry/data-centers-in-nvidias-hometown-sit-idle-as-grid-struggles-to-keep-up"
+   },
+   {
+    "para": 1,
+    "t": "The city has 57 data center facilities active or in progress and is spending $450 million on grid upgrades due to finish in 2028, with the municipal utility sequencing power delivery between customers as new substations and transmission lines come on.",
+    "src": "https://www.tomshardware.com/tech-industry/data-centers-in-nvidias-hometown-sit-idle-as-grid-struggles-to-keep-up"
+   },
+   {
+    "para": 1,
+    "t": "Neither idle project has a firm date for full energization.",
+    "src": "https://www.datacenterdynamics.com/en/news/silicon-valley-data-centers-stand-empty-awaiting-power-connections-report/"
+   },
+   {
+    "para": 2,
+    "t": "Whether the idle building is this one at 2401 Walsh Avenue is not stated in the reporting.",
+    "src": "data:note"
+   },
+   {
+    "para": 2,
+    "t": "Twenty-five data centers now sit in Santa Clara County, most of them within a few streets of this one.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://www.tomshardware.com/tech-industry/data-centers-in-nvidias-hometown-sit-idle-as-grid-struggles-to-keep-up",
+   "https://www.datacenterdynamics.com/en/news/silicon-valley-data-centers-stand-empty-awaiting-power-connections-report/"
+  ],
+  "unconfirmed": "Searches on the address with Santa Clara, on Santa Clara with data center power, and on Digital Realty with Santa Clara found no capacity figure, water figure, hearing record or resident comment naming this building, and no way to establish whether it is the Digital Realty facility described as standing idle. The tenant is named neither in our record nor in the trade listing."
+ },
+ {
+  "id": "gemini-lancium-clean",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Lancium Clean Campus, a data center site at Interstate 20 and FM 600 in Abilene, in Jones County, Texas, is the first site of the Stargate programme announced in January 2025 by OpenAI, Oracle and SoftBank, and goes by several names: Stargate Site 1, Lancium Clean Campus and the Crusoe Abilene campus.",
+    "src": "https://lancium.com/2025/03/18/crusoe-expands-ai-data-center-campus-in-abilene-to-1-2-gigawatts/"
+   },
+   {
+    "para": 0,
+    "t": "Crusoe Energy is the tenant, and Oracle leases capacity from Crusoe to run OpenAI's work there.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "The campus was expanded to 1.2 gigawatts in March 2025, with an interconnection approved by ERCOT.",
+    "src": "https://lancium.com/2025/03/18/crusoe-expands-ai-data-center-campus-in-abilene-to-1-2-gigawatts/"
+   },
+   {
+    "para": 1,
+    "t": "Lancium's case for the site rests on wind.",
+    "src": "https://lancium.com/locations-abilene/"
+   },
+   {
+    "para": 1,
+    "t": "The company says Abilene has plentiful cheap wind power, land and workforce, and that the campus can run without straining the local grid.",
+    "src": "https://lancium.com/locations-abilene/"
+   },
+   {
+    "para": 1,
+    "t": "On water it says all its campuses use closed loop cooling that recirculates the same water for up to 15 years after the initial fill, with no evaporation in normal operation.",
+    "src": "https://lancium.com/locations-abilene/"
+   },
+   {
+    "para": 1,
+    "t": "Those are the developer's claims, and no independent measurement of either has been published.",
+    "src": "data:note"
+   },
+   {
+    "para": 2,
+    "t": "Abilene's leadership has welcomed it, framing the campus as the city's largest single investment since Dyess Air Force Base.",
+    "src": "https://www.crusoe.ai/about/communities/abilene"
+   },
+   {
+    "para": 2,
+    "t": "Three other large sites tied to the same build out sit within 15 kilometers.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The state has since slowed what follows: on August 3, 2026 Texas stopped approving new grid connections for large loads pending an audit.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://lancium.com/2025/03/18/crusoe-expands-ai-data-center-campus-in-abilene-to-1-2-gigawatts/",
+   "https://lancium.com/locations-abilene/",
+   "https://www.crusoe.ai/about/communities/abilene"
+  ],
+  "unconfirmed": "Searches on Lancium with Abilene, on Abilene with Stargate data center, and on Crusoe with Abilene residents returned the developers' own materials and a community resource hub they run, and no independent local reporting, hearing record or resident comment. Every claim about water and grid impact above comes from the companies building the campus. No measured water or power figure exists in public."
+ },
+ {
+  "id": "gemini-reeves-county-solar-data-ranch",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A 1.1 gigawatt data center and solar project called the Reeves County Solar Data Ranch is listed as proposed, with LandBridge and NRG Energy as developers.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "The location and county on record are not Reeves County at all: they place the project in Mills County, near Goldthwaite, about 400 kilometers to the east.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Mills County is also where a 450 megawatt Microsoft data center and a 1,400 megawatt Vantage Data Centers campus are listed.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "Reeves County, in the Permian Basin, is a plausible site for a solar and data center project of this kind, which is what makes the discrepancy hard to resolve from the record alone.",
+    "src": "data:note"
+   },
+   {
+    "para": 2,
+    "t": "Whichever county it belongs in, the project now sits behind a state freeze on new grid connections for large loads, in force since August 3, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Three searches found nothing that settles which county is right, and no coverage of a project by this name in either one. The two other Mills County projects our record carries could not be verified independently either."
+ },
+ {
+  "id": "gemini-copt-van-meter",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A 1 gigawatt COPT Van Meter data center was filed with coordinates placing it in Story County, Iowa, near Ames, where the name and the location did not match.",
+    "src": "data:county"
+   },
+   {
+    "para": 0,
+    "t": "The reporting resolves it: the project is at Van Meter, in Dallas County, west of Des Moines, and the coordinates are wrong.",
+    "src": "https://www.businessrecord.com/breaking-maryland-data-center-developer-buys-farmland-in-van-meter/"
+   },
+   {
+    "para": 1,
+    "t": "COPT Defense Properties, a Maryland company, bought more than 300 acres of Van Meter farmland through a vehicle called IA 340 Trail LLC for $24.6 million, having acquired 365 acres there in 2024.",
+    "src": "https://www.businessrecord.com/breaking-maryland-data-center-developer-buys-farmland-in-van-meter/"
+   },
+   {
+    "para": 1,
+    "t": "The parcels were rezoned specifically to attract a data center.",
+    "src": "https://www.businessrecord.com/breaking-maryland-data-center-developer-buys-farmland-in-van-meter/"
+   },
+   {
+    "para": 1,
+    "t": "Company officials have asked Van Meter about the water and electricity available and about planned infrastructure work, and have told local officials the tenant would be a heavy power user across several buildings.",
+    "src": "https://www.businessrecord.com/breaking-maryland-data-center-developer-buys-farmland-in-van-meter/"
+   },
+   {
+    "para": 1,
+    "t": "The tenant has not been named.",
+    "src": "data:note"
+   },
+   {
+    "para": 2,
+    "t": "This would be the second data center project in a town of a few thousand people.",
+    "src": "https://www.businessrecord.com/breaking-maryland-data-center-developer-buys-farmland-in-van-meter/"
+   },
+   {
+    "para": 2,
+    "t": "Microsoft bought nearly 400 acres in Van Meter's Vision Park in January.",
+    "src": "https://www.businessrecord.com/breaking-maryland-data-center-developer-buys-farmland-in-van-meter/"
+   },
+   {
+    "para": 3,
+    "t": "Iowa passed a law in its 2026 session requiring data center developments to report annual water use and energy demand to the state.",
+    "src": "https://flatwaterfreepress.org/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+   }
+  ],
+  "sources": [
+   "https://www.businessrecord.com/breaking-maryland-data-center-developer-buys-farmland-in-van-meter/",
+   "https://www.datacenterdynamics.com/en/news/copt-acquires-300-acres-outside-des-moines-iowa/",
+   "https://flatwaterfreepress.org/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+  ],
+  "unconfirmed": "Searches on COPT with Van Meter, on Van Meter Iowa with data center, and on Dallas County Iowa with data center found no hearing record, vote or resident comment on the rezoning, and no confirmation of the 1 gigawatt figure our record carries. The year of the $24.6 million purchase and of Microsoft's January acquisition is not given in the report. The reporting requirement cited is Nebraska's parallel law described in coverage of the region; Iowa's own 2026 transparency bill was not read directly and is noted here with that caveat."
+ },
+ {
+  "id": "gemini-black-mountain-energy-fort-worth",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Black Mountain Energy is building a $10 billion data center campus in southeast Fort Worth, in Tarrant County, Texas, on 450 acres rezoned from agricultural to industrial.",
+    "src": "https://www.cbsnews.com/texas/news/fort-worth-data-center-moratorium-neighborhood-impact-debate-august-2026/"
+   },
+   {
+    "para": 0,
+    "t": "Behind it sits Weston Gardens, a historic garden and wedding venue.",
+    "src": "https://www.cbsnews.com/texas/news/fort-worth-data-center-moratorium-neighborhood-impact-debate-august-2026/"
+   },
+   {
+    "para": 0,
+    "t": "Its owner, Sue Weston, asked: \"What's it going to do to the birds? Am I going to lose revenue from the weddings and things we've developed over the years?\"",
+    "src": "https://www.cbsnews.com/texas/news/fort-worth-data-center-moratorium-neighborhood-impact-debate-august-2026/"
+   },
+   {
+    "para": 0,
+    "t": "Her other worries are vibration damaging the property's historic structures and what the campus does to water.",
+    "src": "https://www.cbsnews.com/texas/news/fort-worth-data-center-moratorium-neighborhood-impact-debate-august-2026/"
+   },
+   {
+    "para": 1,
+    "t": "The councilman for the district, Chris Nettles, backs the project.",
+    "src": "https://www.cbsnews.com/texas/news/fort-worth-data-center-moratorium-neighborhood-impact-debate-august-2026/"
+   },
+   {
+    "para": 1,
+    "t": "\"We don't believe that it's going to affect the garden,\" he said, pointing to a planned 300 foot buffer.",
+    "src": "https://www.cbsnews.com/texas/news/fort-worth-data-center-moratorium-neighborhood-impact-debate-august-2026/"
+   },
+   {
+    "para": 2,
+    "t": "On August 25, 2026 the city council voted 7 to 4 to approve zoning amendments and a revised site plan covering 187 acres of the campus, after divided testimony from residents.",
+    "src": "https://www.aol.com/news/10-billion-fort-worth-data-003222325.html"
+   },
+   {
+    "para": 2,
+    "t": "Black Mountain had amended the plan to raise building height to 70 feet, and the barrier between the campus and homes was doubled from 150 feet to 300.",
+    "src": "https://www.aol.com/news/10-billion-fort-worth-data-003222325.html"
+   },
+   {
+    "para": 3,
+    "t": "Residents have organized as DFW Communities Over Data Centers and the 2871 Community Coalition.",
+    "src": "https://www.aol.com/news/10-billion-fort-worth-data-003222325.html"
+   },
+   {
+    "para": 3,
+    "t": "A majority of the city council had called for a moratorium in July 2026, and on August 11 the council voted unanimously to take the first step toward a 90 day pause on new data center proposals, to take effect around December 2026.",
+    "src": "https://www.cbsnews.com/texas/news/fort-worth-data-center-moratorium-neighborhood-impact-debate-august-2026/"
+   },
+   {
+    "para": 3,
+    "t": "The pause exempts projects already approved, which includes this one.",
+    "src": "https://www.cbsnews.com/texas/news/fort-worth-data-center-moratorium-neighborhood-impact-debate-august-2026/"
+   },
+   {
+    "para": 4,
+    "t": "Tarrant County already has eight data center projects, and Meta operates a data center immediately next to this site.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "A state freeze on new grid connections for large power users, ordered on August 3, 2026, sits on top of the city's own pause.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.cbsnews.com/texas/news/fort-worth-data-center-moratorium-neighborhood-impact-debate-august-2026/",
+   "https://www.aol.com/news/10-billion-fort-worth-data-003222325.html"
+  ],
+  "unconfirmed": "Our record puts the campus at 980 megawatts; none of the coverage we could read gives a capacity figure, and no water figure was published either. The Fort Worth Report and The Real Deal accounts of the August votes refused our requests, so the August 25 vote count and site plan detail come from a syndicated version of the Fort Worth Star-Telegram report. Whether the 90 day moratorium was finally adopted was not established."
+ }
+]

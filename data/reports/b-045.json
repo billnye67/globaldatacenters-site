@@ -1,0 +1,472 @@
+[
+ {
+  "id": "developers2-edgecore-reno-sparks",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "EdgeCore has three data centers in the Tahoe Reno Industrial Center, a business park in Storey County, Nevada, larger than the city of Detroit.",
+    "src": "data:source_notes"
+   },
+   {
+    "para": 0,
+    "t": "About 13 million square feet was under construction across the park as of May 2025, with Google, Microsoft, Apple, Switch, Tract, Novva, Vantage and PowerHouse all building or expanding there.",
+    "src": "https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/"
+   },
+   {
+    "para": 1,
+    "t": "Nevada gets about 10 inches of rain a year, a third of the national average, and more than half the state is in moderate to exceptional drought. More than half its groundwater basins are over-appropriated, meaning the water rights granted exceed what is believed to be underground. The Tracy Segment basin, which partly supplies the park, already draws more than it can sustain each year.",
+    "src": "https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/"
+   },
+   {
+    "para": 1,
+    "t": "Shaolei Ren of UC Riverside calculated that the 12 data center projects seeking capacity from NV Energy would directly consume between 860 million and 5.7 billion gallons a year, with another 15.5 billion gallons consumed indirectly at power plants.",
+    "src": "https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/"
+   },
+   {
+    "para": 2,
+    "t": "Sean McKenna, who leads hydrologic sciences at the Desert Research Institute, said: \"We can't consider each of these as a one-off, without considering that there may be tens or dozens of these in the next 15 years.\"",
+    "src": "https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/"
+   },
+   {
+    "para": 2,
+    "t": "Data center proposals have asked NV Energy for nearly six gigawatts of capacity over the coming decade, which would require expanding Nevada's power sector by about 40 percent for one industry.",
+    "src": "https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/"
+   },
+   {
+    "para": 3,
+    "t": "Novva's Tahoe Reno site shares EdgeCore's location, with Tract's 686 acre park about a kilometer away, Switch's 2,000 acre Citadel campus about 2 kilometers away, Vantage Reno about 3 kilometers away and Google's 161 megawatt Storey County campus about 4 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/",
+   "https://www.edgecore.com/"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure specific to the EdgeCore buildings was found. The water and power figures given here cover the industrial park and the state, not this site."
+ },
+ {
+  "id": "developers2-edgecore-culpeper",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Culpeper County has two data centers and expects seven more campuses inside a 1,000 acre technology zone, plus an approved Amazon site.",
+    "src": "https://wjla.com/news/local/the-data-center-rush-reaches-rural-areas-like-culpeper-county-in-virginia-board-of-supervisors-july-2026"
+   },
+   {
+    "para": 0,
+    "t": "EdgeCore's campus on Nalles Mill Road is one of them: 1.4 million square feet at initial build-out, three buildings of 72 megawatts each. Power delivery is expected to begin in early 2028, supplied by Rappahannock Electric Cooperative.",
+    "src": "https://www.datacentermap.com/usa/virginia/culpeper/edgecore-culpeper-campus/"
+   },
+   {
+    "para": 1,
+    "t": "The county's economic development director, Bryan Rothamel, cites a 2024 study projecting $2.2 billion in total tax revenue over 15 years. Residents have noted the county lacks the special data center computer tax that Loudoun and Prince William levy.",
+    "src": "https://wjla.com/news/local/the-data-center-rush-reaches-rural-areas-like-culpeper-county-in-virginia-board-of-supervisors-july-2026"
+   },
+   {
+    "para": 2,
+    "t": "At a board meeting on July 9, 2026, Supervisor Gary Deal said of the debate: \"I think there's a lot of fabrication that's going on as far as education,\" and maintained the county had planned its technology zone properly.",
+    "src": "https://wjla.com/news/local/the-data-center-rush-reaches-rural-areas-like-culpeper-county-in-virginia-board-of-supervisors-july-2026"
+   },
+   {
+    "para": 2,
+    "t": "Residents disagreed. Amanda, from Richardville, said: \"It felt like a personal insult to the community when our entire community is completely enraged,\" and spoke about losing rural character and trees. Another resident, Frank, said: \"Culpeper County absolutely does not need these data centers.\"",
+    "src": "https://wjla.com/news/local/the-data-center-rush-reaches-rural-areas-like-culpeper-county-in-virginia-board-of-supervisors-july-2026"
+   },
+   {
+    "para": 2,
+    "t": "Their objections were energy use, water use, noise, electricity bills and environmental damage.",
+    "src": "https://wjla.com/news/local/the-data-center-rush-reaches-rural-areas-like-culpeper-county-in-virginia-board-of-supervisors-july-2026"
+   },
+   {
+    "para": 3,
+    "t": "The technology zone is filling fast. CloudHQ's 120 acre Culpeper site is about a kilometer away, Equinix's high security campus and DataBank's 85 acre campus about 2 kilometers away, and an AWS site under construction at Stevensburg about 7 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Culpeper County has zoning limits on data centers, as do Fauquier and Prince William counties, and Warrenton has an outright ban.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://wjla.com/news/local/the-data-center-rush-reaches-rural-areas-like-culpeper-county-in-virginia-board-of-supervisors-july-2026",
+   "https://www.datacentermap.com/usa/virginia/culpeper/edgecore-culpeper-campus/",
+   "https://www.edgecore.com/"
+  ],
+  "unconfirmed": "The residents quoted gave only first names in the source. No water use figure for the EdgeCore campus was found, and it is not established whether the zoning limits our record lists for Culpeper County came before or after this project was approved."
+ },
+ {
+  "id": "developers2-edgecore-santa-clara",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "EdgeCore's building on Juliette Lane is one of 55 data centers in Santa Clara, California, a city in Santa Clara County that has run out of power to connect any more.",
+    "src": "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/"
+   },
+   {
+    "para": 0,
+    "t": "Nico Procos, chief operating officer of Silicon Valley Power, the city owned utility, said: \"We've had requests to add 500 megawatts of load, so that's growing from our current peak of about 720.\"",
+    "src": "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/"
+   },
+   {
+    "para": 0,
+    "t": "City spokesperson Janine De la Vega said the grid caps new data centers, so nothing connects beyond what the utility has already approved. Grid projects meant to relieve the constraint are targeted for 2029.",
+    "src": "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/"
+   },
+   {
+    "para": 1,
+    "t": "The city takes $40.9 million a year from the buildings, across property taxes, sales taxes and utility payments, according to economic development director Reena Brilliot. Planning Commissioner Priya Cherukuru has pressed for deeper environmental review, citing the land, power and water they consume and their diesel backup generators.",
+    "src": "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/"
+   },
+   {
+    "para": 2,
+    "t": "EdgeCore's own Silicon Valley campus sits at the same location, with Digital Realty's 2401 Walsh building, AWS's Mission College site under construction, Vantage Santa Clara I and NTT Silicon Valley all about a kilometer away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/",
+   "https://www.edgecore.com/"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure specific to the EdgeCore Santa Clara building was found, and no council hearing or objection about it. The power constraint described here applies to the whole city."
+ },
+ {
+  "id": "aligned-aligned-mink-street-etna",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one was turned down.",
+    "src": "data:blocked.how"
+   },
+   {
+    "para": 0,
+    "t": "Aligned Data Centers proposed a data center on Mink Street SW in Etna, inside the city of Pataskala in Licking County, Ohio, at 200 megawatts and, by the company's own figure, more than $5 billion.",
+    "src": "data:blocked.size"
+   },
+   {
+    "para": 0,
+    "t": "The planning commission recommended denial by 5 votes to 2. On August 25, 2026 the city council voted unanimously to uphold that denial.",
+    "src": "https://www.nbc4i.com/news/local-news/central-ohio-news/datacenters/pataskala-city-council-votes-against-data-center-proposal/amp/"
+   },
+   {
+    "para": 1,
+    "t": "Council president Brandon Galik gave the reason: \"There was big concerns with the power alone. The design was incomplete. We didn't have the full design for the power.\"",
+    "src": "https://www.nbc4i.com/news/local-news/central-ohio-news/datacenters/pataskala-city-council-votes-against-data-center-proposal/amp/"
+   },
+   {
+    "para": 1,
+    "t": "Residents had raised water, land and the substations and transmission lines that would follow. One told the council that the noise \"is even bigger concern because it will never go away.\"",
+    "src": "https://www.nbc4i.com/news/local-news/central-ohio-news/datacenters/pataskala-city-council-votes-against-data-center-proposal/amp/"
+   },
+   {
+    "para": 1,
+    "t": "Holly Wenzinger pointed to the absence of studies on long term effects. Brandyn Bernard raised health concerns and objected to a four story building going up in an agricultural area.",
+    "src": "https://www.nbc4i.com/news/local-news/central-ohio-news/datacenters/pataskala-city-council-votes-against-data-center-proposal/amp/"
+   },
+   {
+    "para": 2,
+    "t": "A referendum in November will let Pataskala voters decide whether to allow data centers drawing more than 25 megawatts at all.",
+    "src": "https://www.nbc4i.com/news/local-news/central-ohio-news/datacenters/pataskala-city-council-votes-against-data-center-proposal/amp/"
+   },
+   {
+    "para": 3,
+    "t": "The refusal stands out because of what surrounds it: Microsoft's Etna Parkway site about 3 kilometers away, Meta Etna about 6 kilometers away, QTS New Albany 2 about 7 kilometers away and Meta's 562 megawatt Prometheus campus about 8 kilometers away, with 13 data centers counted in Licking County.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Other townships nearby have gone further, with moratoriums at Sunbury, Jackson Township, St. Albans Township, Muhlenberg and Scioto Township, and an outright ban at South Bloomfield.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.nbc4i.com/news/local-news/central-ohio-news/datacenters/pataskala-city-council-votes-against-data-center-proposal/amp/"
+  ],
+  "unconfirmed": "The source reached does not give the megawatt figure, investment or street address, so those come from our own record. It is not known whether Aligned has appealed, resubmitted with a completed power design, or abandoned the site, and the result of the November referendum was not established."
+ },
+ {
+  "id": "digitalrealty-buildings-digital-realty-371-gough-toronto",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Digital Realty's data centre at 371 Gough Road is a single storey building of 104,000 square feet on a ten acre site, alongside established fibre routes.",
+    "src": "https://www.digitalrealty.com/data-centers/americas/toronto/yyz10"
+   },
+   {
+    "para": 0,
+    "t": "The company and the directories list it as YYZ10 and place it in Markham, Ontario, rather than in Toronto proper, about 30 kilometres from downtown.",
+    "src": "https://www.datacentermap.com/canada/toronto/371-gough-road/"
+   },
+   {
+    "para": 1,
+    "t": "Distances recorded against it were measured from a downtown Toronto address: Oracle Toronto about four kilometres away, Digital Realty's own 151 Front Street building and Equinix's downtown hub about five. From Markham they are all considerably further.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "On water, the CBC has reported that establishing how much any individual Canadian data centre uses is close to impossible, and a University of Toronto professor of municipal water engineering has warned that cooling them could strain the country's water infrastructure.",
+    "src": "https://www.cbc.ca/news/ai-data-centre-canada-water-use-9.6939684"
+   }
+  ],
+  "sources": [
+   "https://www.digitalrealty.com/data-centers/americas/toronto/yyz10",
+   "https://www.datacentermap.com/canada/toronto/371-gough-road/",
+   "https://www.cbc.ca/news/ai-data-centre-canada-water-use-9.6939684"
+  ],
+  "unconfirmed": "Searches on Digital Realty with 371 Gough, on Toronto with data centre residents, and on Markham with data centre found no capacity figure, water figure, opening date, council decision, planning record or resident comment about this building. Our record gives the address as 371 Gough Avenue in Toronto; the company gives 371 Gough Road in Markham, about 30 kilometres from downtown Toronto, which also makes the recorded distances to the downtown cluster doubtful."
+ },
+ {
+  "id": "digitalrealty-buildings-ascenty-fortaleza",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Ascenty's Fortaleza data centre is at Maracanau, in Ceara on Brazil's northeast coast, near the city's large industrial districts.",
+    "src": "https://ascenty.com/en/data-centers-en/location/brazil/ceara/fortaleza-1/"
+   },
+   {
+    "para": 0,
+    "t": "It has 90,000 square feet of raised floor and 12 megawatts of power.",
+    "src": "https://ascenty.com/en/data-centers-en/location/brazil/ceara/fortaleza-1/"
+   },
+   {
+    "para": 0,
+    "t": "The point of the location is the connection: it links directly to the submarine cable landing stations at Praia do Futuro, where several of the transatlantic and South American cables come ashore.",
+    "src": "https://ascenty.com/en/data-centers-en/location/brazil/ceara/fortaleza-1/"
+   },
+   {
+    "para": 1,
+    "t": "Ascenty says it runs on entirely renewable electricity, and has signed with Casa dos Ventos what the companies describe as the largest energy contract for data centres in Latin America.",
+    "src": "https://ascenty.com/en/data-centers-en/location/brazil/"
+   },
+   {
+    "para": 2,
+    "t": "Brazil is arguing about whether this industry belongs there at all.",
+    "src": "https://restofworld.org/2025/brazil-data-center-environmental-risk/"
+   },
+   {
+    "para": 2,
+    "t": "About a third of the country's data centres are in Sao Paulo, which had an acute water crisis about a decade ago, and the government's ambition to make Brazil a sustainable data centre hub is met with scepticism by environmentalists.",
+    "src": "https://restofworld.org/2025/brazil-data-center-environmental-risk/"
+   },
+   {
+    "para": 2,
+    "t": "An engineering professor at the Federal University of Rio de Janeiro has said the build out is putting significant pressure on the energy system and could have a major environmental effect, particularly given where the buildings are going.",
+    "src": "https://dialogue.earth/en/energy/ai-for-whom-inside-brazils-data-centre-boom/"
+   }
+  ],
+  "sources": [
+   "https://ascenty.com/en/data-centers-en/location/brazil/ceara/fortaleza-1/",
+   "https://ascenty.com/en/data-centers-en/location/brazil/",
+   "https://restofworld.org/2025/brazil-data-center-environmental-risk/",
+   "https://dialogue.earth/en/energy/ai-for-whom-inside-brazils-data-centre-boom/"
+  ],
+  "unconfirmed": "Searches on Ascenty with Fortaleza, on Ceara with data centre, and on Brazil with data centre water and residents found no water figure, planning record or resident comment naming this facility, and no Brazilian local reporting on it. The renewable energy claim is the company's own."
+ },
+ {
+  "id": "digitalrealty-buildings-ascenty-queretaro-2",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Ascenty's second Queretaro data centre stands at San Juan del Rio, in a semi-desert Mexican state where about 20 data centres now operate.",
+    "src": "https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town"
+   },
+   {
+    "para": 0,
+    "t": "Guadalupe Hernandez is 68 and grows blackberries in Colon, in the same state. She gets water every 15 days and has lost 60 percent of her crop.",
+    "src": "https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town"
+   },
+   {
+    "para": 0,
+    "t": "Agripina Nieves, who runs a restaurant near the La Soledad dam, gets water every eight days. \"We had never had such water scarcity,\" she said. The drought has run two years, and from April to July 2024 was rated exceptional, the highest category of scarcity.",
+    "src": "https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town"
+   },
+   {
+    "para": 1,
+    "t": "Water for data centres here comes from the Valle de San Juan del Rio aquifer, which the National Water Commission calculates is already 56.8 billion litres in deficit.",
+    "src": "https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town"
+   },
+   {
+    "para": 1,
+    "t": "Most of the state's data centres were built in the past three years. Microsoft, Google and Amazon Web Services all began operating in Queretaro between May 2024 and January 2025.",
+    "src": "https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town"
+   },
+   {
+    "para": 2,
+    "t": "How much water they take is not clear. Microsoft holds concessions to extract 25 million litres a year from underground for one of its two units, and says its centres use water less than 5 percent of the year. Amazon says its design is air cooled and needs no ongoing cooling water.",
+    "src": "https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town"
+   },
+   {
+    "para": 2,
+    "t": "Marco del Prete, Queretaro's secretary for sustainable development, compared the water used by 20 data centres to what a restaurant uses in a month. The environmental campaigner Teresa Roldan disputed that: \"There is no way of knowing how water is being distributed to those data centres.\"",
+    "src": "https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town"
+   },
+   {
+    "para": 3,
+    "t": "Governor Mauricio Kuri's administration offers tax and land incentives to attract the industry, which has drawn $10 billion so far.",
+    "src": "https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town"
+   },
+   {
+    "para": 3,
+    "t": "Ana Valdivia, who lectures on AI at Oxford University, said companies are \"going to places that they feel are welcoming, first because maybe the governments are facilitating that.\" Arman Shehabi of Lawrence Berkeley National Laboratory said that while some data centres have become more water efficient, they \"still add to the overall demand for the resource.\"",
+    "src": "https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town"
+   },
+   {
+    "para": 4,
+    "t": "Residents living near data centres in the state told reporters their taps run dry and they have frequent power cuts.",
+    "src": "https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town"
+   }
+  ],
+  "sources": [
+   "https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town",
+   "https://baxtel.com/data-centers/digital-realty-trust"
+  ],
+  "unconfirmed": "No water consumption figure for the Ascenty Queretaro 2 site specifically was found, and the reporting quoted here concerns the state's data centres collectively, with Microsoft's units named rather than Ascenty's. The residents quoted live in Colon, a different municipality from San Juan del Rio where this building stands."
+ },
+ {
+  "id": "digitalrealty-buildings-digital-realty-pdx10-hillsboro",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Digital Realty's PDX10 is a legacy DuPont Fabros data center on Aloclek Drive in Hillsboro, in Washington County, Oregon.",
+    "src": "https://baxtel.com/data-centers/digital-realty-trust"
+   },
+   {
+    "para": 0,
+    "t": "Hillsboro has 35 data centers, more than any other Oregon city, with seven more under construction or in permitting, and it has become the first city in the state to stop taking applications for them.",
+    "src": "https://www.opb.org/article/2026/07/27/hillsboro-approves-data-center-moratorium/"
+   },
+   {
+    "para": 0,
+    "t": "On July 28, 2026 the city council voted unanimously at a special morning meeting for a 120 day moratorium on new land use applications for data centers and battery storage. City Attorney Chad Jacobs noted state law caps moratoriums at 120 days, with one extension possible.",
+    "src": "https://www.opb.org/article/2026/07/27/hillsboro-approves-data-center-moratorium/"
+   },
+   {
+    "para": 0,
+    "t": "Mayor Beach Pace deliberately gave only one day's notice of the meeting, to stop companies rushing applications in before it took effect. Existing facilities and applications already filed are unaffected.",
+    "src": "https://www.opb.org/article/2026/07/27/hillsboro-approves-data-center-moratorium/"
+   },
+   {
+    "para": 1,
+    "t": "The backlash had grown that spring, when residents found out how long the property tax breaks ran for.",
+    "src": "https://www.opb.org/article/2026/07/27/hillsboro-approves-data-center-moratorium/"
+   },
+   {
+    "para": 1,
+    "t": "A resident named Barbara told the council that \"Taking a pause to study, reflect and gather all the facts is both prudent and ethical\" leadership. The Washington County Chamber of Commerce and unions opposed the moratorium, with chamber vice president Jen Little arguing it should come only \"after the established planning processes have been completed, stakeholders have had meaningful opportunity to participate.\"",
+    "src": "https://www.opb.org/article/2026/07/27/hillsboro-approves-data-center-moratorium/"
+   },
+   {
+    "para": 2,
+    "t": "PDX10 sits in the middle of the cluster the pause is aimed at. NTT's Hillsboro campus is about a kilometer away, the 180 megawatt Meta-QTS Hillsboro 2, a STACK site under construction and CoreWeave's Hillsboro site about 3 kilometers away, and QTS Hillsboro 3 about 4 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.opb.org/article/2026/07/27/hillsboro-approves-data-center-moratorium/",
+   "https://baxtel.com/data-centers/digital-realty-trust"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure specific to PDX10 was found, and no source reached says whether the moratorium affects it. Reporting elsewhere puts residential electricity rate rises near 50 percent, data centers paying less than half the household rate per kilowatt hour, a $200 million Hillsboro substation and $128 million lost by the Hillsboro School District to tax abatements in 2024, but those pages were not retrieved and the figures are not confirmed here."
+ },
+ {
+  "id": "digitalrealty-buildings-ascenty-paulinia",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Ascenty's Paulinia data centre sits in the Campinas area of Sao Paulo state, inside one of Brazil's two main clusters.",
+    "src": "https://ascenty.com/en/data-centers-en/location/brazil/"
+   },
+   {
+    "para": 0,
+    "t": "Ascenty's own Campinas Techno Park site and Equinix's xScale Sao Paulo campus are about six kilometres away, with CloudHQ's Campinas campus nearby.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "No capacity, water figure or opening date for it has been published.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "About a third of Brazil's data centres are in Sao Paulo state, which went through an acute water crisis about a decade ago.",
+    "src": "https://restofworld.org/2025/brazil-data-center-environmental-risk/"
+   },
+   {
+    "para": 1,
+    "t": "That history is why the arrival of this industry worries people there, and why the government's ambition to make Brazil a sustainable data centre hub is met with scepticism from environmentalists.",
+    "src": "https://restofworld.org/2025/brazil-data-center-environmental-risk/"
+   },
+   {
+    "para": 1,
+    "t": "An engineering professor at the Federal University of Rio de Janeiro has said the build out is putting significant pressure on the country's energy system and could have a major environmental effect, particularly given where the buildings are being put.",
+    "src": "https://dialogue.earth/en/energy/ai-for-whom-inside-brazils-data-centre-boom/"
+   },
+   {
+    "para": 1,
+    "t": "Ascenty says it runs on entirely renewable electricity.",
+    "src": "https://ascenty.com/en/data-centers-en/location/brazil/"
+   }
+  ],
+  "sources": [
+   "https://ascenty.com/en/data-centers-en/location/brazil/",
+   "https://restofworld.org/2025/brazil-data-center-environmental-risk/",
+   "https://dialogue.earth/en/energy/ai-for-whom-inside-brazils-data-centre-boom/"
+  ],
+  "unconfirmed": "Searches on Ascenty with Paulinia, on Campinas with data centre, and on Brazil with data centre water found no capacity, square footage, water figure, opening date, planning record or resident comment naming this facility. Everything beyond the company's own listing describes Brazil rather than this site."
+ },
+ {
+  "id": "digitalrealty-buildings-digital-realty-par13-les-ulis",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Digital Realty's PAR13 data centre at Les Ulis covers 21,700 square metres, with a further building, PAR14, planned to follow.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "It sits in the Essonne corridor south of Paris, where Data4's PAR02 is about two kilometres away and its 23 building Paris-Saclay campus nearby.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Les Ulis has already seen what happens when the power fails.",
+    "src": "https://www.usinenouvelle.com/article/quand-des-habitants-se-mobilisent-contre-les-datacenters-en-ile-de-france.N2221270"
+   },
+   {
+    "para": 1,
+    "t": "A Colt data centre in the commune ran on backup generators for eleven days after an outage in 2020.",
+    "src": "https://www.usinenouvelle.com/article/quand-des-habitants-se-mobilisent-contre-les-datacenters-en-ile-de-france.N2221270"
+   },
+   {
+    "para": 1,
+    "t": "A public inquiry has been held on a data centre project declaration at Les Ulis by the Essonne prefecture.",
+    "src": "https://www.essonne.gouv.fr/Publications/Enquetes-publiques/Amenagement-et-urbanisme/Amenagement/LES-ULIS-Declaration-de-projet-Data-Center"
+   },
+   {
+    "para": 2,
+    "t": "Residents elsewhere in Essonne have gone to court.",
+    "src": "https://www.connaissancedesenergies.org/afp/data-center-dans-lessonne-la-justice-se-penche-sur-le-saucissonnage-dun-vaste-projet-260319"
+   },
+   {
+    "para": 2,
+    "t": "At Wissous, France Nature Environnement, Data For Good and a local group challenged a CyrusOne project built for Amazon servers, arguing it had been split into phases of 19.8 and 49.5 megawatts to stay under the 50 megawatt threshold that triggers strict authorisation, environmental impact studies and a public inquiry.",
+    "src": "https://www.connaissancedesenergies.org/afp/data-center-dans-lessonne-la-justice-se-penche-sur-le-saucissonnage-dun-vaste-projet-260319"
+   },
+   {
+    "para": 2,
+    "t": "CyrusOne puts the three phases at 60 megawatts at most; the associations say 100.",
+    "src": "https://www.connaissancedesenergies.org/afp/data-center-dans-lessonne-la-justice-se-penche-sur-le-saucissonnage-dun-vaste-projet-260319"
+   },
+   {
+    "para": 2,
+    "t": "Ile-de-France held 75 to 80 percent of France's large data centres in 2024.",
+    "src": "https://www.usinenouvelle.com/article/quand-des-habitants-se-mobilisent-contre-les-datacenters-en-ile-de-france.N2221270"
+   }
+  ],
+  "sources": [
+   "https://www.usinenouvelle.com/article/quand-des-habitants-se-mobilisent-contre-les-datacenters-en-ile-de-france.N2221270",
+   "https://www.essonne.gouv.fr/Publications/Enquetes-publiques/Amenagement-et-urbanisme/Amenagement/LES-ULIS-Declaration-de-projet-Data-Center",
+   "https://www.connaissancedesenergies.org/afp/data-center-dans-lessonne-la-justice-se-penche-sur-le-saucissonnage-dun-vaste-projet-260319"
+  ],
+  "unconfirmed": "Searches on Digital Realty with Les Ulis, on Essonne with data centre opposition, and on Les Ulis with data centre found no capacity figure, water figure, planning decision or objection naming PAR13 or PAR14. It is not established whether the Essonne prefecture's public inquiry concerns this project or another one in the commune, and the Usine Nouvelle report refused our requests, so its account of the 2020 Colt outage is summarised rather than quoted. The Wissous case is a different commune and developer."
+ }
+]

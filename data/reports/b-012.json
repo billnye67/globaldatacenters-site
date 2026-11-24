@@ -1,0 +1,500 @@
+[
+ {
+  "id": "gemini-microsoft-chicago",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Microsoft is listed as running a 158 megawatt data center in Logan County, in central Illinois, but no public reporting we could find confirms a Microsoft site there.",
+    "src": "data:county"
+   },
+   {
+    "para": 0,
+    "t": "What Logan County does have is a data center fight over a different company: Hut 8 is seeking approval for a 500 megawatt, $5 billion campus on 250 acres of farmland in Laenna Township, near the village of Latham.",
+    "src": "https://www.illinoistimes.com/news/data-center-seeks-zoning-approval-in-logan-county/"
+   },
+   {
+    "para": 1,
+    "t": "About 250 people turned out at a Logan County courthouse meeting to raise concerns about noise, water supply and the loss of farmland.",
+    "src": "https://www.illinoistimes.com/news/data-center-seeks-zoning-approval-in-logan-county/"
+   },
+   {
+    "para": 1,
+    "t": "Latham's village president, Theodore Allen, opposed the project, saying, \"We're a small community. It doesn't benefit us in any way.\"",
+    "src": "https://www.illinoistimes.com/news/data-center-seeks-zoning-approval-in-logan-county/"
+   },
+   {
+    "para": 1,
+    "t": "The county zoning board held a public hearing on January 8, 2026, with a county board vote tentatively set for January 20, 2026.",
+    "src": "https://www.illinoistimes.com/news/data-center-seeks-zoning-approval-in-logan-county/"
+   }
+  ],
+  "sources": [
+   "https://www.illinoistimes.com/news/data-center-seeks-zoning-approval-in-logan-county/"
+  ],
+  "unconfirmed": "The source in our record for a Microsoft data center in Logan County describes an unrelated Wisconsin listing that has since been withdrawn as a duplicate, and the page's own title says Chicago. Nothing found confirms a Microsoft facility in Logan County, so the Hut 8 proposal is what this page reports."
+ },
+ {
+  "id": "gemini-microsoft-kilby",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Project Kilby is a Microsoft data center campus planned on more than 2,000 acres of the Permian Basin in Reeves County, Texas, near Pecos.",
+    "src": "https://www.globaldatacenterhub.com/p/chevron-and-microsoft-sign-9b-west"
+   },
+   {
+    "para": 0,
+    "t": "Chevron and Microsoft announced a 20-year agreement on June 22, 2026, under which Chevron will build and run a natural gas power plant dedicated entirely to the site.",
+    "src": "https://www.globaldatacenterhub.com/p/chevron-and-microsoft-sign-9b-west"
+   },
+   {
+    "para": 0,
+    "t": "The plant is designed for 2.67 gigawatts of generation and will not connect to the ERCOT grid at all; Microsoft plans to add about 2 gigawatts of data center capacity over five to seven years, with a longer term target of 5 gigawatts into the 2030s.",
+    "src": "https://www.globaldatacenterhub.com/p/chevron-and-microsoft-sign-9b-west"
+   },
+   {
+    "para": 1,
+    "t": "The power will come from seven GE Vernova gas turbines burning gas from Chevron's own Permian Basin wells, run through a Chevron subsidiary called Energy Forge One LLC alongside a partner, Joulent LLC.",
+    "src": "https://www.globaldatacenterhub.com/p/chevron-and-microsoft-sign-9b-west"
+   },
+   {
+    "para": 1,
+    "t": "Jeff Gustavson, president of Chevron New Energies, said the arrangement means \"there is no competition with local electricity consumers.\"",
+    "src": "https://www.globaldatacenterhub.com/p/chevron-and-microsoft-sign-9b-west"
+   },
+   {
+    "para": 1,
+    "t": "The companies put the total cost at $7 billion to $9 billion.",
+    "src": "https://www.globaldatacenterhub.com/p/chevron-and-microsoft-sign-9b-west"
+   },
+   {
+    "para": 1,
+    "t": "Chevron expects a final investment decision by the end of 2026 and expects the site to start drawing power in 2028.",
+    "src": "https://www.globaldatacenterhub.com/p/chevron-and-microsoft-sign-9b-west"
+   },
+   {
+    "para": 1,
+    "t": "The company estimates more than 6,000 construction jobs, plus hundreds of permanent positions once it is running.",
+    "src": "https://www.globaldatacenterhub.com/p/chevron-and-microsoft-sign-9b-west"
+   },
+   {
+    "para": 2,
+    "t": "The site sits within Texas's ERCOT grid territory, which the state ordered audited over data center power demand in August 2026, though Project Kilby's own plant is built to run independent of that grid.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.globaldatacenterhub.com/p/chevron-and-microsoft-sign-9b-west"
+  ],
+  "unconfirmed": "Our own dataset recorded the project's location as Mills County, Texas; every news account we found instead places Project Kilby in Reeves County, near Pecos in far West Texas, hundreds of kilometres away, and the entry now gives Pecos. No resident, local official or hearing record for Reeves County was found."
+ },
+ {
+  "id": "gemini-microsoft-queretaro",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Microsoft runs a small, 10 megawatt data center in Queretaro state, in central Mexico.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "Queretaro has been in drought for two years, and the period from April to July 2024 was classified as \"exceptional,\" the highest scarcity level on Mexico's scale.",
+    "src": "https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town"
+   },
+   {
+    "para": 0,
+    "t": "Reporting on the state's data center corridor, centered on Colon municipality, found Microsoft holds a concession to draw 25 million liters of groundwater a year for one of its two data center units there, about 24 percent of the water allocated to the municipality for public and urban use.",
+    "src": "https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town"
+   },
+   {
+    "para": 0,
+    "t": "The aquifer that supplies the area, the Valle de San Juan del Rio, already runs a deficit of 56.8 billion liters.",
+    "src": "https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town"
+   },
+   {
+    "para": 1,
+    "t": "Farmer Guadalupe Hernandez, 68, said: \"I have lost 60% of my crop. With no crop, there's no money.\"",
+    "src": "https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town"
+   },
+   {
+    "para": 1,
+    "t": "Restaurant owner Agripina Nieves said: \"We had never had such water scarcity.\"",
+    "src": "https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town"
+   },
+   {
+    "para": 1,
+    "t": "Microsoft has said its cooling technology limits water use to less than 5 percent of the year, and a company representative said it found no indication its data centers contributed to blackouts or water shortages in the region.",
+    "src": "https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town"
+   },
+   {
+    "para": 1,
+    "t": "Google and Amazon also run data centers in the same Queretaro corridor; the three companies have drawn a combined 10 billion dollars in investment under a state push led by Governor Mauricio Kuri.",
+    "src": "https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town"
+   }
+  ],
+  "sources": [
+   "https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town"
+  ],
+  "unconfirmed": "The water reporting centers on Microsoft facilities in Colon municipality. We could not confirm whether that is the same site as this project's listed coordinates in Queretaro city, since Microsoft operates more than one facility in the state."
+ },
+ {
+  "id": "gemini-microsoft-naivasha",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Microsoft and the Abu Dhabi firm G42 announced a $1 billion data center campus at KenGen's Green Energy Park, in the Olkaria geothermal fields near Naivasha, in May 2024, designed to run on 100 percent geothermal power.",
+    "src": "https://www.ubergizmo.com/2026/05/microsofts-kenya-ai-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The first phase was planned for 100 megawatts, with a long-term goal of scaling to 1 gigawatt.",
+    "src": "https://www.ubergizmo.com/2026/05/microsofts-kenya-ai-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The project has since stalled: the Kenyan government would not guarantee the annual capacity payments Microsoft wanted, and talks over the power supply broke down.",
+    "src": "https://www.ubergizmo.com/2026/05/microsofts-kenya-ai-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "President William Ruto said powering the full 1 gigawatt project would require switching off roughly half the country's electricity supply; Kenya's total installed capacity is only 3,000 to 3,200 megawatts, against peak demand of 2,444 megawatts.",
+    "src": "https://www.ubergizmo.com/2026/05/microsofts-kenya-ai-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "John Tanui, principal secretary at Kenya's Ministry of Information, said negotiations were ongoing and the project had not been withdrawn, though it \"requires further structuring.\"",
+    "src": "https://www.ubergizmo.com/2026/05/microsofts-kenya-ai-data-center/"
+   }
+  ],
+  "sources": [
+   "https://www.ubergizmo.com/2026/05/microsofts-kenya-ai-data-center/"
+  ],
+  "unconfirmed": "Our own record lists this project as proposed at 100 megawatts, while a separate entry in our data for the same Olkaria site lists it as on hold at 1 gigawatt, a sign the two records likely describe different phases of the same stalled project. No Kenyan resident or local official near Naivasha is quoted in anything we could read."
+ },
+ {
+  "id": "microsoft-microsoft-alviso-milpitas",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Microsoft has proposed two single storey data center buildings at 1657 Alviso-Milpitas Road in the Alviso neighbourhood of northern San Jose, in Santa Clara County, California.",
+    "src": "https://www.energy.ca.gov/powerplant/backup-generating-system/san-jose-data-center"
+   },
+   {
+    "para": 0,
+    "t": "The California Energy Commission filing puts them at about 396,914 gross square feet of data center and administrative space on a 64.59 acre site.",
+    "src": "https://www.energy.ca.gov/powerplant/backup-generating-system/san-jose-data-center"
+   },
+   {
+    "para": 0,
+    "t": "The maximum electrical load would be up to 99 megawatts, with an estimated load of 77.",
+    "src": "https://www.energy.ca.gov/powerplant/backup-generating-system/san-jose-data-center"
+   },
+   {
+    "para": 1,
+    "t": "The plans include 224 natural gas emergency generators, a new 115 kilovolt substation and a rebuilt visitor centre.",
+    "src": "https://sfyimby.com/2025/04/microsoft-data-center-approved-by-san-jose-planning-commission.html"
+   },
+   {
+    "para": 1,
+    "t": "The San Jose Planning Commission approved it in 2025.",
+    "src": "https://sfyimby.com/2025/04/microsoft-data-center-approved-by-san-jose-planning-commission.html"
+   },
+   {
+    "para": 2,
+    "t": "Two hundred and twenty-four gas generators is the number worth sitting with.",
+    "src": "https://sfyimby.com/2025/04/microsoft-data-center-approved-by-san-jose-planning-commission.html"
+   },
+   {
+    "para": 2,
+    "t": "It is roughly the scale of the array that Hilliard, Ohio went to court over, and it sits in a county where the electricity supply is already the binding constraint: two finished data centers in neighbouring Santa Clara stand complete and unpowered while the municipal utility spends $450 million on grid upgrades due in 2028.",
+    "src": "https://www.tomshardware.com/tech-industry/data-centers-in-nvidias-hometown-sit-idle-as-grid-struggles-to-keep-up"
+   },
+   {
+    "para": 3,
+    "t": "Santa Clara County holds 25 data centers, and this would be the first Microsoft has built in it.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://www.energy.ca.gov/powerplant/backup-generating-system/san-jose-data-center",
+   "https://sfyimby.com/2025/04/microsoft-data-center-approved-by-san-jose-planning-commission.html",
+   "https://www.tomshardware.com/tech-industry/data-centers-in-nvidias-hometown-sit-idle-as-grid-struggles-to-keep-up"
+  ],
+  "unconfirmed": "Our record used to list this as an existing Microsoft data center with no capacity figure and no date; it now carries the campus as approved rather than operating, on the strength of the California Energy Commission filing and the 2025 planning approval."
+ },
+ {
+  "id": "gemini-google-douglas-county",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google has operated a data center in Douglas County, in the Lithia Springs area west of Atlanta, since 2003, one of the company's earliest campuses.",
+    "src": "data:year_announced"
+   },
+   {
+    "para": 0,
+    "t": "Google says it has invested more than 3 billion dollars in Georgia since then.",
+    "src": "https://datacenters.google/locations/georgia/"
+   },
+   {
+    "para": 0,
+    "t": "Google announced a second, 300 million dollar facility on the same site on June 2, 2015, with construction starting that summer and finishing in 2016.",
+    "src": "https://www.datacenterknowledge.com/hyperscalers/google-to-spend-300m-on-second-atlanta-metro-data-center"
+   },
+   {
+    "para": 0,
+    "t": "Then-Governor Nathan Deal credited the region's high speed internet infrastructure for drawing the investment, and Douglas County approved a tax incentive package for the project.",
+    "src": "https://www.datacenterknowledge.com/hyperscalers/google-to-spend-300m-on-second-atlanta-metro-data-center"
+   },
+   {
+    "para": 0,
+    "t": "Google says it has used recycled industrial water to cool the servers there since 2012, among the first data centers in the industry to do so.",
+    "src": "https://datacenters.google/locations/georgia/"
+   },
+   {
+    "para": 1,
+    "t": "Douglas County is now the center of a much larger data center cluster: 12 facilities in the county, with at least ten more campuses from Digital Realty, Switch, STACK Infrastructure, T5, DataBank, Aligned and Microsoft within four kilometers of the Google site.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "That growth has fed a wave of new restrictions elsewhere in the Atlanta region: since mid-2026, Marietta, Chamblee, Cobb County and Paulding County have all passed data center moratoriums, and Atlanta has banned new data centers in its Beltline business district since 2024.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Douglas County itself does not appear in that moratorium record.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://datacenters.google/locations/georgia/",
+   "https://www.datacenterknowledge.com/hyperscalers/google-to-spend-300m-on-second-atlanta-metro-data-center"
+  ],
+  "unconfirmed": "Found no reporting on local opposition specific to the original Douglas County campus itself, which predates the current wave of data center fights in the Atlanta region by roughly two decades."
+ },
+ {
+  "id": "gemini-google-quilicura",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google announced its Quilicura data center in Santiago in 2012 and it began operating in 2015, the company's first in Latin America.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "In 2018 it was permitted to draw 50 litres of water a second, more than 1.58 billion litres a year.",
+    "src": "https://restofworld.org/2024/data-centers-environmental-issues/"
+   },
+   {
+    "para": 1,
+    "t": "Chile has been in drought since 2010, with forecasts running to 2040, and the Santiago basin holds one of the country's largest water reserves.",
+    "src": "https://restofworld.org/2024/data-centers-environmental-issues/"
+   },
+   {
+    "para": 1,
+    "t": "Vicente Bardales, of the group Quilicura Socio Environmental Resistance, described what residents object to: companies that \"use water, dry up the territory, but don't give anything back to the population.\"",
+    "src": "https://restofworld.org/2024/data-centers-environmental-issues/"
+   },
+   {
+    "para": 1,
+    "t": "Tania Rodríguez of Mosacat, the Socio Environmental Community Movement for Land and Water, said: \"It's turned into extractivism. We end up being everybody's backyard.\"",
+    "src": "https://restofworld.org/2024/data-centers-environmental-issues/"
+   },
+   {
+    "para": 2,
+    "t": "That opposition has had an effect.",
+    "src": "https://climatecasechart.com/non-us-case/municipality-of-cerrillos-google-data-center-v-evaluation-commission-of-the-metropolitan-region/"
+   },
+   {
+    "para": 2,
+    "t": "Google's second Santiago project, at Cerrillos, was permitted in 2020 to take 228 litres a second from three wells in the central aquifer; residents and the municipality challenged it, and on September 26, 2024 the Second Environmental Court sent the evaluation back for failing to weigh climate change against the water.",
+    "src": "https://climatecasechart.com/non-us-case/municipality-of-cerrillos-google-data-center-v-evaluation-commission-of-the-metropolitan-region/"
+   },
+   {
+    "para": 2,
+    "t": "Google said it would drop groundwater cooling and start the process again.",
+    "src": "https://climatecasechart.com/non-us-case/municipality-of-cerrillos-google-data-center-v-evaluation-commission-of-the-metropolitan-region/"
+   },
+   {
+    "para": 3,
+    "t": "Amazon, Microsoft, Equinix, Huawei and Oracle all have facilities within a few kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://restofworld.org/2024/data-centers-environmental-issues/",
+   "https://climatecasechart.com/non-us-case/municipality-of-cerrillos-google-data-center-v-evaluation-commission-of-the-metropolitan-region/"
+  ],
+  "unconfirmed": "No capacity figure, investment total or employment number for the Quilicura site was found, and no figure for what it actually withdrew as against what it was permitted. Our record notes a planned expansion at Quilicura without giving detail, and searches on Quilicura with Google, on Santiago with data centre water, and on Cerrillos with Google found no account of that expansion beyond our own record."
+ },
+ {
+  "id": "gemini-google-cerrillos",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Cerrillos data center in Santiago was announced in 2020 and opened in 2021, serving the company's southamerica-west1 cloud region.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "A second Google project two kilometres away never got built, and the court file explains why.",
+    "src": "https://climatecasechart.com/non-us-case/municipality-of-cerrillos-google-data-center-v-evaluation-commission-of-the-metropolitan-region/"
+   },
+   {
+    "para": 1,
+    "t": "In December 2020, fourteen residents of the Cerrillos commune and the municipality itself challenged the environmental permit before Chile's Second Environmental Court.",
+    "src": "https://climatecasechart.com/non-us-case/municipality-of-cerrillos-google-data-center-v-evaluation-commission-of-the-metropolitan-region/"
+   },
+   {
+    "para": 1,
+    "t": "By the end only one resident was still in the case.",
+    "src": "https://climatecasechart.com/non-us-case/municipality-of-cerrillos-google-data-center-v-evaluation-commission-of-the-metropolitan-region/"
+   },
+   {
+    "para": 1,
+    "t": "On September 26, 2024 the court partly upheld the claim and ordered the Environmental Assessment Service to send the evaluation back and take account of climate change in assessing the water.",
+    "src": "https://climatecasechart.com/non-us-case/municipality-of-cerrillos-google-data-center-v-evaluation-commission-of-the-metropolitan-region/"
+   },
+   {
+    "para": 1,
+    "t": "The tribunal said the original assessment had not properly evaluated the effect on water or applied precaution about the vulnerability of the aquifer, citing doubts raised by the General Directorate of Water and Chile's exposure to climate change during an ongoing mega drought.",
+    "src": "https://climatecasechart.com/non-us-case/municipality-of-cerrillos-google-data-center-v-evaluation-commission-of-the-metropolitan-region/"
+   },
+   {
+    "para": 2,
+    "t": "The project would have drawn groundwater from three wells in the Santiago central aquifer, 228 litres a second, more than 7.2 billion litres a year, which one account compared to 40,000 households.",
+    "src": "https://restofworld.org/2024/data-centers-environmental-issues/"
+   },
+   {
+    "para": 2,
+    "t": "Google has since said it will switch to air cooled condensers and use no groundwater, and that a new process will start from scratch.",
+    "src": "https://climatecasechart.com/non-us-case/municipality-of-cerrillos-google-data-center-v-evaluation-commission-of-the-metropolitan-region/"
+   },
+   {
+    "para": 3,
+    "t": "Chile has been in drought since 2010, and forecasts run to 2040.",
+    "src": "https://restofworld.org/2024/data-centers-environmental-issues/"
+   },
+   {
+    "para": 3,
+    "t": "Tania Rodríguez of Mosacat, the Socio Environmental Community Movement for Land and Water, said of what is happening in Santiago: \"It's turned into extractivism. We end up being everybody's backyard.\"",
+    "src": "https://restofworld.org/2024/data-centers-environmental-issues/"
+   },
+   {
+    "para": 3,
+    "t": "Microsoft won environmental approval for a Santiago project in early 2023 and Amazon in early 2024.",
+    "src": "https://restofworld.org/2024/data-centers-environmental-issues/"
+   }
+  ],
+  "sources": [
+   "https://climatecasechart.com/non-us-case/municipality-of-cerrillos-google-data-center-v-evaluation-commission-of-the-metropolitan-region/",
+   "https://restofworld.org/2024/data-centers-environmental-issues/"
+  ],
+  "unconfirmed": "No capacity figure, investment total or employment number was found for the operating Cerrillos data center, as distinct from the blocked second project. Whether Google has restarted the environmental assessment since the September 2024 ruling could not be established. The name of the single remaining plaintiff is not given in the case record we read."
+ },
+ {
+  "id": "gemini-google-changhua",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Changhua data centre stands in a science park built on reclaimed land on the Taiwanese coast, on 15 hectares the company bought in 2011.",
+    "src": "https://datacenters.google/locations/taiwan/"
+   },
+   {
+    "para": 0,
+    "t": "It was announced in 2011, opened in 2013 and serves the asia-east1 cloud region, with about 60 full time staff.",
+    "src": "https://datacenters.google/locations/taiwan/"
+   },
+   {
+    "para": 0,
+    "t": "Google has put more than $1.6 billion into building, expanding and upgrading it since 2011, starting from an initial $600 million, and has announced a further $66.4 million.",
+    "src": "https://www.datacenterknowledge.com/hyperscalers/report-google-plans-66m-taiwan-data-center-investment"
+   },
+   {
+    "para": 1,
+    "t": "The cooling design is built around the island's climate rather than around a water source.",
+    "src": "https://datacenters.google/locations/taiwan/"
+   },
+   {
+    "para": 1,
+    "t": "The site chills water at night when the air is cooler, stores it in large insulated tanks and pumps it round the building through the day.",
+    "src": "https://datacenters.google/locations/taiwan/"
+   },
+   {
+    "para": 1,
+    "t": "Google has also contracted for the output of a 10 megawatt solar array in Tainan.",
+    "src": "https://datacenters.google/locations/taiwan/"
+   },
+   {
+    "para": 2,
+    "t": "Google has since committed $850 million to a third Taiwanese facility.",
+    "src": "https://www.datacenterdynamics.com/en/news/google-invests-850m-another-hyperscale-facility-taiwan/"
+   }
+  ],
+  "sources": [
+   "https://datacenters.google/locations/taiwan/",
+   "https://www.datacenterknowledge.com/hyperscalers/report-google-plans-66m-taiwan-data-center-investment",
+   "https://www.datacenterdynamics.com/en/news/google-invests-850m-another-hyperscale-facility-taiwan/"
+  ],
+  "unconfirmed": "Searches on Changhua with Google, on Taiwan with data centre water and electricity, and on Changhua County with residents found no capacity figure, no water or electricity consumption figure, and no local coverage of community concern, support or dispute. Almost everything above comes from Google or from trade press reporting the company's announcements; no independent account of the site exists that we could read."
+ },
+ {
+  "id": "gemini-google-eemshaven",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google announced its Eemshaven data centre in the Netherlands in 2014 and opened it in 2016, on a site it says it chose for closeness to wind power.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "The company put its initial investment at 200 million euro with another 150 million announced later, expanded again in 2018 and 2019, and employs about 200 people serving the europe-west4 cloud region.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "It opened cooling itself with the region's drinking water, and then stopped.",
+    "src": "https://www.h2owaternetwerk.nl/h2o-actueel/waterverbruik-amerikaanse-datacenters-in-nederland-blijft-in-nevelen-gehuld"
+   },
+   {
+    "para": 1,
+    "t": "In 2018 Google put 45 million euro into a treatment plant and a 28 kilometre pipeline run by North Water, carrying surface water from the Eems canal at Garmerwolde to Eemshaven, cleaned, cycled through the cooling towers and then discharged to the Wadden Sea.",
+    "src": "https://www.h2owaternetwerk.nl/h2o-actueel/waterverbruik-amerikaanse-datacenters-in-nederland-blijft-in-nevelen-gehuld"
+   },
+   {
+    "para": 1,
+    "t": "In 2022 the site used 1.26 billion litres of industrial water and 7.5 million litres of drinking water, and nearly all of its cooling now runs on the industrial supply.",
+    "src": "https://www.dutchdatacenters.nl/nieuws/duurzame-watervoorziening-voor-googles-datacenter-in-eemshaven/"
+   },
+   {
+    "para": 2,
+    "t": "How much these sites use is still largely hidden.",
+    "src": "https://www.h2owaternetwerk.nl/h2o-actueel/waterverbruik-amerikaanse-datacenters-in-nederland-blijft-in-nevelen-gehuld"
+   },
+   {
+    "para": 2,
+    "t": "From the 2025 reporting year data centres in Europe must report water consumption, but they may mark the figure confidential.",
+    "src": "https://www.h2owaternetwerk.nl/h2o-actueel/waterverbruik-amerikaanse-datacenters-in-nederland-blijft-in-nevelen-gehuld"
+   },
+   {
+    "para": 2,
+    "t": "Fieke Jansen, a researcher at the University of Amsterdam, criticised the European Commission's reluctance to publish per site figures for fear companies would stop reporting at all, saying it should simply require them.",
+    "src": "https://www.h2owaternetwerk.nl/h2o-actueel/waterverbruik-amerikaanse-datacenters-in-nederland-blijft-in-nevelen-gehuld"
+   },
+   {
+    "para": 3,
+    "t": "A large majority of the Groningen provincial council voted against expanding the business park at Eemshaven by 50 hectares, but the legal process had gone too far to stop it.",
+    "src": "https://www.h2owaternetwerk.nl/h2o-actueel/waterverbruik-amerikaanse-datacenters-in-nederland-blijft-in-nevelen-gehuld"
+   },
+   {
+    "para": 3,
+    "t": "QTS runs a separate data centre about three kilometres away, and Google operates another at Winschoten, 35 kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.h2owaternetwerk.nl/h2o-actueel/waterverbruik-amerikaanse-datacenters-in-nederland-blijft-in-nevelen-gehuld",
+   "https://www.dutchdatacenters.nl/nieuws/duurzame-watervoorziening-voor-googles-datacenter-in-eemshaven/"
+  ],
+  "unconfirmed": "No power capacity figure was found, and no resident of the Eemshaven area is quoted in anything we could read. The date of the provincial council vote against the business park expansion is not given in the source. The 2022 water figures come from an industry association's account of Google's own reporting rather than from a regulator."
+ }
+]

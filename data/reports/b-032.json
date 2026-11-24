@@ -1,0 +1,663 @@
+[
+ {
+  "id": "amazon-aws-pathfinder-plaza-sterling",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon Web Services has proposed a data center at 45900 Pathfinder Plaza in Sterling, Loudoun County.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It was announced in 2024 and remains listed as proposed, with no size or power capacity released.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "A filing like this barely registers here.",
+    "src": "https://lakelandgazette.info/news/2026/09/18/loudoun-county-virginia-reported-approximately-233-data-center-buildings-built-or-under-construction-as-of-march-2026-the-worlds-highest-concentration-as-rising-electricity-demand/"
+   },
+   {
+    "para": 1,
+    "t": "As of March 1, 2026 Loudoun County counted about 233 data center buildings built or under construction, roughly 56.5 million square feet, the highest concentration of them anywhere in the world.",
+    "src": "https://lakelandgazette.info/news/2026/09/18/loudoun-county-virginia-reported-approximately-233-data-center-buildings-built-or-under-construction-as-of-march-2026-the-worlds-highest-concentration-as-rising-electricity-demand/"
+   },
+   {
+    "para": 1,
+    "t": "The taxes they pay came to $1.2 billion in the 2026 financial year, 39 percent of the county's entire budget.",
+    "src": "https://lakelandgazette.info/news/2026/09/18/loudoun-county-virginia-reported-approximately-233-data-center-buildings-built-or-under-construction-as-of-march-2026-the-worlds-highest-concentration-as-rising-electricity-demand/"
+   },
+   {
+    "para": 1,
+    "t": "Existing campuses run by CyrusOne, Vantage, QTS and NTT sit within a few kilometers of this parcel.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Sterling is also where the complaints are loudest.",
+    "src": "https://wjla.com/news/local/data-center-noise-fumes-create-flood-of-complaints-in-loudoun-county-virginia-board-of-supervisors-sterling"
+   },
+   {
+    "para": 2,
+    "t": "After a power failure on July 16, 2026 sent backup generators running, one homeowner told WJLA: \"I always know when they're running their diesel generators because it irritates my throat and my lungs, and I've even woken up at night.\"",
+    "src": "https://wjla.com/news/local/data-center-noise-fumes-create-flood-of-complaints-in-loudoun-county-virginia-board-of-supervisors-sterling"
+   },
+   {
+    "para": 2,
+    "t": "The complaints were about Vantage's Ashburn II campus rather than this one, and Vantage said the state environment department had reviewed operating data and \"confirmed emissions have remained well below permitted levels established to protect public health.\"",
+    "src": "https://wjla.com/news/local/data-center-noise-fumes-create-flood-of-complaints-in-loudoun-county-virginia-board-of-supervisors-sterling"
+   },
+   {
+    "para": 2,
+    "t": "County chair Phyllis Randall said she would meet the residents affected.",
+    "src": "https://wjla.com/news/local/data-center-noise-fumes-create-flood-of-complaints-in-loudoun-county-virginia-board-of-supervisors-sterling"
+   },
+   {
+    "para": 2,
+    "t": "Dominion has proposed raising residential electricity rates 14 percent in 2026, citing data center growth and AI demand.",
+    "src": "https://www.energysage.com/local-data/electricity-cost/va/loudoun-county/"
+   }
+  ],
+  "sources": [
+   "https://lakelandgazette.info/news/2026/09/18/loudoun-county-virginia-reported-approximately-233-data-center-buildings-built-or-under-construction-as-of-march-2026-the-worlds-highest-concentration-as-rising-electricity-demand/",
+   "https://wjla.com/news/local/data-center-noise-fumes-create-flood-of-complaints-in-loudoun-county-virginia-board-of-supervisors-sterling",
+   "https://www.energysage.com/local-data/electricity-cost/va/loudoun-county/"
+  ],
+  "unconfirmed": "Searches on Pathfinder Plaza with Sterling, on Sterling with data center, and on Amazon with Loudoun County found no coverage, hearing record or resident reaction naming this site. Its size, building count, power draw and status are all unknown, and nothing establishes that an application is live."
+ },
+ {
+  "id": "amazon-aws-renaissance-technology-park-herndon",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon Web Services is building a data center of about 2.14 million square feet at 13860 Redskin Drive in Herndon, Fairfax County, part of what it calls Renaissance Technology Park.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Fairfax County already has 16 other data centers.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "The rules under which buildings like this go up in Fairfax changed while this one was in the pipeline.",
+    "src": "https://www.fairfaxcounty.gov/news/board-supervisors-approve-new-data-center-zoning-ordinance-amendment"
+   },
+   {
+    "para": 1,
+    "t": "On September 10, 2024 the Board of Supervisors approved a zoning amendment, effective the next day, after residents raised noise, building design and how close these campuses sit to homes.",
+    "src": "https://www.fairfaxcounty.gov/news/board-supervisors-approve-new-data-center-zoning-ordinance-amendment"
+   },
+   {
+    "para": 1,
+    "t": "It requires 200 feet between a data center and a residential lot line, 300 feet for backup generators, noise studies before and after construction, at least a mile from any Metro station, and all cooling and power equipment enclosed or screened.",
+    "src": "https://www.fairfaxcounty.gov/news/board-supervisors-approve-new-data-center-zoning-ordinance-amendment"
+   },
+   {
+    "para": 1,
+    "t": "It also caps how large a data center can be built by right, so bigger ones need a special exception.",
+    "src": "https://www.fairfaxcounty.gov/news/board-supervisors-approve-new-data-center-zoning-ordinance-amendment"
+   },
+   {
+    "para": 2,
+    "t": "Residents had asked for more than they got.",
+    "src": "https://natureforward.org/fxco-stronger-data-center-zoa/"
+   },
+   {
+    "para": 2,
+    "t": "The conservation group Nature Forward wanted buildings and polluting equipment set back at least 500 feet from homes, more than twice the distance the county adopted.",
+    "src": "https://natureforward.org/fxco-stronger-data-center-zoa/"
+   },
+   {
+    "para": 2,
+    "t": "It pointed to what had happened on July 9, 2024, when a data center was approved by right 50 feet from the Meadows of Chantilly mobile home community in the Sully district.",
+    "src": "https://natureforward.org/fxco-stronger-data-center-zoa/"
+   }
+  ],
+  "sources": [
+   "https://www.fairfaxcounty.gov/news/board-supervisors-approve-new-data-center-zoning-ordinance-amendment",
+   "https://natureforward.org/fxco-stronger-data-center-zoa/"
+  ],
+  "unconfirmed": "Searches on Renaissance Technology Park with Herndon, on Herndon with data center, and on Amazon with Fairfax County found no coverage of this project's approval or construction and no resident comment about it. Its power draw and completion date are unknown, as is whether it was permitted before or after the September 2024 rules took effect."
+ },
+ {
+  "id": "amazon-aws-mallory-drive-chantilly",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon Web Services is building a data center at 3980 Virginia Mallory Drive in Chantilly, in Fairfax County's Sully district.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "No capacity or investment figure has been published for it.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Chantilly is where the argument about how close these buildings can sit to people's homes came to a head.",
+    "src": "https://natureforward.org/fxco-stronger-data-center-zoa/"
+   },
+   {
+    "para": 1,
+    "t": "On July 9, 2024 a data center was approved by right 50 feet from the Meadows of Chantilly mobile home community.",
+    "src": "https://natureforward.org/fxco-stronger-data-center-zoa/"
+   },
+   {
+    "para": 1,
+    "t": "The conservation group Nature Forward cited it as the reason Fairfax needed stronger rules and asked the county for a 500 foot setback between homes and both buildings and polluting equipment such as diesel generators and cooling plant, invoking the county's own One Fairfax policy on vulnerable residents.",
+    "src": "https://natureforward.org/fxco-stronger-data-center-zoa/"
+   },
+   {
+    "para": 2,
+    "t": "What the Board of Supervisors adopted on September 10, 2024 was 200 feet from a residential lot line and 300 feet for backup generators.",
+    "src": "https://www.fairfaxcounty.gov/news/board-supervisors-approve-new-data-center-zoning-ordinance-amendment"
+   },
+   {
+    "para": 2,
+    "t": "The amendment also requires noise studies before and after construction, a minimum mile from any Metro station, enclosure or screening of all cooling and power equipment, and a special exception for data centers above a set size.",
+    "src": "https://www.fairfaxcounty.gov/news/board-supervisors-approve-new-data-center-zoning-ordinance-amendment"
+   },
+   {
+    "para": 2,
+    "t": "It took effect on September 11, 2024.",
+    "src": "https://www.fairfaxcounty.gov/news/board-supervisors-approve-new-data-center-zoning-ordinance-amendment"
+   },
+   {
+    "para": 3,
+    "t": "Other AWS sites sit close by, Renaissance Technology Park in Herndon four kilometers off and Erin's Run in Sterling seven.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://natureforward.org/fxco-stronger-data-center-zoa/",
+   "https://www.fairfaxcounty.gov/news/board-supervisors-approve-new-data-center-zoning-ordinance-amendment"
+  ],
+  "unconfirmed": "Searches on Virginia Mallory Drive with Chantilly, on Chantilly with data center, and on Amazon with Fairfax County found no coverage naming this site. It is not established whether the by-right approval 50 feet from the Meadows of Chantilly on July 9, 2024 is this project or a different one; no source we could read names the developer in that case."
+ },
+ {
+  "id": "amazon-aws-haymarket",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon Web Services runs a data center at 15435 John Marshall Highway in Haymarket, Prince William County.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It is operating, one of 18 data centers in the county.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "Prince William has spent four years arguing about this industry.",
+    "src": "https://insideclimatenews.org/news/10022023/virginia-data-centers-amazon-prince-william-county/"
+   },
+   {
+    "para": 1,
+    "t": "By early 2023 the county had 33 data centers on about 523 acres with 13 more under construction and 83 million square feet operating or planned, and on November 1, 2022 the board approved the Digital Gateway proposal after a public hearing lasting about ten hours.",
+    "src": "https://insideclimatenews.org/news/10022023/virginia-data-centers-amazon-prince-william-county/"
+   },
+   {
+    "para": 1,
+    "t": "Bill Wright, a retired Navy captain who opposed it, said the county had \"overshot its own benchmark by 74 percent.\"",
+    "src": "https://insideclimatenews.org/news/10022023/virginia-data-centers-amazon-prince-william-county/"
+   },
+   {
+    "para": 2,
+    "t": "The county's noise ordinance dated from 1989 and had never been updated.",
+    "src": "https://www.fox5dc.com/news/manassas-residents-protest-over-noise-pollution-from-amazon-data-center"
+   },
+   {
+    "para": 2,
+    "t": "On October 30, 2025 the board voted 5 to 2 to set limits of 73 decibels by day and 68 at night in industrial areas, above the 67 and 62 its own consultants had proposed.",
+    "src": "https://www.princewilliamtimes.com/news/supervisors-ok-compromise-noise-ordinance-aimed-at-data-centers/article_1288e464-5559-4c12-ab8f-2a28ca28d819.html"
+   },
+   {
+    "para": 2,
+    "t": "Kathy Kulick, who had sat on the county's data center advisory group, said: \"It doesn't provide any meaningful relief at all. There was little to no discussion about the victims in all of this, the residents who can't sleep at night in their homes.\"",
+    "src": "https://www.princewilliamtimes.com/news/supervisors-ok-compromise-noise-ordinance-aimed-at-data-centers/article_1288e464-5559-4c12-ab8f-2a28ca28d819.html"
+   },
+   {
+    "para": 2,
+    "t": "The board tightened its zoning rules for data centers on March 4, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Five kilometers from here the county blocked a separate proposal from Sanders Lane Assemblage I LLC.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://insideclimatenews.org/news/10022023/virginia-data-centers-amazon-prince-william-county/",
+   "https://www.princewilliamtimes.com/news/supervisors-ok-compromise-noise-ordinance-aimed-at-data-centers/article_1288e464-5559-4c12-ab8f-2a28ca28d819.html",
+   "https://www.fox5dc.com/news/manassas-residents-protest-over-noise-pollution-from-amazon-data-center"
+  ],
+  "unconfirmed": "Searches on the address with Haymarket, on Haymarket with data center, and on Amazon with Prince William County found no coverage, hearing record or resident comment naming this facility. When it opened, how large it is and how much power it draws are all unknown."
+ },
+ {
+  "id": "amazon-aws-calvert-cliffs-lusby",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon Web Services applied on May 18, 2026 to build a data center campus next to the Calvert Cliffs Nuclear Power Plant in Lusby, Calvert County, Maryland.",
+    "src": "https://www.datacenterknowledge.com/data-center-site-selection/aws-data-center-withdrawal-signals-growing-political-community-challenges"
+   },
+   {
+    "para": 0,
+    "t": "The plan called for eight buildings across three campuses on 200 acres, 2.5 million square feet in all, drawing up to 500 megawatts supplied by Constellation Energy, the nuclear plant's operator.",
+    "src": "https://www.datacenterknowledge.com/data-center-site-selection/aws-data-center-withdrawal-signals-growing-political-community-challenges"
+   },
+   {
+    "para": 1,
+    "t": "The project became a flashpoint in county politics.",
+    "src": "https://www.datacenterknowledge.com/data-center-site-selection/aws-data-center-withdrawal-signals-growing-political-community-challenges"
+   },
+   {
+    "para": 1,
+    "t": "In the June 23, 2026 primary, voters ousted all three Republican commissioners who had opposed a pause on data center development: Commission President Todd Ireland, Vice President Mark Cox and Commissioner Earl Hance.",
+    "src": "https://www.datacenterknowledge.com/data-center-site-selection/aws-data-center-withdrawal-signals-growing-political-community-challenges"
+   },
+   {
+    "para": 1,
+    "t": "A Change.org petition against the project drew more than 10,000 signatures.",
+    "src": "https://www.datacenterknowledge.com/data-center-site-selection/aws-data-center-withdrawal-signals-growing-political-community-challenges"
+   },
+   {
+    "para": 2,
+    "t": "On August 4, 2026, Amazon withdrew its site plan application.",
+    "src": "data:blocked.date"
+   },
+   {
+    "para": 2,
+    "t": "A company spokesperson said that \"after careful evaluation, Amazon has decided not to move forward with the proposed site development in Calvert County at this time,\" and did not attribute the decision to community opposition.",
+    "src": "https://www.datacenterknowledge.com/data-center-site-selection/aws-data-center-withdrawal-signals-growing-political-community-challenges"
+   },
+   {
+    "para": 2,
+    "t": "The same day, Calvert County scheduled an August 18 hearing to consider a six month moratorium on new data center site plans.",
+    "src": "https://www.datacenterknowledge.com/data-center-site-selection/aws-data-center-withdrawal-signals-growing-political-community-challenges"
+   },
+   {
+    "para": 3,
+    "t": "The withdrawal fit a wider pattern. Data Center Watch counted 75 major data center projects nationwide, worth more than $130 billion, delayed or canceled in the first quarter of 2026 amid organized local opposition.",
+    "src": "https://www.datacenterknowledge.com/data-center-site-selection/aws-data-center-withdrawal-signals-growing-political-community-challenges"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterknowledge.com/data-center-site-selection/aws-data-center-withdrawal-signals-growing-political-community-challenges",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "Could not find resident quotes from the campaign or primary itself, only summary coverage of the political outcome and Amazon's withdrawal."
+ },
+ {
+  "id": "amazon-aws-kline-township-schuylkill",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon Data Services paid $178 million in 2025 for 346 acres along Lofty Road in Kline Township, Schuylkill County, Pennsylvania, for a proposed data center.",
+    "src": "https://baxtel.com/data-centers/amazon-aws"
+   },
+   {
+    "para": 1,
+    "t": "At a June 30, 2026 planning commission meeting at McAdoo Kelayres Elementary School, the session turned chaotic when Todd Eachus, a former state representative who does not live in the township, grabbed the microphone and began shouting at commissioners.",
+    "src": "https://www.yahoo.com/news/politics/articles/eachus-faces-disorderly-conduct-charges-224600064.html"
+   },
+   {
+    "para": 1,
+    "t": "Officers moved to remove him after he refused to step down, and he was handcuffed and taken to Schuylkill County Prison.",
+    "src": "https://www.yahoo.com/news/politics/articles/eachus-faces-disorderly-conduct-charges-224600064.html"
+   },
+   {
+    "para": 1,
+    "t": "Eachus, 63, was charged with resisting arrest, disorderly conduct and disrupting a public meeting; an aggravated assault charge was later withdrawn. He pleaded not guilty and is free on $10,000 bail.",
+    "src": "https://www.yahoo.com/news/politics/articles/eachus-faces-disorderly-conduct-charges-224600064.html"
+   },
+   {
+    "para": 2,
+    "t": "At public hearings, other Kline Township residents raised concerns about groundwater, noise and explosives during construction, 80-foot rock walls, and the size of the landscaping Amazon proposed to screen the site.",
+    "src": "https://www.standardspeaker.com/2026/08/28/amazon-replies-to-kline-residents-about-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Amazon has since responded to residents' questions in writing.",
+    "src": "https://www.standardspeaker.com/2026/08/28/amazon-replies-to-kline-residents-about-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "A Hazleton Standard Speaker headline summed up the mood among neighbors: \"Why Here?\"",
+    "src": "https://www.standardspeaker.com/2026/08/19/why-here-tensions-questions-remain-over-proposed-aws-data-center-in-kline-twp/"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/data-centers/amazon-aws",
+   "https://www.yahoo.com/news/politics/articles/eachus-faces-disorderly-conduct-charges-224600064.html",
+   "https://www.standardspeaker.com/2026/08/28/amazon-replies-to-kline-residents-about-data-center/",
+   "https://www.standardspeaker.com/2026/08/19/why-here-tensions-questions-remain-over-proposed-aws-data-center-in-kline-twp/"
+  ],
+  "unconfirmed": "The Hazleton Standard Speaker's reports on the Kline Township hearings and on Amazon's written answers to residents could not be opened on this pass, so the residents' concerns and the company's replies are carried as that paper summarised them, and the \"Why Here?\" line is its headline rather than anything a resident said. No capacity figure or building count for the proposed campus has been published."
+ },
+ {
+  "id": "amazon-aws-homer-city",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "AWS is looking at building a data center campus at the Homer City Energy Campus, a former coal plant being redeveloped as a 4.5 gigawatt natural gas plant in Indiana County, Pennsylvania.",
+    "src": "https://www.datacenterdynamics.com/en/news/aws-eyes-potential-data-center-development-at-45gw-natural-gas-plant-in-pennsylvania/"
+   },
+   {
+    "para": 0,
+    "t": "Homer City Redevelopment LLC, the site's owner, has proposed about 68 data center buildings across Center and Blacklick townships. The county's own record lists the project as under evaluation.",
+    "src": "https://www.indianagazette.com/local_news/homer-city-energy-campus-again-at-center-of-discussion/article_afb820e8-74c7-47f5-940c-f648209dc4bd.html"
+   },
+   {
+    "para": 1,
+    "t": "Plans call for discharging up to 6.54 million gallons a day of cooling water into Blacklick Creek, some of it as hot as 110 degrees Fahrenheit, according to the Mountain Watershed Association's executive director.",
+    "src": "https://wjactv.com/news/local/area-residents-share-concerns-over-impact-of-homer-city-data-center-on-local-waterways"
+   },
+   {
+    "para": 1,
+    "t": "Mark Ford, a Vintondale Borough Council member, worried the project could dry up the mine pools that feed surface water into the creek.",
+    "src": "https://wjactv.com/news/local/area-residents-share-concerns-over-impact-of-homer-city-data-center-on-local-waterways"
+   },
+   {
+    "para": 1,
+    "t": "The creek runs downstream through Blairsville to the Conemaugh River and currently supports a stocked trout fishery and the Ghost Town Trail.",
+    "src": "https://wjactv.com/news/local/area-residents-share-concerns-over-impact-of-homer-city-data-center-on-local-waterways"
+   },
+   {
+    "para": 1,
+    "t": "Homer City Redevelopment said in response that it takes \"seriously our responsibility and stewardship to ensure the safety of natural areas and resources near our project site.\"",
+    "src": "https://wjactv.com/news/local/area-residents-share-concerns-over-impact-of-homer-city-data-center-on-local-waterways"
+   },
+   {
+    "para": 2,
+    "t": "At a county planning meeting, Susan Comfort of Concerned Residents of Western Pennsylvania said \"industry capture\" had swallowed up county officials \"who align themselves with the interests of the billionaire-backed AI industry against their own constituents.\"",
+    "src": "https://www.indianagazette.com/local_news/homer-city-energy-campus-again-at-center-of-discussion/article_afb820e8-74c7-47f5-940c-f648209dc4bd.html"
+   },
+   {
+    "para": 2,
+    "t": "More than a dozen other residents spoke against the plan, and J. Byron Fleck tried to add an item barring nondisclosure agreements between the developer and the county to the commissioners' agenda.",
+    "src": "https://www.indianagazette.com/local_news/homer-city-energy-campus-again-at-center-of-discussion/article_afb820e8-74c7-47f5-940c-f648209dc4bd.html"
+   },
+   {
+    "para": 2,
+    "t": "Residents' complaints centered on secrecy around the plan and its effect on property values; Commissioner Sherene Hess and planning director Byron Staufer Jr. represented the county, and some speakers noted investor Jared Kushner's reported connection to the project.",
+    "src": "https://www.indianagazette.com/local_news/homer-city-energy-campus-again-at-center-of-discussion/article_afb820e8-74c7-47f5-940c-f648209dc4bd.html"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/aws-eyes-potential-data-center-development-at-45gw-natural-gas-plant-in-pennsylvania/",
+   "https://www.indianagazette.com/local_news/homer-city-energy-campus-again-at-center-of-discussion/article_afb820e8-74c7-47f5-940c-f648209dc4bd.html",
+   "https://wjactv.com/news/local/area-residents-share-concerns-over-impact-of-homer-city-data-center-on-local-waterways",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "Could not confirm a final vote, investment figure or Amazon's own timeline. The natural gas plant conversion itself predates and is broader than the data center proposal; some early coverage described the campus's overall power capacity rather than what AWS specifically would draw."
+ },
+ {
+  "id": "amazon-aws-hobart-indiana",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon Web Services is building a data center campus near 61st Avenue and Colorado Street in Hobart, in Lake County, Indiana.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It is part of a $15 billion investment in northern Indiana announced on November 24, 2025, and it is designed to draw 2,400 megawatts, about the demand of 1.92 million homes.",
+    "src": "https://datacentersexposed.com/facilities/hobart-data-center"
+   },
+   {
+    "para": 0,
+    "t": "The nearest school, Joan Martin Elementary with 501 pupils, is 1.8 miles away.",
+    "src": "https://datacentersexposed.com/facilities/hobart-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Mayor Josh Huddlestun confirmed the site on November 25, 2025, the day after the announcement.",
+    "src": "https://www.21alivenews.com/2025/11/25/hobart-reaches-agreement-with-amazon-next-gen-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "He said the city had gone looking for this: \"We sought to find good, strong development to kind of offset those losses, so that we didn't have to turn to our residents and put everything back on the backs of our residents.\"",
+    "src": "https://www.21alivenews.com/2025/11/25/hobart-reaches-agreement-with-amazon-next-gen-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "On the environmental questions he said: \"We pushed them and pushed them and wanted to understand what are they doing from an environmental standpoint?\"",
+    "src": "https://www.21alivenews.com/2025/11/25/hobart-reaches-agreement-with-amazon-next-gen-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The city says Amazon will fund the road, water and sewer work the campus needs, that the deal brings Hobart tens of millions of dollars, and that no rate rises will be passed to residents.",
+    "src": "https://www.21alivenews.com/2025/11/25/hobart-reaches-agreement-with-amazon-next-gen-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Power comes through GenCo, a subsidiary of the Northern Indiana Public Service Company, which covers Amazon's energy needs and the cost of new power infrastructure.",
+    "src": "https://www.21alivenews.com/2025/11/25/hobart-reaches-agreement-with-amazon-next-gen-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The city put the campus at thousands of construction jobs and close to a thousand long term ones.",
+    "src": "https://www.21alivenews.com/2025/11/25/hobart-reaches-agreement-with-amazon-next-gen-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Hobart residents have not accepted it quietly.",
+    "src": "https://datacentersexposed.com/facilities/hobart-data-center"
+   },
+   {
+    "para": 2,
+    "t": "Meetings of the common council and plan commission have turned on the project for the past year, and residents have raised electricity rates, water and power use, noise, and air quality near homes and schools, alongside whether the tax incentives are worth it.",
+    "src": "https://datacentersexposed.com/facilities/hobart-data-center"
+   },
+   {
+    "para": 2,
+    "t": "A campaign has run a petition, a Facebook group and a fundraiser for legal costs.",
+    "src": "https://datacentersexposed.com/facilities/hobart-data-center"
+   },
+   {
+    "para": 3,
+    "t": "The site plan was approved at a contentious meeting on May 8, 2026.",
+    "src": "https://datacentersexposed.com/facilities/hobart-data-center"
+   },
+   {
+    "para": 3,
+    "t": "An air permit filing followed on July 28 and a traffic plan passed the board of works on August 6.",
+    "src": "https://datacentersexposed.com/facilities/hobart-data-center"
+   },
+   {
+    "para": 3,
+    "t": "On September 9, 2026 final approval was delayed; city engineer Alex Metz said Amazon had to correct how a dedicated portion of the land was legally described.",
+    "src": "data:note"
+   },
+   {
+    "para": 3,
+    "t": "Five bills on data center water use, rate increases, labour requirements and development standards were introduced in the Indiana legislature in early 2026.",
+    "src": "https://datacentersexposed.com/facilities/hobart-data-center"
+   },
+   {
+    "para": 4,
+    "t": "Neighbouring Merrillville adopted a one year data center moratorium from June 1, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "This is not the heavily covered AWS campus at New Carlisle, Indiana, which is in a different county.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://datacentersexposed.com/facilities/hobart-data-center",
+   "https://www.21alivenews.com/2025/11/25/hobart-reaches-agreement-with-amazon-next-gen-data-center/"
+  ],
+  "unconfirmed": "No acreage or building count was found. Reports of an opposition group called No Data Centers Hobart Indiana and of a suit filed in Lake County court appear in search summaries, but every page carrying them refused our requests, so neither is stated here and no resident is quoted. The Northwest Indiana Times coverage sits behind a paywall that returns an authorization error."
+ },
+ {
+  "id": "amazon-aws-wheatfield-rise",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A data center campus is going up beside the Schahfer Generating Station, the coal plant that has stood on the horizon in Wheatfield, Jasper County, Indiana, since the 1970s.",
+    "src": "https://www.canarymedia.com/articles/fossil-fuels/this-indiana-community-is-caught-between-coal-and-the-data-center-boom"
+   },
+   {
+    "para": 0,
+    "t": "NIPSCO said in 2018 it would close the coal plant by 2023 and shut two of its four units in 2021, but in December 2025 the Trump administration ordered what was left, 850 megawatts across two units, to stay open.",
+    "src": "https://www.canarymedia.com/articles/fossil-fuels/this-indiana-community-is-caught-between-coal-and-the-data-center-boom"
+   },
+   {
+    "para": 0,
+    "t": "Barb Deardorff, a teachers' union organizer whose family has been in the county five generations, said of the stacks: \"For better or worse, they've always been literally and figuratively on my horizon.\"",
+    "src": "https://www.canarymedia.com/articles/fossil-fuels/this-indiana-community-is-caught-between-coal-and-the-data-center-boom"
+   },
+   {
+    "para": 1,
+    "t": "In October 2025 NIPSCO asked the county to rezone more than 300 acres beside the plant, land it owns, for a data center and a gas plant.",
+    "src": "https://www.canarymedia.com/articles/fossil-fuels/this-indiana-community-is-caught-between-coal-and-the-data-center-boom"
+   },
+   {
+    "para": 1,
+    "t": "The tenant is Amazon, and the project is called Project Rise.",
+    "src": "https://nwindianabusiness.com/industries/professional-services/information-technology/officials-approve-jasper-county-amazon-data-center/78353/"
+   },
+   {
+    "para": 2,
+    "t": "Dozens of residents filled the planning commission meeting on December 15, 2025, and the hearing ran close to four hours.",
+    "src": "https://www.canarymedia.com/articles/fossil-fuels/this-indiana-community-is-caught-between-coal-and-the-data-center-boom"
+   },
+   {
+    "para": 2,
+    "t": "The commission voted 8 to 1 against the rezoning.",
+    "src": "https://www.canarymedia.com/articles/fossil-fuels/this-indiana-community-is-caught-between-coal-and-the-data-center-boom"
+   },
+   {
+    "para": 2,
+    "t": "On February 2, 2026 the county commissioners approved it anyway, 3 to 0.",
+    "src": "https://www.canarymedia.com/articles/fossil-fuels/this-indiana-community-is-caught-between-coal-and-the-data-center-boom"
+   },
+   {
+    "para": 2,
+    "t": "Commission president Rein Bontreger explained the vote afterwards: \"We can say no today and we're still gonna get a data center. There's legislation advancing through the state legislature right now that's going to give the state authority to site a data center, and Jasper County is one of the specific locations.\"",
+    "src": "https://www.canarymedia.com/articles/fossil-fuels/this-indiana-community-is-caught-between-coal-and-the-data-center-boom"
+   },
+   {
+    "para": 2,
+    "t": "In late April the planning commission voted 6 to 3 against rezoning for the gas plant, and on May 4 the commissioners approved what had by then been described as a parking lot.",
+    "src": "https://www.canarymedia.com/articles/fossil-fuels/this-indiana-community-is-caught-between-coal-and-the-data-center-boom"
+   },
+   {
+    "para": 3,
+    "t": "At a community meeting at the Wheatfield library on January 26, 2026, contractor and pastor Terry Wellsand told the room: \"This isn't for us, the customers. This is for the big boys.\"",
+    "src": "https://www.canarymedia.com/articles/fossil-fuels/this-indiana-community-is-caught-between-coal-and-the-data-center-boom"
+   },
+   {
+    "para": 3,
+    "t": "Deardorff's verdict on NIPSCO's promises of jobs and economic benefit was shorter: \"This is a bunch of garbage!\"",
+    "src": "https://www.canarymedia.com/articles/fossil-fuels/this-indiana-community-is-caught-between-coal-and-the-data-center-boom"
+   },
+   {
+    "para": 3,
+    "t": "Ashley Williams, executive director of Just Transition Northwest Indiana, said \"Wheatfield is a dangerous trend we've seen of AI locating next to existing coal infrastructure,\" one that suits NIPSCO because of its grid connection while piling cumulative harm on the community around it.",
+    "src": "https://www.canarymedia.com/articles/fossil-fuels/this-indiana-community-is-caught-between-coal-and-the-data-center-boom"
+   },
+   {
+    "para": 3,
+    "t": "Residents at a February hearing argued the land was zoned agricultural and should stay that way.",
+    "src": "https://www.canarymedia.com/articles/fossil-fuels/this-indiana-community-is-caught-between-coal-and-the-data-center-boom"
+   },
+   {
+    "para": 4,
+    "t": "What sits under the site is part of the objection.",
+    "src": "https://www.canarymedia.com/articles/fossil-fuels/this-indiana-community-is-caught-between-coal-and-the-data-center-boom"
+   },
+   {
+    "para": 4,
+    "t": "NIPSCO's own groundwater monitoring around the coal ash landfill has found raised levels of molybdenum, lithium, cobalt and arsenic.",
+    "src": "https://www.canarymedia.com/articles/fossil-fuels/this-indiana-community-is-caught-between-coal-and-the-data-center-boom"
+   },
+   {
+    "para": 4,
+    "t": "The company says the contamination has not moved beyond the plant site; Sameer Doshi of Earthjustice said the landfill \"is likely leaking and endangering the groundwater and health of everyone who lives around the Schahfer facility.\"",
+    "src": "https://www.canarymedia.com/articles/fossil-fuels/this-indiana-community-is-caught-between-coal-and-the-data-center-boom"
+   },
+   {
+    "para": 5,
+    "t": "Jasper County officials approved the project on June 17, 2026.",
+    "src": "https://nwindianabusiness.com/industries/professional-services/information-technology/officials-approve-jasper-county-amazon-data-center/78353/"
+   },
+   {
+    "para": 5,
+    "t": "It is a $7 billion campus on 304 acres, with 250 jobs, $98 million paid to the county in advance, $25 million toward expanding the water supply and 425 acres of habitat restoration.",
+    "src": "https://nwindianabusiness.com/industries/professional-services/information-technology/officials-approve-jasper-county-amazon-data-center/78353/"
+   },
+   {
+    "para": 5,
+    "t": "NIPSCO is building a 400 megawatt peaker plant alongside it at a construction and financing cost of $643.7 million.",
+    "src": "https://nwindianabusiness.com/industries/professional-services/information-technology/officials-approve-jasper-county-amazon-data-center/78353/"
+   },
+   {
+    "para": 5,
+    "t": "Roger Wehner, the AWS vice president for economic development, said that \"when we build a data center, we work closely with community-based organizations and local leaders to ensure our investments respond to local needs, whether that be conserving local habitat or upskilling the local workforce.\"",
+    "src": "https://nwindianabusiness.com/industries/professional-services/information-technology/officials-approve-jasper-county-amazon-data-center/78353/"
+   },
+   {
+    "para": 6,
+    "t": "Deardorff, asked where she had landed after a year of this, said: \"I try to temper my hope so that I'm not crushed when things don't work out as I think they should. But I will continue to work to stop this.\"",
+    "src": "https://www.canarymedia.com/articles/fossil-fuels/this-indiana-community-is-caught-between-coal-and-the-data-center-boom"
+   },
+   {
+    "para": 6,
+    "t": "Two neighbouring counties, Pulaski and Starke, have adopted year long data center moratoriums.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.canarymedia.com/articles/fossil-fuels/this-indiana-community-is-caught-between-coal-and-the-data-center-boom",
+   "https://nwindianabusiness.com/industries/professional-services/information-technology/officials-approve-jasper-county-amazon-data-center/78353/"
+  ],
+  "unconfirmed": "Accounts of the project's scale do not agree: the county approval notice describes 304 acres and 250 jobs, while the reporting on the rezoning fight describes more than 300 acres, 300 permanent jobs and a gas plant of more than 2 gigawatts against the 400 megawatt peaker in the approval notice. The building count was not found, and no Amazon representative has answered the coal ash question on the record."
+ },
+ {
+  "id": "amazon-aws-covington-georgia",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon Web Services is building a data center off Alcovy Road in Covington, Newton County, Georgia.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The city of Covington issued a stop work order in mid-July 2026 after engineering technician Nicholas Noble found turbid water discharging above allowed limits from the site's detention ponds, along with malfunctioning pond skimmers and improperly installed silt fencing.",
+    "src": "https://www.covnews.com/news/stop-work-order-lifted-at-amazon-site/article_e373a0d8-f25d-5073-8175-b059126761f1.html"
+   },
+   {
+    "para": 0,
+    "t": "Georgia's Environmental Protection Division separately issued a stop work order to VoltaGrid and ServerFarm over unpermitted construction of methane gas fired engines meant to provide temporary power to the site.",
+    "src": "https://www.covnews.com/news/stop-work-order-lifted-at-amazon-site/article_e373a0d8-f25d-5073-8175-b059126761f1.html"
+   },
+   {
+    "para": 0,
+    "t": "The city lifted its order by August 13, 2026, on the condition the erosion problems were corrected.",
+    "src": "https://www.covnews.com/news/stop-work-order-lifted-at-amazon-site/article_e373a0d8-f25d-5073-8175-b059126761f1.html"
+   },
+   {
+    "para": 1,
+    "t": "Covington itself had adopted a data center moratorium on January 6, 2026, that ran until October 20, 2026, and Newton County passed its own moratorium on April 8, 2026, later extended to October 5, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Newton County already has four other data centers, including two Meta campuses within 15 kilometers.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://www.covnews.com/news/stop-work-order-lifted-at-amazon-site/article_e373a0d8-f25d-5073-8175-b059126761f1.html",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "Could not confirm the project's total size, power capacity or investment figure. The local moratoriums appear aimed at future proposals rather than this already-under-construction site."
+ }
+]

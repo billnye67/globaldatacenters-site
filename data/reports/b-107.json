@@ -1,0 +1,689 @@
+[
+ {
+  "id": "ft-1772656712744-9213",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Santaquin, in Utah County, approved this data center before most of the town had heard of it.",
+    "src": "https://www.ksl.com/article/51442989/some-santaquin-residents-raise-concerns-over-approval-of-future-data-center"
+   },
+   {
+    "para": 0,
+    "t": "The city agreed a land use amendment in October 2024 and site plans in 2025 for the Summit Ridge data center, at the south end of town near the Interstate 15 Summit Ridge Parkway exit, from the Data Center Power Company of Orem.",
+    "src": "https://www.ksl.com/article/51442989/some-santaquin-residents-raise-concerns-over-approval-of-future-data-center"
+   },
+   {
+    "para": 0,
+    "t": "The campus would run off the city grid on smaller natural gas engines, with minimal water and sewer use.",
+    "src": "https://www.ksl.com/article/51442989/some-santaquin-residents-raise-concerns-over-approval-of-future-data-center"
+   },
+   {
+    "para": 0,
+    "t": "The entry puts it at 15372 South Ridge Farms Road, marks it proposed and carries 20 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The case made for it is municipal.",
+    "src": "https://www.ksl.com/article/51442989/some-santaquin-residents-raise-concerns-over-approval-of-future-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Mayor Dan Olson said the money would pay for services the city needs: \"We need another fire station because from corner to corner, our city, it's 8 miles across it, and we need response times to save lives. If somebody has a heart attack, we need to be there in less than four minutes to make sure that we have a chance to save them.\"",
+    "src": "https://www.ksl.com/article/51442989/some-santaquin-residents-raise-concerns-over-approval-of-future-data-center"
+   },
+   {
+    "para": 1,
+    "t": "The city expects more than $3 million a year in sales tax and about a hundred jobs it describes as six figure.",
+    "src": "https://www.ksl.com/article/51442989/some-santaquin-residents-raise-concerns-over-approval-of-future-data-center"
+   },
+   {
+    "para": 2,
+    "t": "The case against is where it sits.",
+    "src": "https://www.ksl.com/article/51442989/some-santaquin-residents-raise-concerns-over-approval-of-future-data-center"
+   },
+   {
+    "para": 2,
+    "t": "Kelsy Trane, a resident, said: \"There's a ton of houses just right up on the ridge, and there's townhouses that are even closer and a city park where like all of our children play soccer and everything else.\"",
+    "src": "https://www.ksl.com/article/51442989/some-santaquin-residents-raise-concerns-over-approval-of-future-data-center"
+   },
+   {
+    "para": 2,
+    "t": "She added: \"With Santaquin and just Utah in general already having such high pollution, we find that this is not a good placement for this specific center.\"",
+    "src": "https://www.ksl.com/article/51442989/some-santaquin-residents-raise-concerns-over-approval-of-future-data-center"
+   },
+   {
+    "para": 2,
+    "t": "Her Change.org petition against the project had gathered more than 1,350 signatures.",
+    "src": "https://www.ksl.com/article/51442989/some-santaquin-residents-raise-concerns-over-approval-of-future-data-center"
+   },
+   {
+    "para": 2,
+    "t": "What she kept coming back to was the process: \"My biggest question was, if this was such a great idea, why did nobody know about it, except you guys?\"",
+    "src": "https://www.ksl.com/article/51442989/some-santaquin-residents-raise-concerns-over-approval-of-future-data-center"
+   },
+   {
+    "para": 3,
+    "t": "Six data center sites are counted in Utah County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "A 5 megawatt Provo project the record marks suspended is 32 kilometres away and Tract's Pony Express site at Eagle Mountain 39.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Nephi wrote zoning limits on data centers on December 2, 2025 and Provo on March 10, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The 130 megawatt Nebo Power Station is 14 kilometres away and the 524 megawatt Currant Creek plant 16, though the campus is not meant to use either.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.ksl.com/article/51442989/some-santaquin-residents-raise-concerns-over-approval-of-future-data-center"
+  ],
+  "unconfirmed": "The capacity is disputed: our record says 20 megawatts and industry listings say 100. The report read gives no megawatt figure, no construction start and no detail of the cooling system, and dates the petition count only by weekday, so the February 5, 2026 previously carried here has come out. The number and size of the gas engines, and what they would emit, were not established."
+ },
+ {
+  "id": "ft-1777347197406-6862",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Stratos data center scheme in Box Elder County is modelled at nine gigawatts, which would nearly double the whole of Utah's 2025 peak demand.",
+    "src": "https://utahcleanenergy.org/estimated-emissions-and-water-consumption-from-the-proposed-stratos-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The Stratos project covers up to 40,000 acres of largely undeveloped land in unincorporated Box Elder County, taking in private property, Utah National Guard land and Hill Air Force Base land, in three separate areas including one by Interstate 84 at Hansel Valley Road.",
+    "src": "https://www.ksl.com/article/51488565/utah-box-elder-county-officials-mull-plan-to-spur-energy-production-data-center-development"
+   },
+   {
+    "para": 0,
+    "t": "The development authority document describes energy generation, hyperscale data centers, advanced manufacturing, housing and commercial buildings, and says the scheme would improve military readiness and national security and make Utah a leader in innovation and energy independence.",
+    "src": "https://www.ksl.com/article/51488565/utah-box-elder-county-officials-mull-plan-to-spur-energy-production-data-center-development"
+   },
+   {
+    "para": 0,
+    "t": "The Military Installation Development Authority is leading it, private landowners have already consented, and Box Elder County had to approve the inclusion of the nonmilitary land.",
+    "src": "https://www.ksl.com/article/51488565/utah-box-elder-county-officials-mull-plan-to-spur-energy-production-data-center-development"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 40,000 acres, 9,000 megawatts and marks the eastern site under construction.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Utah Clean Energy put numbers on what nine gigawatts of on-site gas generation would mean, in two versions.",
+    "src": "https://utahcleanenergy.org/estimated-emissions-and-water-consumption-from-the-proposed-stratos-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "With combined cycle turbines: about 448 billion cubic feet of gas a year, one and a half times Utah's entire current use; 30.2 million tons of carbon dioxide, a 55 percent rise in state emissions; 1,857 tons of nitrogen oxides, roughly five times Box Elder County's industrial emissions; and 16.6 billion gallons of water, about 25,000 Olympic pools.",
+    "src": "https://utahcleanenergy.org/estimated-emissions-and-water-consumption-from-the-proposed-stratos-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "With reciprocating engines, which are available now rather than in five to seven years: 41 million tons of carbon dioxide, a 75 percent rise; 12,000 tons of nitrogen oxides, as much as the annual output of Utah's whole oil and gas industry; and 2 billion gallons of water, about 3,000 Olympic pools.",
+    "src": "https://utahcleanenergy.org/estimated-emissions-and-water-consumption-from-the-proposed-stratos-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Utah Clean Energy's chief executive said \"Utahns deserve more information and facts about this proposed project to fully understand its impacts.\"",
+    "src": "https://utahcleanenergy.org/estimated-emissions-and-water-consumption-from-the-proposed-stratos-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "The county met twice.",
+    "src": "https://www.sltrib.com/news/2026/04/27/hyperscale-data-center-project/"
+   },
+   {
+    "para": 2,
+    "t": "On Monday, April 27, 2026 the commission put off its vote, with more than 80 protesters asking for public input while state leaders pressed for a quick decision.",
+    "src": "https://www.sltrib.com/news/2026/04/27/hyperscale-data-center-project/"
+   },
+   {
+    "para": 2,
+    "t": "On Monday, May 4, 2026, at the county fairgrounds in Tremonton, it approved the project.",
+    "src": "https://www.sltrib.com/news/2026/05/04/utah-data-center-final-vote-box/"
+   },
+   {
+    "para": 2,
+    "t": "The meeting was contentious and police were there to manage protesters.",
+    "src": "https://www.sltrib.com/news/2026/05/04/utah-data-center-final-vote-box/"
+   },
+   {
+    "para": 2,
+    "t": "The Salt Lake Tribune named the celebrity investor Kevin O'Leary as backing the project and reported that at full build the campus will use more than twice as much power as the entire state of Utah.",
+    "src": "https://www.sltrib.com/news/2026/05/04/utah-data-center-final-vote-box/"
+   },
+   {
+    "para": 3,
+    "t": "Box Elder County adopted a moratorium on data centers on June 11, 2026, five weeks after approving this one.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The western half of Stratos is 21 kilometres away and is the only other data center entry the record holds within reach.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "There is almost no generation out here: an 80 megawatt solar plant 24 kilometres off, another 40, and then nothing until a 79 megawatt wind farm 101 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The record attaches organised opposition to the project.",
+    "src": "data:fractracker"
+   }
+  ],
+  "sources": [
+   "https://www.ksl.com/article/51488565/utah-box-elder-county-officials-mull-plan-to-spur-energy-production-data-center-development",
+   "https://utahcleanenergy.org/estimated-emissions-and-water-consumption-from-the-proposed-stratos-data-center/",
+   "https://www.sltrib.com/news/2026/04/27/hyperscale-data-center-project/",
+   "https://www.sltrib.com/news/2026/05/04/utah-data-center-final-vote-box/"
+  ],
+  "unconfirmed": "The Salt Lake Tribune report of the April meeting carries only a headline and caption, so no vote count and nothing commissioners or residents said at it is carried here. The emissions and water figures are Utah Clean Energy's modelling of a nine gigawatt campus, not permitted numbers; no air permit was found. What is actually under construction, as our status claims, was not established."
+ },
+ {
+  "id": "ft-1777347134333-6528",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The western half of the Stratos data center scheme sits on Locomotive Springs Road at Snowville, in Box Elder County, 21 kilometres from the eastern site.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The entry gives it no capacity figure at all, and both entries carry the same 40,000 acres, which is the whole Stratos footprint rather than either site.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "Stratos as a whole covers up to 40,000 acres of largely rural, undeveloped land in unincorporated Box Elder County, across private property, Utah National Guard land and Hill Air Force Base land, in three separate areas.",
+    "src": "https://www.ksl.com/article/51488565/utah-box-elder-county-officials-mull-plan-to-spur-energy-production-data-center-development"
+   },
+   {
+    "para": 1,
+    "t": "The Military Installation Development Authority is leading it, and the documents describe energy generation, hyperscale data centers, advanced manufacturing, housing and commercial buildings.",
+    "src": "https://www.ksl.com/article/51488565/utah-box-elder-county-officials-mull-plan-to-spur-energy-production-data-center-development"
+   },
+   {
+    "para": 1,
+    "t": "Private owners consented before the county was asked to approve the nonmilitary land.",
+    "src": "https://www.ksl.com/article/51488565/utah-box-elder-county-officials-mull-plan-to-spur-energy-production-data-center-development"
+   },
+   {
+    "para": 1,
+    "t": "Private owners consented before the county was asked.",
+    "src": "https://www.ksl.com/article/51488565/utah-box-elder-county-officials-mull-plan-to-spur-energy-production-data-center-development"
+   },
+   {
+    "para": 2,
+    "t": "What makes the scale hard to picture is the power.",
+    "src": "https://utahcleanenergy.org/estimated-emissions-and-water-consumption-from-the-proposed-stratos-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Utah Clean Energy modelled nine gigawatts of on-site gas generation and found it would burn about 448 billion cubic feet of gas a year, one and a half times Utah's entire current consumption, if combined cycle turbines were used.",
+    "src": "https://utahcleanenergy.org/estimated-emissions-and-water-consumption-from-the-proposed-stratos-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Reciprocating engines, available sooner, would emit 41 million tons of carbon dioxide a year, raising state emissions by 75 percent, and 12,000 tons of nitrogen oxides, as much as Utah's whole oil and gas industry.",
+    "src": "https://utahcleanenergy.org/estimated-emissions-and-water-consumption-from-the-proposed-stratos-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Water ranges from 2 billion gallons a year for the engines, about 3,000 Olympic pools, to 16.6 billion for the turbines, about 25,000.",
+    "src": "https://utahcleanenergy.org/estimated-emissions-and-water-consumption-from-the-proposed-stratos-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "The county delayed its vote on April 27, 2026 after more than 80 protesters asked for public input, and approved the project on May 4, 2026 at a contentious meeting in Tremonton with police present.",
+    "src": "https://www.sltrib.com/news/2026/04/27/hyperscale-data-center-project/"
+   },
+   {
+    "para": 3,
+    "t": "Box Elder County then adopted a moratorium on data centers on June 11, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The entry marks this site under construction and attaches organised opposition to it.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Out here there is almost nothing to draw on: the closest generation to the western site is an 80 megawatt solar plant 41 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.ksl.com/article/51488565/utah-box-elder-county-officials-mull-plan-to-spur-energy-production-data-center-development",
+   "https://utahcleanenergy.org/estimated-emissions-and-water-consumption-from-the-proposed-stratos-data-center/",
+   "https://www.sltrib.com/news/2026/04/27/hyperscale-data-center-project/"
+  ],
+  "unconfirmed": "Nothing found describes the western site separately from the eastern one: its acreage, its share of the nine gigawatts, its buildings and its timetable are all unstated, and our record gives it no capacity. Whether the two entries are two campuses or one project recorded twice is unresolved. The Salt Lake Tribune report of the April meeting carries only a headline and caption."
+ },
+ {
+  "id": "ft-1033",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The record holds a proposed data center on 88 acres at Bull Church Road, east of Interstate 95 near the Ladysmith interchange, in Caroline County, with no developer and no capacity figure.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "Its single source, the county's rezoning file RZ-04-2024, returns a 404.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Caroline County's current list of applications does carry the case: RZ-04-2024, from NRD Retail LLC, on Bull Church Road in the Mattaponi voting district, still in technical review with no public hearing date determined.",
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+   },
+   {
+    "para": 1,
+    "t": "It is one of the oldest live applications on that list, and it is surrounded.",
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+   },
+   {
+    "para": 1,
+    "t": "Thornberry wants 657 acres of a 1,001.5 acre parcel at Carneal Lane, ADP Ladysmith Data Hub 140.38 acres at Green Road, Luck Stone 1,196.3 acres off Jericho Road and Avanti Management 1,658 acres at Ware Creek Road.",
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+   },
+   {
+    "para": 1,
+    "t": "Within two kilometres of this parcel the record holds the ADP Ladysmith site, CleanArc's 600 megawatt campus under construction, the Ladysmith Technology Park and the Airlee site.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Eleven data center sites are counted in Caroline County, and no moratorium or zoning limit on data centers applies anywhere in it.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The 814 megawatt Ladysmith gas plant is seven kilometres from here, the 1,189 megawatt Doswell Energy Center 21 and the 1,893 megawatt North Anna nuclear station 27.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+  ],
+  "unconfirmed": "Who is behind NRD Retail LLC, what would be built, how much power it would draw and when it might be heard are all unstated. The county document our record cites is a dead link. Our 88 acres does not appear on the county's list, which gives no acreage for this case."
+ },
+ {
+  "id": "ft-1045",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The King George Technology Center is a data center proposed at Graves Corner, northwest of where Bloomsbury Road meets Kings Highway, in King George County.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Green Energy Ventures publishes its submissions for it: up to 6.5 million square feet of data center development, built in two phases based on market demand.",
+    "src": "https://kinggeorgetechnologycenter.com/submissions/"
+   },
+   {
+    "para": 0,
+    "t": "The scheme is up to 6.5 million square feet of data center development, built in two phases according to demand.",
+    "src": "https://kinggeorgetechnologycenter.com/submissions/"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 352 acres, marks it proposed and holds no capacity figure.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The commitments it has published are the specific kind that survive a hearing.",
+    "src": "https://kinggeorgetechnologycenter.com/submissions/"
+   },
+   {
+    "para": 1,
+    "t": "Eighteen acres would go to King George County for public use, there would be money for public safety and county resources, and turn lanes and potential traffic signals along Route 3.",
+    "src": "https://kinggeorgetechnologycenter.com/submissions/"
+   },
+   {
+    "para": 1,
+    "t": "The application was launched on May 17, 2022 and the rezoning submission went in on September 26, 2022.",
+    "src": "https://kinggeorgetechnologycenter.com/submissions/"
+   },
+   {
+    "para": 2,
+    "t": "What the site does not publish is what it would draw.",
+    "src": "https://kinggeorgetechnologycenter.com/submissions/"
+   },
+   {
+    "para": 2,
+    "t": "There is no megawatt figure, no water requirement and no building count on the submissions page, and the record holds none either.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "Four data center sites are counted in King George County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "An AWS site at Birchwood that the record marks on hold is three kilometres away, the Forest Lane project eight and Sisson North eight.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 814 megawatt Ladysmith gas plant is 28 kilometres off, the 108 megawatt Morgantown plant 30 and the 645 megawatt Possum Point station 31.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "No moratorium applies in King George; the nearest are Culpeper County's zoning limits from September 2, 2025 and Prince William County's from March 4, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://kinggeorgetechnologycenter.com/submissions/"
+  ],
+  "unconfirmed": "The application dates from 2022 and we could not establish what the county has since decided, whether a hearing was held, or whether the scheme is still live. No megawatt figure, water demand or tenant is published. Our 352 acres does not appear on the developer's own page, which gives square footage only."
+ },
+ {
+  "id": "ft-1051",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A data center is proposed on 165 acres on Ladysmith Road, northwest of the Interstate 95 junction, in Caroline County.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The record names no developer and holds no capacity figure, and its single source, a county site plan file numbered SP-26-2024, returns a 404.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The case does not appear on Caroline County's current list of applications, and a site plan is a later stage than a rezoning, which suggests this one had already cleared the zoning question when the record captured it.",
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+   },
+   {
+    "para": 1,
+    "t": "It sits a kilometre from the one project in this cluster that has actually been agreed.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "CleanArc's 600 megawatt campus is under construction on 650 acres east of the interstate at exit 110.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Bull Church is two kilometres from here, the ADP Ladysmith Data Hub three and the Airlee parcel three.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Caroline County's live list is long: Thornberry on 657 acres at Carneal Lane, ADP Ladysmith on 140.38 acres at Green Road, Luck Stone on 1,196.3 acres off Jericho Road, Avanti Management on 1,658 acres at Ware Creek Road, and NRD Retail on Bull Church Road still in technical review.",
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+   },
+   {
+    "para": 2,
+    "t": "Eleven data center sites are counted in the county and no moratorium applies in it.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The 814 megawatt Ladysmith gas plant is five kilometres from this parcel, the closest large generator to any of these sites.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The 1,189 megawatt Doswell Energy Center is 23 kilometres away and the 1,893 megawatt North Anna nuclear station 25.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+  ],
+  "unconfirmed": "No applicant, building count, square footage, megawatt figure or decision was found. The county file our record cites is a dead link and the case is absent from the county's current list, so whether it was approved, refused, withdrawn or simply completed is unknown. The reference to Port Royal in the file name does not match the Ladysmith location in our record."
+ },
+ {
+  "id": "ft-746",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Appomattox County sold 452 acres of its industrial park for a data center at $10,000 an acre.",
+    "src": "https://cardinalnews.org/2024/12/11/appomatox-county-strikes-deal-for-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The buyer is Avaio Digital Partners, of Stamford, Connecticut, and the land lies north of the town of Appomattox near U.S. 460 and Virginia 26, for about $4.5 million.",
+    "src": "https://cardinalnews.org/2024/12/11/appomatox-county-strikes-deal-for-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The company says it will invest $3 billion in construction, systems and power.",
+    "src": "https://cardinalnews.org/2024/12/11/appomatox-county-strikes-deal-for-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 450 acres and 300 megawatts, and marks the project proposed.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The power would come from Central Virginia Electric Cooperative and Dominion Energy, 300 megawatts between them, with what the company called substantial green power on site and no detail attached to the phrase.",
+    "src": "https://cardinalnews.org/2024/12/11/appomatox-county-strikes-deal-for-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Construction was to begin in the autumn of 2025 and finish around the autumn of 2027.",
+    "src": "https://cardinalnews.org/2024/12/11/appomatox-county-strikes-deal-for-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Officials expect 200 to 250 permanent jobs, against a state legislative study's finding that a typical data center employs about 1,500 people at peak construction.",
+    "src": "https://cardinalnews.org/2024/12/11/appomatox-county-strikes-deal-for-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Garet Bosiger, chairman of the county economic development authority, made the case in two lines: \"Appomattox needed a shot in the arm. We haven't had a lot going on and this is a big deal for local jobs.\"",
+    "src": "https://cardinalnews.org/2024/12/11/appomatox-county-strikes-deal-for-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Avaio declined to answer questions before publication about construction employment, local hiring, the size of the buildings or which green energy sources it meant.",
+    "src": "https://cardinalnews.org/2024/12/11/appomatox-county-strikes-deal-for-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Appomattox County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The cancelled Cabin Field Road proposal in Campbell County is 19 kilometres away, and the Prince William Digital Gateway, which the record marks blocked at 1,800 megawatts, is 39.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Amherst County wrote zoning limits on data centers on June 5, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "There is very little generation nearby: an 80 megawatt solar farm 42 kilometres off and the 51 megawatt Altavista biomass plant 48.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://cardinalnews.org/2024/12/11/appomatox-county-strikes-deal-for-data-center/"
+  ],
+  "unconfirmed": "Whether construction actually began in autumn 2025 was not established; our only reporting source dates from December 2024. Water use, the building count and the tenant are unpublished. No public hearing or opposition was reported."
+ },
+ {
+  "id": "ft-716",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Iron Horse data center at 10171 East Patrick Henry Road, on the Hanover County and Ashland town line just east of Interstate 95, is being pursued by WestDulles Properties of Reston.",
+    "src": "https://richmondbizsense.com/2026/05/14/latest-iron-horse-data-center-proposal-teed-up-for-hanover-planning-commission-review/"
+   },
+   {
+    "para": 0,
+    "t": "The record files it under Harris and Douglass Properties LLC on 234 acres, proposed, with no capacity figure, and cites two Hanover County pages.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The record holds the WestDulles entry separately, a kilometre away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The whole campus is 180 acres and straddles the line.",
+    "src": "https://richmondbizsense.com/2026/05/14/latest-iron-horse-data-center-proposal-teed-up-for-hanover-planning-commission-review/"
+   },
+   {
+    "para": 1,
+    "t": "The whole thing is 180 acres; the Hanover side is 78, of which 28 would be built on and about 50 left undeveloped, and across both jurisdictions the campus would run to nine two storey buildings and 2.2 million square feet.",
+    "src": "https://richmondbizsense.com/2026/05/14/latest-iron-horse-data-center-proposal-teed-up-for-hanover-planning-commission-review/"
+   },
+   {
+    "para": 1,
+    "t": "Ashland Town Council approved the town side in late 2024, Hanover rejected a similar proposal for its side the same year, and the amended application was filed in early 2025.",
+    "src": "https://richmondbizsense.com/2026/05/14/latest-iron-horse-data-center-proposal-teed-up-for-hanover-planning-commission-review/"
+   },
+   {
+    "para": 2,
+    "t": "The version put back to Hanover was smaller in the ways neighbours had asked for: buildings down from 110 feet to 75, a 49 lot subdivision on Mount Hermon Road dropped, one access point on Route 54 removed, wider buffers, and eleven developable acres turned to green space.",
+    "src": "https://richmondbizsense.com/2026/05/14/latest-iron-horse-data-center-proposal-teed-up-for-hanover-planning-commission-review/"
+   },
+   {
+    "para": 2,
+    "t": "The company's attorney, Andy Condlin, said the 2024 denial \"was primarily, we feel, because of the residential, because of the height at 110 feet and because of the lack of transition from I-95 to the more rural area of the county,\" and that the new application addresses each of those.",
+    "src": "https://richmondbizsense.com/2026/05/14/latest-iron-horse-data-center-proposal-teed-up-for-hanover-planning-commission-review/"
+   },
+   {
+    "para": 2,
+    "t": "He argued data centers were the better outcome for the neighbours: \"We feel like the data centers are a better option because it's less traffic, there's less stress on services ... and there's obviously more open space, where we're only using a third of the property.\"",
+    "src": "https://richmondbizsense.com/2026/05/14/latest-iron-horse-data-center-proposal-teed-up-for-hanover-planning-commission-review/"
+   },
+   {
+    "para": 3,
+    "t": "In mid June 2026 the Hanover planning commission deferred the decision unanimously, putting it off to the following month.",
+    "src": "https://richmondbizsense.com/2026/06/26/one-data-center-project-pulled-and-another-delayed-in-hanover-as-supervisors-reinstitute-equipment-tax/"
+   },
+   {
+    "para": 3,
+    "t": "That same week the board of supervisors voted unanimously to reinstate the county's data center equipment tax at 45 cents per $100 of assessed value for the 2027 financial year.",
+    "src": "https://richmondbizsense.com/2026/06/26/one-data-center-project-pulled-and-another-delayed-in-hanover-as-supervisors-reinstitute-equipment-tax/"
+   },
+   {
+    "para": 3,
+    "t": "Supervisor Sue Dibble argued for caution on the rate: \"We need to fully vet this in a very comprehensive manner. This is probably a little premature as far as us effectively raising a tax any higher than our neighbors. It creates a big-picture problem in that you may not get the best business partners that you want.\"",
+    "src": "https://richmondbizsense.com/2026/06/26/one-data-center-project-pulled-and-another-delayed-in-hanover-as-supervisors-reinstitute-equipment-tax/"
+   },
+   {
+    "para": 3,
+    "t": "WestDulles hoped the planning commission would vote in June 2026.",
+    "src": "https://richmondbizsense.com/2026/05/14/latest-iron-horse-data-center-proposal-teed-up-for-hanover-planning-commission-review/"
+   },
+   {
+    "para": 4,
+    "t": "Eight data center sites are counted in Hanover County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 4,
+    "t": "The 1,189 megawatt Doswell Energy Center is seven kilometres away, and no moratorium applies in the county.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://richmondbizsense.com/2026/05/14/latest-iron-horse-data-center-proposal-teed-up-for-hanover-planning-commission-review/",
+   "https://richmondbizsense.com/2026/06/26/one-data-center-project-pulled-and-another-delayed-in-hanover-as-supervisors-reinstitute-equipment-tax/"
+  ],
+  "unconfirmed": "Our record held this address twice, once at 230 acres and once at 234, and the two have been merged; neither figure matches the 180 acre campus or the 78 acre Hanover portion in the reporting, and our separate WestDulles entry a kilometre away may be the town half of the same project. The developer named in our record, Harris and Douglass Properties LLC, is not the applicant in the reporting, which is WestDulles Properties. The outcome of the July 2026 planning commission vote is unknown, and no megawatt figure or water demand has been published."
+ },
+ {
+  "id": "ft-1773977444756-3968",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one has been withdrawn, and the record now marks it cancelled.",
+    "src": "https://richmondbizsense.com/2026/06/26/one-data-center-project-pulled-and-another-delayed-in-hanover-as-supervisors-reinstitute-equipment-tax/"
+   },
+   {
+    "para": 0,
+    "t": "LS Power, of New York, pulled its zoning request for a data center campus at 10165 Old Ridge Road in Hanover County, in a letter from its attorney to the county in May 2026.",
+    "src": "https://richmondbizsense.com/2026/06/26/one-data-center-project-pulled-and-another-delayed-in-hanover-as-supervisors-reinstitute-equipment-tax/"
+   },
+   {
+    "para": 0,
+    "t": "The campus would have been three or four buildings on 200 acres; the record carries 205.",
+    "src": "https://richmondbizsense.com/2026/06/26/one-data-center-project-pulled-and-another-delayed-in-hanover-as-supervisors-reinstitute-equipment-tax/"
+   },
+   {
+    "para": 0,
+    "t": "It gave no reason and did not answer questions about it.",
+    "src": "https://richmondbizsense.com/2026/06/26/one-data-center-project-pulled-and-another-delayed-in-hanover-as-supervisors-reinstitute-equipment-tax/"
+   },
+   {
+    "para": 1,
+    "t": "What made it unusual was where the power would come from.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "The 1,189 megawatt Doswell Energy Center is one kilometre from the site, and the campus was to sit behind the meter, taking power from the plant rather than through the grid.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "The record pairs the entry with the Global Energy Monitor page for that plant, which is the clearest signal of the arrangement in the data itself.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The withdrawal came in a month when Hanover was tightening up generally.",
+    "src": "https://richmondbizsense.com/2026/06/26/one-data-center-project-pulled-and-another-delayed-in-hanover-as-supervisors-reinstitute-equipment-tax/"
+   },
+   {
+    "para": 2,
+    "t": "In mid June 2026 the planning commission unanimously deferred the Iron Horse data center proposal, and that same week the board of supervisors voted unanimously to reinstate the county's data center equipment tax at 45 cents per $100 of assessed value for the 2027 financial year.",
+    "src": "https://richmondbizsense.com/2026/06/26/one-data-center-project-pulled-and-another-delayed-in-hanover-as-supervisors-reinstitute-equipment-tax/"
+   },
+   {
+    "para": 2,
+    "t": "Supervisor Sue Dibble argued for caution on the rate: \"We need to fully vet this in a very comprehensive manner. This is probably a little premature as far as us effectively raising a tax any higher than our neighbors. It creates a big-picture problem in that you may not get the best business partners that you want.\"",
+    "src": "https://richmondbizsense.com/2026/06/26/one-data-center-project-pulled-and-another-delayed-in-hanover-as-supervisors-reinstitute-equipment-tax/"
+   },
+   {
+    "para": 3,
+    "t": "Eight data center sites are counted in Hanover County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "A Tract site is three kilometres from here, the Ironhorse and WestDulles entries six each, and an HHHunt site near Wyndham seven that the record marks blocked.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Hanover County has no moratorium on data centers, but from the 2027 financial year it does have the equipment tax back.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://richmondbizsense.com/2026/06/26/one-data-center-project-pulled-and-another-delayed-in-hanover-as-supervisors-reinstitute-equipment-tax/"
+  ],
+  "unconfirmed": "No megawatt figure is carried above because the page we read gives none; reporting elsewhere describes up to five 60 megawatt buildings totalling 300 megawatts, a GE Vernova gas turbine and on-site solar, and a filing with federal regulators to sell power from two Doswell units to the campus. We could not open those pages. No replacement application had been filed as of late June 2026."
+ }
+]

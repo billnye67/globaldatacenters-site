@@ -1,0 +1,593 @@
+[
+ {
+  "id": "gemini-meta-davenport",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's data center campus in Davenport, Iowa sits on 328 acres at Hillandale Road and Enterprise Way, on the city's north side in Scott County.",
+    "src": "https://quadcitiesbusiness.com/ieda-board-approves-assistance-for-davenport-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The project runs through a Meta subsidiary called Vemerald LLC.",
+    "src": "https://quadcitiesbusiness.com/ieda-board-approves-assistance-for-davenport-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The Iowa Economic Development Authority board approved incentives for the $800 million project on May 17, 2024.",
+    "src": "https://quadcitiesbusiness.com/ieda-board-approves-assistance-for-davenport-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "In return, Meta committed to create 35 jobs paying at least $28.76 an hour.",
+    "src": "https://quadcitiesbusiness.com/ieda-board-approves-assistance-for-davenport-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The plan calls for two data halls totaling 715,000 square feet.",
+    "src": "https://quadcitiesbusiness.com/ieda-board-approves-assistance-for-davenport-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "City officials project the completed campus would generate about $107 million in property taxes over 20 years, split between Davenport, Scott County and local schools.",
+    "src": "https://quadcitiesbusiness.com/ieda-board-approves-assistance-for-davenport-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The Quad-City Times has reported that, as of its most recent coverage, ground still had not broken on the site.",
+    "src": "https://qctimes.com/news/local/business/article_b66be122-4747-480e-b683-e8c9fa8c8bb2.html"
+   }
+  ],
+  "sources": [
+   "https://quadcitiesbusiness.com/ieda-board-approves-assistance-for-davenport-data-center/",
+   "https://qctimes.com/news/local/business/article_b66be122-4747-480e-b683-e8c9fa8c8bb2.html"
+  ],
+  "unconfirmed": "Our own record lists this project as already operating, which sits oddly against the Quad-City Times reporting that ground had not broken. We could not establish which is current."
+ },
+ {
+  "id": "gemini-meta-etna",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Etna is a township in Licking County, Ohio, part of the corridor around New Albany that has more data centers than any other Ohio county.",
+    "src": "https://stopohiodatacenters.org/licking-county"
+   },
+   {
+    "para": 0,
+    "t": "Meta's local affiliate there, a company called Sidecat, owns a 740-acre industrial campus in the New Albany Business Park.",
+    "src": "https://www.powermag.com/new-200-mw-gas-fired-plant-in-ohio-will-power-meta-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "A dedicated gas-fired power plant, the Socrates South Power Generation Project, was approved by the Ohio Power Siting Board on June 9, 2025 to supply the Meta campus exclusively, without connecting to the public grid.",
+    "src": "https://www.powermag.com/new-200-mw-gas-fired-plant-in-ohio-will-power-meta-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The plant, being built by Will-Power OH, a subsidiary of the Williams Companies, is expected to cost $1.6 billion, start at 200 megawatts and later expand to 400, with commercial operation targeted for the third quarter of 2026.",
+    "src": "https://www.powermag.com/new-200-mw-gas-fired-plant-in-ohio-will-power-meta-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Licking County has not seen the organized opposition found in some smaller Ohio counties, though residents still raise concerns locally about electricity rates and farmland loss, according to the tracking group Stop Ohio Data Centers.",
+    "src": "https://stopohiodatacenters.org/licking-county"
+   },
+   {
+    "para": 2,
+    "t": "Nearby townships have moved to restrict new projects: Sunbury passed a moratorium on April 16, 2026, Jackson Township followed on May 29, 2026, and St. Albans Township banned new data centers outright starting March 10, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://stopohiodatacenters.org/licking-county",
+   "https://www.powermag.com/new-200-mw-gas-fired-plant-in-ohio-will-power-meta-data-center/"
+  ],
+  "unconfirmed": "Could not confirm whether the project residents call 'Meta Etna' is the Sidecat campus described in New Albany coverage or a separate site; Meta's own materials describe only a 'New Albany' facility, and Etna Township borders that business park."
+ },
+ {
+  "id": "gemini-meta-zeewolde",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Zeewolde is a town in Flevoland province, about an hour from Amsterdam.",
+    "src": "https://www.siliconrepublic.com/enterprise/meta-facebook-data-centres-netherlands-zeewolde"
+   },
+   {
+    "para": 0,
+    "t": "In December 2021, the local council approved zoning changes clearing the way for a Meta data center campus on farmland outside town.",
+    "src": "https://www.euronews.com/next/2022/03/23/meta-s-plans-to-build-a-new-data-centre-in-the-netherlands-blocked-by-political-opposition"
+   },
+   {
+    "para": 0,
+    "t": "The plan called for 166 hectares, about 410 acres, of data halls able to draw roughly 200 megawatts.",
+    "src": "data:blocked.size"
+   },
+   {
+    "para": 0,
+    "t": "It was designed to serve Facebook, Instagram and WhatsApp users across Europe and was expected to create 400 permanent jobs.",
+    "src": "https://www.euronews.com/next/2022/03/23/meta-s-plans-to-build-a-new-data-centre-in-the-netherlands-blocked-by-political-opposition"
+   },
+   {
+    "para": 1,
+    "t": "Local elections soon after shifted power on the council to opponents of the project.",
+    "src": "https://www.siliconrepublic.com/enterprise/meta-facebook-data-centres-netherlands-zeewolde"
+   },
+   {
+    "para": 1,
+    "t": "Tom Zonneveld, chair of the local party Leefbaar Zeewolde, which had campaigned against the plan, later called the outcome \"a postponement and not an adjustment.\"",
+    "src": "https://www.siliconrepublic.com/enterprise/meta-facebook-data-centres-netherlands-zeewolde"
+   },
+   {
+    "para": 2,
+    "t": "The fight moved to national politics. On March 22, 2022, the Dutch Senate passed a motion, backed by all but two parties, asking the government to use its powers to temporarily halt construction until the country had a national data center policy.",
+    "src": "https://www.euronews.com/next/2022/03/23/meta-s-plans-to-build-a-new-data-centre-in-the-netherlands-blocked-by-political-opposition"
+   },
+   {
+    "para": 2,
+    "t": "Prime Minister Mark Rutte's VVD party and the Christian Democrats voted against the motion.",
+    "src": "https://www.euronews.com/next/2022/03/23/meta-s-plans-to-build-a-new-data-centre-in-the-netherlands-blocked-by-political-opposition"
+   },
+   {
+    "para": 2,
+    "t": "Environmental campaigners had argued that a foreign tech company should not claim a large share of the Netherlands' limited renewable power, and the Dutch Data Centre Association itself forecast that data centres would use 10 percent of the country's electricity by 2030.",
+    "src": "https://www.siliconrepublic.com/enterprise/meta-facebook-data-centres-netherlands-zeewolde"
+   },
+   {
+    "para": 2,
+    "t": "Stijn Grove, managing director of the Dutch Data Center Association, called the vote \"a purely political decision\" driven \"largely because it is Facebook,\" arguing that larger data centers are more efficient and that Europe needs the infrastructure.",
+    "src": "https://www.euronews.com/next/2022/03/23/meta-s-plans-to-build-a-new-data-centre-in-the-netherlands-blocked-by-political-opposition"
+   },
+   {
+    "para": 3,
+    "t": "Meta paused the project on March 29, 2022.",
+    "src": "https://www.siliconrepublic.com/enterprise/meta-facebook-data-centres-netherlands-zeewolde"
+   },
+   {
+    "para": 3,
+    "t": "Meta ultimately abandoned the campus after the national government refused to sell the government-owned land it needed; the Council of State struck down the zoning in 2023.",
+    "src": "data:blocked.how"
+   },
+   {
+    "para": 3,
+    "t": "The site was never rezoned for a data center again; analysts at dcatlas.io wrote that the capacity Meta had planned for Zeewolde \"never reappeared at another Dutch location.\"",
+    "src": "https://dcatlas.io/en/articles/trends/eu-data-center-regulation-redistribution-costs"
+   },
+   {
+    "para": 3,
+    "t": "The Netherlands later barred new hyperscale data centers larger than 70 megawatts nationwide, with exceptions only in Groningen and Hollands Kroon.",
+    "src": "https://dcatlas.io/en/articles/trends/eu-data-center-regulation-redistribution-costs"
+   }
+  ],
+  "sources": [
+   "https://www.euronews.com/next/2022/03/23/meta-s-plans-to-build-a-new-data-centre-in-the-netherlands-blocked-by-political-opposition",
+   "https://www.siliconrepublic.com/enterprise/meta-facebook-data-centres-netherlands-zeewolde",
+   "https://dcatlas.io/en/articles/trends/eu-data-center-regulation-redistribution-costs"
+  ],
+  "unconfirmed": "Sources give the Senate vote as March 22 (Silicon Republic) or March 23 (Euronews); we used Euronews's date."
+ },
+ {
+  "id": "gemini-openai-stargate-do-a-ana",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "OpenAI's Stargate data center, known locally as Project Jupiter, is being built in the towns of Sunland Park and Santa Teresa in Doña Ana County, New Mexico, near the Texas border by El Paso.",
+    "src": "https://technical.ly/civics/new-mexico-data-center-meeting-turns-physical/"
+   },
+   {
+    "para": 1,
+    "t": "Epoch AI put the planned capacity at 2.2 gigawatts, with construction beginning in late 2025 and completion targeted for the end of 2028.",
+    "src": "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand"
+   },
+   {
+    "para": 1,
+    "t": "Trade press names STACK Infrastructure as the site's builder, with Oracle set to lease the computing capacity to OpenAI.",
+    "src": "https://thetechcapital.com/stargate-new-mexico-suffers-setback-as-gas-pipeline-permits-rejected/"
+   },
+   {
+    "para": 1,
+    "t": "The developers planned two onsite natural gas microgrids, intended to limit the project's impact on the local grid.",
+    "src": "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand"
+   },
+   {
+    "para": 1,
+    "t": "They have also been incorporating Bloom Energy fuel cells into the power plan.",
+    "src": "https://thetechcapital.com/stargate-new-mexico-suffers-setback-as-gas-pipeline-permits-rejected/"
+   },
+   {
+    "para": 2,
+    "t": "That plan hit a setback when New Mexico's State Land Office, under Commissioner Stephanie Garcia Richard, rejected right-of-way applications for a gas pipeline the project needs, ruling that granting them would not serve the interest of the state trust the office funds.",
+    "src": "https://thetechcapital.com/stargate-new-mexico-suffers-setback-as-gas-pipeline-permits-rejected/"
+   },
+   {
+    "para": 2,
+    "t": "The rejection means the pipeline may not be operating until at least February 2027, even as the data center's buildings continue under construction.",
+    "src": "https://thetechcapital.com/stargate-new-mexico-suffers-setback-as-gas-pipeline-permits-rejected/"
+   },
+   {
+    "para": 3,
+    "t": "Opposition has organized under the name Stop Project Jupiter, drawing residents from Sunland Park and Santa Teresa.",
+    "src": "https://technical.ly/civics/new-mexico-data-center-meeting-turns-physical/"
+   },
+   {
+    "para": 3,
+    "t": "A Doña Ana County Board of Commissioners meeting on July 28, 2026 turned physical after Chair Manny Sanchez capped public comment at 30 speakers, two minutes each, down from the usual unlimited speakers at three minutes, and protesters surged toward the front of the chamber chanting \"Let us speak.\"",
+    "src": "https://technical.ly/civics/new-mexico-data-center-meeting-turns-physical/"
+   },
+   {
+    "para": 3,
+    "t": "Officers from the county's security contractor, Security Concepts, eight plainclothes Oracle security staff and eventually 10 sheriff's deputies responded, and three people were arrested.",
+    "src": "https://technical.ly/civics/new-mexico-data-center-meeting-turns-physical/"
+   },
+   {
+    "para": 3,
+    "t": "Las Cruces attorney Israel Chávez, representing four of the demonstrators, said the county violated their rights to free speech, to protest, to access their government and to be free from excessive force and wrongful arrest, and said he planned to file a tort claim notice against the county and Security Concepts.",
+    "src": "https://technical.ly/civics/new-mexico-data-center-meeting-turns-physical/"
+   },
+   {
+    "para": 3,
+    "t": "Activist Neeshia Macanowicz said most of the people who got to speak that day had come from El Paso, Juárez and Albuquerque, while people from Sunland Park and Santa Teresa, where the data center is actually being built, could not get a slot.",
+    "src": "https://technical.ly/civics/new-mexico-data-center-meeting-turns-physical/"
+   }
+  ],
+  "sources": [
+   "https://technical.ly/civics/new-mexico-data-center-meeting-turns-physical/",
+   "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand",
+   "https://thetechcapital.com/stargate-new-mexico-suffers-setback-as-gas-pipeline-permits-rejected/"
+  ],
+  "unconfirmed": "Our own record used to list the project's county as Torrance; every source we found instead places it in Doña Ana County, and the entry now sits at Santa Teresa. Our record also lists SoftBank as the developer and OpenAI as the tenant, where the trade press names STACK Infrastructure as builder and Oracle as the party leasing capacity to OpenAI. This entry covers the same project as our separate Stargate New Mexico record."
+ },
+ {
+  "id": "gemini-openai-stargate-port-washington",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Port Washington is a Lake Michigan city of about 12,000 people in Ozaukee County, Wisconsin, north of Milwaukee.",
+    "src": "https://www.bisnow.com/news/national/data-center-development/wisconsin-town-fights-new-data-centers-referendum-backlash-grows-us-134019"
+   },
+   {
+    "para": 0,
+    "t": "In October 2025, Vantage Data Centers announced a $15 billion data center campus there as part of the Stargate initiative, working with OpenAI and Oracle.",
+    "src": "https://www.washingtonexaminer.com/policy/energy-and-environment/4520622/port-washington-wisconsin-restrict-data-centers/"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI put the planned capacity at 1.3 gigawatts, with construction beginning in early 2026 and completion targeted for the end of 2028.",
+    "src": "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand"
+   },
+   {
+    "para": 1,
+    "t": "At the April 2026 spring election, Port Washington voters passed a referendum by roughly a two-to-one margin, making it the first city in the country to require voter approval before local officials can grant a data center developer more than $10 million in tax incentives.",
+    "src": "https://www.bisnow.com/news/national/data-center-development/wisconsin-town-fights-new-data-centers-referendum-backlash-grows-us-134019"
+   },
+   {
+    "para": 1,
+    "t": "The vote does not stop the Vantage campus itself, which was already under construction; it only limits future incentive deals.",
+    "src": "https://www.bisnow.com/news/national/data-center-development/wisconsin-town-fights-new-data-centers-referendum-backlash-grows-us-134019"
+   },
+   {
+    "para": 1,
+    "t": "The measure was organized by a local group called Great Lakes Neighbors United, formed after Vantage's initial announcement.",
+    "src": "https://www.notus.org/climate-environment/data-center-moratorium-voters-tax-breaks-referendum-wisconsin-congress"
+   },
+   {
+    "para": 1,
+    "t": "Mayor Ted Neitzke, who had approved the project, faced an unsuccessful recall effort afterward.",
+    "src": "https://www.bisnow.com/news/national/data-center-development/wisconsin-town-fights-new-data-centers-referendum-backlash-grows-us-134019"
+   },
+   {
+    "para": 2,
+    "t": "The Metropolitan Milwaukee Association of Commerce sued to block the referendum, arguing it violates state law, a challenge that could freeze the measure while it plays out in court.",
+    "src": "https://www.bisnow.com/news/national/data-center-development/wisconsin-town-fights-new-data-centers-referendum-backlash-grows-us-134019"
+   },
+   {
+    "para": 2,
+    "t": "Vantage and its partners say 70 percent of the project's power will come from zero-emission sources and that the developers, not ratepayers, are funding the electrical upgrades the campus needs; Oracle has promised no increase to local energy bills.",
+    "src": "https://www.bisnow.com/news/national/data-center-development/wisconsin-town-fights-new-data-centers-referendum-backlash-grows-us-134019"
+   },
+   {
+    "para": 2,
+    "t": "Residents have raised concerns locally over the strain the campus will put on the regional grid.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://www.bisnow.com/news/national/data-center-development/wisconsin-town-fights-new-data-centers-referendum-backlash-grows-us-134019",
+   "https://www.washingtonexaminer.com/policy/energy-and-environment/4520622/port-washington-wisconsin-restrict-data-centers/",
+   "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand",
+   "https://www.notus.org/climate-environment/data-center-moratorium-voters-tax-breaks-referendum-wisconsin-congress"
+  ],
+  "unconfirmed": "Sources disagree on two dates for this project, and both appear on this site. Bisnow puts the referendum on April 8, 2026 and the Metropolitan Milwaukee Association of Commerce lawsuit in January 2026; WPR and Wisconsin Watch, cited on our separate Stargate Wisconsin page, put the referendum on April 7, 2026 and the lawsuit in February 2026. The referendum is described here by the election it fell in rather than by a day. The outcome of the lawsuit was not established."
+ },
+ {
+  "id": "gemini-openai-stargate-saline",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Saline Township is an agricultural area in Washtenaw County, Michigan.",
+    "src": "https://fortune.com/2026/05/06/ai-data-center-michigan-saline-politics-farmland/"
+   },
+   {
+    "para": 0,
+    "t": "Related Digital, working with OpenAI and Oracle under the Stargate banner, is building a 21-million-square-foot, $16 billion data center campus there, expected to run on 1.4 gigawatts of power from DTE Energy, about what a nuclear plant produces.",
+    "src": "https://fortune.com/2026/05/06/ai-data-center-michigan-saline-politics-farmland/"
+   },
+   {
+    "para": 1,
+    "t": "The company bought the site from three local landowners in May 2025, after weighing four possible Michigan locations with DTE and the construction firm Walbridge.",
+    "src": "https://fortune.com/2026/05/06/ai-data-center-michigan-saline-politics-farmland/"
+   },
+   {
+    "para": 1,
+    "t": "Governor Gretchen Whitmer's office had reached out to OpenAI about the Stargate program that February, and Whitmer met virtually with OpenAI chief executive Sam Altman that spring.",
+    "src": "https://fortune.com/2026/05/06/ai-data-center-michigan-saline-politics-farmland/"
+   },
+   {
+    "para": 2,
+    "t": "The township's planning commission and then its board rejected the rezoning the project needed; the board voted 4 to 1 against it in September 2025, with township clerk Kelly Marion the only yes vote.",
+    "src": "https://fortune.com/2026/05/06/ai-data-center-michigan-saline-politics-farmland/"
+   },
+   {
+    "para": 2,
+    "t": "Township clerk Kelly Marion, the only yes vote, said: \"They were doing studies. They were pulling permits.\"",
+    "src": "https://fortune.com/2026/05/06/ai-data-center-michigan-saline-politics-farmland/"
+   },
+   {
+    "para": 2,
+    "t": "Two days after the vote, Related Digital and the landowners sued the township, alleging exclusionary zoning.",
+    "src": "https://fortune.com/2026/05/06/ai-data-center-michigan-saline-politics-farmland/"
+   },
+   {
+    "para": 2,
+    "t": "Facing the cost of fighting the suit, township officials settled in October 2025, and construction began that November.",
+    "src": "https://fortune.com/2026/05/06/ai-data-center-michigan-saline-politics-farmland/"
+   },
+   {
+    "para": 3,
+    "t": "The settlement secured roughly $14 million in community benefits for the township, including about $4 million toward farmland preservation that could protect close to 1,000 acres through conservation easements, plus money for fire departments and local projects, along with caps on water use and noise.",
+    "src": "https://fortune.com/2026/05/06/ai-data-center-michigan-saline-politics-farmland/"
+   },
+   {
+    "para": 3,
+    "t": "Critics say the settlement let the project proceed without ever formally rezoning the land from agricultural to industrial, sidestepping a Michigan law that requires a public referendum for that kind of rezoning.",
+    "src": "https://fortune.com/2026/05/06/ai-data-center-michigan-saline-politics-farmland/"
+   },
+   {
+    "para": 4,
+    "t": "Kathryn Haushalter, a former Marine who lives in a 200-year-old farmhouse nearby, tried to intervene in the lawsuit as a defendant that December; a county judge rejected her motion in February 2026, citing its late timing and how far construction had progressed.",
+    "src": "https://fortune.com/2026/05/06/ai-data-center-michigan-saline-politics-farmland/"
+   },
+   {
+    "para": 4,
+    "t": "Haushalter has described construction light glowing through her bedroom window before sunrise, backup alarms from trucks through the day, and fear that a diesel backup generator would run near her house during outages: \"My kids are going to be outside breathing that.\"",
+    "src": "https://fortune.com/2026/05/06/ai-data-center-michigan-saline-politics-farmland/"
+   },
+   {
+    "para": 4,
+    "t": "At a Michigan Public Service Commission hearing, resident Sarah Brabbs said, \"We have enough data that it's ridiculous, incompetent, and irresponsible to steward our land and our resources this way,\" and residents urged regulators to reject the project or require a full environmental impact study first.",
+    "src": "https://www.cbsnews.com/amp/detroit/news/residents-concerned-data-center-saline-township-mpsc"
+   },
+   {
+    "para": 5,
+    "t": "A Related Digital spokesperson disputed residents' characterization of the project's impact, calling some of it misinformation, and said the campus's closed-loop cooling system uses about as much water as a standard office building; the company says roughly two-thirds of the nearly 1,000-acre campus will stay open space, farmland, wetlands and woods.",
+    "src": "https://fortune.com/2026/05/06/ai-data-center-michigan-saline-politics-farmland/"
+   },
+   {
+    "para": 5,
+    "t": "Washtenaw County commissioners passed a resolution in March 2026 backing local moratoriums on new data center projects, citing unresolved questions about land, water, traffic and community impact.",
+    "src": "https://fortune.com/2026/05/06/ai-data-center-michigan-saline-politics-farmland/"
+   }
+  ],
+  "sources": [
+   "https://fortune.com/2026/05/06/ai-data-center-michigan-saline-politics-farmland/",
+   "https://www.cbsnews.com/amp/detroit/news/residents-concerned-data-center-saline-township-mpsc"
+  ],
+  "unconfirmed": "Could not confirm the current status of Haushalter's separate zoning board appeals, which Fortune reported were still pending when it published."
+ },
+ {
+  "id": "gemini-microsoft-south-central",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Mills County, Texas, a rural county of a few thousand people whose seat is Goldthwaite, is listed as the site of a 450 megawatt Microsoft data center.",
+    "src": "data:county"
+   },
+   {
+    "para": 0,
+    "t": "Nothing published confirms it: no local news, no permit record and no hearing.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "The source page cited for it has no usable content.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Five data centers are listed in the county, among them a Chevron and Microsoft project and a Vantage Data Centers campus.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "A 450 megawatt facility resting on a single unreadable source is among the largest unsupported capacity figures anywhere in the corpus.",
+    "src": "data:note"
+   },
+   {
+    "para": 2,
+    "t": "Texas imposed a statewide moratorium on new data center grid connections on August 3, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Three searches found nothing about a Microsoft data center in Mills County beyond our own record, and none of the county's other four listed entries could be verified independently either."
+ },
+ {
+  "id": "gemini-microsoft-licking-county",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Microsoft has three active data center construction sites in Licking County, Ohio: one on 200 acres in New Albany, and two more in Heath and Hebron.",
+    "src": "https://stopohiodatacenters.org/licking-county"
+   },
+   {
+    "para": 0,
+    "t": "The New Albany site alone is a $420 million, 245,000-square-foot project expected to be finished by late 2027; the Heath and Hebron sites broke ground on February 24, 2026 as part of a combined $1 billion commitment, with completion targeted for November 2026.",
+    "src": "https://stopohiodatacenters.org/licking-county"
+   },
+   {
+    "para": 0,
+    "t": "Microsoft turned down property tax abatements at the Heath and Hebron sites, a move that benefits the Lakewood Local School District and that one tracking group called unusual given the statewide debate over data center tax breaks.",
+    "src": "https://stopohiodatacenters.org/licking-county"
+   },
+   {
+    "para": 1,
+    "t": "A single 400-megawatt Microsoft project is listed for the county; local reporting instead describes three separate construction sites, so it is not clear which one, if any, that figure refers to.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Licking County already has more data centers than any other Ohio county, and organized local opposition here has been lighter than in some smaller counties nearby, though residents still raise concerns about electricity rates and farmland loss.",
+    "src": "https://stopohiodatacenters.org/licking-county"
+   },
+   {
+    "para": 1,
+    "t": "Several neighboring communities have moved to restrict new projects, including Sunbury, Jackson Township and St. Albans Township, all since March 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://stopohiodatacenters.org/licking-county"
+  ],
+  "unconfirmed": "Could not determine which of the three Licking County construction sites, if any, corresponds to the 400-megawatt project in our record."
+ },
+ {
+  "id": "gemini-microsoft-west-des-moines-iv",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Microsoft has five data center campuses in West Des Moines, in Polk County, Iowa, the first opened in 2012, with a sixth due to start construction in 2026.",
+    "src": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect"
+   },
+   {
+    "para": 0,
+    "t": "One of the buildings here was described in September 2023 as the company's most advanced supercomputer, sited in Iowa partly because outside air below about 85 degrees Fahrenheit can cool it without much water, and it carried the computing used to train ChatGPT.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "The water is the part that has drawn attention.",
+    "src": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect"
+   },
+   {
+    "para": 1,
+    "t": "In 2024 the five campuses used 68.5 million gallons from West Des Moines Water Works, about 2.62 percent of the city's total.",
+    "src": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect"
+   },
+   {
+    "para": 1,
+    "t": "The agreement with the utility allows Microsoft up to 5 million gallons a day.",
+    "src": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect"
+   },
+   {
+    "para": 1,
+    "t": "In July 2022, the month before OpenAI finished training GPT-4, Microsoft pumped about 11.5 million gallons into its Iowa data centers.",
+    "src": "https://www.axios.com/local/des-moines/2023/09/18/ai-iowa-epicenter-microsoft-water-useage-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Microsoft has funded about $25 million of improvements to the water utility, including a two million gallon tank finished in 2023 that serves both the data centers and the town.",
+    "src": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect"
+   },
+   {
+    "para": 1,
+    "t": "Christina Murphy, general manager of West Des Moines Water Works, said the utility wants to be sure it can support the city and everything else the city has to do.",
+    "src": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect"
+   },
+   {
+    "para": 2,
+    "t": "Mayor Russ Trimble said the town had known the arrival would transform it and that it absolutely had, but warned that at some point the city will not be able to take more data centers until the energy infrastructure catches up.",
+    "src": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect"
+   },
+   {
+    "para": 2,
+    "t": "Microsoft employs more than 600 people in the city and the city has spent more than $200 million on infrastructure around the campuses.",
+    "src": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect"
+   },
+   {
+    "para": 3,
+    "t": "Not everyone living beside them is pleased.",
+    "src": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect"
+   },
+   {
+    "para": 3,
+    "t": "David Roach, a 62 year old veteran and network engineer, said of the light at night: \"I like to refer to it as they're really polluting my dark.\"",
+    "src": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect"
+   },
+   {
+    "para": 3,
+    "t": "Margaret VanGinkel put it more simply: \"That's the thing. They just keep building all the time.\"",
+    "src": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect"
+   }
+  ],
+  "sources": [
+   "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect",
+   "https://www.axios.com/local/des-moines/2023/09/18/ai-iowa-epicenter-microsoft-water-useage-data-center"
+  ],
+  "unconfirmed": "Our record lists this entry, West Des Moines IV, as operating at 200 megawatts, but the public reporting describes the five campuses as a group and does not say which building is the fourth, so the water, jobs and infrastructure figures above are for the cluster rather than for this building."
+ },
+ {
+  "id": "gemini-microsoft-leesburg",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Microsoft's Leesburg data center is one of roughly 50 in Loudoun County, Virginia.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 0,
+    "t": "It is operating at about 180 megawatts.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Loudoun has the densest concentration of these buildings in the world.",
+    "src": "https://lakelandgazette.info/news/2026/09/18/loudoun-county-virginia-reported-approximately-233-data-center-buildings-built-or-under-construction-as-of-march-2026-the-worlds-highest-concentration-as-rising-electricity-demand/"
+   },
+   {
+    "para": 1,
+    "t": "As of March 1, 2026 the county counted about 233 data center buildings built or under construction, roughly 56.5 million square feet, and the taxes they pay came to $1.2 billion in the 2026 financial year, 39 percent of the whole county budget.",
+    "src": "https://lakelandgazette.info/news/2026/09/18/loudoun-county-virginia-reported-approximately-233-data-center-buildings-built-or-under-construction-as-of-march-2026-the-worlds-highest-concentration-as-rising-electricity-demand/"
+   },
+   {
+    "para": 1,
+    "t": "Dominion has proposed raising residential electricity rates 14 percent in 2026, citing data center growth and AI demand.",
+    "src": "https://www.energysage.com/local-data/electricity-cost/va/loudoun-county/"
+   },
+   {
+    "para": 2,
+    "t": "What residents complain about is noise and diesel fumes.",
+    "src": "https://wjla.com/news/local/data-center-noise-fumes-create-flood-of-complaints-in-loudoun-county-virginia-board-of-supervisors-sterling"
+   },
+   {
+    "para": 2,
+    "t": "After a power failure on July 16, 2026 set backup generators running across the county, one homeowner said: \"I always know when they're running their diesel generators because it irritates my throat and my lungs, and I've even woken up at night.\"",
+    "src": "https://wjla.com/news/local/data-center-noise-fumes-create-flood-of-complaints-in-loudoun-county-virginia-board-of-supervisors-sterling"
+   },
+   {
+    "para": 2,
+    "t": "County chair Phyllis Randall was due to meet residents living near the data centers that week.",
+    "src": "https://wjla.com/news/local/data-center-noise-fumes-create-flood-of-complaints-in-loudoun-county-virginia-board-of-supervisors-sterling"
+   },
+   {
+    "para": 3,
+    "t": "Neighbouring jurisdictions have tightened their rules: Fairfax County on September 13, 2024 and Prince William County on March 4, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://lakelandgazette.info/news/2026/09/18/loudoun-county-virginia-reported-approximately-233-data-center-buildings-built-or-under-construction-as-of-march-2026-the-worlds-highest-concentration-as-rising-electricity-demand/",
+   "https://www.energysage.com/local-data/electricity-cost/va/loudoun-county/",
+   "https://wjla.com/news/local/data-center-noise-fumes-create-flood-of-complaints-in-loudoun-county-virginia-board-of-supervisors-sterling"
+  ],
+  "unconfirmed": "The homeowner quoted about diesel fumes is not named in the WJLA report, and the complaints there are about Loudoun data centers generally rather than Microsoft's Leesburg site in particular. The county building count, square footage and tax figures come from an aggregator page rather than from Loudoun County's own publication, and could not be checked against the county's figures directly."
+ }
+]

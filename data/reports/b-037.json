@@ -1,0 +1,493 @@
+[
+ {
+  "id": "amazon-aws-thane",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "AWS owns 38 acres for a data centre in the Balkum area of Majiwada, in Thane, on the northeastern edge of Mumbai.",
+    "src": "https://www.datacenterdynamics.com/en/news/aws-acquires-38-acres-near-mumbai-india-for-potential-data-center-build/"
+   },
+   {
+    "para": 0,
+    "t": "The company completed the purchase on October 21, 2022, paying more than Rs 1,870 crore for the land and a record Rs 130 crore in stamp duty to register it.",
+    "src": "https://w.media/aws-acquires-land-in-thane-for-building-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The land is earmarked for a hyperscale data centre.",
+    "src": "data:status"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/aws-acquires-38-acres-near-mumbai-india-for-potential-data-center-build/",
+   "https://w.media/aws-acquires-land-in-thane-for-building-data-center/",
+   "https://www.aboutamazon.in/news/aws/aws-invests-8-billion-in-maharashtra"
+  ],
+  "unconfirmed": "Our record used to place this AWS site on LBS Marg at Mulund West, on the Mumbai side of the Thane boundary, and the distances to neighbouring data centres it carries were measured from there; the reporting places the land a few kilometres further on, in Balkum. Our record still lists the project as proposed, four years after the purchase, and no capacity figure, building count or timetable has been published."
+ },
+ {
+  "id": "amazon-aws-cyberjaya",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "AWS opened its Malaysian cloud data centre region on August 22, 2024, built around three availability zones, two of them in Cyberjaya and Technology Park Malaysia in the Klang Valley.",
+    "src": "https://www.digitalnewsasia.com/digital-economy/aws-launches-infrastructure-region-malaysia-us62bil-investment-through-2037"
+   },
+   {
+    "para": 0,
+    "t": "The company raised its Malaysian commitment to 6.2 billion dollars, about 29.2 billion ringgit, through 2038, up from the 5.8 billion dollars announced in 2023. Research it commissioned projects about 12.1 billion dollars added to GDP and more than 3,500 full time jobs a year.",
+    "src": "https://www.digitalnewsasia.com/digital-economy/aws-launches-infrastructure-region-malaysia-us62bil-investment-through-2037"
+   },
+   {
+    "para": 0,
+    "t": "Tengku Zafrul, the investment, trade and industry minister, said the launch advances Malaysia's New Industrial Master Plan 2030.",
+    "src": "https://www.digitalnewsasia.com/digital-economy/aws-launches-infrastructure-region-malaysia-us62bil-investment-through-2037"
+   },
+   {
+    "para": 1,
+    "t": "Cyberjaya is crowded: NTT's campus stands about 1 kilometre away, Vantage Cyberjaya and DayOne about 2 kilometres away, and Keppel's Basis Bay site about 3 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Not every Selangor project gets through. About 23 kilometres away at Kota Damansara, a proposal for two three-storey data centre blocks across 19 private land lots and part of a government road reserve was withdrawn on July 28, 2026, when the developer's consultant pulled the planning application from the Petaling Jaya City Council.",
+    "src": "https://www.thestar.com.my/metro/metro-news/2026/07/30/controversial-kota-damansara-data-centre-proposal-withdrawn"
+   },
+   {
+    "para": 2,
+    "t": "The consultant said the developer wanted to re-examine whether the site worked, so that the scheme would be \"more economical, sustainable and compatible with development in the surrounding area.\"",
+    "src": "https://www.thestar.com.my/metro/metro-news/2026/07/30/controversial-kota-damansara-data-centre-proposal-withdrawn"
+   },
+   {
+    "para": 2,
+    "t": "The Gabungan Penduduk Kota Damansara coalition, speaking for more than 500 households, had objected over noise from round the clock operation, heat, energy use, traffic and the loss of road reserve land. Kota Damansara assemblyman Muhammad Izuan Ahmad Kasim confirmed the withdrawal, and the Sungai Buloh MP Datuk Seri R. Ramanan and councillor Muhamad Shazwan Suhaimi had filed objections of their own.",
+    "src": "https://www.thestar.com.my/metro/metro-news/2026/07/30/controversial-kota-damansara-data-centre-proposal-withdrawn"
+   }
+  ],
+  "sources": [
+   "https://www.digitalnewsasia.com/digital-economy/aws-launches-infrastructure-region-malaysia-us62bil-investment-through-2037",
+   "https://www.thestar.com.my/metro/metro-news/2026/07/30/controversial-kota-damansara-data-centre-proposal-withdrawn",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "No capacity, building count, water figure or construction timeline specific to the Cyberjaya site was found, and no objection or resident comment about it. The Kota Damansara case described here is a different developer's project and is included because it is the nearest recorded refusal, not because it involves Amazon."
+ },
+ {
+  "id": "amazon-aws-ulsan-sk-group",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "SK Group and AWS are building what they say will be South Korea's largest AI data centre, at Ulsan on the southeast coast.",
+    "src": "https://www.koreaherald.com/article/10514856"
+   },
+   {
+    "para": 0,
+    "t": "SK is investing 7 trillion won, about 5.1 billion dollars, of which 4 billion dollars comes from AWS. The Korea Herald called it the largest corporate investment since President Lee Jae Myung took office.",
+    "src": "https://www.koreaherald.com/article/10514856"
+   },
+   {
+    "para": 0,
+    "t": "The site is planned for 60,000 graphics processing units and 103 megawatts of power, with operations due to begin by 2027 under a 15 year partnership.",
+    "src": "https://www.koreaherald.com/article/10514856"
+   },
+   {
+    "para": 1,
+    "t": "Ulsan was chosen because SK already has a stable gas supply network and suitable sites there, along with submarine cable landings and government backing for industry.",
+    "src": "https://www.koreaherald.com/article/10514856"
+   },
+   {
+    "para": 1,
+    "t": "The companies say the project will generate up to 78,000 direct and indirect jobs as it expands.",
+    "src": "https://www.koreaherald.com/article/10514856"
+   },
+   {
+    "para": 2,
+    "t": "Chey Tae-won, the SK Group chairman, said: \"We are pleased to combine the technological capabilities of SK Group with AWS, the world's leading cloud provider, to establish a core infrastructure for a Korean AI ecosystem.\"",
+    "src": "https://www.koreaherald.com/article/10514856"
+   },
+   {
+    "para": 2,
+    "t": "Prasad Kalyanaraman, AWS vice president for infrastructure services, said that when SK's technical capabilities combine with AWS cloud services, \"we'll empower customers of all sizes.\"",
+    "src": "https://www.koreaherald.com/article/10514856"
+   },
+   {
+    "para": 2,
+    "t": "President Lee Jae Myung said his government \"will make every effort to actively support Korea in adopting AI as a new national growth engine.\"",
+    "src": "https://www.koreaherald.com/article/10514856"
+   }
+  ],
+  "sources": [
+   "https://www.koreaherald.com/article/10514856",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "No planning application, land area, water figure, or account of how the 103 megawatts will be supplied was found, and the 78,000 job figure is the companies' own and was not independently checked. No Ulsan resident, city official or objector appears in any source reached, so it is not known whether the project has drawn local opposition."
+ },
+ {
+  "id": "amazon-aws-cobblebank-melbourne",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon bought 13.2 hectares at 54-80 Ferris Road in Cobblebank, about 40 kilometres west of central Melbourne, for 60.5 million Australian dollars in July 2023, for a data centre.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "The land sits next to Harness Racing Victoria's Tabcorp Park at Melton, near a Western Freeway interchange.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It is one piece of AWS's stated 6.8 billion Australian dollar investment in its Melbourne cloud region.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "If you live in Melton and want to object to this, you cannot do it at your council.",
+    "src": "https://www.planningalerts.org.au/applications/3161772"
+   },
+   {
+    "para": 1,
+    "t": "The data centre is being approved under Clause 53.22 of the Melton Planning Scheme, the Significant Economic Development pathway, which makes the Victorian Minister for Planning the responsible authority rather than Melton City Council.",
+    "src": "https://www.planningalerts.org.au/applications/3161772"
+   },
+   {
+    "para": 1,
+    "t": "A separate application lodged on July 9, 2024 sought to subdivide the existing lot into one main developable lot and two balance lots, in line with the Toolern Precinct Structure Plan, to make room for the data centre on the new Lot 2.",
+    "src": "https://www.planningalerts.org.au/applications/3161772"
+   },
+   {
+    "para": 1,
+    "t": "The council has since said publicly that it has no role in these approvals and that the Cobblebank data centre is already under construction.",
+    "src": "data:note"
+   },
+   {
+    "para": 2,
+    "t": "Melbourne's western suburbs are where the industry has settled.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "STACK Melbourne, Digital Realty and Equinix's Deer Park campus all stand about 18 kilometres away, AirTrunk about 19 kilometres away and CDC Laverton North, under construction, about 22 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.planningalerts.org.au/applications/3161772"
+  ],
+  "unconfirmed": "Reported figures for what Amazon intends to build here still conflict and could not be reconciled: one account describes a 50 million dollar data centre, another a 300 million Australian dollar two storey building of 35.2 megawatts across 9,225 square metres, and the second was never tied to this address by its source. No construction date, water figure or local objection was found. Star Weekly's report on the council clarifying its role refuses our requests, and the Victorian ministerial permits register would not load, so the permit's terms could not be read directly."
+ },
+ {
+  "id": "amazon-aws-kutanegara-west-java",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon's Kutanegara data centre is on Jalan Surya Utama in Kutanegara, Karawang, in the Karawang International Industrial City about 30 kilometres from Jakarta.",
+    "src": "https://www.datacenters.com/amazon-aws-aws-cgk-kutanegara"
+   },
+   {
+    "para": 0,
+    "t": "The industrial estate is a joint venture between Sinar Mas Land and Japan's ITOCHU Corporation.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "AWS opened its Jakarta cloud region in 2021 and now runs three Indonesian data centres: this one, Margamulya nearby in Karawang, and Sukamahi in Bekasi Regency.",
+    "src": "https://www.datacenters.com/providers/amazon-aws/locations/indonesia"
+   },
+   {
+    "para": 1,
+    "t": "What Amazon publishes about its presence in Karawang is its water programme rather than its water use.",
+    "src": "https://habitatindonesia.org/continuing-collaboration-habitat-for-humanity-indonesia-and-aws-build-an-auxiliary-public-health-center-and-classrooms-in-karawang/"
+   },
+   {
+    "para": 1,
+    "t": "Since 2022 AWS has worked with Habitat for Humanity Indonesia on what it calls its Water Positive programme in Karawang Regency, building nine clean water facilities across four villages.",
+    "src": "https://habitatindonesia.org/continuing-collaboration-habitat-for-humanity-indonesia-and-aws-build-an-auxiliary-public-health-center-and-classrooms-in-karawang/"
+   },
+   {
+    "para": 1,
+    "t": "In 2025 the partnership built an auxiliary public health centre and classrooms in Margamulya village, in Telukjambe Barat district.",
+    "src": "https://habitatindonesia.org/continuing-collaboration-habitat-for-humanity-indonesia-and-aws-build-an-auxiliary-public-health-center-and-classrooms-in-karawang/"
+   },
+   {
+    "para": 1,
+    "t": "That a company builds clean water facilities for the villages around a data centre is worth noting in both directions: it is a benefit, and it is an acknowledgement that clean water there is short.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://www.datacenters.com/amazon-aws-aws-cgk-kutanegara",
+   "https://www.datacenters.com/providers/amazon-aws/locations/indonesia",
+   "https://habitatindonesia.org/continuing-collaboration-habitat-for-humanity-indonesia-and-aws-build-an-auxiliary-public-health-center-and-classrooms-in-karawang/"
+  ],
+  "unconfirmed": "Searches on AWS with Kutanegara, on Karawang with data centre water, and on West Java with data centre residents found no capacity, land area, investment figure, opening date, employment number or water withdrawal figure for this site, and no Indonesian local coverage of it, supportive or critical. No resident of Karawang is quoted anywhere we could read."
+ },
+ {
+  "id": "oracle-oracle-west-jordan",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Oracle calls this one Project Sequoia. The 179,000 square foot data center at 6136 West 10120 South in West Jordan, in Salt Lake County, Utah, came online in 2012 with a capacity of about 28 megawatts.",
+    "src": "https://cleanview.co/data-centers/utah/4189/oracle-west-jordan-project-sequoia"
+   },
+   {
+    "para": 0,
+    "t": "Oracle announced it in May 2008. Company president Safra Catz said then that the facility \"will allow us to support our growing On Demand business, as well as the technology infrastructure to support our research and development and customer service requirement.\"",
+    "src": "https://www.datacenterknowledge.com/operations-and-management/oracle-resumes-300-million-utah-project"
+   },
+   {
+    "para": 0,
+    "t": "Oracle said it would carry three times the server density of its flagship data center in Austin while using far less energy, using air-side economizers and hot aisle containment to take advantage of Utah's dry air.",
+    "src": "https://cleanview.co/data-centers/utah/4189/oracle-west-jordan-project-sequoia"
+   },
+   {
+    "para": 1,
+    "t": "The project stopped and started. Oracle halted work on the 300 million dollar build in spring 2009 and resumed it later.",
+    "src": "https://www.datacenterknowledge.com/operations-and-management/oracle-resumes-300-million-utah-project"
+   },
+   {
+    "para": 1,
+    "t": "Utah offered Oracle a tax rebate of more than 15 million dollars, with local government incentives expected to come to nearly 10 million dollars more.",
+    "src": "https://www.datacenterknowledge.com/operations-and-management/oracle-resumes-300-million-utah-project"
+   },
+   {
+    "para": 2,
+    "t": "West Jordan has filled in around it: Novva's 100 acre West Jordan site stands about 1 kilometer away, Aligned Salt Lake City about 6 kilometers away, the NSA's Utah Data Center about 12 kilometers away, and Meta's 133 megawatt Eagle Mountain campus about 24 kilometers away, six data centers in Salt Lake County in all.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The site draws from PacifiCorp East, whose control area has a peak load of about 9,078 megawatts, with the 185 megawatt West Valley gas plant about 11 kilometers away.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [
+   "https://cleanview.co/data-centers/utah/4189/oracle-west-jordan-project-sequoia",
+   "https://www.datacenterknowledge.com/operations-and-management/oracle-resumes-300-million-utah-project",
+   "https://www.datacentermap.com/usa/utah/salt-lake-city/oracle-west-jordan/"
+  ],
+  "unconfirmed": "No water use figure, employment number or current capacity update was found, and no record of local opposition, a council vote or a hearing over this site. Whether the state and local incentives were ultimately paid in full was not established."
+ },
+ {
+  "id": "apple-apple-maiden",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Apple's Maiden data center opened in 2010 on Startown Road in Catawba County, North Carolina, and the company has put about 3 billion dollars into the campus, which employs around 400 people.",
+    "src": "https://www.datacenterknowledge.com/sustainability/apple-to-build-third-solar-farm-near-north-carolina-data-center"
+   },
+   {
+    "para": 1,
+    "t": "The site became the test case for whether a data center could run on renewable power. Greenpeace had criticized Apple publicly, with the group's senior technology analyst Gary Cook calling the company out at an industry symposium.",
+    "src": "https://www.datacenterknowledge.com/sustainability/apple-to-build-third-solar-farm-near-north-carolina-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Apple then built three solar farms in Catawba County, each costing around 10 million dollars: one across the road from the data center, a second at Conover and a third at Claremont. With fuel cells they supply about 60 percent of the site's power, and Apple buys the rest from local and regional suppliers.",
+    "src": "https://www.datacenterknowledge.com/sustainability/apple-to-build-third-solar-farm-near-north-carolina-data-center"
+   },
+   {
+    "para": 1,
+    "t": "The projects generate about 244 million kilowatt hours of renewable energy a year, which Apple compares to the use of 17,906 North Carolina homes. Cook later praised the change.",
+    "src": "https://www.datacenterknowledge.com/sustainability/apple-to-build-third-solar-farm-near-north-carolina-data-center"
+   },
+   {
+    "para": 2,
+    "t": "Maiden is no longer alone: a Microsoft site at Boyd Farms stands about 3 kilometers away, a T5 site on former Apple land about 5 kilometers away, Microsoft's Lyle Creek site about 16 kilometers away, and an approved Compass campus at Statesville about 34 kilometers away, four data centers in Catawba County in all.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The area draws from Duke Energy Carolinas, whose control area peaks at about 20,398 megawatts. The 2,058 megawatt Marshall plant and the 1,526 megawatt Lincoln Combustion plant are each about 27 kilometers away.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 2,
+    "t": "Charlotte, about an hour southeast, has a moratorium on data centers in force.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterknowledge.com/sustainability/apple-to-build-third-solar-farm-near-north-carolina-data-center",
+   "https://baxtel.com/data-centers/apple"
+  ],
+  "unconfirmed": "No capacity figure in megawatts, water use figure, or detail of the tax incentives North Carolina and Catawba County gave Apple was found. No local resident or county official is quoted in the sources reached, and no record of opposition to the Maiden campus was found, in contrast to the coverage of its energy supply."
+ },
+ {
+  "id": "apple-apple-mesa",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This building was supposed to make sapphire glass. Apple leased the Mesa plant to GT Advanced Technologies under a 578 million dollar contract, and GT went bankrupt in 2014 after failing to meet terms it called oppressive and burdensome, putting hundreds out of work.",
+    "src": "https://appleinsider.com/articles/15/02/02/apple-to-build-2-billion-green-data-center-at-failed-gtat-sapphire-plant"
+   },
+   {
+    "para": 0,
+    "t": "Apple announced the conversion in 2014, confirmed the data center plan in 2015 and opened the site in Mesa, in Maricopa County, Arizona, in 2016, saying it would put 2 billion dollars into the location over ten years.",
+    "src": "https://www.macrumors.com/2018/08/15/apple-inside-mesa-arizona-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The Mesa building covers 1.3 million square feet and is what Apple calls its global data command center, the place from which it watches its other United States data operations. It holds servers supporting iMessage, Siri and iCloud.",
+    "src": "https://www.macrumors.com/2018/08/15/apple-inside-mesa-arizona-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "About 150 people work there, with a handful staffing the command center itself on rotating ten hour shifts. New server halls were finished in April 2018.",
+    "src": "https://www.macrumors.com/2018/08/15/apple-inside-mesa-arizona-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The site uses water cooling. Apple says it runs on renewable power, much of it from a local solar farm.",
+    "src": "https://appleinsider.com/articles/15/02/02/apple-to-build-2-billion-green-data-center-at-failed-gtat-sapphire-plant"
+   },
+   {
+    "para": 2,
+    "t": "Mesa has since become one of the densest data center markets in the country, with 40 counted in Maricopa County. AWS's proposed Elliot Road site is about 4 kilometers away, Novva about 5 kilometers away, EdgeCore about 6 kilometers away, and AWS's Pecos Road campus about 8 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Mesa, Chandler, Phoenix and Tempe have all since adopted zoning limits on data centers, as has Maricopa County.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://appleinsider.com/articles/15/02/02/apple-to-build-2-billion-green-data-center-at-failed-gtat-sapphire-plant",
+   "https://www.macrumors.com/2018/08/15/apple-inside-mesa-arizona-data-center/",
+   "https://baxtel.com/data-centers/apple"
+  ],
+  "unconfirmed": "Apple has not published a capacity figure in megawatts or a water use figure for Mesa, and withheld operational detail from the reporters given access, citing security. The dates of the Mesa and Maricopa County zoning limits were not established, so it is not clear whether they came before or after this campus."
+ },
+ {
+  "id": "apple-apple-prineville",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Apple's Prineville data center campus sits about a kilometer from Meta's, in a central Oregon town where the two companies have reshaped the local budget.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "Apple has released far less about its site than Meta has about the neighboring campus, which runs to 11 buildings and 4.6 million square feet.",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 1,
+    "t": "Both companies negotiated property tax exemptions under Oregon's long term rural enterprise zone program, created in 1985. The tax value exempted for data centers in one recent year came to more than 130 million dollars across city, county, school district and other taxes.",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 1,
+    "t": "What the city gets instead is utility fee revenue, which has risen from about 430,000 dollars in 2011 to nearly 11 million dollars, close to three times the city's annual property tax take. Data centers employ roughly 700 people locally, and average wages in the area rose from 34,700 dollars in 2008 to 72,100 dollars in 2022.",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 2,
+    "t": "Water is handled through an underground storage system built by the city and funded by Meta and Apple, holding roughly a year's supply to take the strain off summer demand.",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 2,
+    "t": "Meta's campus used about 70 million gallons in 2024, which the paper compared to 420 households.",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 3,
+    "t": "City Manager Steve Forrester said the city will roughly double its property tax revenue when the first exemptions end, and that \"we are in a much stronger position today than we have been.\"",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 3,
+    "t": "City Councilor Steve Uffelman said: \"We are more financially stable now than we have ever been because of the revenue generated by the data center.\"",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 3,
+    "t": "Not everyone sees it. Karl Wilkerson, who owns Dad's Place in town, said: \"To me it hurts the economy, it doesn't help the economy. It's not like it's benefitting us from having that up there.\"",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 3,
+    "t": "City leaders have said they are unlikely to grant full property tax abatements to the next data center that asks.",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 4,
+    "t": "Two more projects are proposed within about 36 kilometers: the 300 megawatt Percheron and the 100 megawatt Crane PDX01. The area draws from the Bonneville Power Administration, whose control area peaks at about 9,418 megawatts.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/",
+   "https://baxtel.com/data-centers/apple"
+  ],
+  "unconfirmed": "Apple has published no capacity, building count, employment figure or water use figure for its Prineville campus, so the water and tax figures given here describe the town and Meta's campus rather than Apple's. The split of the 700 data center jobs between the two companies is not known."
+ },
+ {
+  "id": "apple-apple-reno-sparks",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Apple opened its data center at the Reno Technology Park in December 2012, the first company to build there.",
+    "src": "https://lasvegassun.com/news/2012/jun/27/apple-comes-under-radar-granted-tax-abatement-deal/"
+   },
+   {
+    "para": 0,
+    "t": "It arrived quietly. The Washoe County Commission voted unanimously in 2012 for a package worth 89 million dollars in tax abatements over ten years.",
+    "src": "https://lasvegassun.com/news/2012/jun/27/apple-comes-under-radar-granted-tax-abatement-deal/"
+   },
+   {
+    "para": 0,
+    "t": "Apple is expanding again, with a further 62 million dollars in abatements, against capital equipment investment of 992 million dollars over ten years, 279 million dollars in new taxes over the abatement period, and ten new jobs.",
+    "src": "https://www.nnbw.com/news/2024/aug/06/apple-to-expand-operations-at-reno-technology-park-in-washoe-county/"
+   },
+   {
+    "para": 1,
+    "t": "Nevada is now looking again at those deals. Governor Joe Lombardo's Office of Economic Development is reviewing the state's data center tax break program.",
+    "src": "https://thenevadaindependent.com/article/nevada-is-reviewing-its-data-center-tax-breaks-but-counties-are-out-of-the-loop"
+   },
+   {
+    "para": 1,
+    "t": "Over eight fiscal years, local governments lost more than 537 million dollars in sales and use tax revenue to data center incentives. Only Clark, Washoe and Storey counties have granted them.",
+    "src": "https://thenevadaindependent.com/article/nevada-is-reviewing-its-data-center-tax-breaks-but-counties-are-out-of-the-loop"
+   },
+   {
+    "para": 1,
+    "t": "The counties say they have been left out of the review. The office has met regional economic development groups, utilities and industry representatives, but not county governments, and 12 of Nevada's 17 counties reported no involvement.",
+    "src": "https://thenevadaindependent.com/article/nevada-is-reviewing-its-data-center-tax-breaks-but-counties-are-out-of-the-loop"
+   },
+   {
+    "para": 2,
+    "t": "Elko County Commissioner Rex Steninger said of the state office, \"I don't think they've ever asked us,\" and asked: \"Where's the revenue if the taxes are abated? We'd have to come up with some other method of compensating the county.\"",
+    "src": "https://thenevadaindependent.com/article/nevada-is-reviewing-its-data-center-tax-breaks-but-counties-are-out-of-the-loop"
+   },
+   {
+    "para": 2,
+    "t": "Amy Hyne-Sutherland, chief executive of the Nevada Association of Counties, said counties \"need to be at the table for these discussions early and often so we can all cooperatively serve our communities.\"",
+    "src": "https://thenevadaindependent.com/article/nevada-is-reviewing-its-data-center-tax-breaks-but-counties-are-out-of-the-loop"
+   },
+   {
+    "para": 2,
+    "t": "Sheldon Mudd, who leads the northeastern Nevada development agency, told officials it is time to dissolve the data center abatement. The state office says water and power infrastructure have been part of the discussions.",
+    "src": "https://thenevadaindependent.com/article/nevada-is-reviewing-its-data-center-tax-breaks-but-counties-are-out-of-the-loop"
+   },
+   {
+    "para": 3,
+    "t": "Reno itself has a moratorium on data centers in force.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The land around the site has filled up: Tract's 8,590 acre Virginia Highlands holding about 3 kilometers away, Google's 161 megawatt Storey County campus and PowerHouse Reno about 6 kilometers away, Vantage Reno and another Tract park about 7 kilometers away, and EdgeCore about 8 kilometers away. The 954 megawatt Tracy gas plant is about 4 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://lasvegassun.com/news/2012/jun/27/apple-comes-under-radar-granted-tax-abatement-deal/",
+   "https://www.nnbw.com/news/2024/aug/06/apple-to-expand-operations-at-reno-technology-park-in-washoe-county/",
+   "https://thenevadaindependent.com/article/nevada-is-reviewing-its-data-center-tax-breaks-but-counties-are-out-of-the-loop",
+   "https://baxtel.com/data-centers/apple"
+  ],
+  "unconfirmed": "Apple has published no capacity or water use figure for the Reno site. The date and terms of the Reno moratorium our record lists were not established from any source reached, and the state review of the tax break program had not reported when these sources were published."
+ }
+]

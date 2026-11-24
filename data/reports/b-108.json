@@ -1,0 +1,611 @@
+[
+ {
+  "id": "ft-1025",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Pixel Factory data center on Atlee Commons Drive in Ashland, Hanover County, started with a photographer.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Scott Brown founded it about eighteen years ago, moving out of commercial photography into storage when film gave way to digital and his clients needed somewhere to keep the images.",
+    "src": "https://www.hanovervirginia.com/why-hanover/business-success-stories/pixel-factory/"
+   },
+   {
+    "para": 0,
+    "t": "It now sells colocation, network redundancy and cloud connectivity, and Brown describes it as \"an ecosystem where internet connections, content, and data all reside in one location closest to the customer.\"",
+    "src": "https://www.hanovervirginia.com/why-hanover/business-success-stories/pixel-factory/"
+   },
+   {
+    "para": 0,
+    "t": "It stores image content for most of the top national NASCAR teams and handles Ford North America's racing content, and it claims the largest concentration of fibre in the area.",
+    "src": "https://www.hanovervirginia.com/why-hanover/business-success-stories/pixel-factory/"
+   },
+   {
+    "para": 1,
+    "t": "It is small and it is full of room.",
+    "src": "https://www.hanovervirginia.com/why-hanover/business-success-stories/pixel-factory/"
+   },
+   {
+    "para": 1,
+    "t": "Brown said the company was running at about 30 percent of its available internet bandwidth and expected to be \"doubling his capacity at a rate of every four to six months.\"",
+    "src": "https://www.hanovervirginia.com/why-hanover/business-success-stories/pixel-factory/"
+   },
+   {
+    "para": 1,
+    "t": "The entry puts it on one acre, marks it operating and holds no capacity figure, with a single source: the county parcel map.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Nobody is objecting to it.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "What is being proposed around it is a different order of thing.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The WestDulles campus is six kilometres away, the Ironhorse East Ashland entry seven, and a 900 megawatt Tract campus nine kilometres off that the record marks blocked.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Eight data center sites are counted in Hanover County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The 1,189 megawatt Doswell Energy Center is 14 kilometres away and the 340 megawatt Darbytown plant 23.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Ashland and the rest of Hanover County are covered by no moratorium and no zoning limit on data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.hanovervirginia.com/why-hanover/business-success-stories/pixel-factory/"
+  ],
+  "unconfirmed": "No floor area or power draw is published, and our record holds no capacity; directory listings describe 480 volt three phase service, a 150 kVA uninterruptible supply and a 20 ton cooling unit, which were not treated as sources. The county's account gives no date, so the eighteen years is counted from an unstated year, and it does not carry the Atlee Commons Drive address, which is our record's."
+ },
+ {
+  "id": "ft-830",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Brush Mountain Data Center is a university park data center at 2200 Kraft Drive in Blacksburg, in Montgomery County, run for the tenants around it.",
+    "src": "https://www.vtcrc.com/a-full-service-data-center-scaled-for-vtcrc-organizations/"
+   },
+   {
+    "para": 0,
+    "t": "It sits inside Virginia Tech's Corporate Research Center and is a division of Advanced Logic Industries.",
+    "src": "https://www.vtcrc.com/a-full-service-data-center-scaled-for-vtcrc-organizations/"
+   },
+   {
+    "para": 0,
+    "t": "It sells secure equipment colocation and hosted computing, including a service it calls FLxCloud, with redundant power, backup generators, redundant internet lines and cooled racks, aimed at research centre tenants who would otherwise keep servers in an office.",
+    "src": "https://www.vtcrc.com/a-full-service-data-center-scaled-for-vtcrc-organizations/"
+   },
+   {
+    "para": 0,
+    "t": "Those tenants get special rates that can go onto their monthly research centre bill.",
+    "src": "https://www.vtcrc.com/a-full-service-data-center-scaled-for-vtcrc-organizations/"
+   },
+   {
+    "para": 0,
+    "t": "The company has also finished a green power savings project worked up with Virginia Tech graduate engineering students to find a more environmentally conscious cooling strategy.",
+    "src": "https://www.vtcrc.com/a-full-service-data-center-scaled-for-vtcrc-organizations/"
+   },
+   {
+    "para": 1,
+    "t": "The entry puts it on an unstated acreage at 2200 Kraft Drive Suite 2025, marks it operating, holds no capacity figure, and cites one source: a county real estate record.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "No opposition to it has been reported.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "It is the only data center site recorded in Montgomery County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The nearest other entry is Google's Botetourt County campus, 23 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Generation around Blacksburg is small and far: the 59 megawatt Claytor hydroelectric plant 21 kilometres off, then nothing of size until the 157 megawatt Covington biomass plant at 76 kilometres and the 586 megawatt Smith Mountain dam at 80.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "No moratorium applies anywhere near.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.vtcrc.com/a-full-service-data-center-scaled-for-vtcrc-organizations/"
+  ],
+  "unconfirmed": "No floor area, power capacity or build date was given in the page we read, and our record holds none. Whether the facility has expanded, and how many customers it has, is unknown. The research centre's page is promotional and is the only description of the building we could find."
+ },
+ {
+  "id": "ft-891",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The developer pulled out three days before the planning commission was due to hear it.",
+    "src": "https://www.princewilliamtimes.com/developer-withdraws-application-to-rezone-for-catlett-data-centers/article_150e5abb-db36-52a4-8521-9895fb331c52.html"
+   },
+   {
+    "para": 0,
+    "t": "Headwaters Site Development had applied to rezone about 68 acres on U.S. Route 28 north of Catlett, near Gaskins Lane in Fauquier County, from industrial park to business park, for up to five data center buildings 60 feet tall.",
+    "src": "https://www.princewilliamtimes.com/developer-withdraws-application-to-rezone-for-catlett-data-centers/article_150e5abb-db36-52a4-8521-9895fb331c52.html"
+   },
+   {
+    "para": 0,
+    "t": "In a letter dated July 15 to the county's chief planner, Adam Shellenberger, the company's attorney Tony Calabrese wrote that \"after careful consideration, we have decided not to proceed with the rezoning.\"",
+    "src": "https://www.princewilliamtimes.com/developer-withdraws-application-to-rezone-for-catlett-data-centers/article_150e5abb-db36-52a4-8521-9895fb331c52.html"
+   },
+   {
+    "para": 0,
+    "t": "The planning commission hearing had been set for Thursday, July 18, and the application had drawn community objections about concrete buildings at the entrance to the village, noise and power lines.",
+    "src": "https://www.princewilliamtimes.com/developer-withdraws-application-to-rezone-for-catlett-data-centers/article_150e5abb-db36-52a4-8521-9895fb331c52.html"
+   },
+   {
+    "para": 1,
+    "t": "Supervisor Regan Washer said \"I'm very upfront, and I'm not in favor of it at all,\" and board chairman Rick Gerhardt wanted to \"rip the Band-Aid off it and move forward, and let the cards fall where they may.\"",
+    "src": "https://www.princewilliamtimes.com/developer-withdraws-application-to-rezone-for-catlett-data-centers/article_150e5abb-db36-52a4-8521-9895fb331c52.html"
+   },
+   {
+    "para": 1,
+    "t": "The Piedmont Environmental Council records the Catlett project as withdrawn in July 2024, describing it as 1.4 million square feet in three to five buildings on more than 60 acres, and notes it would have needed a three mile transmission line running into Prince William County.",
+    "src": "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+   },
+   {
+    "para": 1,
+    "t": "The record's only sources for the live entry are a link into the county permit portal and a parcel viewer, neither of which would open.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Fauquier is carrying a heavy pipeline behind this.",
+    "src": "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+   },
+   {
+    "para": 2,
+    "t": "Approved but unbuilt are a 220,000 square foot Amazon building at Warrenton and the 1,286,000 square foot Remington Technology Park, and proposed in the south of the county are Convergent Technology Park, Gigaland and SAMX.",
+    "src": "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+   },
+   {
+    "para": 2,
+    "t": "The council says the county's existing generation is maxed out and that four proposed rezonings would double the expected data center load, needing the power of more than 500,000 homes.",
+    "src": "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+   },
+   {
+    "para": 2,
+    "t": "The wiring is the part that reached beyond Catlett: Dominion Energy postponed its Morrisville line upgrade in April 2024, citing right of way limits, and has since asked for two new substation locations at Remington to serve complexes needing over 400 megawatts.",
+    "src": "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+   },
+   {
+    "para": 2,
+    "t": "A federal National Interest Electric Transmission Corridor designation, which would bypass state review, includes a segment through northern Fauquier near Fiery Run, and the council's recommendation is that the county build out only what is already permitted and approve nothing more.",
+    "src": "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+   },
+   {
+    "para": 3,
+    "t": "Thirteen data center sites are counted in Fauquier County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The operating Vint Hill site is ten kilometres from here, Vint Hill Corners ten and CyrusOne's parcel eleven.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 604 megawatt Remington gas plant is 18 kilometres away and Marsh Run at 481 megawatts 19.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Chris Colvin, president of Protect Catlett, said afterwards: \"We will continue to stay dialed in. We will keep a lookout for any future data center developers in Catlett, whether it be Headwaters or others.\"",
+    "src": "https://www.princewilliamtimes.com/developer-withdraws-application-to-rezone-for-catlett-data-centers/article_150e5abb-db36-52a4-8521-9895fb331c52.html"
+   }
+  ],
+  "sources": [
+   "https://www.princewilliamtimes.com/developer-withdraws-application-to-rezone-for-catlett-data-centers/article_150e5abb-db36-52a4-8521-9895fb331c52.html",
+   "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+  ],
+  "unconfirmed": "Our record held this ground three times, as Catlett Data Center Park, as Headwaters Site Development LLC and as a blocked entry a kilometre away; they have been merged into one. Whether Catlett Station II LLC is a live successor to the withdrawn Headwaters proposal or simply another name for it was not established, and the Fauquier Times report of the withdrawal refuses requests. Our 69 acres, the Piedmont Environmental Council's 60-plus and the Prince William Times' 68 do not agree, and the page previously gave 67. The Prince William Times gives no board of supervisors hearing date, so the August 8 date previously carried here has come out, as has a description of the buildings as four and two storey, which that report does not support. No megawatt figure was ever published."
+ },
+ {
+  "id": "ft-643",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Diode Ventures, a developer from Kansas, wanted a 515 acre data center campus called Roxbury Technology Park in Charles City County, about twenty miles east of Richmond.",
+    "src": "https://virginiabusiness.com/developer-pulls-out-of-massive-charles-city-county-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "It asked to rezone five properties from agricultural to light industrial.",
+    "src": "https://virginiabusiness.com/developer-pulls-out-of-massive-charles-city-county-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 515 acres, puts the site at 2043 State Route 622 and marks it cancelled.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "It got further than most and still did not finish.",
+    "src": "https://virginiabusiness.com/developer-pulls-out-of-massive-charles-city-county-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The application went in in March 2025 and the planning commission approved it unanimously.",
+    "src": "https://virginiabusiness.com/developer-pulls-out-of-massive-charles-city-county-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "In June 2025 the board of supervisors put off its vote until August 26.",
+    "src": "https://virginiabusiness.com/developer-pulls-out-of-massive-charles-city-county-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "On August 18, 2025 Diode withdrew.",
+    "src": "https://virginiabusiness.com/developer-pulls-out-of-massive-charles-city-county-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "What residents objected to was noise and the turning of farmland into industrial land, even though the county's own land use plan called for industrial zoning there eventually.",
+    "src": "https://virginiabusiness.com/developer-pulls-out-of-massive-charles-city-county-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "The company offered 800 to 1,200 construction jobs at peak and 50 to 100 permanent ones.",
+    "src": "https://virginiabusiness.com/developer-pulls-out-of-massive-charles-city-county-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Its stated reason was that it had shifted \"our focus elsewhere based on the results of conversations with our local collaborators and analysis of the site's availability to be shovel-ready with power and municipal support.\"",
+    "src": "https://virginiabusiness.com/developer-pulls-out-of-massive-charles-city-county-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Virginia Business set the withdrawal alongside Chesapeake's rejection of a large data center rezoning in June and a Herndon developer's withdrawal of an $8.85 billion Pittsylvania County proposal in April.",
+    "src": "https://virginiabusiness.com/developer-pulls-out-of-massive-charles-city-county-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Charles City County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "Four QTS Richmond buildings sit eight or nine kilometres away, three of them operating at 238, 180 and 144 megawatts, with Iron Mountain's White Oak Technology Park site eight kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 175 megawatt Skipjack Solar Center is three kilometres from the site and the 340 megawatt Darbytown gas plant 19.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Charles City County has written no moratorium and no zoning limit on data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://virginiabusiness.com/developer-pulls-out-of-massive-charles-city-county-data-center/"
+  ],
+  "unconfirmed": "No megawatt figure, building count or tenant was ever published, and our record holds none. The developer said it did not plan to resubmit for this site, but what happens to the land is unknown. Turnout at the county meetings was not given."
+ },
+ {
+  "id": "ft-645",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Tract, a developer from Denver, withdrew its rezoning application for a 744 acre data center campus at 16100 Branders Bridge Road in southeastern Chesterfield on Tuesday, July 1, 2025.",
+    "src": "https://richmondbizsense.com/2025/07/02/after-thumbs-down-from-commission-developer-withdraws-plans-to-refile-700-acre-chesterfield-data-center-proposal/"
+   },
+   {
+    "para": 0,
+    "t": "The Chesterfield planning commission had unanimously recommended denial the month before.",
+    "src": "https://richmondbizsense.com/2025/07/02/after-thumbs-down-from-commission-developer-withdraws-plans-to-refile-700-acre-chesterfield-data-center-proposal/"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 744 acres and marks the project suspended, which is the right word: the company said it would refile.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "The objection was traffic, not data centers.",
+    "src": "https://richmondbizsense.com/2025/07/02/after-thumbs-down-from-commission-developer-withdraws-plans-to-refile-700-acre-chesterfield-data-center-proposal/"
+   },
+   {
+    "para": 1,
+    "t": "Commissioner Gib Sloan opposed it because Tract had not proposed enough road work and because officials could not see how the site would actually develop.",
+    "src": "https://richmondbizsense.com/2025/07/02/after-thumbs-down-from-commission-developer-withdraws-plans-to-refile-700-acre-chesterfield-data-center-proposal/"
+   },
+   {
+    "para": 1,
+    "t": "The plan had two vehicle access points on Branders Bridge Road with new turn lanes and widening, which Sloan judged inadequate.",
+    "src": "https://richmondbizsense.com/2025/07/02/after-thumbs-down-from-commission-developer-withdraws-plans-to-refile-700-acre-chesterfield-data-center-proposal/"
+   },
+   {
+    "para": 1,
+    "t": "The campus would have been up to eleven buildings and about two million square feet on roughly 350 acres of the site.",
+    "src": "https://richmondbizsense.com/2025/07/02/after-thumbs-down-from-commission-developer-withdraws-plans-to-refile-700-acre-chesterfield-data-center-proposal/"
+   },
+   {
+    "para": 2,
+    "t": "Tract's statement was narrow and specific: \"We have withdrawn our application for the Chesterfield project to address specific feedback we have received, including greater alignment with the County's long term transportation goals.\"",
+    "src": "https://richmondbizsense.com/2025/07/02/after-thumbs-down-from-commission-developer-withdraws-plans-to-refile-700-acre-chesterfield-data-center-proposal/"
+   },
+   {
+    "para": 2,
+    "t": "It said it was \"confident we can make appropriate modifications to address the County's feedback\" and intended to resubmit in the coming months.",
+    "src": "https://richmondbizsense.com/2025/07/02/after-thumbs-down-from-commission-developer-withdraws-plans-to-refile-700-acre-chesterfield-data-center-proposal/"
+   },
+   {
+    "para": 3,
+    "t": "Six data center sites are counted in Chesterfield County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The Menlo Equities and NuVu campuses at Petersburg are twelve kilometres away, the Warrenton Group site twelve, an operating 82 megawatt CoreWeave building thirteen and a PowerHouse campus thirteen.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 386 megawatt Chesterfield plant is 12 kilometres off and the 378 megawatt Hopewell Cogeneration plant 15.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "No moratorium applies in Chesterfield.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://richmondbizsense.com/2025/07/02/after-thumbs-down-from-commission-developer-withdraws-plans-to-refile-700-acre-chesterfield-data-center-proposal/"
+  ],
+  "unconfirmed": "Whether Tract refiled, and what the revised scheme looks like, was not established. No megawatt figure, water demand or tenant has been published and our record holds none. Public comment turnout at the June 2025 commission meeting was not given."
+ },
+ {
+  "id": "ft-776",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The whole of Culpeper County uses about 240 megawatts of power, and the XX Tech Park data center proposed at Brandy Station could need between 700 megawatts and 1.8 gigawatts.",
+    "src": "https://www.pecva.org/region/culpeper/new-data-center-proposals-in-brandy-station-and-near-the-town-of-culpeper/"
+   },
+   {
+    "para": 0,
+    "t": "The applicant is Culpeper Acquisitions LLC, and the scheme is over 4.6 million square feet of data center space, which the Piedmont Environmental Council put at the equivalent of 25 Walmart Super Centers.",
+    "src": "https://www.pecva.org/region/culpeper/new-data-center-proposals-in-brandy-station-and-near-the-town-of-culpeper/"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 352 acres at 15170 Hoffman Lane, marks it proposed and holds no capacity figure.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The ground is farmland and battlefield.",
+    "src": "https://www.pecva.org/region/culpeper/new-data-center-proposals-in-brandy-station-and-near-the-town-of-culpeper/"
+   },
+   {
+    "para": 1,
+    "t": "The site is less than a mile from the new Culpeper Battlefields State Park and near the Brandy Station Graffiti House.",
+    "src": "https://www.pecva.org/region/culpeper/new-data-center-proposals-in-brandy-station-and-near-the-town-of-culpeper/"
+   },
+   {
+    "para": 1,
+    "t": "It would need a large substation and an imposing new transmission line through two to five miles of privately owned rural land.",
+    "src": "https://www.pecva.org/region/culpeper/new-data-center-proposals-in-brandy-station-and-near-the-town-of-culpeper/"
+   },
+   {
+    "para": 1,
+    "t": "The same developer withdrew an earlier proposal at the same place, called AttoTek, in 2022, after fierce community opposition about the effect on the historic and agricultural resources of Brandy Station.",
+    "src": "https://www.pecva.org/region/culpeper/new-data-center-proposals-in-brandy-station-and-near-the-town-of-culpeper/"
+   },
+   {
+    "para": 1,
+    "t": "The planning commission hearing was set for the evening of Wednesday, June 12.",
+    "src": "https://www.pecva.org/region/culpeper/new-data-center-proposals-in-brandy-station-and-near-the-town-of-culpeper/"
+   },
+   {
+    "para": 1,
+    "t": "Culpeper has taken a lot already: eight data center campuses approved or built, and more than ten million square feet approved in recent years.",
+    "src": "https://www.pecva.org/region/culpeper/new-data-center-proposals-in-brandy-station-and-near-the-town-of-culpeper/"
+   },
+   {
+    "para": 2,
+    "t": "Culpeper has taken a lot already: eight data center campuses approved or built, and over ten million square feet approved in recent years.",
+    "src": "https://www.pecva.org/region/culpeper/new-data-center-proposals-in-brandy-station-and-near-the-town-of-culpeper/"
+   },
+   {
+    "para": 2,
+    "t": "Six data center sites are recorded in the county, and five of them are within nine kilometres of this parcel: an AWS campus at Stevensburg under construction, EdgeCore under construction, CloudHQ, Equinix's high security campus and DataBank.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Culpeper County wrote zoning limits on data centers on September 2, 2025, after this application went in.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The 481 megawatt Marsh Run plant and the 604 megawatt Remington plant are both 12 kilometres away, which between them is well short of what this one site might draw.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.pecva.org/region/culpeper/new-data-center-proposals-in-brandy-station-and-near-the-town-of-culpeper/"
+  ],
+  "unconfirmed": "The outcome of the June 12 hearing and the current status of the application were not established, and the council's account gives the hearing only as a Wednesday in June without a year, so the 2024 previously carried here has come out. Our 352 acres does not appear in the account, which gives square footage rather than acreage, and our address at Hoffman Lane was not confirmed against the Brandy Station location described. Who is behind Culpeper Acquisitions LLC is unknown."
+ },
+ {
+  "id": "ft-1779306466157-5974",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Stack Infrastructure bought nearly 3,000 acres in April at the Southern Virginia Megasite at Berry Hill, in Pittsylvania County less than ten miles west of Danville, for a data center campus.",
+    "src": "https://cardinalnews.org/2026/06/30/stack-infrastructure-says-its-moving-forward-with-ai-data-center-in-pittsylvania/"
+   },
+   {
+    "para": 0,
+    "t": "The megasite runs to 3,528 acres and is the largest industrial park in Virginia.",
+    "src": "https://cardinalnews.org/2026/06/30/stack-infrastructure-says-its-moving-forward-with-ai-data-center-in-pittsylvania/"
+   },
+   {
+    "para": 0,
+    "t": "The performance agreement promises $100 billion of investment and 2,500 jobs at salaries of at least $80,500 over thirty years, which passes the previous largest announcement in Southside history, the Microporous deal at $1.3 billion and 2,015 jobs, on both counts.",
+    "src": "https://cardinalnews.org/2026/06/30/stack-infrastructure-says-its-moving-forward-with-ai-data-center-in-pittsylvania/"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 2,990 acres, $73.5 billion and 299 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The building is phased and conditional.",
+    "src": "https://cardinalnews.org/2026/06/30/stack-infrastructure-says-its-moving-forward-with-ai-data-center-in-pittsylvania/"
+   },
+   {
+    "para": 1,
+    "t": "The first phase closes by June 2027 and the rest before June 2031.",
+    "src": "https://cardinalnews.org/2026/06/30/stack-infrastructure-says-its-moving-forward-with-ai-data-center-in-pittsylvania/"
+   },
+   {
+    "para": 1,
+    "t": "The project qualifies for exemption from state retail taxes until at least 2040, and possibly 2050 if it goes far enough beyond the targets, under terms requiring $35 billion of capital investment and more than 1,000 jobs at one and a half times the prevailing local wage.",
+    "src": "https://cardinalnews.org/2026/06/30/stack-infrastructure-says-its-moving-forward-with-ai-data-center-in-pittsylvania/"
+   },
+   {
+    "para": 1,
+    "t": "Virginia's General Assembly kept the general data center tax exemptions to 2035 and added a tax on electricity consumption.",
+    "src": "https://cardinalnews.org/2026/06/30/stack-infrastructure-says-its-moving-forward-with-ai-data-center-in-pittsylvania/"
+   },
+   {
+    "para": 2,
+    "t": "Kevin Hughes, Stack's chief external affairs officer, put it carefully: \"Stack Infrastructure can confirm that our project at the Berry Hill Megasite in Southern Virginia will continue to advance through our competitive site selection process.\"",
+    "src": "https://cardinalnews.org/2026/06/30/stack-infrastructure-says-its-moving-forward-with-ai-data-center-in-pittsylvania/"
+   },
+   {
+    "para": 2,
+    "t": "Vic Ingram, who chairs the Regional Industrial Facilities Authority, called the outcome \"historic and life-changing\" for the county.",
+    "src": "https://cardinalnews.org/2026/06/30/stack-infrastructure-says-its-moving-forward-with-ai-data-center-in-pittsylvania/"
+   },
+   {
+    "para": 3,
+    "t": "Three data center sites are counted in Pittsylvania County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The 3,500 megawatt Balico proposal the record marks cancelled is 38 kilometres away, with an Enovum proposal at 200 megawatts and an operating 40 megawatt WhiteFiber site 39 kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 662 megawatt Dan River gas plant is 13 kilometres from the megasite and the 825 megawatt Rockingham County station 32.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Danville wrote zoning limits on data centers on May 5, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://cardinalnews.org/2026/06/30/stack-infrastructure-says-its-moving-forward-with-ai-data-center-in-pittsylvania/"
+  ],
+  "unconfirmed": "Our 299 megawatt figure matches nothing published, and the report read gives no megawatt figure, no mention of Appalachian Power and nothing about grid capacity; reporting elsewhere that the campus depends on securing capacity by late 2028 is not carried here. The $73.5 billion in our record is the earlier figure, since raised to $100 billion in the final agreement. No water figure, building count or tenant has been published, and the report carries no public comment or opposition."
+ },
+ {
+  "id": "ft-779",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The OnePartner data center at 158 Advanced Technology Drive in Duffield, Scott County, is 9,200 square feet.",
+    "src": "https://cloudandcolocation.com/datacenters/onepartner-duffield-data-center-atac/"
+   },
+   {
+    "para": 0,
+    "t": "Known as ATAC, for the Advanced Technology and Applications Center, it was built from the ground up and certified Tier III by the Uptime Institute in January 2008.",
+    "src": "https://cloudandcolocation.com/datacenters/onepartner-duffield-data-center-atac/"
+   },
+   {
+    "para": 0,
+    "t": "It has 24 inch antistatic raised floor, two 1 megawatt diesel generators in N+1 redundancy with a 1,000 gallon fuel tank, dual Liebert Series 610 uninterruptible supplies, and utility power from the Tennessee Valley Authority over two independent circuits.",
+    "src": "https://cloudandcolocation.com/datacenters/onepartner-duffield-data-center-atac/"
+   },
+   {
+    "para": 0,
+    "t": "It is carrier neutral with dual fibre entrances, sells colocation to manufacturing, health and banking customers, and houses the OnePartner health information exchange.",
+    "src": "https://cloudandcolocation.com/datacenters/onepartner-duffield-data-center-atac/"
+   },
+   {
+    "para": 0,
+    "t": "The entry puts it on two acres at 158 Advanced Technology Drive, marks it operating and holds no capacity figure.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The business park around it is the other entry the record keeps here.",
+    "src": "http://www.scottcountyva.gov/188/Sites-Buildings"
+   },
+   {
+    "para": 1,
+    "t": "Scott County describes a 65 acre tract with almost 55 developable acres, served by access roads, water, sewer and broadband, one of twelve places the Tennessee Valley Authority region has designated a Premier Data Center Site, with the Crooked Road Tech Center and a 46,000 square foot business incubator in it.",
+    "src": "http://www.scottcountyva.gov/188/Sites-Buildings"
+   },
+   {
+    "para": 1,
+    "t": "The record holds that park as a separate proposed project at the same coordinates as this building.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "What has changed here is not the buildings but the rules in the towns around them.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Bristol adopted a moratorium on data centers on October 7, 2025, Hawkins County in Tennessee a ban on September 22, 2025, Washington County moratoriums on March 26 and June 30, 2026, and Johnson City one on June 5, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Scott County has none.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Mineral Gap at Wise, 38 kilometres away, is the only other data center on record within reach, and the nearest generation is the 194 megawatt Tennessee Eastman plant at 31 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://cloudandcolocation.com/datacenters/onepartner-duffield-data-center-atac/",
+   "http://www.scottcountyva.gov/188/Sites-Buildings"
+  ],
+  "unconfirmed": "The current power draw and occupancy of the building are not published, and our record holds no capacity. The colocation directory that describes it is a marketing listing and the only technical account we could find. Whether the separate Scott County park entry in our data is meant to be a second record of this same site was not resolved."
+ }
+]

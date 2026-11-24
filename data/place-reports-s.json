@@ -1,0 +1,339 @@
+{
+ "/data-centers/united-states/texas/wharton-county/": {
+  "paragraphs": [
+   "Amazon Web Services is building a data center campus in unincorporated Wharton County, just outside Boling, a town of fewer than 400 people about 55 miles southwest of Houston. The project, known as Project Eagle, sits on nearly 3,000 acres off FM 442 near FM 1301. Amazon bought the land in March 2026 and has been moving dirt under a conditional development permit from the county. The first public trace was four filings with the Texas Department of Licensing and Regulation listing Amazon Data Services as owner, each for a building of about 189,000 square feet costing an estimated $300 million. A site plan later reviewed by the Houston Chronicle showed 10 data center buildings of that size, each roughly the footprint of a Walmart Supercenter, plus three smaller buildings. The total investment is put at $10 billion. Minutes from a January 2026 special session of the Commissioners Court said the project would bring 4,000 to 7,000 construction jobs, and Amazon has promised 300 permanent jobs, 150 of them by the end of 2027.",
+   "How much power the campus will draw has not been disclosed. Amazon and CenterPoint, the utility serving the site, both declined to say. Amazon confirmed it is in ERCOT's new review process for large loads, which applies only to projects needing at least 75 megawatts at peak, and said it would curtail its load or run on backup power during grid emergencies and pay for electrical upgrades. On water, Amazon says the first buildings will be air-cooled and it will not use groundwater for cooling, a live issue in a county where many rural households are on wells. At a meeting in Boling on September 10, 2026, Keith Klein, Amazon's director of supply solutions for the Americas, put domestic water use at about 16,000 gallons a day. But the Lower Colorado River Authority told the Chronicle that Amazon expects to use about 500 acre-feet of untreated river water a year as the site grows, roughly 163 million gallons, when it may use surface water to cool during the hottest hours.",
+   "The objection in Boling is as much about how the project arrived as what it is. Wharton County Judge Philip Spenrath signed a sweeping non-disclosure agreement with VisionFirst Advisors, a consulting firm that has worked with Amazon, restricting what the county can disclose about design, finances and output. Spenrath did not respond to the Chronicle's requests for comment. Houses across the highway from the construction site carry red signs reading \"You can live without data, but you can't live without water.\" \"We don't have any zoning, so all of that adds to a ripe place for a corporation like Amazon to exploit,\" said David Rodriguez, a goat farmer who lives about six miles away in Lane City. Writing for Texas Southern University's Bullard Center in May, Wharton County native Bertina Carter said residents learned at an April 28 community meeting that land approvals had come before there was broad public awareness, and that neighbors were already reporting constant generator noise and bright lighting through the night. At the September meeting residents raised construction noise, dust and flooding. Others backed the project. \"The tax money will definitely help both the school district and Wharton County, period,\" said Boling resident Pete Kucera.",
+   "Texas counties have little power over land use. Spenrath wrote in June that the county cannot broadly stop a landowner from building, but that it was negotiating a binding agreement requiring Amazon to avoid groundwater for cooling and to protect roads, drainage and emergency services. That agreement is what to watch. As of August, County Attorney Trey Maffet told the Chronicle nothing had been finalized. \"There won't be an agreement unless they provide significant commitments to protect that community from sound, air, visual and light pollution,\" he said, along with steps on flooding and groundwater. More county permits are still needed. Wharton County is one of nearly 250 data center projects planned across Texas, and the backlash has reached Austin. Gov. Greg Abbott has directed two state agencies to audit proposed projects."
+  ],
+  "sources": [
+   "https://www.houstonchronicle.com/business/real-estate/article/amazon-data-center-houston-wharton-aws-project-22358969.php",
+   "https://www.click2houston.com/news/local/2026/09/10/community-conversation-to-explore-amazon-data-center-plans-in-boling/",
+   "https://www.crossroadstoday.com/news/local-news/amazon-data-center-campus-proposed-for-wharton-county/article_e3c4612b-5c4f-4324-8a44-1afd3b109c67.html",
+   "https://www.bullardcenter.org/blog/a-community-perspective-on-data-center-development-in-wharton-county"
+  ],
+  "unconfirmed": "The Wharton County Leader Journal's story on the county judge hearing residents' fears returned a 404, and KHOU's Houston Business Journal story was blocked. Amazon's total electricity demand has not been disclosed. No report after August 2026 says whether the county's binding agreement with Amazon was signed."
+ },
+ "/data-centers/united-states/texas/ward-county/": {
+  "paragraphs": [
+   "Ward County's only data center is a bitcoin mine at Pyote, run by Genesis Digital Assets, a private miner with offices in the United Arab Emirates and the United States. The company announced a 300-megawatt industrial-scale mining center in West Texas in November 2021. In February 2025 it energized two more 20-megawatt buildings at Pyote, bringing the site to 195 megawatts, with room to expand to 370 megawatts. Under Texas's demand-response program, the company said it switches its machines off during peak electricity demand and is paid for doing so.",
+   "That mine is shifting toward AI. In June 2026, data center developer AiOnX, part of the Amsterdam-listed SWI Group, bought a 77 percent stake in Genesis Digital Assets for $500 million and said the company's 15 crypto sites in the US and Sweden, with 1.3 gigawatts of available power, would convert to AI and high-performance computing. AiOnX has not said how much of Pyote's power would move to AI servers, or when.",
+   "Pyote drew national attention for a different reason in fall 2025. On September 29, 2025, Immigration and Customs Enforcement, the FBI, Homeland Security Investigations, the Texas Department of Public Safety and Customs and Border Protection raided a separate bitcoin mine in Pyote, the Lonestar Dream facility, and arrested 12 or 13 workers, many of them Chinese nationals with expired visas. Agents targeted a chip repair center on the site run by ADW Tech, affiliated with Bitmain; Data Center Dynamics reported that the Genesis Digital Assets mine was not targeted.",
+   "The same shift from crypto to AI is happening next door in Reeves County, where Core Scientific is repurposing its 300-megawatt bitcoin campus outside Pecos for AI hosting. In April 2026 it said it had secured another 300 megawatts, plans on-site power generation, and expects the site to reach 1.5 gigawatts eventually, with first AI capacity due in early 2027."
+  ],
+  "sources": [
+   "https://www.coindesk.com/markets/2025/02/24/bitcoin-miner-gda-expands-west-texas-facilities-with-50-mw-deployment",
+   "https://www.datacenterdynamics.com/en/news/aionx-completes-500m-genesis-digital-assets-deal-will-pivot-crypto-data-centers-to-ai/",
+   "https://www.datacenterdynamics.com/en/news/ice-raids-crypto-data-center-in-texas/",
+   "https://www.datacenterdynamics.com/en/news/core-scientific-secures-300mw-capacity-at-pecos-data-center-in-texas-looks-to-behind-the-meter-power/"
+  ]
+ },
+ "/data-centers/united-states/texas/roberts-county/": {
+  "paragraphs": [
+   "Roberts County, in the Texas Panhandle, holds part of the site of the Meitner Energy Center, a Google data center being built alongside its own power plants. Google and Intersect, the clean energy developer Alphabet bought for $4.75 billion in a deal that closed in March 2026, announced on June 4, 2026 that construction had begun on the project in Gray and Roberts Counties. The data center is to come online together with more than a gigawatt of new wind, solar and battery storage, with on-site gas generation covering what Google called a \"minority share\" of demand, meaning the campus will not need much new power from the local grid.",
+   "The Roberts County piece first showed up in state paperwork. In February 2026 IP Meitner Land LLC, an Intersect affiliate, registered Project Pumpkin 2A with the Texas Department of Licensing and Regulation: a single-story data center building of 761,000 square feet at 8830 County Road 21, Miami, with $400 million to be invested and construction running from February 2026 to December 2027. The filing lists Miami in Gray County, though the town is in Roberts County, about 23 miles northeast of Pampa. The wider Meitner project around Pampa had earlier been reported as a $3 billion development of three buildings totaling 2 million square feet, with about 840 megawatts of on-site power.",
+   "Google has not said how big the data center will be, how much power it will draw at peak, or when it will open. On water, the company says the campus will be air-cooled, not evaporative, limiting water use to restrooms and other domestic needs. The largest local effect may be the workforce: Google is building the Caprock Workforce Hub in neighboring Wheeler County, an 800-acre managed camp for up to 3,500 construction workers who will be carried to the site by dedicated transport to keep traffic off county roads. Neither its cost nor who will run it has been disclosed.",
+   "Google has other data centers under construction in Armstrong, Haskell and Wilbarger Counties, part of a $40 billion Texas commitment through 2027."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/intersect-is-being-acquired-by-googles-parent-company-alphabet/",
+   "https://www.datacenterdynamics.com/en/news/googles-475bn-acquisition-of-intersect-power-closes/",
+   "https://www.powermag.com/google-launches-1-gw-plus-co-located-data-center-and-generation-complex-in-texas-panhandle/",
+   "https://www.latitudemedia.com/news/google-and-intersect-to-build-first-post-acquisition-project-in-texas/"
+  ]
+ },
+ "/data-centers/united-states/texas/navarro-county/": {
+  "paragraphs": [
+   "Navarro County's data center story is Riot Platforms, the Colorado bitcoin miner turning itself into an AI landlord. Its campus sits at 6980 FM 709, about seven miles outside Corsicana. The city announced it in April 2022 as the world's largest bitcoin mine, and Riot broke ground that October on a 400-megawatt first phase, cooled by immersing the machines in liquid. ERCOT approved the site for a full gigawatt, and Riot expanded the land to about 890 acres by 2025. In 2026 it filed state paperwork for Project Ditto, a $400 million data center building, with construction running from April 2026 to May 2028.",
+   "The fight here was over a tax break. In March 2024 the Commissioners Court took no action on Riot's reinvestment-zone request after Commissioner David Brewer said his office was flooded with calls from residents. Riot had asked to pay half the county's property tax rate for 10 years, saving almost $14 million on a mine county records put at more than $640 million. Riot came back in October 2024 to a standing-room-only meeting, and, weighing its promise to nearly double its workforce to 290, Brewer and two other commissioners approved the abatement, the bare majority needed.",
+   "The objections have been water, power and noise. The unexpanded mine needs just under 1.5 million gallons of water a day, roughly an eighth of Corsicana's maximum daily use. Riot says it is drilling wells into the Woodbine Aquifer and storing rainwater in an 18.5-acre pond. \"The people living off of [FM] 709, these beautiful people, were not informed, nor did they consent,\" said Jackie Sawicky, who founded a local coalition against the mine and disbanded it after the vote. Immersion cooling has so far kept the mine quiet, unlike the fan-cooled MARA mine in Hood County, whose neighbors have sued over the noise.",
+   "Riot is now converting its approved power here and at its Rockdale campus for AI tenants, though its big leases so far, including a reported $9.1 billion deal with Anthropic, are at Rockdale rather than Corsicana. The county also has a small AI project at Rice, where EG AI Corp broke ground in June 2026 on a 2.5-megawatt immersion-cooled GPU facility in a converted warehouse, due in 2027."
+  ],
+  "sources": [
+   "https://www.texasobserver.org/the-crypto-racket/",
+   "https://www.dlnews.com/articles/people-culture/bitcoin-miners-megadeal-stumbles-as-texans-sour-on-industry/",
+   "https://www.corsicanadailysun.com/news/week-of-action-protests-cryptomining-in-the-county/article_3481c456-7673-11ee-8ed5-7bb3328bfacd.html",
+   "https://thenavcochronicle.com/riot-platforms-construction-continues-amid-scrutiny-2/",
+   "https://www.datacenterdynamics.com/en/news/riot-blockchain-breaks-ground-on-1gw-cryptomine-campus-in-texas/",
+   "https://www.datacenterdynamics.com/en/news/riot-platforms-files-to-add-building-to-cryptomine-and-data-center-campus-in-corsicana-texas/",
+   "https://www.datacenterdynamics.com/en/news/riot-platforms-agrees-191mw-20-year-lease-agreement-with-anthropic-worth-91bn-report/",
+   "https://www.datacenterdynamics.com/en/news/25mw-immersion-cooled-data-center-coming-to-dfw-texas/"
+  ]
+ },
+ "/data-centers/united-states/texas/matagorda-county/": {
+  "paragraphs": [
+   "Two small data centers are planned in Matagorda County by Barrio Energy, a Houston company that already operates sites in Monahans, George West, Lolita and Tyler for crypto miners and other computing clients. Each site is planned at 10 megawatts on the ERCOT grid; the exact locations have not been made public. Barrio said the first site was due to start operating in the fourth quarter of 2025 and the second in the first quarter of 2026; no report on either has been published since.",
+   "Residents formed a group, Matagorda County Against Data Centers, and started a petition, worried mainly about water in a farming county. \"We already have the city of Corpus Christi taking from the Colorado River, we have farmers who can't get water to their crops, and now we're going to have these monstrosities come in,\" said Cheryl Wilkins. \"I'm not completely against data centers, but I believe data centers belong in a better place, not small rural communities,\" said Donna Howard.",
+   "The county's economic development corporation backs the project. Its director, Michael Ferdinand, said 10 megawatts on 4 acres \"isn't a large data center,\" since ERCOT's large-load category starts at 75 megawatts, and that Barrio would not draw water from the city or the Lower Colorado River Authority. The corporation said a 10-megawatt site uses about as much power as 2,500 homes, \"not 8,000-10,000 as claimed,\" and that Barrio's sites shut down during peak demand while paying for grid upgrades under the state law known as SB 6. Howard was not persuaded: \"10 megawatts is still large, I feel like they're downplaying,\" she said."
+  ],
+  "sources": [
+   "https://abc13.com/post/data-centers-proposed-matagorda-county-residents-pushing-back/18944946/",
+   "https://www.datacenterdynamics.com/en/news/barrio-energy-plans-sites-for-two-10mw-data-centers-in-matagorda-county-texas/",
+   "https://baycitytribune.com/news/barrio-energy-plans-data-centers-in-matagorda-county/article_96a4b389-3b65-4263-a68a-d09d4e42216a.html",
+   "https://www.baycitysentinel.com/news/mcedc-offers-facts-barrio-energy-data-center-and-matagorda-county"
+  ]
+ },
+ "/data-centers/united-states/texas/liberty-county/": {
+  "paragraphs": [
+   "A data center is under construction in Liberty County at a Raywood site that BaRupOn LLC, a California medical manufacturer, calls the Liberty American Multi-Sourced Power and Innovation Hub, or LAMP. The company says it holds permits for about 60 megawatts of on-site gas generation, with a long-term target of 3,000 megawatts on the 701-acre site alongside gas supply agreements from Kinder Morgan. What happens next is a permitting question: whether the county grants final approval once outstanding fines are paid.",
+   "County Attorney Matthew Poston told The Vindicator that commissioners were told in September 2024 by BaRupOn subsidiary QYK Brands that the site would only be a plastics plant, with no data center; commissioners later sought enforcement after QYK started construction without permits. Poston said construction resumed \"while failing to cooperate in the manner promised,\" and fines continue to accrue until final approval. BaRupOn has not sought county tax incentives, and told The Vindicator the project could bring thousands of jobs and could supply water to the community.",
+   "BaRupOn's larger ambitions depend on winning air permits for gas power in a Texas nonattainment area for air quality. Chief Strategy Officer Derek Matthews said, \"You can't burn gas\" there without strict emissions permitting. The company has also completed a feasibility study with NANO Nuclear Energy on microreactors it calls conceptual and likely years away, and says the site will stay off the Entergy and MISO grid."
+  ],
+  "sources": [
+   "https://www.thevindicator.com/article/2867,liberty-county-says-not-so-fast-to-accidental-data-center",
+   "https://www.thevindicator.com/article/2935,company-barupon-is-more-than-meets-the-eye",
+   "https://www.datacenterknowledge.com/build-design/unconventional-texas-data-center-explores-off-grid-power",
+   "https://www.datacenterdynamics.com/en/news/medical-equipment-manufacturer-pivots-chemical-plant-to-data-center-and-manufacturing-campus/"
+  ]
+ },
+ "/data-centers/united-states/texas/lamar-county/": {
+  "paragraphs": [
+   "Soluna Holdings, an Albany, New York company that builds computing sites beside wind and solar farms, is developing Project Annie next to a solar farm outside Paris, within the Tyson Nick Solar Project on Old Bonham Road. Announced in May 2025 as Soluna's first solar-powered site, the project is described in the company's June 2026 business update as \"a 74MW Bitcoin hosting site\" for a potential new customer, next to a 114-megawatt solar farm that began operating in October 2025. It is named for Annie Easley, the NASA computer scientist and mathematician.",
+   "Soluna's model is to use power a wind or solar farm cannot sell, often because the grid is congested. \"We're using energy that already exists, often energy that would otherwise be curtailed,\" chief executive John Belizaire told Data Center Knowledge in January 2026. The company's sites host bitcoin mining, and some also host AI and high-performance computing; it has not said which Project Annie would serve.",
+   "As of its May 2025 announcement, Soluna had only a term sheet for power and said it would next work on power purchase agreements, land agreements and ERCOT's planning process. No county commissioners vote, tax abatement or public hearing on the project has taken place, so residents near Old Bonham Road have not yet had a public forum on it."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/soluna-to-build-first-solar-powered-data-center-in-northeast-texas/",
+   "https://www.nasdaq.com/press-release/soluna-launch-first-solar-powered-data-center-75-mw-project-2025-05-22",
+   "https://www.datacenterknowledge.com/data-center-construction/soluna-expands-texas-campus-with-100-mw-ai-ready-data-center",
+   "https://www.gridinfo.com/plant/tyson-nick/68856",
+   "https://www.stocktitan.net/news/SLNH/soluna-announces-monthly-business-g2s5rq2sb0no.html"
+  ]
+ },
+ "/data-centers/united-states/texas/kaufman-county/": {
+  "paragraphs": [
+   "Flexential, a Colorado-based colocation company, announced on July 28, 2026 that it had bought 110 acres in Talty, about 20 minutes east of Dallas, for what will be its fourth and largest data center campus in Dallas-Fort Worth. The first phase is a 375,000-square-foot building with 36 megawatts of capacity; two more 36-megawatt buildings could follow, for 108 megawatts in all. Site work begins in early 2027, with the first customers moving in late 2028.",
+   "The city next door says it has no say: Talty officials told NBC 5 that the property was released from the city's extraterritorial jurisdiction earlier in 2026 under state law, after a petition was filed with Kaufman County. No hearing or resident statement on the Flexential campus has appeared in local coverage.",
+   "Talty is not alone: the Dallas Morning News reported developers are planning hundreds of acres of data centers across one of the fastest-growing counties in the country, including a 200-megawatt campus Prometheus Hyperscale plans on a 500-acre site between Talty and Post Oak Bend, its first in Texas. The county's cities are splitting over them. Forney raised its required setback from homes to 5,000 feet in April and in July directed staff to draft a citywide ban on data centers, due back for public hearings before a final vote.",
+   "Gov. Greg Abbott has asked lawmakers to take up data center rules in the 2027 session, including requiring new facilities to add power to the grid, and has directed regulators to audit the energy and water use of proposed data centers, which The Real Deal described as a moratorium. Flexential's first building is not due to open until 2028."
+  ],
+  "sources": [
+   "https://www.dallasnews.com/business/real-estate/article/data-centers-kaufman-county-22364129.php",
+   "https://www.nbcdfw.com/news/local/data-center-spanning-hundreds-of-acres-planned-in-kaufman-county/4055993/",
+   "https://www.datacenterdynamics.com/en/news/flexential-acquires-110-acres-outside-dallas-texas-for-108mw-data-center-campus/",
+   "https://www.connectcre.com/stories/flexential-secures-land-outside-dallas-for-375k-sf-data-center/",
+   "https://www.inforney.com/business/forney-council-moves-to-ban-future-data-centers-a/article_33ab99f5-98c7-446c-80c9-40f5e7953141.html",
+   "https://therealdeal.com/texas/2026/09/08/data-center-moratoriums-restrictions-bans-throughout-texas/"
+  ]
+ },
+ "/data-centers/united-states/california/napa-county/": {
+  "paragraphs": [
+   "Napa County's only data center proposal lasted about as long as one public meeting. On June 25, 2026, Global Stack LLC, a Santa Ana company incorporated in California that March, presented a plan to Calistoga's Fairgrounds Advisory Committee for the city-owned, 70-acre Calistoga Fairgrounds. The plan was an 8- to 10-megawatt edge data center, a multi-story parking garage adding 500 to 1,500 spaces, and a pad for helicopters and, eventually, electric air taxis. Global Stack president Nicholas Kovacevich, then a member of the OC Fair Board, described container-sized computing units drawing under 10 megawatts that would shut down during grid emergencies. He said the company would need at least two to three acres and wanted only a non-binding memorandum of understanding to begin talks. The deck circulated before the meeting projected a $6.3 billion statewide investment. Kovacevich said that figure covered the full network and that the document was an older version.",
+   "Nearly 100 people packed the meeting, and 18 residents had already emailed objections. They raised noise, pollution, water and power use, traffic, helicopter flights and the town's small-town character. \"If we took 100 years to come up with an idea that's a worse fit for our small town, we couldn't come close to anything as bad and thoroughly tone-deaf as this,\" wrote resident Eden Umble. Sonny Thielbar, who said he works in energy storage development, told the committee he had spent about 10 minutes researching Global Stack and found no completed projects. The Napa Valley Register found that the three subsidiaries named in the pitch, MeshClusters LLC, DAA Parking LLC and PanGalactica LLC, did not appear in the California Secretary of State's database. Residents also pointed to the 2024 deal under which Napa County sold the fairgrounds to Calistoga for $2 million, well below market value. The county kept a 99-year right of first refusal and a repurchase option if the city ever tried to rezone for uses outside the property's historical purposes, which the agreement says exclude large-scale commercial development.",
+   "The city dropped it. Deputy City Manager Rachel Stepp said it had been a presentation, not a proposal, and that community response played a large role in ending discussions. She told Patch the city had never planned to pursue it, and that the California Department of Food and Agriculture, which oversees fairgrounds, had brought Global Stack to Calistoga. The department did not return Patch's calls. What residents asked for instead is a fairgrounds master plan, which the committee's 2026 work plan makes its main job and which was running behind schedule in June.",
+   "Global Stack has told fair boards it wants sites at up to 70 California fairgrounds by 2030, and the idea has met resistance across the state. Solano County's fair association called it \"basically tabled.\" The Cow Palace in Daly City said it was still evaluating a similar pitch. On September 15 the Ventura County Fair Board voted 5-3 to end its memorandum with the company. Elsewhere in California, Oakley imposed a temporary moratorium on data centers in April, and in June Monterey Park voters passed a permanent ban."
+  ],
+  "sources": [
+   "https://napavalleyregister.com/calistogan/news/calistoga-fairgrounds-presentation/article_efbdcf8e-b77c-46fb-8c9f-da91decefc3e.html",
+   "https://www.yahoo.com/news/us/articles/calistoga-wont-pursue-data-center-211230687.html",
+   "https://patch.com/california/napavalley/plan-build-data-centers-70-ca-fairgrounds-triggers-backlash",
+   "https://www.datacenterdynamics.com/en/news/global-stack-pitches-edge-data-center-at-rodeo-focused-indoor-arena-in-california/",
+   "https://www.ojaivalleynews.com/news/county/fair-board-votes-to-end-talks-over-proposed-resilience-network-data-center/article_2b1faf3e-7a56-4add-9317-9fcbf9bdd8d4.html"
+  ],
+  "unconfirmed": "Global Stack did not respond to the San Francisco Chronicle, and Kovacevich did not respond to Patch before publication. The Dissent's report on Global Stack's backers would not open. No other data center proposal in Napa County was found."
+ },
+ "/data-centers/united-states/california/ventura-county/": {
+  "paragraphs": [
+   "Ventura County's data center proposal was a small computing unit at the Ventura County Fairgrounds, and the fair board killed it on September 15, 2026. It came from Global Stack, an Orange County company that has pitched what it calls an Emergency Resilience Network to as many as 70 California fairgrounds. For Ventura it proposed three things on 5 acres: a vertiport for medical and emergency flights as well as everyday helicopter and passenger-drone travel, a shipping-container-sized \"Resilience Edge Compute\" unit for local processing and emergency communications, and a five-story parking structure. The company wanted a 100-year lease and estimated the project could bring the fairgrounds $2.3 million a year. It had been working under a non-binding memorandum of understanding with the fair board.",
+   "About 200 people came to the September 15 meeting, and nearly all the public commenters opposed it. Part of the argument was over what to call the thing. \"We're not a data center,\" said Global Stack CEO and founder Dan Kang, though he acknowledged the unit would count as one \"in general governance.\" Ventura City Councilmember Liz Campos was blunter. \"A Computer Edge is still a data center,\" she said. \"We don't need a heliport to carry rich people around while this is the most historically disadvantaged neighborhood city.\" Board member Miriam Mack said the way the project was presented \"raises serious questions in my mind about transparency and conflicts of interest.\" Board member Leslie Cornejo said the state had been encouraging the board to keep meetings private \"to protect the project\" since March or April. Members of the laborers' union LiUNA Local 585 spoke for local jobs, and Cornejo warned that the board does not award contracts, which go through state bidding.",
+   "The board voted 5-3 to give 30 days' notice ending the memorandum. Mack, Betsy Chess, Cornejo, Dan Long and Shante Morgan-Carter voted to end it. Board president Guillermo Rodriguez Ceja Jr., Gloria Martinez and Leah Lacayo voted no. \"We do know that the buildings, the infrastructure, etc., need some TLC, and not just a little bit, we need a lot,\" Lacayo said. Kang said Global Stack would pursue other fairgrounds and that it was \"no skin off my nose.\" The same day, the Ventura City Council voted unanimously to send a letter opposing the project, and City Manager Bill Ayub said a citywide data center moratorium will come back to the council in early 2027 after staff analysis.",
+   "Global Stack's pitch has run into the same wall elsewhere. In Napa County, Calistoga dropped discussions after residents packed a June meeting, and Solano County's fair association has called it \"basically tabled.\" The company still has non-binding agreements with the Tulare County and Kings County fairgrounds to study leasing two to five acres, where officials say no decisions have been made."
+  ],
+  "sources": [
+   "https://www.ojaivalleynews.com/news/county/fair-board-votes-to-end-talks-over-proposed-resilience-network-data-center/article_2b1faf3e-7a56-4add-9317-9fcbf9bdd8d4.html",
+   "https://www.datacenterdynamics.com/en/news/global-stack-pitches-edge-data-center-at-rodeo-focused-indoor-arena-in-california/",
+   "https://patch.com/california/napavalley/plan-build-data-centers-70-ca-fairgrounds-triggers-backlash",
+   "https://www.yahoo.com/news/us/articles/calistoga-wont-pursue-data-center-211230687.html"
+  ],
+  "unconfirmed": "Global Stack has not disclosed the power draw of the Ventura unit; its Calistoga pitch described units of under 10 megawatts. The role of state fair officials that board members complained of has not been explained by the California Department of Food and Agriculture, which did not return Patch's calls about the Calistoga pitch."
+ },
+ "/data-centers/united-states/connecticut/fairfield-county/": {
+  "paragraphs": [
+   "Fairfield County's one data center is an old building, not a new fight. CyrusOne's Norwalk facility, known as NYM5, at 6 Norden Place, was built by Cervalis and opened in February 2014. CyrusOne took it over in 2015 as part of a roughly $400 million purchase of Cervalis that also brought sites in New York, New Jersey and Stamford. The building has since been sold to an institutional investor for $58 million, with CyrusOne leasing back the whole 168,000-square-foot, single-tenant building long-term, according to the broker Five 9s Digital.",
+   "The county may get a second one. In May 2026 the Norwalk-based operator 365 Data Centers said it was pursuing a letter of intent to build in Trumbull, part of a national partnership with Florida real estate firm Aphorio Carter to develop about 200 megawatts of AI-ready data centers. Hartford Business Journal reported the Trumbull project is at an early stage, with no property or timeline disclosed and contracts still needed; the partners said projects could open within nine to 24 months.",
+   "Connecticut's legislature let two bills that would have affected data centers, one repealing the state's tax incentives and one regulating centers built next to power plants like Millstone, die without a vote this year. What happens next in Trumbull depends on whether 365 Data Centers signs its letter of intent and brings a site forward."
+  ],
+  "sources": [
+   "https://www.five9sdigital.com/news/five-9s-digital-advises-on-the-acquisition-of-cyrusones-norwalk-data-center/",
+   "https://hartfordbusiness.com/article/365-data-centers-eyes-ct-for-ai-data-center-as-part-of-national-expansion/",
+   "https://www.ctpublic.org/news/2026-05-11/ct-bills-failed-2026-school-cellphones-data-centers-evictions"
+  ]
+ },
+ "/data-centers/united-states/illinois/lake-county/": {
+  "paragraphs": [
+   "Grayslake's data center grew roughly threefold between its 2024 announcement and its 2025 approval, and many neighbors say they only noticed once building began. T5 Data Centers first proposed a 160-acre site with a first building due in late 2027 and up to 480 megawatts of power eventually. By the time the Grayslake Village Board finished approving \"T5 @ Chicago IV\" in May 2025, it covered up to 472 acres and more than 10 million square feet, with an electrical demand of about 1.55 gigawatts from the utility ComEd, according to a residents' lawsuit. Village officials put the investment at about $18 billion and projected $1.4 billion in property tax over 20 years.",
+   "Neighbors say they were kept in the dark. On July 31, 2026, the Preservation of Community Well-being Collective LLC and nine residents sued the village, T5 and landowner Alter Group in Lake County Circuit Court to void the approvals, saying public notices used only the code name \"T5@Chicago IV\" and did not disclose the project's scale until the last agenda. \"It is about whether a village of just over 20,000 people ... can approve a project of unprecedented scale in a way that materially affects thousands of neighbors,\" said the plaintiffs' attorney, Chloe A. Russell. Just before the suit was filed, T5 suspended its wetlands permit application, citing \"community questions and concerns.\"",
+   "The Lake County Board, which has no say inside Grayslake, voted on September 8, 2026 to ban new data centers in unincorporated Lake County until May 11, 2027, after a hearing that drew two hours of testimony and more than 1,000 written comments. \"We are taking pressure from every side of this issue, but at the end of the day, we choose our citizens,\" said board member Esiah Campos. Grayslake issued its first building permit in early September, for an 800,000-square-foot building, so construction has begun. The lawsuit's first status hearing is set for October 30 in Lake County Circuit Court."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/t5-announces-480mw-data-center-campus-in-grayslake-illinois/",
+   "https://www.lakemchenryscanner.com/2026/08/08/project-of-unprecedented-scale-lake-county-residents-file-lawsuit-to-block-472-acre-data-center-campus-in-grayslake/",
+   "https://www.lakemchenryscanner.com/2026/09/08/we-choose-our-citizens-county-board-bans-data-centers-in-unincorporated-lake-county-until-mid-2027/",
+   "https://chronicleillinois.com/news/lake-county-news/grayslake-data-center-approval-sparks-growing-controversy/"
+  ]
+ },
+ "/data-centers/united-states/maine/aroostook-county/": {
+  "paragraphs": [
+   "A small data center is planned at the former Loring Air Force Base in Limestone, near the Canadian border. Loring LiquidCool Data Center, a company using cooling technology from LiquidCool Solutions of Rochester, Minnesota, signed a long-term lease in October 2025 for a 115,000-square-foot warehouse, building No. 7230 at Florida and Kansas roads, on land owned by the developer Green 4 Maine. It was to open in about six months, starting at 5 to 6 megawatts of power and growing to as much as 50; no opening has been announced.",
+   "The pitch is that it needs no water: the servers sit in a nonconductive oil-based fluid, so there are no fans or cooling towers. Power is the harder question. Northern Maine's separate grid peaks at about 150 megawatts, so a 50-megawatt center would use more than a third of it. \"Adding 50 megawatts to such a small, isolated grid is huge,\" said University of Maine engineering professor Hepeng Li. Versant Power said grid upgrades would likely be needed at the developers' cost, and New Brunswick Power said it had no supply agreement with the project.",
+   "Planned diesel backup generators raised air-quality worries for the neighboring Mi'kmaq Nation and the Aroostook National Wildlife Refuge. Green 4 Maine called the warehouse the first of several data centers on the base and said it is raising money for up to 2,000 homes there.",
+   "In April 2026 the legislature passed a ban on new data centers of 20 megawatts or more until November 2027; LiquidCool's vice chair, Herb Zien, said Loring \"is able to move forward with the 20-megawatt limit.\" Gov. Janet Mills vetoed the bill on April 24, the override failed, and she set up a state advisory council instead, due to report by January 29, 2027."
+  ],
+  "sources": [
+   "https://www.bangordailynews.com/2025/10/14/aroostook/aroostook-business/ai-data-center-loring-air-force-base/",
+   "https://www.bangordailynews.com/2025/10/16/aroostook/technology-maine-ai-data-center-joam40zk0w/",
+   "https://insideclimatenews.org/news/26112025/maine-data-center-green-innovation/",
+   "https://dailyyonder.com/maine-is-set-to-ban-data-centers-becoming-the-first-state-in-the-nation-to-do-so/2026/04/15/",
+   "https://mainemorningstar.com/2026/04/29/despite-initial-support-legislature-fails-to-override-mills-veto-of-landmark-data-center-ban/",
+   "https://www.maine.gov/governor/mills/news/governor-mills-signs-executive-order-establish-maine-data-center-advisory-council-2026-04-29"
+  ]
+ },
+ "/data-centers/united-states/michigan/charlevoix-county/": {
+  "paragraphs": [
+   "The data center that Charlevoix County argued about for most of 2026 was never proposed. The speculation centred on Big Rock Point, the retired nuclear plant at 3990 U.S. 31 North in Hayes Township, just north of Charlevoix. Residents feared it could be revived to power a data center. The idea gained force because Holtec International, which took responsibility for the site in 2022 as part of its takeover of the Palisades nuclear plant, is working to restart Palisades. Holtec answered the question in June. \"Holtec is not pursuing a data center project at Big Rock Point,\" Nick Culp, its senior manager of government affairs for Palisades, told The Boyne Citizen in a June 17 email. \"The site's purpose is the safe and secure storage and management of used fuel.\" Culp said Holtec owns only the part of the property holding the spent-fuel storage installation, its support facilities and an access easement. The rest belongs to Consumers Energy.",
+   "Hayes Township had already acted. In February 2026 its board unanimously passed a moratorium on data centers after an hour of public comment. Supervisor Bill Conklin said no developer had approached the township, and he was not sure any commercial or industrial parcel was big enough. The board struck out two proposed exemptions after residents called them loopholes, and changed \"no new data centers\" to \"no data centers.\" It later made the pause a one-year moratorium and set up a seven-member advisory group to study zoning rules. More than 100 residents attended a June 3 meeting at the Charlevoix Public Library. Some had come to suspect a back-door deal after the township's master plan mentioned data centers, at the county planning commission's suggestion. Conklin issued a statement calling that fear \"groundless\" and saying there had been no inquiries, plans or applications.",
+   "The township is carrying on anyway. \"I don't think it (the statement) changes anything,\" said Planning Commission chairman Roy Griffitts. \"Holtec is not the only place or the only company that might ever someday do a data center somewhere.\" He put public sentiment at \"probably 95% against a data center.\" The township's cautionary example is Saline Township near Ann Arbor, where residents have spent months fighting a proposed campus covering hundreds of acres. \"They didn't have the opportunity to make changes once the application came in,\" Griffitts said.",
+   "What happens next in Charlevoix County is a zoning ordinance, not a vote on a project. The advisory group is drafting conditions any future data center would have to meet on noise, water, infrastructure, emergency services and rural character, before the one-year moratorium runs out."
+  ],
+  "sources": [
+   "https://www.hayestownshipmi.gov/wp-content/uploads/2026/06/Holtec-rules-out-data-center-at-Big-Rock-Point.docx",
+   "https://www.interlochenpublicradio.org/ipr-news/2026-02-10/charlevoix-area-township-passes-data-center-moratorium",
+   "https://www.hayestownshipmi.gov/wp-content/uploads/2026/06/PSA-and-E-mail-Response_Hayes-Twp_FINAL-1.pdf"
+  ],
+  "unconfirmed": "The Boyne Citizen article was read from the Word copy Hayes Township posted on its website; the newspaper's own page was not found. The exact expiry date of the township's amended one-year moratorium was not given. No data center proposal anywhere in Charlevoix County was found."
+ },
+ "/data-centers/united-states/new-mexico/colfax-county/": {
+  "paragraphs": [
+   "Colfax County's data center fight is in Raton, a city of about 6,000 near the Colorado line. In February 2026 the Raton City Commission voted 3-1 to sign a six-month study agreement with Atterix LLC, a Denver company incorporated only in December 2025. The plan had three phases: a 5-megawatt data center retrofitted into the closed Kmart on S. 2nd St., a 10-to-30-megawatt campus at the abandoned municipal power plant, and a further 20 megawatts near the municipal airport. \"This is not a large-scale AI data center,\" Atterix's Matthew Bruff told commissioners, though a November email he sent city officials referred to \"an Artificial Intelligence Data Node in Raton.\"",
+   "Opposition organized within weeks. Residents formed Protect Our Resources, which grew to more than 120 members, and a petition passed 400 signatures. \"The Southwestern part of the U.S. is in the biggest megadrought that this area has seen in 1,200 years,\" co-founder Pat Walsh told commissioners. Commissioner Sally Hoger cast the lone no vote: \"Once they get their foot in the door, we don't know what will happen.\" City Manager Neil Segotta took the other side, calling it a chance to boost a struggling economy.",
+   "In June the commission put off a vote on a moratorium after staff warned it might breach the Atterix agreement. The six-month study period expired in August without Atterix presenting its findings publicly, and Colfax County has since adopted a one-year moratorium on data centers in unincorporated areas. Raton's own moratorium vote, expected once the Atterix agreement lapsed, is what to watch next."
+  ],
+  "sources": [
+   "https://www.santafenewmexican.com/news/business/ai-data-center-proposal-in-raton-draws-opposition/article_605c80c8-0a7f-4726-b790-3e2d96f882ed.html",
+   "https://sourcenm.com/2026/06/10/small-northern-new-mexico-city-postpones-decision-on-data-center-moratorium/",
+   "https://www.santafenewmexican.com/opinion/my_view/raton-data-center-fights-could-be-preview-for-rural-n-m/article_9afcb64c-8749-4940-bd66-0c2873ea6e49.html"
+  ]
+ },
+ "/data-centers/united-states/massachusetts/norfolk-county/": {
+  "paragraphs": [
+   "Norfolk County's one data center on the map is Digital Realty's campus in Needham, about 12 miles outside Boston, and no new one has been proposed. The older building, 128 First Avenue, was built by Level 3 Communications at about 200,000 square feet; Digital Realty agreed to buy it at the end of 2009. In 2013 the company opened a second, three-story building of 130,000 square feet next door with 10 megawatts of power, bringing the campus to nearly 450,000 square feet.",
+   "Any new large data center here would face new state rules. Under an order Gov. Maura Healey signed on September 8, 2026, a data center using more than 25 megawatts must reach a community benefits agreement with its host town before state permits can go ahead. \"Unless a community says yes to a data center, we're saying no,\" Healey said. The order also bars secrecy agreements between state agencies and data center developers."
+  ],
+  "sources": [
+   "https://www.datacenterknowledge.com/next-gen-data-centers/digital-realty-pays-375m-for-new-england-sites",
+   "https://www.datacenterdynamics.com/en/news/digital-realty-completes-three-story-boston-data-center/",
+   "https://www.wbur.org/news/2026/09/08/proposed-data-centers-local-approvals-healey-massachusetts"
+  ]
+ },
+ "/data-centers/morocco/": {
+  "paragraphs": [
+   "Morocco is trying to turn its position near Europe and its subsea cables into a data center industry, under the national Digital Morocco 2030 strategy. The largest project is an AI campus at Nouaceur, near Casablanca, from a consortium of Nexus Core Systems, South Korea's Naver Cloud, Nvidia and investment firm Lloyds Capital. Announced in June 2025 at $1.2 billion, it would start with a 40-megawatt phase of Nvidia Blackwell chips and grow to 500 megawatts, running on renewable power under a contract with TAQA Morocco. On March 2, 2026, the Casablanca-Settat Regional Council set aside 666 hectares in Nouaceur for the project, but as of April 2026 the developer said the project \"has experienced slight delays,\" and construction of the first phase had not begun.",
+   "The government has separate plans. In July 2025, the digital transition minister, Amal El Fallah Saghrouchni, told Reuters Morocco intends to build a 500-megawatt renewable-powered data center in Dakhla, in the disputed territory of Western Sahara, with no timeline or power source given. She said she wants at least three national data centers, with the others planned for the north and Benguerir. Some reports have confused the two 500-megawatt projects, placing Naver's Nouaceur campus in Dakhla instead.",
+   "Existing capacity is small, mostly in Casablanca and Rabat. Oracle opened a public cloud region in Casablanca in April 2026, hosted by N+One's six buildings totaling 4.5 megawatts. Orange Maroc opened a 1.5-megawatt site in Nouaceur in November 2025, and OCP and Mohammed VI Polytechnic University run a 5-megawatt site in Benguerir housing the Toubkal supercomputer. Neither the AI campus's water use nor its renewable power delivery has been published, and no start date has been given for the Dakhla project."
+  ],
+  "sources": [
+   "https://www.moroccoworldnews.com/2026/04/285780/data-center-mega-project-worth-over-1-billion-mad-planned-in-nouaceur/",
+   "https://www.datacenterdynamics.com/en/news/naver-plans-500mw-data-center-campus-in-morocco/",
+   "https://iafrica.com/morocco-lands-1-2-billion-ai-data-center-project-beating-out-south-africa-and-other-african-rivals/",
+   "https://www.datacenterdynamics.com/en/news/morocco-plans-to-build-500mw-renewable-energy-data-center/",
+   "https://www.datacenterdynamics.com/en/news/oracle-launches-cloud-region-in-casablanca-morocco/",
+   "https://www.datacenterdynamics.com/en/news/orange-maroc-opens-15mw-data-center-in-casablanca/",
+   "https://www.moroccoworldnews.com/2020/08/66930/moroccos-digitalization-ocp-um6p-launch-benguerir-data-center/"
+  ]
+ },
+ "/data-centers/morocco/rabat-sale-kenitra/": {
+  "paragraphs": [
+   "Rabat is one of Morocco's two data center cities, along with Casablanca, favored for its fiber connections and reliable power, Morocco World News reported. Orange lists a data center, DC3, in Rabat. A 2021 law requiring sensitive data to stay in Morocco has pushed banks, government agencies and companies to move their data into local data centers.",
+   "The 500-megawatt Nexus AI Factory, the country's largest planned AI data center, is not in this region. The consortium led by Nexus Core Systems with Naver Cloud, Nvidia and Lloyds Capital chose Nouaceur, on the outskirts of Casablanca, where the Casablanca-Settat regional council set aside 666 hectares. Its first 40-megawatt phase was first scheduled for early 2026 and is running behind."
+  ],
+  "sources": [
+   "https://www.moroccoworldnews.com/2026/03/282302/data-centers-command-attention-at-gitex-africa-2026-as-the-backbone-powering-africas-digital-future/",
+   "https://www.datacenterdynamics.com/en/news/orange-maroc-opens-15mw-data-center-in-casablanca/",
+   "https://www.moroccoworldnews.com/2026/04/285780/data-center-mega-project-worth-over-1-billion-mad-planned-in-nouaceur/",
+   "https://www.datacenterdynamics.com/en/news/naver-plans-500mw-data-center-campus-in-morocco/"
+  ]
+ },
+ "/data-centers/morocco/marrakesh-safi/": {
+  "paragraphs": [
+   "The region's data center is in Benguerir, 74 kilometers from Marrakech. The phosphate group OCP and Mohammed VI Polytechnic University set up the Benguerir Data Center in the town's tech park in 2020, with 2,000 square meters of server rooms and 5 megawatts of computing power; it also houses the Toubkal supercomputer, used for research in AI, farming, genetics and climate. Digital transition minister Amal El Fallah Saghrouchni has named Benguerir as one of three places she wants national data centers, along with Dakhla and a site in the north.",
+   "Marrakech hosted GITEX Africa, the continent's largest tech fair, on April 7-9, 2026, and data centers were a main topic. The biggest project announced there, the $1.2 billion Nexus AI Factory, is going to Nouaceur near Casablanca, not to this region. The government's planned 500-megawatt data center is in Dakhla, a city in the disputed Western Sahara, also outside Marrakesh-Safi."
+  ],
+  "sources": [
+   "https://www.moroccoworldnews.com/2020/08/66930/moroccos-digitalization-ocp-um6p-launch-benguerir-data-center/",
+   "https://www.moroccoworldnews.com/2026/03/282302/data-centers-command-attention-at-gitex-africa-2026-as-the-backbone-powering-africas-digital-future/",
+   "https://www.datacenterdynamics.com/en/news/morocco-plans-to-build-500mw-renewable-energy-data-center/",
+   "https://iafrica.com/morocco-lands-1-2-billion-ai-data-center-project-beating-out-south-africa-and-other-african-rivals/"
+  ]
+ },
+ "/data-centers/israel/jerusalem-district/": {
+  "paragraphs": [
+   "The Jerusalem District's best-known data center is Oracle's: Israel's first public cloud region, opened in October 2021 in a bunker built by Bynet Data Communications beneath a 17-story building in the Har Hotzvim tech hub, four floors deep to 50 meters. Beit Shemesh is where new building is going. Amazon Web Services runs one of its three Israeli cloud zones at the Har Tov industrial park near the town, and Mega Or is building a 58-megawatt data center there for the AI cloud company Nebius, due in stages from the third quarter of 2026 into early 2027.",
+   "\"This facility ... can withstand a rocket direct hit, a missile direct hit, or even a car bomb,\" Oracle's Israel country manager, Eran Feigenbaum, said of the Jerusalem bunker. Techtonic announced a 16-megawatt underground data center in Beit Shemesh in February 2023. In June 2026 the drone maker VisionWave signed a term sheet for a hardened, underground data center in Beit Shemesh, 10.5 megawatts in its first phase, then dropped the plan, citing the national freeze on grid connections.",
+   "That freeze, ordered by the Electricity Authority in July 2026, stops processing grid connections for data centers of 8 megawatts or more for 140 days, until early December. Requests had reached about 27,000 megawatts, three times Israel's average use of about 9,000. By the end of the freeze, the authority, the Energy Ministry and the grid operator Noga are to set rules deciding which projects can connect."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/oracle-opens-israeli-cloud-region-in-jerusalem/",
+   "https://www.datacenterdynamics.com/en/news/aws-launches-israeli-cloud-region-in-tel-aviv/",
+   "https://www.datacenterdynamics.com/en/news/nebius-signs-80mw-data-center-lease-with-mega-or-in-israel/",
+   "https://www.datacenterdynamics.com/en/news/edgeconnex-to-build-75mw-data-center-in-israel/",
+   "https://www.datacenterdynamics.com/en/news/drone-company-visionwave-plans-data-center-in-israel/",
+   "https://www.datacenterdynamics.com/en/news/israeli-electrical-authority-freezes-grid-processing-of-new-data-centers-for-140-days/",
+   "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903172"
+  ]
+ },
+ "/data-centers/israel/tel-aviv-district/": {
+  "paragraphs": [
+   "Israel's cloud regions carry Tel Aviv's name, but their buildings are mostly outside the Tel Aviv District: the three zones of Amazon Web Services' Israel region, launched in August 2023, are at Tnuvot in the Sharon, in Shoham and near Beit Shemesh. Inside the district, the main operator is EdgeConneX, which runs a 4,500-square-meter underground data center in Herzliya, bought with Global Data Center in 2021. Its other sites near Tel Aviv, in Petah Tikva and Rishon, lie in the Center District.",
+   "New projects face a squeeze that is sharpest in the center of the country. In July 2026 the Electricity Authority froze grid connection applications from data centers of 8 megawatts or more for 140 days, until early December, after requests reached about 27,000 megawatts, three times Israel's average use. \"In the center of the country there is an electricity shortage anyway, and it is impossible to build generation facilities in the densely populated center,\" said Gideon Friedman, a former chief scientist at the Energy Ministry, who wants server farms approved only in the periphery, preferably the south.",
+   "By the end of the freeze, the authority, the Energy Ministry and the grid operator Noga are to set rules deciding which projects can connect."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/aws-launches-israeli-cloud-region-in-tel-aviv/",
+   "https://www.datacenterdynamics.com/en/news/edgeconnex-to-build-75mw-data-center-in-israel/",
+   "https://www.datacenterdynamics.com/en/news/israeli-electrical-authority-freezes-grid-processing-of-new-data-centers-for-140-days/",
+   "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903172"
+  ]
+ },
+ "/data-centers/serbia/": {
+  "paragraphs": [
+   "Serbia's main data center is the government's own: the State Data Center in the Jovanovac area of Kragujevac, in central Serbia, built in 2020 for €30 million. It runs about 14 megawatts of power across roughly 1,080 racks and hosts government systems alongside commercial tenants. Oracle opened a cloud region inside the building in May 2023, the facility shown on the map, and state-owned Telekom Srbija signed on as a customer.",
+   "The government wants to grow it. In September 2025 it signed a memorandum with e& enterprise, part of the UAE telecom group e&, to help add up to 40 megawatts at Kragujevac, roughly tripling capacity. The state aims for about 200 megawatts of state-owned data center capacity by 2030 and around 1 gigawatt by 2035, built around the Kragujevac complex. The government calls the building Tier IV, the top reliability grade, but it is not on the Uptime Institute's list of Tier IV sites.",
+   "Kragujevac also houses the state's Nvidia-based supercomputer, launched in December 2021, and the government has signed a €50 million contract with the French company Eviden that includes a new supercomputer. The e& agreement is a memorandum, not a contract, and no budget, power source or construction date has been published for the expansion."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/oracle-launches-new-cloud-region-in-serbia/",
+   "https://www.datacenterdynamics.com/en/news/serbia-signs-mou-with-e-enterprise-to-triple-national-data-center-capacity/",
+   "https://www.datacenterdynamics.com/en/news/serbian-govt-signs-contact-with-eviden-for-50m-supercomputer/",
+   "https://serbia-business.eu/serbia-plans-major-expansion-of-state-data-centers-to-200-mw-as-supercomputing-and-ai-infrastructure-become-core/"
+  ]
+ },
+ "/data-centers/peru/": {
+  "paragraphs": [
+   "Peru's new data centers are going up in Lurín, the industrial district on Lima's southern edge. Cirion Technologies now lists LIM2, a 20-megawatt, 12,000-square-meter data center in the Macrópolis industrial park, among its operating sites; it was due to open in the first quarter of 2025. Chile's GTD opened the first phase of its own Lurín data center in 2024 and plans to spend $13 million in 2026 on a second phase, for a 20-megawatt site with 960 racks.",
+   "GTD's first phase cost $15 million and was close to 20% occupied. Its Peru general manager, Sergio Mavila, said the second phase could start sooner if a big client signs and should be running by 2027. Peru's Romero Group, through InfraCorp, is buying 49% of GTD's data center business, a deal still awaiting regulatory approval.",
+   "Huawei launched Huawei Cloud in Peru in December 2019 and says Peru is one of five Latin American regions where it runs data centers. It has not said how large its Lima sites are. About 80% of Peru's data center space is in Lima, where Cirion, GTD, Americatel, Optical Networks and Nabiax operate and Equinix runs a small site."
+  ],
+  "sources": [
+   "https://www.ciriontechnologies.com/en/data-center/our-data-centers/lima-2/",
+   "https://www.datacenterdynamics.com/es/noticias/cirion-anuncia-su-nuevo-data-center-de-20mw-en-per%C3%BA/",
+   "https://www.datacenterdynamics.com/en/news/gtd-refuerza-su-apuesta-por-peru-invertira-13-millones-de-dolares-en-la-segunda-fase-de-su-data-center-de-lurin/",
+   "https://larepublica.pe/tecnologia/2019/12/13/huawei-cloud-lanzamiento-oficial-en-peru-del-servicio-en-la-nube-impulsado-por-inteligencia-artificial-big-data-conectividad-5g-iot-industrias-gobierno-america-latina",
+   "https://pressperu.com/2026/09/14/cloud-e-ia/",
+   "https://ebiz.pe/noticias/centros-de-datos-un-mercado-que-sigue-en-expansion/"
+  ]
+ },
+ "/data-centers/mozambique/": {
+  "paragraphs": [
+   "Mozambique's data center market has grown fast since 2024, almost all of it around Maputo. Raxio MZ1, the country's first Tier III certified facility, opened in May 2024 at the Beluluane Industrial Park outside the capital, offering 3 megawatts and room for up to 400 racks, with eight major telecom operators signed up at opening. In March 2025, Vodacom opened a $25 million data center at Tchumene in Matola that it calls the country's largest, with direct access to the 2Africa subsea cable. \"Our country now has 18 data centers,\" Prime Minister Benvinda Levi said at the opening.",
+   "Digital Realty entered the market around 2023 through iColo, the African operator it took a majority stake in back in 2019, and has invested more than $2 billion across the continent. Local cloud provider Bubble, founded in 2023, runs one site in Maputo City and a second at Raxio's Beluluane campus; it says it is the first provider in Mozambique licensed as \"advanced\" by the national IT institute. South Africa's Telkom, through its BCX unit, has hosted Alibaba's cloud platform in a Maputo data center since June 2024.",
+   "The sites are small by global standards, and no dispute over their power or water use has been reported. Bubble says it is assessing two other southern African markets, and Vodacom's 2Africa link gives Maputo a direct international cable connection."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/raxio-launches-data-center-in-mozambique/",
+   "https://www.datacenterdynamics.com/en/news/vodacom-opens-data-center-in-maputo-mozambique/",
+   "https://www.datacenterdynamics.com/en/news/digital-realty-appoints-marcel-louw-as-md-for-africa/",
+   "https://www.datacenterdynamics.com/en/news/mozambiques-cloud-provider-bubble-to-operate-with-two-availability-zones/",
+   "https://www.datacenterdynamics.com/en/news/bcx-brings-alibaba-cloud-to-mozambique/"
+  ]
+ }
+}

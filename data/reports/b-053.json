@@ -1,0 +1,745 @@
+[
+ {
+  "id": "ft-1773459686943-1188",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Amazon Web Services site at 2964 Bradley Street in Pasadena, in Los Angeles County, California, is carried as a data center and put at $78 million.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The only trade report attached to it is headed \"AWS plans another quantum research center in Pasadena, California\".",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "A quantum research centre is a laboratory rather than the kind of building that draws hundreds of megawatts, and no power figure, acreage or date is attached to this one.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Nine data center sites sit in Los Angeles County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "The nearest of them is 14 kilometres away in Monterey Park, where voters banned data centers outright in June 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "The 222 megawatt Glenarm gas plant is 7 kilometres from the Bradley Street address.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Everything about this entry needs checking. The only source in our record is a Data Center Dynamics article that returned 403 and could not be read, so the $78 million figure, the address and the nature of the facility all rest on our record alone. No local Pasadena reporting was sought, because the project appears from its headline to be a research laboratory rather than a data center, and may not belong in this dataset at all. No developer, no megawatts, no acreage, no application and no local reaction are established."
+ },
+ {
+  "id": "ft-1781283258160-3335",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The site is a closed golf course beside a canal, and the fight over it is now in court.",
+    "src": "https://sfist.com/2026/06/16/east-bay-residents-fight-plans-for-massive-data-center-adjacent-to-contra-costa-canal/"
+   },
+   {
+    "para": 0,
+    "t": "The Perseus data center is about 300,000 square feet within a phased 76 acre redevelopment of the former Delta View Golf Course in Pittsburg, next to the Contra Costa Canal.",
+    "src": "https://sfist.com/2026/06/16/east-bay-residents-fight-plans-for-massive-data-center-adjacent-to-contra-costa-canal/"
+   },
+   {
+    "para": 1,
+    "t": "The Pittsburg City Council approved and adopted the Pittsburg Technology Park Specific Plan on 4 November 2024, unanimously.",
+    "src": "https://contracosta.news/2024/12/03/avaio-digital-partners-achieves-major-milestone-for-pittsburg-technology-park-perseus-data-center-project/"
+   },
+   {
+    "para": 1,
+    "t": "The developer is AVAIO Digital Partners, managed by AVAIO Capital of Stamford, Connecticut.",
+    "src": "https://contracosta.news/2024/12/03/avaio-digital-partners-achieves-major-milestone-for-pittsburg-technology-park-perseus-data-center-project/"
+   },
+   {
+    "para": 1,
+    "t": "The company put the Perseus facility at 92 megawatts and more than $800 million for the first phase, with construction starting in 2025 and power switched on in 2027.",
+    "src": "https://contracosta.news/2024/12/03/avaio-digital-partners-achieves-major-milestone-for-pittsburg-technology-park-perseus-data-center-project/"
+   },
+   {
+    "para": 1,
+    "t": "Mark McComiskey of the company said: \"We thank the City of Pittsburg for their confidence in, and shared vision for, the development of the Pittsburg Technology Park.\"",
+    "src": "https://contracosta.news/2024/12/03/avaio-digital-partners-achieves-major-milestone-for-pittsburg-technology-park-perseus-data-center-project/"
+   },
+   {
+    "para": 2,
+    "t": "The opposition arrived later and grew large.",
+    "src": "https://sfist.com/2026/06/16/east-bay-residents-fight-plans-for-massive-data-center-adjacent-to-contra-costa-canal/"
+   },
+   {
+    "para": 2,
+    "t": "By 16 June 2026 a petition against the project had passed 14,000 signatures.",
+    "src": "https://sfist.com/2026/06/16/east-bay-residents-fight-plans-for-massive-data-center-adjacent-to-contra-costa-canal/"
+   },
+   {
+    "para": 2,
+    "t": "Residents raised electricity demand, water use, emissions and strain on the local ecosystem, questioned whether the promised local jobs would materialise, and complained about a lack of transparency.",
+    "src": "https://sfist.com/2026/06/16/east-bay-residents-fight-plans-for-massive-data-center-adjacent-to-contra-costa-canal/"
+   },
+   {
+    "para": 2,
+    "t": "The Center for Biological Diversity has sued, arguing the environmental review failed to account fully for wildlife and climate impacts.",
+    "src": "https://sfist.com/2026/06/16/east-bay-residents-fight-plans-for-massive-data-center-adjacent-to-contra-costa-canal/"
+   },
+   {
+    "para": 3,
+    "t": "The developer says the power would come through infrastructure separate from the residential PG&E grid.",
+    "src": "https://sfist.com/2026/06/16/east-bay-residents-fight-plans-for-massive-data-center-adjacent-to-contra-costa-canal/"
+   },
+   {
+    "para": 3,
+    "t": "Nearby Oakley has banned data centers outright.",
+    "src": "https://sfist.com/2026/06/16/east-bay-residents-fight-plans-for-massive-data-center-adjacent-to-contra-costa-canal/"
+   },
+   {
+    "para": 4,
+    "t": "The project is carried at 99 megawatts and listed as under construction.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 4,
+    "t": "The site sits among generation already: a 200 megawatt battery plant 2 kilometres away, the 559 megawatt Los Medanos gas plant at 4 kilometres and the 842 megawatt Delta Energy Center at 6.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://sfist.com/2026/06/16/east-bay-residents-fight-plans-for-massive-data-center-adjacent-to-contra-costa-canal/",
+   "https://contracosta.news/2024/12/03/avaio-digital-partners-achieves-major-milestone-for-pittsburg-technology-park-perseus-data-center-project/"
+  ],
+  "unconfirmed": "The capacity is given as 92 megawatts by the developer's own announcement and 99 megawatts in our record, and I could not settle which is current. No council vote count was reported for the November 2024 approval. The outcome of the Center for Biological Diversity lawsuit is not established, and neither is the water demand of the facility. No named residents or officials appear in the opposition reporting reached. The city's own specific plan page and the developer's page were not fetched."
+ },
+ {
+  "id": "ft-44",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Stockton data center is already running, and almost nothing about it has been published.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "The entry is for a Nautilus Data Technology facility at 1002 Embarcadero in Stockton, on the San Joaquin waterfront.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "A Cerebras press release of 11 March 2025 announcing eight artificial intelligence inference data center locations lists Stockton as already online, alongside Santa Clara and Dallas.",
+    "src": "https://www.cerebras.ai/press-release/cerebras-announces-six-new-ai-datacenters-across-north-america-and-europe-to-deliver-industry-s"
+   },
+   {
+    "para": 1,
+    "t": "Five more were planned through 2025 in Minneapolis, Oklahoma City, Montreal, the midwest or eastern United States, and Europe.",
+    "src": "https://www.cerebras.ai/press-release/cerebras-announces-six-new-ai-datacenters-across-north-america-and-europe-to-deliver-industry-s"
+   },
+   {
+    "para": 1,
+    "t": "That release gives no operator, capacity, cooling method or opening date for the Stockton site, and does not mention Nautilus at all.",
+    "src": "https://www.cerebras.ai/press-release/cerebras-announces-six-new-ai-datacenters-across-north-america-and-europe-to-deliver-industry-s"
+   },
+   {
+    "para": 2,
+    "t": "No megawatt figure or acreage has been published for it, and no local objection has been reported.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "It is the only data center site recorded in San Joaquin County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generation is the 273 megawatt Lodi Energy Center, 14 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.cerebras.ai/press-release/cerebras-announces-six-new-ai-datacenters-across-north-america-and-europe-to-deliver-industry-s"
+  ],
+  "unconfirmed": "The link between Nautilus Data Technology and the Cerebras Stockton site is asserted by our record and is not confirmed by the only source we hold, which never names Nautilus. The facility's size, power draw, water use and cooling method are all unknown, as is whether it has ever drawn local objection. No Stockton local reporting was found through the sources in our record."
+ },
+ {
+  "id": "ft-1782348677413-3761",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The proposal is to put a data center on an oil field.",
+    "src": "https://grist.org/energy/a-solution-to-data-center-backlash-put-them-in-oil-fields/"
+   },
+   {
+    "para": 0,
+    "t": "California Resources Corporation and the Canadian developer Beacon announced the Golden Valley Technology Hub on June 16, 2026: a 600,000 square foot campus on 100 acres of the Elk Hills field near Tupman in western Kern County, about 20 miles west of Bakersfield.",
+    "src": "https://grist.org/energy/a-solution-to-data-center-backlash-put-them-in-oil-fields/"
+   },
+   {
+    "para": 0,
+    "t": "Elk Hills was discovered in 1911, covers 75 square miles and has produced more than two billion barrels of oil.",
+    "src": "https://www.datacenterdynamics.com/en/news/canadas-beacon-dc-targets-275mw-data-center-campus-on-california-oil-field/"
+   },
+   {
+    "para": 0,
+    "t": "The campus is carried at 275 megawatts.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "The appeal of the site is that it already has its own power station.",
+    "src": "https://grist.org/energy/a-solution-to-data-center-backlash-put-them-in-oil-fields/"
+   },
+   {
+    "para": 1,
+    "t": "CRC's Elk Hills plant, running below capacity, would supply almost all the campus's electricity, with the grid as backup and fifteen 2.5 megawatt diesel generators behind that.",
+    "src": "https://www.datacenterdynamics.com/en/news/canadas-beacon-dc-targets-275mw-data-center-campus-on-california-oil-field/"
+   },
+   {
+    "para": 1,
+    "t": "Cooling would be closed loop, which the companies say would consume enough water to fill an Olympic swimming pool over ten years, and noise barriers are planned round the site.",
+    "src": "https://grist.org/energy/a-solution-to-data-center-backlash-put-them-in-oil-fields/"
+   },
+   {
+    "para": 2,
+    "t": "Chris Gould, CRC's chief sustainability officer, made the case for reusing an industrial site: it means \"creating jobs and tax revenue in Kern County, utilizing dedicated on-site power, and employing one of the industry's most water-efficient cooling systems.\"",
+    "src": "https://grist.org/energy/a-solution-to-data-center-backlash-put-them-in-oil-fields/"
+   },
+   {
+    "para": 2,
+    "t": "CRC submitted about 150 residents' signatures in support; at least five of those people are connected to the local oil industry.",
+    "src": "https://grist.org/energy/a-solution-to-data-center-backlash-put-them-in-oil-fields/"
+   },
+   {
+    "para": 3,
+    "t": "Environmental groups object to the premise.",
+    "src": "https://grist.org/energy/a-solution-to-data-center-backlash-put-them-in-oil-fields/"
+   },
+   {
+    "para": 3,
+    "t": "Nina Robertson of Earthjustice said: \"You should be powering any data centers in California with zero-emission energy.\"",
+    "src": "https://grist.org/energy/a-solution-to-data-center-backlash-put-them-in-oil-fields/"
+   },
+   {
+    "para": 3,
+    "t": "Earthjustice and the Center for Biological Diversity are already in litigation with CRC over a related carbon capture project.",
+    "src": "https://grist.org/energy/a-solution-to-data-center-backlash-put-them-in-oil-fields/"
+   },
+   {
+    "para": 3,
+    "t": "Gabriel Collins, a researcher at Rice University, summed up the argument: \"Where you stand on these things depends on where you sit.\"",
+    "src": "https://grist.org/energy/a-solution-to-data-center-backlash-put-them-in-oil-fields/"
+   },
+   {
+    "para": 4,
+    "t": "The environmental review is expected to take about a year.",
+    "src": "https://grist.org/energy/a-solution-to-data-center-backlash-put-them-in-oil-fields/"
+   },
+   {
+    "para": 4,
+    "t": "Beyond the Elk Hills plant, the 1,010 megawatt La Paloma and 545 megawatt Sunrise plants are both 18 kilometers away and the 219 megawatt Midway Sunset cogeneration plant 22, all of them burning natural gas.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://grist.org/energy/a-solution-to-data-center-backlash-put-them-in-oil-fields/",
+   "https://www.datacenterdynamics.com/en/news/canadas-beacon-dc-targets-275mw-data-center-campus-on-california-oil-field/"
+  ],
+  "unconfirmed": "Square footage is given as 600,000 in one account and 400,000 in another, and the Elk Hills plant's capacity as 550 megawatts against our record's 525; neither discrepancy was resolved. No resident opposed to the project is quoted by name, and our record's note that there is no local opposition is not supported either way: the objections found come from statewide environmental groups rather than neighbours."
+ },
+ {
+  "id": "ft-1775785975978-4389",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "On 17 September 2026 the Colorado Springs City Council, in El Paso County, Colorado, voted 7 to 2 to put off deciding this data center until 13 April 2027.",
+    "src": "https://gazette.com/2026/09/17/colorado-springs-city-council-punts-decision-on-project-taurus-data-center-to-april-2027-after-raucous-meeting-2/"
+   },
+   {
+    "para": 0,
+    "t": "That date falls a week after the city's elections, which one council member said out loud.",
+    "src": "https://gazette.com/2026/09/17/colorado-springs-city-council-punts-decision-on-project-taurus-data-center-to-april-2027-after-raucous-meeting-2/"
+   },
+   {
+    "para": 1,
+    "t": "Project Taurus would convert the former Intel microchip factory on Garden of the Gods Road into an artificial intelligence data center.",
+    "src": "https://www.cpr.org/2026/09/16/project-taurus-explainer/"
+   },
+   {
+    "para": 1,
+    "t": "The developer is Raeden, a California company, and its vice president Jason Green has led its case.",
+    "src": "https://www.cpr.org/2026/09/16/project-taurus-explainer/"
+   },
+   {
+    "para": 1,
+    "t": "The site was already zoned for data center use, so what the council is deciding is a major modification allowing the industrial building to be retrofitted.",
+    "src": "https://www.cpr.org/2026/09/16/project-taurus-explainer/"
+   },
+   {
+    "para": 2,
+    "t": "At full capacity it would draw about 50 megawatts, on infrastructure approved to supply up to 72, which would make it the largest energy user in Colorado Springs by a wide margin.",
+    "src": "https://www.cpr.org/2026/09/16/project-taurus-explainer/"
+   },
+   {
+    "para": 2,
+    "t": "Raeden declined to give detailed power estimates, calling them proprietary, and has not said who the artificial intelligence tenant would be.",
+    "src": "https://www.cpr.org/2026/09/16/project-taurus-explainer/"
+   },
+   {
+    "para": 2,
+    "t": "Utility officials said no customer would \"pay a single dime for anything that a large load (user) brings on our system\".",
+    "src": "https://www.cpr.org/2026/09/16/project-taurus-explainer/"
+   },
+   {
+    "para": 3,
+    "t": "The building would stand about 380 feet from a residential neighbourhood, and the loudest argument has been about noise.",
+    "src": "https://www.cpr.org/2026/09/16/project-taurus-explainer/"
+   },
+   {
+    "para": 3,
+    "t": "The company estimates 43 decibels in operation, about the level of a refrigerator, against city limits of 70 decibels by day and 65 at night in industrial zoning, dropping to 60 and 55 near homes.",
+    "src": "https://www.cpr.org/2026/09/16/project-taurus-explainer/"
+   },
+   {
+    "para": 3,
+    "t": "The planning commission required monitoring on the dBC scale as well, to catch low frequency sound that the usual measure misses.",
+    "src": "https://www.cpr.org/2026/09/16/project-taurus-explainer/"
+   },
+   {
+    "para": 3,
+    "t": "The sound scientist Duncan Abbot explained why that matters: \"The low frequencies, 50 to 200 hertz, create this far-reaching hum that goes through walls.\"",
+    "src": "https://www.cpr.org/2026/09/16/project-taurus-explainer/"
+   },
+   {
+    "para": 3,
+    "t": "Deidra Aiden-Smith, whose home in Chelsea Glen abuts the site, said \"From my backyard, it will be a giant wall that you will see\", and that the server noise would be never ending, all day and all night.",
+    "src": "https://www.cpr.org/2026/09/16/project-taurus-explainer/"
+   },
+   {
+    "para": 3,
+    "t": "Residents pointed to the Ford Amphitheater, whose operators were granted a hardship permit to exceed noise limits despite local objection.",
+    "src": "https://www.cpr.org/2026/09/16/project-taurus-explainer/"
+   },
+   {
+    "para": 4,
+    "t": "On water, the plan is closed loop cooling of the kind used in a car engine rather than evaporative cooling, which needs little water but circulates chemical coolant.",
+    "src": "https://www.cpr.org/2026/09/16/project-taurus-explainer/"
+   },
+   {
+    "para": 4,
+    "t": "No plan for disposing of that coolant was found in the documents submitted to the city.",
+    "src": "https://www.cpr.org/2026/09/16/project-taurus-explainer/"
+   },
+   {
+    "para": 5,
+    "t": "Bonnie Goff of the Colorado Springs Chamber and Economic Development Corporation put the first 18 months at 60 to 100 local jobs paying about $120,000, $119 million in sales tax and $3 million in property tax.",
+    "src": "https://www.cpr.org/2026/09/16/project-taurus-explainer/"
+   },
+   {
+    "para": 5,
+    "t": "What happens to revenue after that is unclear, particularly how virtual services would be taxed.",
+    "src": "https://www.cpr.org/2026/09/16/project-taurus-explainer/"
+   },
+   {
+    "para": 6,
+    "t": "At the September hearing 126 people registered to speak against the project and 22 to speak for it, and 120 were allowed to.",
+    "src": "https://gazette.com/2026/09/17/colorado-springs-city-council-punts-decision-on-project-taurus-data-center-to-april-2027-after-raucous-meeting-2/"
+   },
+   {
+    "para": 6,
+    "t": "Four people were arrested after a confrontation with police when a woman disrupted proceedings with a megaphone.",
+    "src": "https://gazette.com/2026/09/17/colorado-springs-city-council-punts-decision-on-project-taurus-data-center-to-april-2027-after-raucous-meeting-2/"
+   },
+   {
+    "para": 6,
+    "t": "Kate Kent, the lead appellant, said the speakers arrested were not affiliated with the appeal group.",
+    "src": "https://gazette.com/2026/09/17/colorado-springs-city-council-punts-decision-on-project-taurus-data-center-to-april-2027-after-raucous-meeting-2/"
+   },
+   {
+    "para": 6,
+    "t": "The appeal was brought by the nonprofit Integrity Matters and residents of Chelsea Glen, and Kent called the postponement \"the second-best outcome\".",
+    "src": "https://gazette.com/2026/09/17/colorado-springs-city-council-punts-decision-on-project-taurus-data-center-to-april-2027-after-raucous-meeting-2/"
+   },
+   {
+    "para": 7,
+    "t": "Councilmember Roland Rainey gave the reason for the delay: \"Accountability, rules and standards. I think that's what I heard from a lot of the members that spoke today.\"",
+    "src": "https://gazette.com/2026/09/17/colorado-springs-city-council-punts-decision-on-project-taurus-data-center-to-april-2027-after-raucous-meeting-2/"
+   },
+   {
+    "para": 7,
+    "t": "The delay lets Raeden negotiate a large load contract with Colorado Springs Utilities and lets the city start writing rules for data centers generally.",
+    "src": "https://gazette.com/2026/09/17/colorado-springs-city-council-punts-decision-on-project-taurus-data-center-to-april-2027-after-raucous-meeting-2/"
+   },
+   {
+    "para": 7,
+    "t": "Kimberly Gold and Nancy Henjum voted against the postponement, saying they were ready to vote at once and would have voted the project down.",
+    "src": "https://gazette.com/2026/09/17/colorado-springs-city-council-punts-decision-on-project-taurus-data-center-to-april-2027-after-raucous-meeting-2/"
+   },
+   {
+    "para": 7,
+    "t": "Henjum said: \"Being scrupulous about that is more important than the fate of any single project.\"",
+    "src": "https://gazette.com/2026/09/17/colorado-springs-city-council-punts-decision-on-project-taurus-data-center-to-april-2027-after-raucous-meeting-2/"
+   },
+   {
+    "para": 7,
+    "t": "Dave Donelson said he would have preferred to vote that day, and criticised the April date for falling a week after the elections.",
+    "src": "https://gazette.com/2026/09/17/colorado-springs-city-council-punts-decision-on-project-taurus-data-center-to-april-2027-after-raucous-meeting-2/"
+   },
+   {
+    "para": 8,
+    "t": "The site is 22 acres and 50 megawatts, listed as under construction, and a local campaign group runs at nodatacentercos.com.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 8,
+    "t": "Two nearby towns have already paused: Monument from 21 July 2026 and Woodland Park from 17 July 2026, both for 18 months.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 8,
+    "t": "The 54 megawatt George Birdsall gas plant is 4 kilometres away, and two other tracked data center sites, T5 and Novva, sit 13 and 14 kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.cpr.org/2026/09/16/project-taurus-explainer/",
+   "https://gazette.com/2026/09/17/colorado-springs-city-council-punts-decision-on-project-taurus-data-center-to-april-2027-after-raucous-meeting-2/"
+  ],
+  "unconfirmed": "Our record lists the project as under construction, which the reporting contradicts: the council has not approved the major modification and will not decide before April 2027. The building's square footage is not established from the sources read. The identity of the artificial intelligence tenant is not disclosed. Raeden's own power figures were withheld as proprietary, so the 50 megawatt estimate cannot be checked. Discrepancies between the application documents and the final plans over chillers and generators were attributed by the company to a clerical error, which no source independently tested."
+ },
+ {
+  "id": "ft-48",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is one of the largest proposals on the map and one of the least documented.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The Cielo Hudson data center is put at 750 megawatts across 500 acres on Weld County Road 132 near New Raymer, in north east Colorado, and the entry carries low confidence.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 0,
+    "t": "The only source attached to it is a trade report about a different Cielo project in South Carolina, which carries no reporting on this site at all.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "What the surrounding area does show is a region closing doors.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Seven measures are in force within reach of the site: county wide zoning limits adopted by Weld County on 6 April 2026, zoning limits in Longmont and Aurora, and moratoriums in Denver, Boulder, Broomfield and Lochbuie, the last of them running to August 2031.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The 592 megawatt Rocky Mountain Energy Center gas plant sits a kilometre away, with three more gas plants within 18 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The grid here is the Western Area Power Administration's Rocky Mountain region, with a peak load of 3,362 megawatts; the proposal on its own is about a fifth of that.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Nothing about this project could be verified. The source in our record is about a South Carolina project and does not mention Colorado, which looks like a filing error in the dataset. The address is internally inconsistent, giving both New Raymer and Hudson, which are about 100 kilometres apart, so the coordinates and therefore the power plant and moratorium context may be wrong. No application, hearing, vote or local reaction was found, and no local reporting was reached. A directory listing carrying the same figures returned 429. This entry needs checking at source before the page is trusted."
+ },
+ {
+  "id": "ft-1772679253414-7249",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Weld County told this company to stop building three times before it granted permission.",
+    "src": "https://www.cpr.org/2026/08/07/weld-county-ai-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "Global AI, a New York company, bought a 438 acre property at 2000 Howard Smith Avenue West near Windsor for about $15.6 million in December, the former Kodak site later occupied by Carestream Health, and plans a 41 acre data center on it.",
+    "src": "https://www.kunc.org/news/2026-09-12/weld-county-commissioners-approve-permit-for-global-ai-data-center"
+   },
+   {
+    "para": 1,
+    "t": "The county issued stop work orders on 7 May 2026 and 11 June 2026, and a third on a date the reporting does not give.",
+    "src": "https://www.cpr.org/2026/08/07/weld-county-ai-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "On 20 July 2026 it sent a formal order to abate, demanding compliance by 31 July or termination of unlawful occupancy.",
+    "src": "https://www.cpr.org/2026/08/07/weld-county-ai-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The abatement letter said the company had gone ahead with work on data center specific equipment, adding chiller tanks and piping, without the zoning approval or building permits that phase required.",
+    "src": "https://www.cpr.org/2026/08/07/weld-county-ai-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Weld County would not give details of the inspections or say whether the company had complied, citing the pending investigation.",
+    "src": "https://www.cpr.org/2026/08/07/weld-county-ai-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Angela Snyder, a county planner, said of the objections: \"We sorted the public comments into categories of what is within our jurisdiction to address and what isn't. Those things that we have the ability to address ... we will not approve it unless those things are addressed.\"",
+    "src": "https://www.cpr.org/2026/08/07/weld-county-ai-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "Scott Simmons, a retired information technology architect who lives about a mile from the site, said: \"This is not the place to put a data center, right in the middle of all these communities.\"",
+    "src": "https://www.cpr.org/2026/08/07/weld-county-ai-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "Of the county's oversight he said: \"It couldn't be more 'Nightmare on Elm Street.' These people don't care.\"",
+    "src": "https://www.cpr.org/2026/08/07/weld-county-ai-data-center/"
+   },
+   {
+    "para": 4,
+    "t": "In September 2026 the Weld County Board of Commissioners approved the zoning 5 to 0.",
+    "src": "https://www.kunc.org/news/2026-09-12/weld-county-commissioners-approve-permit-for-global-ai-data-center"
+   },
+   {
+    "para": 4,
+    "t": "More than 400 written comments had been submitted against it, on water, electricity, environmental impact and noise.",
+    "src": "https://www.kunc.org/news/2026-09-12/weld-county-commissioners-approve-permit-for-global-ai-data-center"
+   },
+   {
+    "para": 4,
+    "t": "Chair Scott James said: \"It repurposes an industrial facility that has been vacant for years. It will spur economic activity.\"",
+    "src": "https://www.kunc.org/news/2026-09-12/weld-county-commissioners-approve-permit-for-global-ai-data-center"
+   },
+   {
+    "para": 4,
+    "t": "Commissioner Lynette Peppler said site visits and research had overcome her concerns.",
+    "src": "https://www.kunc.org/news/2026-09-12/weld-county-commissioners-approve-permit-for-global-ai-data-center"
+   },
+   {
+    "para": 5,
+    "t": "The approval came with conditions: closed loop cooling, an initial water fill of 65,000 gallons and an annual top up of 6,500, noise held to ambient levels with 65 decibels in normal operation, and a decommissioning bond.",
+    "src": "https://www.kunc.org/news/2026-09-12/weld-county-commissioners-approve-permit-for-global-ai-data-center"
+   },
+   {
+    "para": 6,
+    "t": "The first phase needs 27.5 megawatts, about what 22,000 homes use, and the company is aiming at a gigawatt by 2029, which would make it the largest data center in Colorado.",
+    "src": "https://www.kunc.org/news/2026-09-12/weld-county-commissioners-approve-permit-for-global-ai-data-center"
+   },
+   {
+    "para": 6,
+    "t": "The Poudre Valley Rural Electric Association has committed 35 megawatts in a will serve letter, but can supply only that much until the middle of 2028, and the figure drops to 27 megawatts in early 2028.",
+    "src": "https://www.cpr.org/2026/08/07/weld-county-ai-data-center/"
+   },
+   {
+    "para": 6,
+    "t": "The gap between 35 megawatts of available supply and a gigawatt of ambition is the part nobody has explained.",
+    "src": "https://www.cpr.org/2026/08/07/weld-county-ai-data-center/"
+   },
+   {
+    "para": 7,
+    "t": "Global AI says it will run the site with Nvidia and with Humain, an Arabic language artificial intelligence company backed by a Saudi sovereign wealth fund, and has not commented publicly on its customers or its timeline.",
+    "src": "https://www.cpr.org/2026/08/07/weld-county-ai-data-center/"
+   },
+   {
+    "para": 7,
+    "t": "The company estimates 1,500 construction jobs and 200 long term jobs, and puts the investment at between $2 billion and $20 billion.",
+    "src": "https://www.kunc.org/news/2026-09-12/weld-county-commissioners-approve-permit-for-global-ai-data-center"
+   },
+   {
+    "para": 8,
+    "t": "The project is carried at 24 megawatts on 438 acres.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 8,
+    "t": "The 1,022 megawatt Fort St Vrain gas plant is 24 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.cpr.org/2026/08/07/weld-county-ai-data-center/",
+   "https://www.kunc.org/news/2026-09-12/weld-county-commissioners-approve-permit-for-global-ai-data-center"
+  ],
+  "unconfirmed": "The exact date of the commissioners' vote is not established; the report is dated 12 September 2026 and says the vote was on a Wednesday. The date of the third stop work order is not given. Whether the county ever confirmed compliance with the abatement order, or imposed any penalty, is not established. The investment range of $2 billion to $20 billion is the company's own and is wide enough to be uninformative. Our record's 24 megawatt figure does not match the 27.5 megawatts reported for phase one."
+ },
+ {
+  "id": "ft-49",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Bloomfield's town government put out its own notice about this one, and the tone of it was welcoming.",
+    "src": "https://www.bloomfieldct.gov/CivicAlerts.aspx?AID=201"
+   },
+   {
+    "para": 0,
+    "t": "Atlas Capital Group, a New York developer, has proposed a two storey data center of about a million square feet at 132 Griffin Road North in Bloomfield, in Hartford County, Connecticut.",
+    "src": "https://www.bloomfieldct.gov/CivicAlerts.aspx?AID=201"
+   },
+   {
+    "para": 0,
+    "t": "More than 900,000 square feet of that would be data processing space, with a substation of 127,000 square feet.",
+    "src": "https://www.bloomfieldct.gov/CivicAlerts.aspx?AID=201"
+   },
+   {
+    "para": 1,
+    "t": "The building would employ 40 people.",
+    "src": "https://www.bloomfieldct.gov/CivicAlerts.aspx?AID=201"
+   },
+   {
+    "para": 1,
+    "t": "The company presented the idea to the Planning and Zoning Commission as a conceptual proposal, with what the town described as critical utility partnerships still under discussion.",
+    "src": "https://www.bloomfieldct.gov/CivicAlerts.aspx?AID=201"
+   },
+   {
+    "para": 1,
+    "t": "Town officials called the project worthy of consideration if it fits the surrounding community.",
+    "src": "https://www.bloomfieldct.gov/CivicAlerts.aspx?AID=201"
+   },
+   {
+    "para": 1,
+    "t": "The notice was published on 3 July 2025.",
+    "src": "https://www.bloomfieldct.gov/CivicAlerts.aspx?AID=201"
+   },
+   {
+    "para": 2,
+    "t": "A million square feet of data hall served by 40 jobs is the arithmetic residents elsewhere have objected to, and the town's notice sets out no power figure at all.",
+    "src": "https://www.bloomfieldct.gov/CivicAlerts.aspx?AID=201"
+   },
+   {
+    "para": 3,
+    "t": "No capacity figure for this one has been published.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "Two data center sites are recorded in Hartford County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generation is the 64 megawatt Algonquin plant at Windsor Locks, 11 kilometres away, and a 120 megawatt solar farm at 16.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Morris, Connecticut has had a moratorium in force since 26 May 2026, and Holyoke in Massachusetts a ban since 17 June 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.bloomfieldct.gov/CivicAlerts.aspx?AID=201"
+  ],
+  "unconfirmed": "No megawatt figure, no water figure and no acreage for the site appear in the town's notice; reporting elsewhere describes a vacant 44 acre former tobacco field, but the CT Insider article cited in our record could not be fetched and that figure is not used here. Whether a formal application has been filed since the July 2025 concept presentation, and what the Planning and Zoning Commission has done since, are not established. Concerns about noise, water and emissions were reportedly raised at town council meetings, but no minutes were read and no resident is named."
+ },
+ {
+  "id": "ft-50",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Bozrah is a town of a few thousand people in New London County, in eastern Connecticut, and the record of the data center proposed there is almost bare.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "GotSpace is named as the developer, with no capacity, no acreage and no date, and medium confidence attached to the entry.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 0,
+    "t": "One of the two sources attached to it is a trade report about a project in Pennsylvania, and the other, a 2022 local report on the town deciding whether to approve a hyperscale data center while under budget pressure, is behind a subscription wall.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "What the surrounding towns show is a corner of New England that has repeatedly said no.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Groton has banned large data centers since 29 June 2023, Charlestown in Rhode Island since 14 August 2026, and Westerly has had a moratorium since 31 July 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "The other tracked site nearby, 27 kilometres away at Groton, is recorded as cancelled.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The 2,104 megawatt Millstone nuclear station is 28 kilometres from Bozrah, and the 496 megawatt Montville station 16.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Neither source in our record could be read: one is about a Pennsylvania project and does not concern Bozrah, and the CT Examiner report is paywalled. Reporting elsewhere indicates the town rejected a proposed new zoning category that would have allowed the data center, at a planning and zoning meeting in October, with GotSpace's representatives absent, but the article carrying that account returned 403 and the claim is not used above. The capacity, acreage, current status and whether the proposal is still live are all unestablished, and our record's status of proposed may be out of date."
+ },
+ {
+  "id": "ft-51",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The pitch was that a data center next to a nuclear plant would never need a backup generator, and that is the claim the neighbours took apart.",
+    "src": "https://ctmirror.org/2026/04/15/tale-of-a-defeated-ct-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "NE Edge proposed a large data center at the Millstone nuclear power station in Waterford, in New London County, Connecticut, drawing power directly from the reactors.",
+    "src": "https://ctmirror.org/2026/04/15/tale-of-a-defeated-ct-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "A local group, Concerned Citizens of Waterford and East Lyme, went to the ISO New England grid data and found that both Millstone reactors had been out of service at the same time for five weeks.",
+    "src": "https://ctmirror.org/2026/04/15/tale-of-a-defeated-ct-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "That undercut the developer's argument that a direct nuclear connection removed the need for backup generation.",
+    "src": "https://ctmirror.org/2026/04/15/tale-of-a-defeated-ct-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "The objection was pressed on several fronts at once.",
+    "src": "https://ctmirror.org/2026/04/15/tale-of-a-defeated-ct-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "The Connecticut Siting Council accepted written comments from residents on Dominion's boundary application, the Office of Consumer Counsel examined whether diverting power would push up electricity bills, and the state Attorney General's office received letters arguing the arrangement would monopolise power.",
+    "src": "https://ctmirror.org/2026/04/15/tale-of-a-defeated-ct-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "The host fee agreement between NE Edge-Waterford, LLC and the town of Waterford ended in default and expired under its own terms, according to an account of the campaign written by Bryan Sayles and published on 15 April 2026.",
+    "src": "https://ctmirror.org/2026/04/15/tale-of-a-defeated-ct-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "The campaign that ended it ran for nearly three years, from August 2023.",
+    "src": "https://ctmirror.org/2026/04/15/tale-of-a-defeated-ct-data-center/"
+   },
+   {
+    "para": 4,
+    "t": "The project is listed as cancelled, at 1,500 megawatts on 25 acres, adjacent to Millstone.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "Millstone itself is 2,104 megawatts, and sits on the site.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Groton, the next town, banned large data centers on 29 June 2023.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://ctmirror.org/2026/04/15/tale-of-a-defeated-ct-data-center/"
+  ],
+  "unconfirmed": "The account used here is an opinion piece by a participant in the campaign, not a news report, and no independent report of the outcome could be reached; the two Data Center Dynamics articles in our record returned 403. The dates of the Connecticut Siting Council's decisions, the project's square footage and its megawatt figure are not established from that source, and our record's 1,500 megawatt figure is not corroborated. Our record files this entry under Groton while the project itself was in Waterford; Groton's ban was a separate action by a neighbouring town."
+ }
+]

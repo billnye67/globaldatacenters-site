@@ -1,0 +1,727 @@
+[
+ {
+  "id": "ft-1771256468378-6038",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Cloverleaf Infrastructure wanted to buy land in the town of Carlton, in Kewaunee County, and put a data center on it.",
+    "src": "https://pbswisconsin.org/news-item/kewaunee-county-town-staves-off-plan-for-a-land-purchase-by-a-data-center-developer/"
+   },
+   {
+    "para": 0,
+    "t": "It gave up in late 2025, after the town made plain that it did not want one.",
+    "src": "https://pbswisconsin.org/news-item/kewaunee-county-town-staves-off-plan-for-a-land-purchase-by-a-data-center-developer/"
+   },
+   {
+    "para": 0,
+    "t": "The record carries the site at 800 acres and 100 megawatts and marks it cancelled.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Town chairman David Hardtke did not hedge: \"I'm against big business. People in the town of Carlton do not want the AI (data) center.\"",
+    "src": "https://pbswisconsin.org/news-item/kewaunee-county-town-staves-off-plan-for-a-land-purchase-by-a-data-center-developer/"
+   },
+   {
+    "para": 1,
+    "t": "Cloverleaf's chief development officer, Aaron Bilyeu, recalled the conversation the same way, quoting the chairman back: \"I don't support data centers. I don't think this is a good fit.\"",
+    "src": "https://pbswisconsin.org/news-item/kewaunee-county-town-staves-off-plan-for-a-land-purchase-by-a-data-center-developer/"
+   },
+   {
+    "para": 1,
+    "t": "Chris Kohnle, president of the Tisch Mills Farm Center, said what was at stake was ground: \"Once they take land away, you know, it'll never come back.\"",
+    "src": "https://pbswisconsin.org/news-item/kewaunee-county-town-staves-off-plan-for-a-land-purchase-by-a-data-center-developer/"
+   },
+   {
+    "para": 1,
+    "t": "Not everyone agreed with the chairman.",
+    "src": "https://pbswisconsin.org/news-item/kewaunee-county-town-staves-off-plan-for-a-land-purchase-by-a-data-center-developer/"
+   },
+   {
+    "para": 1,
+    "t": "Dan Giannotti, a Kewaunee County resident, said an employer like that would pull development after it: \"You're going to see new homes being built, and more businesses move in. Because right now we're just stagnant.\"",
+    "src": "https://pbswisconsin.org/news-item/kewaunee-county-town-staves-off-plan-for-a-land-purchase-by-a-data-center-developer/"
+   },
+   {
+    "para": 2,
+    "t": "The towns around Carlton have since written their own rules: Manitowoc County adopted a moratorium on April 28, 2026, Mishicot on April 30 and Wrightstown on July 7.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "This was the only data center site recorded in Kewaunee County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The power that draws developers here is close at hand: the 1,200 megawatt Point Beach nuclear plant and the 100 megawatt Point Beach Solar are both 16 kilometres away, and Two Creeks Solar 19 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://pbswisconsin.org/news-item/kewaunee-county-town-staves-off-plan-for-a-land-purchase-by-a-data-center-developer/"
+  ],
+  "unconfirmed": "No acreage, megawatt figure, parcel or landowner was named in the reporting we found, and no town board vote or date was recorded; the project appears to have ended in conversation rather than at a meeting. Whether Cloverleaf approached other Kewaunee County towns is unknown."
+ },
+ {
+  "id": "ft-1782690162364-4913",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Cassville is a town of about 400 people on the Mississippi in Grant County, in the part of Wisconsin the glaciers went around.",
+    "src": "https://wisconsinwatch.org/2026/06/a-2-billion-proposal-then-silence-how-a-driftless-area-data-center-deal-fell-apart/"
+   },
+   {
+    "para": 0,
+    "t": "In late 2025 two men, one from the Northeast and one from the South, came looking for 500 acres for a data center they put at up to $2 billion.",
+    "src": "https://wisconsinwatch.org/2026/06/a-2-billion-proposal-then-silence-how-a-driftless-area-data-center-deal-fell-apart/"
+   },
+   {
+    "para": 0,
+    "t": "They would not give their names, citing confidentiality agreements, and they had started out scouting northern Illinois for a cryptocurrency project.",
+    "src": "https://wisconsinwatch.org/2026/06/a-2-billion-proposal-then-silence-how-a-driftless-area-data-center-deal-fell-apart/"
+   },
+   {
+    "para": 0,
+    "t": "What brought them was the Cardinal-Hickory Creek transmission line.",
+    "src": "https://wisconsinwatch.org/2026/06/a-2-billion-proposal-then-silence-how-a-driftless-area-data-center-deal-fell-apart/"
+   },
+   {
+    "para": 0,
+    "t": "They told Ron Brisbois, who runs the Grant County Economic Development Corporation: \"There's a chunk of power there, Ron, and we need to grab it before someone else does.\"",
+    "src": "https://wisconsinwatch.org/2026/06/a-2-billion-proposal-then-silence-how-a-driftless-area-data-center-deal-fell-apart/"
+   },
+   {
+    "para": 1,
+    "t": "The first formal meeting was at the Scenic Rivers Energy Cooperative in Lancaster on November 6, 2025, and Brisbois announced the project publicly at his corporation's annual meeting on December 3.",
+    "src": "https://wisconsinwatch.org/2026/06/a-2-billion-proposal-then-silence-how-a-driftless-area-data-center-deal-fell-apart/"
+   },
+   {
+    "para": 1,
+    "t": "The offer was 50 permanent jobs and $5.5 million a year in taxes to the townships and schools.",
+    "src": "https://wisconsinwatch.org/2026/06/a-2-billion-proposal-then-silence-how-a-driftless-area-data-center-deal-fell-apart/"
+   },
+   {
+    "para": 1,
+    "t": "A second meeting came in February 2026.",
+    "src": "https://wisconsinwatch.org/2026/06/a-2-billion-proposal-then-silence-how-a-driftless-area-data-center-deal-fell-apart/"
+   },
+   {
+    "para": 1,
+    "t": "On March 8 opponents, among them Pete Moris and Melodie Betts, held a rally with the comedian Charlie Berens.",
+    "src": "https://wisconsinwatch.org/2026/06/a-2-billion-proposal-then-silence-how-a-driftless-area-data-center-deal-fell-apart/"
+   },
+   {
+    "para": 1,
+    "t": "On March 19 the developers went to Madison to meet the Department of Natural Resources.",
+    "src": "https://wisconsinwatch.org/2026/06/a-2-billion-proposal-then-silence-how-a-driftless-area-data-center-deal-fell-apart/"
+   },
+   {
+    "para": 1,
+    "t": "On April 6 Brisbois rated the chances \"better than a coinflip.\"",
+    "src": "https://wisconsinwatch.org/2026/06/a-2-billion-proposal-then-silence-how-a-driftless-area-data-center-deal-fell-apart/"
+   },
+   {
+    "para": 1,
+    "t": "Brisbois emailed his board on April 14, the developers went dead quiet after that, and by late May the proposal was only a memory.",
+    "src": "https://wisconsinwatch.org/2026/06/a-2-billion-proposal-then-silence-how-a-driftless-area-data-center-deal-fell-apart/"
+   },
+   {
+    "para": 2,
+    "t": "What settled it was a vote.",
+    "src": "https://wisconsinwatch.org/2026/04/wisconsin-data-center-rural-town-cassville-rejects-plan-driftless-area-zoning/"
+   },
+   {
+    "para": 2,
+    "t": "On April 16, 2026 Cassville balloted on banning data centers, and the count was 44 to nothing.",
+    "src": "https://wisconsinwatch.org/2026/04/wisconsin-data-center-rural-town-cassville-rejects-plan-driftless-area-zoning/"
+   },
+   {
+    "para": 2,
+    "t": "The ordinance keeps them out for up to two years and requires town board approval for changes of land use.",
+    "src": "https://wisconsinwatch.org/2026/04/wisconsin-data-center-rural-town-cassville-rejects-plan-driftless-area-zoning/"
+   },
+   {
+    "para": 2,
+    "t": "It was the first zoning regulation the town had ever adopted.",
+    "src": "https://wisconsinwatch.org/2026/06/a-2-billion-proposal-then-silence-how-a-driftless-area-data-center-deal-fell-apart/"
+   },
+   {
+    "para": 2,
+    "t": "What residents were voting against was 400 to 500 megawatts on about 500 acres, 50 jobs and more than $5.5 million a year in property taxes, from a developer nobody could name.",
+    "src": "https://wisconsinwatch.org/2026/04/wisconsin-data-center-rural-town-cassville-rejects-plan-driftless-area-zoning/"
+   },
+   {
+    "para": 3,
+    "t": "John Hawn, retired, said: \"This is the Driftless area for Christ's sakes. I suppose they didn't expect any problems coming into a small town.\"",
+    "src": "https://wisconsinwatch.org/2026/04/wisconsin-data-center-rural-town-cassville-rejects-plan-driftless-area-zoning/"
+   },
+   {
+    "para": 3,
+    "t": "Town supervisor Scott Riedl said he did not know what to think \"because there's no information.\"",
+    "src": "https://wisconsinwatch.org/2026/04/wisconsin-data-center-rural-town-cassville-rejects-plan-driftless-area-zoning/"
+   },
+   {
+    "para": 3,
+    "t": "The town attorney, Eric Hagen, read it as a search for \"the lowest-hanging fruit with the least amount of regulations,\" and said the town could \"beat them to the punch.\"",
+    "src": "https://wisconsinwatch.org/2026/04/wisconsin-data-center-rural-town-cassville-rejects-plan-driftless-area-zoning/"
+   },
+   {
+    "para": 3,
+    "t": "Melodie Betts, who opposed it, said: \"If we don't stop this now, we're going to lose everything that's precious in the Driftless Area. You let one in, you open up the door.\"",
+    "src": "https://wisconsinwatch.org/2026/06/a-2-billion-proposal-then-silence-how-a-driftless-area-data-center-deal-fell-apart/"
+   },
+   {
+    "para": 3,
+    "t": "Brisbois, afterwards: \"I put a lot of time into this and lost a lot of sleep over it. It stings a bit.\"",
+    "src": "https://wisconsinwatch.org/2026/06/a-2-billion-proposal-then-silence-how-a-driftless-area-data-center-deal-fell-apart/"
+   },
+   {
+    "para": 3,
+    "t": "He said he was looking forward to quieter days, worrying about housing and the odd farm expansion.",
+    "src": "https://wisconsinwatch.org/2026/04/wisconsin-data-center-rural-town-cassville-rejects-plan-driftless-area-zoning/"
+   },
+   {
+    "para": 4,
+    "t": "Cassville was not alone.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "Grant County adopted a moratorium on March 2, 2026 and another on June 17, Dubuque County across the river on May 26, and Guttenberg in Iowa on June 8.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The Public Service Commission also moved to make data centers cover their own electricity costs.",
+    "src": "https://wisconsinwatch.org/2026/06/a-2-billion-proposal-then-silence-how-a-driftless-area-data-center-deal-fell-apart/"
+   },
+   {
+    "para": 4,
+    "t": "The record carries the project at 400 megawatts, 500 acres and $2 billion, and marks it cancelled.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 4,
+    "t": "Nothing else on the map is near: the closest generation is the 50 megawatt Cassville Solar plant, 6 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://wisconsinwatch.org/2026/06/a-2-billion-proposal-then-silence-how-a-driftless-area-data-center-deal-fell-apart/",
+   "https://wisconsinwatch.org/2026/04/wisconsin-data-center-rural-town-cassville-rejects-plan-driftless-area-zoning/"
+  ],
+  "unconfirmed": "The developers were never named and no company has been identified, so who was behind the proposal, and whether they went on to another Wisconsin site, is unknown. No application was ever filed, so there is no site plan, no water figure and no interconnection request on the record."
+ },
+ {
+  "id": "ft-1120",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "QTS Data Centers, of Virginia, proposed a $12 billion campus on about 1,600 acres at DeForest, in Dane County north of Madison.",
+    "src": "https://wisconsinwatch.org/2026/08/wisconsin-deforest-data-center-deal-guaranteed-tax-revenue-river-improvements-affordable-housing/"
+   },
+   {
+    "para": 0,
+    "t": "Village staff had been meeting the company since March 2025.",
+    "src": "https://wisconsinwatch.org/2026/08/wisconsin-deforest-data-center-deal-guaranteed-tax-revenue-river-improvements-affordable-housing/"
+   },
+   {
+    "para": 0,
+    "t": "The proposal became public in January 2026, and three weeks later it was dead.",
+    "src": "https://wisconsinwatch.org/2026/08/wisconsin-deforest-data-center-deal-guaranteed-tax-revenue-river-improvements-affordable-housing/"
+   },
+   {
+    "para": 1,
+    "t": "What DeForest had negotiated is the most detailed public account there is of what one of these deals is worth to a village.",
+    "src": "https://wisconsinwatch.org/2026/08/wisconsin-deforest-data-center-deal-guaranteed-tax-revenue-river-improvements-affordable-housing/"
+   },
+   {
+    "para": 1,
+    "t": "QTS would have guaranteed $1.2 billion of assessed value for fifteen years, roughly $12 million a year to local bodies, which the village worked out as about $1,772 a year off the tax bill on a $400,000 home.",
+    "src": "https://wisconsinwatch.org/2026/08/wisconsin-deforest-data-center-deal-guaranteed-tax-revenue-river-improvements-affordable-housing/"
+   },
+   {
+    "para": 1,
+    "t": "There was $50 million of community investment attached: $100,000 a year for fifteen years for the Yahara River, $200,000 a year for five years for affordable housing, $1.5 million toward a $15 million interstate interchange, and a community solar scheme.",
+    "src": "https://wisconsinwatch.org/2026/08/wisconsin-deforest-data-center-deal-guaranteed-tax-revenue-river-improvements-affordable-housing/"
+   },
+   {
+    "para": 1,
+    "t": "QTS would have paid for the water, sewer and road work, and funded emergency services including an ambulance for five years after signing.",
+    "src": "https://wisconsinwatch.org/2026/08/wisconsin-deforest-data-center-deal-guaranteed-tax-revenue-river-improvements-affordable-housing/"
+   },
+   {
+    "para": 1,
+    "t": "It said 45 percent of the power would be renewable and that it had already bought 750 megawatts of renewable energy credits.",
+    "src": "https://wisconsinwatch.org/2026/08/wisconsin-deforest-data-center-deal-guaranteed-tax-revenue-river-improvements-affordable-housing/"
+   },
+   {
+    "para": 1,
+    "t": "If a well within a quarter of a mile was contaminated, or a property materially harmed by noise or vibration, the company undertook to repair it or buy the property at 110 percent of assessed value.",
+    "src": "https://wisconsinwatch.org/2026/08/wisconsin-deforest-data-center-deal-guaranteed-tax-revenue-river-improvements-affordable-housing/"
+   },
+   {
+    "para": 2,
+    "t": "None of it was enough.",
+    "src": "https://www.wkow.com/news/top-stories/village-of-deforest-board-unanimously-rejects-annexation-tied-to-qts-data-center/article_99466eb5-860f-4072-af23-4bd063bce2e9.html"
+   },
+   {
+    "para": 2,
+    "t": "On Tuesday, February 3, 2026 the DeForest village board voted 7 to 0 against annexing 1,572.5 acres from the town of Vienna, which the campus needed.",
+    "src": "https://www.wkow.com/news/top-stories/village-of-deforest-board-unanimously-rejects-annexation-tied-to-qts-data-center/article_99466eb5-860f-4072-af23-4bd063bce2e9.html"
+   },
+   {
+    "para": 2,
+    "t": "Village administrator Bill Chang said the village had \"noticed a change in challenges in negotiating the pre-annexation agreement\" over the previous weeks, and \"also saw a shift in sentiment among village trustees.\"",
+    "src": "https://www.wkow.com/news/top-stories/village-of-deforest-board-unanimously-rejects-annexation-tied-to-qts-data-center/article_99466eb5-860f-4072-af23-4bd063bce2e9.html"
+   },
+   {
+    "para": 2,
+    "t": "Tricia Boehkle, who led No Data Center in DeForest, said afterwards: \"It was amazing. I've never experienced anything like that before.\" She had walked into a room full of strangers at the start, she said, and knew all of them by the end.",
+    "src": "https://www.wkow.com/news/top-stories/village-of-deforest-board-unanimously-rejects-annexation-tied-to-qts-data-center/article_99466eb5-860f-4072-af23-4bd063bce2e9.html"
+   },
+   {
+    "para": 2,
+    "t": "Winona Storms, of the same group, was more cautious: \"I really think it's important for DeForest but all Dane County communities to wait. Let's see what they have to say. Let's find out and do this the smart way.\"",
+    "src": "https://www.wkow.com/news/top-stories/village-of-deforest-board-unanimously-rejects-annexation-tied-to-qts-data-center/article_99466eb5-860f-4072-af23-4bd063bce2e9.html"
+   },
+   {
+    "para": 3,
+    "t": "The entry puts the campus at 1,400 acres and $12 billion, holds no capacity figure, and marks it cancelled.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "The acreage on record, the 1,600 acres Wisconsin Watch reported and the 1,572.5 acres in the annexation all differ.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "Dane County and the counties around it wrote rules through the same year: Madison on January 13, 2026, Westport on April 7, Hampden and Jefferson County in May, Dane County itself on June 4, Dodge County on June 19, Middleton on July 1, Cottage Grove on July 20 and Jefferson County again on August 11.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "That is nine within reach of one site.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "No other data center project is recorded within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://wisconsinwatch.org/2026/08/wisconsin-deforest-data-center-deal-guaranteed-tax-revenue-river-improvements-affordable-housing/",
+   "https://www.wkow.com/news/top-stories/village-of-deforest-board-unanimously-rejects-annexation-tied-to-qts-data-center/article_99466eb5-860f-4072-af23-4bd063bce2e9.html"
+  ],
+  "unconfirmed": "The power draw of the campus was never published and our record holds none. Whether QTS has gone to another site in Wisconsin, and what became of the town of Vienna land, were not established. The reported emails between QTS and village leadership, which residents said showed the move from Vienna to DeForest was discussed before the public was told, are cited in secondary accounts we could not read in full."
+ },
+ {
+  "id": "ft-1767734064417-7029",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Cloverleaf Infrastructure planned a data center at Greenleaf in Brown County, on 600 acres directly across from Ledgestone Vineyards and Gnarly Cedar.",
+    "src": "https://spectrumnews1.com/wi/milwaukee/news/2026/01/13/data-center-withdraws-plans-to-build-in-brown-county-following-community-pushback-greenleaf-"
+   },
+   {
+    "para": 0,
+    "t": "Katrina Magnuson, who co-owns both, found out about a week before the plan collapsed.",
+    "src": "https://spectrumnews1.com/wi/milwaukee/news/2026/01/13/data-center-withdraws-plans-to-build-in-brown-county-following-community-pushback-greenleaf-"
+   },
+   {
+    "para": 0,
+    "t": "Spectrum News put the site at 600 acres; the record carries 500.",
+    "src": "https://spectrumnews1.com/wi/milwaukee/news/2026/01/13/data-center-withdraws-plans-to-build-in-brown-county-following-community-pushback-greenleaf-"
+   },
+   {
+    "para": 1,
+    "t": "Magnuson organised against it on social media, worried about well water, the streams and the Niagara Escarpment underneath, which makes the microclimate her vines depend on.",
+    "src": "https://spectrumnews1.com/wi/milwaukee/news/2026/01/13/data-center-withdraws-plans-to-build-in-brown-county-following-community-pushback-greenleaf-"
+   },
+   {
+    "para": 1,
+    "t": "Nearly a hundred people came to a Stop the Data Center meeting helped together by Jayne Black, a Brown County resident and a field organiser for Moms Clean Air Force.",
+    "src": "https://spectrumnews1.com/wi/milwaukee/news/2026/01/13/data-center-withdraws-plans-to-build-in-brown-county-following-community-pushback-greenleaf-"
+   },
+   {
+    "para": 1,
+    "t": "On January 13, 2026, Cloverleaf's chief development officer Aaron Bilyeu said that after speaking to leadership at the Village of Greenleaf and the Town of Wrightstown, the company \"will not be pursuing datacenters\" in those jurisdictions, citing its priority on \"collaboration and engagement with local communities.\"",
+    "src": "https://spectrumnews1.com/wi/milwaukee/news/2026/01/13/data-center-withdraws-plans-to-build-in-brown-county-following-community-pushback-greenleaf-"
+   },
+   {
+    "para": 1,
+    "t": "Village president Bonnie Crossman thanked residents for their support and said the board stays focused on \"what's best for this small community.\"",
+    "src": "https://spectrumnews1.com/wi/milwaukee/news/2026/01/13/data-center-withdraws-plans-to-build-in-brown-county-following-community-pushback-greenleaf-"
+   },
+   {
+    "para": 2,
+    "t": "Wrightstown, the other place Bilyeu named, adopted a moratorium on data centers on July 7, 2026, after the company had already withdrawn.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Manitowoc County adopted one on April 28, 2026 and Mishicot on April 30.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "This was the only data center site recorded in Brown County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "Gas generation is thick here: the 578 megawatt Fox Energy Center is 8 kilometres away, the De Pere Energy Center and the Island Street peaker 14 kilometres each.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://spectrumnews1.com/wi/milwaukee/news/2026/01/13/data-center-withdraws-plans-to-build-in-brown-county-following-community-pushback-greenleaf-"
+  ],
+  "unconfirmed": "No megawatt figure, tenant or investment was ever published, and our record holds none. Whether Cloverleaf had options on any parcel, and what it paid or offered, was not established. Our record cites a report that residents were offered up to $120,000 an acre for their land; that page is on Data Center Dynamics, which refuses requests, no other outlet carries the figure, and it is not used here."
+ },
+ {
+  "id": "ft-1095",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The city of Janesville owns the 250 acres at 1000 General Motors Drive, in Rock County, where a data center campus has been proposed.",
+    "src": "https://news.ballotpedia.org/2026/02/12/janesville-wisconsin-voters-to-decide-nov-3-2026-initiative-requiring-approval-for-development-projects-exceeding-450-million-at-gm-jatco-site-such-as-proposed-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "General Motors built cars there from 1919 until 2008, the plant shut in 2009, the last of it came down in 2019, and the Department of Natural Resources treats the ground as contaminated.",
+    "src": "https://www.wpr.org/news/janesville-data-center-abandoned-gm-site"
+   },
+   {
+    "para": 1,
+    "t": "On Monday, November 10, 2025 the city council voted 5 to 2 for a non-binding letter of intent with Viridian Acquisitions LLC, of Colorado, which gave the city 120 days to negotiate.",
+    "src": "https://www.wpr.org/news/janesville-data-center-abandoned-gm-site"
+   },
+   {
+    "para": 1,
+    "t": "Viridian was weighing an eleven building campus or an eight building hyperscale one, drawing up to 800 megawatts, at a cost of more than $8 billion, with 1,200 construction jobs and 600 permanent posts.",
+    "src": "https://www.wpr.org/news/janesville-data-center-abandoned-gm-site"
+   },
+   {
+    "para": 1,
+    "t": "Viridian would carry out the cleanup under a plan approved by the Department of Natural Resources.",
+    "src": "https://www.wpr.org/news/janesville-data-center-abandoned-gm-site"
+   },
+   {
+    "para": 1,
+    "t": "The record carries 200 megawatts and 240 acres, which is a quarter of the power and close to the whole site.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "More than twenty residents spoke against it at the hearing that night.",
+    "src": "https://www.wpr.org/news/janesville-data-center-abandoned-gm-site"
+   },
+   {
+    "para": 2,
+    "t": "Julie Backenkeller asked the council: \"If data centers are so great, then why are so many communities fighting them?\"",
+    "src": "https://www.wpr.org/news/janesville-data-center-abandoned-gm-site"
+   },
+   {
+    "para": 2,
+    "t": "Seth Lambert asked the council to \"reject this data center project.\"",
+    "src": "https://www.wpr.org/news/janesville-data-center-abandoned-gm-site"
+   },
+   {
+    "para": 2,
+    "t": "Cassandra Pope said: \"I don't trust these big, billion dollar corporations, and I don't trust our city government to hold these corporations accountable.\"",
+    "src": "https://www.wpr.org/news/janesville-data-center-abandoned-gm-site"
+   },
+   {
+    "para": 2,
+    "t": "Council member Heather Miller voted no: \"Without being able to have input from someone about public health makes me concerned for the residents that surround this property.\"",
+    "src": "https://www.wpr.org/news/janesville-data-center-abandoned-gm-site"
+   },
+   {
+    "para": 3,
+    "t": "The opponents then went around the council.",
+    "src": "https://news.ballotpedia.org/2026/02/12/janesville-wisconsin-voters-to-decide-nov-3-2026-initiative-requiring-approval-for-development-projects-exceeding-450-million-at-gm-jatco-site-such-as-proposed-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "No Janesville Data Center gathered 3,927 signatures, twelve more than the 3,915 needed, and they were certified on January 21, 2026.",
+    "src": "https://news.ballotpedia.org/2026/02/12/janesville-wisconsin-voters-to-decide-nov-3-2026-initiative-requiring-approval-for-development-projects-exceeding-450-million-at-gm-jatco-site-such-as-proposed-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "On February 9, 2026 the council put the question on the ballot.",
+    "src": "https://news.ballotpedia.org/2026/02/12/janesville-wisconsin-voters-to-decide-nov-3-2026-initiative-requiring-approval-for-development-projects-exceeding-450-million-at-gm-jatco-site-such-as-proposed-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "On November 3, 2026 Janesville votes on whether any development costing more than $450 million on the undeveloped part of the GM and JATCO site must first be approved by the voters at a general or special election.",
+    "src": "https://news.ballotpedia.org/2026/02/12/janesville-wisconsin-voters-to-decide-nov-3-2026-initiative-requiring-approval-for-development-projects-exceeding-450-million-at-gm-jatco-site-such-as-proposed-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "If the measure passes and a plan is then rejected, the next plan needs another referendum.",
+    "src": "https://news.ballotpedia.org/2026/02/12/janesville-wisconsin-voters-to-decide-nov-3-2026-initiative-requiring-approval-for-development-projects-exceeding-450-million-at-gm-jatco-site-such-as-proposed-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "The record also links a change.org petition against the project.",
+    "src": "data:fractracker.petition"
+   },
+   {
+    "para": 4,
+    "t": "Two other proposals sit nine kilometres away, one from Meta and one called Project Cornmaze.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The townships around have been writing moratoriums: Green County on July 15, 2026 and the Town of Beloit on August 18.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The gas is right there: Riverside Energy Center at 530 megawatts is 8 kilometres off and West Riverside at 697 megawatts 9 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.wpr.org/news/janesville-data-center-abandoned-gm-site",
+   "https://news.ballotpedia.org/2026/02/12/janesville-wisconsin-voters-to-decide-nov-3-2026-initiative-requiring-approval-for-development-projects-exceeding-450-million-at-gm-jatco-site-such-as-proposed-data-center/"
+  ],
+  "unconfirmed": "The outcome of the November 3, 2026 referendum is not yet known. Whether the 120 day negotiating window produced a development agreement, and what Viridian's water demand would be, were not established. Viridian's end customer has not been named."
+ },
+ {
+  "id": "ft-1778596114883-8026",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The redevelopment of the former Walmart at 5825 West Hope Avenue, on Milwaukee's northwest side in Milwaukee County, included a computing facility of about 19,000 square feet, and the argument was partly about whether to call it a data center.",
+    "src": "https://urbanmilwaukee.com/2026/07/06/midtown-walmart-redevelopment-drops-data-center-plan/"
+   },
+   {
+    "para": 0,
+    "t": "The store had stood empty since 2016.",
+    "src": "https://urbanmilwaukee.com/2026/07/06/midtown-walmart-redevelopment-drops-data-center-plan/"
+   },
+   {
+    "para": 0,
+    "t": "The developer, Trent Overhue, described a small edge site: under 10,000 square feet of IT space, 9 to 10 megawatts at full build, closed loop cooling using fewer than five gallons of water a day.",
+    "src": "https://urbanmilwaukee.com/2026/07/06/midtown-walmart-redevelopment-drops-data-center-plan/"
+   },
+   {
+    "para": 0,
+    "t": "Residents called it a data center regardless.",
+    "src": "https://urbanmilwaukee.com/2026/07/06/midtown-walmart-redevelopment-drops-data-center-plan/"
+   },
+   {
+    "para": 1,
+    "t": "The City Plan Commission took it on June 29, 2026 and sat for more than six hours.",
+    "src": "https://urbanmilwaukee.com/2026/07/06/midtown-walmart-redevelopment-drops-data-center-plan/"
+   },
+   {
+    "para": 1,
+    "t": "No motion to approve carried, and commissioners put off a decision without saying what would have to change, while a July 31 construction deadline tied to low income housing tax credits for the housing part of the scheme meant they had to be back by July 20.",
+    "src": "https://urbanmilwaukee.com/2026/07/06/midtown-walmart-redevelopment-drops-data-center-plan/"
+   },
+   {
+    "para": 1,
+    "t": "Samantha Doucas, of the Party for Socialism and Liberation, said: \"You can call it whatever you want. It's still a data center.\"",
+    "src": "https://urbanmilwaukee.com/2026/07/06/midtown-walmart-redevelopment-drops-data-center-plan/"
+   },
+   {
+    "para": 1,
+    "t": "Joshua Taylor, of the same group, said: \"They're trying to sell us a bad deal.\"",
+    "src": "https://urbanmilwaukee.com/2026/07/06/midtown-walmart-redevelopment-drops-data-center-plan/"
+   },
+   {
+    "para": 1,
+    "t": "The city's planning manager, Tanya Fonseca, said the conditions attached were more stringent than the data center zoning rules the city was still drafting.",
+    "src": "https://urbanmilwaukee.com/2026/07/06/midtown-walmart-redevelopment-drops-data-center-plan/"
+   },
+   {
+    "para": 2,
+    "t": "On Monday, July 6, 2026, Alderman Mark Chambers Jr. announced the computing facility was out of the application.",
+    "src": "https://urbanmilwaukee.com/2026/07/06/midtown-walmart-redevelopment-drops-data-center-plan/"
+   },
+   {
+    "para": 2,
+    "t": "Indoor self storage stays.",
+    "src": "https://urbanmilwaukee.com/2026/07/06/midtown-walmart-redevelopment-drops-data-center-plan/"
+   },
+   {
+    "para": 2,
+    "t": "What has been added is a Milwaukee Public Library branch and about 200 affordable housing units from Gorman and Company.",
+    "src": "https://urbanmilwaukee.com/2026/07/06/midtown-walmart-redevelopment-drops-data-center-plan/"
+   },
+   {
+    "para": 2,
+    "t": "The project is marked cancelled, with no capacity figure.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Two data center sites are counted in Milwaukee County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The nearest other projects are 26 to 34 kilometres out: an operating Expedient facility, Microsoft's Project Nova at Caledonia, and the Stargate and STACK sites at Port Washington, one of them 1,300 megawatts.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Port Washington banned data centers on April 8, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The 267 megawatt Valley plant is nine kilometres from Hope Avenue.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://urbanmilwaukee.com/2026/07/06/midtown-walmart-redevelopment-drops-data-center-plan/"
+  ],
+  "unconfirmed": "Our record names no developer for the entry and lists it under AFS, which is Affordable Family Storage, the self storage operator rather than the computing tenant. Who would have run the 19,000 square foot facility, and what it was for, was never stated. The attendance at the six hour commission hearing was not given as a number."
+ },
+ {
+  "id": "ft-1100",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The data center proposed at Menomonie was 324 acres between 650th and 690th Avenue, at Red Cedar near Elk Mound in Dunn County, at a cost put at $1.6 billion.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The company was Balloonist LLC.",
+    "src": "https://www.weau.com/2025/09/23/proposed-menomonie-data-center-put-hold/"
+   },
+   {
+    "para": 1,
+    "t": "On Monday, September 22, 2025, Mayor Randy Knaack told the council the city would go no further.",
+    "src": "https://www.weau.com/2025/09/23/proposed-menomonie-data-center-put-hold/"
+   },
+   {
+    "para": 1,
+    "t": "He said residents had spent the past couple of months telling him what they thought of it.",
+    "src": "https://www.weau.com/2025/09/23/proposed-menomonie-data-center-put-hold/"
+   },
+   {
+    "para": 1,
+    "t": "\"For now, I'm not willing to negotiate a development agreement or TID district information,\" he said, and told city administrator Eric Atkinson to inform the company.",
+    "src": "https://www.weau.com/2025/09/23/proposed-menomonie-data-center-put-hold/"
+   },
+   {
+    "para": 2,
+    "t": "The council did not all agree.",
+    "src": "https://www.weau.com/2025/09/23/proposed-menomonie-data-center-put-hold/"
+   },
+   {
+    "para": 2,
+    "t": "Sydney Brennan, of Ward 9, said a cease and desist \"gives a bad reputation to Menomonie and basically gives a big middle finger to companies that we are closed for business.\"",
+    "src": "https://www.weau.com/2025/09/23/proposed-menomonie-data-center-put-hold/"
+   },
+   {
+    "para": 2,
+    "t": "She had tried to bring a no confidence resolution, which could not be taken because it was not on the agenda.",
+    "src": "https://www.weau.com/2025/09/23/proposed-menomonie-data-center-put-hold/"
+   },
+   {
+    "para": 3,
+    "t": "Suspended rather than cancelled is the right word for it: the mayor declined to negotiate, he did not refuse permission, and the annexation and rezoning had already gone through.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Menomonie adopted zoning limits on data centers on January 5, 2026, a little over three months later.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "It is the only data center site recorded in Dunn County and there is no other within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Generation nearby is small: the 65 megawatt Elk Mound gas plant 22 kilometres off and Wheaton at 186 megawatts 26 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.weau.com/2025/09/23/proposed-menomonie-data-center-put-hold/"
+  ],
+  "unconfirmed": "Who is behind Balloonist LLC was not established, and no tenant or capacity figure has been published; our record holds none. Whether the company has come back to the city since September 2025, and what the January 2026 zoning limits allow, were not established. The annexation petition and the rezoning vote appear only in our record's source titles, not in a page that would open, so their dates are not given here."
+ },
+ {
+  "id": "ft-1104",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Digital Power Optimization wanted 20 megawatts of computing on the former Verso mill site at Wisconsin Rapids, in Wood County, and told the city in July 2025 that it would not build the data center after all.",
+    "src": "https://wfhr.com/news/2025/07/28/wisconsin-rapids-data-center-plans-cancelled"
+   },
+   {
+    "para": 0,
+    "t": "The land belongs to Capital Recovery Group, which is demolishing the mill with the MRD group.",
+    "src": "https://wfhr.com/news/2025/07/28/wisconsin-rapids-data-center-plans-cancelled"
+   },
+   {
+    "para": 0,
+    "t": "The record carries $200 million, 15 acres and 20 megawatts, and marks it cancelled.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Mayor Matt Zacher described the business the company was in, without much warmth: \"They go in and lock up a contract, and then they go out and say hey we have 20mW of energy available any takers? They go worldwide and ultimately if nobody takes it, they don't want to keep the contract locked up.\"",
+    "src": "https://wfhr.com/news/2025/07/28/wisconsin-rapids-data-center-plans-cancelled"
+   },
+   {
+    "para": 1,
+    "t": "There were no takers, so the contract went back.",
+    "src": "https://wfhr.com/news/2025/07/28/wisconsin-rapids-data-center-plans-cancelled"
+   },
+   {
+    "para": 1,
+    "t": "Digital Power Optimization did not respond to requests for comment.",
+    "src": "https://wfhr.com/news/2025/07/28/wisconsin-rapids-data-center-plans-cancelled"
+   },
+   {
+    "para": 2,
+    "t": "The mayor's complaint was not really about data centers.",
+    "src": "https://wfhr.com/news/2025/07/28/wisconsin-rapids-data-center-plans-cancelled"
+   },
+   {
+    "para": 2,
+    "t": "It was about what the power in his city is for: he said he is now more reluctant to give away 80 megawatts, and \"now we have no energy capacity to give to manufacturing, where you could employ 100- 200- 900 employees.\"",
+    "src": "https://wfhr.com/news/2025/07/28/wisconsin-rapids-data-center-plans-cancelled"
+   },
+   {
+    "para": 2,
+    "t": "He put the cleared mill site at about 250 acres with 80 to 100 megawatts available once the work is done.",
+    "src": "https://wfhr.com/news/2025/07/28/wisconsin-rapids-data-center-plans-cancelled"
+   },
+   {
+    "para": 3,
+    "t": "The 55 megawatt Biron Mill plant is 4 kilometres away and a 150 megawatt solar plant 16 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "No moratorium is in force in Wood County.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "For the mill site, the question is no longer a data center but who takes the 80 megawatts the mayor wanted for a factory.",
+    "src": "https://wfhr.com/news/2025/07/28/wisconsin-rapids-data-center-plans-cancelled"
+   }
+  ],
+  "sources": [
+   "https://wfhr.com/news/2025/07/28/wisconsin-rapids-data-center-plans-cancelled"
+  ],
+  "unconfirmed": "The power supply arrangement reported elsewhere, with Consolidated Water Power Company, a Billerud subsidiary that runs five dams on the Wisconsin River, appears only in trade press that would not open and in search summaries, so it is not carried here. Whether another operator has taken up the 20 megawatts since July 2025 is unknown. Our record places a 902 megawatt project called Vantage Lighthouse 11 kilometres from this site, but Lighthouse is the name Vantage uses for its campus at Port Washington, on the other side of the state, so that neighbour is not used here."
+ }
+]

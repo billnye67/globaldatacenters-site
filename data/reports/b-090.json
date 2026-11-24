@@ -1,0 +1,716 @@
+[
+ {
+  "id": "ft-446",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The buyer pulled out during the due diligence period and kept its deposit.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Data Centric LLC, of New York City, had agreed to buy a 37 acre lot at the Great Stream Commons industrial park in Gregg Township near Allenwood, in Union County, for a data center at $2.7 million, and terminated the agreement.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The Union County commissioners had approved the deal in May with the New York property and investment firm KSR Capital, on a 180 day due diligence period with $100,000 held in escrow.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Because the withdrawal came inside the contingency period, the company did not lose the deposit.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Great Stream Commons has not gone quiet.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Later reporting refers to data centers proposed there by the PNK Group, and to a $4 million community benefit plan from a data center company meeting pushback from an Allenwood group.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The record does not hold either of those as a separate entry.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded as suspended on 37 acres, costing $2.7 million, with no capacity figure and no developer field filled in, at medium confidence.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "The $2.7 million is the price of the land, not the cost of a data center.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "The country around here is already generating heavily.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The 765 megawatt Hamilton Patriot gas plant is eight kilometres away, the 1,504 megawatt Montour plant 21, and the 1,084 megawatt Hummel Station 33.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "A Muncy data center is under construction 13 kilometres off, and a suspended Amazon project with Talen Energy in Montour County 20.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "Six measures sit within reach on record, including moratoriums at Muncy Township from May 1, 2026 and Madison Township from June 1, and zoning limits at Pine Creek Township, Nescopeck Borough, Madison Township and Columbia County.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The Data Center Dynamics report in our record is not fetchable and the WKOK and North Central PA accounts were found only in search summaries, so no source url is listed and each sentence is attributed to our record's source list. No commissioner or resident is quoted. The year of the May agreement and of the termination is not established. No megawatt or water figure was ever published. Whether the PNK Group proposals at the same industrial park are the same land is unknown, and they may warrant separate entries."
+ },
+ {
+  "id": "ft-472",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one replaces a scrapyard.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "PDC Realty LLC bought the Highway Auto Parts salvage yard on Eynon Jermyn Road in Archbald Borough, Lackawanna County, for $1.575 million and wants a data center on it: about 83.5 acres across 17 parcels.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The initial filing was for three two storey data centers of 150,000 square feet each; that was later consolidated into a single building of 619,925 square feet, known as Project Boson.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "PDC Realty is managed by Jim Marzolino of Kriger Construction.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "It is one of several.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The record holds thirteen data center sites in Lackawanna County, ten of them within 15 kilometres of this one, including Project Gravity and Project North a kilometre away, Project Scott a kilometre off, Project Green Mountain at three, a withdrawn Blakely campus at four and a 600 megawatt Breaker Street proposal at four.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "On November 24, 2025 Archbald Borough Council voted 4 to 2, with one abstention, for a zoning overlay allowing data centers in conservation and residential areas near Business Route 6 as well as in the industrial and commercial zones across the borough, and setting definitions, criteria and standards for them.",
+    "src": "https://www.wvia.org/news/local/2025-11-25/crammed-angered-archbald-residents-express-disapproval-as-council-approves-controversial-data-center-zoning-amendment"
+   },
+   {
+    "para": 2,
+    "t": "Dave Moran, Francis Burke, Marie Andreoli and Richard Guman voted for it; Laura Lewis and Erin Owen against; John Shnipes III abstained because family property is involved in data center development.",
+    "src": "https://www.wvia.org/news/local/2025-11-25/crammed-angered-archbald-residents-express-disapproval-as-council-approves-controversial-data-center-zoning-amendment"
+   },
+   {
+    "para": 2,
+    "t": "Residents sat on the floor, crowded the vestibule and stood outside in freezing November weather.",
+    "src": "https://www.wvia.org/news/local/2025-11-25/crammed-angered-archbald-residents-express-disapproval-as-council-approves-controversial-data-center-zoning-amendment"
+   },
+   {
+    "para": 2,
+    "t": "Sheri Skrutski told the council: \"Zoning is supposed to protect borough residents, not data park developers.\"",
+    "src": "https://www.wvia.org/news/local/2025-11-25/crammed-angered-archbald-residents-express-disapproval-as-council-approves-controversial-data-center-zoning-amendment"
+   },
+   {
+    "para": 3,
+    "t": "The entry stands as proposed on 84 acres, costing $1.6 million, with PDC Realty LLC as developer and no capacity figure.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "The $1.6 million is the price paid for the land.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "The 1,362 megawatt Lackawanna Energy Center is five kilometres away and the 72 megawatt Archbald power station three.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Archbald itself has no moratorium on record; the nearest measures are zoning limits at Mayfield from December 10, 2025 and Olyphant Borough from April 14, 2026, and a moratorium at Clinton Township from April 30.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.wvia.org/news/local/2025-11-25/crammed-angered-archbald-residents-express-disapproval-as-council-approves-controversial-data-center-zoning-amendment"
+  ],
+  "unconfirmed": "The Times-Tribune report in our record could not be fetched, the WNEP report was not fetched, and the Data Center Dynamics report is not fetchable, so the land purchase, the parcel count and the consolidation into a single building are attributed to our record's source list. No megawatt or water figure has been published for Project Boson. Whether the consolidated single building has been approved is unknown. The zoning report names the applicant as PDC Realty LLC and the project as replacing the junkyard, so our record's entry name and Project Boson describe the same site. Some secondary accounts give the council vote as 5 to 2; the report read here gives 4 to 2 with one abstention, and names every member."
+ },
+ {
+  "id": "ft-447",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The state threw this one off its fast-track permit programme for not answering questions.",
+    "src": "https://www.wvia.org/news/local/2026-05-01/fast-track-no-more-pa-kicks-archbald-data-center-campus-off-permit-program"
+   },
+   {
+    "para": 0,
+    "t": "On May 1, 2026 the Pennsylvania Office of Transformation and Opportunity removed the Project Gravity data center campus at Archbald, in Lackawanna County, from the state's Permit Fast Track programme, writing: \"Due to Project Gravity's lack of responsiveness and unwillingness to provide a transparent overview of the project, we are terminating your participation in the PA Permit Fast Track program.\"",
+    "src": "https://www.wvia.org/news/local/2026-05-01/fast-track-no-more-pa-kicks-archbald-data-center-campus-off-permit-program"
+   },
+   {
+    "para": 0,
+    "t": "The developer is Archbald 25 Developer LLC, a New York City company linked to Western Hospitality Partners; its listed contact, Abie Kassin, did not reply to the reporters' emailed request for comment.",
+    "src": "https://www.wvia.org/news/local/2026-05-01/fast-track-no-more-pa-kicks-archbald-data-center-campus-off-permit-program"
+   },
+   {
+    "para": 1,
+    "t": "The scheme is seven buildings of 135,000 square feet each on 186 acres of former mine-spoiled land between Business Route 6 and Eynon-Jermyn Road, a planned $5 billion investment with 300 permanent jobs and 1,200 construction jobs over five years.",
+    "src": "https://www.wvia.org/news/local/2026-05-01/fast-track-no-more-pa-kicks-archbald-data-center-campus-off-permit-program"
+   },
+   {
+    "para": 1,
+    "t": "The Stop Archbald Data Center group had questioned how it got onto the fast-track programme at all, noting it did not appear on the state's public dashboard at first.",
+    "src": "https://www.wvia.org/news/local/2026-05-01/fast-track-no-more-pa-kicks-archbald-data-center-campus-off-permit-program"
+   },
+   {
+    "para": 2,
+    "t": "The land has a history.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Jim Marzolino of Kriger Construction bought the 186 acre parcel from Louis DeNaples for more than $12 million and sold it on to Project Gravity.",
+    "src": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+   },
+   {
+    "para": 3,
+    "t": "The water figure is the one to hold onto.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "Project Gravity would pump 360,000 gallons a day from Lake Scranton, which supplies 134,570 people.",
+    "src": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+   },
+   {
+    "para": 4,
+    "t": "The project is recorded as proposed on 186 acres, with Archbald 25 Developer LLC as developer and no capacity or cost figure.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "Ten other data center sites sit within 15 kilometres, three of them a kilometre away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 1,362 megawatt Lackawanna Energy Center is six kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.wvia.org/news/local/2026-05-01/fast-track-no-more-pa-kicks-archbald-data-center-campus-off-permit-program",
+   "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+  ],
+  "unconfirmed": "No megawatt figure has been published. The number of buildings differs between accounts: seven of 135,000 square feet in the state permit report, six in the borough's own account of the zoning amendment. Whether losing fast-track status stops or merely slows the project is not explained. Three of our record's eight sources, including two Times-Tribune reports and an MSN syndication, could not be fetched."
+ },
+ {
+  "id": "ft-1774058965456-7910",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Archbald, a borough of about 7,500 people in Lackawanna County, is facing six data center campuses at once.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Investigations by Spotlight PA and Grist describe six campuses of 51 buildings covering 14 per cent of Archbald's land, under the names Project Scott, Project Gravity, Project North, Project South, Project Boson and the Wildcat Ridge AI Center.",
+    "src": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+   },
+   {
+    "para": 0,
+    "t": "Project Green Mountain, this entry, is recorded at 270 acres north of Salem Road and east of the Casey Highway in Archbald Borough, Lackawanna County, with no developer named, and it is not one of the six the investigations name.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "The people behind them are mostly local.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Jim Marzolino of Kriger Construction, Anthony Domiano Jr and Alpesh Patel appear across the projects; Louis DeNaples sold the 186 acre parcel that became Project Gravity, for more than $12 million.",
+    "src": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+   },
+   {
+    "para": 2,
+    "t": "The numbers residents keep repeating are about water and diesel.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Project Gravity would draw 360,000 gallons a day from Lake Scranton, which supplies 134,570 people; Wildcat Ridge proposes up to 3.3 million gallons a day, possibly from coal mine groundwater; and about 450 diesel backup generators would sit across the campuses.",
+    "src": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+   },
+   {
+    "para": 2,
+    "t": "One campus alone is expected to use more power than the largest power plant in the region can produce.",
+    "src": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+   },
+   {
+    "para": 2,
+    "t": "Underground coal workings run beneath the sites, which brings a risk of subsidence.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The record's own source is headlined that an Archbald hearing revealed Project Green Mountain's ties to another data center; that report could not be fetched.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The borough manager Dan Markey said: \"I believe in one God, and it's not a computer,\" and: \"I don't think anyone in their right mind wants to see the world covered in data centers.\"",
+    "src": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+   },
+   {
+    "para": 4,
+    "t": "Archbald has no moratorium on record.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The nearest measures are zoning limits at Mayfield from December 10, 2025, Susquehanna County from December 29, Olyphant Borough from April 14, 2026, and a moratorium at Clinton Township from April 30.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The 1,362 megawatt Lackawanna Energy Center is five kilometres away and ten other data center sites sit within 17.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+  ],
+  "unconfirmed": "The Times-Tribune report that is our record's substantive source for this entry could not be fetched, and the other is a tracker listing, so Project Green Mountain's own developer, capacity, cost and the ties the hearing revealed are all unestablished. The Spotlight PA investigation names the six campuses and Green Mountain is not among them, so this entry is either a seventh scheme or another name for one of the six; which is unresolved. Our record marks pushback as unknown for this entry although the borough-wide opposition is extensively documented."
+ },
+ {
+  "id": "ft-1774025698970-5215",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Candace May has to leave her home by April 15, 2026, and expects to move to Forest City.",
+    "src": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+   },
+   {
+    "para": 0,
+    "t": "She lives at Valley View Estates, a mobile home park in Archbald, Lackawanna County, being cleared as six data center campuses are proposed around the borough: its residents are disabled people, their carers, and workers on about $17.50 an hour, in a county where the public housing waiting lists are largely closed.",
+    "src": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+   },
+   {
+    "para": 0,
+    "t": "Her mother, Sharon Williams, is a home health aide on that wage and pays $390 a month in lot rent.",
+    "src": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+   },
+   {
+    "para": 0,
+    "t": "Another resident, Matthew Bucksbee, put it simply: \"Everybody's worried about where they're going to go.\"",
+    "src": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+   },
+   {
+    "para": 1,
+    "t": "Project North is one of six data center campuses proposed in a borough of about 7,500 people, together 51 buildings on 14 per cent of Archbald's land.",
+    "src": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+   },
+   {
+    "para": 1,
+    "t": "The record places it south of Gibson Street, with no acreage, no capacity, no cost and no developer.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "Anthony Domiano Jr sold the land for Project South and Project North.",
+    "src": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+   },
+   {
+    "para": 2,
+    "t": "The borough changed its own rules to let them in.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "A zoning overlay passed in November 2025 allows data centers within 300 yards of homes, cut down from a proposed 1,000 yards, and documents show developers shaped the final wording.",
+    "src": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+   },
+   {
+    "para": 2,
+    "t": "Council president Dave Moran had asked developers for input on the overlay's terms.",
+    "src": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+   },
+   {
+    "para": 2,
+    "t": "Council member Erin Owen, who voted against it, said of what is coming: \"All the impacts will be terrible. A lot of trees will be lost. A lot of wildlife will be lost.\"",
+    "src": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+   },
+   {
+    "para": 3,
+    "t": "The money on offer is real.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "Projections put the annual tax at $20 million for Archbald, $50 million for Lackawanna County and $100 million for the Valley View School District.",
+    "src": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+   },
+   {
+    "para": 3,
+    "t": "Nick Farris of Provident Real Estate Advisors said of one site: \"It's going to be away from everyone. It's not going to bother anyone.\"",
+    "src": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+   },
+   {
+    "para": 4,
+    "t": "Ten other data center sites on record sit within 16 kilometres, three of them a kilometre away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 1,362 megawatt Lackawanna Energy Center is six kilometres off, and about 450 diesel backup generators are planned across the borough's campuses.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+  ],
+  "unconfirmed": "Project North's acreage, capacity, cost and developer are all unpublished. Whether the Valley View Estates evictions are caused by this project or by another of the six is not established in what was read; the park's closure is reported alongside the campuses rather than attributed to one. A line attributed to Erin Owen, that the council \"made a big mistake in doing that, because it does not seem transparent at all\", and the account of her being kept out of private meetings about the ordinance, are not in the investigation read here, and her words about the impacts are quoted instead. No borough official is quoted defending the evictions."
+ },
+ {
+  "id": "ft-1774058434144-4902",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "At 474 acres Project Scott is the largest of the Archbald data center campuses on record.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "It sits between Eynon-Jermyn Road and the Scranton-Carbondale Highway in Archbald Borough, Lackawanna County, with no developer, no capacity and no cost recorded, at medium confidence.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "It is one of six campuses proposed in a borough of about 7,500 people, which together would be 51 buildings on 14 per cent of Archbald's land.",
+    "src": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+   },
+   {
+    "para": 1,
+    "t": "The ground underneath matters here.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Networks of underground coal workings run beneath the proposed sites, creating a risk of subsidence, and Wildcat Ridge proposes drawing up to 3.3 million gallons a day, possibly from coal mine groundwater.",
+    "src": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+   },
+   {
+    "para": 1,
+    "t": "Across the campuses about 450 diesel backup generators are planned.",
+    "src": "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/"
+   },
+   {
+    "para": 2,
+    "t": "The borough council approved the zoning that permits all this on November 24, 2025, by four votes to two with one abstention.",
+    "src": "https://www.wvia.org/news/local/2025-11-25/crammed-angered-archbald-residents-express-disapproval-as-council-approves-controversial-data-center-zoning-amendment"
+   },
+   {
+    "para": 2,
+    "t": "The room was so full that residents sat on the floor, crowded the vestibule and stood outside in freezing November weather.",
+    "src": "https://www.wvia.org/news/local/2025-11-25/crammed-angered-archbald-residents-express-disapproval-as-council-approves-controversial-data-center-zoning-amendment"
+   },
+   {
+    "para": 2,
+    "t": "Justin Healey warned the council what it would be signing up to: \"Once a data center campus is built, it's permanent 24/7 noise, generating emissions, water draw, grid strain, truck traffic and emergency service impacts.\"",
+    "src": "https://www.wvia.org/news/local/2025-11-25/crammed-angered-archbald-residents-express-disapproval-as-council-approves-controversial-data-center-zoning-amendment"
+   },
+   {
+    "para": 3,
+    "t": "The projects the amendment covers, as that report lists them, are Archbald 25 Developer LLC's 186 acre campus of six buildings, Project Boson replacing the Highway Auto Parts junkyard, Archbald I LLC's 22 buildings across two campuses including 18 near Ed Staback Park, and the Wildcat Ridge AI Data Center Campus, $2.1 billion and 14 three storey buildings on 400 acres.",
+    "src": "https://www.wvia.org/news/local/2025-11-25/crammed-angered-archbald-residents-express-disapproval-as-council-approves-controversial-data-center-zoning-amendment"
+   },
+   {
+    "para": 4,
+    "t": "Ten other recorded sites sit within 14 kilometres of this one.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 1,362 megawatt Lackawanna Energy Center is five kilometres away and the 72 megawatt Archbald power station four.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Archbald has no moratorium; the nearest measures are at Mayfield, Olyphant Borough, Clinton Township and Susquehanna County.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.spotlightpa.org/news/2026/03/pennsylvania-data-centers-archbald-ai-evictions-environment/",
+   "https://www.wvia.org/news/local/2025-11-25/crammed-angered-archbald-residents-express-disapproval-as-council-approves-controversial-data-center-zoning-amendment"
+  ],
+  "unconfirmed": "Project Scott's developer, capacity and cost are unpublished, and our record marks pushback as unknown despite borough-wide opposition. Whether Project Scott is the same as any of the named applicants in the zoning report could not be determined; it is not among the four the amendment is said to cover. A line attributed to Justin Healey, that if the council voted yes its \"fight becomes with your own residents, your neighbors and your future voters\", is not in the report read here, and the words quoted above are his instead. The claim that Erin Owen called the meeting a safety violation and watched it from among the residents is likewise not in it and has come out. The diesel generators' emissions are described in the investigation as pollutants, without the link to heart disease and cancer the page asserted."
+ },
+ {
+  "id": "ft-1763999888960-6008",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "TierPoint runs a data center at 3864 Courtney Street in Bethlehem, in Northampton County, and the record's only sources for it are the company's own pages.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "It is listed as operating with no capacity, no acreage and no cost, and pushback marked unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "The Lehigh Valley around it has become one of the busiest data center markets in Pennsylvania.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Eight other recorded sites sit within 39 kilometres: a 100 megawatt J G Petrucci proposal at eight, the 725 megawatt Atlas campus at South Whitehall at 14, an 80 megawatt Quantm Group project at Allentown at 14, a cancelled scheme at Cetronia Road at 23, TierPoint's own Allentown TekPark building at 27, a Jim Thorpe proposal at 36, the Slate Belt project at 36 and a Comcast conversion at 39.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The rules are being written around them.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Allentown adopted zoning limits on June 17, 2026, which the record notes do not apply to the Emaus Avenue proposal; Hazle Township adopted limits from June 8; and across the Delaware in New Jersey, Phillipsburg banned data centers outright on April 14 and Green Township on June 10.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "None of those reaches a building already operating.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The generation here is large and close.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The 1,136 megawatt Bethlehem gas plant is eight kilometres away, the 112 megawatt Northampton coal plant nine, the 455 megawatt Gilbert plant 21 and the 1,700 megawatt Martins Creek plant 27.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "That concentration of gas, and the fibre along the interstate corridors, is why the proposals have come.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Nothing was found about this specific building beyond its address, and our record's only sources are two TierPoint marketing pages that were not fetched, so no source url is listed and each sentence is attributed to our record's source list. No square footage, power capacity, water figure or opening date is established. No local reporting about it was found and no objection to it."
+ },
+ {
+  "id": "ft-1763999128335-5701",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The second of TierPoint's two Lehigh Valley data centers on record is at 9999 Hamilton Boulevard in Breinigsville, in Lehigh County, sourced only to the company's own page.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "It is listed as operating with no capacity, no acreage and no cost.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "The buildings proposed around it are of a different order.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "A cancelled scheme at Cetronia Road is five kilometres away, the 725 megawatt Atlas campus at South Whitehall 15, an 80 megawatt Allentown project 15, a 100 megawatt J G Petrucci proposal 19, a CloudHQ hyperscale campus in Berks County 31, a 750 megawatt Project Laurel 35, and four small operating buildings between 33 and 36.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Pennsylvania has answered with zoning limits rather than bans.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The record shows limits at West Whiteland Township with no date, at Allentown from June 17, 2026 and at Hazle Township from June 8, alongside Phillipsburg's outright ban across the river in New Jersey from April 14.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generators are the 112 megawatt Northampton coal plant 22 kilometres away, the 539 megawatt Ontelaunee gas plant 28, the 1,136 megawatt Bethlehem plant 29 and the 485 megawatt Birdsboro plant 33.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The record counts five data center sites in Lehigh County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "It marks pushback at this building as unknown, and no objection to it is recorded anywhere.",
+    "src": "data:fractracker"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Nothing specific about this building was found, and our record's only source is a TierPoint marketing page that was not fetched, so no source url is listed and each sentence is attributed to our record's source list. No square footage, power capacity, water figure or opening date is established. TekPark is a business park at Breinigsville; whether TierPoint occupies one building there or several is not known. No local reporting about it was found."
+ },
+ {
+  "id": "ft-1776918405079-1325",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This was the tenth data center campus proposed in Lackawanna County.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Popca LLC, based in Archbald, plans a two building campus in Newton Township near 980 Newton Road, on about 76 acres, and is appealing a refusal by the township's zoning officer.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Its lawyer, Michael Mey of Mey and Sulla in Dunmore, appealed in March 2026 and is asking the Lackawanna County Court of Common Pleas for site-specific relief.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Site-specific relief is a route round a township that has said no.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "It asks a court to allow a particular development on a particular parcel, rather than waiting for the township to change its own rules.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded as proposed on 76 acres, with no capacity, no cost and no developer field filled in, and both pushback and resistance marked unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "The developer named in the reporting, Popca LLC, is from Archbald, the borough facing six campuses of its own.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The county is saturated.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The record counts thirteen data center sites in Lackawanna County, ten of them within 16 kilometres of this one: a suspended Ransom Township project a kilometre away, a Dickson City proposal at seven, a 750 megawatt Mudiita Infra scheme at eight, a withdrawn Blakely campus at 11, a 600 megawatt Breaker Street proposal at 13, and the Archbald cluster between 14 and 16.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 1,362 megawatt Lackawanna Energy Center is 14 kilometres away and the 72 megawatt Archbald power station 15.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Newton Township has no moratorium on record; the nearest measures are zoning limits at Mayfield from December 10, 2025 and Olyphant Borough from April 14, 2026, and a moratorium at Clinton Township from April 30.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The WVIA report in our record was found only in a search summary and the Data Center Dynamics report is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. No resident, township official or company representative is quoted. No megawatt, water or cost figure has been published. On what ground the zoning officer refused the application, and whether the court has ruled, are unknown. The description of site-specific relief above is general and is not drawn from a source about this case."
+ },
+ {
+  "id": "ft-454",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The developer sued the township for excluding data centers, and the township settled by letting the buildings be taller.",
+    "src": "https://www.wvia.org/news/local/2026-01-03/clifton-twp-supervisors-settle-with-data-center-developer-residents-promise-litigation"
+   },
+   {
+    "para": 0,
+    "t": "1778 Rich Pike LLC brought a substantive validity challenge against Clifton Township's zoning ordinance, in Lackawanna County, in April 2025, before the township had a data center ordinance at all, arguing that it excluded data centers, their equipment and private power generation.",
+    "src": "https://www.wvia.org/news/local/2026-01-03/clifton-twp-supervisors-settle-with-data-center-developer-residents-promise-litigation"
+   },
+   {
+    "para": 0,
+    "t": "The supervisors voted a first settlement down 2 to 1 in August 2025, with the chair Jill Zindle the only yes vote; on January 2, 2026 they approved one unanimously.",
+    "src": "https://www.wvia.org/news/local/2026-01-03/clifton-twp-supervisors-settle-with-data-center-developer-residents-promise-litigation"
+   },
+   {
+    "para": 1,
+    "t": "The settlement scales the campus back and raises the height limit.",
+    "src": "https://www.wvia.org/news/local/2026-01-03/clifton-twp-supervisors-settle-with-data-center-developer-residents-promise-litigation"
+   },
+   {
+    "para": 1,
+    "t": "The township's ordinance had capped data centers at 35 feet; the settlement permits 65, with rooftop equipment adding another 15, for 80 feet in all.",
+    "src": "https://www.wvia.org/news/local/2026-01-03/clifton-twp-supervisors-settle-with-data-center-developer-residents-promise-litigation"
+   },
+   {
+    "para": 1,
+    "t": "Zindle said it covers zoning only: \"This does not stop the process for them having to go through all land development... it doesn't mean they pour concrete tomorrow.\"",
+    "src": "https://www.wvia.org/news/local/2026-01-03/clifton-twp-supervisors-settle-with-data-center-developer-residents-promise-litigation"
+   },
+   {
+    "para": 2,
+    "t": "Matt Gruenloh, an incoming supervisor and planning commission member, said: \"I understand that what you did is legal. I just don't think it was appropriate.\"",
+    "src": "https://www.wvia.org/news/local/2026-01-03/clifton-twp-supervisors-settle-with-data-center-developer-residents-promise-litigation"
+   },
+   {
+    "para": 2,
+    "t": "Howard Ives said: \"My family owns 150 acres. I'm fourth generation. This data center will destroy the value and the habitat of my property.\"",
+    "src": "https://www.wvia.org/news/local/2026-01-03/clifton-twp-supervisors-settle-with-data-center-developer-residents-promise-litigation"
+   },
+   {
+    "para": 2,
+    "t": "June Ejk held the supervisors to their own rules: \"We have a township ordinance that does not allow buildings to go over 35 feet... you are violating your own township ordinance.\"",
+    "src": "https://www.wvia.org/news/local/2026-01-03/clifton-twp-supervisors-settle-with-data-center-developer-residents-promise-litigation"
+   },
+   {
+    "para": 2,
+    "t": "Matthew Chase asked for time: \"Give the public time to read these settlements, to read these proposals, give the public time to comment,\" and residents promised to take the supervisors to court.",
+    "src": "https://www.wvia.org/news/local/2026-01-03/clifton-twp-supervisors-settle-with-data-center-developer-residents-promise-litigation"
+   },
+   {
+    "para": 3,
+    "t": "Project Gold is described as about thirty buildings across at least seven properties on both sides of Interstate 380, between Clifton and Covington townships, north of Clifton Beach Road; the settlement plans split it into three campuses with five two storey buildings.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The record carries it at 1,500 megawatts on 1,000 acres, proposed, costing $10 billion, with no developer field filled in, and links a campaign site called nodatacenter.net.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "The 1,362 megawatt Lackawanna Energy Center is 25 kilometres away, which is less than this one campus would draw.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Ten other recorded data center sites sit within 30 kilometres, and Clinton Township adopted a moratorium from April 30 to October 30, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.wvia.org/news/local/2026-01-03/clifton-twp-supervisors-settle-with-data-center-developer-residents-promise-litigation"
+  ],
+  "unconfirmed": "The page had the first settlement rejected in September 2025; the report read here dates that vote to August 2025 and records it as 2 to 1 with Zindle the sole yes vote, not a deciding vote she cast. A claim that June Ejk said the timing had been arranged to avoid public opposition is not in that report; her words about the height ordinance are quoted instead, and Matthew Chase is the resident who asked for time to read the settlement. The substantive validity challenge litigation remains before the court. The description of Project Gold as about thirty buildings across at least seven properties, and the split into three campuses of five two storey buildings, comes from our record's other sources, which were not fetched. No megawatt or water figure has been published for a campus our record puts at 1,500 megawatts, and the $10 billion could not be traced."
+ }
+]

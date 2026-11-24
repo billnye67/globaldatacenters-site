@@ -1,0 +1,693 @@
+[
+ {
+  "id": "ft-1771292292832-1038",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The developer never filed an application, and the town banned data centers for three years anyway.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Treetop Companies asked the New York Independent System Operator to study the effect of an AI and cloud computing centre on its land off Donovan Drive in East Fishkill, in Dutchess County: about 1.16 million square feet south of Old State Road and Interstate 84, drawing 1,000 megawatts.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "That would make it one of the largest data centers ever proposed in New York State.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "On June 25, 2026 the East Fishkill town board voted unanimously for a moratorium running to July 1, 2029.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "It bars the town from permitting or even considering a data center until federal and state studies of power and water use, noise and heat are finished, with an exception for projects under 20 megawatts that are ancillary to an existing use, or that qualify for an economic development special permit.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Residents had rallied against the proposal in May 2026.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded as suspended at 1,000 megawatts, with Donovan Drive Holdings LLC as the developer and no acreage or cost.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "It shows the East Fishkill moratorium running from June 25, 2026 to June 25, 2029, alongside a two year one at Morris from May 26, 2026 and the statewide pause on projects of 50 megawatts and above from June 4, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "For scale, the whole New York Independent System Operator control area peaks at 30,660 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 3,
+    "t": "This single campus would have been about a thirtieth of it.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generators are the 502 megawatt Danskammer and 1,223 megawatt Roseton plants, both 14 kilometres away, and the 1,016 megawatt Cricket Valley plant at 26.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "An IBM quantum data center is under construction 19 kilometres away at 100 megawatts, a CyrusOne building sits 11 kilometres off, and Holtec's proposal at the decommissioned Indian Point nuclear station is 31 kilometres south.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The Lohud and Times Union reports in our record could not be fetched and the Highlands Current piece returned HTTP 403, so no source url is listed and each sentence is attributed to our record's source list. As a result no resident, town board member or company representative is quoted. The road is given as Interstate 52 in one summary, which is not a road that exists in the area; Interstate 84 runs through East Fishkill and is used above, though that is unconfirmed. Our record names Donovan Drive Holdings LLC while the reporting names Treetop Companies; the relationship between them is not established. No water figure was ever published."
+ },
+ {
+  "id": "ft-1776884122303-9139",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Remington made guns in this building for nearly two hundred years.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The Ilion factory, in Herkimer County, closed in March 2024 and was sold the following year to Turin Hoefler Avenue LLC, which wants a data center in it.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Filings describe a 250,000 square foot data center on one part of the site and another of the same size in a second phase, totalling 200 megawatts, with $2 billion to $3 billion of investment.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "For a village of Ilion's size, 200 megawatts is the figure that alarms people.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "It is roughly the household electricity demand of about 160,000 homes.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Residents of Ilion and one from Mohawk spoke against the plan at a village board meeting in May 2026, and had protested before that.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Their objections were the strain on local electricity infrastructure, water for cooling, noise, the small number of long term jobs against the scale of the thing, and a lack of transparency about what was being planned.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "A change.org petition opposes large scale AI data center development across the Mohawk Valley.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded at 200 megawatts on 32 acres, proposed, costing $2 to $3 billion, with no developer field filled in and resistance marked as organised advocacy.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "New York State's moratorium on new data centers of 50 megawatts and above runs from June 4, 2026 to June 4, 2027, and is the only measure on record within reach.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "There is no other data center site on record anywhere in Herkimer County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generator is a 74 megawatt wind farm 17 kilometres away, then a 56 megawatt gas plant at 47 and a 90 megawatt solar farm at 74.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Nothing within 50 kilometres comes close to 200 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The Data Center Dynamics report in our record is not fetchable and the Rome Sentinel and WKTV accounts were found only in search summaries and not fetched, so no source url is listed and each sentence is attributed to our record's source list. No named resident, village trustee or company representative is quoted as a result. Who is behind Turin Hoefler Avenue LLC is not established, and no end user has been named. The exact dates of the protests and of the May 2026 board meeting could not be pinned down. No water figure has been published."
+ },
+ {
+  "id": "ft-1763167673373-9089",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Yahoo built this one too, and H5 bought it.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The data center buildings at 5365 Crown Drive and 5319 Enterprise Drive in Lockport, in Niagara County, came to H5 Data Centers as part of a set of Yahoo facilities acquired in a sale and leaseback deal.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The entry puts them at 44 megawatts on 43 acres, operating.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "What makes Niagara County attractive is a kilometre away and a century old.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "The 219 megawatt Lockport Energy plant is one kilometre off, the 240 megawatt Lewiston pumped storage plant 22 kilometres, and the 2,435 megawatt Robert Moses Niagara hydroelectric station 24 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "Cheap hydroelectric power is why this corner of New York filled first with cryptocurrency mining and then with AI computing.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The record holds ten other data center sites within 35 kilometres of this one.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Among them are Core42's operating 58 megawatt Lake Mariner site and an Anthropic one at 42 megawatts at the same distance, a 140 megawatt Urbacon campus under construction at Niagara, a proposed 600 megawatt site at Niagara Falls, a suspended 600 megawatt scheme at the Riverview campus, two operating cryptocurrency-era plants at North Tonawanda and BlockFusion, the 500 megawatt STAMP proposal in Genesee County, and Tesla's cancelled Dojo project at Buffalo.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "New York State's moratorium on new data centers of 50 megawatts and above runs from June 4, 2026 to June 4, 2027, and is the only measure on record within reach.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "It would not touch a building already operating.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "Pushback at this site is marked unknown, and no local objection to it is recorded anywhere.",
+    "src": "data:fractracker"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The Data Center Dynamics report in our record concerns the acquisition generally and is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. The 44 megawatt figure and the 43 acres are not confirmed by anything read. No water figure is published. Nothing was found about what the buildings do now, who their tenants are, or whether H5 has expanded them. No local reporting about this site was found at all."
+ },
+ {
+  "id": "ft-1779021406073-5441",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The land is on the market for $60 million, and the town is writing a moratorium.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Ranalli Super DC LLC applied to the New York Independent System Operator in May 2025 to connect a 300 megawatt hyperscale data center to the grid, near the junction of Hencle Boulevard and Oswego Road in Lysander, in Onondaga County, on a site Pyramid Brokerage has listed at $60 million.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "It is the same suburban site where a warehouse scheme was scuttled.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Residents formed Citizens Against Lysander Data Center and circulated a petition asking the town board for an immediate moratorium.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The town attorney was directed to draft one, and the record shows a Lysander moratorium running from May 7 to November 7, 2026, with Clay adopting one on June 29 and Manlius on July 9.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The state pause does not do the work people assume it does.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "State Senator Kristen Gonzalez has said New York's one year moratorium applies only to new state permits, does not affect permits already issued, and does not stop local reviews from continuing.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded at 300 megawatts on 124 acres, proposed, costing $4 billion to $8 billion, with no developer field filled in, and resistance marked as organised advocacy.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Onondaga County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 4,
+    "t": "The generation nearby does not approach the load.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "The 86 megawatt CH Resources plant at Syracuse is 17 kilometres away, a 93 megawatt station 26 kilometres, and the 1,611 megawatt Oswego Harbor oil plant 33 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "The whole New York control area peaks at 30,660 megawatts.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Both Syracuse.com reports in our record could not be fetched and the CNY Central and Eagle News accounts were found only in search summaries, so no source url is listed and each sentence is attributed to our record's source list. No resident, town board member or company representative is quoted, and State Senator Kristen Gonzalez's account of what the state moratorium does is drawn from those summaries rather than from a page that was read. The developer's name is spelled both Ranalli and Renalli in the coverage found. The $4 to $8 billion cost range in our record is not confirmed. Whether the Lysander moratorium was extended beyond November 7, 2026 is unknown. No water figure has been published."
+ },
+ {
+  "id": "ft-1763172695674-8393",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one goes inside a dead department store.",
+    "src": "https://www.govtech.com/policy/upstate-new-york-planning-board-converts-sears-to-data-center.html"
+   },
+   {
+    "para": 0,
+    "t": "On August 19, 2020 the St. Lawrence County Planning Board approved a site plan turning the former Sears store at the St Lawrence Centre mall in Massena, in St. Lawrence County, into a data center, and sent it back to the town planning board with a condition that there be enough power on site to run it.",
+    "src": "https://www.govtech.com/policy/upstate-new-york-planning-board-converts-sears-to-data-center.html"
+   },
+   {
+    "para": 0,
+    "t": "The applicant was Tareo Capital Management LP, of New York City.",
+    "src": "https://www.govtech.com/policy/upstate-new-york-planning-board-converts-sears-to-data-center.html"
+   },
+   {
+    "para": 1,
+    "t": "Nothing would change outside.",
+    "src": "https://www.govtech.com/policy/upstate-new-york-planning-board-converts-sears-to-data-center.html"
+   },
+   {
+    "para": 1,
+    "t": "Jason Pfotenhauer, deputy director of the county planning office, said there would be no alterations outside and only partitions added inside, and told the board: \"We've heard a lot about data centers in the past. I don't know for sure if this is a Bitcoin mining data center or a data processing data center.\"",
+    "src": "https://www.govtech.com/policy/upstate-new-york-planning-board-converts-sears-to-data-center.html"
+   },
+   {
+    "para": 1,
+    "t": "He was candid about the limits of what the board could judge: \"There's no impact from an exterior standpoint. It does involve site plan approval, but there's not much site plan to it,\" and: \"I don't know if what they're going to do is going to be problematic.\"",
+    "src": "https://www.govtech.com/policy/upstate-new-york-planning-board-converts-sears-to-data-center.html"
+   },
+   {
+    "para": 2,
+    "t": "Massena has since become a cluster.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The record holds three other entries within eight kilometres: a cancelled 300 megawatt scheme a kilometre away, a proposed 200 megawatt site by ZeroC Data Centers and Petawatt Holdings a kilometre off, and Coinmint's North Country Colocation plant, operating and expanding, at 635 megawatts, seven kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The reason is the dam.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The 856 megawatt Robert Moses hydroelectric station is seven kilometres away and an 83 megawatt gas plant four.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "St Lawrence County adopted data center zoning limits on June 1, 2026, and New York State a moratorium on projects of 50 megawatts and above three days later.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The entry stands as proposed with no capacity, no acreage and no cost, in the New York Independent System Operator control area, which had been left blank here until the record was corrected.",
+    "src": "data:status"
+   }
+  ],
+  "sources": [
+   "https://www.govtech.com/policy/upstate-new-york-planning-board-converts-sears-to-data-center.html"
+  ],
+  "unconfirmed": "The report read here is from August 2020, five to six years before most of the rest of this record, and nothing was found telling us whether the conversion went ahead, who occupies the building now, or what it draws. Our record lists the project as proposed, which may simply mean it has not been updated. No megawatt or water figure exists. The Data Center Dynamics and Yahoo reports in our record were not fetched. No resident is quoted. Board members raised whether there was enough power for the operation not to affect the mall's other tenants, and Pfotenhauer said bitcoin operations draw more but suggested the capacity might be there. Our record's context block had no grid control area and no peak load for this location, an omission given that the site sits beside one of the largest hydroelectric stations in the state; it now carries the New York Independent System Operator."
+ },
+ {
+  "id": "ft-1771292940803-9884",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A cancelled 300 megawatt project called the New York State Artificial Intelligence Data Center is recorded at Route 42 and Horton Road in Massena, in St. Lawrence County, on the strength of an interconnection queue tracker and nothing else.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The record holds it at medium confidence, with no developer, no acreage and no cost.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "A queue application is a request to study whether the grid can carry a load; it is not a planning application, and many are withdrawn.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "It sits at the same coordinates as another entry on record.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The St Lawrence Data and Agricultural Center, by ZeroC Data Centers and Petawatt Holdings, is recorded as proposed at 200 megawatts at 417 County Route 42, zero kilometres away, and the former Sears conversion is a kilometre off.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Whether the cancelled 300 megawatt entry and the proposed 200 megawatt one describe the same land at different stages is unresolved.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "What is certain is why anyone wants to build here.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The 856 megawatt Robert Moses hydroelectric dam is seven kilometres away and an 83 megawatt gas plant three.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Coinmint's North Country Colocation plant, operating and expanding at 635 megawatts, is eight kilometres off, in a town that has hosted cryptocurrency mining at scale for years.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The county and the state have both moved.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "St Lawrence County adopted data center zoning limits on June 1, 2026, and New York State a one year moratorium on projects of 50 megawatts and above from June 4.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The location is now recorded in the New York Independent System Operator control area, which carries 37,314 megawatts of capacity against a peak load of 30,660, so a 300 megawatt entry is about one per cent of that peak.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Nothing was found naming this project, its developer or its fate, and our record's only source is an interconnection queue entry that was not opened, so no source url is listed. Who applied, when the application was withdrawn or cancelled and why are all unknown. No local reporting about a project of this name was found. A reader should treat this entry as a grid queue record rather than as a proposal that reached a town."
+ },
+ {
+  "id": "ft-1763170364459-3434",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The company clearing this land does not intend to run a data center.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Petawatt Holdings has been clearing brush and scrub on a 14 acre industrial-zoned site at County Route 42 in Massena, in St. Lawrence County, to build a substation about 250 feet square, preparing the ground so that it can lease or sell an already developed data center site to someone else.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Two containers on the site are currently used for cryptocurrency mining.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The zoning was not written for this.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Town of Massena officials had to work out whether a substation is even a permitted use in an industrial zone, because utilities and substations are not clearly identified as one.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The town has since been considering code changes for data centers in industrial zones, and the county planning board has made recommendations for future data centers in Massena.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded at 200 megawatts on 14 acres, proposed, with ZeroC Data Centers and Petawatt Holdings as developers.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "A cancelled 300 megawatt entry sits at the same coordinates and the former Sears conversion a kilometre away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Massena already carries a great deal of this.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Coinmint's North Country Colocation plant, operating and expanding at 635 megawatts, is eight kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 856 megawatt Robert Moses hydroelectric dam is seven kilometres off, which is the whole reason any of it is here.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "St Lawrence County adopted data center zoning limits on June 1, 2026, and New York State a moratorium on projects of 50 megawatts and above from June 4.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "For a site whose whole selling point is the dam seven kilometres away, the record now puts it in the New York Independent System Operator control area, which peaks at about 30,660 megawatts.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The Yahoo and NNY360 reports were found only in search summaries and not fetched, the town planning board minutes in our record were not opened, and the NYISO Gold Book is a large PDF that was not read, so no source url is listed and each sentence is attributed to our record's source list. No official or resident is quoted. The 200 megawatt figure is not confirmed by anything read, and given that Petawatt describes itself as preparing the site for a future developer, whose figure it is remains unclear. Whether the town resolved the zoning question, and whether the substation has been built, are unknown."
+ },
+ {
+  "id": "ft-384",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is a quantum computer in a carrier hotel, not a data center campus.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Oxford Quantum Circuits, a British company, has installed its GENESIS quantum computer alongside Nvidia Grace Hopper superchips in Digital Realty's JFK10 facility at 111 Eighth Avenue in Manhattan, and both companies describe it as the first quantum AI data center in New York City.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Chief executive Gerald Mullally said the company expects to spend tens of millions of dollars over three to five years, partly on Nvidia chips, and declined to give the cost of the computer itself.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "It plans to replace the machine with a more powerful one by 2028.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The building is one of the most important pieces of internet infrastructure in the country.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "111 Eighth Avenue is a carrier hotel that Google bought in 2010 for a reported $1.8 billion.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The record holds ten other data center sites within 16 kilometres, including a DataBank site at the same coordinates, Telehouse's Chelsea building a kilometre away, Sabey's Intergate Manhattan at 375 Pearl Street at three, and Equinix's Secaucus campus at seven.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The generation around Manhattan is heavy and close.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The 1,955 megawatt Ravenswood plant is five kilometres away, the 631 megawatt East River plant three, and the 260 megawatt Brooklyn Navy Yard cogeneration plant five.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "New York State's moratorium on new data centers of 50 megawatts and above runs from June 4, 2026 to June 4, 2027.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "Five New Jersey municipalities across the river have gone further and banned data centers outright, from Red Bank Borough on June 11, 2026 to Bayonne on August 14.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The entry stands as operating with no capacity, acreage, cost or developer, and marks pushback as unknown.",
+    "src": "data:status"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Three searches were run: Oxford Quantum Circuits with 111 Eighth Avenue and the quantum AI data centre; the deployment announcement; and Manhattan data center activity. Everything found came from company announcements, Bloomberg and trade press summaries rather than pages we fetched; the Data Center Dynamics report in our record is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. No power figure exists for this installation and it is unlikely to be large by the standards of most entries in this record; a quantum computer and a handful of superchips are not a hyperscale campus. No local objection was found, and none would be expected for equipment installed inside an existing building."
+ },
+ {
+  "id": "ft-1768452919400-6955",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Nobody in Niagara Falls could get a straight answer about who is behind this one.",
+    "src": "https://niagaraexpress.town.news/g/niagara-falls-ny/n/290380/mystery-surrounds-north-end-bit-coin-mine"
+   },
+   {
+    "para": 0,
+    "t": "Bitcoin mining containers and heavy equipment appeared at the former Globe Metallurgical factory at 3807 Highland Avenue in Niagara Falls, the site of 9 Lives Digital Group, whose owner and president is Michael Bagley and whose international headquarters is listed in Algiers, with a plan to grow the mining into a data center within two years.",
+    "src": "https://niagaraexpress.town.news/g/niagara-falls-ny/n/290380/mystery-surrounds-north-end-bit-coin-mine"
+   },
+   {
+    "para": 0,
+    "t": "The project is described as using about $100 million of private finance, with unnamed technology developers as investing partners, and promising 200 permanent jobs and 500 construction jobs.",
+    "src": "https://niagaraexpress.town.news/g/niagara-falls-ny/n/290380/mystery-surrounds-north-end-bit-coin-mine"
+   },
+   {
+    "para": 0,
+    "t": "There is a 100 megawatt power station on the site.",
+    "src": "https://niagaraexpress.town.news/g/niagara-falls-ny/n/290380/mystery-surrounds-north-end-bit-coin-mine"
+   },
+   {
+    "para": 1,
+    "t": "The city said it had not been told.",
+    "src": "https://niagaraexpress.town.news/g/niagara-falls-ny/n/290380/mystery-surrounds-north-end-bit-coin-mine"
+   },
+   {
+    "para": 1,
+    "t": "The city administrator Anthony Restaino said in August 2024 that the city had received no information on the project, no site plans and no demolition permits: \"From our perspective, we will be monitoring what activity is taking place out there. Any project taking place within the city, there are certain permits that have to be secured.\"",
+    "src": "https://niagaraexpress.town.news/g/niagara-falls-ny/n/290380/mystery-surrounds-north-end-bit-coin-mine"
+   },
+   {
+    "para": 1,
+    "t": "An editor's note on the report recorded that no building permits had been pulled for the project, and residents raised noise, having already lived with disturbance from nearby industry.",
+    "src": "https://niagaraexpress.town.news/g/niagara-falls-ny/n/290380/mystery-surrounds-north-end-bit-coin-mine"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded at 600 megawatts on 11 acres, proposed.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "That is six times the power station on the site, and the gap between the two figures is not explained anywhere.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "The reason for all of it is two kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The 2,435 megawatt Robert Moses Niagara hydroelectric station sits at that distance, with the 240 megawatt Lewiston pumped storage plant at three kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Seven other recorded data center sites lie within 33 kilometres, including a 140 megawatt campus under construction four kilometres away and BlockFusion's cryptocurrency plant at five.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The state pause on projects of 50 megawatts and above, running to June 4, 2027, is the only measure on record within reach, and at the 100 megawatts actually installed here it would bite.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://niagaraexpress.town.news/g/niagara-falls-ny/n/290380/mystery-surrounds-north-end-bit-coin-mine"
+  ],
+  "unconfirmed": "The report read here is from August 2024 and describes bitcoin mining containers rather than a built data center; whether anything has been constructed since, and whether the city has issued any permit, is unestablished. Michael Bagley is not quoted directly in it, and the finance and jobs figures are reported rather than attributed to him in his own words. The Data Center Dynamics report in our record, headlined that 9LDG plans an AI data center at Niagara Falls, is not fetchable. The 600 megawatt figure in our record is not supported by anything read and sits oddly against the 100 megawatt power station described on the site. No resident is named in the report. Who the unnamed technology developers are, and whether the $100 million exists, are unknown."
+ },
+ {
+  "id": "ft-1763419229850-2546",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "One resident described the noise as a 747 revving up on Buffalo Avenue.",
+    "src": "https://finance.yahoo.com/news/blockfusion-wins-approval-reopen-bitcoin-035900770.html"
+   },
+   {
+    "para": 0,
+    "t": "In September 2022 Niagara Falls adopted strict zoning restrictions on high energy use industries after complaints like that, and the BlockFusion data center and bitcoin mine at 5380 Frontier Avenue stopped operating when the rules took effect that November.",
+    "src": "https://finance.yahoo.com/news/blockfusion-wins-approval-reopen-bitcoin-035900770.html"
+   },
+   {
+    "para": 0,
+    "t": "The company applied for permits in December 2022, and the application then languished for about twenty months over whether it could meet the noise limit, until the council let it resume pursuing approval in February 2025.",
+    "src": "https://finance.yahoo.com/news/blockfusion-wins-approval-reopen-bitcoin-035900770.html"
+   },
+   {
+    "para": 1,
+    "t": "The limit is 65 decibels at the property line of the nearest home.",
+    "src": "https://finance.yahoo.com/news/blockfusion-wins-approval-reopen-bitcoin-035900770.html"
+   },
+   {
+    "para": 1,
+    "t": "BlockFusion's own consultant measured 55.5 decibels at the nearest residence; the city disputed that and said the operation exceeded the threshold.",
+    "src": "https://finance.yahoo.com/news/blockfusion-wins-approval-reopen-bitcoin-035900770.html"
+   },
+   {
+    "para": 1,
+    "t": "The company did further mitigation work, submitted a draft environmental impact statement concluding it complied, and the Zoning Board of Appeals granted a waiver finding it compliant.",
+    "src": "https://finance.yahoo.com/news/blockfusion-wins-approval-reopen-bitcoin-035900770.html"
+   },
+   {
+    "para": 2,
+    "t": "On a Wednesday night in late October 2025 the city council voted unanimously to amend the zoning code so that BlockFusion, operating as Northeast Data LLC, could reopen.",
+    "src": "https://finance.yahoo.com/news/blockfusion-wins-approval-reopen-bitcoin-035900770.html"
+   },
+   {
+    "para": 2,
+    "t": "The site is surrounded by other industrial operations.",
+    "src": "https://finance.yahoo.com/news/blockfusion-wins-approval-reopen-bitcoin-035900770.html"
+   },
+   {
+    "para": 3,
+    "t": "The entry is recorded as operating at 50 megawatts, and marks pushback as unknown, which does not match a three year fight over noise.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Its second source is the final environmental impact statement published by the city in July 2025, which was not opened.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "The power is close: the 2,435 megawatt Robert Moses Niagara station and the 240 megawatt Lewiston pumped storage plant are both seven kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Seven other recorded data center sites sit within 28 kilometres, including the 9 Lives site at Highland Avenue five kilometres off and a 140 megawatt campus under construction at four.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "Above the city zoning that shut this plant down sits the state moratorium on projects of 50 megawatts and above, running to June 4, 2027.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://finance.yahoo.com/news/blockfusion-wins-approval-reopen-bitcoin-035900770.html"
+  ],
+  "unconfirmed": "The date of the council vote is not settled: the page had October 24, 2025, the report gives it as a Wednesday night, and the Wednesday of that week was October 22, so only the week is certain. No city official or resident is named in that report, only an unidentified resident quoted on the noise. The megawatt capacity is not given in it and the 50 megawatt figure in our record is not confirmed. Whether the plant has actually restarted since the October 2025 vote is unknown. The final environmental impact statement in our record would carry the noise measurements and the mitigation detail, and it was not opened. Our record marks pushback as unknown at a site whose zoning history is entirely a record of resident complaint, which appears to be a recording error rather than a finding."
+ }
+]

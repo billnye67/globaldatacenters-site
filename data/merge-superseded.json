@@ -1,0 +1,36 @@
+{
+ "/data-centers/indonesia/west-java/": {
+  "b": {
+   "paragraphs": [
+    "Many of Greater Jakarta's large data centers sit in West Java's industrial belt around Bekasi, Cikarang, Cibitung and Karawang. The newest project is further out. On 22 September 2026 BDx Data Centers broke ground on CGK4, an AI campus at Jatiluhur in Purwakarta regency. Karawang Bekasi Disway reported it as a Rp 3.5 trillion project with 640 megawatts in total, backed by 845 MVA of grid supply from the state utility PLN, with West Java governor Dedi Mulyadi at the ceremony. The first of six planned buildings is designed for up to 120 megawatts of IT load, and its first phase is already contracted and due to open in early 2027, according to the company. BDx says it is exploring hydropower with the state water authority Perum Jasa Tirta, and has a third campus planned in the Suryacipta industrial estate in Karawang. In Cikarang, Edgnex, backed by the Emirati property group Damac, bought a 50,000-square-metre site in March 2025 for a $2.3 billion, 144-megawatt data center whose first phase it expects to run by December 2026.",
+    "Concern so far has centred on water. Yunani Abiyoso, a law lecturer at the University of Indonesia, argued in a Katadata opinion piece in September 2026 that data centers around Jakarta, Bekasi, Cikarang, Cibitung and Karawang are being converted to AI-ready facilities whose liquid cooling will drive up fresh water use. He wrote that the Bekasi area already has fresh water supply problems in the dry season that disrupt farm irrigation, and that hydrological studies show land subsidence and shrinking deep aquifers in the Jakarta–West Java buffer zone. He also noted that Indonesia's 2019 water resources law puts basic household needs and smallholder farming ahead of industrial use, while water permits for data centers count only the water withdrawn, not the water evaporated in cooling towers. Nationally, Moody's warned in July 2026 that the AI boom \"is increasingly constrained not by demand for computing power, but by the availability of power, transmission infrastructure and grid connection schedules,\" as Katadata reported. The government puts installed data center capacity at about 580 megawatts against about 1.3 gigawatts of new investment interest."
+   ],
+   "sources": [
+    "https://karawangbekasi.disway.id/purwakarta/read/54235/investasi-35-triliun-pusat-data-ai-jatiluhur-purwakarta-beroperasi-tahun-2027",
+    "https://www.datacenterdynamics.com/en/news/damac-backed-edgnex-to-invest-23bn-for-data-center-in-indonesia/",
+    "https://katadata.co.id/indepth/opini/6aaf7eb6b3151/meregulasi-dahaga-ai-ancaman-konsumsi-air-di-pusat-data-dan-tantangan-hukumnya",
+    "https://katadata.co.id/digital/teknologi/6a96af9899589/booming-data-center-indonesia-dibayangi-krisis-listrik-air-dan-sdm"
+   ],
+   "unconfirmed": "Three searches, one of them in Indonesian, found no news report of residents or local officials contesting a specific data center in West Java. So the page carries none, and the water concerns are given as one academic's argued opinion, attributed. The Moody's quotation is translated from Katadata's Indonesian rendering of the report. Capacity claims for Digital Edge's CGK campus (500 MW), NeutraDC and Princeton Digital Group's JC3 came only from listing sites and operator pages and are not used. A Karawang blackout story that surfaced in searches does not mention data centers and was excluded."
+  }
+ },
+ "/data-centers/japan/chiba/": {
+  "b": {
+   "paragraphs": [
+    "Inzai, in northern Chiba, is known as Japan's \"data center Ginza.\" About 30 data centers stand there, the Nikkei reports, drawn by firm ground and easy access to Tokyo and Narita airport. The former mayor actively courted Google and others to raise tax revenue. The building continues next door in Shiroi. In April 2026 NTT Data Group announced Tokyo TKY12, a six-building campus of about 200 megawatts of IT capacity beside its 50-megawatt TKY11, which is due to open in April 2027. The company says the first building will open after 2030, once it receives power from the utility.",
+    "The fight is over a site in the centre of Inzai. In April 2025 a notice went up on a former car park about five minutes' walk from Chiba New Town Chūō station, surrounded by flats, an Aeon mall and a hotel. It announced a six-storey, 52.7-metre data center of about 30,000 square metres, to be built by Inzai Five TMK, a special-purpose company backed by Mitsui & Co, and run by Colt Data Centre Services. Residents said the building would be taller than the neighbouring apartment block and take their sunlight. Mayor Kengo Fujishiro posted that \"the facility suited to this place is not a data center\" (in the Nikkei's rendering). A city official told the Nikkei that because it is private development on private land, stopping it would be difficult. On 29 August 2025 the city council unanimously passed a resolution asking that future data centers be built away from station areas.",
+    "Then the city relented. In December 2025 it signed the pre-construction agreement with the developer, and Fujishiro told a residents' meeting that it was \"difficult to have the plan withdrawn\" and that there was \"no reason to delay it further,\" according to the Tokyo Shimbun. The city issued its notice of conformity with the district plan that month, and the private inspection body Japan ERI granted building confirmation in January 2026. On 5 March 2026 ten residents of a neighbouring apartment building sued Japan ERI in the Chiba District Court to cancel the confirmation. They argue that the data center is legally a \"factory\" or \"warehouse,\" uses the district plan forbids there. The city has since moved to change district plans. The Chiba Nippo reported that it submitted bills to its regular council session to let it restrict data center construction in the Inzai Makinohara-higashi district, to apply from 1 January of the following year if passed."
+   ],
+   "sources": [
+    "https://www.nikkei.com/article/DGXZQOCC112WK0R10C25A4000000/",
+    "https://www.nikkei.com/article/DGXZQOCC266OJ0W5A820C2000000/",
+    "https://www.tokyo-np.co.jp/article/459865",
+    "https://www.nikkei.com/article/DGXZQOCC2738X0X20C26A2000000/",
+    "https://www.nikkei.com/article/DGXZQOUC080LZ0Y6A700C2000000/",
+    "https://www.chibanippo.co.jp/articles/1659432",
+    "https://www.nttdata.com/global/ja/news/release/2026/041700/"
+   ],
+   "unconfirmed": "All sources are in Japanese, and the quotations are this page's translations. The Nikkei and Tokyo Shimbun stories are metered, and only their opening paragraphs were served. What is used here comes only from those paragraphs. The Chiba Nippo council bill story served one paragraph; its year is not shown on the page, so no date is given for the submission. A search summary put it in August 2026. Nikkei headlines on a separate Shiroi lawsuit and on a residents' audit request were seen but not read, so neither is reported. The NTT capacity and dates are the company's own. NHK's report on the lawsuit returned only its first sentence."
+  }
+ }
+}

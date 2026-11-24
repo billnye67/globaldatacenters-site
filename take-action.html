@@ -1,0 +1,1363 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<title>Take Action — Send an Opposition Letter to Your County Commissioners | Global Data Centers</title>
+<meta name="description" content="Stop data centers from being built near your home. Enter your address, pick your concerns, and we send a personalized opposition letter to your county commissioners on your behalf. Works in any state.">
+
+<style>
+@font-face{font-family:'Fraunces';font-style:italic;font-weight:400;font-display:swap;src:url(fonts/Fraunces-400i.woff) format('woff')}
+@font-face{font-family:'Fraunces';font-style:normal;font-weight:400;font-display:swap;src:url(fonts/Fraunces-400.woff) format('woff')}
+@font-face{font-family:'Fraunces';font-style:normal;font-weight:600;font-display:swap;src:url(fonts/Fraunces-600.woff) format('woff')}
+@font-face{font-family:'Work Sans';font-style:normal;font-weight:400;font-display:swap;src:url(fonts/WorkSans-400.woff) format('woff')}
+@font-face{font-family:'Work Sans';font-style:normal;font-weight:500;font-display:swap;src:url(fonts/WorkSans-500.woff) format('woff')}
+@font-face{font-family:'Work Sans';font-style:normal;font-weight:600;font-display:swap;src:url(fonts/WorkSans-600.woff) format('woff')}
+@font-face{font-family:'Fraunces Bold';font-style:normal;font-weight:700;font-display:swap;src:url(fonts/Fraunces-700.woff) format('woff')}
+@font-face{font-family:'Work Sans Bold';font-style:normal;font-weight:700;font-display:swap;src:url(fonts/WorkSans-700.woff) format('woff')}
+
+html{color-scheme:light;scroll-behavior:smooth}button,a{-webkit-tap-highlight-color:transparent;touch-action:manipulation}a{color:inherit;text-underline-offset:5px}
+/* DESKTOP COMPOSITION: one coordinate system for copy, sphere and paper fade.
+   At 1920x950: inset 64px; story 560px; sphere 1382px; sphere left 414px.
+   The globe's left edge overlaps the story by 210px at every desktop width.
+   Keep these variables together when porting this hero. */
+:root{--paper:#f7f4ec;--ink:#1a1915;--red:#a0231d;--rule:#c9c3b3;--muted:#666458;--blue:#526cb1;--green:#294e36;--serif:'Fraunces',Georgia,serif;--sans:'Work Sans',Arial,sans-serif;--header-h:76px;--inset:clamp(36px,3.4vw,64px);--copy-w:clamp(470px,30vw,560px);--title-w:clamp(520px,36vw,680px);--sphere-d:clamp(1020px,72vw,1440px);--sphere-x:calc(var(--inset) + var(--copy-w) - 155px);--sphere-y:calc(50% - var(--sphere-d)/2);--sphere-x-globe:calc(50% - var(--sphere-d)/2);--sphere-y-globe:calc(50% - var(--sphere-d)/2)}
+*,*::before,*::after{box-sizing:border-box}
+html{color-scheme:light;scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);-webkit-font-smoothing:antialiased}
+button:focus-visible,a:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--red);outline-offset:5px}
+::selection{color:var(--paper);background:var(--red)}
+.skip{position:fixed;top:-100px;left:20px;z-index:50;background:var(--ink);color:var(--paper);padding:12px 20px}
+.skip:focus{top:12px}
+.masthead{height:var(--header-h);padding:0 var(--inset);display:flex;align-items:center;justify-content:space-between;gap:30px;position:relative;z-index:10;background:var(--paper);border-bottom:3px double var(--ink)}
+.nameplate{display:flex;align-items:center;gap:11px;font:600 clamp(22px,1.5vw,28px)/1 var(--serif);letter-spacing:-1px;white-space:nowrap;text-decoration:none}
+.nameplate .mark{flex:none;width:46px;height:46px;display:inline-flex;align-items:center;justify-content:center;background:var(--red);color:#f7f4ec;font:700 16.5px/1 var(--serif);letter-spacing:-.02em}
+.nameplate-text{display:block}
+@media(max-width:760px){.nameplate{gap:9px}
+.nameplate .mark{width:40px;height:40px;font-size:14px}}
+.nav{display:flex;align-items:center;gap:clamp(25px,2.15vw,42px);font-size:12px;letter-spacing:.13em;text-transform:uppercase}
+.nav>a{text-decoration:none}
+.nav>a:hover{color:var(--red)}
+.nav .nav-action{background:var(--red);color:var(--paper);padding:12px 22px;font-weight:600;letter-spacing:.09em}
+.nav .nav-action:hover{background:#801c17;color:var(--paper)}
+.resource-links a:hover{background:#eae6db}
+.kicker{display:flex;align-items:center;gap:13px;font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:500;margin:0 0 21px;line-height:1.4}
+.kicker::before{content:'';width:25px;border-top:1px solid var(--red)}
+.primary{display:inline-flex;align-items:center;justify-content:center;gap:16px;background:var(--red);color:var(--paper);font-family:var(--serif);font-size:18px;font-weight:600;letter-spacing:.01em;line-height:1.3;padding:20px 32px;min-height:62px;text-decoration:none;box-shadow:0 6px 20px #a0231d2e;white-space:nowrap;transition:background .15s,transform .15s;font-variation-settings:"opsz" 40}
+.primary:hover{background:#801c17}
+.primary svg{width:19px;height:19px;flex:none}
+.secondary{display:inline-flex;align-items:center;gap:14px;font-size:14px;font-weight:400;text-decoration:none;padding:4px 7px 7px;border-bottom:1px solid var(--ink);white-space:nowrap}
+.secondary:hover{color:var(--red);border-color:var(--red)}
+.secondary svg{width:16px;height:16px}
+.sr-only{position:absolute;top:0;left:0;margin:0;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}
+
+@media(min-width:761px) and (max-height:840px){.kicker{margin-bottom:16px}}
+
+@media(max-width:1050px) and (min-width:761px){:root{--inset:30px;--copy-w:435px;--title-w:490px;--sphere-d:960px;--sphere-x:245px}
+.nav{gap:20px}
+.nameplate{font-size:26px}
+.nav{font-size:11px}
+.nav .nav-action{padding:12px 16px}
+.primary{font-size:13px;padding:17px 15px;gap:12px}}
+
+@media(max-width:760px){:root{--header-h:68px;--inset:20px;--copy-w:100%;--title-w:100%;--sphere-d:122vw;--sphere-x:-32vw;--sphere-y:-14vw;--sphere-x-globe:calc(50% - var(--sphere-d)/2);--sphere-y-globe:calc((100svh - var(--header-h) - var(--sphere-d))/2)}
+.masthead{gap:10px;position:sticky;top:0;z-index:50}
+.nameplate{font-size:27px;letter-spacing:-1.2px}
+.nav>a:not(.nav-action),.nav .resources{display:none}
+.nav .nav-action{font-size:10px;letter-spacing:.04em;padding:10px}
+.kicker{margin-bottom:12px;font-size:10px;letter-spacing:.2em}
+.primary{width:auto;min-height:50px;padding:0 22px;font-size:15px;gap:12px}
+.kicker{align-items:center}}
+
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}
+*,*::before,*::after{transition:none!important;animation:none!important}}
+:root{--paper-dark:#efece2;--ink-soft:#3d3b33;--ink-fade:#8a8778;--sand:#d6ceb8;--rule:#d8d4c6}
+.nameplate{display:flex;flex-direction:row;line-height:1.05}
+.nameplate-text{display:flex;flex-direction:column}
+.formerly{font-family:var(--serif);font-style:italic;font-size:12.5px;font-weight:400;letter-spacing:.01em;color:var(--muted);margin:3px 0 0 4px;white-space:nowrap}
+.masthead{transition:transform .6s ease}
+
+@media(max-width:900px){/* the header is pinned at every width that uses the stacked section (900 and under), not only 760 and under */
+.masthead{position:sticky;top:0;z-index:50}}
+.letter-body{padding:22px 20px 40px;font:400 14px/1.7 var(--sans);color:#3d3b33;max-height:420px}
+.letter-body p{margin:0 0 12px}
+.letter-body strong{color:var(--ink);font-weight:600}
+.letters .kicker{color:var(--red)}
+@media(max-width:900px){.masthead{border-bottom:1px solid var(--ink);transition:box-shadow .2s}}
+/* ===== FOOTER ===== */
+.footer{background:var(--ink);color:#f7f4ec;padding:72px 0 28px;border-top:1px solid #2a2823}
+.footer a{color:inherit;text-decoration:none}
+.footer-top{display:grid;grid-template-columns:minmax(0,1.4fr) repeat(4,minmax(0,1fr));gap:40px;padding-bottom:48px;border-bottom:1px solid rgba(247,244,236,.14)}
+.footer-brand{font:600 24px/1 var(--serif);letter-spacing:-.02em;margin:0 0 4px}
+.footer-brand .dot{color:var(--red)}
+.footer-former{font:italic 400 13px/1.4 var(--serif);color:rgba(247,244,236,.6);margin:0 0 18px}
+.footer-about{font:400 14px/1.6 var(--sans);color:rgba(247,244,236,.72);max-width:380px;margin:0 0 26px}
+.footer-handle{color:#f7f4ec;border-bottom:1px solid rgba(247,244,236,.5)}
+.footer-signup{max-width:400px}
+.footer-signup .eyebrow{font:600 10px/1 var(--sans);letter-spacing:.2em;text-transform:uppercase;color:rgba(247,244,236,.55);margin:0 0 10px}
+.footer-signup form{display:flex;border:1px solid rgba(247,244,236,.35)}
+.footer-signup input{flex:1 1 auto;min-width:0;background:transparent;border:0;color:#f7f4ec;padding:13px 14px;font:400 15px var(--serif);outline:none}
+.footer-signup input::placeholder{color:rgba(247,244,236,.4)}
+.footer-signup button{flex:none;background:var(--red);color:#fff;border:0;padding:0 18px;font:600 12px var(--sans);letter-spacing:.08em;text-transform:uppercase;cursor:pointer}
+.footer-signup .foot{font:400 11.5px/1.5 var(--sans);color:rgba(247,244,236,.45);margin:8px 0 0}
+.footer-fb{display:inline-block;margin-top:16px;font:500 13px/1 var(--sans);color:#f7f4ec;border-bottom:1px solid rgba(247,244,236,.5);padding-bottom:3px}
+.footer-col h4{font:600 10.5px/1 var(--sans);letter-spacing:.2em;text-transform:uppercase;color:rgba(247,244,236,.55);margin:6px 0 16px}
+.footer-col ul{list-style:none;margin:0;padding:0}
+.footer-col li{margin:0 0 10px}
+.footer-col li a{font:400 14.5px/1.35 var(--sans);color:rgba(247,244,236,.88);border-bottom:1px solid transparent;transition:border-color .15s}
+.footer-col li a:hover{border-color:rgba(247,244,236,.6)}
+.footer-mid{display:flex;flex-wrap:wrap;gap:18px 34px;align-items:center;padding:22px 0;border-bottom:1px solid rgba(247,244,236,.14);font:400 12.5px/1.5 var(--sans);color:rgba(247,244,236,.6)}
+.footer-mid b{font-weight:600;color:rgba(247,244,236,.85)}
+.footer-social{display:flex;gap:16px;margin-left:auto}
+.footer-social a{font:500 12px/1 var(--sans);letter-spacing:.06em;color:rgba(247,244,236,.85);border-bottom:1px solid rgba(247,244,236,.35);padding-bottom:3px}
+.footer-legal{display:flex;flex-wrap:wrap;gap:12px 28px;justify-content:space-between;padding-top:22px;font:400 12px/1.6 var(--sans);color:rgba(247,244,236,.5)}
+.footer-legal p{margin:0;max-width:760px}
+.footer-legal ul{list-style:none;display:flex;flex-wrap:wrap;gap:16px;margin:0;padding:0}
+.footer-legal ul a{color:rgba(247,244,236,.7);border-bottom:1px solid transparent}
+.footer-legal ul a:hover{border-color:rgba(247,244,236,.5)}
+
+@media(max-width:1100px){.footer-top{grid-template-columns:1fr 1fr;gap:34px}
+.footer-top>.footer-lead{grid-column:1 / -1}}
+
+@media(max-width:900px){.footer{padding:52px 0 24px}
+.footer-top{grid-template-columns:1fr 1fr;gap:26px 18px;padding-bottom:32px}
+.footer-mid{gap:12px 20px}
+.footer-social{margin-left:0}
+.footer-legal{flex-direction:column}}
+.menu-btn,.drawer{display:none}
+
+@media(max-width:760px){.menu-btn{display:inline-flex;flex-direction:column;justify-content:center;gap:6px;width:40px;height:40px;flex:none;background:none;border:0;padding:0 8px;cursor:pointer}
+.menu-btn span{display:block;height:2px;background:var(--ink)}
+.nav{display:none}
+.masthead{justify-content:flex-start;gap:12px}
+.nameplate{font-size:22px;letter-spacing:-.9px}
+.nameplate-text{align-items:center}
+.formerly{margin:2px 0 0;letter-spacing:.04em}
+.drawer{display:block;position:fixed;inset:0;z-index:1300;pointer-events:none}
+.drawer-scrim{position:absolute;inset:0;background:rgba(26,25,21,.45);opacity:0;transition:opacity .3s}
+.drawer-panel{position:absolute;top:0;left:0;bottom:0;width:min(84vw,340px);background:var(--paper);border-right:3px double var(--ink);padding:0 22px 28px;overflow-y:auto;transform:translateX(-102%);transition:transform .35s cubic-bezier(.2,.8,.2,1);display:flex;flex-direction:column}
+.drawer.open{pointer-events:auto}
+.drawer.open .drawer-scrim{opacity:1}
+.drawer.open .drawer-panel{transform:none}
+.drawer-head{display:flex;align-items:center;justify-content:space-between;height:68px;border-bottom:1px solid var(--ink);margin-bottom:6px}
+.drawer-brand{font:500 10px/1.4 var(--sans);letter-spacing:.2em;text-transform:uppercase;color:var(--muted)}
+.drawer-close{background:none;border:0;font:300 34px/1 var(--serif);color:var(--ink);padding:0 4px;cursor:pointer}
+.drawer-panel a{display:flex;align-items:center;gap:14px;font:500 17px/1.25 var(--serif);color:var(--ink);text-decoration:none;padding:11px 0;border-bottom:1px solid var(--rule)}
+.drawer-panel a.drawer-home{font-size:19px;padding:14px 0}
+.drawer-panel a.drawer-red{color:var(--red)}
+.drawer-panel .mi{width:19px;height:19px;flex:none;color:var(--muted)}
+.drawer-panel a.drawer-red .mi{color:var(--red)}
+.drawer-kicker{font:500 10px/1.4 var(--sans);letter-spacing:.2em;text-transform:uppercase;color:var(--muted);margin:22px 0 2px}
+.drawer-foot{margin-top:auto;padding-top:26px;display:flex;gap:22px}
+.drawer-foot a{font:400 12px/1.4 var(--sans);letter-spacing:.13em;text-transform:uppercase;border-bottom:1px solid var(--ink);padding:0 0 3px}
+body.drawer-open{overflow:hidden}}
+.nav{flex:1 1 auto;justify-content:space-between;margin-left:clamp(28px,3vw,56px)}
+.nav-left,.nav-right{display:flex;align-items:center;gap:clamp(22px,2vw,36px)}
+.nav-left a,.dd-btn{text-decoration:none;color:var(--ink);font:500 12px/1 var(--sans);letter-spacing:.13em;text-transform:uppercase;white-space:nowrap}
+.nav-left a{display:inline-flex;align-items:center;gap:9px;font-size:13.5px;letter-spacing:.11em}
+.nav-left .mi{width:18px;height:18px;color:var(--muted)}
+.nav-left a:hover .mi{color:var(--red)}
+.nav-left a:hover{color:var(--red)}
+.dd{position:relative}
+.dd-btn{display:inline-flex;align-items:center;gap:7px;background:none;border:0;padding:8px 0;cursor:pointer}
+.dd-btn .chev{width:11px;height:11px;transition:transform .2s}
+.dd.open .dd-btn{color:var(--red)}
+.dd.open .chev{transform:rotate(180deg)}
+.dd-menu{position:absolute;top:calc(var(--header-h)/2 + 50% - 3px);left:-18px;min-width:230px;padding:10px 0 8px;background:var(--paper);border:1px solid var(--ink);border-top:0;box-shadow:0 10px 26px rgba(26,25,21,.14);z-index:60;display:none;clip-path:inset(0 0 100% 0);transform:translateY(-14px)}
+.dd-menu::before{content:"";position:absolute;left:0;right:0;bottom:100%;height:30px}
+.dd:last-of-type .dd-menu{left:auto;right:-18px}
+.dd.open .dd-menu{display:block;animation:ddslide .28s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes ddslide{to{clip-path:inset(0);transform:none}}
+.dd-menu a{display:flex;align-items:center;gap:12px;padding:10px 18px 10px 16px;font:500 14.5px/1.3 var(--serif);letter-spacing:0;text-transform:none;color:var(--ink);text-decoration:none;white-space:nowrap}
+.dd-menu a:hover{background:#eae6db;color:var(--red)}
+.dd-menu .mi{width:17px;height:17px;flex:none;color:var(--muted)}
+.dd-menu a:hover .mi{color:var(--red)}
+
+@media(max-width:760px){.nav{display:none}}
+.dot{width:7px;height:7px;border-radius:50%;background:var(--blue);display:inline-block;flex:none}
+.dot.project{background:var(--green);width:9px;height:9px}
+.wrap{max-width:1200px;margin:0 auto;padding:0 24px}
+@media(min-width:1600px){.wrap{max-width:1320px}
+.press .wrap{max-width:1200px}}
+.fl-stats .wrap{max-width:1240px}
+.shop>.wrap{width:100%;max-width:1320px}
+@media(max-width:900px){.shop>.wrap{max-width:none}}
+/* ---- Take Action page (current layout, new chrome) ---- */
+:root{--paper-dark:#eae5d8;--ink-soft:#3a3830;--ink-fade:#6a665a;--forest:#2f4a35;--sand:#d6ceb8}
+.ta .wrap{max-width:1180px;margin:0 auto;padding:0 var(--inset)}
+
+        .ta-hero {
+            background: var(--ink);
+            color: var(--paper);
+            padding: 70px 0 60px;
+            border-bottom: 4px solid var(--red);
+        }
+        .ta-kicker {
+            font-size: 0.72rem;
+            color: #f0a8a4;
+            text-transform: uppercase;
+            letter-spacing: 0.22em;
+            font-weight: 600;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .ta-kicker::before { content: ''; width: 32px; height: 2px; background: var(--red); }
+        .ta-hero h1 {
+            font-family: 'Fraunces', serif;
+            font-size: clamp(2.2rem, 4.5vw, 3.4rem);
+            line-height: 1.06;
+            letter-spacing: -0.025em;
+            max-width: 700px;
+            margin-bottom: 24px;
+            font-variation-settings: "opsz" 144;
+        }
+        .ta-hero h1 em { font-style: italic; color: #f0a8a4; }
+        .ta-hero-sub {
+            font-family: 'Fraunces', serif;
+            font-size: 1.18rem;
+            line-height: 1.5;
+            color: var(--sand);
+            max-width: 600px;
+            margin-bottom: 18px;
+        }
+        .ta-hero-national {
+            font-size: 0.9rem;
+            line-height: 1.5;
+            color: var(--paper);
+            max-width: 600px;
+            margin-bottom: 28px;
+            padding: 12px 16px;
+            background: rgba(240, 168, 164, 0.08);
+            border-left: 3px solid #f0a8a4;
+        }
+        .ta-hero-national strong { color: #f0a8a4; }
+        .ta-counter {
+            display: inline-flex; align-items: center; gap: 10px;
+            margin-top: 24px; padding: 14px 22px;
+            border: 1px solid rgba(240,168,164,0.35);
+            background: rgba(240,168,164,0.07);
+        }
+        .ta-counter-num { font-family: 'Fraunces', serif; font-size: 1.6rem; font-weight: 600; color: #f0a8a4; line-height: 1; }
+        .ta-counter-label { font-family: 'Work Sans', sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--sand); line-height: 1; }
+        .ta-price-box {
+            display: inline-flex;
+            align-items: center;
+            gap: 18px;
+            background: rgba(255,255,255,0.06);
+            border: 1px solid rgba(255,255,255,0.12);
+            padding: 18px 28px;
+        }
+        .ta-price-num { font-family: 'Fraunces', serif; font-size: 2.4rem; font-weight: 600; color: var(--paper); }
+        .ta-price-detail { font-size: 0.85rem; color: var(--sand); line-height: 1.4; }
+
+        .ta-steps-section { padding: 60px 0; border-bottom: 1px solid var(--rule); }
+        .ta-steps-section h2 { font-family: 'Fraunces', serif; font-size: 1.8rem; font-weight: 500; margin-bottom: 36px; letter-spacing: -0.02em; }
+        .ta-steps { display: grid; grid-template-columns: repeat(3, 1fr); gap: 40px; }
+        .ta-step { border-top: 3px solid var(--red); padding-top: 20px; }
+        .ta-step-num { font-family: 'Fraunces', serif; font-size: 2rem; font-weight: 600; color: var(--red); margin-bottom: 10px; }
+        .ta-step-title { font-family: 'Fraunces', serif; font-size: 1.15rem; font-weight: 600; color: var(--ink); margin-bottom: 8px; }
+        .ta-step-desc { font-size: 0.9rem; color: var(--ink-soft); line-height: 1.55; }
+
+        .ta-form-section { padding: 60px 0 80px; background: var(--paper-dark); }
+        .ta-form-grid { display: grid; grid-template-columns: 1fr 1.1fr; gap: 60px; align-items: start; }
+        .ta-form-left h2 { font-family: 'Fraunces', serif; font-size: 1.8rem; font-weight: 500; margin-bottom: 16px; letter-spacing: -0.02em; }
+        .ta-form-left h2 em { font-style: italic; color: var(--red); }
+        .ta-form-left p { font-size: 0.95rem; color: var(--ink-soft); line-height: 1.6; margin-bottom: 24px; }
+        .ta-proof { border-top: 1px solid var(--rule); }
+        .ta-proof-item { font-size: 0.88rem; color: var(--ink-soft); padding: 8px 0; border-bottom: 1px solid var(--rule); display: flex; align-items: center; gap: 10px; }
+        .ta-proof-item::before { content: '✓'; color: var(--forest); font-weight: 700; }
+
+        .ta-form { background: var(--paper); border: 1px solid var(--rule); padding: 36px 32px; }
+        .ta-form-title { font-family: 'Fraunces', serif; font-size: 1.2rem; font-weight: 600; margin-bottom: 24px; padding-bottom: 16px; border-bottom: 1px solid var(--rule); }
+        .ta-field { margin-bottom: 20px; }
+        .ta-label { display: block; font-size: 0.78rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; color: var(--ink); margin-bottom: 6px; }
+        .ta-input, .ta-select {
+            width: 100%; padding: 12px 14px; font-size: 0.95rem;
+            font-family: 'Work Sans', sans-serif; border: 1px solid var(--rule);
+            background: var(--paper); color: var(--ink); transition: border-color 0.15s;
+        }
+        .ta-input:focus, .ta-select:focus { outline: none; border-color: var(--red); }
+        .ta-input::placeholder { color: var(--ink-fade); }
+        .ta-concerns { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-top: 4px; }
+        .ta-concern {
+            display: flex; align-items: center; justify-content: center; text-align: center;
+            padding: 9px 6px; border: 1px solid var(--rule); font-size: 0.8rem; color: var(--ink-soft);
+            cursor: pointer; transition: all 0.15s; user-select: none; background: var(--paper);
+            font-family: 'Work Sans', sans-serif; white-space: nowrap;
+        }
+        .ta-concern:hover { border-color: var(--ink-fade); }
+        .ta-concern input { display: none; }
+        .ta-concern-box { display: none; }
+        .ta-concern:has(input:checked) { background: var(--ink); border-color: var(--ink); }
+        .ta-concern:has(input:checked) .ta-concern-txt { color: var(--paper); font-weight: 600; }
+
+        .ta-submit {
+            width: 100%; padding: 18px 20px; background: var(--red); color: var(--paper);
+            font-family: 'Work Sans', sans-serif; font-size: 0.88rem; font-weight: 700;
+            text-transform: uppercase; letter-spacing: 0.04em; border: none; cursor: pointer;
+            transition: background 0.2s; margin-top: 8px; white-space: nowrap;
+        }
+        .ta-submit:hover { background: #b82821; }
+        .ta-submit:disabled { background: var(--ink-fade); cursor: not-allowed; }
+        .ta-error { display: none; color: #fff; background: var(--red); padding: 12px 16px; font-weight: 600; font-size: 0.9rem; text-align: center; margin-bottom: 12px; }
+        .ta-error.show { display: block; animation: shake 0.3s; }
+        @keyframes shake { 0%,100%{transform:translateX(0)} 25%{transform:translateX(-5px)} 75%{transform:translateX(5px)} }
+        .ta-submit-note { text-align: center; font-size: 0.78rem; color: var(--ink-fade); margin-top: 10px; font-style: italic; }
+
+        .ta-receive { padding: 60px 0; border-bottom: 1px solid var(--rule); }
+        .ta-receive h2 { font-family: 'Fraunces', serif; font-size: 1.6rem; font-weight: 500; margin-bottom: 28px; }
+        .ta-receive h2 em { font-style: italic; color: var(--red); }
+        .ta-receive-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px 40px; }
+        .ta-receive-item { padding: 16px 0; border-top: 1px solid var(--rule); }
+        .ta-receive-item strong { display: block; font-size: 0.95rem; margin-bottom: 4px; color: var(--ink); }
+        .ta-receive-item p { font-size: 0.88rem; color: var(--ink-soft); line-height: 1.5; }
+
+        .ta-faq { padding: 60px 0; }
+        .ta-faq .wrap { max-width: 780px; }
+        .ta-faq h2 { font-family: 'Fraunces', serif; font-size: 1.4rem; font-weight: 500; margin-bottom: 28px; }
+        .ta-faq-item { padding: 18px 0; border-top: 1px solid var(--rule); }
+        .ta-faq-item:last-child { border-bottom: 1px solid var(--rule); }
+        .ta-faq-q { font-weight: 600; font-size: 0.95rem; color: var(--ink); margin-bottom: 6px; }
+        .ta-faq-a { font-size: 0.9rem; color: var(--ink-soft); line-height: 1.55; }
+
+        .ta-qty-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; align-items: center; margin-top: 10px; }
+        .ta-qty-stepper { display: flex; align-items: stretch; border: 1px solid var(--rule); }
+        .ta-qty-stepper .ta-qty-btn { flex: 1; width: auto; }
+        .ta-qty-stepper .ta-qty-val { flex: 1.2; width: auto; display: flex; align-items: center; justify-content: center; }
+        .ta-qty-hint { grid-column: 2 / 4; font-size: 0.78rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.1em; color: var(--ink-soft); padding-left: 4px; }
+        .ta-group-note { display: none; margin-top: 10px; font-size: 0.82rem; color: var(--ink-soft); line-height: 1.45; }
+        .ta-group-note.show { display: block; }
+        .ta-group-note strong { color: var(--ink); }
+        .ta-qty-btn {
+            width: 44px; height: 44px; background: var(--paper); border: none;
+            font-size: 1.3rem; font-weight: 600; color: var(--ink); cursor: pointer;
+            display: flex; align-items: center; justify-content: center; transition: background 0.15s;
+            font-family: 'Work Sans', sans-serif;
+        }
+        .ta-qty-btn:hover { background: var(--paper-dark); }
+        .ta-qty-btn:disabled { color: var(--ink-fade); cursor: not-allowed; }
+        .ta-qty-val {
+            width: 52px; text-align: center; font-family: 'Fraunces', serif;
+            font-size: 1.2rem; font-weight: 600; color: var(--ink);
+            border-left: 1px solid var(--rule); border-right: 1px solid var(--rule);
+            padding: 8px 0;
+        }
+        .ta-qty-total { font-family: 'Fraunces', serif; font-size: 1.1rem; font-weight: 600; color: var(--ink); }
+        .ta-qty-total span { color: var(--red); }
+
+        /* --- cents styling: big $9 small 99 --- */
+        .ta-cents { font-size: 0.5em; vertical-align: super; letter-spacing: 0; margin-left: 1px; }
+
+        /* --- donation modal --- */
+        .ta-modal { display: none; position: fixed; inset: 0; background: rgba(20,18,14,0.6); z-index: 1000; align-items: center; justify-content: center; padding: 20px; }
+        .ta-modal.show { display: flex; }
+        .ta-modal-box { position: relative; background: var(--paper); border: 1px solid var(--rule); padding: 28px 24px 20px; max-width: 420px; width: 100%; }
+        .ta-modal-x { position: absolute; top: 8px; right: 12px; background: none; border: none; font-size: 1.5rem; color: var(--ink-fade); cursor: pointer; }
+        .ta-modal-title { font-family: 'Fraunces', serif; font-size: 1.5rem; font-weight: 500; color: var(--ink); margin-bottom: 8px; }
+        .ta-modal-sub { font-size: 0.88rem; color: var(--ink-soft); line-height: 1.5; margin-bottom: 16px; }
+        .ta-modal-skip { display: block; width: 100%; margin-top: 10px; background: none; border: none; color: var(--ink-fade); font-size: 0.82rem; text-decoration: underline; cursor: pointer; font-family: 'Work Sans', sans-serif; }
+        .ta-donate-opts { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; }
+        .ta-donate-btn { padding: 9px 4px; background: var(--paper); border: 1px solid var(--rule); cursor: pointer;
+            font-family: 'Work Sans', sans-serif; font-size: 0.85rem; font-weight: 600; color: var(--ink); }
+        .ta-donate-btn.active { background: var(--ink); border-color: var(--ink); color: var(--paper); }
+        .ta-donate-custom { display: flex; align-items: center; border: 1px solid var(--rule); background: var(--paper); padding: 0 6px; }
+        .ta-donate-custom span { font-size: 0.85rem; color: var(--ink-soft); }
+        .ta-donate-custom input { width: 100%; border: none; background: transparent; padding: 9px 2px; font-family: 'Work Sans', sans-serif; font-size: 0.85rem; outline: none; -moz-appearance: textfield; }
+        .ta-donate-custom input::-webkit-inner-spin-button, .ta-donate-custom input::-webkit-outer-spin-button { -webkit-appearance: none; }
+        .ta-donate-custom:focus-within, .ta-donate-custom.active { border-color: var(--ink); }
+
+        /* --- preset grid --- */
+        .ta-presets { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px 8px; margin-top: 12px; }
+        .ta-preset-btn { position: relative; padding: 14px 6px; background: var(--paper); border: 1px solid var(--rule);
+            cursor: pointer; font-family: 'Fraunces', serif; font-size: 1.15rem; font-weight: 600; color: var(--ink);
+            text-align: center; transition: border-color .12s, background .12s; }
+        .ta-preset-btn:hover { border-color: var(--ink); }
+        .ta-preset-btn.active { background: var(--ink); border-color: var(--ink); color: var(--paper); }
+        .ta-preset-sub { display: block; font-family: 'Work Sans', sans-serif; font-size: 0.68rem; font-weight: 400;
+            color: var(--ink-soft); margin-top: 2px; }
+        .ta-preset-btn.active .ta-preset-sub { color: var(--sand); }
+        .ta-preset-badge { position: absolute; top: -8px; left: 50%; transform: translateX(-50%); background: var(--red);
+            color: #fff; font-family: 'Work Sans', sans-serif; font-size: 0.6rem; font-weight: 700; letter-spacing: 0.05em;
+            text-transform: uppercase; padding: 2px 7px; border-radius: 3px; white-space: nowrap; }
+        .ta-preset-badge-long { letter-spacing: 0.02em; padding: 2px 5px; }
+        .ta-custom-wrap { margin-top: 10px; display: none; }
+        .ta-custom-wrap.show { display: block; }
+        .ta-custom-input { width: 100%; padding: 11px 12px; border: 1px solid var(--rule); font-size: 0.95rem;
+            font-family: 'Work Sans', sans-serif; }
+
+        /* --- ZIP resolve --- */
+        .ta-zip-resolved { display: none; margin-top: 8px; font-size: 0.85rem; color: var(--green, #2f4a35);
+            font-weight: 600; }
+        .ta-zip-resolved.show { display: block; }
+        .ta-zip-fallback { display: none; margin-top: 12px; }
+        .ta-zip-fallback.show { display: block; }
+        .ta-zip-note { font-size: 0.78rem; color: var(--ink-soft); margin-top: 6px; }
+
+
+
+        .ta-ref-banner {
+            display: none;
+            background: var(--forest);
+            color: var(--paper);
+            text-align: center;
+            padding: 12px 16px;
+            font-size: 0.88rem;
+            font-weight: 500;
+            overflow: hidden;
+        }
+        .ta-ref-banner.show { display: block; }
+        html, body { overflow-x: hidden; }
+        .ta-free-tag {
+            display: none;
+            background: var(--paper-dark);
+            color: var(--forest);
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            padding: 4px 10px;
+            margin-left: 10px;
+            vertical-align: middle;
+            border: 1px solid var(--forest);
+        }
+        .is-referral .ta-free-tag { display: inline-block; }
+
+        @media (max-width: 900px) {
+            .ta-steps { grid-template-columns: 1fr; gap: 24px; }
+            .ta-form-grid { grid-template-columns: 1fr; gap: 32px; }
+            .ta-form { order: -1; }
+            .ta-form-left { order: 1; }
+            .ta-receive-grid { grid-template-columns: 1fr; }
+            .ta-concerns { grid-template-columns: repeat(3, 1fr); }
+        }
+    
+
+
+/* how it works: named, checked, short */
+.ta-how{background:var(--paper);border-bottom:1px solid var(--rule)}
+.ta-how .wrap{padding-top:26px;padding-bottom:26px}
+.ta-how-label{font:600 11px/1 var(--sans);letter-spacing:.16em;text-transform:uppercase;color:var(--red);margin:0 0 14px}
+.ta-how-label::before{content:"";display:inline-block;width:22px;height:1px;background:var(--red);margin-right:10px;vertical-align:middle}
+.ta-how ul{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,1fr);gap:0}
+.ta-how li{display:flex;align-items:flex-start;gap:10px;padding:2px 28px 2px 0;font:400 15.5px/1.45 var(--serif);color:var(--muted);border-right:1px solid var(--rule)}
+.ta-how li+li{padding-left:28px}
+.ta-how li:last-child{border-right:0}
+.ta-how li b{font-weight:600;color:var(--ink);margin-right:4px}
+.ta-how li .n{flex:none;width:24px;height:24px;border-radius:50%;background:var(--red);color:#fff;font:600 12px/24px var(--sans);text-align:center}
+.ta-how-title{display:none;font:600 24px/1.15 var(--serif);letter-spacing:-.01em;margin:0 0 14px;color:var(--ink)}
+.ta-hero{padding:48px 0 52px}
+.ta-hero-grid{gap:20px 56px}
+.ta-hero-copy h1{margin-bottom:0}
+@media(max-width:960px){
+  .ta-how ul{grid-template-columns:1fr}
+  .ta-how .wrap{padding-top:26px;padding-bottom:22px}
+  .ta-how-title{display:block}
+  .ta-how li{font-size:16px;padding:9px 0}
+  .ta-how li .n{width:28px;height:28px;font-size:13px;line-height:28px}
+  .ta-how li{border-right:0;border-bottom:0;padding:6px 0}
+  .ta-how li+li{padding-left:0}
+  .ta-how li:last-child{border-bottom:0}
+  .ta-hero{padding:32px 0 36px}
+}
+
+/* form centered, reviews as cards beneath it */
+.ta-form-section .ta-form-grid{grid-template-columns:minmax(0,640px);justify-content:center;gap:34px}
+.ta-form-section{padding:56px 0 72px}
+.ta-reviews{grid-column:1/-1;justify-self:center;width:min(1060px,calc(100vw - 2*var(--inset,24px)));margin-top:16px}
+.ta-reviews-head{text-align:center;margin:8px 0 22px}
+.ta-reviews-head h2{font:600 26px/1.15 var(--serif);letter-spacing:-.01em;margin:10px 0 0;color:var(--ink)}
+.ta-stars{display:inline-flex;gap:3px}
+.ta-stars i{width:16px;height:16px;background:var(--red);clip-path:polygon(50% 0,61% 35%,98% 35%,68% 57%,79% 91%,50% 70%,21% 91%,32% 57%,2% 35%,39% 35%)}
+.ta-reviews-head .ta-stars i{width:20px;height:20px}
+.ta-review-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.ta-review{display:flex;flex-direction:column;background:var(--paper);border:1px solid var(--rule);padding:22px 24px 20px;box-shadow:0 14px 28px -24px rgba(26,25,21,.55)}
+.ta-review p{flex:1;margin:12px 0 16px;font:400 17px/1.5 var(--serif);color:var(--ink)}
+.ta-review footer{display:flex;align-items:center;gap:10px;padding-top:14px;border-top:1px solid var(--rule)}
+.ta-review footer b{display:block;font:600 13.5px/1.2 var(--sans);color:var(--ink)}
+.ta-review footer span{display:block;font:400 12px/1.35 var(--sans);color:var(--muted)}
+.ta-review-avatar{flex:none;width:34px;height:34px;border-radius:50%;background:var(--ink);color:var(--paper);font:600 14px/34px var(--serif);text-align:center}
+.ta-review footer .ta-review-avatar{display:block;color:var(--paper);font:600 14px/34px var(--serif)}
+.ta-reviews-note{text-align:center;font:400 12.5px/1.5 var(--sans);color:var(--muted);margin:16px 0 0}
+@media(max-width:900px){
+  .ta-form-section .ta-form-grid{grid-template-columns:1fr}
+  .ta-review-grid{grid-template-columns:1fr}
+  .ta-reviews-head h2{font-size:22px}
+  /* how it works on phone: a line between steps */
+  .ta-how li{border-bottom:1px solid var(--rule);padding:14px 0}
+  .ta-how li:last-child{border-bottom:0}
+  .ta-how li:first-child{border-top:1px solid var(--rule)}
+}
+/* full bold on this page (the site only ships semi-bold; Windows stand-ins are full bold, which read stronger) */
+.ta .ta-how li b,.ta .ta-form-title,.ta .ta-how-title,.ta .ta-reviews-head h2,.ta .ta-receive-item strong{font-family:'Fraunces Bold',var(--serif);font-weight:700}
+.ta .ta-review footer b,.ta .ta-label,.ta .ta-faq-q,.ta .ta-counter-label,.ta .ta-kicker,.ta .ta-how-label{font-family:'Work Sans Bold',var(--sans);font-weight:700}
+
+/* compact form: same fields, less height */
+.ta .ta-form{padding:28px 28px 26px}
+.ta .ta-form-title{margin-bottom:18px;padding-bottom:12px}
+.ta .ta-field{margin-bottom:14px}
+.ta .ta-form-row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.ta .ta-form-row-addr{grid-template-columns:1fr 150px}
+.ta .ta-form-row .ta-field{margin-bottom:14px}
+.ta .ta-input,.ta .ta-select{padding:10px 12px}
+.ta .ta-zip-note{margin-top:5px;font-size:11.5px}
+.ta .ta-concerns{display:flex;flex-wrap:wrap;gap:7px}
+.ta .ta-concern{padding:7px 12px;font-size:13px;border-radius:999px;gap:0;background:var(--paper);color:var(--ink)}
+.ta .ta-concern .ta-concern-box{display:none}
+.ta .ta-concern:has(input:checked){background:var(--ink);color:#fff;border-color:var(--ink)}
+.ta .ta-concern:has(input:checked) .ta-concern-txt{color:#fff;font-weight:500}
+.ta .ta-qty-total{margin-top:12px !important}
+@media(max-width:900px){
+  .ta .ta-form{padding:22px 18px 22px}
+  .ta .ta-form-row{grid-template-columns:1fr;gap:0}
+  .ta .ta-form-row-addr{grid-template-columns:1fr 120px;gap:10px}
+  .ta .ta-concern{padding:8px 12px}
+}
+.ta .ta-other-input{display:none;margin-top:8px}
+.ta .ta-other-input.show{display:block}
+.ta .ta-privacy-note{text-align:center;font:400 12px/1.5 var(--sans);color:var(--muted);margin-top:8px}
+.ta .ta-privacy-note a{color:var(--red);text-decoration:underline;text-underline-offset:3px}
+.ta .ta-trust{list-style:none;margin:16px 0 0;padding:14px 0 0;border-top:1px solid var(--rule);display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.ta .ta-trust li{display:inline-flex;align-items:center;gap:6px;font:400 12px/1.2 var(--sans);color:var(--muted);white-space:nowrap}
+.ta .ta-trust svg{width:15px;height:15px;fill:none;stroke:var(--green);stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round;flex:none}
+.ta .ta-trust a{color:var(--red);text-decoration:underline;text-underline-offset:3px}
+.ta #ta-mode-copy{margin-top:14px !important}
+.ta .ta-ref-note{display:none;margin-top:10px}
+.ta .ta-ref-note.show{display:block}
+@media(max-width:600px){.ta .ta-trust{flex-direction:column;align-items:center;gap:9px}}
+/* the letter as a sheet of paper */
+.ta .ta-sheet-grid{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(280px,.9fr);gap:56px;align-items:center}
+.ta .ta-sheet{position:relative;margin:0;max-height:440px;overflow:hidden;background:#fffdf8;border:1px solid var(--rule);box-shadow:0 30px 50px -36px rgba(26,25,21,.6);transform:rotate(-.6deg)}
+.ta .ta-sheet-paper{padding:34px 38px 60px;font:400 15px/1.6 var(--serif);color:var(--ink)}
+.ta .ta-sheet-paper p{margin:0 0 .9em}
+.ta .ta-sheet-meta{color:var(--muted);font-size:13.5px}
+.ta .ta-sheet-fade{position:absolute;left:0;right:0;bottom:0;height:170px;background:linear-gradient(rgba(255,253,248,0),#fffdf8 55%);pointer-events:none}
+.ta .ta-sheet-btn{position:absolute;left:38px;bottom:26px;display:inline-flex;align-items:center;gap:8px;background:var(--ink);color:#fff;border:0;padding:12px 16px;font:600 11.5px/1 var(--sans);letter-spacing:.1em;text-transform:uppercase;cursor:pointer}
+.ta .ta-sheet-btn:hover{background:var(--red)}
+.ta .ta-sheet-btn svg{width:14px;height:14px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round}
+.ta .ta-sheet-side h2{margin:0 0 18px}
+.ta .ta-sheet-side ul{list-style:none;margin:0;padding:0}
+.ta .ta-sheet-side li{position:relative;padding:12px 0 12px 26px;border-top:1px solid var(--rule);font:400 16px/1.5 var(--serif);color:var(--ink)}
+.ta .ta-sheet-side li:last-child{border-bottom:1px solid var(--rule)}
+.ta .ta-sheet-side li::before{content:"\2713";position:absolute;left:0;top:12px;color:var(--green);font-weight:700}
+@media(max-width:900px){.ta .ta-sheet-grid{grid-template-columns:1fr;gap:28px}.ta .ta-sheet{transform:none;max-height:380px}.ta .ta-sheet-paper{padding:24px 22px 60px;font-size:14.5px}.ta .ta-sheet-btn{left:22px;right:22px;justify-content:center}.ta .ta-sheet-side h2{font-size:24px}}
+/* letters gallery */
+.ta .ta-gal-head{margin:0 0 22px}
+.ta .ta-gal-head h2{margin:0 0 6px}
+.ta .ta-gal-head p{margin:0;font:400 16px/1.5 var(--serif);color:var(--muted)}
+.ta .ta-gal{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.ta .ta-gal-card{display:flex;flex-direction:column;text-align:left;background:var(--paper);border:1px solid var(--ink);box-shadow:5px 5px 0 var(--red);padding:18px 18px 14px;cursor:pointer;font-family:var(--sans);color:var(--ink);transition:transform .12s}
+.ta .ta-gal-card:hover{transform:translate(-1px,-1px)}
+.ta .ta-gal-county{font:700 11px/1 var(--sans);letter-spacing:.12em;text-transform:uppercase;color:var(--red)}
+.ta .ta-gal-topic{font:600 15px/1.3 var(--serif);margin:8px 0 10px}
+.ta .ta-gal-q{flex:1;font:italic 400 14.5px/1.5 var(--serif);color:var(--ink);opacity:.85}
+.ta .ta-gal-foot{display:flex;align-items:center;gap:6px;margin-top:14px;padding-top:10px;border-top:1px solid var(--rule);font:600 11px/1 var(--sans);letter-spacing:.1em;text-transform:uppercase;color:var(--ink)}
+.ta .ta-gal-foot em{font-style:normal;color:var(--green);letter-spacing:.06em}
+.ta .ta-gal-foot svg{width:14px;height:14px;margin-left:auto;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round}
+@media(max-width:900px){.ta .ta-gal{grid-template-columns:1fr}}
+/* ---- proof v4: one reply card in the hero, receipts grid below ---- */
+.ta-hero-grid{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(340px,.9fr);gap:24px 56px;align-items:center}
+.ta-hero-copy h1{font-size:clamp(34px,3.6vw,52px);letter-spacing:-.02em;line-height:1.05}
+.ta-hero-copy .ta-hero-sub{font-size:17.5px;line-height:1.55}
+.ta-hero-copy{grid-column:1;grid-row:1}
+.ta-reply-card{grid-column:2;grid-row:1/3}
+.ta-hero-counter{grid-column:1;grid-row:2;align-self:start}
+.ta-hero-counter .ta-counter{margin-top:0}
+.ta-reply-card{background:var(--paper);color:var(--ink);border:1px solid var(--ink);box-shadow:10px 10px 0 var(--red);padding:26px 28px 22px;font-family:var(--sans)}
+.ta-reply-badge{display:inline-block;font:600 10.5px/1 var(--sans);letter-spacing:.14em;text-transform:uppercase;color:#fff;background:var(--green);padding:7px 10px;margin:0 0 16px}
+.ta-reply-quote{margin:0;font:400 18px/1.5 var(--serif);color:var(--ink)}
+.ta-reply-who{margin:16px 0 0;font:400 12.5px/1.4 var(--sans);color:var(--muted)}
+.ta-reply-who b{display:block;font:600 14px/1.3 var(--serif);color:var(--ink);letter-spacing:-.01em}
+.ta-reply-link{display:inline-flex;align-items:center;gap:8px;margin-top:18px;padding:0;background:none;border:0;border-bottom:1px solid var(--red);font:600 11.5px/1.6 var(--sans);letter-spacing:.1em;text-transform:uppercase;color:var(--red);cursor:pointer}
+.ta-reply-link svg{width:14px;height:14px;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round}
+
+.ta-receipts{background:#eae5d8;padding:64px 0;border-bottom:1px solid var(--rule)}
+.ta-receipts h2{font-family:var(--serif);font-size:1.8rem;font-weight:500;margin:0 0 24px;letter-spacing:-.02em}
+.ta-receipts h2 em{font-style:italic;color:var(--red)}
+.ta-receipts-sub{font:400 16px/1.55 var(--serif);color:var(--muted);margin:-10px 0 26px;max-width:36em}
+.ta-receipt-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.ta-receipt{display:flex;flex-direction:column;text-align:left;background:#fffdf8;border:1px solid var(--rule);border-top:3px solid var(--green);padding:18px 18px 16px;cursor:pointer;font-family:var(--sans);color:var(--ink);transition:transform .12s,border-color .12s,box-shadow .12s}
+.ta-receipt:hover{transform:translateY(-2px);border-color:var(--ink);box-shadow:0 12px 24px -18px rgba(26,25,21,.6)}
+.ta-receipt-county{font:600 11px/1 var(--sans);letter-spacing:.12em;text-transform:uppercase;color:var(--green);margin-bottom:12px}
+.ta-receipt-quote{flex:1;font:400 15px/1.5 var(--serif);color:var(--ink)}
+.ta-receipt-who{margin-top:14px;padding-top:12px;border-top:1px solid var(--rule);font:500 12px/1.35 var(--sans);color:var(--muted)}
+.ta-quote-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-top:0}
+.ta-quote-grid blockquote{margin:0;background:var(--paper);border:1px solid var(--rule);border-top:3px solid var(--red);padding:16px 18px;display:flex;flex-direction:column}
+.ta-quote-grid p{flex:1;margin:0 0 10px;font:italic 400 15px/1.45 var(--serif);color:var(--ink)}
+.ta-quote-grid cite{font:500 11px/1 var(--sans);letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-style:normal}
+@media(max-width:960px){
+  .ta-hero-grid{grid-template-columns:1fr;gap:30px}
+  .ta-hero-copy,.ta-reply-card,.ta-hero-counter{grid-column:auto;grid-row:auto}
+  .ta-receipt-grid{grid-template-columns:1fr 1fr}
+  .ta-quote-grid{grid-template-columns:1fr}
+}
+@media(max-width:560px){.ta-receipt-grid{grid-template-columns:1fr}.ta-reply-card{padding:20px 18px 18px}.ta-reply-quote{font-size:16.5px}}
+
+.ta-mail-meta{display:flex;gap:10px;align-items:flex-start}
+.ta-mail-meta b{display:block;font:600 13px/1.3 var(--sans);color:var(--ink)}
+.ta-mail-meta span{display:block;font:400 11.5px/1.35 var(--sans);color:var(--muted);margin-top:2px}
+.ta-avatar{flex:none;width:30px;height:30px;border-radius:50%;background:var(--red);color:#fff;font:600 13px/30px var(--sans);text-align:center}
+.ta-mail-meta .ta-avatar{display:block;margin:0;font:600 13px/30px var(--sans);color:#fff}
+.ta-avatar-gov{background:var(--green)}
+.ta-proof{display:none;position:fixed;inset:0;z-index:9500}
+.ta-proof.show{display:block}
+.ta-proof-scrim{position:absolute;inset:0;background:rgba(26,25,21,.72)}
+.ta-proof-panel{position:absolute;inset:4vh 0 0;margin:0 auto;max-width:860px;background:var(--paper);border:1px solid var(--ink);display:flex;flex-direction:column;max-height:96vh}
+.ta-proof-bar{display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid var(--ink);background:var(--paper);padding:0 6px 0 16px}
+.ta-proof-title{font:600 12px/1 var(--sans);letter-spacing:.1em;text-transform:uppercase;color:var(--red)}
+.ta-proof-tabs{display:flex;overflow-x:auto}
+.ta-proof-tabs button{background:none;border:0;border-right:1px solid var(--rule);padding:14px 16px;font:600 11.5px/1 var(--sans);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);cursor:pointer;white-space:nowrap}
+.ta-proof-tabs button.active{color:var(--red);box-shadow:inset 0 -3px 0 var(--red)}
+.ta-proof-x{background:none;border:0;font:400 30px/1 var(--serif);color:var(--muted);cursor:pointer;padding:4px 10px}
+.ta-proof-body{overflow-y:auto;padding:22px}
+.ta-pair{display:none}
+.ta-pair.active{display:block}
+.ta-pair-head{display:flex;justify-content:space-between;gap:10px;align-items:baseline;margin:0 0 14px}
+.ta-pair-county{font:600 22px/1.1 var(--serif)}
+.ta-pair-dates{font:400 11.5px/1 var(--sans);letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+.ta-mail{background:var(--paper);border:1px solid var(--rule);padding:16px 18px;margin:0 0 14px}
+.ta-mail-in{background:#f4f7ee;border-left:3px solid var(--green)}
+.ta-mail-body{margin-top:12px;font:400 15px/1.6 var(--serif)}
+.ta-mail-body p{margin:0 0 .85em}
+.ta-mail-body p:last-child{margin-bottom:0}
+.ta-proof-note{font:400 12px/1.5 var(--sans);color:var(--muted);margin:6px 0 0}
+body.ta-proof-open{overflow:hidden}
+@media(max-width:960px){
+  .ta-proof-panel{inset:0;max-height:100vh;border:0}
+}
+@media(max-width:960px){.ta-reviews+.ta-reply-card{margin-top:32px}}
+</style>
+<script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "whyg2fbg7c");</script>
+</head>
+<body>
+<header class="masthead">
+<button type="button" class="menu-btn" id="menu-btn" aria-label="Open menu" aria-expanded="false"><span></span><span></span><span></span></button><a class="nameplate" href="/" aria-label="Global Data Centers home"><span class="mark" aria-hidden="true">GDC</span><span class="nameplate-text">Global Data Centers.<span class="formerly">formerly Florida Data Centers</span></span></a>
+<nav class="nav" aria-label="Main navigation"><div class="nav-left"><a href="/"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 6l6-2 6 2 6-2v14l-6 2-6-2-6 2z"/><path d="M9 4v14M15 6v14"/></svg>Map</a><a href="/learn"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 9l9-4 9 4-9 4z"/><path d="M7 11v5c0 1.5 2.5 3 5 3s5-1.5 5-3v-5"/><path d="M21 9v5"/></svg>Learn</a><a href="/support"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 20s-7-4.5-7-10a4 4 0 0 1 7-2.5A4 4 0 0 1 19 10c0 5.5-7 10-7 10z"/></svg>Donate</a></div><div class="nav-right"><div class="dd"><button type="button" class="dd-btn" aria-haspopup="true" aria-expanded="false">Resources<svg class="chev" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 4.5 6 7.5l3-3"/></svg></button><div class="dd-menu"><a href="/#wins"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 21V4"/><path d="M5 5h12l-2 3 2 3H5"/></svg>Where communities won</a><a href="/moratorium"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M10 9v6M14 9v6"/></svg>Moratorium tracker</a><a href="/your-rights"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v6c0 4-3 7-7 9-4-2-7-5-7-9V6z"/><path d="M9 12l2 2 4-4"/></svg>Your rights as a resident</a><a href="/sources"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5a2 2 0 0 1 2-2h12v16H6a2 2 0 0 0-2 2z"/><path d="M4 19V5"/><path d="M8 7h7"/></svg>Sources &amp; methodology</a><a href="/about"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M12 11v5M12 8h.01"/></svg>About this site</a></div></div><div class="dd"><button type="button" class="dd-btn" aria-haspopup="true" aria-expanded="false">Get involved<svg class="chev" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 4.5 6 7.5l3-3"/></svg></button><div class="dd-menu"><a href="/take-action"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 6h16v12H4z"/><path d="M4 7l8 6 8-6"/></svg>Send an opposition letter</a><a href="/#check"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-6-5.5-6-11a6 6 0 0 1 12 0c0 5.5-6 11-6 11z"/><circle cx="12" cy="10" r="2"/></svg>Check your address</a><a href="/contact"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 10v4h3l7 4V6l-7 4z"/><path d="M17 9a4 4 0 0 1 0 6"/></svg>Report a project · Tip line</a><a href="/shop"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 8h12l1 12H5z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/></svg>Shop</a><a href="/contact"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5h16v11H9l-5 4z"/></svg>Contact</a></div></div><div class="dd"><button type="button" class="dd-btn" aria-haspopup="true" aria-expanded="false">Socials<svg class="chev" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 4.5 6 7.5l3-3"/></svg></button><div class="dd-menu"><a href="https://tiktok.com/@jamesdatacenters" target="_blank" rel="noopener"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 18V5l9-2v13"/><circle cx="7" cy="18" r="3"/><circle cx="16" cy="16" r="3"/></svg>TikTok</a><a href="https://instagram.com/jamesdatacenters" target="_blank" rel="noopener"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="4"/><circle cx="12" cy="12" r="3.5"/><path d="M17 7h.01"/></svg>Instagram</a><a href="https://www.facebook.com/share/g/1BS4kskLw1/" target="_blank" rel="noopener"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="9" cy="8" r="3"/><circle cx="17" cy="9" r="2.5"/><path d="M3 19a6 6 0 0 1 12 0"/><path d="M15 19a4.5 4.5 0 0 1 6-3.5"/></svg>Stop Data Centers group</a></div></div><a class="nav-action" href="/take-action">Take action</a></div></nav>
+</header>
+<div class="drawer" id="drawer" aria-hidden="true"><div class="drawer-scrim" id="drawer-scrim"></div><nav class="drawer-panel" aria-label="Site menu">
+<div class="drawer-head"><span class="drawer-brand">Menu</span><button type="button" class="drawer-close" id="drawer-close" aria-label="Close menu">&times;</button></div>
+<a class="drawer-home" href="/"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 11l8-7 8 7"/><path d="M6 10v10h12V10"/><path d="M10 20v-6h4v6"/></svg>Home</a>
+<p class="drawer-kicker">Explore</p>
+<a href="/" class="drawer-red"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 6l6-2 6 2 6-2v14l-6 2-6-2-6 2z"/><path d="M9 4v14M15 6v14"/></svg>The map</a><a href="/learn"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 9l9-4 9 4-9 4z"/><path d="M7 11v5c0 1.5 2.5 3 5 3s5-1.5 5-3v-5"/><path d="M21 9v5"/></svg>Learn</a><a href="/#check"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-6-5.5-6-11a6 6 0 0 1 12 0c0 5.5-6 11-6 11z"/><circle cx="12" cy="10" r="2"/></svg>Check your address</a><a href="/#wins"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 21V4"/><path d="M5 5h12l-2 3 2 3H5"/></svg>Where communities won</a><a href="/moratorium"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M10 9v6M14 9v6"/></svg>Moratorium tracker</a><a href="/your-rights"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v6c0 4-3 7-7 9-4-2-7-5-7-9V6z"/><path d="M9 12l2 2 4-4"/></svg>Your rights as a resident</a>
+<p class="drawer-kicker">Act</p>
+<a href="/take-action" class="drawer-red"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 6h16v12H4z"/><path d="M4 7l8 6 8-6"/></svg>Send an opposition letter</a><a href="/contact"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 10v4h3l7 4V6l-7 4z"/><path d="M17 9a4 4 0 0 1 0 6"/></svg>Report a project · Tip line</a><a href="/shop"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 8h12l1 12H5z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/></svg>Shop</a><a href="/support"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 20s-7-4.5-7-10a4 4 0 0 1 7-2.5A4 4 0 0 1 19 10c0 5.5-7 10-7 10z"/></svg>Support the work</a>
+<p class="drawer-kicker">About</p>
+<a href="/contact" class="drawer-red"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5h16v11H9l-5 4z"/></svg>Contact</a><a href="/about"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M12 11v5M12 8h.01"/></svg>About this site</a><a href="/sources"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5a2 2 0 0 1 2-2h12v16H6a2 2 0 0 0-2 2z"/><path d="M4 19V5"/><path d="M8 7h7"/></svg>Sources &amp; methodology</a><a href="/press"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 5h14v14H5z"/><path d="M8 9h8M8 12h8M8 15h5"/></svg>Press</a>
+<div class="drawer-foot"><a href="https://tiktok.com/@jamesdatacenters">TikTok</a><a href="https://instagram.com/jamesdatacenters">Instagram</a></div>
+</nav></div>
+
+<main id="main" class="ta">
+<div class="ta-ref-banner" id="ref-banner">Your neighbor sent you a free letter. Fill out the form below to claim it.</div>
+
+
+<section class="ta-hero">
+    <div class="wrap ta-hero-grid">
+      <div class="ta-hero-copy">
+        <div class="ta-kicker">Take Action Now</div>
+        <h1 id="ta-h1" data-intl="We send an opposition letter to your local officials &lt;em&gt;for you.&lt;/em&gt;">We send an opposition letter to your county commissioners <em>for you.</em></h1>
+      </div>
+      <aside class="ta-reply-card" aria-label="A county's reply to a letter we sent">
+        <span class="ta-reply-badge">Reply from Stafford County, Virginia</span>
+        <p class="ta-reply-quote">&ldquo;I appreciate your specific requests regarding hydrology, grid capacity, residential rate impacts, noise, and property values. I will make sure these concerns remain part of the discussion as proposals are evaluated.&rdquo;</p>
+        <p class="ta-reply-who"><b>Deuntay T. Diggs</b>Chairman, Stafford County Board of Supervisors</p>
+        <button type="button" class="ta-reply-link" data-pair="p-stafford">Read the letter he was answering <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg></button>
+      </aside>
+      <div class="ta-hero-counter">
+        <div class="ta-counter">
+            <span class="ta-counter-num" id="letter-counter">13,864</span>
+            <span class="ta-counter-label">letters sent so far</span>
+        </div>
+      </div>
+    </div>
+</section>
+<section class="ta-how" aria-labelledby="how-title">
+    <div class="wrap">
+        <div class="ta-how-label" id="how-title">How it works</div>
+        <h2 class="ta-how-title">Three steps. Sixty seconds.</h2>
+        <ul>
+            <li><span class="n">1</span><div><b>You pick your concerns.</b> Water, noise, bills, property value.</div></li>
+            <li><span class="n">2</span><div data-intl="<b>We write the letter.</b> Your officials, your project, the rules that apply."><b>We write the letter.</b> Your commissioners, your project, the laws that apply.</div></li>
+            <li><span class="n">3</span><div data-intl="<b>We send it in your name.</b> In every decision maker's inbox within 24 hours."><b>We send it in your name.</b> Every commissioner's inbox within 24 hours.</div></li>
+        </ul>
+    </div>
+</section>
+
+
+
+
+
+<div class="ta-proof" id="ta-proof" aria-hidden="true" role="dialog" aria-label="Real letters and replies">
+  <div class="ta-proof-scrim" id="ta-proof-scrim"></div>
+  <div class="ta-proof-panel">
+    <div class="ta-proof-bar">
+      <div class="ta-proof-title">Stafford County, Virginia &middot; the letter and the reply</div>
+      <button type="button" class="ta-proof-x" id="ta-proof-x" aria-label="Close">&times;</button>
+    </div>
+    <div class="ta-proof-body"><article class="ta-pair active" id="p-stafford">
+  <header class="ta-pair-head"><span class="ta-pair-county">Stafford County, Virginia</span><span class="ta-pair-dates">Sent July 22, 2026 &middot; Reply September 10, 2026</span></header>
+  <div class="ta-mail ta-mail-out"><div class="ta-mail-meta"><span class="ta-avatar">R</span><div><b>Opposition to proposed data center</b><span>From a verified resident via globaldatacenters.net &middot; To the Stafford County board</span></div></div><div class="ta-mail-body"><p>Dear Stafford County Board of Supervisors,</p>
+<p>My name is Rosanne B., and I live in Stafford County. I know this board faces constant pressure to say yes to data centers given how much of northern Virginia's economy now runs on them, but I'm writing to ask you to slow down on this one.</p>
+<p>Northern Virginia already has a documented history of what happens when localities approve facility after facility without a real coordinated plan: overloaded substations, rate pressure creeping onto residential bills, and communities that lose their character piece by piece as more land gets converted to industrial use. I don't want Stafford to be the next cautionary example.</p>
+<p>I'm asking for an independent hydrological study before any permit moves forward, one that names the actual water source, the projected daily draw, and what that means for residential wells and the Rappahannock watershed. On the grid, Dominion Energy's transmission system in this region is already strained from the concentration of data centers nearby, and I want a public capacity study before any new interconnection is approved, along with a guarantee that residential ratepayers won't be subsidizing infrastructure built for this one company. On noise and property values, this county's neighborhoods weren't planned around industrial infrastructure, and any approval needs binding noise limits and a real look at value impacts on nearby homes.</p>
+<p>Relevant statutes: Code of Virginia &sect; 15.2-2280 (zoning ordinance authority) and Code of Virginia &sect; 62.1-44.15 (State Water Control Law).</p>
+<p>Please require full independent studies and public disclosure before any action.</p>
+<p>Respectfully,<br>Rosanne B.<br>Stafford County, Virginia</p></div></div>
+  <div class="ta-mail ta-mail-in"><div class="ta-mail-meta"><span class="ta-avatar ta-avatar-gov">D</span><div><b>Reply from Deuntay T. Diggs</b><span>Chairman, Stafford County Board of Supervisors</span></div></div><div class="ta-mail-body"><p>Dear Ms. B.,</p>
+<p>Thank you for taking the time to share your concerns. Many of the issues you identified, water usage, electrical infrastructure, noise, impacts on surrounding properties, and appropriate siting, are exactly why Stafford County has taken a much more restrictive approach to data centers than many other Northern Virginia localities.</p>
+<p>I also want to emphasize that Stafford has the benefit of learning from what has occurred elsewhere in Northern Virginia. We do not have to repeat the mistakes of jurisdictions that experienced rapid data center development before fully understanding the cumulative impacts.</p>
+<p>That is why I have consistently supported strong setbacks, noise protections, careful consideration of water resources and infrastructure, and locating these facilities only where they are compatible with surrounding communities. I believe economic development and protection of our residents can and must occur together.</p>
+<p>I appreciate your specific requests regarding hydrology, grid capacity, residential rate impacts, noise, and property values. I will make sure these concerns remain part of the discussion as proposals are evaluated.</p>
+<p>My goal is not to make Stafford the next Loudoun or Prince William County. It is to learn from their experiences and determine whether Stafford can capture appropriate commercial investment while protecting the character, resources, and residents of our county.</p>
+<p>Thank you again for engaging with the Board and for providing thoughtful, specific concerns for us to consider.</p>
+<p>Respectfully,<br>Deuntay T. Diggs, MPA<br>Stafford County Chairman<br>George Washington District</p></div></div>
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <p class="ta-proof-note">The resident's full name and street address are withheld. The Chairman is a public official replying in his official capacity. Both are shown as sent.</p>
+    </div>
+  </div>
+</div>
+
+<section class="ta-form-section" id="form">
+    <div class="wrap">
+        <div class="ta-form-grid">
+            <div class="ta-form">
+                <div class="ta-form-title">Send your letters — $9 each</div>
+
+                <div class="ta-form-row">
+                <div class="ta-field">
+                    <label class="ta-label" for="ta-name">Your full name</label>
+                    <input type="text" id="ta-name" class="ta-input" placeholder="Jane Smith" required>
+                </div>
+                <div class="ta-field">
+                    <label class="ta-label" for="ta-email">Your email</label>
+                    <input type="email" id="ta-email" class="ta-input" placeholder="jane@email.com" required>
+                </div>
+                </div>
+                <div class="ta-form-row ta-form-row-addr">
+                <div class="ta-field">
+                    <label class="ta-label" for="ta-address" id="ta-address-label">Your street address</label>
+                    <input type="text" id="ta-address" class="ta-input" placeholder="123 Main St, Anytown, USA" required>
+                </div>
+                <div class="ta-field" id="ta-zip-field">
+                    <label class="ta-label" for="ta-zip">Your ZIP code</label>
+                    <input type="text" id="ta-zip" class="ta-input" placeholder="e.g. 33401" inputmode="numeric" maxlength="5" autocomplete="postal-code" required>
+                    <div class="ta-zip-resolved" id="ta-zip-resolved"></div>
+                    <div class="ta-zip-note" id="ta-zip-note">Finds your county.</div>
+                </div>
+                </div>
+
+                <div class="ta-zip-fallback" id="ta-zip-fallback">
+                <div class="ta-field">
+                    <label class="ta-label" for="ta-state">Your state</label>
+                    <select id="ta-state" class="ta-select">
+                        <option value="">Select your state</option>
+                        <option value="Alabama">Alabama</option><option value="Alaska">Alaska</option><option value="Arizona">Arizona</option><option value="Arkansas">Arkansas</option><option value="California">California</option><option value="Colorado">Colorado</option><option value="Connecticut">Connecticut</option><option value="Delaware">Delaware</option><option value="Florida">Florida</option><option value="Georgia">Georgia</option><option value="Hawaii">Hawaii</option><option value="Idaho">Idaho</option><option value="Illinois">Illinois</option><option value="Indiana">Indiana</option><option value="Iowa">Iowa</option><option value="Kansas">Kansas</option><option value="Kentucky">Kentucky</option><option value="Louisiana">Louisiana</option><option value="Maine">Maine</option><option value="Maryland">Maryland</option><option value="Massachusetts">Massachusetts</option><option value="Michigan">Michigan</option><option value="Minnesota">Minnesota</option><option value="Mississippi">Mississippi</option><option value="Missouri">Missouri</option><option value="Montana">Montana</option><option value="Nebraska">Nebraska</option><option value="Nevada">Nevada</option><option value="New Hampshire">New Hampshire</option><option value="New Jersey">New Jersey</option><option value="New Mexico">New Mexico</option><option value="New York">New York</option><option value="North Carolina">North Carolina</option><option value="North Dakota">North Dakota</option><option value="Ohio">Ohio</option><option value="Oklahoma">Oklahoma</option><option value="Oregon">Oregon</option><option value="Pennsylvania">Pennsylvania</option><option value="Rhode Island">Rhode Island</option><option value="South Carolina">South Carolina</option><option value="South Dakota">South Dakota</option><option value="Tennessee">Tennessee</option><option value="Texas">Texas</option><option value="Utah">Utah</option><option value="Vermont">Vermont</option><option value="Virginia">Virginia</option><option value="Washington">Washington</option><option value="West Virginia">West Virginia</option><option value="Wisconsin">Wisconsin</option><option value="Wyoming">Wyoming</option>
+                    </select>
+                </div>
+                <div class="ta-field">
+                    <label class="ta-label" for="ta-county">Your county</label>
+                    <input type="text" id="ta-county" class="ta-input" placeholder="e.g. Your County">
+                </div>
+                </div><!-- /.ta-zip-fallback -->
+                <div class="ta-field">
+                    <label class="ta-label">What concerns you most?</label>
+                    <div class="ta-concerns">
+                        <label class="ta-concern"><input type="checkbox" name="concern" value="Property value"><span class="ta-concern-box"></span><span class="ta-concern-txt">Property</span></label>
+                        <label class="ta-concern"><input type="checkbox" name="concern" value="Water supply"><span class="ta-concern-box"></span><span class="ta-concern-txt">Water</span></label>
+                        <label class="ta-concern"><input type="checkbox" name="concern" value="Noise"><span class="ta-concern-box"></span><span class="ta-concern-txt">Noise</span></label>
+                        <label class="ta-concern"><input type="checkbox" name="concern" value="Health"><span class="ta-concern-box"></span><span class="ta-concern-txt">Health</span></label>
+                        <label class="ta-concern"><input type="checkbox" name="concern" value="Electric grid"><span class="ta-concern-box"></span><span class="ta-concern-txt">Power</span></label>
+                        <label class="ta-concern"><input type="checkbox" name="concern" value="Transparency"><span class="ta-concern-box"></span><span class="ta-concern-txt">Transparency</span></label>
+                        <label class="ta-concern"><input type="checkbox" name="concern" value="Environment"><span class="ta-concern-box"></span><span class="ta-concern-txt">Environment</span></label>
+                        <label class="ta-concern"><input type="checkbox" name="concern" value="Traffic"><span class="ta-concern-box"></span><span class="ta-concern-txt">Traffic</span></label>
+                        <label class="ta-concern"><input type="checkbox" name="concern" value="Other" id="ta-concern-other-cb"><span class="ta-concern-box"></span><span class="ta-concern-txt">Other</span></label>
+                    </div>
+                    <input type="text" id="ta-concern-other" class="ta-input ta-other-input" placeholder="What else worries you?" maxlength="120">
+                </div>
+
+                <div class="ta-field">
+                    <label class="ta-label" id="ta-qty-label">How many letters?</label>
+
+                    <div class="ta-presets" id="ta-presets-once">
+                        <button type="button" class="ta-preset-btn active" data-qty="1">1</button>
+                        <button type="button" class="ta-preset-btn" data-qty="3">3</button>
+                        <button type="button" class="ta-preset-btn" data-qty="5"><span class="ta-preset-badge">Popular</span>5</button>
+                        <button type="button" class="ta-preset-btn" data-qty="10"><span class="ta-preset-badge">Family</span>10</button>
+                        <button type="button" class="ta-preset-btn" data-qty="25"><span class="ta-preset-badge">Group</span>25</button>
+                        <button type="button" class="ta-preset-btn" data-qty="50"><span class="ta-preset-badge ta-preset-badge-long">Community</span>50</button>
+                    </div>
+
+                    <div class="ta-qty-row">
+                        <div class="ta-qty-stepper">
+                            <button type="button" class="ta-qty-btn" id="ta-qty-minus" aria-label="Fewer letters">&minus;</button>
+                            <div class="ta-qty-val" id="ta-qty-val">1</div>
+                            <button type="button" class="ta-qty-btn" id="ta-qty-plus" aria-label="More letters">+</button>
+                        </div>
+                        <span class="ta-qty-hint">Or enter your amount</span>
+                    </div>
+
+                    <div class="ta-qty-total" id="ta-total" style="margin-top:14px;"></div>
+                    <div class="ta-group-note" id="ta-group-note"><strong>10+ letters? You get a share link.</strong> Neighbors add their own names — every letter comes from a different resident.</div>
+                    <div id="ta-free-tag-row" style="display:none;margin-top:8px;"><span class="ta-free-tag" style="display:inline-block;">1st letter free</span></div>
+
+                    <div class="ta-error" id="ta-error"></div>
+                    <button type="button" class="ta-submit" id="ta-btn">Send 1 Letter — $9 &rarr;</button>
+                    
+                <div style="margin-top: 12px; text-align:center; font-size: 0.82rem; color: var(--ink-soft); line-height: 1.45;" id="ta-mode-copy">Commissioners count emails. One letter says you're concerned. Five letters says you're not dropping this until they listen.</div>
+                <div class="ta-submit-note ta-ref-note"></div>
+                <ul class="ta-trust" aria-label="Payment, delivery and privacy">
+                    <li><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="11" width="16" height="10" rx="2"/><path d="M8 11V7a4 4 0 0 1 8 0v4"/></svg>Secure payment via Stripe</li>
+                    <li><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>Sent in 24 hours</li>
+                    <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l7 3v6c0 4.5-3 7.5-7 9-4-1.5-7-4.5-7-9V6z"/><path d="M9 12l2 2 4-4"/></svg>Never sold or shared &middot; <a href="/privacy">Privacy</a></li>
+                </ul>
+                    
+                </div>
+            </div>
+        <div class="ta-reviews" aria-label="Reviews from people who sent letters">
+                <div class="ta-reviews-head">
+                    <h2>What people said after their letters went out.</h2>
+                </div>
+                <div class="ta-review-grid">
+                    <article class="ta-review">
+                        <div class="ta-stars" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
+                        <p>&ldquo;These were incredibly well researched and written. Worth every penny!&rdquo;</p>
+                        <footer><span class="ta-review-avatar">E</span><div><b>Emma</b><span>Arlington Heights, Illinois &middot; 3 letters</span></div></footer>
+                    </article>
+                    <article class="ta-review">
+                        <div class="ta-stars" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
+                        <p>&ldquo;Wow!! This exceeded my expectations. Thank you very much. I'm going to share your site with as many people as I can.&rdquo;</p>
+                        <footer><span class="ta-review-avatar">D</span><div><b>Diandra</b><span>Union County, Pennsylvania &middot; 1 letter</span></div></footer>
+                    </article>
+                    <article class="ta-review">
+                        <div class="ta-stars" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
+                        <p>&ldquo;These are incredible letters. Detailed, strong and so very well written. Awesome work.&rdquo;</p>
+                        <footer><span class="ta-review-avatar">A</span><div><b>Andrea</b><span>Blount County, Tennessee &middot; 11 letters</span></div></footer>
+                    </article>
+                </div>
+                <p class="ta-reviews-note">Real emails from real customers, first names only.</p>
+            </div>
+</div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="ta-receive">
+    <div class="wrap">
+        <h2 data-intl="What your officials &lt;em&gt;receive.&lt;/em&gt;">What your commissioners <em>receive.</em></h2>
+        <div class="ta-receive-grid">
+            <div class="ta-receive-item">
+                <strong>A letter from a verified, real constituent</strong>
+                <p data-intl="Addressed from your name and your town. Officials can see you are a real resident of the area they answer to. Not anonymous, real opposition on the record.">Addressed from your name and street address. Commissioners can verify you're a real resident in their district. Not anonymous — real opposition on the record.</p>
+            </div>
+            <div class="ta-receive-item">
+                <strong>Your concerns backed by law</strong>
+                <p>Not a generic form letter. Each letter cites the actual project in your area, relevant state and local statutes, environmental data, and the specific concerns you selected.</p>
+            </div>
+            <div class="ta-receive-item">
+                <strong>Delivered to their inbox, not spam</strong>
+                <p data-intl="Sent from our verified domain with authenticated records. Officials actually see it, unlike personal emails that often get filtered or buried.">Sent from our verified domain with authenticated authenticated records. Commissioners actually see it — unlike personal emails that often get filtered or buried.</p>
+            </div>
+            <div class="ta-receive-item">
+                <strong>Permanent public record</strong>
+                <p data-intl="Letters to local officials go on the public record in most places. Your opposition is documented and gets counted when they vote.">Emails to county commissioners are public records in every state. Your opposition is documented permanently and gets counted when they vote.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="ta-faq">
+    <div class="wrap">
+        <h2>Questions.</h2>
+        <div class="ta-faq-item">
+            <div class="ta-faq-q" data-intl="Is it actually sent to my local officials?">Is it actually sent to my commissioners?</div>
+            <div class="ta-faq-a" data-intl="Yes. We look up the officials who decide this where you live, and email each of them. You get a copy of the letter and the addresses it went to.">Yes. We email every county commissioner in your district. You get a copy of the letter and the email addresses it was sent to.</div>
+        </div>
+        <div class="ta-faq-item">
+            <div class="ta-faq-q">Is it a form letter?</div>
+            <div class="ta-faq-a">No. Each letter uses your address, your county's project details, and the concerns you selected.</div>
+        </div>
+        <div class="ta-faq-item">
+            <div class="ta-faq-q">Does this work in my state?</div>
+            <div class="ta-faq-a" data-intl="Yes. Anywhere we track a project. Tell us your town and we look up the officials who decide it, the rules that apply where you are, and the project near you.">Yes. Any county in any state. Enter your ZIP and we find your commissioners, your state's laws, and the project near you.</div>
+        </div>
+        <div class="ta-faq-item">
+            <div class="ta-faq-q">What if my county doesn't have an active project?</div>
+            <div class="ta-faq-a" data-intl="We'll write a preemptive letter asking your local officials to adopt data center development guidelines before a proposal arrives. Getting on record early is the strongest position.">We'll write a preemptive letter asking your commissioners to adopt data center development guidelines before a proposal arrives. Getting on record early is the strongest position.</div>
+        </div>
+        <div class="ta-faq-item">
+            <div class="ta-faq-q">Do I need to show up to a hearing?</div>
+            <div class="ta-faq-a">No. The letter does the work. If you show up too, the written letter is already on the record — it strengthens your position either way.</div>
+        </div>
+        <div class="ta-faq-item">
+            <div class="ta-faq-q">Why $9?</div>
+            <div class="ta-faq-a" data-intl="This site is run by one person. The $9 covers the time to research the officials who decide this where you live, write a personalized letter, and send it. You can send as many as you want, and each one is a separate email hitting their inbox.">This site is run by one person. The $9 covers the time to research your county's commissioners, write a personalized letter, and send it. You can send as many as you want — each one is a separate email hitting their inbox.</div>
+        </div>
+        <div class="ta-faq-item">
+            <div class="ta-faq-q">Why send more than one letter?</div>
+            <div class="ta-faq-a" data-intl="Officials count emails. One letter puts you on record. Multiple letters over time show sustained opposition, the kind that makes them think twice before voting yes.">Commissioners count emails. One letter puts you on record. Multiple letters over time show sustained opposition — the kind that makes them think twice before voting yes. It's the same reason petition campaigns send repeated messages, not one.</div>
+        </div>
+    </div>
+</section>
+
+
+</main>
+<div class="ta-modal" id="ta-modal" aria-hidden="true">
+    <div class="ta-modal-box" role="dialog" aria-labelledby="ta-modal-title">
+        <button type="button" class="ta-modal-x" id="ta-modal-x" aria-label="Close">&times;</button>
+        <div class="ta-modal-title" id="ta-modal-title">One more thing.</div>
+        <div class="ta-modal-sub">This site is run by one person, James Boger. Donations pay for research, outreach, and keeping it online. Want to chip in?</div>
+        <div class="ta-donate-opts">
+            <button type="button" class="ta-donate-btn" data-tip="10">$10</button>
+            <button type="button" class="ta-donate-btn" data-tip="25">$25</button>
+            <button type="button" class="ta-donate-btn" data-tip="50">$50</button>
+            <button type="button" class="ta-donate-btn" data-tip="100">$100</button>
+        </div>
+        <div class="ta-donate-custom" style="margin-top:8px;"><span>$</span><input type="number" id="ta-tip-custom" min="1" max="2000" placeholder="or enter your amount" inputmode="decimal"></div>
+        <div style="display:none">
+        </div>
+        <button type="button" class="ta-submit" id="ta-modal-go" style="margin-top:16px;">Continue to payment &rarr;</button>
+        <button type="button" class="ta-modal-skip" id="ta-modal-skip">No thanks, just the letters</button>
+    </div>
+</div>
+
+
+<footer class="footer" role="contentinfo">
+  <div class="wrap">
+    <div class="footer-top">
+      <div class="footer-lead">
+        <p class="footer-brand">Global Data Centers<span class="dot">.</span></p>
+        <p class="footer-former">Formerly Florida Data Centers</p>
+        <p class="footer-about">Built and run by James Boger, <a href="https://www.instagram.com/jamesdatacenters/" target="_blank" rel="noopener" class="footer-handle">@jamesdatacenters</a>. Every project is reported from public records and local news, cited. Independent: no money from developers, utilities, advocacy groups, or government.</p>
+        <div class="footer-signup">
+          <p class="eyebrow">Alerts · 50,000+ residents subscribed</p>
+          <form action="/api/contact" method="post"><input type="email" name="email" placeholder="your@email.com" required aria-label="Email address"><input type="hidden" name="type" value="newsletter"><button type="submit">Get alerts</button></form>
+          <p class="foot">One email when a filing, vote, tax deal, or deadline hits your area. No spam, unsubscribe anytime.</p>
+          <a class="footer-fb" href="https://www.facebook.com/share/g/1BS4kskLw1/" target="_blank" rel="noopener">Join the Facebook group →</a>
+        </div>
+      </div>
+      <div class="footer-col"><h4>Explore</h4><ul>
+        <li><a href="/">The map</a></li><li><a href="/data-centers/">Data centers by place</a></li><li><a href="/company/">Data centers by company</a></li><li><a href="/#wins">Where communities won</a></li><li><a href="/moratorium">Moratorium tracker</a></li><li><a href="/your-rights">Your rights as a resident</a></li></ul></div>
+      <div class="footer-col"><h4>Act</h4><ul>
+        <li><a href="/take-action">Send an opposition letter</a></li><li><a href="/#check">Check your address</a></li><li><a href="/contact">Report a project · Tip line</a></li><li><a href="/shop">Shop</a></li><li><a href="/support">Support the work</a></li></ul></div>
+      <div class="footer-col"><h4>About</h4><ul>
+        <li><a href="/about">About this site</a></li><li><a href="/sources">Sources &amp; methodology</a></li><li><a href="/#check">How we score risk</a></li><li><a href="/contact">Contact</a></li><li><a href="/press">Press</a></li></ul></div>
+      <div class="footer-col"><h4>Legal</h4><ul>
+        <li><a href="/privacy">Privacy</a></li><li><a href="/terms">Terms of use</a></li><li><a href="/disclaimer">Disclaimer</a></li><li><a href="/corrections">Corrections</a></li><li><a href="/accessibility">Accessibility</a></li></ul></div>
+    </div>
+    <div class="footer-mid">
+      <span><b>Data:</b> public records, agenda packets, and local reporting, cited per project.</span>
+      <span><b>Imagery:</b> Esri, Maxar, Earthstar Geographics &amp; the GIS User Community.</span>
+      <span><b>Geocoding:</b> OpenStreetMap contributors. Addresses are not stored.</span>
+      <div class="footer-social"><a href="https://www.instagram.com/jamesdatacenters/" target="_blank" rel="noopener">Instagram</a><a href="https://www.tiktok.com/@jamesdatacenters" target="_blank" rel="noopener">TikTok</a><a href="https://www.facebook.com/share/g/1BS4kskLw1/" target="_blank" rel="noopener">Facebook group</a><a href="mailto:james@floridadatacenters.org">Email</a></div>
+    </div>
+    <div class="footer-legal">
+      <p>© <span class="js-year">2026</span> Global Data Centers · Independent reporting. Not legal, financial, or environmental advice. Project statuses reflect the latest public record we could verify and may change; see each entry for its sources and date. Product names and marks belong to their owners.</p>
+      <ul><li><a href="/privacy">Privacy</a></li><li><a href="/terms">Terms</a></li><li><a href="/sitemap.xml">Sitemap</a></li></ul>
+    </div>
+  </div>
+</footer>
+<script>(function(){var d=document.getElementById('drawer'),b=document.getElementById('menu-btn');if(!d||!b)return;function set(on){d.classList.toggle('open',on);d.setAttribute('aria-hidden',on?'false':'true');b.setAttribute('aria-expanded',on?'true':'false');document.body.classList.toggle('drawer-open',on);}
+b.addEventListener('click',function(){set(true);});document.getElementById('drawer-close').addEventListener('click',function(){set(false);});document.getElementById('drawer-scrim').addEventListener('click',function(){set(false);});
+d.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){set(false);});});document.addEventListener('keydown',function(e){if(e.key==='Escape')set(false);});})();</script>
+<script>(function(){var dds=[].slice.call(document.querySelectorAll('.nav .dd'));if(!dds.length)return;var t;function closeAll(except){dds.forEach(function(d){if(d!==except){d.classList.remove('open');d.querySelector('.dd-btn').setAttribute('aria-expanded','false');}});}
+function open(d){clearTimeout(t);closeAll(d);d.classList.add('open');d.querySelector('.dd-btn').setAttribute('aria-expanded','true');}
+dds.forEach(function(d){var b=d.querySelector('.dd-btn');d.addEventListener('mouseenter',function(){open(d);});d.addEventListener('mouseleave',function(){clearTimeout(t);t=setTimeout(function(){closeAll();},160);});
+b.addEventListener('click',function(e){e.preventDefault();if(d.classList.contains('open')){closeAll();}else open(d);});
+d.addEventListener('focusin',function(){open(d);});});
+document.addEventListener('click',function(e){if(!e.target.closest('.nav .dd'))closeAll();});document.addEventListener('keydown',function(e){if(e.key==='Escape')closeAll();});})();</script>
+<script>
+(function() {
+    const today = new Date();
+    document.querySelectorAll('.js-date-full').forEach(el => el.textContent = today.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }));
+    document.querySelectorAll('.js-date-long').forEach(el => el.textContent = today.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }));
+    document.querySelectorAll('.js-year').forEach(el => el.textContent = today.getFullYear());
+})();
+
+// Fetch live letter count
+fetch('/api/letter-count').then(r => r.json()).then(d => {
+    const el = document.getElementById('letter-counter');
+    /* same 12,720 offset as the homepage and place pages: letters sent before the live counter started */
+    if (el && d.count) el.textContent = (12720 + Number(d.count)).toLocaleString();
+}).catch(() => {});
+
+// Detect referral
+const refCode = new URLSearchParams(window.location.search).get('ref');
+const isReferral = !!refCode;
+if (isReferral) {
+    document.body.classList.add('is-referral');
+    document.getElementById('ref-banner').classList.add('show');
+}
+
+// Pre-select state when arriving from a map popup (/take-action?state=Georgia).
+// Only sets the value if it exactly matches an existing option, so a bad or
+// tampered param silently falls back to "Select your state".
+(function preselectStateFromUrl() {
+    const wanted = new URLSearchParams(window.location.search).get('state');
+    if (!wanted) return;
+    const select = document.getElementById('ta-state');
+    if (!select) return;
+    const match = Array.from(select.options).find(o => o.value === wanted);
+    if (match) select.value = match.value;
+})();
+
+// ---- state abbr -> full name (for downstream research + emails) ----
+const STATE_ABBR_TO_NAME = { AL:'Alabama',AK:'Alaska',AZ:'Arizona',AR:'Arkansas',CA:'California',CO:'Colorado',CT:'Connecticut',DE:'Delaware',FL:'Florida',GA:'Georgia',HI:'Hawaii',ID:'Idaho',IL:'Illinois',IN:'Indiana',IA:'Iowa',KS:'Kansas',KY:'Kentucky',LA:'Louisiana',ME:'Maine',MD:'Maryland',MA:'Massachusetts',MI:'Michigan',MN:'Minnesota',MS:'Mississippi',MO:'Missouri',MT:'Montana',NE:'Nebraska',NV:'Nevada',NH:'New Hampshire',NJ:'New Jersey',NM:'New Mexico',NY:'New York',NC:'North Carolina',ND:'North Dakota',OH:'Ohio',OK:'Oklahoma',OR:'Oregon',PA:'Pennsylvania',RI:'Rhode Island',SC:'South Carolina',SD:'South Dakota',TN:'Tennessee',TX:'Texas',UT:'Utah',VT:'Vermont',VA:'Virginia',WA:'Washington',WV:'West Virginia',WI:'Wisconsin',WY:'Wyoming',DC:'District of Columbia' };
+
+// ---- ZIP -> county/state lookup (JSON lazy-loaded on first focus) ----
+let zipMap = null, zipLoading = false;
+let resolvedCounty = '', resolvedState = '';
+const zipInput = document.getElementById('ta-zip');
+const zipResolved = document.getElementById('ta-zip-resolved');
+const zipFallback = document.getElementById('ta-zip-fallback');
+const zipNote = document.getElementById('ta-zip-note');
+const stateSelect = document.getElementById('ta-state');
+const countyInput = document.getElementById('ta-county');
+
+function loadZipMap() {
+    if (zipMap || zipLoading) return;
+    zipLoading = true;
+    fetch('/zip-lookup.json').then(r => r.json()).then(d => { zipMap = d; resolveZip(); })
+        .catch(() => { zipLoading = false; showFallback('Could not load ZIP data — enter your state and county below.'); });
+}
+zipInput.addEventListener('focus', loadZipMap);
+
+function showFallback(msg) {
+    zipFallback.classList.add('show');
+    zipResolved.classList.remove('show');
+    if (msg) zipNote.textContent = msg;
+}
+
+function resolveZip() {
+    const z = zipInput.value.trim();
+    resolvedCounty = ''; resolvedState = '';
+    if (!/^\d{5}$/.test(z)) { zipResolved.classList.remove('show'); return; }
+    if (!zipMap) { loadZipMap(); return; }
+    const hit = zipMap[z];
+    if (hit) {
+        const parts = hit.split('|');
+        resolvedCounty = parts[0]; resolvedState = parts[1];
+        zipResolved.textContent = '\u2713 ' + resolvedCounty + ' County, ' + resolvedState;
+        zipResolved.classList.add('show');
+        zipFallback.classList.remove('show');
+        countyInput.value = resolvedCounty;
+        const fullName = STATE_ABBR_TO_NAME[resolvedState];
+        const opt = Array.from(stateSelect.options).find(o => o.value === fullName);
+        if (opt) stateSelect.value = fullName;
+    } else {
+        showFallback('We couldn\'t match that ZIP — enter your state and county below.');
+    }
+}
+zipInput.addEventListener('input', resolveZip);
+
+// ---- outside the United States ----------------------------------------------
+// The form asks for a state, a ZIP and a county because that is how US officials are
+// found. None of that exists in most countries, and the old validation refused to let
+// anyone else through at all. Cloudflare already knows the visitor's country, so we ask
+// it once and, when the answer is not US, swap the three US fields for one plain
+// "town or address". Officials are researched by hand after purchase either way, so
+// nothing downstream needs a county.
+var userCountry = null;          // ISO code once known, null while unknown
+var isIntl = false;              // true only when we are sure it is not the US
+
+function applyIntlWording() {
+    document.querySelectorAll('[data-intl]').forEach(function (el) {
+        if (!el.dataset.usCopy) el.dataset.usCopy = el.innerHTML;
+        el.innerHTML = el.dataset.intl;
+    });
+}
+
+function setInternational(code) {
+    userCountry = code;
+    isIntl = true;
+    document.body.classList.add('is-intl');
+
+    var zipField = document.getElementById('ta-zip-field');
+    if (zipField) zipField.style.display = 'none';
+    zipFallback.classList.remove('show');
+    zipFallback.style.display = 'none';
+
+    // The one field that replaces them.
+    var label = document.getElementById('ta-address-label');
+    if (label) label.textContent = 'Your town or address';
+    var addr = document.getElementById('ta-address');
+    if (addr) addr.placeholder = 'Town, or a street address if you have one';
+
+    // These are only ever read for US orders now, but blank them so a stale value
+    // from an autofill cannot ride along on an international order.
+    zipInput.value = '';
+    countyInput.value = '';
+    stateSelect.value = '';
+
+    applyIntlWording();
+}
+
+// A project page can say where it is, so the field starts filled in.
+(function prefillFromProject() {
+    var q = new URLSearchParams(window.location.search);
+    var town = q.get('town');
+    var addr = document.getElementById('ta-address');
+    if (town && addr && !addr.value) addr.value = town;
+})();
+
+(function detectCountry() {
+    var q = new URLSearchParams(window.location.search);
+    var forced = (q.get('country') || '').toUpperCase();
+    if (/^[A-Z]{2}$/.test(forced)) {          // lets you check either form by hand
+        if (forced !== 'US') setInternational(forced); else userCountry = 'US';
+        return;
+    }
+    fetch('/api/geo', { headers: { 'Accept': 'application/json' } })
+        .then(function (r) { return r.json(); })
+        .then(function (d) {
+            if (!d || !d.country) return;     // unknown stays on the US form
+            userCountry = d.country;
+            if (!d.isUS) setInternational(d.country);
+        })
+        .catch(function () { /* stay on the US form */ });
+})();
+
+// ---- quantity + donation ----
+const PRICE = 9;
+const MAX_QTY = 100;
+const GROUP_LINKS_LIVE = false; // flip to true when /join is built
+const groupNote = document.getElementById('ta-group-note');
+let qty = 1;
+let tip = 0;
+const presetsOnce = document.getElementById('ta-presets-once');
+const qtyVal = document.getElementById('ta-qty-val');
+const qtyMinus = document.getElementById('ta-qty-minus');
+const qtyPlus = document.getElementById('ta-qty-plus');
+const totalEl = document.getElementById('ta-total');
+const freeTagRow = document.getElementById('ta-free-tag-row');
+const btn = document.getElementById('ta-btn');
+const submitNote = document.querySelector('.ta-submit-note');
+const modeCopy = document.getElementById('ta-mode-copy');
+const tipCustom = document.getElementById('ta-tip-custom');
+const tipCustomWrap = tipCustom.parentElement;
+
+function money(n) { return '$' + n.toFixed(2); }
+
+function setActive(container, q) {
+    container.querySelectorAll('.ta-preset-btn').forEach(b => {
+        b.classList.toggle('active', b.dataset.qty === String(q));
+    });
+}
+
+function render() {
+    qtyVal.textContent = qty;
+    groupNote.classList.toggle('show', GROUP_LINKS_LIVE && qty >= 10);
+    qtyMinus.disabled = qty <= 1;
+    qtyPlus.disabled = qty >= MAX_QTY;
+    freeTagRow.style.display = 'none';
+    const paidQty = isReferral ? Math.max(0, qty - 1) : qty;
+    const letters = paidQty * PRICE;
+    const total = letters + tip;
+    const tipNote = '';
+    if (isReferral) {
+        freeTagRow.style.display = 'block';
+        if (qty === 1 && tip === 0) {
+            totalEl.innerHTML = '';
+            btn.textContent = 'Claim Free Letter \u2192';
+            submitNote.textContent = 'No payment required. Letter sent within 24 hours.'; submitNote.classList.add('show');
+            return;
+        }
+        totalEl.innerHTML = '<span style="color:var(--red);">' + money(total) + '</span> total' + tipNote;
+        btn.textContent = 'Send ' + qty + (qty === 1 ? ' Letter' : ' Letters') + ' \u2014 ' + money(total) + ' \u2192';
+        submitNote.textContent = '1 free + ' + paidQty + ' paid. Secure payment via Stripe.'; submitNote.classList.add('show');
+        return;
+    }
+    totalEl.innerHTML = '<span style="color:var(--red);">' + money(total) + '</span> total' + tipNote;
+    btn.textContent = 'Send ' + qty + (qty === 1 ? ' Letter' : ' Letters') + ' \u2014 ' + money(total) + ' \u2192';
+    submitNote.textContent = 'Secure payment via Stripe. Letter sent within 24 hours.';
+}
+
+function setQty(n) {
+    qty = Math.min(MAX_QTY, Math.max(1, parseInt(n) || 1));
+    setActive(presetsOnce, qty);
+    render();
+}
+presetsOnce.querySelectorAll('.ta-preset-btn').forEach(b => b.addEventListener('click', () => setQty(b.dataset.qty)));
+qtyMinus.addEventListener('click', () => setQty(qty - 1));
+qtyPlus.addEventListener('click', () => setQty(qty + 1));
+
+// donation (in modal)
+const modal = document.getElementById('ta-modal');
+const tipBtns = modal.querySelectorAll('.ta-donate-btn');
+function setTip(n, fromCustom) {
+    tip = Math.min(2000, Math.max(0, Math.round((parseFloat(n) || 0) * 100) / 100));
+    tipBtns.forEach(b => b.classList.toggle('active', !fromCustom && parseFloat(b.dataset.tip) === tip));
+    tipCustomWrap.classList.toggle('active', !!fromCustom && tip > 0);
+    if (!fromCustom) tipCustom.value = '';
+    const go = document.getElementById('ta-modal-go');
+    const base = (isReferral ? Math.max(0, qty - 1) : qty) * PRICE;
+    go.textContent = tip > 0 ? 'Continue \u2014 ' + money(base + tip) + ' \u2192' : 'Continue to payment \u2192';
+}
+tipBtns.forEach(b => b.addEventListener('click', () => setTip(b.dataset.tip, false)));
+tipCustom.addEventListener('input', () => setTip(tipCustom.value, true));
+function openModal() { setTip(0, false); modal.classList.add('show'); modal.setAttribute('aria-hidden', 'false'); }
+function closeModal() { modal.classList.remove('show'); modal.setAttribute('aria-hidden', 'true'); }
+document.getElementById('ta-modal-x').addEventListener('click', () => { closeModal(); btn.disabled = false; render(); });
+modal.addEventListener('click', e => { if (e.target === modal) { closeModal(); btn.disabled = false; render(); } });
+document.getElementById('ta-modal-skip').addEventListener('click', () => { setTip(0, false); closeModal(); checkout(); });
+document.getElementById('ta-modal-go').addEventListener('click', () => { closeModal(); checkout(); });
+
+render();
+
+
+// Concerns, with "Other" carrying whatever they typed
+const otherCb = document.getElementById('ta-concern-other-cb'), otherIn = document.getElementById('ta-concern-other');
+function getConcerns() {
+    return Array.from(document.querySelectorAll('input[name="concern"]:checked')).map(c => {
+        if (c.value !== 'Other') return c.value;
+        const t = otherIn.value.trim();
+        return t ? 'Other: ' + t : 'Other';
+    });
+}
+if (otherCb && otherIn) {
+    const otherTxt = otherCb.parentElement.querySelector('.ta-concern-txt');
+    // type it, then it becomes the pill's label
+    function settle() {
+        const t = otherIn.value.trim();
+        if (t) { otherTxt.textContent = t.charAt(0).toUpperCase() + t.slice(1); otherCb.checked = true; otherIn.classList.remove('show'); }
+        else { otherTxt.textContent = 'Other'; }
+    }
+    otherCb.addEventListener('change', () => {
+        if (otherCb.checked) { otherIn.classList.add('show'); otherIn.focus(); }
+        else { otherIn.value = ''; otherTxt.textContent = 'Other'; otherIn.classList.remove('show'); }
+    });
+    otherIn.addEventListener('keydown', e => { if (e.key === 'Enter') { e.preventDefault(); settle(); } });
+    otherIn.addEventListener('blur', settle);
+}
+document.getElementById('ta-btn').addEventListener('click', async function() {
+    const errEl = document.getElementById('ta-error');
+    errEl.classList.remove('show');
+
+    const name = document.getElementById('ta-name').value.trim();
+    const email = document.getElementById('ta-email').value.trim();
+    const address = document.getElementById('ta-address').value.trim();
+    const zip = zipInput.value.trim();
+
+    // Prefer ZIP-resolved county/state; fall back to manual fields
+    const county = resolvedCounty || countyInput.value.trim();
+    const stateName = resolvedState ? (STATE_ABBR_TO_NAME[resolvedState] || resolvedState) : stateSelect.value;
+    const concerns = getConcerns();
+
+    if (!name || !email || !address) {
+        errEl.textContent = 'Please fill in your name, email, and address.';
+        errEl.classList.add('show'); return;
+    }
+    // A county and state are how we find US officials. Outside the US there is
+    // nothing equivalent to ask for, so the town in the address field is enough.
+    if (!isIntl && (!county || !stateName)) {
+        errEl.textContent = 'Enter a valid ZIP, or fill in your state and county below.';
+        errEl.classList.add('show');
+        showFallback();
+        return;
+    }
+    if (concerns.length === 0) {
+        errEl.textContent = 'Please select at least one concern.';
+        errEl.classList.add('show'); return;
+    }
+
+    openModal();
+});
+
+async function checkout() {
+    const errEl = document.getElementById('ta-error');
+    const name = document.getElementById('ta-name').value.trim();
+    const email = document.getElementById('ta-email').value.trim();
+    const address = document.getElementById('ta-address').value.trim();
+    const zip = zipInput.value.trim();
+    const county = resolvedCounty || countyInput.value.trim();
+    const stateName = resolvedState ? (STATE_ABBR_TO_NAME[resolvedState] || resolvedState) : stateSelect.value;
+    const concerns = getConcerns();
+
+    btn.disabled = true;
+    btn.textContent = 'Processing...';
+
+    try {
+        if (isReferral && qty === 1 && tip === 0) {
+            // Free letter only — skip Stripe, hit claim endpoint
+            const res = await fetch('/api/claim-letter', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ name, email, address, state: stateName, county, concerns, code: refCode, country: userCountry })
+            });
+            const data = await res.json();
+            if (res.ok && data.success) { window.location.href = '/take-action-success?free=1&country=' + encodeURIComponent(userCountry || 'US'); }
+            else { errEl.textContent = data.error || 'Something went wrong. Please try again.'; errEl.classList.add('show'); btn.disabled = false; render(); }
+        } else {
+            // One-time paid — full qty (normal) or qty-1 (referral with extras)
+            const chargeQty = isReferral ? qty - 1 : qty;
+            const res = await fetch('/api/take-action', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ name, email, address, state: stateName, county, zip, concerns, quantity: chargeQty, tip, freeFirst: isReferral, country: userCountry })
+            });
+            const data = await res.json();
+            if (!res.ok || !data.redirect) throw new Error(data.error || 'Payment setup failed. Please try again.');
+            if (isReferral) {
+                const claimRes = await fetch('/api/claim-letter', {
+                    method: 'POST', headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ name, email, address, state: stateName, county, concerns, code: refCode, country: userCountry })
+                });
+                const claim = await claimRes.json();
+                if (!claimRes.ok || !claim.success) throw new Error(claim.error || 'Your free letter could not be confirmed. Please try again.');
+            }
+            window.location.href = data.redirect;
+        }
+    } catch (e) {
+        errEl.textContent = e.message || 'Something went wrong. Please try again.';
+        errEl.classList.add('show'); btn.disabled = false; render();
+    }
+}
+</script>
+<script>(function(){var m=document.getElementById('ta-proof');if(!m)return;
+var tabs=m.querySelectorAll('.ta-proof-tabs button'),pairs=m.querySelectorAll('.ta-pair');document.querySelectorAll('.ta-reply-link[data-pair]').forEach(function(b){b.addEventListener('click',function(){open();show(b.dataset.pair);});});
+function show(id){tabs.forEach(function(t){t.classList.toggle('active',t.dataset.pair===id);});pairs.forEach(function(p){p.classList.toggle('active',p.id===id);});m.querySelector('.ta-proof-body').scrollTop=0;}
+function open(){m.classList.add('show');m.setAttribute('aria-hidden','false');document.body.classList.add('ta-proof-open');show('p-stafford');}
+function close(){m.classList.remove('show');m.setAttribute('aria-hidden','true');document.body.classList.remove('ta-proof-open');}
+document.getElementById('ta-proof-x').addEventListener('click',close);document.getElementById('ta-proof-scrim').addEventListener('click',close);
+tabs.forEach(function(t){t.addEventListener('click',function(){show(t.dataset.pair);});});document.addEventListener('keydown',function(e){if(e.key==='Escape')close();});})();</script>
+
+
+
+
+
+
+<script>/* Once the Stafford reply stacks under the headline (960px and narrower) it pushed the form two screens down;
+   there it moves below the reviews, and goes back beside the headline when the screen is wide again. */
+(function(){var card=document.querySelector('.ta-reply-card'),reviews=document.querySelector('.ta-reviews');if(!card||!reviews)return;
+var home=card.parentNode,next=card.nextElementSibling,mq=window.matchMedia('(max-width:960px)');
+function place(){if(mq.matches){if(card.previousElementSibling!==reviews)reviews.parentNode.insertBefore(card,reviews.nextSibling);}else if(card.parentNode!==home)home.insertBefore(card,next);}
+place();mq.addEventListener?mq.addEventListener('change',place):mq.addListener(place);})();</script>
+</body>
+</html>

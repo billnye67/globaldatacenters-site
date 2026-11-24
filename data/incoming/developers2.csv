@@ -1,0 +1,20 @@
+project_name;developer_or_owner;tenant;city;state_or_region;country;address;latitude;longitude;capacity_mw;site_size;status;year_announced;year_operating_or_planned;note;source_url
+CyrusOne Chandler (Phoenix Campus);CyrusOne;hyperscale;Chandler;Arizona;United States;2335 S Ellis St, Chandler, AZ 85286;;;;;operating;;;Eight buildings on South Ellis St;https://www.datacentermap.com/c/cyrusone/datacenters
+CyrusOne Yorkville;CyrusOne;hyperscale;Yorkville;Illinois;United States;Eldamain Rd & Faxon Rd, Yorkville, IL 60560;;;;;proposed;;;Nine-building campus;https://www.datacentermap.com/c/cyrusone/datacenters
+CyrusOne Talkington Township (Sangamon);CyrusOne;hyperscale;Waverly;Illinois;United States;Thayer Rd & Clark Rd, Waverly, IL 62692;;;;280 acres;approved;2026;;$500M, four buildings, county approved April 2026;https://baxtel.com/data-center/cyrusone-cincinnati-blue-ash
+CyrusOne Council Bluffs (OCB1);CyrusOne;hyperscale;Council Bluffs;Iowa;United States;4700 Gifford Rd, Council Bluffs, IA 51501;;;;;operating;;;;https://www.datacentermap.com/c/cyrusone/datacenters
+CyrusOne Whitney (Hill County);CyrusOne;hyperscale;Whitney;Texas;United States;557 County Rd 3610, Whitney, TX 76692;;;;;under construction;;;Five buildings;https://www.datacentermap.com/c/cyrusone/datacenters
+CyrusOne Allen;CyrusOne;hyperscale;Allen;Texas;United States;2300 Chelsea Blvd, Allen, TX 75013;;;;;operating;;;;https://www.datacentermap.com/c/cyrusone/datacenters
+CyrusOne Fort Worth (DFW7);CyrusOne;hyperscale;Fort Worth;Texas;United States;Asphalt Dr, Fort Worth, TX;;;;200;;under construction;2025;;70MW first phase broke ground 2025, 200MW campus;https://www.datacentermap.com/c/cyrusone/datacenters
+CyrusOne San Antonio (Omicron);CyrusOne;hyperscale;San Antonio;Texas;United States;14719 Omicron Dr, San Antonio, TX 78245;;;;;operating;;;;https://www.datacentermap.com/c/cyrusone/datacenters
+CyrusOne San Antonio (Westover Hills);CyrusOne;hyperscale;San Antonio;Texas;United States;9554 Westover Hills Blvd, San Antonio, TX 78251;;;;;operating;;;;https://www.datacentermap.com/c/cyrusone/datacenters
+CyrusOne Broadlands (Ashburn);CyrusOne;hyperscale;Ashburn;Virginia;United States;Education Ct & Broadlands Blvd, Ashburn, VA 20148;;;;;operating;;;Four buildings;https://www.datacentermap.com/c/cyrusone/datacenters
+CyrusOne Sterling (Ridgetop);CyrusOne;hyperscale;Sterling;Virginia;United States;21111 Ridgetop Cir, Sterling, VA 20166;;;;;operating;;;;https://www.datacentermap.com/c/cyrusone/datacenters
+CyrusOne Quincy (PNW1);CyrusOne;hyperscale;Quincy;Washington;United States;1025 D St NW, Quincy, WA 98848;;;;;operating;;;;https://www.datacentermap.com/c/cyrusone/datacenters
+CyrusOne Frankfurt (Wilhelm-Fay);CyrusOne;hyperscale;Frankfurt;Hesse;Germany;Wilhelm-Fay-Strasse 45, Frankfurt, Germany;;;;;operating;;;Seven Frankfurt buildings;https://www.datacentermap.com/c/cyrusone/datacenters
+CyrusOne Iver Heath (LON6);CyrusOne;hyperscale;Iver Heath;Buckinghamshire;United Kingdom;Dromenagh Farm, Seven Hills Rd, Iver Heath, UK;;;;90;;proposed;2025;;90MW London-area campus;https://www.datacentermap.com/c/cyrusone/datacenters
+CyrusOne Dublin (DUB1);CyrusOne;hyperscale;Dublin;Leinster;Ireland;Grange Castle Business Park South, Dublin, Ireland;;;;;operating;;;;https://www.datacentermap.com/c/cyrusone/datacenters
+CyrusOne Milan (MIL1);CyrusOne;hyperscale;Milan;Lombardy;Italy;Via Reggio Emilia 39, Milan, Italy;;;;;under construction;2026;;Broke ground March 2026;https://www.datacentermap.com/c/cyrusone/datacenters
+CyrusOne Halfweg (AMS1);CyrusOne;hyperscale;Halfweg;North Holland;Netherlands;Linieweg 1, Halfweg, Netherlands;;;;;operating;;;;https://www.datacentermap.com/c/cyrusone/datacenters
+CloudHQ Manassas (MCC1/MCC2);CloudHQ;hyperscale;Manassas;Virginia;United States;9651 Hornbaker Rd, Manassas, VA 20109;;;;;operating;;;;https://www.cloudhq.com/data-centers/
+CloudHQ Ashburn (LC1);CloudHQ;hyperscale;Ashburn;Virginia;United States;44001 Loudoun Water Way, Ashburn, VA 20147;;;;;operating;;;;https://www.cloudhq.com/data-centers/

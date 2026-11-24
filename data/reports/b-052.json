@@ -1,0 +1,750 @@
+[
+ {
+  "id": "ft-1776267030921-7400",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Coachella, in Riverside County, California, said no, and it took about a week.",
+    "src": "https://kesq.com/news/2026/05/27/coachella-seeks-moratorium-on-data-centers-projects-after-hundreds-protest-during-meeting/"
+   },
+   {
+    "para": 0,
+    "t": "Stronghold Power Systems Inc. had proposed the Coachella Valley Technology Campus, six data centers on up to 450 acres of farmland near Avenue 52 and Fillmore Street, with a fire station included.",
+    "src": "https://kesq.com/news/2026/05/27/coachella-seeks-moratorium-on-data-centers-projects-after-hundreds-protest-during-meeting/"
+   },
+   {
+    "para": 0,
+    "t": "The first phase alone was three buildings of roughly a million square feet each, each needing up to 90 megawatts.",
+    "src": "https://kvcr.org/news/local/2026-06-06/coachella-council-approves-data-center-moratorium-directs-staff-to-draft-ban"
+   },
+   {
+    "para": 1,
+    "t": "Hundreds of people turned up to the council meeting on Wednesday 27 May 2026.",
+    "src": "https://kesq.com/news/2026/05/27/coachella-seeks-moratorium-on-data-centers-projects-after-hundreds-protest-during-meeting/"
+   },
+   {
+    "para": 1,
+    "t": "Coachella resident Stephanie Ambriz told the council: \"We will not take no for an answer. We will recall city council members if we have to.\"",
+    "src": "https://kesq.com/news/2026/05/27/coachella-seeks-moratorium-on-data-centers-projects-after-hundreds-protest-during-meeting/"
+   },
+   {
+    "para": 1,
+    "t": "Alex Rodriguez, a government affairs adviser for Stronghold, allowed that \"There have been some data centers throughout the country that have been, you know, nuisances, to say the least,\" and said this one was different because it was in California.",
+    "src": "https://kesq.com/news/2026/05/27/coachella-seeks-moratorium-on-data-centers-projects-after-hundreds-protest-during-meeting/"
+   },
+   {
+    "para": 1,
+    "t": "He also argued that \"There is a requirement for a large load to be brought in, and the data center fits perfectly with that.\"",
+    "src": "https://kesq.com/news/2026/05/27/coachella-seeks-moratorium-on-data-centers-projects-after-hundreds-protest-during-meeting/"
+   },
+   {
+    "para": 1,
+    "t": "Residents raised air, noise and water pollution, and Elizabeth Humphreys, from neighbouring Indio, questioned whether firm rules were in place at all, pointing to AB 93, a bill that would have required data centers to report their actual water use and which Governor Newsom vetoed.",
+    "src": "https://kesq.com/news/2026/05/27/coachella-seeks-moratorium-on-data-centers-projects-after-hundreds-protest-during-meeting/"
+   },
+   {
+    "para": 2,
+    "t": "The council told staff to draft a moratorium and set a special meeting for Thursday 4 June.",
+    "src": "https://kesq.com/news/2026/05/27/coachella-seeks-moratorium-on-data-centers-projects-after-hundreds-protest-during-meeting/"
+   },
+   {
+    "para": 2,
+    "t": "At that meeting the council passed a 45 day moratorium on new data center development, then voted to terminate the municipal utility development agreement it had approved with Stronghold in February.",
+    "src": "https://kvcr.org/news/local/2026-06-06/coachella-council-approves-data-center-moratorium-directs-staff-to-draft-ban"
+   },
+   {
+    "para": 2,
+    "t": "Mayor Frank Figueroa told staff to come back during the moratorium with language for a permanent ban: \"We've heard people. They want the 45-day urgency ordinance that initiates the moratorium, but also they want the long-term ban.\"",
+    "src": "https://kvcr.org/news/local/2026-06-06/coachella-council-approves-data-center-moratorium-directs-staff-to-draft-ban"
+   },
+   {
+    "para": 2,
+    "t": "Councilwoman Denise Delgado said: \"We know you're hurt, we know you're angry, we know you're disappointed, and you have every right to be.\"",
+    "src": "https://kvcr.org/news/local/2026-06-06/coachella-council-approves-data-center-moratorium-directs-staff-to-draft-ban"
+   },
+   {
+    "para": 2,
+    "t": "Resident Maria Duarte put it shorter: \"We don't want our prices to go up. We don't want our water contaminated.\"",
+    "src": "https://kvcr.org/news/local/2026-06-06/coachella-council-approves-data-center-moratorium-directs-staff-to-draft-ban"
+   },
+   {
+    "para": 3,
+    "t": "A ban has been in force in Coachella since 13 August 2026, and a moratorium in Indio since 24 July 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The site's grid is the Imperial Irrigation District, with a peak load of 1,123 megawatts; the first phase of the campus alone was to draw up to 270.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generation is the 74 megawatt Coachella gas plant, 4 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://kesq.com/news/2026/05/27/coachella-seeks-moratorium-on-data-centers-projects-after-hundreds-protest-during-meeting/",
+   "https://kvcr.org/news/local/2026-06-06/coachella-council-approves-data-center-moratorium-directs-staff-to-draft-ban"
+  ],
+  "unconfirmed": "No vote count was reported for either the moratorium or the termination of the Stronghold agreement. Our record puts the project at 240 acres and 600 megawatts where the local reporting gives up to 450 acres and six buildings of up to 90 megawatts each; I could not settle either figure. The Business Insider article cited in our record could not be fetched, and neither could a text of the August 2026 ban itself. Whether Stronghold has appealed or refiled is not established."
+ },
+ {
+  "id": "ft-36",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Nothing has been proposed here by a developer. The land was offered by the Air Force.",
+    "src": "https://www.kold.com/2025/10/22/data-center-possible-davis-monthan/"
+   },
+   {
+    "para": 0,
+    "t": "In October 2025 the Air Force issued a request for lease proposals for artificial intelligence data centers on five installations, and Edwards Air Force Base, in Kern County, California, was one of them, alongside Davis-Monthan in Arizona, Arnold in Tennessee, Joint Base McGuire-Dix-Lakehurst in New Jersey and Robins in Georgia.",
+    "src": "https://www.kold.com/2025/10/22/data-center-possible-davis-monthan/"
+   },
+   {
+    "para": 0,
+    "t": "Any bid had to add more than 100 megawatts of demand and involve at least $500 million of capital investment, and proposals were due by 14 November.",
+    "src": "https://www.kold.com/2025/10/22/data-center-possible-davis-monthan/"
+   },
+   {
+    "para": 1,
+    "t": "Whatever is built would sit in a part of the Mojave already given over to generation.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "Four units of the Edwards Sanborn solar project, together about 900 megawatts, lie within 18 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "No other data center project is recorded within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "No town or county within reach has paused data center applications.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.kold.com/2025/10/22/data-center-possible-davis-monthan/"
+  ],
+  "unconfirmed": "Nothing specific to Edwards was found: no acreage, no location on the base beyond the North Lancaster Boulevard address in our record, no megawatt figure, no bidder and no award. The Data Center Dynamics article cited in our record returned 403, and the only reachable account of the Air Force solicitation was a Tucson station's report on the Davis-Monthan site, which names Edwards only in passing. Whether anyone bid by the 14 November deadline is not established. Our record's status of proposed is stronger than the reporting supports, which is an open solicitation."
+ },
+ {
+  "id": "ft-1787747578563-7945",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A 150 megawatt data center is planned inside a much larger industrial park in northeast Fairfield, in Solano County, California, on land between Vanden Road and North Gate Road.",
+    "src": "https://www.vallejosun.com/developers-planning-data-center-for-fairfield-industrial-park/"
+   },
+   {
+    "para": 0,
+    "t": "The developer is Canon Partners, controlled by Andrews Lando & Associates and Stroud Properties.",
+    "src": "https://www.vallejosun.com/developers-planning-data-center-for-fairfield-industrial-park/"
+   },
+   {
+    "para": 0,
+    "t": "The campus covers 300 acres and 4.6 million square feet, and the data center is described as having room to expand beyond 150 megawatts.",
+    "src": "https://www.vallejosun.com/developers-planning-data-center-for-fairfield-industrial-park/"
+   },
+   {
+    "para": 1,
+    "t": "The permissions are largely already in place.",
+    "src": "https://www.vallejosun.com/developers-planning-data-center-for-fairfield-industrial-park/"
+   },
+   {
+    "para": 1,
+    "t": "The Fairfield Planning Commission approved a master development permit for the park in 2023, before the data center was part of the picture.",
+    "src": "https://www.vallejosun.com/developers-planning-data-center-for-fairfield-industrial-park/"
+   },
+   {
+    "para": 1,
+    "t": "PG&E began an engineering study in the third quarter of 2025 and issued an engineering agreement in December 2025, and is still working out what the power infrastructure would cost.",
+    "src": "https://www.vallejosun.com/developers-planning-data-center-for-fairfield-industrial-park/"
+   },
+   {
+    "para": 2,
+    "t": "Bill Way, a spokesperson for Fairfield, said the city would supply water at its normal rates, and that the wastewater system has a million gallons a day of spare capacity.",
+    "src": "https://www.vallejosun.com/developers-planning-data-center-for-fairfield-industrial-park/"
+   },
+   {
+    "para": 2,
+    "t": "The real estate firm Jones Lang LaSalle circulated the investor presentation the report was based on and did not respond to questions about it.",
+    "src": "https://www.vallejosun.com/developers-planning-data-center-for-fairfield-industrial-park/"
+   },
+   {
+    "para": 3,
+    "t": "No organised local opposition to this project was reported, though Solano County residents have pressed for higher tax rates on data centers, and residents of Pittsburg organised against a 99 megawatt data center approved there in 2024.",
+    "src": "https://www.vallejosun.com/developers-planning-data-center-for-fairfield-industrial-park/"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generation is wind: four units of the Shiloh wind project, about 500 megawatts between them, from 16 to 21 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.vallejosun.com/developers-planning-data-center-for-fairfield-industrial-park/"
+  ],
+  "unconfirmed": "No tenant is named. The water demand of the data center itself was not given, only the city's general capacity. Whether the data center needs any further permit beyond the 2023 master development permit is not established, and no public hearing on it was found. The DocumentCloud file cited in our record was not retrieved. Our record's 300 acre figure is the whole industrial park, not the data center footprint."
+ },
+ {
+  "id": "ft-1768323204639-1816",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The argument in Imperial County is not really about the data center. It is about whether anyone gets to study it first.",
+    "src": "https://www.kpbs.org/news/environment/2026/01/21/the-plan-to-build-a-massive-data-center-in-imperial-county-without-environmental-review"
+   },
+   {
+    "para": 0,
+    "t": "Sebastian Rucci, a Huntington Beach lawyer and businessman, is developing the project through Imperial Valley Computer Manufacturing, a company filed in September 2024, with a partner named Hector Casas.",
+    "src": "https://www.kpbs.org/news/environment/2026/01/21/the-plan-to-build-a-massive-data-center-in-imperial-county-without-environmental-review"
+   },
+   {
+    "para": 0,
+    "t": "The plan is about a million square feet on a 75 acre plot made from five merged parcels, at a cost of $10 billion.",
+    "src": "https://www.kpbs.org/news/environment/2026/01/21/the-plan-to-build-a-massive-data-center-in-imperial-county-without-environmental-review"
+   },
+   {
+    "para": 1,
+    "t": "Rucci structured it as a ministerial project, a planning category in which officials cannot refuse approval once the technical requirements are met, and which is normally exempt from review under the California Environmental Quality Act.",
+    "src": "https://www.kpbs.org/news/environment/2026/01/21/the-plan-to-build-a-massive-data-center-in-imperial-county-without-environmental-review"
+   },
+   {
+    "para": 1,
+    "t": "He also claimed a second exemption, under a June 2024 state law excusing advanced manufacturing facilities from environmental review on industrially zoned land.",
+    "src": "https://www.kpbs.org/news/environment/2026/01/21/the-plan-to-build-a-massive-data-center-in-imperial-county-without-environmental-review"
+   },
+   {
+    "para": 1,
+    "t": "Asked about it, Rucci said: \"That is not sneaky. That's just smart.\"",
+    "src": "https://www.kpbs.org/news/environment/2026/01/21/the-plan-to-build-a-massive-data-center-in-imperial-county-without-environmental-review"
+   },
+   {
+    "para": 2,
+    "t": "Rucci has declined to confirm the customer publicly, but referred to Google as the potential tenant in emails and internal memos.",
+    "src": "https://www.kpbs.org/news/environment/2026/01/21/the-plan-to-build-a-massive-data-center-in-imperial-county-without-environmental-review"
+   },
+   {
+    "para": 2,
+    "t": "Google did not respond to requests for comment.",
+    "src": "https://www.kpbs.org/news/environment/2026/01/21/the-plan-to-build-a-massive-data-center-in-imperial-county-without-environmental-review"
+   },
+   {
+    "para": 3,
+    "t": "The numbers are why people are worried.",
+    "src": "https://www.kpbs.org/news/environment/2026/04/07/imperial-county-supervisors-clear-path-for-massive-data-center-complex-amid-fierce-opposition"
+   },
+   {
+    "para": 3,
+    "t": "The campus would use about 750,000 gallons of water a day, and could draw close to double the electricity Imperial County used in all of 2024.",
+    "src": "https://www.kpbs.org/news/environment/2026/04/07/imperial-county-supervisors-clear-path-for-massive-data-center-complex-amid-fierce-opposition"
+   },
+   {
+    "para": 3,
+    "t": "The plan includes its own substation, a large battery system and natural gas generators.",
+    "src": "https://www.kpbs.org/news/environment/2026/04/07/imperial-county-supervisors-clear-path-for-massive-data-center-complex-amid-fierce-opposition"
+   },
+   {
+    "para": 3,
+    "t": "Robert Schettler, a spokesperson for the Imperial Irrigation District, wrote that \"While studies are still underway, IID can say that its current infrastructure would not be sufficient to serve an increase in load of this magnitude.\"",
+    "src": "https://www.kpbs.org/news/environment/2026/01/21/the-plan-to-build-a-massive-data-center-in-imperial-county-without-environmental-review"
+   },
+   {
+    "para": 4,
+    "t": "The county planning commission rejected the lot merger on 18 December 2025 and Rucci appealed to the Board of Supervisors.",
+    "src": "https://www.kpbs.org/news/environment/2026/01/21/the-plan-to-build-a-massive-data-center-in-imperial-county-without-environmental-review"
+   },
+   {
+    "para": 4,
+    "t": "The city of Imperial sued the county in December 2025 seeking a fuller environmental analysis, and its emergency application to stop the supervisors voting was refused.",
+    "src": "https://www.kpbs.org/news/environment/2026/04/07/imperial-county-supervisors-clear-path-for-massive-data-center-complex-amid-fierce-opposition"
+   },
+   {
+    "para": 4,
+    "t": "On 7 April 2026 the supervisors approved the lot merger 4 to 1.",
+    "src": "https://www.kpbs.org/news/environment/2026/04/07/imperial-county-supervisors-clear-path-for-massive-data-center-complex-amid-fierce-opposition"
+   },
+   {
+    "para": 4,
+    "t": "John Hawk, Peggy Price, Jesus Eduardo Escobar and Ryan Kelley voted for it; Martha Cardenas-Singh was the only vote against.",
+    "src": "https://www.kpbs.org/news/environment/2026/04/07/imperial-county-supervisors-clear-path-for-massive-data-center-complex-amid-fierce-opposition"
+   },
+   {
+    "para": 4,
+    "t": "Hawk said: \"This project has a number of hurdles to overcome. There is a ways to come.\"",
+    "src": "https://www.kpbs.org/news/environment/2026/04/07/imperial-county-supervisors-clear-path-for-massive-data-center-complex-amid-fierce-opposition"
+   },
+   {
+    "para": 5,
+    "t": "Dozens of residents were refused entry to that meeting, and at least three people were carried out by armed sheriff's deputies.",
+    "src": "https://www.kpbs.org/news/environment/2026/04/07/imperial-county-supervisors-clear-path-for-massive-data-center-complex-amid-fierce-opposition"
+   },
+   {
+    "para": 5,
+    "t": "One of them, Ismael Arvizu of Calexico, said: \"These chairs are for the community, not for people that are just working out here.\"",
+    "src": "https://www.kpbs.org/news/environment/2026/04/07/imperial-county-supervisors-clear-path-for-massive-data-center-complex-amid-fierce-opposition"
+   },
+   {
+    "para": 5,
+    "t": "Christopher Scurries, an organiser with the group NIMBY Imperial, said: \"We are the taxpayers, and we have every right to protest.\"",
+    "src": "https://www.kpbs.org/news/environment/2026/04/07/imperial-county-supervisors-clear-path-for-massive-data-center-complex-amid-fierce-opposition"
+   },
+   {
+    "para": 6,
+    "t": "The lot merger is not permission to operate.",
+    "src": "https://www.kpbs.org/news/environment/2026/04/07/imperial-county-supervisors-clear-path-for-massive-data-center-complex-amid-fierce-opposition"
+   },
+   {
+    "para": 6,
+    "t": "The developer still needs a power supply agreement with the utility and an agreement with a water provider, and cannot get a certificate of occupancy until both are settled.",
+    "src": "https://www.kpbs.org/news/environment/2026/04/07/imperial-county-supervisors-clear-path-for-massive-data-center-complex-amid-fierce-opposition"
+   },
+   {
+    "para": 7,
+    "t": "The project is carried at 330 megawatts on 74 acres and listed as under construction.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 7,
+    "t": "The nearest generation is the 323 megawatt El Centro hybrid gas plant, 3 kilometres away, with two geothermal plants within 12 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.kpbs.org/news/environment/2026/04/07/imperial-county-supervisors-clear-path-for-massive-data-center-complex-amid-fierce-opposition",
+   "https://www.kpbs.org/news/environment/2026/01/21/the-plan-to-build-a-massive-data-center-in-imperial-county-without-environmental-review"
+  ],
+  "unconfirmed": "Google's involvement is documented only through the developer's own emails and memos; the company has not confirmed it and did not respond to reporters. The outcome of the city of Imperial's lawsuit is not established. Our record's status of under construction is not supported by the reporting reached, which describes a project still without power or water agreements. Our record gives 74 acres against the 75 reported, and a 330 megawatt figure that no source reached states. The project's own website was not fetched."
+ },
+ {
+  "id": "ft-1783369238463-6397",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The objection at Inyokern is groundwater, and the people raising it live on top of a basin the state has already declared critically overdrafted.",
+    "src": "https://southkernsol.org/2026/05/07/community-opposes-data-center-proposed-for-inyokern/"
+   },
+   {
+    "para": 0,
+    "t": "The proposal is a 99 megawatt data center in unincorporated Kern County, with 40 diesel fired generator sets for backup.",
+    "src": "https://southkernsol.org/2026/05/07/community-opposes-data-center-proposed-for-inyokern/"
+   },
+   {
+    "para": 0,
+    "t": "The developer has applied for a Small Power Plant Exemption, a route open to projects below 100 megawatts.",
+    "src": "https://southkernsol.org/2026/05/07/community-opposes-data-center-proposed-for-inyokern/"
+   },
+   {
+    "para": 1,
+    "t": "At a Ridgecrest city council meeting on 7 May 2026, residents lined up against it.",
+    "src": "https://southkernsol.org/2026/05/07/community-opposes-data-center-proposed-for-inyokern/"
+   },
+   {
+    "para": 1,
+    "t": "Barbara Bane, a federal archaeologist, called the exemption route a bureaucratic sleight of hand to avoid a thorough environmental review, and cited a University of Cambridge study on data centers creating heat islands: \"It's going to raise the temperatures. We don't need Inyokern to be two to four degrees hotter because of this data center.\"",
+    "src": "https://southkernsol.org/2026/05/07/community-opposes-data-center-proposed-for-inyokern/"
+   },
+   {
+    "para": 1,
+    "t": "James Wicker, who owns property in Inyokern, raised respiratory and cardiovascular effects of pollution and noted that data centers are often sited in low income communities and communities of colour.",
+    "src": "https://southkernsol.org/2026/05/07/community-opposes-data-center-proposed-for-inyokern/"
+   },
+   {
+    "para": 1,
+    "t": "Sarah Holly spoke about habitat fragmentation, noise and the disruption of a migration corridor.",
+    "src": "https://southkernsol.org/2026/05/07/community-opposes-data-center-proposed-for-inyokern/"
+   },
+   {
+    "para": 1,
+    "t": "Jennifer Wood-Slayton, whose concern was water, had filed a written comment asking for a full environmental review and for the developer to demonstrate dry cooling.",
+    "src": "https://southkernsol.org/2026/05/07/community-opposes-data-center-proposed-for-inyokern/"
+   },
+   {
+    "para": 2,
+    "t": "The council voted to take the data center up again at its first meeting in June.",
+    "src": "https://southkernsol.org/2026/05/07/community-opposes-data-center-proposed-for-inyokern/"
+   },
+   {
+    "para": 3,
+    "t": "The site is 50 acres at the junction of Highway 395 and Highway 178, and a change.org petition to stop it is circulating alongside a local group calling itself Taxpayers for Accountability for Our Groundwater.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generation is 39 kilometres off, the 68 megawatt Coso geothermal plant and a 60 megawatt battery site.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://southkernsol.org/2026/05/07/community-opposes-data-center-proposed-for-inyokern/"
+  ],
+  "unconfirmed": "The developer is not named in the article reached; our record does not name one either, though the project is referred to elsewhere as the RB Inyokern Data Center. The article gives no water use figure, and the KGET report that reportedly carries one returned 403. What the Ridgecrest council did at its June meeting, and where the state exemption application now stands, are not established. Ridgecrest is a neighbouring city and the site is in unincorporated county land, so the council's view is not the deciding one."
+ },
+ {
+  "id": "ft-1768851231126-6169",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This site already had a power plant on it, which is the point of the data center planned for it.",
+    "src": "https://mymotherlode.com/news/local/11078052/biomass-fueled-data-center-project-planned-in-amador-county.html"
+   },
+   {
+    "para": 0,
+    "t": "New York GreenCloud is redeveloping the former Buena Vista Biomass Power plant at 4655 Coal Mine Road in Ione, in Amador County, California, next door to Harrah's Northern California, into what it calls the Buena Vista AI Factory.",
+    "src": "https://mymotherlode.com/news/local/11078052/biomass-fueled-data-center-project-planned-in-amador-county.html"
+   },
+   {
+    "para": 0,
+    "t": "The existing 18 megawatt biomass plant would become a 41 megawatt platform burning forestry and agricultural residues from the region, using pyrolysis, which leaves biochar as a byproduct.",
+    "src": "https://mymotherlode.com/news/local/11078052/biomass-fueled-data-center-project-planned-in-amador-county.html"
+   },
+   {
+    "para": 1,
+    "t": "The company acquired the plant in January and has put about $4 million into renovating it, with a further $171 million planned for modernisation and for building the data center.",
+    "src": "https://mymotherlode.com/news/local/11078052/biomass-fueled-data-center-project-planned-in-amador-county.html"
+   },
+   {
+    "para": 1,
+    "t": "Chief executive Joseph Church described the site as \"the beginning of a national platform of carbon-negative AI factories\".",
+    "src": "https://mymotherlode.com/news/local/11078052/biomass-fueled-data-center-project-planned-in-amador-county.html"
+   },
+   {
+    "para": 2,
+    "t": "As of 19 August 2026 no construction permit and no environmental impact report had been filed.",
+    "src": "https://mymotherlode.com/news/local/11078052/biomass-fueled-data-center-project-planned-in-amador-county.html"
+   },
+   {
+    "para": 2,
+    "t": "Supervisor Brown said the property is zoned appropriately, and reported that a soft operational test was targeted for August 2026.",
+    "src": "https://mymotherlode.com/news/local/11078052/biomass-fueled-data-center-project-planned-in-amador-county.html"
+   },
+   {
+    "para": 3,
+    "t": "No local opposition in Amador County was reported, but supervisors in neighbouring Calaveras County have told their staff to draw up a temporary moratorium on data centers, citing energy and water demands.",
+    "src": "https://mymotherlode.com/news/local/11078052/biomass-fueled-data-center-project-planned-in-amador-county.html"
+   },
+   {
+    "para": 4,
+    "t": "The project is carried at 41 megawatts, matching the rebuilt plant.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 4,
+    "t": "It is the only data center site recorded in Amador County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 4,
+    "t": "The 545 megawatt Cosumnes gas plant is 19 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://mymotherlode.com/news/local/11078052/biomass-fueled-data-center-project-planned-in-amador-county.html"
+  ],
+  "unconfirmed": "No job figure was given. The water demand of the data center is not established, and neither is whether the biomass plant's own water use changes. Supervisor Brown's first name is not given in the article. The claim that the operation is carbon negative is the company's own and was not independently assessed in any source reached. The Data Center Dynamics article cited in our record returned 403."
+ },
+ {
+  "id": "ft-1787243731897-3645",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "There is no application here yet, and that has not slowed the argument down.",
+    "src": "https://themodestofocus.org/modesto-residents-opposed-to-potential-data-center-organize-protests-petitions-aimed-at-sending-message-to-city-leaders/"
+   },
+   {
+    "para": 0,
+    "t": "NorthPoint Development has expressed interest in a data center at 1200 Graphics Drive in Modesto, in Stanislaus County, California, near the east campus of Modesto Junior College, on a site that has been empty since the FMC chemical plant closed.",
+    "src": "https://themodestofocus.org/modesto-residents-opposed-to-potential-data-center-organize-protests-petitions-aimed-at-sending-message-to-city-leaders/"
+   },
+   {
+    "para": 1,
+    "t": "Elizabeth Miranda Morales, a 34 year old project coordinator in Modesto, started a petition against it.",
+    "src": "https://themodestofocus.org/modesto-residents-opposed-to-potential-data-center-organize-protests-petitions-aimed-at-sending-message-to-city-leaders/"
+   },
+   {
+    "para": 1,
+    "t": "\"When I saw the story, I was action-minded,\" she said; more than 1,700 people signed within a week.",
+    "src": "https://themodestofocus.org/modesto-residents-opposed-to-potential-data-center-organize-protests-petitions-aimed-at-sending-message-to-city-leaders/"
+   },
+   {
+    "para": 1,
+    "t": "Three local groups, Pirates for Peace, Modesto 50501 and the Central Valley Black, Indigenous and People of Color Coalition, organised a march from Five Points to City Hall.",
+    "src": "https://themodestofocus.org/modesto-residents-opposed-to-potential-data-center-organize-protests-petitions-aimed-at-sending-message-to-city-leaders/"
+   },
+   {
+    "para": 2,
+    "t": "The city council met on Tuesday 11 August 2026 for four hours in front of about 200 people.",
+    "src": "https://themodestofocus.org/modesto-residents-opposed-to-potential-data-center-organize-protests-petitions-aimed-at-sending-message-to-city-leaders/"
+   },
+   {
+    "para": 2,
+    "t": "Five of the seven council members, Chris Ricci, Eric Alvarez, Rosa Escutia-Braaton, Nick Bavaro and Jeremiah Williams, said they favoured a moratorium on data centers, and staff began preparing one for a future agenda.",
+    "src": "https://themodestofocus.org/modesto-residents-opposed-to-potential-data-center-organize-protests-petitions-aimed-at-sending-message-to-city-leaders/"
+   },
+   {
+    "para": 3,
+    "t": "City officials say data centers are not a permitted land use under Modesto's municipal code, though the city already has two smaller ones.",
+    "src": "https://themodestofocus.org/modesto-residents-opposed-to-potential-data-center-organize-protests-petitions-aimed-at-sending-message-to-city-leaders/"
+   },
+   {
+    "para": 3,
+    "t": "Residents' main concern was water in a drought prone valley.",
+    "src": "https://themodestofocus.org/modesto-residents-opposed-to-potential-data-center-organize-protests-petitions-aimed-at-sending-message-to-city-leaders/"
+   },
+   {
+    "para": 4,
+    "t": "The site is 45 acres.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 4,
+    "t": "The 177 megawatt Woodland gas plant is on the site or immediately beside it, and three more gas plants sit within 12 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://themodestofocus.org/modesto-residents-opposed-to-potential-data-center-organize-protests-petitions-aimed-at-sending-message-to-city-leaders/"
+  ],
+  "unconfirmed": "No megawatt figure, no water figure and no construction application exist for this project. Reporting elsewhere indicates NorthPoint filed to split the parcel in two with the planning commission, but that filing was not read at source. Whether the council has since adopted a moratorium is not established. The Data Center Dynamics article cited in our record returned 403."
+ },
+ {
+  "id": "ft-1771911668943-4728",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Monterey Park, in Los Angeles County, did not just stop this data center. It voted to make sure no other one can be built there.",
+    "src": "https://abc7.com/post/monterey-park-voters-approve-measure-ndc-banning-power-hungry-data-centers-within-city-limits/19229466/"
+   },
+   {
+    "para": 0,
+    "t": "The proposal was to demolish an office building and put up a data center of about a quarter of a million square feet.",
+    "src": "https://abc7.com/post/monterey-park-voters-approve-measure-ndc-banning-power-hungry-data-centers-within-city-limits/19229466/"
+   },
+   {
+    "para": 0,
+    "t": "ABC7 identifies the developer as StratCap, an Australia based company, while the city's own page refers to the applicant as HMS/Stratcap.",
+    "src": "https://www.montereypark.ca.gov/1710/Data-Center-Information"
+   },
+   {
+    "para": 1,
+    "t": "An opposition group, No Data Center Monterey Park, formed when the plans surfaced.",
+    "src": "https://abc7.com/post/monterey-park-voters-approve-measure-ndc-banning-power-hungry-data-centers-within-city-limits/19229466/"
+   },
+   {
+    "para": 1,
+    "t": "The council moved quickly after that.",
+    "src": "https://www.montereypark.ca.gov/1710/Data-Center-Information"
+   },
+   {
+    "para": 1,
+    "t": "On 21 January 2026 it adopted a 45 day moratorium on data centers under Ordinance 2272 and directed staff to prepare a prohibition.",
+    "src": "https://www.montereypark.ca.gov/1710/Data-Center-Information"
+   },
+   {
+    "para": 1,
+    "t": "On 4 March it extended that moratorium by 10 months and 15 days under Ordinance 2274 and placed a citywide prohibition on the 2 June 2026 ballot as Measure NDC.",
+    "src": "https://www.montereypark.ca.gov/1710/Data-Center-Information"
+   },
+   {
+    "para": 1,
+    "t": "A special public hearing on the prohibition was held on 26 March.",
+    "src": "https://www.montereypark.ca.gov/1710/Data-Center-Information"
+   },
+   {
+    "para": 2,
+    "t": "The applicant withdrew first.",
+    "src": "https://www.montereypark.ca.gov/1710/Data-Center-Information"
+   },
+   {
+    "para": 2,
+    "t": "The city's file holds correspondence from the applicant withdrawing the data center application dated 31 March 2026, before the council took its final votes on a permanent ban.",
+    "src": "https://www.montereypark.ca.gov/1710/Data-Center-Information"
+   },
+   {
+    "para": 3,
+    "t": "The vote went ahead anyway, and on 4 June 2026 Measure NDC appeared to have passed with most of the votes counted.",
+    "src": "https://abc7.com/post/monterey-park-voters-approve-measure-ndc-banning-power-hungry-data-centers-within-city-limits/19229466/"
+   },
+   {
+    "para": 3,
+    "t": "Steven Kung, a co-founder of No Data Center Monterey Park, called it \"a victory landslide\", and said of the proposal that with \"the rise in the electricity rates, the deal just didn't make sense.\"",
+    "src": "https://abc7.com/post/monterey-park-voters-approve-measure-ndc-banning-power-hungry-data-centers-within-city-limits/19229466/"
+   },
+   {
+    "para": 3,
+    "t": "The ban is carried into the municipal code by Ordinances 2276 and 2278, with Ordinance 2279 implementing Measure NDC.",
+    "src": "https://www.montereypark.ca.gov/1710/Data-Center-Information"
+   },
+   {
+    "para": 4,
+    "t": "The site is 16 acres at 1977 Saturn Street, the project is listed as suspended, and a petition and a local Facebook group opposed it.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 4,
+    "t": "The Monterey Park ban has been in force since 3 June 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "Nine other data center sites sit within Los Angeles County, several of them about 12 kilometres away in Vernon and downtown Los Angeles.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://abc7.com/post/monterey-park-voters-approve-measure-ndc-banning-power-hungry-data-centers-within-city-limits/19229466/",
+   "https://www.montereypark.ca.gov/1710/Data-Center-Information"
+  ],
+  "unconfirmed": "The final certified margin for Measure NDC is not established; the source reached reported only that it appeared to pass with most votes counted, and results were due after a 30 day canvass. Reports elsewhere put the figure above 86 percent and describe it as the first voter approved permanent data center ban in the country, but those pages returned 403 and I have not used either claim. The Guardian, SFGate and Pasadena Star News articles cited in our record could not be fetched. The developer's corporate name is given three different ways: ABC7 has StratCap, the city has HMS/Stratcap, and our record names HMC StratCorp and a subsidiary, DigiCo REIT. No megawatt figure was found."
+ },
+ {
+  "id": "ft-1782743502353-9741",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The city manager of Mount Shasta, in Siskiyou County, California, killed this one in an afternoon.",
+    "src": "https://www.ijpr.org/environment-energy-and-transportation/2026-06-26/mount-shasta-ai-data-center-proposal-water-concerns"
+   },
+   {
+    "para": 0,
+    "t": "An unnamed company proposed an artificial intelligence data center at the former Crystal Geyser bottling plant, a site that comes with water rights and a high producing well fed by the volcanic aquifers that form the headwaters of the Sacramento River.",
+    "src": "https://www.ijpr.org/environment-energy-and-transportation/2026-06-26/mount-shasta-ai-data-center-proposal-water-concerns"
+   },
+   {
+    "para": 1,
+    "t": "City Manager Todd Juhasz disclosed the approach at a Monday city council meeting and called it dead on arrival.",
+    "src": "https://www.ijpr.org/environment-energy-and-transportation/2026-06-26/mount-shasta-ai-data-center-proposal-water-concerns"
+   },
+   {
+    "para": 1,
+    "t": "\"We'll hear them out,\" he said. \"But unless there's some magical thing they do that other data centers don't, I can't imagine this would be good for the community.\"",
+    "src": "https://www.ijpr.org/environment-energy-and-transportation/2026-06-26/mount-shasta-ai-data-center-proposal-water-concerns"
+   },
+   {
+    "para": 1,
+    "t": "He said he would ring the company that afternoon and tell them no.",
+    "src": "https://www.ijpr.org/environment-energy-and-transportation/2026-06-26/mount-shasta-ai-data-center-proposal-water-concerns"
+   },
+   {
+    "para": 1,
+    "t": "Juhasz put the facility at about 15 long term jobs with little local tax revenue, and said: \"The idea that we're going to risk a precious commodity for very limited payoff, there's no ROI for the city.\"",
+    "src": "https://www.ijpr.org/environment-energy-and-transportation/2026-06-26/mount-shasta-ai-data-center-proposal-water-concerns"
+   },
+   {
+    "para": 2,
+    "t": "Mayor Casey Glaubman said he had received more than 100 emails about the proposal, and that the reaction on social media was immediate.",
+    "src": "https://www.ijpr.org/environment-energy-and-transportation/2026-06-26/mount-shasta-ai-data-center-proposal-water-concerns"
+   },
+   {
+    "para": 2,
+    "t": "\"We're all seeing this happen, basically anywhere with water rights,\" he said.",
+    "src": "https://www.ijpr.org/environment-energy-and-transportation/2026-06-26/mount-shasta-ai-data-center-proposal-water-concerns"
+   },
+   {
+    "para": 3,
+    "t": "The council looked at annexing the former Crystal Geyser property so that the city, rather than the county, would control what is built there; if it were annexed, the company could not take the proposal to the Siskiyou County Board of Supervisors instead.",
+    "src": "https://www.ijpr.org/environment-energy-and-transportation/2026-06-26/mount-shasta-ai-data-center-proposal-water-concerns"
+   },
+   {
+    "para": 4,
+    "t": "The project is listed as cancelled.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "It is the only data center site recorded in Siskiyou County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 4,
+    "t": "Nothing generates power within 47 kilometres of the old bottling plant.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.ijpr.org/environment-energy-and-transportation/2026-06-26/mount-shasta-ai-data-center-proposal-water-concerns"
+  ],
+  "unconfirmed": "The company behind the proposal is not named anywhere I could reach, and no megawatt, acreage or water figure was given. The exact date of the council meeting is given only as Monday, ahead of the 26 June 2026 report. Whether the annexation went ahead, and whether the company approached Siskiyou County afterwards, are not established. The Active NorCal and Data Center Dynamics articles cited in our record were not read."
+ },
+ {
+  "id": "ft-1786566307591-8402",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The building at 415 20th Street in Oakland, in Alameda County, California, was a supercomputing centre for the Lawrence Berkeley National Laboratory, and the argument is about whether putting computers back into it counts as a data center.",
+    "src": "https://www.kqed.org/news/12095308/developer-councilmember-say-proposed-oakland-data-center-isnt-what-you-might-think"
+   },
+   {
+    "para": 0,
+    "t": "It is a four storey building of nearly 83,000 square feet.",
+    "src": "https://www.kqed.org/news/12095308/developer-councilmember-say-proposed-oakland-data-center-isnt-what-you-might-think"
+   },
+   {
+    "para": 0,
+    "t": "Behring Companies proposes to use about 20,000 square feet of it for the data center, on a site that supports up to 20 megawatts.",
+    "src": "https://www.kqed.org/news/12095308/developer-councilmember-say-proposed-oakland-data-center-isnt-what-you-might-think"
+   },
+   {
+    "para": 1,
+    "t": "Chief executive Colin Behring said: \"Nothing has changed, and our proposal at this point is to use the same building doing what it used to do the same way.\"",
+    "src": "https://www.kqed.org/news/12095308/developer-councilmember-say-proposed-oakland-data-center-isnt-what-you-might-think"
+   },
+   {
+    "para": 1,
+    "t": "He described the facility as closer to \"really strong computers in your office\" than to a conventional data center.",
+    "src": "https://www.kqed.org/news/12095308/developer-councilmember-say-proposed-oakland-data-center-isnt-what-you-might-think"
+   },
+   {
+    "para": 1,
+    "t": "Councilmember Carroll Fife said: \"This is not the large-scale mega-facility that people have expressed, and legitimately so, concerns\" about.",
+    "src": "https://www.kqed.org/news/12095308/developer-councilmember-say-proposed-oakland-data-center-isnt-what-you-might-think"
+   },
+   {
+    "para": 1,
+    "t": "Fife noted the project had not reached the city council and might not need further approval if its uses match what the Lawrence lab did there before.",
+    "src": "https://www.kqed.org/news/12095308/developer-councilmember-say-proposed-oakland-data-center-isnt-what-you-might-think"
+   },
+   {
+    "para": 2,
+    "t": "For scale, 20 megawatts is about fifteen times smaller than the largest data center proposed in California, at 330 megawatts.",
+    "src": "https://www.kqed.org/news/12095308/developer-councilmember-say-proposed-oakland-data-center-isnt-what-you-might-think"
+   },
+   {
+    "para": 2,
+    "t": "Behring says the project would create up to 2,300 jobs.",
+    "src": "https://www.kqed.org/news/12095308/developer-councilmember-say-proposed-oakland-data-center-isnt-what-you-might-think"
+   },
+   {
+    "para": 2,
+    "t": "The Party for Socialism and Liberation opposes it, arguing that AI data centers destroy jobs and the environment.",
+    "src": "https://www.kqed.org/news/12095308/developer-councilmember-say-proposed-oakland-data-center-isnt-what-you-might-think"
+   },
+   {
+    "para": 3,
+    "t": "The proposal went to city staff about a week before the report was published on 15 August 2026.",
+    "src": "https://www.kqed.org/news/12095308/developer-councilmember-say-proposed-oakland-data-center-isnt-what-you-might-think"
+   },
+   {
+    "para": 3,
+    "t": "The 110 megawatt Dynegy Oakland plant is 2 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Five other data center sites lie within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.kqed.org/news/12095308/developer-councilmember-say-proposed-oakland-data-center-isnt-what-you-might-think"
+  ],
+  "unconfirmed": "The 2,300 jobs figure is the developer's own and is not explained or broken down in the source. Whether the project needs any discretionary approval, and whether city staff have ruled on that, are not established. No water figure was given. Our record's address of 415 20th St and Thomas L Berkley Way matches the building. The Data Center Dynamics article cited in our record returned 403."
+ }
+]

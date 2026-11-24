@@ -1,0 +1,573 @@
+[
+ {
+  "id": "ft-1763752475494-7249",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Centre WISP SCDC1 is a data center listed as operating at 2038 Sandy Drive in State College, in Centre County, Pennsylvania.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The entry gives it no capacity, no acreage and no cost, at high confidence, marks pushback unknown, and carries no source for it at all.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "Directory listings describe it as run by Centre WISP Venture Company LLC, headquartered in State College, selling colocation, cloud and connectivity.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The parent business is a wireless internet provider.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Centre WISP sells high speed internet access with no data caps across much of central Pennsylvania, which is the ordinary reason a company like this ends up with a room of racks.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "No megawatt figure, square footage, water figure, build date or employment figure for it has been published.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "Centre County is nearly empty on this map.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The record holds two data center sites in the county, and places only two within 40 kilometres of this one: a 100 megawatt CoreWeave site it calls Allentown, 25 kilometres off, and the contested PA Data Center Partners proposal in Mifflin County at 34.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "There is very little generation nearby either: an 88 megawatt wind farm at Sandy Ridge 27 kilometres away, the 602 megawatt Shawville plant at 50, a 75 megawatt wind project at 67 and a 100 megawatt solar farm at 72.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The only measure on record within reach is Granville Township's zoning limits, adopted on July 12, 2026, two days after the Mifflin County application went in.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "None of that has anything to do with a building of this size.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Our record carries no source for this entry at all, and what was found is directory listings and the company's own residential internet marketing, none of it fetched, so each sentence is attributed to our record's source list. There is no news reporting on the building, no municipal filing and no account of any local response. Its size, age, ownership and power draw are unestablished. The site our record calls Allentown and places 25 kilometres from State College cannot be the Allentown in Lehigh County, which is roughly 200 kilometres away, so either the name or the distance in that context field is wrong."
+ },
+ {
+  "id": "ft-482",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The company is not registered to do business in Pennsylvania, and the township's lawyer says that means it has no standing.",
+    "src": "https://www.timesleader.com/news/1733053/sugarloaf-twp-supervisors-table-ordinance-regulating-datacenters"
+   },
+   {
+    "para": 0,
+    "t": "LBT Investment Group LLC, of Chicago, wants to build a data center on 185 acres near 42 Tomhicken Road in Sugarloaf Township, Luzerne County, at a cost the record gives as $4.8 billion.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "In the summer of 2025 it filed a curative amendment challenge arguing the township's zoning code was defective because it said nothing about data centers, which under Pennsylvania law a municipality cannot simply refuse to provide for.",
+    "src": "https://www.timesleader.com/news/1733053/sugarloaf-twp-supervisors-table-ordinance-regulating-datacenters"
+   },
+   {
+    "para": 1,
+    "t": "The supervisors rejected the developer's amendment; the company appealed to Luzerne County Court; the two sides then negotiated a joint draft ordinance, which the township put on its website.",
+    "src": "https://www.timesleader.com/news/1733053/sugarloaf-twp-supervisors-table-ordinance-regulating-datacenters"
+   },
+   {
+    "para": 1,
+    "t": "On Tuesday, February 17, 2026 the supervisors, Joseph DiSabella Sr, Rick Weaver and Jennifer Pecola, voted unanimously to table it.",
+    "src": "https://www.timesleader.com/news/1733053/sugarloaf-twp-supervisors-table-ordinance-regulating-datacenters"
+   },
+   {
+    "para": 1,
+    "t": "More than 50 residents came to oppose it.",
+    "src": "https://www.timesleader.com/news/1733053/sugarloaf-twp-supervisors-table-ordinance-regulating-datacenters"
+   },
+   {
+    "para": 2,
+    "t": "John Zola told them: \"The township does not need to rush into a settlement or adopt a developer-driven ordinance.\"",
+    "src": "https://www.timesleader.com/news/1733053/sugarloaf-twp-supervisors-table-ordinance-regulating-datacenters"
+   },
+   {
+    "para": 2,
+    "t": "Lisa Logan put it to the supervisors directly: \"People are entitled to their opinion, but at the end of the day, you need to make the choice that's going to be the best for Sugarloaf.\"",
+    "src": "https://www.timesleader.com/news/1733053/sugarloaf-twp-supervisors-table-ordinance-regulating-datacenters"
+   },
+   {
+    "para": 2,
+    "t": "The attorney Jack Dean told the meeting: \"This morning, I filed a motion on behalf of my clients to strike their land use appeal because they are not registered in Pennsylvania.\"",
+    "src": "https://www.timesleader.com/news/1733053/sugarloaf-twp-supervisors-table-ordinance-regulating-datacenters"
+   },
+   {
+    "para": 3,
+    "t": "No data center application had been submitted to the township at all.",
+    "src": "https://www.timesleader.com/news/1733053/sugarloaf-twp-supervisors-table-ordinance-regulating-datacenters"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded as proposed on 185 acres at $4.8 billion with no capacity and no developer field filled in, at medium confidence, and pushback marked unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "A curative amendment, a county court appeal and 50 residents at a meeting are not unknown pushback.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 4,
+    "t": "The 146 megawatt Hazleton plant is five kilometres away and Talen's 2,494 megawatt Susquehanna nuclear station 16.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "The cancelled Project Hazelnut is five kilometres off, an Amazon proposal at Kline Township 11 and Amazon's operating 108 megawatt Berwick site 15; seven municipalities within reach have adopted limits or a moratorium, but Sugarloaf is not among them.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.timesleader.com/news/1733053/sugarloaf-twp-supervisors-table-ordinance-regulating-datacenters"
+  ],
+  "unconfirmed": "Our record's only source, a Standard-Speaker report headlined \"This is a real onslaught\", could not be fetched. The $4.8 billion cost and the 185 acres come from our record and could not be traced to any source that opened; one directory listing gives 185 acres and an operational date of 2032, which is unconfirmed. Ann Vinatieri and the attorney Michael Crotty are named in the report as having addressed the board but neither is quoted there. No megawatt, water or building figure has been published, and no tenant is known. No LBT representative is quoted anywhere that was read. Whether the ordinance was later adopted, and how the county court appeal was resolved, are unknown."
+ },
+ {
+  "id": "ft-483",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Tarentum data center at 400 MSA Drive in Allegheny County, Pennsylvania, known as Rockpointe, is a colocation room in a business park rather than a campus.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The entry is recorded as operating with no capacity, no acreage and no cost, at high confidence, pushback unknown, and its only source is a telephone company's sales page.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "Directory listings describe it as a Consolidated Communications facility selling colocation by the rack, full cabinets at 45U, halves at 21U and thirds at 14U, on a raised floor, with N+1 power and cooling and biometric access.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The name comes from the business park.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Management Science Associates has its own Rockpointe data center listed at the same address, which suggests the building has been shared or has changed hands; the relationship between the two is unresolved.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "No megawatt figure, square footage, water figure, build date or employment figure for it has been published.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "What is happening around it is a different order of thing.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The 350 megawatt Dynamo campus approved on the old Cheswick coal plant site is seven kilometres away, Ascent Data 12, and TECfusions' Upper Burrell site 16, which the record puts at 3,000 megawatts with TensorWave as tenant.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 97 megawatt Springdale plant is seven kilometres off and 563 megawatts of Allegheny Energy units eight.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Ten municipalities within reach have adopted zoning limits or a moratorium since March 2023, including Upper Burrell's, which runs from May 15 to November 11, 2026 and specifically grandfathers in the TECfusions site.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "None of them touches a building that already exists.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "What was found is vendor and directory listings, and Consolidated Communications' own page in our record was not fetched, so no source url is listed and each sentence is attributed to our record's source list. There is no news reporting on this building and no account of any local response. Its ownership is uncertain, since both Consolidated Communications and Management Science Associates are listed at the address, and our record names no developer at all."
+ },
+ {
+  "id": "ft-1763999583583-5345",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The company let the appeal deadline pass and the project ended.",
+    "src": "https://www.lehighvalleypublicmedia.org/news/all/air-products-abandons-plan-for-data-center-at-former-upper-macungie-headquarters/"
+   },
+   {
+    "para": 0,
+    "t": "Air Products proposed three data center buildings totalling about 2.56 million square feet, of 1.2 million, 926,250 and 435,600 square feet, on the 194 acres of its former headquarters at Hamilton Boulevard and Cetronia Road in Upper Macungie Township, Lehigh County, land assessed at $23.2 million.",
+    "src": "https://www.lehighvalleypublicmedia.org/news/all/air-products-abandons-plan-for-data-center-at-former-upper-macungie-headquarters/"
+   },
+   {
+    "para": 0,
+    "t": "The plans projected 930 cars and 19 trucks a day, against 1,534 cars and 286 trucks for the warehouse scheme that came before, and water use of about 95,000 gallons a day for either.",
+    "src": "https://www.lehighvalleypublicmedia.org/news/all/air-products-abandons-plan-for-data-center-at-former-upper-macungie-headquarters/"
+   },
+   {
+    "para": 1,
+    "t": "The company had asked the township zoning board to treat a data center as a similar use to what the site already permitted.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The board refused after a hearing on May 27, 2026, in a packed room, and issued its written decision in July, giving Air Products 30 days to appeal.",
+    "src": "https://www.lehighvalleypublicmedia.org/news/all/air-products-abandons-plan-for-data-center-at-former-upper-macungie-headquarters/"
+   },
+   {
+    "para": 1,
+    "t": "The deadline passed on August 5, 2026.",
+    "src": "https://www.lehighvalleypublicmedia.org/news/all/air-products-abandons-plan-for-data-center-at-former-upper-macungie-headquarters/"
+   },
+   {
+    "para": 2,
+    "t": "The company's spokesman Art George said: \"Air Products has decided not to pursue an appeal of the Upper Macungie Township Zoning Board decision related to the former headquarters property. We appreciate the engagement of township officials, residents and other stakeholders throughout this process.\"",
+    "src": "https://www.lehighvalleypublicmedia.org/news/all/air-products-abandons-plan-for-data-center-at-former-upper-macungie-headquarters/"
+   },
+   {
+    "para": 2,
+    "t": "He added that the company had \"a long history in the Lehigh Valley\" and remained \"committed to maintaining positive relationships in the communities where we operate\", and that \"no decisions have been made regarding the future ownership or future use of the property\".",
+    "src": "https://www.lehighvalleypublicmedia.org/news/all/air-products-abandons-plan-for-data-center-at-former-upper-macungie-headquarters/"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded as cancelled on 194 acres with no capacity and no cost, pushback confirmed at high confidence, and five sources attached, including a Lehigh Valley Planning Commission review headlined that the plans were lacking, likened by one official to spaghetti on the wall.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Becky Bradley, who runs that commission, features in another of the sources talking about the rise of data centers and crypto mines in the valley.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "The Lehigh Valley is dense with these.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "TierPoint's TekPark building is five kilometres away, a 725 megawatt Atlas Industrial proposal 11, a Quantm Group scheme on West Emaus Avenue at 80 megawatts 11, a J G Petrucci proposal at 100 megawatts 14, and TierPoint's Bethlehem building 23.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 5,
+    "t": "The 1,136 megawatt Bethlehem plant is 25 kilometres off and the 112 megawatt Northampton coal plant 18.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 5,
+    "t": "Allentown adopted zoning limits on June 17, 2026, noted on record as not applying to the Emmaus proposal, and Phillipsburg across the river in New Jersey banned data centers outright on April 14.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.lehighvalleypublicmedia.org/news/all/air-products-abandons-plan-for-data-center-at-former-upper-macungie-headquarters/"
+  ],
+  "unconfirmed": "The zoning board's vote count is not given in the report that was read; search summaries describe it as unanimous, which is unconfirmed. No resident or township official is quoted in it either. The morningcall reports in our record returned no content, the WFMZ and MSN reports were not fetched, and the Data Center Dynamics report is not fetchable, so the planning commission's criticism and the spaghetti remark are attributed to our record's source list. No megawatt figure was ever published. What becomes of the 194 acres is open: the company says no decision has been made about the property's future ownership or use."
+ },
+ {
+  "id": "ft-1787244336673-6262",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The township changed its rules, and the plans that went in first were untouched by the change.",
+    "src": "https://6abc.com/post/proposed-king-prussia-data-center-campus-faces-renewed-scrutiny-review-continues/19560357/"
+   },
+   {
+    "para": 0,
+    "t": "Brian O'Neill's Renaissance Park and Innovation Data Center campus is a five site, 4.6 million square foot development at King of Prussia in Upper Merion Township, Montgomery County, unveiled publicly in late May 2026.",
+    "src": "https://6abc.com/post/proposed-king-prussia-data-center-campus-faces-renewed-scrutiny-review-continues/19560357/"
+   },
+   {
+    "para": 0,
+    "t": "Upper Merion adopted new data center restrictions in March 2026, but the township manager Tony Hamaday said: \"The plans that were submitted prior to the ordinance change are vested.\"",
+    "src": "https://6abc.com/post/proposed-king-prussia-data-center-campus-faces-renewed-scrutiny-review-continues/19560357/"
+   },
+   {
+    "para": 1,
+    "t": "A review meeting was held on Wednesday, July 22, 2026 in the Upper Merion Area Middle School auditorium, with the remaining applications set for the planning commission on August 12.",
+    "src": "https://6abc.com/post/proposed-king-prussia-data-center-campus-faces-renewed-scrutiny-review-continues/19560357/"
+   },
+   {
+    "para": 1,
+    "t": "When the room was asked, the vast majority of those present stood to show they opposed it.",
+    "src": "https://6abc.com/post/proposed-king-prussia-data-center-campus-faces-renewed-scrutiny-review-continues/19560357/"
+   },
+   {
+    "para": 1,
+    "t": "Courtney Smith of King of Prussia said the revised plans answered the wrong questions: \"The plans that have been submitted are modified to include things like the sidewalk has been identified or the landscaping plan has been added, or maybe at best, a traffic impact study has been provided. But those really aren't the things that are at the top of the residents' minds when they hear about these hyper-scale data center proposals.\"",
+    "src": "https://6abc.com/post/proposed-king-prussia-data-center-campus-faces-renewed-scrutiny-review-continues/19560357/"
+   },
+   {
+    "para": 1,
+    "t": "What is at the top of them, she said, is the generation: \"There is absolutely nothing he could say to make me amenable to multiple power plants being constructed in my own backyard.\"",
+    "src": "https://6abc.com/post/proposed-king-prussia-data-center-campus-faces-renewed-scrutiny-review-continues/19560357/"
+   },
+   {
+    "para": 2,
+    "t": "O'Neill's answer was that he was not getting a hearing: \"I have a bunch of staff and planning commission members doing everything in their power to be politically correct in front of an audience versus give me a fair hearing.\"",
+    "src": "https://6abc.com/post/proposed-king-prussia-data-center-campus-faces-renewed-scrutiny-review-continues/19560357/"
+   },
+   {
+    "para": 2,
+    "t": "The objections were the on site generation, the zoning, the traffic and the way the review itself was being run.",
+    "src": "https://6abc.com/post/proposed-king-prussia-data-center-campus-faces-renewed-scrutiny-review-continues/19560357/"
+   },
+   {
+    "para": 3,
+    "t": "The entry stands as suspended with no acreage, no capacity, no cost and no developer field filled in, marks pushback as confirmed with organised advocacy at high confidence, and links a change.org petition against AI data centers in King of Prussia.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "A separate entry, MLP Ventures at Upper Merion Township with five sites and Brian O'Neill named, sits four kilometres away and is marked blocked.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Both describe the same developer and the same five sites, and the record does not say how they differ.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "O'Neill's withdrawn Plymouth Township proposal is two kilometres away and a 4 megawatt DaSTOR building one.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 82 megawatt West Point plant is 16 kilometres off, Grays Ferry's 171 megawatts 19 and the 562 megawatt Liberty Electric plant 24; five New Jersey and Chester County municipalities within reach have banned data centers or set limits.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://6abc.com/post/proposed-king-prussia-data-center-campus-faces-renewed-scrutiny-review-continues/19560357/"
+  ],
+  "unconfirmed": "The report that was read does not give acreage, megawatts, water use or cost, and does not say what the on site generation residents call power plants would be. The Data Center Dynamics report headlined that plans for five data centers in King of Prussia were blocked is not fetchable, and the compute-atlas page was not fetched, so what was blocked, when, and how that sits with our record's status of suspended here and blocked on the companion entry are all unresolved. What the August 12, 2026 planning commission review decided is unknown."
+ },
+ {
+  "id": "ft-1770776013460-3256",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Three thousand people signed the petition against it, in a county of fewer than twenty thousand.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Talen Energy asked Montour County to rezone 870 acres in Anthony Township from agricultural to industrial, which would have allowed a data center and an expansion of the coal and gas fired power plant that would have supplied it.",
+    "src": "https://www.wkok.com/montour-commissioners-deny-talen-rezoning-in-anthony-township/"
+   },
+   {
+    "para": 0,
+    "t": "On February 11, 2026 the commissioners Rebecca Dressler, Trevor Finn and Scott Lynn voted to deny it at a meeting attended by nearly 100 people.",
+    "src": "https://www.wkok.com/montour-commissioners-deny-talen-rezoning-in-anthony-township/"
+   },
+   {
+    "para": 1,
+    "t": "Lynn moved to deny and Dressler, who chairs the board, seconded.",
+    "src": "https://www.wkok.com/montour-commissioners-deny-talen-rezoning-in-anthony-township/"
+   },
+   {
+    "para": 1,
+    "t": "Finn said Talen \"did not meet its burden of proof to justify the rezoning\".",
+    "src": "https://www.wkok.com/montour-commissioners-deny-talen-rezoning-in-anthony-township/"
+   },
+   {
+    "para": 1,
+    "t": "Dressler's account was that Talen never made clear how the data center would benefit the county and was sparse on water use, noise and the effect on the land.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The decision came after months of public meetings, postponements and changes to the proposal, including dropping 25 acres in Derry Township from the rezoning.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Alongside the 3,000 signature petition, the commissioners had letters from two local school boards and several municipalities asking them to refuse.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Talen has never formally announced plans for the property, but had referred to data centers as a possibility.",
+    "src": "https://www.wkok.com/montour-commissioners-deny-talen-rezoning-in-anthony-township/"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded as suspended on 800 acres with no capacity and no cost, with Talen Energy and Amazon as developers, pushback marked confirmed at high confidence, and a Concerned Citizens of Montour County Facebook page attached.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Amazon Web Services is named once in the report as caught up in the controversy alongside Talen, with nothing said about what its role would have been; a separate Talen Energy entry in Montour County, marked blocked, sits five kilometres away.",
+    "src": "https://www.wkok.com/montour-commissioners-deny-talen-rezoning-in-anthony-township/"
+   },
+   {
+    "para": 4,
+    "t": "Talen's 1,504 megawatt Montour plant is a kilometre from the site.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "A suspended Data Centric scheme is 20 kilometres off and the contested Muncy proposal 21; Muncy Township has a moratorium running from May 1, 2026 to February 1, 2027 and Madison Township one to June 1, 2027.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.wkok.com/montour-commissioners-deny-talen-rezoning-in-anthony-township/"
+  ],
+  "unconfirmed": "The date of the vote is not settled across accounts: the Reuters url in our record is dated February 10, 2026 and the WKOK report gives February 11. The acreage is 870 in the report that was read and 800 in our record. The Reuters report could not be fetched, the Pennsylvania Capital-Star report returned HTTP 403, and the Data Center Dynamics report is not fetchable, so the petition, the school board letters, the Derry Township acres and Dressler's reasoning are attributed to our record's source list. No resident is quoted by name in anything that was read. What Amazon Web Services would have done on the site is unknown; the report says there was no indication of an appeal."
+ },
+ {
+  "id": "ft-484",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Comcast's West Chester data center at 1354 Boot Road, in Chester County, Pennsylvania, is one part of a three building corporate campus rather than a standalone site.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The entry is recorded as operating with no capacity, no acreage and no cost, at high confidence, pushback unknown, and its only source is a trade report about a different Comcast building in New Jersey.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "The company describes Boot Road as a three building campus holding data centers, engineering departments and back office operations, with what other listings call a Tier 3 data center among the offices.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The only recent news about it is about saving electricity.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Comcast has fitted the campus with its own smart buildings and AI driven energy management products, which it presents as a case study for the technology it sells to other people.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "No megawatt figure, square footage, water figure, build date or employment figure for it has been published.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "An operator using its own offices as a showroom is not the same as disclosure.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "Chester County holds five data center sites on record and ten sit within 24 kilometres of this one.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The Sentinel proposal at East Whiteland is five kilometres away, the blocked Pennhurst Holdings entry 18, a 7 megawatt Flexential building 19, TierPoint's Valley Forge building 19, Brian O'Neill's blocked King of Prussia sites 21 and his withdrawn Plymouth Township scheme 24.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 2,242 megawatt Limerick nuclear station is 25 kilometres off, the 877 megawatt Marcus Hook plant the same and an 80 megawatt waste to energy plant at Covanta Delaware Valley the same again.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Four New Jersey townships within reach have banned data centers outright and New Castle County in Delaware adopted limits on March 11, 2026, while the zoning limits the record carries for West Whiteland Township next door have no date on them at all.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "What was found is Comcast's own corporate material and directory listings, none of it fetched, so no source url is listed and each sentence is attributed to our record's source list. Our record's only source concerns a Comcast conversion of a former bank in New Jersey and is not about this site. The building's age, size and power draw are unestablished. No municipal filing and no account of any local response was found, which is what would be expected for an operating corporate campus."
+ },
+ {
+  "id": "ft-1763000249590-6997",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The power plant will not be connected to the grid at all.",
+    "src": "https://paenvironmentdaily.blogspot.com/2025/10/dep-issues-air-quality-permit-for-248.html"
+   },
+   {
+    "para": 0,
+    "t": "KDI Wyalusing Power LLC, an affiliate of New Fortress Energy, received a Department of Environmental Protection air quality permit published in the Pennsylvania Bulletin on October 25, 2025 for eight simple cycle combustion turbines of 31 megawatts each, 248 megawatts in all, to run its Klondike data center project at Wyalusing Township in Bradford County.",
+    "src": "https://paenvironmentdaily.blogspot.com/2025/10/dep-issues-air-quality-permit-for-248.html"
+   },
+   {
+    "para": 0,
+    "t": "Because the plant is not tied to the grid it will export none of what it makes.",
+    "src": "https://paenvironmentdaily.blogspot.com/2025/10/dep-issues-air-quality-permit-for-248.html"
+   },
+   {
+    "para": 1,
+    "t": "More permits are still needed.",
+    "src": "https://paenvironmentdaily.blogspot.com/2025/10/dep-issues-air-quality-permit-for-248.html"
+   },
+   {
+    "para": 1,
+    "t": "The project requires a water withdrawal authorisation from the Susquehanna River Basin Commission and a Chapter 105 encroachment permit for the withdrawal point, along with every other applicable departmental permit before work can start.",
+    "src": "https://paenvironmentdaily.blogspot.com/2025/10/dep-issues-air-quality-permit-for-248.html"
+   },
+   {
+    "para": 1,
+    "t": "The department held a public comment period in July, and anyone wanting to challenge the permit had 30 days from October 25 to appeal to the Environmental Hearing Board.",
+    "src": "https://paenvironmentdaily.blogspot.com/2025/10/dep-issues-air-quality-permit-for-248.html"
+   },
+   {
+    "para": 2,
+    "t": "The permit item carries no emissions limits and no objections.",
+    "src": "https://paenvironmentdaily.blogspot.com/2025/10/dep-issues-air-quality-permit-for-248.html"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded as proposed at 248 megawatts with no acreage and no cost, with New Fortress Energy as developer, and pushback marked confirmed at high confidence.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "It links no group, no petition and no report of anyone objecting, so what the pushback consists of is not recorded.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "The 248 megawatts is the generation, not a stated data center load.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "The second source is New Fortress Energy's own Klondike page, which was not opened.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "Bradford County holds two data center sites on record and the only one within 40 kilometres of this is the Soltier crypto mine at Towanda, 20 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 765 megawatt Hamilton Liberty plant is 18 kilometres off and the Procter and Gamble mill's 105 megawatts the same; the only measure on record within reach is Susquehanna County's zoning limits from December 29, 2025.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://paenvironmentdaily.blogspot.com/2025/10/dep-issues-air-quality-permit-for-248.html"
+  ],
+  "unconfirmed": "The acreage, building count, cost, timetable, tenant and water volume are all unestablished, and the company's own Klondike page was not opened. What the data center itself will be, and where on the site it sits, is not described in the permit item. Whether the air permit was appealed to the Environmental Hearing Board by the late November 2025 deadline, and whether the Susquehanna River Basin Commission has granted a withdrawal, are unknown. No resident, township official or company representative is quoted, and no account of the pushback our record records was found."
+ }
+]

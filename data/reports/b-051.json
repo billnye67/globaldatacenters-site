@@ -1,0 +1,780 @@
+[
+ {
+  "id": "ft-9",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The data center at 214 South Denver Avenue in Russellville, in Pope County, Arkansas, is not the kind of building the phrase brings to mind.",
+    "src": "https://www.sdxcentral.com/news/brightspeed-data-center-up-for-sale-leaseback-in-arkansas/"
+   },
+   {
+    "para": 0,
+    "t": "It is a two storey building of 44,650 square feet, put up in 2000.",
+    "src": "https://www.sdxcentral.com/news/brightspeed-data-center-up-for-sale-leaseback-in-arkansas/"
+   },
+   {
+    "para": 0,
+    "t": "It was offered for sale and leaseback at $4.5 million through Cushman & Wakefield and Sage Partners, listed on LoopNet at a rent of about $360,000 a year on a 20 year lease with at least 20 more years of renewal options.",
+    "src": "https://www.sdxcentral.com/news/brightspeed-data-center-up-for-sale-leaseback-in-arkansas/"
+   },
+   {
+    "para": 0,
+    "t": "The tenant was not named in the listing, though the report noted that images of the building suggest it belonged to CenturyLink before Apollo Global Management bought that company's local telephone business in 20 states in 2021 and renamed it Brightspeed.",
+    "src": "https://www.sdxcentral.com/news/brightspeed-data-center-up-for-sale-leaseback-in-arkansas/"
+   },
+   {
+    "para": 1,
+    "t": "Brightspeed has been selling sites like it: Charlottesville in Virginia in 2024, two in Missouri in January 2025 and six in Ohio the month after.",
+    "src": "https://www.sdxcentral.com/news/brightspeed-data-center-up-for-sale-leaseback-in-arkansas/"
+   },
+   {
+    "para": 2,
+    "t": "The data center argument in Russellville is about buildings that do not exist yet.",
+    "src": "https://www.rivervalleyradio.com/russellville-approves-six-month-halt-on-new-data-centers-while-regulations-are-developed/"
+   },
+   {
+    "para": 2,
+    "t": "On 16 July 2026 the city council voted 6 to 2 for a six month halt on new data center applications while an advisory committee works out rules.",
+    "src": "https://www.rivervalleyradio.com/russellville-approves-six-month-halt-on-new-data-centers-while-regulations-are-developed/"
+   },
+   {
+    "para": 2,
+    "t": "Council member Justin Keller, who had first asked for 18 months, said noise was the only standard the city had: \"The only thing we have set in stone as a community is, 'Are they too noisy?' We don't address anything else.\"",
+    "src": "https://www.rivervalleyradio.com/russellville-approves-six-month-halt-on-new-data-centers-while-regulations-are-developed/"
+   },
+   {
+    "para": 2,
+    "t": "Chris Olson and Laura Wetzel voted against, Olson saying \"To put a moratorium on industry seems a little extreme to me.\"",
+    "src": "https://www.rivervalleyradio.com/russellville-approves-six-month-halt-on-new-data-centers-while-regulations-are-developed/"
+   },
+   {
+    "para": 2,
+    "t": "Nathan George, who voted for it, said \"We aren't closed, but we need a minute. I think our citizens would appreciate that.\"",
+    "src": "https://www.rivervalleyradio.com/russellville-approves-six-month-halt-on-new-data-centers-while-regulations-are-developed/"
+   },
+   {
+    "para": 2,
+    "t": "Mayor Fred Teague said the council could lift the pause early if the committee finished sooner.",
+    "src": "https://www.rivervalleyradio.com/russellville-approves-six-month-halt-on-new-data-centers-while-regulations-are-developed/"
+   },
+   {
+    "para": 3,
+    "t": "The site is about 10 kilometres from Arkansas Nuclear One, a 1,821 megawatt nuclear plant, and 4 kilometres from the 140 megawatt Dardanelle hydroelectric dam.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Clarksville, 34 kilometres away, has a proposed data center of its own and adopted data center zoning limits in May 2026.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.sdxcentral.com/news/brightspeed-data-center-up-for-sale-leaseback-in-arkansas/",
+   "https://www.rivervalleyradio.com/russellville-approves-six-month-halt-on-new-data-centers-while-regulations-are-developed/"
+  ],
+  "unconfirmed": "The Data Center Dynamics article cited in our record returned 403 and could not be read; the SDxCentral report of the same sale was used instead. The building's power draw, its current owner after any sale, and whether it is still in service are not established. The council report does not mention the Denver Avenue building, and no local reporting was found linking it to the July 2026 moratorium."
+ },
+ {
+  "id": "ft-1777384607756-2066",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A 500 megawatt data center and a 400 megawatt solar farm have been proposed on rural land just outside the city limits of Sheridan, in Grant County.",
+    "src": "https://www.deltaplexnews.com/local-news/data-center-for-grant-county-not-close-yet-to-determine-possible-user/"
+   },
+   {
+    "para": 0,
+    "t": "Deltaplex News gives the developer as Clear Cloud Energy.",
+    "src": "https://www.deltaplexnews.com/local-news/data-center-for-grant-county-not-close-yet-to-determine-possible-user/"
+   },
+   {
+    "para": 0,
+    "t": "The two builds together were put at $5 billion to $6 billion, with a projected $300 million in tax revenue over 30 years.",
+    "src": "https://www.deltaplexnews.com/local-news/data-center-for-grant-county-not-close-yet-to-determine-possible-user/"
+   },
+   {
+    "para": 1,
+    "t": "More than a year after the project was announced, nobody will say who the data center is for.",
+    "src": "https://www.deltaplexnews.com/local-news/data-center-for-grant-county-not-close-yet-to-determine-possible-user/"
+   },
+   {
+    "para": 1,
+    "t": "Clark Bixler, the company's director of development, told Deltaplex News that firms such as Google, Microsoft, Meta or Oracle were possible users but that none had been identified, and that naming one was months away.",
+    "src": "https://www.deltaplexnews.com/local-news/data-center-for-grant-county-not-close-yet-to-determine-possible-user/"
+   },
+   {
+    "para": 2,
+    "t": "In October 2025 the Grant County Quorum Court passed two non binding resolutions supporting the data center and the solar farm.",
+    "src": "https://www.deltaplexnews.com/local-news/data-center-for-grant-county-not-close-yet-to-determine-possible-user/"
+   },
+   {
+    "para": 2,
+    "t": "Those resolutions would let the county consider payment in lieu of taxes agreements offering up to a 65 percent tax abatement, and they do not oblige the county to approve any final agreement.",
+    "src": "https://www.deltaplexnews.com/local-news/grant-county-quorum-court-reviews-data-center-project-approves-equalization-board-pay-raise-and-hears-county-updates/"
+   },
+   {
+    "para": 2,
+    "t": "The court also set money aside to hire a county attorney.",
+    "src": "https://www.deltaplexnews.com/local-news/data-center-for-grant-county-not-close-yet-to-determine-possible-user/"
+   },
+   {
+    "para": 3,
+    "t": "On 23 June 2026 the court was told the project had not moved.",
+    "src": "https://www.deltaplexnews.com/local-news/grant-county-quorum-court-reviews-data-center-project-approves-equalization-board-pay-raise-and-hears-county-updates/"
+   },
+   {
+    "para": 3,
+    "t": "County Judge Randy Pruitt said it remained on hold because no end user had been confirmed, and that county officials planned to work out the requirements and conditions that would have to be met before the county considered going further.",
+    "src": "https://www.deltaplexnews.com/local-news/grant-county-quorum-court-reviews-data-center-project-approves-equalization-board-pay-raise-and-hears-county-updates/"
+   },
+   {
+    "para": 3,
+    "t": "That update named reN-RG and Sheridan Data Center LLC as companies associated with the project.",
+    "src": "https://www.deltaplexnews.com/local-news/grant-county-quorum-court-reviews-data-center-project-approves-equalization-board-pay-raise-and-hears-county-updates/"
+   },
+   {
+    "para": 4,
+    "t": "Residents have not waited for the county to finish deciding.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 4,
+    "t": "A change.org petition calls for a ban on new data centers on farmland and in towns, a local group organises against the project on Facebook, and KARK reported a protest at the Grant County courthouse against the data and solar center.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 4,
+    "t": "The local resistance is logged as organised advocacy, and the site is put at 753 acres.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 5,
+    "t": "The site is 27 kilometres from White Bluff, a 1,244 megawatt coal plant.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 5,
+    "t": "A separate 1,000 megawatt campus has been proposed by AVAIO Digital Partners 37 kilometres away, near Little Rock, which passed a data center ordinance of its own on 3 June 2026.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.deltaplexnews.com/local-news/data-center-for-grant-county-not-close-yet-to-determine-possible-user/",
+   "https://www.deltaplexnews.com/local-news/grant-county-quorum-court-reviews-data-center-project-approves-equalization-board-pay-raise-and-hears-county-updates/"
+  ],
+  "unconfirmed": "Our record names the developer as Clean Cloud Energy where Deltaplex News reports Clear Cloud Energy, and I could not settle the spelling. The June 2026 Arkansas Times report on the conditions the county set returned 429 on repeated attempts, and both KARK reports returned 403, so the six conditions, the protest turnout and the residents' own words could not be read at source. The 753 acre figure and the $8-12M cost field appear in no reporting I could reach. No vote counts were given for any quorum court action."
+ },
+ {
+  "id": "ft-1771257815409-6897",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The 158 acres at the northwest corner of Patterson Road and State Route 85 in Buckeye, in Maricopa County, Arizona, were bought to make hydrogen, not to hold a data center.",
+    "src": "https://azbex.com/local-news/fortescue-seeks-hydrogen-site-changes-to-allow-for-possible-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "Nikola Corporation and TC Energy acquired the site in 2022 for a $550 million hydrogen production plant.",
+    "src": "https://azbex.com/local-news/fortescue-seeks-hydrogen-site-changes-to-allow-for-possible-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "Fortescue bought the assets in July 2023 for $24 million after Nikola went bankrupt, held a ceremonial groundbreaking in May 2024, and cancelled construction in the summer of 2025, citing United States policy shifts and uncertainty in the country's green energy market.",
+    "src": "https://azbex.com/local-news/fortescue-seeks-hydrogen-site-changes-to-allow-for-possible-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The land is zoned Heavy Industrial, but with conditions attached that limit it to hydrogen production.",
+    "src": "https://azbex.com/local-news/fortescue-seeks-hydrogen-site-changes-to-allow-for-possible-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Fortescue asked Buckeye to lift those conditions so the site could take other industrial uses, naming an Arizona Public Service substation and a data center campus.",
+    "src": "https://azbex.com/local-news/fortescue-seeks-hydrogen-site-changes-to-allow-for-possible-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "A data center would still need a separate conditional use permit and site plan approval from the Planning and Zoning Commission.",
+    "src": "https://azbex.com/local-news/fortescue-seeks-hydrogen-site-changes-to-allow-for-possible-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "A neighbourhood meeting was held in December 2025 and nobody came.",
+    "src": "https://azbex.com/local-news/fortescue-seeks-hydrogen-site-changes-to-allow-for-possible-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "When the staff report was written, city staff had received no public comment for or against the request.",
+    "src": "https://azbex.com/local-news/fortescue-seeks-hydrogen-site-changes-to-allow-for-possible-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "The Planning and Zoning Commission was due to vote on 10 February 2026, with a final council vote to follow.",
+    "src": "https://azbex.com/local-news/fortescue-seeks-hydrogen-site-changes-to-allow-for-possible-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Against that, a change.org petition headed \"Stop the building of a data center in our community\" has been circulating, which the city's own account of the file does not reflect.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "Maricopa County already holds about 40 data center sites.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generation is solar: the 520 megawatt Sonoran Solar Energy plant 14 kilometres away, and three more solar plants within 20 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://azbex.com/local-news/fortescue-seeks-hydrogen-site-changes-to-allow-for-possible-data-center/"
+  ],
+  "unconfirmed": "Whether the commission and council approved the rezoning changes in February 2026, and whether any data center has since been applied for, could not be established. No megawatt figure, tenant or developer for a data center on the site was found. The Data Center Dynamics article cited in our record returned 403. The petition in our record could not be dated or sized, and it conflicts with the city staff report's account of receiving no public comment."
+ },
+ {
+  "id": "ft-1773462534738-4516",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This data center is not being built, and the reason is the city.",
+    "src": "https://azbex.com/planning-development/data-center-changes-result-in-plan-change-to-mixed-use/"
+   },
+   {
+    "para": 0,
+    "t": "Vintage Partners owns 63 acres at the southwest corner of Loop 202 and Lower Buckeye Road in Laveen, in Maricopa County, Arizona, bought from the Arizona Department of Transportation.",
+    "src": "https://azbex.com/planning-development/data-center-changes-result-in-plan-change-to-mixed-use/"
+   },
+   {
+    "para": 0,
+    "t": "The company had planned a data center there because of what was already on the ground: transmission lines and an adjacent electrical substation, which made the site suitable under the way Phoenix read its rules at the time.",
+    "src": "https://azbex.com/planning-development/data-center-changes-result-in-plan-change-to-mixed-use/"
+   },
+   {
+    "para": 1,
+    "t": "In 2025 Phoenix passed a text amendment narrowing where data centers could go.",
+    "src": "https://azbex.com/planning-development/data-center-changes-result-in-plan-change-to-mixed-use/"
+   },
+   {
+    "para": 1,
+    "t": "City leadership discouraged the project, and the application filed afterwards says the company agreed to change direction following coordination with the city council and city staff, having weighed what it called the substantial financial impacts of doing so.",
+    "src": "https://azbex.com/planning-development/data-center-changes-result-in-plan-change-to-mixed-use/"
+   },
+   {
+    "para": 2,
+    "t": "In its place Vintage Partners is asking for a planned unit development of 1,000 homes, single family attached and multifamily, with 22 acres of commercial, retail, restaurant and service uses.",
+    "src": "https://azbex.com/planning-development/data-center-changes-result-in-plan-change-to-mixed-use/"
+   },
+   {
+    "para": 2,
+    "t": "That filing was reported on 3 March 2026.",
+    "src": "https://azbex.com/planning-development/data-center-changes-result-in-plan-change-to-mixed-use/"
+   },
+   {
+    "para": 3,
+    "t": "Phoenix adopted its data center zoning limits on 2 July 2025, and Chandler, Mesa, Tempe and Maricopa County have limits of their own.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "Ten other data center sites lie within 40 kilometres of this parcel, the nearest an Amazon Web Services proposal in Laveen 9 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://azbex.com/planning-development/data-center-changes-result-in-plan-change-to-mixed-use/"
+  ],
+  "unconfirmed": "How far construction had actually gone before the change, and whether the mixed use rezoning has since been approved, are not established. The Data Center Dynamics article cited in our record returned 403. No resident opposition to the data center was found; on the reporting reached, the decision came from the city's policy change rather than from a local campaign."
+ },
+ {
+  "id": "ft-1768192510392-2116",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The data center campus approved at Marana, in Pima County, Arizona, is the second home for a project Tucson turned away.",
+    "src": "https://tucson.com/news/local/environment/article_52f0d4ba-aa9e-4c17-b290-ca3c2ad8d011.html"
+   },
+   {
+    "para": 0,
+    "t": "Beale Infrastructure is the developer of both, working through a company called Humphrey's Peak Properties, LLC.",
+    "src": "https://tucson.com/news/local/environment/article_52f0d4ba-aa9e-4c17-b290-ca3c2ad8d011.html"
+   },
+   {
+    "para": 0,
+    "t": "In June 2025 the Pima County Board of Supervisors voted 3 to 2 to rezone a 290 acre parcel near the county fairgrounds, half a mile south of Interstate 10, and then 3 to 2 again to sell it to Humphrey's Peak Properties for nearly $21 million.",
+    "src": "https://tucson.com/news/local/government-politics/article_b7e0a874-021f-406b-9722-7c8ef05bf476.html"
+   },
+   {
+    "para": 0,
+    "t": "The city of Tucson refused to annex that site in August, which the project needed for city water service.",
+    "src": "https://tucson.com/news/local/environment/article_52f0d4ba-aa9e-4c17-b290-ca3c2ad8d011.html"
+   },
+   {
+    "para": 1,
+    "t": "The county supervisors said plainly why they voted as they did.",
+    "src": "https://tucson.com/news/local/government-politics/article_b7e0a874-021f-406b-9722-7c8ef05bf476.html"
+   },
+   {
+    "para": 1,
+    "t": "Steve Christy said that \"as far as the county is concerned, from a business proposition, it's a good deal.\"",
+    "src": "https://tucson.com/news/local/government-politics/article_b7e0a874-021f-406b-9722-7c8ef05bf476.html"
+   },
+   {
+    "para": 1,
+    "t": "Board chair Rex Scott said he supported it enthusiastically because of what it could do to the local economy, while acknowledging that most of the constituents who contacted him were against it.",
+    "src": "https://tucson.com/news/local/government-politics/article_b7e0a874-021f-406b-9722-7c8ef05bf476.html"
+   },
+   {
+    "para": 1,
+    "t": "Jen Allen, voting no, warned that \"data centers beget data centers\" rather than bringing broader growth, and pointed to regrets voiced by California officials.",
+    "src": "https://tucson.com/news/local/government-politics/article_b7e0a874-021f-406b-9722-7c8ef05bf476.html"
+   },
+   {
+    "para": 1,
+    "t": "Andres Cano, also against, said \"We are not just building in the desert, we're building on a legacy.\"",
+    "src": "https://tucson.com/news/local/government-politics/article_b7e0a874-021f-406b-9722-7c8ef05bf476.html"
+   },
+   {
+    "para": 1,
+    "t": "At that meeting the project's representatives declined to say how much water or power it would use.",
+    "src": "https://tucson.com/news/local/government-politics/article_b7e0a874-021f-406b-9722-7c8ef05bf476.html"
+   },
+   {
+    "para": 2,
+    "t": "The Marana campus covers more than 600 acres across two properties.",
+    "src": "https://tucson.com/news/local/environment/article_52f0d4ba-aa9e-4c17-b290-ca3c2ad8d011.html"
+   },
+   {
+    "para": 2,
+    "t": "About 300 acres west of Interstate 10 on North Luckett Road belong to the Kai family trust, and 310 acres at 14990 West Hardin Road belong to the Church of Jesus Christ of Latter-day Saints.",
+    "src": "https://tucson.com/news/local/environment/article_52f0d4ba-aa9e-4c17-b290-ca3c2ad8d011.html"
+   },
+   {
+    "para": 2,
+    "t": "The town council approved the rezoning 6 to 0, with Councilmember Herb Kai recusing himself because his family owns the south parcel.",
+    "src": "https://tucson.com/news/local/environment/article_52f0d4ba-aa9e-4c17-b290-ca3c2ad8d011.html"
+   },
+   {
+    "para": 2,
+    "t": "The two accounts disagree on the date of that vote: the Arizona Daily Star gives 9 January 2026 and Arizona Public Media gives 6 January 2025.",
+    "src": "https://news.azpm.org/s/102447-marana-town-council-approves-rezoning-for-luckett-road-project-600-acre-hyperscale-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "More than 50 people spoke at the hearing, and the overflow crowd was sent to the Marana Police Department.",
+    "src": "https://news.azpm.org/s/102447-marana-town-council-approves-rezoning-for-luckett-road-project-600-acre-hyperscale-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "Union workers held signs supporting the data center, which Arizona Public Media reported were provided by the developer.",
+    "src": "https://news.azpm.org/s/102447-marana-town-council-approves-rezoning-for-luckett-road-project-600-acre-hyperscale-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "The application is filed under the name Luckett Road Project and was known internally as the Jaguar West Project.",
+    "src": "https://news.azpm.org/s/102447-marana-town-council-approves-rezoning-for-luckett-road-project-600-acre-hyperscale-data-center/"
+   },
+   {
+    "para": 4,
+    "t": "On power, the Arizona Daily Star reports 550 to 750 megawatts supplied by Trico Electric Cooperative.",
+    "src": "https://tucson.com/news/local/environment/article_52f0d4ba-aa9e-4c17-b290-ca3c2ad8d011.html"
+   },
+   {
+    "para": 4,
+    "t": "Arizona Public Media reports up to 750 megawatts per site and up to 1,500 megawatts across both parcels, from Trico and Tucson Electric Power.",
+    "src": "https://news.azpm.org/s/102447-marana-town-council-approves-rezoning-for-luckett-road-project-600-acre-hyperscale-data-center/"
+   },
+   {
+    "para": 4,
+    "t": "The project is carried at 600 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 5,
+    "t": "On water, the developer says the buildings will be air cooled with no potable water used for cooling, drawing about 40 acre feet a year against the roughly 2,000 acre feet the land currently uses as farmland.",
+    "src": "https://tucson.com/news/local/environment/article_52f0d4ba-aa9e-4c17-b290-ca3c2ad8d011.html"
+   },
+   {
+    "para": 5,
+    "t": "The company also projects nearly $1 million in one time impact fees, 4,200 construction jobs, 400 permanent jobs and about $15 million a year in taxes at full build.",
+    "src": "https://tucson.com/news/local/environment/article_52f0d4ba-aa9e-4c17-b290-ca3c2ad8d011.html"
+   },
+   {
+    "para": 6,
+    "t": "For the Pima County site the city of Tucson published a question and answer document in July 2025 setting out figures the project had given it.",
+    "src": "https://www.tucsonaz.gov/files/sharedassets/public/v/1/government/city-manager-office/documents/project-blue_faq-responses_final.pdf"
+   },
+   {
+    "para": 6,
+    "t": "It put reclaimed water at 440 acre feet a year for the initial phase and 870 at full build, with a further 1,040 for a second project inside the city limits, and power at 250 to 350 megawatts for the initial phase rising to 400 to 600 at full build.",
+    "src": "https://www.tucsonaz.gov/files/sharedassets/public/v/1/government/city-manager-office/documents/project-blue_faq-responses_final.pdf"
+   },
+   {
+    "para": 6,
+    "t": "It described 180 permanent jobs by 2029 at an average salary of $64,000, about 3,000 construction jobs, and a buildout of $1.2 billion, with a contractual floor of 75 permanent employees and financial penalties for missing it.",
+    "src": "https://www.tucsonaz.gov/files/sharedassets/public/v/1/government/city-manager-office/documents/project-blue_faq-responses_final.pdf"
+   },
+   {
+    "para": 7,
+    "t": "Marana adopted data center zoning limits in December 2024 and Tucson adopted its own in August 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 7,
+    "t": "The nearest generation is Saguaro, a 179 megawatt gas plant 7 kilometres away, with an 81 megawatt battery site at Red Rock 6 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 7,
+    "t": "Seventeen kilometres north, Vermaland has proposed a 3,000 megawatt campus of its own.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://tucson.com/news/local/environment/article_52f0d4ba-aa9e-4c17-b290-ca3c2ad8d011.html",
+   "https://tucson.com/news/local/government-politics/article_b7e0a874-021f-406b-9722-7c8ef05bf476.html",
+   "https://news.azpm.org/s/102447-marana-town-council-approves-rezoning-for-luckett-road-project-600-acre-hyperscale-data-center/",
+   "https://www.tucsonaz.gov/files/sharedassets/public/v/1/government/city-manager-office/documents/project-blue_faq-responses_final.pdf"
+  ],
+  "unconfirmed": "The date of the Marana council vote is given differently by two sources and I could not settle it; the Town of Marana's own case document is a scanned PDF with no extractable text. Arizona Public Media names the developer's subsidiary as Fremont Peak Properties LLC where the Arizona Daily Star names Humphrey's Peak Properties LLC. No named resident or council member quotes from the Marana hearing were found in the sources reached, despite more than 50 speakers. The end user of the data center is not named anywhere in our sources. The water, power and jobs figures attributed to the developer and to the city's question and answer document are the project's own, not independent findings."
+ },
+ {
+  "id": "ft-1764303051982-5528",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Page is a town of about 7,000 people beside Lake Powell, in Coconino County, Arizona, and its council has agreed to sell 500 acres of city owned recreational land less than a mile from Horseshoe Bend, the overlook its tourist economy runs on.",
+    "src": "https://cornerpost.org/2025/12/10/page-ariz-citizens-file-referendum-to-veto-city-councils-decision-to-sell-500-acres-for-data-center-development/"
+   },
+   {
+    "para": 0,
+    "t": "The buyer is Huntley LLC and the data center is put at $10 billion.",
+    "src": "https://cornerpost.org/2025/12/10/page-ariz-citizens-file-referendum-to-veto-city-councils-decision-to-sell-500-acres-for-data-center-development/"
+   },
+   {
+    "para": 0,
+    "t": "The council voted 5 to 2 on 22 October 2025.",
+    "src": "https://cornerpost.org/2025/12/10/page-ariz-citizens-file-referendum-to-veto-city-councils-decision-to-sell-500-acres-for-data-center-development/"
+   },
+   {
+    "para": 0,
+    "t": "Councilwoman Amanda Hammond voted against, citing missing environmental details; Councilwoman Debi Roundtree voted for, pointing to a repurchase clause in the deal.",
+    "src": "https://www.fox10phoenix.com/news/10b-data-center-plan-page-area-faces-pushback-from-residents"
+   },
+   {
+    "para": 1,
+    "t": "Residents tried to take the decision back.",
+    "src": "https://www.knau.org/knau-and-arizona-news/2025-11-18/page-residents-want-voters-to-decide-on-planned-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Beth Henshaw led a signature drive to force the land sale to a citywide vote, needing 303 signatures.",
+    "src": "https://www.knau.org/knau-and-arizona-news/2025-11-18/page-residents-want-voters-to-decide-on-planned-data-center"
+   },
+   {
+    "para": 1,
+    "t": "\"We don't want them to take water from Lake Powell or the Colorado River, which is already stressed and over-allocated,\" Henshaw said.",
+    "src": "https://www.knau.org/knau-and-arizona-news/2025-11-18/page-residents-want-voters-to-decide-on-planned-data-center"
+   },
+   {
+    "para": 1,
+    "t": "She also pointed out that people in LeChee and Big Water use Page's services but could not vote on it.",
+    "src": "https://www.knau.org/knau-and-arizona-news/2025-11-18/page-residents-want-voters-to-decide-on-planned-data-center"
+   },
+   {
+    "para": 1,
+    "t": "The referendum was filed less than two weeks after the council vote, with 405 hand signed signatures.",
+    "src": "https://cornerpost.org/2025/12/10/page-ariz-citizens-file-referendum-to-veto-city-councils-decision-to-sell-500-acres-for-data-center-development/"
+   },
+   {
+    "para": 2,
+    "t": "It never reached a ballot.",
+    "src": "https://azbex.com/planning-development/page-rejects-petition-opposing-10b-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "In late December 2025 the city rejected the petition on procedural grounds, saying some of the signature sheets did not carry the correct serial number, or lacked a serial number, or did not include a copy of the Page ordinance being opposed.",
+    "src": "https://azbex.com/planning-development/page-rejects-petition-opposing-10b-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Similar procedural rejections had happened in Peoria in November 2025 and in Surprise in 2023.",
+    "src": "https://azbex.com/planning-development/page-rejects-petition-opposing-10b-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Opponents said they would keep fighting the development.",
+    "src": "https://azbex.com/planning-development/page-rejects-petition-opposing-10b-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "An online petition gathered more than 1,300 signatures in a week, and a protest was held on 1 November 2025.",
+    "src": "https://cornerpost.org/2025/12/10/page-ariz-citizens-file-referendum-to-veto-city-councils-decision-to-sell-500-acres-for-data-center-development/"
+   },
+   {
+    "para": 3,
+    "t": "Teyana Begay, a 19 year old Navajo organiser, said of the land: \"This is my home. The landscape is so beautiful, the scenery is so beautiful, it's sad to know it could easily be destroyed.\"",
+    "src": "https://www.fox10phoenix.com/news/10b-data-center-plan-page-area-faces-pushback-from-residents"
+   },
+   {
+    "para": 3,
+    "t": "Steven Law, who has lived in Page 20 years, said \"I'm really worried about the noise and the amount of water and electricity it's going to use.\"",
+    "src": "https://cornerpost.org/2025/12/10/page-ariz-citizens-file-referendum-to-veto-city-councils-decision-to-sell-500-acres-for-data-center-development/"
+   },
+   {
+    "para": 4,
+    "t": "The water question is not abstract here.",
+    "src": "https://cornerpost.org/2025/12/10/page-ariz-citizens-file-referendum-to-veto-city-councils-decision-to-sell-500-acres-for-data-center-development/"
+   },
+   {
+    "para": 4,
+    "t": "Lake Powell was reported at 27 percent of capacity, and large data centers can use up to 5 million gallons of water a day.",
+    "src": "https://cornerpost.org/2025/12/10/page-ariz-citizens-file-referendum-to-veto-city-councils-decision-to-sell-500-acres-for-data-center-development/"
+   },
+   {
+    "para": 4,
+    "t": "The developers have proposed closed loop cooling in answer to that.",
+    "src": "https://www.knau.org/knau-and-arizona-news/2025-11-18/page-residents-want-voters-to-decide-on-planned-data-center"
+   },
+   {
+    "para": 5,
+    "t": "The power is four kilometres away: Glen Canyon Dam, 1,312 megawatts of hydroelectricity on the same reservoir the residents are worried about.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 5,
+    "t": "No other data center project is recorded within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 5,
+    "t": "Nowhere within reach has adopted a moratorium.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://cornerpost.org/2025/12/10/page-ariz-citizens-file-referendum-to-veto-city-councils-decision-to-sell-500-acres-for-data-center-development/",
+   "https://azbex.com/planning-development/page-rejects-petition-opposing-10b-data-center/",
+   "https://www.knau.org/knau-and-arizona-news/2025-11-18/page-residents-want-voters-to-decide-on-planned-data-center",
+   "https://www.fox10phoenix.com/news/10b-data-center-plan-page-area-faces-pushback-from-residents"
+  ],
+  "unconfirmed": "The sources disagree on the developer's identity and nationality: our record and AZBEX name Huntley LLC, AZBEX ties it to the UK firms Hollybrook and Rooskey, and Fox 10 describes the developer as the UK company Rooskey working with Arup. KNAU gives the investment as $15 million where every other source gives $10 billion; I could not reconcile that and have not used the lower figure. The land price per acre, the megawatt capacity and the water source are not established. Whether opponents pursued any legal challenge to the clerk's rejection after December 2025 could not be determined."
+ },
+ {
+  "id": "ft-30",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Vermaland, LLC has proposed a data center industrial park of 3,300 acres near Red Rock in Pinal County, put at $33 billion and 3 gigawatts.",
+    "src": "https://azbigmedia.com/business/33-billion-data-center-industrial-park-coming-to-pinal-county/"
+   },
+   {
+    "para": 0,
+    "t": "The company describes it as the largest data center industrial park planned in the United States.",
+    "src": "https://azbigmedia.com/business/33-billion-data-center-industrial-park-coming-to-pinal-county/"
+   },
+   {
+    "para": 0,
+    "t": "The site sits in the corridor between Phoenix and Tucson, inside a federally designated Qualified Opportunity Zone.",
+    "src": "https://azbigmedia.com/business/33-billion-data-center-industrial-park-coming-to-pinal-county/"
+   },
+   {
+    "para": 1,
+    "t": "Vermaland's chief executive is Kuldip Verma, known as Ken.",
+    "src": "https://azbigmedia.com/business/33-billion-data-center-industrial-park-coming-to-pinal-county/"
+   },
+   {
+    "para": 1,
+    "t": "He said the development \"positions Arizona to capture a meaningful share of the AI infrastructure boom\", citing lower power costs than California.",
+    "src": "https://azbigmedia.com/business/33-billion-data-center-industrial-park-coming-to-pinal-county/"
+   },
+   {
+    "para": 1,
+    "t": "The power is described as a hybrid of solar, natural gas, battery storage and the grid; the company holds 16 solar farm sites across more than 10,000 acres.",
+    "src": "https://azbigmedia.com/business/33-billion-data-center-industrial-park-coming-to-pinal-county/"
+   },
+   {
+    "para": 2,
+    "t": "A separate 1,700 acre section of the holding has already been zoned Industrial-2, with further parcels in planning.",
+    "src": "https://azbigmedia.com/business/33-billion-data-center-industrial-park-coming-to-pinal-county/"
+   },
+   {
+    "para": 3,
+    "t": "For scale, the whole Arizona Public Service control area holds 9,901 megawatts of capacity against a peak load of 7,611 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 3,
+    "t": "The three gigawatts this one site would draw is a large fraction of that.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "The nearest existing generation is the 179 megawatt Saguaro gas plant, 14 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Beale Infrastructure's 600 megawatt Marana campus lies 17 kilometres south, and another Vermaland site south of Eloy, 25 kilometres away, is recorded as blocked.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://azbigmedia.com/business/33-billion-data-center-industrial-park-coming-to-pinal-county/"
+  ],
+  "unconfirmed": "No county hearing date, vote or approval for the 3,300 acre proposal itself was found, only the earlier Industrial-2 zoning on a 1,700 acre section. The Phoenix Business Journal and Arizona Republic reports cited in our record could not be read, one paywalled and one blocked. No water source, no tenant, no construction timeline and no resident or official reaction was found. Our record logs pushback as unknown, and I found no organised opposition to this site."
+ },
+ {
+  "id": "ft-31",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Two thousand acres of unincorporated Maricopa County land near Tonopah, known as Hassayampa Ranch, have been approved for industrial use to take a data center campus put at $25 billion and one gigawatt.",
+    "src": "https://berryriddell.com/25b-data-center-planned-west-of-phoenix-wins-key-approval-from-county/"
+   },
+   {
+    "para": 0,
+    "t": "The Maricopa County Board of Supervisors approved the zoning change on 10 December 2025, unanimously, with Supervisor Thomas Galvin recusing himself.",
+    "src": "https://berryriddell.com/25b-data-center-planned-west-of-phoenix-wins-key-approval-from-county/"
+   },
+   {
+    "para": 1,
+    "t": "The land is held by Arizona Land Consulting, led by Anita Verma-Lallian, with the venture capitalist Chamath Palihapitiya, a former Facebook executive and chief executive of Social Capital, and was bought earlier in 2025 in a $51 million deal.",
+    "src": "https://berryriddell.com/25b-data-center-planned-west-of-phoenix-wins-key-approval-from-county/"
+   },
+   {
+    "para": 1,
+    "t": "Verma-Lallian said the goal was \"not simply to develop land, but it's to contribute to a thoughtful, sustainable pattern of growth that benefits residents.\"",
+    "src": "https://berryriddell.com/25b-data-center-planned-west-of-phoenix-wins-key-approval-from-county/"
+   },
+   {
+    "para": 2,
+    "t": "Neighbouring communities depend on groundwater, and raised concerns about the water and energy such a campus would use.",
+    "src": "https://berryriddell.com/25b-data-center-planned-west-of-phoenix-wins-key-approval-from-county/"
+   },
+   {
+    "para": 3,
+    "t": "The site is 14 kilometres from Palo Verde, a 3,937 megawatt nuclear plant, with the 624 megawatt Mesquite gas station and two solar plants within 20 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The project is carried at 1,500 megawatts and 2,100 acres, where the reporting gives one gigawatt and 2,000 acres.",
+    "src": "data:capacity_mw"
+   }
+  ],
+  "sources": [
+   "https://berryriddell.com/25b-data-center-planned-west-of-phoenix-wins-key-approval-from-county/"
+  ],
+  "unconfirmed": "No named resident, no objector and no count of speakers at the December 2025 hearing was found, only a general reference to neighbours' water and energy concerns. The water source for the campus is not established. No tenant is named. The Bloomberg and Data Center Dynamics articles in our record could not be read, one paywalled and one blocked, so the acreage and megawatt discrepancies with our record could not be settled."
+ },
+ {
+  "id": "ft-33",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "There is no developer and no application here yet, only an offer of land.",
+    "src": "https://www.kold.com/2025/10/22/data-center-possible-davis-monthan/"
+   },
+   {
+    "para": 0,
+    "t": "The Air Force has put 300 acres it considers underused at Davis-Monthan Air Force Base in Tucson, in Pima County, Arizona, out for lease proposals for an artificial intelligence data center.",
+    "src": "https://www.kold.com/2025/10/22/data-center-possible-davis-monthan/"
+   },
+   {
+    "para": 0,
+    "t": "Any proposal must draw at least 100 megawatts and involve at least $500 million of capital investment, and applications were due by 14 November.",
+    "src": "https://www.kold.com/2025/10/22/data-center-possible-davis-monthan/"
+   },
+   {
+    "para": 0,
+    "t": "Davis-Monthan is one of five bases in the request, alongside Arnold in Tennessee, Edwards in California, Joint Base McGuire-Dix-Lakehurst in New Jersey and Robins in Georgia.",
+    "src": "https://www.kold.com/2025/10/22/data-center-possible-davis-monthan/"
+   },
+   {
+    "para": 1,
+    "t": "A Tucson Water spokesperson said the base supplies its own water, so a data center there would not draw on the city system.",
+    "src": "https://www.kold.com/2025/10/22/data-center-possible-davis-monthan/"
+   },
+   {
+    "para": 2,
+    "t": "Vivek Bharathan of the No Desert Data Center Coalition said \"There are very few details at this point\", and restated the group's position: \"not one drop for data.\"",
+    "src": "https://www.kold.com/2025/10/22/data-center-possible-davis-monthan/"
+   },
+   {
+    "para": 2,
+    "t": "The 355th Wing public affairs office had not responded to the station's questions when the report was published on 22 October 2025.",
+    "src": "https://www.kold.com/2025/10/22/data-center-possible-davis-monthan/"
+   },
+   {
+    "para": 3,
+    "t": "The land sits about 4 kilometres from the 490 megawatt H Wilson Sundt generating station.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Amazon Web Services withdrew a data center proposal 15 kilometres away, and Tucson adopted data center zoning limits in August 2026.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.kold.com/2025/10/22/data-center-possible-davis-monthan/"
+  ],
+  "unconfirmed": "Whether anyone bid by the 14 November deadline, and whether any lease has been awarded, could not be established; nothing later than October 2025 was found. The exact part of the base offered is described only as the western or southwest side. No developer, tenant or megawatt figure exists for this site. Our record's 300 acre figure matches the Air Force offer, but our record's status of proposed is stronger than what the reporting supports, which is an open solicitation."
+ },
+ {
+  "id": "ft-35",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The data center once carried for the Guadalupe Quarry at Brisbane, in San Mateo County, California, is no longer part of the plan.",
+    "src": "https://brisbanequarry.com/learn-about-the-project/"
+   },
+   {
+    "para": 0,
+    "t": "The project has been renamed the Quarry Innovation Center, and the developer's own page states that it \"is intended to be 100% Advanced Manufacturing and related uses. It does NOT include a data center.\"",
+    "src": "https://brisbanequarry.com/learn-about-the-project/"
+   },
+   {
+    "para": 1,
+    "t": "The developer is Orchard Partners.",
+    "src": "https://brisbanequarry.com/learn-about-the-project/"
+   },
+   {
+    "para": 1,
+    "t": "The quarry property runs to 144 acres, of which about 61 acres would be developed and annexed into Brisbane, with about 82 acres, 57 percent of the site, set aside as protected open space.",
+    "src": "https://brisbanequarry.com/learn-about-the-project/"
+   },
+   {
+    "para": 1,
+    "t": "What is proposed now is a single two level building of 892,000 square feet, a reduction of about a third from the earlier design.",
+    "src": "https://brisbanequarry.com/learn-about-the-project/"
+   },
+   {
+    "para": 2,
+    "t": "On 6 August 2026 the city of Brisbane circulated a corrected revised notice of preparation for a recirculated draft environmental impact report.",
+    "src": "https://brisbanequarry.com/learn-about-the-project/"
+   },
+   {
+    "para": 2,
+    "t": "The project team has said it will complete a full environmental impact report and will not seek a CEQA exemption for advanced manufacturing under SB 131 of 2025.",
+    "src": "https://brisbanequarry.com/learn-about-the-project/"
+   },
+   {
+    "para": 3,
+    "t": "The site is still listed as a proposed data center of 62 acres, which the current filings contradict.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Five other data center sites lie within 40 kilometres, the nearest a 10 megawatt Global Stack proposal 2 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://brisbanequarry.com/learn-about-the-project/"
+  ],
+  "unconfirmed": "The date the data center was dropped from the proposal, and whether it was dropped in response to community objection or for commercial reasons, are not established. The developer's own site is the source for the change, and no independent report confirming it was reachable: the San Mateo Daily Journal article returned 403 and the Data Center Dynamics article in our record returned 403. Building heights, and whether any council vote has been taken, are not established. Our record's acreage, status and site name all need review against the current filings."
+ }
+]

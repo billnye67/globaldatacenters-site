@@ -1,0 +1,516 @@
+[
+ {
+  "id": "ft-210",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The only source attached to this entry is a shortened Google link that resolves to nothing.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The entry lists an Upson County data center megasite at 795 Windsweep Farm Road in Thomaston, with Dominion Capital as the developer, and no acreage, capacity or date.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "This is the only data center site recorded in Upson County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "The nearest tracked projects are 32 kilometres away at Forsyth, and 40 kilometres off at Macon, Griffin and Bolingbroke.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The 592 megawatt Edward L. Addison gas plant is 7 kilometres away, closer than most sites on this map get to their power.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Five moratoriums and zoning limits are in force in the surrounding counties and towns, including Lamar County's from 1 September 2025, Pike County's from 10 September 2025 and Monroe County's from 3 December 2025.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Nothing about this project could be checked. The single source in our record is an opaque share link that redirects to an empty Google query, so the acreage, megawatts, investment, filing date and whether any application exists are all unknown, as is Dominion Capital's role. The entry needs a working source before the page is trusted. No Upson County local reporting was sought."
+ },
+ {
+  "id": "ft-1768319637494-3478",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This campus is listed as under construction on 200 acres at Randall Hunt Road in Thomson, in McDuffie County, Georgia, and both sources attached to it returned 403.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "Their headlines are all that is left: \"Plans filed for six-building data center campus outside Augusta, Georgia\" and \"200-acre Project Azalea data center approved\".",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "So six buildings were proposed and something was approved, but by whom, on what date and with what conditions is not recorded.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "This is the only data center site recorded in McDuffie County, but it sits at the edge of the Augusta cluster.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "The two entries that appear to be Google's White Oak Technology Park are 7 and 9 kilometres away, the Pumpkin Tech Campus 9, a T5 campus 23 and a QTS campus 28.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "No moratorium is in force anywhere near it.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generation is an 80 megawatt solar plant 27 kilometres away and the 336 megawatt J Strom Thurmond dam at 30.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Both sources in our record returned 403, so the developer, the megawatts, the square footage, the approving body, the date of approval and the construction status are all unknown. No water figure exists. No McDuffie County local reporting was sought and no resident or official reaction is known; our record logs pushback as unknown."
+ },
+ {
+  "id": "ft-200",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The developer named on the state filing for this one is the county's own development authority.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4094"
+   },
+   {
+    "para": 0,
+    "t": "Georgia's Development of Regional Impact record for Project Rita, a data center in Tyrone, gives the developer as the Fayette County Development Authority, submitted through the town of Tyrone and reviewed by the Atlanta Regional Commission, with the Georgia Regional Transportation Authority also holding jurisdiction.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4094"
+   },
+   {
+    "para": 0,
+    "t": "The initial form went in on 27 October 2023, a further form followed on 28 February 2024, and on 9 May 2024 the state determined it warranted regional review, certified the file complete and recorded the regional commission's finding, all on the same day.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4094"
+   },
+   {
+    "para": 0,
+    "t": "The review was projected to complete on 8 June 2024 and is marked completed.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4094"
+   },
+   {
+    "para": 1,
+    "t": "The record gives no acreage, no square footage, no megawatt figure and no water demand.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4094"
+   },
+   {
+    "para": 1,
+    "t": "The campus is put at 96 megawatts on Joel Cowan Parkway in Tyrone and listed as operating.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "Five data center sites are recorded in Fayette County, and six lie within 9 kilometres of this one, including two Microsoft campuses, two T5 campuses, Project Peach and a Vantage site.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Ten moratoriums, bans and zoning limits are in force in the surrounding jurisdictions, though Fayette County itself has none.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Thirty kilometres away, the Yates gas plant carries 714 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4094"
+  ],
+  "unconfirmed": "The state file records that a review happened but not what it found, and carries none of the figures a neighbour would want. That a county development authority is named as the developer is unusual and no source read explains the arrangement, or names the private company that would build or occupy the campus. Our record's 96 megawatt figure and its operating status appear in no source read. No local reporting or resident reaction was found."
+ },
+ {
+  "id": "ft-202",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The public hearing signs for this data center rezoning went up thirteen days before the hearing, and the law requires fifteen.",
+    "src": "http://www.l-a-k-e.org/blog/2026/08/rezoning-materials-for-rez-2025-11-potential-datacenter-site-on-coleman-road-north-2026-08-03.html"
+   },
+   {
+    "para": 0,
+    "t": "That is what a local group found after asking Lowndes County for the rezoning file under Georgia's open records law.",
+    "src": "http://www.l-a-k-e.org/blog/2026/08/rezoning-materials-for-rez-2025-11-potential-datacenter-site-on-coleman-road-north-2026-08-03.html"
+   },
+   {
+    "para": 0,
+    "t": "The signs were photographed on 25 June 2025 and the county commission heard the case on 8 July.",
+    "src": "http://www.l-a-k-e.org/blog/2026/08/rezoning-materials-for-rez-2025-11-potential-datacenter-site-on-coleman-road-north-2026-08-03.html"
+   },
+   {
+    "para": 1,
+    "t": "The application, REZ-2025-11, covers 719.46 acres on Coleman Road North, across the Withlacoochee River from Langdale Park, for a data center.",
+    "src": "http://www.l-a-k-e.org/blog/2026/08/rezoning-materials-for-rez-2025-11-potential-datacenter-site-on-coleman-road-north-2026-08-03.html"
+   },
+   {
+    "para": 1,
+    "t": "The applicant is Langdale Capital Assets Inc., which received the property from The Langdale Company on 30 December 2009 for, in the deed's words, \"TEN DOLLARS and other valuable consideration\".",
+    "src": "http://www.l-a-k-e.org/blog/2026/08/rezoning-materials-for-rez-2025-11-potential-datacenter-site-on-coleman-road-north-2026-08-03.html"
+   },
+   {
+    "para": 2,
+    "t": "The dates run: application lodged 9 May 2025, fees of $908.48 paid on 19 May, completeness determined 9 June, adjacent owners notified by certified mail on 20 June, planning commission on 30 June, county commission on 8 July.",
+    "src": "http://www.l-a-k-e.org/blog/2026/08/rezoning-materials-for-rez-2025-11-potential-datacenter-site-on-coleman-road-north-2026-08-03.html"
+   },
+   {
+    "para": 2,
+    "t": "The county first quoted $250 for the documents, which are the kind normally included in a board packet, and in the end charged $40.85.",
+    "src": "http://www.l-a-k-e.org/blog/2026/08/rezoning-materials-for-rez-2025-11-potential-datacenter-site-on-coleman-road-north-2026-08-03.html"
+   },
+   {
+    "para": 3,
+    "t": "Water is the reason the site matters.",
+    "src": "http://www.l-a-k-e.org/blog/2026/08/rezoning-materials-for-rez-2025-11-potential-datacenter-site-on-coleman-road-north-2026-08-03.html"
+   },
+   {
+    "para": 3,
+    "t": "The rezoning materials document the land's closeness to the Withlacoochee River and its position over the Floridan Aquifer.",
+    "src": "http://www.l-a-k-e.org/blog/2026/08/rezoning-materials-for-rez-2025-11-potential-datacenter-site-on-coleman-road-north-2026-08-03.html"
+   },
+   {
+    "para": 4,
+    "t": "The developer is named as Langdale Capital Assets, with organised local advocacy logged through a group called Lowndes Citizens Against Data Centers, and a Valdosta moratorium running from 25 August to 24 October 2026.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 4,
+    "t": "This is the only data center site recorded in Lowndes County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generation is a 70 megawatt biomass plant at a Valdosta paper mill, 21 kilometres away, and two 150 megawatt solar plants at about 30.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "http://www.l-a-k-e.org/blog/2026/08/rezoning-materials-for-rez-2025-11-potential-datacenter-site-on-coleman-road-north-2026-08-03.html"
+  ],
+  "unconfirmed": "What the planning commission and the county commission decided on 30 June and 8 July 2025 is not established, nor whether the short notice period was ever raised as a challenge. No megawatt figure, water withdrawal figure, square footage or tenant has been published; the file describes a potential data center site rather than a designed project. Our record gives the address as near Quail Hollow Circle in Valdosta while the rezoning file places it on Coleman Road North, and gives no acreage against the file's 719.46 acres. The Ledger-Enquirer article in our record could not be fetched."
+ },
+ {
+  "id": "ft-206",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This entry and the Avemore entry a kilometre away cite the same trade report and the same 428 acres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "A proposed Atlas data center is listed at South Van Wert Road and Northeast Hickory Level Road in Villa Rica, in Carroll County, Georgia, with no acreage and no capacity figure, and its source, headed \"Atlas files for 428-acre technology and data park outside Atlanta, Georgia\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The Avemore entry, at 55 and 63 Goldworth Road, carries the 428 acre figure and a cost of $5 billion to $7 billion.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The Villa Rica planning file for Avemore describes a seven building data center campus on about 432 acres in three parcels, which is consistent with the headline.",
+    "src": "https://cms2.revize.com/revize/villaricaga/Documents/Government/Boards%20and%20Committees/Planning%20and%20Zoning/2024/Agenda/PlanningandZoningCommissionPacket08-20-24031218092024PM1371.pdf"
+   },
+   {
+    "para": 2,
+    "t": "Carroll County has adopted two data center moratoriums, on 16 June 2026 and 4 August 2026, and seven other measures are in force nearby.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Six other tracked data center sites lie within 21 kilometres, including two EdgeConneX entries and Atlas Development's Project Bus at Temple.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The closest generation is the 714 megawatt Yates gas plant, 28 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://cms2.revize.com/revize/villaricaga/Documents/Government/Boards%20and%20Committees/Planning%20and%20Zoning/2024/Agenda/PlanningandZoningCommissionPacket08-20-24031218092024PM1371.pdf"
+  ],
+  "unconfirmed": "Whether this entry and the Avemore entry a kilometre away are one project recorded twice is unresolved, though the shared source, the shared acreage and the shared town all point that way; the two addresses are different. The trade report could not be read, so the filing date, the megawatts and the current status are unknown. Our record names no developer here and gives \"Atlanta Development\" on the Avemore entry, while the headline says Atlas."
+ },
+ {
+  "id": "ft-204",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This land in Villa Rica, in Carroll County, Georgia, was approved for houses, including a retirement community, and the applicant came back asking to put seven data center halls on it instead.",
+    "src": "https://cms2.revize.com/revize/villaricaga/Documents/Government/Boards%20and%20Committees/Planning%20and%20Zoning/2024/Agenda/PlanningandZoningCommissionPacket08-20-24031218092024PM1371.pdf"
+   },
+   {
+    "para": 0,
+    "t": "Villa Rica city council approved the Avemore project at 55 and 63 Goldworth Road in 2018: 200 single family units, 300 multi family and live/work units, and senior housing including independent living and memory care with a minimum age of 55.",
+    "src": "https://cms2.revize.com/revize/villaricaga/Documents/Government/Boards%20and%20Committees/Planning%20and%20Zoning/2024/Agenda/PlanningandZoningCommissionPacket08-20-24031218092024PM1371.pdf"
+   },
+   {
+    "para": 0,
+    "t": "In 2020 the city raised the single family limit to 250 units and the multi family to 325, and in 2021 it approved another 290 units of senior housing.",
+    "src": "https://cms2.revize.com/revize/villaricaga/Documents/Government/Boards%20and%20Committees/Planning%20and%20Zoning/2024/Agenda/PlanningandZoningCommissionPacket08-20-24031218092024PM1371.pdf"
+   },
+   {
+    "para": 1,
+    "t": "On 20 August 2024 two items came before the planning and zoning commission, both from Avemore GA LLC.",
+    "src": "https://cms2.revize.com/revize/villaricaga/Documents/Government/Boards%20and%20Committees/Planning%20and%20Zoning/2024/Agenda/PlanningandZoningCommissionPacket08-20-24031218092024PM1371.pdf"
+   },
+   {
+    "para": 1,
+    "t": "The first asked to extend the 2018 planned development zoning, due to expire on 12 September 2024; the second asked to alter the conditions of that planned development to add light industrial zoning for a data center campus.",
+    "src": "https://cms2.revize.com/revize/villaricaga/Documents/Government/Boards%20and%20Committees/Planning%20and%20Zoning/2024/Agenda/PlanningandZoningCommissionPacket08-20-24031218092024PM1371.pdf"
+   },
+   {
+    "para": 2,
+    "t": "Nina Shabazz, the community development director, recommended refusing both.",
+    "src": "https://cms2.revize.com/revize/villaricaga/Documents/Government/Boards%20and%20Committees/Planning%20and%20Zoning/2024/Agenda/PlanningandZoningCommissionPacket08-20-24031218092024PM1371.pdf"
+   },
+   {
+    "para": 2,
+    "t": "On the extension she wrote that the \"Project is not the original project that was conditionally approved in 2018\" and \"Does not qualify for or not constitute a renewal/extension of original\".",
+    "src": "https://cms2.revize.com/revize/villaricaga/Documents/Government/Boards%20and%20Committees/Planning%20and%20Zoning/2024/Agenda/PlanningandZoningCommissionPacket08-20-24031218092024PM1371.pdf"
+   },
+   {
+    "para": 2,
+    "t": "On the data center she wrote that the \"Project is not an alteration of the zoning conditions\" but a \"Completely new project that was never reviewed or approved\", and recommended the applicant be told to start again with a complete application.",
+    "src": "https://cms2.revize.com/revize/villaricaga/Documents/Government/Boards%20and%20Committees/Planning%20and%20Zoning/2024/Agenda/PlanningandZoningCommissionPacket08-20-24031218092024PM1371.pdf"
+   },
+   {
+    "para": 3,
+    "t": "The site plan in the packet, marked confidential and dated 29 January 2024, shows seven buildings of 350,000 square feet each, about 2.45 million square feet in total.",
+    "src": "https://cms2.revize.com/revize/villaricaga/Documents/Government/Boards%20and%20Committees/Planning%20and%20Zoning/2024/Agenda/PlanningandZoningCommissionPacket08-20-24031218092024PM1371.pdf"
+   },
+   {
+    "para": 3,
+    "t": "The land is three parcels: 192.9 acres held by Avemore GA LLC, 204.53 acres by Jerry Tolbert and 35.03 acres by Brenda Matthews, about 432 acres together.",
+    "src": "https://cms2.revize.com/revize/villaricaga/Documents/Government/Boards%20and%20Committees/Planning%20and%20Zoning/2024/Agenda/PlanningandZoningCommissionPacket08-20-24031218092024PM1371.pdf"
+   },
+   {
+    "para": 4,
+    "t": "The project is put at 428 acres and $5 billion to $7 billion and listed as proposed, with the developer named as Atlanta Development where the trade press names Atlas.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 4,
+    "t": "Carroll County adopted data center moratoriums on 16 June 2026 and 4 August 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "Yates, a gas plant of 714 megawatts, is 27 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://cms2.revize.com/revize/villaricaga/Documents/Government/Boards%20and%20Committees/Planning%20and%20Zoning/2024/Agenda/PlanningandZoningCommissionPacket08-20-24031218092024PM1371.pdf"
+  ],
+  "unconfirmed": "What the planning and zoning commission and then the city council actually decided on 20 August 2024 and afterwards is not established; only the staff recommendations were read. No megawatt figure, water demand or tenant appears in the packet, and the site plan is marked confidential. The developer is given as Atlanta Development in our record and Atlas in the trade headline, and the packet names only Avemore GA LLC. Whether this entry and the Atlas entry a kilometre away are the same project is unresolved. No resident objection appears in the papers read."
+ },
+ {
+  "id": "ft-205",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The man who filed for 701 acres of data center here does not own the land, and no operator has been named.",
+    "src": "https://www.govtech.com/artificial-intelligence/atlanta-data-center-would-be-larger-than-mall-of-georgia"
+   },
+   {
+    "para": 0,
+    "t": "The Hickman Property sits in Douglas County near Interstate 20 and Clinton Road, partly inside Villa Rica.",
+    "src": "https://www.govtech.com/artificial-intelligence/atlanta-data-center-would-be-larger-than-mall-of-georgia"
+   },
+   {
+    "para": 0,
+    "t": "The plan is 6.2 million square feet: eleven data center buildings plus 66,000 square feet in three warehouses.",
+    "src": "https://www.govtech.com/artificial-intelligence/atlanta-data-center-would-be-larger-than-mall-of-georgia"
+   },
+   {
+    "para": 1,
+    "t": "The developer is East Village Dothan LLC, registered in 2022 by James Hickman, who does not own the property, and there is no sign that a major data center operator is tied to the project.",
+    "src": "https://www.govtech.com/artificial-intelligence/atlanta-data-center-would-be-larger-than-mall-of-georgia"
+   },
+   {
+    "para": 1,
+    "t": "The filing did not disclose a megawatt figure, though the report estimates several hundred megawatts would be needed, and gave no timeline and no build out value.",
+    "src": "https://www.govtech.com/artificial-intelligence/atlanta-data-center-would-be-larger-than-mall-of-georgia"
+   },
+   {
+    "para": 1,
+    "t": "The land is zoned residential and agricultural and would have to be rezoned.",
+    "src": "https://www.govtech.com/artificial-intelligence/atlanta-data-center-would-be-larger-than-mall-of-georgia"
+   },
+   {
+    "para": 2,
+    "t": "For context, Atlanta became the largest data center market in the United States in 2024, adding 706 megawatts of leased space, with nearly 2,160 megawatts under construction.",
+    "src": "https://www.govtech.com/artificial-intelligence/atlanta-data-center-would-be-larger-than-mall-of-georgia"
+   },
+   {
+    "para": 3,
+    "t": "The project is listed as suspended, at 700 acres, with EdgeConnex named alongside East Village Donthan LLC, and a second source headed \"County officials deny data center zoning request in Georgia\", which returned 403.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "Twelve data center sites are recorded in Douglas County, and six lie within 23 kilometres of this one.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Twenty-seven kilometres away stands the 714 megawatt Yates gas plant.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.govtech.com/artificial-intelligence/atlanta-data-center-would-be-larger-than-mall-of-georgia"
+  ],
+  "unconfirmed": "The report read does not mention EdgeConneX at all, so our record's attribution to that company is uncorroborated, and it spells the applicant East Village Dothan LLC against our record's Donthan. The date and detail of the zoning refusal our record's second headline describes could not be read, so who refused it, when and on what grounds are unknown, and our record's status of suspended rests on that headline alone. No megawatt figure, water demand or tenant is established, and no resident or official is named or quoted."
+ },
+ {
+  "id": "ft-207",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "As at Davis-Monthan in Arizona and Edwards in California, what exists here is an offer of federal land rather than a project.",
+    "src": "https://www.kold.com/2025/10/22/data-center-possible-davis-monthan/"
+   },
+   {
+    "para": 0,
+    "t": "In October 2025 the Air Force sought lease proposals for artificial intelligence data centers on five installations, and Robins Air Force Base at Warner Robins, in Houston County, Georgia, was one of them.",
+    "src": "https://www.kold.com/2025/10/22/data-center-possible-davis-monthan/"
+   },
+   {
+    "para": 0,
+    "t": "Bids had to add more than 100 megawatts of demand and involve at least $500 million of capital investment, and were due by 14 November.",
+    "src": "https://www.kold.com/2025/10/22/data-center-possible-davis-monthan/"
+   },
+   {
+    "para": 1,
+    "t": "The site is placed at Pike Avenue and South Perimeter Road in Warner Robins, with no acreage and no capacity figure.",
+    "src": "data:address"
+   },
+   {
+    "para": 2,
+    "t": "There is already generation on and around the base: a 128 megawatt solar plant 5 kilometres away, the 160 megawatt Robins plant at 7 and a 204 megawatt solar plant in Twiggs County at 10.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Project Eagle, the Eagle Rock campus approved in Twiggs County in September 2025, is 8 kilometres away, and three more Eagle Rock entries lie between 32 and 38 kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.kold.com/2025/10/22/data-center-possible-davis-monthan/"
+  ],
+  "unconfirmed": "Nothing specific to Robins was found: no acreage, no part of the base identified beyond the address in our record, no megawatt figure, no bidder and no award. The only reachable account of the Air Force solicitation is a Tucson station's report on the Davis-Monthan site, which names Robins only in passing; the Data Center Dynamics article in our record returned 403. Whether anyone bid by the 14 November deadline is unknown, and our record's status of proposed is stronger than an open solicitation supports."
+ },
+ {
+  "id": "ft-1771618149523-4077",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The grid this one sits on has a peak load of 1,117 megawatts for the whole island.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 0,
+    "t": "A data center at Mililani Technology Park on Kahelu Avenue, in Honolulu County, Hawaii, is listed as operating and expanding, with no capacity figure, and the single source, headed \"Hawaii-based cloud provider Servpac expands data center\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Hawaii has no interstate transmission, so every megawatt a data center draws has to be generated on the island.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 1,
+    "t": "The nearest plants are a 50 megawatt biomass station at Schofield 4 kilometres away, a 78 megawatt solar farm at 6, a 72 megawatt solar and battery site at 9 and the 457 megawatt Waiau oil plant at 12.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Honolulu County, with no other project within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "No Hawaii jurisdiction within reach has paused these buildings.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the size of the expansion, its capacity, its date and whether it has been built are all unknown, as is the operator beyond the name in the headline. No water figure and no local reaction are established, and no Hawaii local reporting was sought. Our record's confidence in the entry is medium."
+ },
+ {
+  "id": "ft-220",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Edged states this data center's water use for cooling as zero.",
+    "src": "https://www.edged.us/des-moines"
+   },
+   {
+    "para": 0,
+    "t": "Its specification for the site at 9100 Southeast Four Mile Drive in Ankeny, in Polk County, Iowa, gives a water usage effectiveness of 0.00 litres per kilowatt hour of cooling, using a waterless closed loop system that moves heat with glycol through rooftop air cooled chillers.",
+    "src": "https://www.edged.us/des-moines"
+   },
+   {
+    "para": 1,
+    "t": "The building is a single storey of more than 100,000 square feet on over 17 acres, with 13 megawatts of critical load, a design power usage effectiveness of 1.15, Tier III design with N+1 redundancy, and support for more than 400 kilowatts a rack where liquid cooling is added.",
+    "src": "https://www.edged.us/des-moines"
+   },
+   {
+    "para": 1,
+    "t": "Space was advertised as available from the third quarter of 2024.",
+    "src": "https://www.edged.us/des-moines"
+   },
+   {
+    "para": 2,
+    "t": "Those figures are the company's own, published on its own site, and no independent measurement of them was found.",
+    "src": "https://www.edged.us/des-moines"
+   },
+   {
+    "para": 2,
+    "t": "The project is put at 13 megawatts on 17 acres for $187 million and listed as under construction.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "At 13 megawatts this is one of the smaller sites in a crowded county.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Six data center sites are recorded in Polk County, with a Tract campus 4 kilometres away, Meta's Altoona campus at 8, an Apple site at Waukee at 9 and a Microsoft campus at West Des Moines 19.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Four gas plants totalling about 900 megawatts sit within 11 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Polk County and its neighbours have adopted no pause.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.edged.us/des-moines"
+  ],
+  "unconfirmed": "Every operational figure comes from the developer's own specification page, including the zero water claim, which covers cooling only and does not address water used elsewhere on the site. The $187 million figure in our record appears in no source read. Whether the building is finished, and whether the third quarter 2024 availability date was met, are not established, so our record's status of under construction could not be checked. No Iowa local reporting was sought and no resident or official reaction is known. The Data Center Dynamics article in our record returned 403."
+ }
+]

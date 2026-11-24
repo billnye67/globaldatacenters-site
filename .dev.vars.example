@@ -1,0 +1,29 @@
+# Copy to .dev.vars for local development. In production these are set as
+# Cloudflare Pages secrets. Every value below is a placeholder.
+SITE_URL=http://localhost:8788
+CONTACT_TO_EMAIL=owner@example.com
+ADMIN_PASSWORD=change-me
+ALERTS_SECRET=change-me
+
+# Stripe (payments)
+STRIPE_SECRET_KEY=sk_test_placeholder
+STRIPE_PRICE_ID=price_placeholder
+STRIPE_WEBHOOK_SECRET=whsec_placeholder
+
+# Brevo (transactional email and the mailing list)
+BREVO_API_KEY=placeholder
+BREVO_FROM=noreply@example.com
+BREVO_LIST_ID=0
+
+# Printify (merchandise fulfilment)
+PRINTIFY_SK=placeholder
+PRINTIFY_SHOP_ID=0
+
+# Geocoding and maps
+GEOAPIFY_KEY=placeholder
+GOOGLE_MAPS_KEY=placeholder
+
+# Gemini (letter drafting)
+GEMINI_API_KEY=placeholder
+
+# Also needed: a KV namespace bound as REPORTS.

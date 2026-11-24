@@ -1,0 +1,681 @@
+[
+ {
+  "id": "ft-456",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The nuclear station is a kilometre away, which is the whole point.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 0,
+    "t": "Energy Capital Partners, the owner of Calpine, proposes a data center near 1055 Pikes Peak Road at Delta, in Peach Bottom Township, York County.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The entry puts it at 828 megawatts, proposed, costing $5 billion, with no acreage.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "The generation around it is extraordinary for a rural township.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "The 2,549 megawatt Peach Bottom nuclear station is one kilometre off, the 1,404 megawatt York Energy Center three, the 1,058 megawatt Muddy Run pumped storage plant six and the 249 megawatt Holtwood hydroelectric station nine.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "Together those four make more than five gigawatts within ten kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Only two other data center sites sit within reach, both CoreWeave projects at Lancaster, 32 and 34 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Four measures sit nearby on record: zoning limits at Londonderry Township from February 11, 2026, Lancaster from July 14, Pequea Township from August 19, and an outright ban in Harford County, Maryland, from June 10.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Peach Bottom Township itself has none.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "Pushback is marked as unknown, at medium confidence.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "No published account describes a resident campaign, a zoning hearing or a planning decision on this project.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "No water figure has been published, which for a site beside the Susquehanna is the question a neighbour would ask first.",
+    "src": "data:capacity_mw"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The York Dispatch report in our record returned HTTP 402 and the Data Center Dynamics report is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. No acreage, water figure, building count or timetable has been established, and no official, resident or company representative is quoted. The relationship between Energy Capital Partners and Calpine, which our record gives as the developer, is that the former owns the latter; whether the data center is Calpine's project or its owner's is unresolved."
+ },
+ {
+  "id": "ft-1774024346254-5098",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The borough wrote a rule the developer did not like, and the developer went to court.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Dickson City Development LLC wants to build data centers on Bell Mountain, off Business Route 6 in Dickson City, Lackawanna County, in a part of the borough zoned for homes and businesses.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "On February 12, 2026, after three public hearings, the borough council passed an ordinance allowing data centers on 70 acres of its light manufacturing zone, as a special exception; the borough's planner argued the manufacturing district near the Lackawanna River and the Throop border was the right place for them.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The company challenged the ordinance as exclusionary.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "On March 13, 2026 it filed a land use appeal in the Lackawanna County Court of Common Pleas, asking the court to annul the February adoption; on May 21, 2026 the borough's zoning hearing board unanimously refused its appeal against the ordinance.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The matter is now with the county court.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The developer is tied to projects elsewhere.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The record's own source is headlined that a data center developer tied to projects in Archbald and Blakely has moved to Dickson City.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded as proposed with no acreage, no capacity, no cost and no developer field filled in, at medium confidence.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Ten other data center sites on record sit within ten kilometres, including a withdrawn Blakely campus at four, a 600 megawatt Breaker Street proposal at seven, and the Archbald cluster between eight and ten.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 1,362 megawatt Lackawanna Energy Center is eight kilometres away and the 72 megawatt Archbald power station the same distance.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Dickson City has no moratorium on record, only its new zoning ordinance; the nearest measures are limits at Mayfield from December 10, 2025 and Olyphant Borough from April 14, 2026, and a moratorium at Clinton Township from April 30.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "All three of our record's sources are archived or syndicated Times-Tribune reports that were not fetched, so no source url is listed and each sentence is attributed to our record's source list. No named resident, council member or zoning board member is quoted. No acreage, megawatt, water or cost figure has been published for the project. Whether the county court has ruled is unknown."
+ },
+ {
+  "id": "ft-1778599430491-3948",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "It was going to be a warehouse.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "MRP Industrial had planned a logistics hub called Susquehanna Crossings on a 288 acre site between Amity Road, the Susquehanna Trail and US Highway 22 near Duncannon, in Perry County, and has switched to proposing a data center campus: ten buildings of about 138,000 square feet each.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The plans were discussed at a planning commission meeting on April 8.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Watts Township is meanwhile looking at whether to write data centers into its zoning at all.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The record shows Granville Township adopting zoning limits on July 12, 2026, with a note that they were enacted two days after an application for a PA Data Center Partners project was submitted, and Londonderry Township limits from February 11, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The entry stands as proposed with no acreage, no capacity, no cost and no developer field filled in, at medium confidence, and marks pushback as unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "The acreage in the reporting is 288, and the developer is MRP Industrial.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Perry County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "Four others sit around Harrisburg, 28 to 31 kilometres away: a Fairview Crossroads proposal, the Harrisburg golf course scheme, a PowerHouse site at Carlisle and an HCI land acquisition.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The generation is distant.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "The 803 megawatt Crane Clean Energy Center, the restarted Three Mile Island unit, is 39 kilometres away, the 1,411 megawatt Brunner Island plant 46 and the 1,084 megawatt Hummel Station 48.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "No megawatt figure has been published for ten buildings, which is the number that would tell a neighbour what this means.",
+    "src": "data:capacity_mw"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The Data Center Dynamics report in our record is not fetchable and the directory listings found in search are not reporting, so no source url is listed and each sentence is attributed to our record's source list. The year of the April 8 planning commission meeting is not established. No resident, commissioner or company representative is quoted, and no megawatt, water or cost figure exists. The description of the Crane Clean Energy Center as the restarted Three Mile Island unit is general knowledge and is not drawn from a source about this project."
+ },
+ {
+  "id": "ft-1773441380040-9264",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The plans were filed by two partnerships with unfamiliar names, and the end user has not been disclosed.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "DEPG Mosier Associates LP and DEPG of Shawnee II LP applied for a conditional use for two data centers of 250,000 square feet each at Smithfield Gateway, in Smithfield Township, Monroe County, south of Music Center Drive and north of Smithfield Lane, behind a St Luke's and a Wawa.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The application documents link the plan to Legend Properties, a commercial property firm working mainly around Philadelphia.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The township planning commission discussed it in mid-February.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "A change.org petition against the East Stroudsburg data center has gathered more than 800 signatures, arguing that the scale of the project threatens to alter the community's landscape irreparably.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 1,
+    "t": "The township board of supervisors has since voted on a data center zoning ordinance of its own.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded as proposed with no acreage, no capacity and no cost, with Gateway Development as the developer.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "Its second source is the township's own sketch plan page, which was not opened.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "Monroe County has almost nothing else of this kind.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Only two other sites sit within 40 kilometres: a Slate Belt proposal at 12 and a cancelled Newton scheme at 33.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "Across the state line, New Jersey has been banning them outright: Phillipsburg on April 14, 2026, Andover Township on May 28, Green Township on June 10, Sparta Township on June 29 and Hardyston Township on July 6.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The 416 megawatt Yards Creek pumped storage plant is ten kilometres away, the 178 megawatt Portland oil plant 12 and the 1,700 megawatt Martins Creek gas plant 23.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The Data Center Dynamics report in our record is not fetchable, the township's own pages were not opened, and the Fox56 report on the supervisors' zoning vote was not fetched, so no source url is listed and each sentence is attributed to our record's source list. No resident, supervisor or company representative is quoted. No megawatt, water or cost figure has been published, and the end user is undisclosed. The date and outcome of the supervisors' ordinance vote are unknown. Our record's developer field names Gateway Development while the filings name the two DEPG partnerships and Legend Properties."
+ },
+ {
+  "id": "ft-479",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Pennhurst was a psychiatric hospital, and its name still carries weight in Chester County.",
+    "src": "https://6abc.com/post/east-vincent-township-pa-debates-data-center-ordinance-amid-community-concerns/18149953/"
+   },
+   {
+    "para": 0,
+    "t": "A data center is proposed on the old Pennhurst property in East Vincent Township, Chester County, and the township supervisors put forward an ordinance to set rules for it: height and setback requirements and limits on various kinds of pollution, with a vote scheduled for December 17, 2025.",
+    "src": "https://6abc.com/post/east-vincent-township-pa-debates-data-center-ordinance-amid-community-concerns/18149953/"
+   },
+   {
+    "para": 1,
+    "t": "Residents did not want rules; they wanted a refusal.",
+    "src": "https://6abc.com/post/east-vincent-township-pa-debates-data-center-ordinance-amid-community-concerns/18149953/"
+   },
+   {
+    "para": 1,
+    "t": "Dina Hitchcock said: \"In my opinion, creating this ordinance could be viewed as a red carpet invitation to a data center,\" and: \"I'd rather this just be turned down outright.\"",
+    "src": "https://6abc.com/post/east-vincent-township-pa-debates-data-center-ordinance-amid-community-concerns/18149953/"
+   },
+   {
+    "para": 1,
+    "t": "She was not against them everywhere: \"I do understand there is a need for them. I am just saying this is not the appropriate place.\"",
+    "src": "https://6abc.com/post/east-vincent-township-pa-debates-data-center-ordinance-amid-community-concerns/18149953/"
+   },
+   {
+    "para": 1,
+    "t": "Joanna Binelli said: \"I don't believe, strongly, that there's anything that you can put in the ordinance that will prevent these things from happening.\"",
+    "src": "https://6abc.com/post/east-vincent-township-pa-debates-data-center-ordinance-amid-community-concerns/18149953/"
+   },
+   {
+    "para": 1,
+    "t": "State Senator Katie Muth said: \"People here deserve better. They live here. They deserve to live in peace and quiet, and also not to have to subsidize this through utility bills.\"",
+    "src": "https://6abc.com/post/east-vincent-township-pa-debates-data-center-ordinance-amid-community-concerns/18149953/"
+   },
+   {
+    "para": 2,
+    "t": "John Quigley, of the University of Pennsylvania's Kleinman Center, put the water question where it matters locally: \"Whether it's being drawn from streams, rivers, or whether it's, especially if it's from groundwater, there are over one million Pennsylvanians that get their water from wells.\"",
+    "src": "https://6abc.com/post/east-vincent-township-pa-debates-data-center-ordinance-amid-community-concerns/18149953/"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded as proposed with no acreage, no capacity and no cost, with Pennhurst Holdings LLC as developer, and a petition to protect Pennhurst from data center development is on file.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "A second entry, Pennhurst Holdings LLC at East Vincent Township, marked blocked, sits four kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 2,242 megawatt Limerick nuclear station is four kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Ten other recorded data center sites sit within 23 kilometres, including a 750 megawatt Project Laurel at five, an operating Flexential building at nine, and two MLP Ventures entries marked blocked and suspended at 19 and 23.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "West Whiteland Township has zoning limits on record with no date, and three New Jersey townships within reach have banned data centers outright.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://6abc.com/post/east-vincent-township-pa-debates-data-center-ordinance-amid-community-concerns/18149953/"
+  ],
+  "unconfirmed": "The developer, acreage and megawatt capacity are not given in the report read here, and our record carries none either beyond the name Pennhurst Holdings LLC. That report is dated November 13, 2025, which fixes the December 17 vote as 2025; our record's ordinance document is dated October 2025 and was not opened, nor was the township's page. Whether the ordinance passed, and whether an application has since been filed, are unknown. A figure attributed to John Quigley, that some facilities use five million gallons of water a day, is not in the report and has come out. The Data Center Dynamics report in our record, headlined that new regulations could stall the plan, is not fetchable. Pennhurst's history as an institution is referred to but not described in what was read."
+ },
+ {
+  "id": "ft-1776917809954-2894",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The developer's argument is that if the small version is refused, it will build the big one.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Sentinel Data Centers has said it may build a larger facility if East Whiteland Township, in Chester County, does not soon approve an amended plan for a smaller one.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The current plan is two buildings totalling 887,000 square feet on the south side of Swedesford Road near the West Whiteland boundary, at 13 South Bacton Hill Road beside the PECO Planebrook substation, on the former Foote Mineral Company Superfund site.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The earlier version was bigger.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "A previous scheme called Project Forge was 1.6 million square feet, and the strength of the opposition led the developer to propose scaling it down; a later amendment sought to take it back up from one million to 1.6 million square feet.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Township planners have sent a revised plan back for further review, and developers have separately been looking to expand the site.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded as proposed with no acreage, no capacity and no cost, with Sentinel as developer, and pushback marked unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "The pushback field does not match a project whose own developer says opposition forced it to shrink.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "Chester County holds five data center sites on record, and ten sit within 22 kilometres of this one.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "An operating Comcast building is five kilometres away, the Pennhurst proposal 17, a 750 megawatt Project Laurel 22, and the two MLP Ventures entries, blocked and suspended, at 19 and 22.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 2,242 megawatt Limerick nuclear station is 21 kilometres away and the 562 megawatt Liberty Electric plant 29.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "New Castle County in Delaware adopted limits on March 11, 2026, and the zoning limits the record carries for West Whiteland Township, immediately next door to this site, have no date attached at all.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The Data Center Dynamics report in our record is not fetchable and the 6abc, NBC10 and township documents were not fetched, so no source url is listed and each sentence is attributed to our record's source list. No resident, planner or company representative is quoted. No megawatt or water figure has been published. The square footage figures do not sit together neatly across accounts, moving between 887,000, one million and 1.6 million, and which is current is unresolved. The name Green Fig appears alongside Sentinel in township documents and the relationship is unestablished. Our record places the site in Exton while the township taking the decisions is East Whiteland."
+ },
+ {
+  "id": "ft-1763753707040-1765",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The township rewrote its zoning to let these buildings in.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Fairview Crossroads LLC proposes a data center of about 750,000 square feet on an 84 acre tract along Lewisberry Road in Fairview Township, York County, bordering Interstate 83 and the Pennsylvania Turnpike, in a commercial business zone.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Kevin Brown, for the applicant, said the facility would be worth $500 million and would add more than $6 million a year to the township's tax revenue.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The approvals came through the planning system rather than over objections.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The zoning amendment was recommended for approval by the Fairview Township Planning Commission and by the York County Planning Commission, and township officials revised the zoning ordinance to accommodate this kind of development.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Local reporting in July 2025 was headlined that officials in York County were preparing for a wave of data centers.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded as proposed with no capacity figure.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "Neither the trade report, the PennLive report nor the Fox43 report carries a megawatt figure, and for a building of that size, in a county whose officials have been publicly preparing for a wave of these, that is the number that is missing.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "The Harrisburg golf course scheme is six kilometres away, an HCI land acquisition 11, a cancelled South Annville project 26 and a PowerHouse site at Carlisle 33.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 803 megawatt Crane Clean Energy Center is 11 kilometres off and the 1,411 megawatt Brunner Island plant 17.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Three municipalities within reach have adopted zoning limits, all in 2026: Londonderry Township on February 11, Lancaster on July 14 and Pequea Township on August 19.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "Fairview Township is not among them; it rewrote its ordinance to accommodate the use instead.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Our record held two Fairview Crossroads entries 25 kilometres apart, both naming the same company and the same road, and the reporting describes a single scheme; they were merged in an earlier pass, and the merge had left both entries' context blocks on the page, giving two different sets of distances for the same plants (Crane at 11 kilometres and at 16, Brunner Island at 17 and at 11) and the moratorium list twice. The duplicates have been removed and the distances from the entry our record kept are the ones on the page; the 25 kilometre separation between the two original entries is still unexplained. The PennLive report could not be fetched, the Fox43 report is blocked and the Data Center Dynamics report is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. No resident or township supervisor is quoted, no application date is established, and no megawatt or water figure exists. Whether the amendment was adopted and whether a land development plan has been filed are unknown."
+ },
+ {
+  "id": "ft-1762786214697-6167",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The water figure here is 17 million gallons a day.",
+    "src": "https://www.farmanddairy.com/news/top-stories/greene-county-residents-debate-proposal-to-put-data-center-on-former-coal-mine/900898.html"
+   },
+   {
+    "para": 0,
+    "t": "Project Hummingbird is a data center that would sit on 1,400 acres of the former Robena coal mine at Alicia, in Greene County, with 910 megawatts of gas turbines, backup generators and a water treatment plant.",
+    "src": "https://www.farmanddairy.com/news/top-stories/greene-county-residents-debate-proposal-to-put-data-center-on-former-coal-mine/900898.html"
+   },
+   {
+    "para": 0,
+    "t": "Cooling the turbines would take eight to nine million gallons a day from the Monongahela River, and the total with the servers reaches about 17 million, returned to the environment as steam.",
+    "src": "https://www.farmanddairy.com/news/top-stories/greene-county-residents-debate-proposal-to-put-data-center-on-former-coal-mine/900898.html"
+   },
+   {
+    "para": 1,
+    "t": "The developer is International Electric Power, of Pittsburgh.",
+    "src": "https://www.farmanddairy.com/news/top-stories/greene-county-residents-debate-proposal-to-put-data-center-on-former-coal-mine/900898.html"
+   },
+   {
+    "para": 1,
+    "t": "It promises 1,500 construction jobs a year over six years, 150 to 200 permanent data center posts and 40 to 50 running the turbines.",
+    "src": "https://www.farmanddairy.com/news/top-stories/greene-county-residents-debate-proposal-to-put-data-center-on-former-coal-mine/900898.html"
+   },
+   {
+    "para": 1,
+    "t": "On December 17 the Greene County Planning Commission approved phase one, the site remediation and the coal waste cleanup; phase two covers the infrastructure.",
+    "src": "https://www.farmanddairy.com/news/top-stories/greene-county-residents-debate-proposal-to-put-data-center-on-former-coal-mine/900898.html"
+   },
+   {
+    "para": 2,
+    "t": "Jared Edgreen, who chairs the county commissioners, points to the tax revenue: \"For so many years, this county thrived on coal tax revenue, and we've seen that go down (along) with the jobs as well.\"",
+    "src": "https://www.farmanddairy.com/news/top-stories/greene-county-residents-debate-proposal-to-put-data-center-on-former-coal-mine/900898.html"
+   },
+   {
+    "para": 2,
+    "t": "Kimberly Barton, who lives nearby, did the arithmetic differently: \"For (a few) viable, long-term jobs, you have 28 houses of people that are being affected by the environmental impacts,\" and asked: \"Is it going to affect the quality of our soil for growing?\"",
+    "src": "https://www.farmanddairy.com/news/top-stories/greene-county-residents-debate-proposal-to-put-data-center-on-former-coal-mine/900898.html"
+   },
+   {
+    "para": 2,
+    "t": "Gas turbines produce nitrogen oxides, volatile organic compounds and particulate matter, and the company projects 55 decibels at the fence line, running without stopping.",
+    "src": "https://www.farmanddairy.com/news/top-stories/greene-county-residents-debate-proposal-to-put-data-center-on-former-coal-mine/900898.html"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded as under construction at 1,000 megawatts on 1,400 acres, with Essential Utilities and International Electric Power as developers, resistance marked as organised advocacy, and the Center for Coalfield Justice attached.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "It is on the state's fast-track permit programme, with its own page on the Pennsylvania Office of Transformation and Opportunity site.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "The gas is already here: the 668 megawatt Fayette Energy Facility is three kilometres away, the 622 megawatt Hill Top Energy Center seven and the 1,098 megawatt Fort Martin coal plant 13.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "The only other site recorded within 40 kilometres is the National Energy Technology Laboratory's computing centre, under construction 18 kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.farmanddairy.com/news/top-stories/greene-county-residents-debate-proposal-to-put-data-center-on-former-coal-mine/900898.html"
+  ],
+  "unconfirmed": "The year of the December 17 planning commission approval is not stated in the report read here; our record's sources are dated October and December 2025, which suggests December 2025. Essential Utilities appears in our record's developer field but not in that report, which names only International Electric Power of Pittsburgh, and the relationship is unestablished. Our record gives 1,000 megawatts while the reporting gives 910 megawatts of gas turbines, which is the generation rather than the data center load. The Herald Standard and Observer-Reporter reports, the county documents and the state fast-track page were not fetched. Whether phase two has been approved is unknown."
+ },
+ {
+  "id": "ft-1763998982747-3469",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The CloudHQ entry at the Berks 61 Industrial Park near Hamburg is the thinnest data center record in this part of the corpus: the only source attached to it is about a different site altogether.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The entry puts the hyperscale campus near the junction of Pennsylvania Route 61 and Interstate 78, in Berks County, as proposed at a cost of $2 billion, with no acreage and no capacity, at medium confidence.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "The source attached to it is a trade article about the Homer City Energy Campus, a brownfield site elsewhere in Pennsylvania.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "What can be said is what surrounds it.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Ten other recorded data center sites sit within 39 kilometres: four small operating buildings around Reading between 21 and 26 kilometres, a proposed KRNL site at 29, TierPoint's TekPark building at 31, an Amazon proposal at Kline Township at 33, a 350 megawatt Keel Infrastructure campus under construction at Panther Creek at 33, a cancelled Cetronia Road scheme at 35 and a cancelled NorthPoint project at 39.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Pennsylvania's answer here has been zoning limits rather than bans.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Six measures sit within reach on record: Black Creek Township from May 8, 2025, Butler Township from May 12, 2026, Nescopeck Borough from June 5, Hazle Township from June 8, Allentown from June 17, and Columbia County with no date attached.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The 539 megawatt Ontelaunee gas plant is 18 kilometres away, the 80 megawatt John B Rich coal plant 29, the 86 megawatt St Nicholas cogeneration plant 31 and the 102 megawatt Locust Ridge wind farm 32.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Nothing near here approaches the load of a hyperscale campus, and no load figure has been published.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "No local response is recorded anywhere, which is what an entry this thin would look like whether or not there is one.",
+    "src": "data:fractracker"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Nothing was found describing a CloudHQ campus at Berks 61, and our record's only source concerns the Homer City Energy Campus, so no source url is listed and each sentence is attributed to our record's source list. The acreage, capacity, building count, timetable and planning status are all unestablished, and the $2 billion cost could not be traced. Whether CloudHQ has any land under contract at Hamburg is unknown. This entry should be treated as unverified."
+ },
+ {
+  "id": "ft-459",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A public authority sold a municipal golf course for about ten times its recorded value.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "On August 20, 2025 the Dauphin County General Authority approved the $45.6 million sale of the 228 acre Dauphin Highlands Golf Course, which lies in Swatara Township and Steelton, to Harrisburg I LLC, an entity formed by Provident Realty of Dallas, which wants the land for a data center.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The sale lets the authority pay off the course's $13 million of debt.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Six groups responded to the authority's request for proposals; Provident was chosen.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Provident has said so plainly, and the tentative closing date is December 31, 2027.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Six groups responded to the authority's request for proposals and Provident was chosen.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The record carries the project on 250 acres at $45.6 million, proposed, with Provident Realty as developer and no capacity figure.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "The $45.6 million is the price of the land, not the cost of a data center, and the acreage in the reporting is 228.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Golf courses are becoming a category of their own in this business, large flat parcels already cleared and close to towns.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "Trade coverage of this sale was headlined around why other courses could be next.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "The 803 megawatt Crane Clean Energy Center is 11 kilometres away and the 1,411 megawatt Brunner Island plant 17.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Five other recorded data center sites sit within 33 kilometres, including a Fairview Crossroads proposal at six and an HCI land acquisition at 11.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "Three measures sit within reach, all zoning limits: Londonderry Township from February 11, 2026, Lancaster from July 14 and Pequea Township from August 19.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The Fox43 report in our record returned HTTP 403 and the Data Center Dynamics report is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. No authority board member, township official or resident is quoted. No megawatt, water or building figure has been published, and no planning application has been reported. The acreage differs between our record's 250 and the 228 in the reporting. Our record marks pushback as unknown, and no account of any local response to the sale of a public golf course for this purpose was found."
+ }
+]

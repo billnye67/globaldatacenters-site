@@ -1,0 +1,448 @@
+[
+ {
+  "id": "ft-1771258984530-9087",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The developer pulled its data center out before the meeting it had asked for.",
+    "src": "https://www.shawlocal.com/northwest-herald/news/2026/01/29/2-billion-data-center-proposal-in-barrington-hills-withdrawn/"
+   },
+   {
+    "para": 0,
+    "t": "Brennan Investment Group, a Chicago firm, withdrew its $2 billion proposal for land south of Penny Road and west of Pond Gate Drive in Barrington Hills, in Cook County, on 28 January 2026, and cancelled the special plan commission presentation set for 2 February.",
+    "src": "https://www.shawlocal.com/northwest-herald/news/2026/01/29/2-billion-data-center-proposal-in-barrington-hills-withdrawn/"
+   },
+   {
+    "para": 0,
+    "t": "It said it was acting on initial feedback.",
+    "src": "https://www.shawlocal.com/northwest-herald/news/2026/01/29/2-billion-data-center-proposal-in-barrington-hills-withdrawn/"
+   },
+   {
+    "para": 0,
+    "t": "The village announced that it \"considers this matter closed and does not anticipate any further discussion\".",
+    "src": "https://www.shawlocal.com/northwest-herald/news/2026/01/29/2-billion-data-center-proposal-in-barrington-hills-withdrawn/"
+   },
+   {
+    "para": 1,
+    "t": "A petition against the project had gathered 1,303 signatures, raising air pollution, water quality and the effect on taxes.",
+    "src": "https://www.shawlocal.com/northwest-herald/news/2026/01/29/2-billion-data-center-proposal-in-barrington-hills-withdrawn/"
+   },
+   {
+    "para": 1,
+    "t": "It argued: \"We cannot allow this proposal to compromise the very essence of what makes Barrington Hills a special place.\"",
+    "src": "https://www.shawlocal.com/northwest-herald/news/2026/01/29/2-billion-data-center-proposal-in-barrington-hills-withdrawn/"
+   },
+   {
+    "para": 2,
+    "t": "Brennan has built data centers at Elk Grove Village and Rolling Meadows, both in the same county.",
+    "src": "https://www.shawlocal.com/northwest-herald/news/2026/01/29/2-billion-data-center-proposal-in-barrington-hills-withdrawn/"
+   },
+   {
+    "para": 2,
+    "t": "Twenty-seven data center sites are recorded in Cook County, and three sit within 9 kilometres of this one at Hoffman Estates, run by Compass, Karis Critical and Microsoft.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 336 megawatt MRP Rocky Road gas plant is a kilometre from the parcel.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.shawlocal.com/northwest-herald/news/2026/01/29/2-billion-data-center-proposal-in-barrington-hills-withdrawn/"
+  ],
+  "unconfirmed": "No acreage, megawatt figure or square footage was published, and no individual resident or village official is named or quoted in the report. What the initial feedback consisted of, beyond the petition, is not established. Whether Brennan has looked at another site nearby is not known. The Data Center Dynamics article in our record returned 403."
+ },
+ {
+  "id": "ft-1769465678151-7354",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This project was paused for want of energy infrastructure, two kilometres from a 2,332 megawatt nuclear station.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 0,
+    "t": "A Western Hospitality Partners data center near Interstate 55 and Reed Road at Braidwood, in Will County, Illinois, is listed as suspended, and the single source, headed \"Planned data center project outside Chicago, Illinois paused due to energy infrastructure\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The Braidwood Generation Station is 2 kilometres away, the 1,220 megawatt CPV Three Rivers gas plant 13, and the 1,797 megawatt Dresden nuclear station 15.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "Proximity to generation is not the same as capacity on the wires, and on the evidence of that headline the difference stopped this one.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "An Aligned campus at Coal City is 5 kilometres away, a Tract technology park at Morris 20, and a Cielo site 22.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Bourbonnais adopted a year long data center moratorium on 15 June 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the acreage, megawatts, cost, the nature of the infrastructure problem, the date of the pause and whether the project has resumed are all unknown. Our record holds a second Western Hospitality Partners entry near Peoria which is marked cancelled, and whether the two are connected beyond the developer's name was not established. No resident or official reaction is known."
+ },
+ {
+  "id": "ft-1786415749791-9416",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one is a downtown office block rather than a field.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "A data center is proposed at 300 West Adams Street in Chicago, in Cook County, and the single source, headed \"12-story office building in Chicago, Illinois eyed for data center conversion\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Conversions like this draw a different kind of objection from a greenfield campus, because the power and the noise arrive in a place that already has neighbours above and beside it.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "No capacity figure, square footage, developer or date is attached to it, and pushback is logged as unknown.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "Twenty-seven data center sites are recorded in Cook County, and the downtown cluster is dense: a Digital Realty facility at 350 East Cermak, an Equinix hub and an Oracle cloud region all 3 kilometres away, and a QTS site at 5.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generation is a 56 megawatt university cogeneration plant 2 kilometres off and the 197 megawatt Fisk Street plant at 4.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the developer, the square footage, the power draw, the filing date and whether any permission is needed or has been sought are all unknown. No Chicago local reporting was sought and no resident or official reaction is known."
+ },
+ {
+  "id": "ft-235",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A seven building Karis Critical data center campus is recorded on 132 acres at East Gurler and South Peace Roads in DeKalb, and the single source says a planning commission gave it preliminary approval.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 0,
+    "t": "That source, headed \"Seven-building data center campus gets preliminary OK from Illinois planning commission\", returned 403, so the date, the vote and the conditions are unknown.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Meta's DeKalb campus is 4 kilometres away, and five more tracked sites lie within 39 kilometres including a Microsoft campus at Plano and a CyrusOne site at Yorkville.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The generation here is wind and it is not close.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The nearest is a 238 megawatt wind and storage site 20 kilometres away, then three more wind farms between 33 and 38 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "No capacity figure is carried for the campus itself.",
+    "src": "data:capacity_mw"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the megawatts, the square footage, the date and terms of the preliminary approval and whether final approval followed are all unknown. Our record marks its confidence in this entry as medium and holds two other Karis entries elsewhere in Illinois, one refused at Naperville and one at Hoffman Estates. No local reaction was found and our record logs pushback as unknown."
+ },
+ {
+  "id": "ft-1767322980321-2337",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one is pitched as a solar farm with a data center inside it, and the town has a moratorium on data centers anyway.",
+    "src": "https://www.yahoo.com/news/articles/environmentally-friendly-data-center-coming-045900554.html"
+   },
+   {
+    "para": 0,
+    "t": "Gail Technology, based at Bannockburn, plans the facility at 15244 East 1700th Avenue in Effingham, for artificial intelligence and Web3 work.",
+    "src": "https://www.yahoo.com/news/articles/environmentally-friendly-data-center-coming-045900554.html"
+   },
+   {
+    "para": 1,
+    "t": "The company says it will be entirely solar powered, with the array sized to run the building around the clock and battery storage behind it, and that the surplus will go to the grid with Ameren paying for it.",
+    "src": "https://www.yahoo.com/news/articles/environmentally-friendly-data-center-coming-045900554.html"
+   },
+   {
+    "para": 1,
+    "t": "It puts that surplus at enough to power 2,000 to 4,000 homes a year.",
+    "src": "https://www.yahoo.com/news/articles/environmentally-friendly-data-center-coming-045900554.html"
+   },
+   {
+    "para": 1,
+    "t": "Nick Mahoney, the chief financial officer, said it would be among the first handful of projects completed with battery backup for local storage and grid relief, and that \"The data center is 100% powered by renewable energy, and it's green. It's better for the environment than a lot of the other data centers that are being built these days.\"",
+    "src": "https://www.yahoo.com/news/articles/environmentally-friendly-data-center-coming-045900554.html"
+   },
+   {
+    "para": 2,
+    "t": "The land arrangements are unusual.",
+    "src": "https://www.yahoo.com/news/articles/environmentally-friendly-data-center-coming-045900554.html"
+   },
+   {
+    "para": 2,
+    "t": "The site is designed to be turned back into farmland when a 25 year lease ends, there is no gravel or concrete under the panels, and the company has a partnership with Pheasants Forever to plant native grasses and flowers between the arrays.",
+    "src": "https://www.yahoo.com/news/articles/environmentally-friendly-data-center-coming-045900554.html"
+   },
+   {
+    "para": 2,
+    "t": "Construction is put at 10 to 15 months.",
+    "src": "https://www.yahoo.com/news/articles/environmentally-friendly-data-center-coming-045900554.html"
+   },
+   {
+    "para": 3,
+    "t": "Effingham adopted a data center moratorium on 8 June 2026, running for a year.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Effingham County, with no other project within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generation is the 336 megawatt Energy Shelby County gas plant 13 kilometres away and the 595 megawatt Newton coal plant at 33.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.yahoo.com/news/articles/environmentally-friendly-data-center-coming-045900554.html"
+  ],
+  "unconfirmed": "No acreage, megawatt figure, square footage or investment total was published, so the central claim, that the solar array can run the building 24 hours a day, cannot be checked against the load it would have to meet. Whether the project has any permission, and how the Effingham moratorium adopted in June 2026 affects it, are not established. No water figure was given. No resident or official outside the company is quoted, and our record logs pushback as unknown."
+ },
+ {
+  "id": "ft-243",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "There is no single fight here, because the argument in Elk Grove Village was settled years ago and the answer was yes.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "A Nexstar Media Group data center is proposed at 720 Rohlwing Road in Elk Grove Village, in Cook County, Illinois, with no acreage and no capacity figure, and the single source, headed \"Aligned, Stream and Nexstar planning data center campuses in Elk Grove area of Chicago\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Six other tracked data center sites sit within 6 kilometres: an NTT campus at Itasca, a Microsoft facility, an Aligned campus, a T5 campus, a STACK campus and a Digital Realty building on Busse Road.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Twenty-seven of the recorded sites are in Cook County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generation is the 489 megawatt MRP Elgin gas plant 18 kilometres away and the 991 megawatt Aurora plant at 27.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The only moratorium within reach is Plainfield's, adopted on 21 April 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the size, capacity, filing date and status of the Nexstar project are all unknown, as is why a television company would develop a data center campus. No local reaction is known and our record logs pushback as unknown. The claim that the argument was settled in Elk Grove Village is an inference from the density of existing sites in our own record, not a finding from reporting."
+ },
+ {
+  "id": "ft-1769465345105-8259",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The three headlines attached to this Tazewell County entry tell the whole arc: proposed, rejected, withdrawn.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "They read \"Western Hospitality Partners eyes 320-acre data center campus outside Peoria, Illinois\", then \"Data center proposal rejected in Pekin, Illinois\", then \"Developer withdraws data center proposal in Pekin, Illinois\".",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "All three returned 403, so the dates, the votes and the reasons are not recorded.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The site is 320 acres on Lutticken Farm between Illinois Highway 98 and Sheridan Road in Groveland Township, in Tazewell County, Illinois, and the project is listed as cancelled.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "The 1,538 megawatt Powerton coal plant is 10 kilometres away, and after that the nearest generation is a wind farm at 30.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "A North Pekin data center is 3 kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Central Illinois has been writing rules since: Normal and Bloomington adopted six month moratoriums in May 2026, and Logan and McLean counties adopted zoning limits in February and June 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "All three sources in our record returned 403. Which body rejected the proposal and on what date, the vote, the grounds, the megawatt capacity, the investment and whether residents organised against it are all unknown. Whether the rejection and the withdrawal were the same event reported twice, or two separate steps, is not established. No Pekin or Tazewell County reporting was reached."
+ },
+ {
+  "id": "ft-1769227209572-8586",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "So many people turned up to the public meeting about this Lisle data center, in DuPage County, Illinois, that the village had to postpone it.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "That is the headline of the only readable indication left: \"Public meeting over planned data center project in Lisle, Illinois postponed due to large number of attendees\".",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The article itself returned 403, and the village's own document on the application exceeded the size that could be retrieved.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The project is put at 50 megawatts at 711 Ogden Avenue in Lisle, in DuPage County, Illinois, with Cloud Centers named as the developer, local pushback logged and the project listed as proposed.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "This is a crowded corner of DuPage County.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The Karis Critical proposal that Naperville refused is 5 kilometres away, another Karis site 7, a US Signal facility 13 and a CyrusOne campus at Aurora 15.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Six of the recorded sites are in DuPage County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generation is the 991 megawatt Aurora gas plant, 14 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Neither source could be read, so the date of the postponed meeting, how many people came, what the application actually proposes, the acreage, the square footage and whether the meeting was rescheduled are all unknown. Our record logs pushback but names no group, petition or resident, so nothing can be said about who objects or why. The 50 megawatt figure appears in no source read."
+ },
+ {
+  "id": "ft-245",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "There is more generation within 9 kilometres of this data center site than almost anywhere else on the map.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 0,
+    "t": "The 1,140 megawatt Kendall County gas plant is 3 kilometres away, a 194 megawatt cogeneration plant at Morris 6, the 1,797 megawatt Dresden nuclear station 7 and the 1,220 megawatt CPV Three Rivers plant 9: about 4,350 megawatts in all.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "A 500 megawatt Cielo campus is recorded on 159 acres at Ridge Road and Holt Road in Minooka, with low confidence attached to the entry.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The single source attached to it is a report about a different Cielo project in South Carolina, the same article attached to Cielo entries in Colorado, Florida and Iowa.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Three data center sites are recorded in Grundy County, and six lie within 30 kilometres, including a Tract technology park at Morris 10 kilometres away and a second Cielo entry at 27.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Bourbonnais adopted a data center moratorium on 15 June 2026 and Plainfield on 21 April 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Nothing about this project could be verified. The only source concerns a different state, so the 500 megawatts, the 159 acres, the developer's plans, any application and the current status all rest on our record alone, which marks the entry low confidence. The same South Carolina article is attached to four separate Cielo entries in our record, which looks like a filing error in the dataset. No Grundy County local reporting was sought."
+ },
+ {
+  "id": "ft-246",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Naperville's council, in DuPage County, Illinois, overturned its own plan commission and refused this data center 6 to 1, with two abstentions, late on Tuesday 21 January 2026.",
+    "src": "https://abc7chicago.com/amp/post/naperville-illinois-city-council-denies-plan-karis-critical-data-center-vacant-lucent-campus-off-warrenville-road/18442413/"
+   },
+   {
+    "para": 0,
+    "t": "The building would have been about 145,000 square feet on the vacant former Lucent campus along the Interstate 88 corridor, near Naperville and Warrenville roads.",
+    "src": "https://abc7chicago.com/amp/post/naperville-illinois-city-council-denies-plan-karis-critical-data-center-vacant-lucent-campus-off-warrenville-road/18442413/"
+   },
+   {
+    "para": 1,
+    "t": "The argument turned on the diesel generators.",
+    "src": "https://abc7chicago.com/amp/post/naperville-illinois-city-council-denies-plan-karis-critical-data-center-vacant-lucent-campus-off-warrenville-road/18442413/"
+   },
+   {
+    "para": 1,
+    "t": "Karis Critical offered to cut them from 24 to 12, and said they would run only during power cuts and monthly tests, which did not satisfy the several dozen residents who opposed the project.",
+    "src": "https://abc7chicago.com/amp/post/naperville-illinois-city-council-denies-plan-karis-critical-data-center-vacant-lucent-campus-off-warrenville-road/18442413/"
+   },
+   {
+    "para": 2,
+    "t": "The company said: \"We are disappointed by the outcome of the vote, which overturned the city plan commission's recommendation.\"",
+    "src": "https://abc7chicago.com/amp/post/naperville-illinois-city-council-denies-plan-karis-critical-data-center-vacant-lucent-campus-off-warrenville-road/18442413/"
+   },
+   {
+    "para": 2,
+    "t": "The DuPage County Building Trades took the other side, saying \"six officials took years of high-paying, high-skilled work away from the men and women of the trades\".",
+    "src": "https://abc7chicago.com/amp/post/naperville-illinois-city-council-denies-plan-karis-critical-data-center-vacant-lucent-campus-off-warrenville-road/18442413/"
+   },
+   {
+    "para": 3,
+    "t": "The project is put at 36 megawatts at 1960 Lucent Lane and listed as cancelled.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "Another Karis site is 3 kilometres away and the Cloud Centers proposal at Lisle 5.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Nine kilometres off is the 991 megawatt Aurora gas plant.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://abc7chicago.com/amp/post/naperville-illinois-city-council-denies-plan-karis-critical-data-center-vacant-lucent-campus-off-warrenville-road/18442413/"
+  ],
+  "unconfirmed": "No council member is named or quoted and no resident is named, so the grounds the council actually gave for refusing are not established. No megawatt figure appears in the report; the 36 megawatts comes from our record. The petition our record attaches to this entry concerns a housing development on the border of the Herrick Lake and Danada forest preserves and does not appear to be about this data center, so it should be checked. The Daily Herald article in our record returned empty and both Data Center Dynamics articles returned 403. Whether Karis Critical has appealed or refiled is not known."
+ }
+]

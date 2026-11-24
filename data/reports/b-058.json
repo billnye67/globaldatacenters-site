@@ -1,0 +1,588 @@
+[
+ {
+  "id": "ft-123",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A $6 billion data center campus is recorded on Old Nesbitt Road at Cordele, in Crisp County, Georgia, with Red Wolf DCD as the developer, and the single source attached to it could not be read.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 0,
+    "t": "That source is a trade report headed \"2.1 million sq ft technology campus proposed in southern Georgia\".",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "This is the only data center site recorded in Crisp County, with no other project within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The nearest generation is solar, four plants totalling about 370 megawatts between 28 and 41 kilometres away, which is a long way to move that much power.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The nearest place to have acted is Albany, which put a year long moratorium on data centers in force on 30 July 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the acreage, megawatts, filing date, current status and whether any county hearing has happened are all unknown. No tenant is named and no local reporting from Crisp County was sought. Our record logs pushback as unknown and no resident or official reaction was found."
+ },
+ {
+  "id": "ft-127",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A $5.7 billion campus drawing 360 megawatts would employ about 100 to 120 people.",
+    "src": "https://www.ajc.com/news/business/sprawling-data-center-campuses-proposed-south-and-east-of-atlanta/5QKZEN5W45GU5NCHUHGVYX4UUM/"
+   },
+   {
+    "para": 0,
+    "t": "The project covers 213 acres near Gregory Road and Interstate 20 outside Covington, in Newton County, Georgia, with 1.4 million square feet of data center space, built in three phases between 2027 and 2036.",
+    "src": "https://www.ajc.com/news/business/sprawling-data-center-campuses-proposed-south-and-east-of-atlanta/5QKZEN5W45GU5NCHUHGVYX4UUM/"
+   },
+   {
+    "para": 0,
+    "t": "The developer is Universal Planning & Development LLC, run by John B. Williams, and the projected property taxes are $19 million a year.",
+    "src": "https://www.ajc.com/news/business/sprawling-data-center-campuses-proposed-south-and-east-of-atlanta/5QKZEN5W45GU5NCHUHGVYX4UUM/"
+   },
+   {
+    "para": 1,
+    "t": "The reason for the site is the site next door.",
+    "src": "https://www.ajc.com/news/business/sprawling-data-center-campuses-proposed-south-and-east-of-atlanta/5QKZEN5W45GU5NCHUHGVYX4UUM/"
+   },
+   {
+    "para": 1,
+    "t": "It adjoins Amazon Web Services' 430 acre campus, already under construction, and sits near the Lake Varner reservoir.",
+    "src": "https://www.ajc.com/news/business/sprawling-data-center-campuses-proposed-south-and-east-of-atlanta/5QKZEN5W45GU5NCHUHGVYX4UUM/"
+   },
+   {
+    "para": 1,
+    "t": "Eric Johansen, the developer's vice president of development, put it plainly: \"With the presence of Amazon, which is under construction now, this property has a great opportunity to be used as a data center property.\"",
+    "src": "https://www.ajc.com/news/business/sprawling-data-center-campuses-proposed-south-and-east-of-atlanta/5QKZEN5W45GU5NCHUHGVYX4UUM/"
+   },
+   {
+    "para": 2,
+    "t": "The company filed through the state's Development of Regional Impact process and is seeking rezoning and annexation into Covington.",
+    "src": "https://www.ajc.com/news/business/sprawling-data-center-campuses-proposed-south-and-east-of-atlanta/5QKZEN5W45GU5NCHUHGVYX4UUM/"
+   },
+   {
+    "para": 2,
+    "t": "Both of the governments it would need have since paused: Covington adopted a data center moratorium on 6 January 2026 and Newton County on 8 April 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The project is carried at 213 acres, 360 megawatts and $5.7 billion, which matches, and listed as proposed.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "A separate Gregory Road Data Center entry sits a kilometre away, which may be the same project under the name the newspaper uses.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Four other tracked sites lie within 12 kilometres, including the Amazon campus at 4 and two Meta sites at 9 and 12.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.ajc.com/news/business/sprawling-data-center-campuses-proposed-south-and-east-of-atlanta/5QKZEN5W45GU5NCHUHGVYX4UUM/"
+  ],
+  "unconfirmed": "No water figure was published for a campus sited next to a reservoir, which is the number that matters most here. No rezoning or annexation decision was found, and the effect of the Covington and Newton County moratoriums on an application already filed is not established. No resident or objector is named or quoted in the report read, and our record logs pushback as unknown. Whether this entry and the Gregory Road entry a kilometre away are one project is unresolved. Both Data Center Dynamics articles in our record returned 403."
+ },
+ {
+  "id": "ft-138",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The objection here was about bears, wells and a river, and the county approved it anyway.",
+    "src": "https://wgxa.tv/news/local/environmental-advocate-urges-twiggs-county-to-reject-data-center-plans-near-ocmulgee-river"
+   },
+   {
+    "para": 0,
+    "t": "On Thursday 18 September 2025 the Twiggs County commissioners approved rezoning 291.5 acres from agricultural land to general industrial for a data center in the unincorporated county.",
+    "src": "https://www.41nbc.com/twiggs-county-data-center-rezoning-approval/"
+   },
+   {
+    "para": 0,
+    "t": "The developer is Eagle Rock Partners LLC, the project is valued at up to $5 billion, and locally it is called the Pine Ridge Technology Center.",
+    "src": "https://www.41nbc.com/twiggs-county-data-center-rezoning-approval/"
+   },
+   {
+    "para": 1,
+    "t": "The county was offered a great deal: 500 to 600 jobs, and tax revenue that would double what Twiggs County collects.",
+    "src": "https://www.41nbc.com/twiggs-county-data-center-rezoning-approval/"
+   },
+   {
+    "para": 1,
+    "t": "Noise was put at about 55 decibels.",
+    "src": "https://www.41nbc.com/twiggs-county-data-center-rezoning-approval/"
+   },
+   {
+    "para": 1,
+    "t": "Ken Loeber of Eagle Rock Partners addressed what the jobs would actually be: \"There is a perception that everyone that works in these things has a Ph.D. in Computer Science, and that's just not factual.\"",
+    "src": "https://www.41nbc.com/twiggs-county-data-center-rezoning-approval/"
+   },
+   {
+    "para": 2,
+    "t": "About two dozen residents spoke at the hearing the day before, raising the environment, energy use, water and the local black bear population.",
+    "src": "https://www.41nbc.com/twiggs-county-data-center-rezoning-approval/"
+   },
+   {
+    "para": 2,
+    "t": "Resident Meg Couillard Bevan said: \"If we have to have a new data center here let's make sure that we have everything in order and that we're doing the right things.\"",
+    "src": "https://www.41nbc.com/twiggs-county-data-center-rezoning-approval/"
+   },
+   {
+    "para": 2,
+    "t": "Question and answer sessions were held on Tuesday 16 and Wednesday 17 September, and the vote followed at the courthouse on the Thursday.",
+    "src": "https://wgxa.tv/news/local/environmental-advocate-urges-twiggs-county-to-reject-data-center-plans-near-ocmulgee-river"
+   },
+   {
+    "para": 3,
+    "t": "John Wilson, who has spent nearly four decades arguing for land preservation, led the case against it.",
+    "src": "https://wgxa.tv/news/local/environmental-advocate-urges-twiggs-county-to-reject-data-center-plans-near-ocmulgee-river"
+   },
+   {
+    "para": 3,
+    "t": "\"The data center, you can build it anywhere,\" he said. \"So why would you put it in an important place like this?\"",
+    "src": "https://wgxa.tv/news/local/environmental-advocate-urges-twiggs-county-to-reject-data-center-plans-near-ocmulgee-river"
+   },
+   {
+    "para": 3,
+    "t": "He said the facility would need deep wells drawing water on the scale of a town of thirty thousand people.",
+    "src": "https://wgxa.tv/news/local/environmental-advocate-urges-twiggs-county-to-reject-data-center-plans-near-ocmulgee-river"
+   },
+   {
+    "para": 3,
+    "t": "His case rested on the Ocmulgee River corridor, land historically inhabited by the Muscogee Creek Nation, and on the fencing the campus would need, which he said would split the bear population into what he called upper bears and lower bears.",
+    "src": "https://wgxa.tv/news/local/environmental-advocate-urges-twiggs-county-to-reject-data-center-plans-near-ocmulgee-river"
+   },
+   {
+    "para": 4,
+    "t": "The project is carried at 900 megawatts on 300 acres for $5 billion and listed as proposed.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 4,
+    "t": "It is the only data center site recorded in Twiggs County, though a Robins Air Force Base project sits 8 kilometres away and three more Eagle Rock sites lie between 31 and 35 kilometres off in Jones County.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "A 204 megawatt solar plant is 3 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.41nbc.com/twiggs-county-data-center-rezoning-approval/",
+   "https://wgxa.tv/news/local/environmental-advocate-urges-twiggs-county-to-reject-data-center-plans-near-ocmulgee-river"
+  ],
+  "unconfirmed": "No vote count was reported for the rezoning and no commissioner is named or quoted. The 900 megawatt figure in our record appears in no source read, and no source gives a water withdrawal figure; Wilson's comparison to a town of thirty thousand is his own estimate. The county's own fact sheet on the Pine Ridge project is a scanned PDF with no extractable text. Our record's 300 acre figure does not match the 291.5 acres rezoned. What has happened since September 2025 is not established. Both 13WMAZ reports and the Data Center Dynamics article in our record returned 403."
+ },
+ {
+  "id": "ft-140",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "People were carried out of the DeKalb County zoning meeting chanting \"Let the people speak\".",
+    "src": "https://www.decaturish.com/news/dekalb/tensions-flare-at-dekalb-zoning-meeting-about-data-centers/article_46a3dba1-11dd-4b2a-846f-543e3400b51d.html"
+   },
+   {
+    "para": 0,
+    "t": "That was on 20 November 2025, when between 75 and 100 people came to a meeting about data center rules and one proposed facility in south DeKalb, with about two dozen rallying outside beforehand.",
+    "src": "https://www.decaturish.com/news/dekalb/tensions-flare-at-dekalb-zoning-meeting-about-data-centers/article_46a3dba1-11dd-4b2a-846f-543e3400b51d.html"
+   },
+   {
+    "para": 1,
+    "t": "The proposal is for a data center campus of a million square feet on 95 acres at Loveless Place and Pineview Trail in Ellenwood: three two storey buildings and an outdoor electrical substation.",
+    "src": "https://www.decaturish.com/news/dekalb/tensions-flare-at-dekalb-zoning-meeting-about-data-centers/article_46a3dba1-11dd-4b2a-846f-543e3400b51d.html"
+   },
+   {
+    "para": 1,
+    "t": "The applicant is named in the report as PCC-DeKalb, LLC.",
+    "src": "https://www.decaturish.com/news/dekalb/tensions-flare-at-dekalb-zoning-meeting-about-data-centers/article_46a3dba1-11dd-4b2a-846f-543e3400b51d.html"
+   },
+   {
+    "para": 1,
+    "t": "County staff recommended refusing it, because the proposed use does not match the zoning of the districts involved.",
+    "src": "https://www.decaturish.com/news/dekalb/tensions-flare-at-dekalb-zoning-meeting-about-data-centers/article_46a3dba1-11dd-4b2a-846f-543e3400b51d.html"
+   },
+   {
+    "para": 2,
+    "t": "The commission put both decisions off, voting 5 to 1 to defer the draft data center ordinance to 16 December and the Ellenwood application to 13 January 2026.",
+    "src": "https://www.decaturish.com/news/dekalb/tensions-flare-at-dekalb-zoning-meeting-about-data-centers/article_46a3dba1-11dd-4b2a-846f-543e3400b51d.html"
+   },
+   {
+    "para": 2,
+    "t": "Commissioner Ted Terry cast the vote against, and explained it: \"I believe we can do data centers the right way. But too many people are against it, and it's our job to meet them where they are at and answer all questions and concerns.\"",
+    "src": "https://www.decaturish.com/news/dekalb/tensions-flare-at-dekalb-zoning-meeting-about-data-centers/article_46a3dba1-11dd-4b2a-846f-543e3400b51d.html"
+   },
+   {
+    "para": 3,
+    "t": "South DeKalb resident Quanda Stroud and others raised energy costs and effects on the environment and on health.",
+    "src": "https://www.decaturish.com/news/dekalb/tensions-flare-at-dekalb-zoning-meeting-about-data-centers/article_46a3dba1-11dd-4b2a-846f-543e3400b51d.html"
+   },
+   {
+    "para": 4,
+    "t": "The ordinance being drafted would sort data centers into four classes by floor area and require noise assessments, water sustainability plans and environmental studies.",
+    "src": "https://www.decaturish.com/news/dekalb/tensions-flare-at-dekalb-zoning-meeting-about-data-centers/article_46a3dba1-11dd-4b2a-846f-543e3400b51d.html"
+   },
+   {
+    "para": 5,
+    "t": "The project is listed as suspended, with Telecad Wireless named as the developer, and a petition against data centers in Georgia communities is attached to it.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 5,
+    "t": "Eight moratoriums, bans and zoning limits are in force in the surrounding jurisdictions, though DeKalb County itself has none.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 5,
+    "t": "The closest generation of any size is Jack McDonough, 2,535 megawatts, 26 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.decaturish.com/news/dekalb/tensions-flare-at-dekalb-zoning-meeting-about-data-centers/article_46a3dba1-11dd-4b2a-846f-543e3400b51d.html"
+  ],
+  "unconfirmed": "The developer is named as PCC-DeKalb, LLC in the report and as Telecad Wireless in our record, and the relationship between them is not established. What the commission decided on 16 December 2025 and 13 January 2026 is unknown; our record's status of suspended could not be checked. No megawatt or water figure exists for the project, and the acreage in the report is 95 where our record gives none. The earlier Decaturish report and the Data Center Dynamics article in our record were not read."
+ },
+ {
+  "id": "ft-1775151442981-9276",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one is over, but the only source that would explain why could not be read.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "The entry is a Crow Holdings Development data center on 37 acres south of Roberts Road and west of Highway 85 at Fayetteville, in Fayette County, Georgia, listed as cancelled, and the source attached to it is a trade report headed \"Developer effectively withdraws application for data center in Fayetteville, Georgia\".",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The word \"effectively\" in that headline is doing work nothing else explains.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Five data center sites are recorded in Fayette County, and six lie within 14 kilometres of this parcel, including a Microsoft campus and a QTS site both 9 kilometres away and a Vantage campus at 10.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Twelve moratoriums, bans and zoning limits are in force in the surrounding jurisdictions, though Fayette County itself has none.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Thirty-eight kilometres separate the parcel from the 2,535 megawatt Jack McDonough gas plant.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so why the application was withdrawn, when, whether residents opposed it and whether the developer intends to return are all unknown. No megawatt figure, square footage or filing date exists in our record. No Fayetteville local reporting was sought."
+ },
+ {
+  "id": "ft-148",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The developer admitted that Gainesville, in Hall County, Georgia, does not have enough water if the data center campus uses as much as its own high estimate.",
+    "src": "https://www.fox5atlanta.com/news/hall-county-tables-vote-massive-data-center-project-after-residents-raise-concerns"
+   },
+   {
+    "para": 0,
+    "t": "Project Turbo is 900,000 square feet in three buildings of about 300,000 each, on 145 acres at O'Kelly Road in Gainesville, proposed by Williams Brothers Development, with about 150 jobs and millions in projected tax revenue.",
+    "src": "https://www.fox5atlanta.com/news/hall-county-tables-vote-massive-data-center-project-after-residents-raise-concerns"
+   },
+   {
+    "para": 0,
+    "t": "Hall County tabled the vote until 6 October 2025, having already delayed it once from September.",
+    "src": "https://www.fox5atlanta.com/news/hall-county-tables-vote-massive-data-center-project-after-residents-raise-concerns"
+   },
+   {
+    "para": 1,
+    "t": "This is Lake Lanier country, and residents remember the droughts.",
+    "src": "https://www.fox5atlanta.com/news/hall-county-tables-vote-massive-data-center-project-after-residents-raise-concerns"
+   },
+   {
+    "para": 1,
+    "t": "Mandy Harris, recalling the lake dropping 30 feet, asked: \"What's going to happen then?\"",
+    "src": "https://www.fox5atlanta.com/news/hall-county-tables-vote-massive-data-center-project-after-residents-raise-concerns"
+   },
+   {
+    "para": 1,
+    "t": "Jody White said: \"They're not giving us answers. We don't want to end up, you know our lights are out, but we have a data center that's up here running!\"",
+    "src": "https://www.fox5atlanta.com/news/hall-county-tables-vote-massive-data-center-project-after-residents-raise-concerns"
+   },
+   {
+    "para": 1,
+    "t": "On power the developer said the project is \"not taking away from, in any stretch of the imagination, any of the power we consume today\", citing a separate arrangement with Georgia Power.",
+    "src": "https://www.fox5atlanta.com/news/hall-county-tables-vote-massive-data-center-project-after-residents-raise-concerns"
+   },
+   {
+    "para": 2,
+    "t": "There was also a question about who was deciding.",
+    "src": "https://www.fox5atlanta.com/news/hall-county-tables-vote-massive-data-center-project-after-residents-raise-concerns"
+   },
+   {
+    "para": 2,
+    "t": "Resident Jill Cooper objected that the planning commission chair, Chris Braswell, works for Norton Commercial, the firm selling the land: \"They're connected, personally connected, and it's wrong.\"",
+    "src": "https://www.fox5atlanta.com/news/hall-county-tables-vote-massive-data-center-project-after-residents-raise-concerns"
+   },
+   {
+    "para": 2,
+    "t": "Planning Commissioner Shannon Davidson asked the question the water answer raised: \"What kind of issues are we gonna have in the County if the City is saying they can't do it?\"",
+    "src": "https://www.fox5atlanta.com/news/hall-county-tables-vote-massive-data-center-project-after-residents-raise-concerns"
+   },
+   {
+    "para": 3,
+    "t": "The site is put at 145 acres, the developer is named as Project Turbo, Inc, and a Lake Lanier Association page notes that the plans relied substantially on evaporative cooling.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Hall County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The 127 megawatt Buford dam, which impounds Lake Lanier, is 28 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.fox5atlanta.com/news/hall-county-tables-vote-massive-data-center-project-after-residents-raise-concerns"
+  ],
+  "unconfirmed": "The developer is named as Williams Brothers Development in the report and as Project Turbo, Inc in our record, and no source read settles which is the applicant. No megawatt figure and no water withdrawal figure were published, only the developer's acknowledgement that the city's capacity may be insufficient at the high end. What Hall County decided on 6 October 2025 is not established. Both Data Center Dynamics articles in our record returned 403, and one of them appears from its headline to be about a project outside Augusta rather than this one."
+ },
+ {
+  "id": "ft-149",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Three separate entries cover what may be one or two projects by the same two firms in Jones County, and this is the middle one.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "It lists a 634 acre Eagle Rock Partners and Thomas & Hutton Engineering data center near 2349 Georgia Highway 18 at Gordon, and the single source attached to it could not be read.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The Crooked Creek Data Center, also given as 634 acres, sits 3 kilometres away and is marked cancelled.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "A third Eagle Rock entry, at 900 megawatts, sits 8 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Jones County adopted data center zoning rules on 16 September 2025 and neighbouring Monroe County a moratorium on 3 December 2025.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generation is an 82 megawatt biomass plant at a Macon paper mill, 28 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403. This entry, the Crooked Creek entry 3 kilometres away and the Eagle Rock entry 8 kilometres away share developers and, in two cases, an identical 634 acre figure, and I could not establish whether they are one project recorded three times, two projects, or three. No megawatt figure, square footage, filing date or current status is established for this entry, and no local reporting could be read for it."
+ },
+ {
+  "id": "ft-1765203657910-6182",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The developers pulled this one with less than a day to go before the hearing.",
+    "src": "https://wgxa.tv/news/local/developers-withdraw-rezoning-application-jones-county-data-center-ahead-of-planning-and-zoning-hearing-thomas-hutton-engineering-eagle-rock-partners-crooked-creek-technology-park-intersection-of-highway-18-and-bethlehem-church-road-tim-pitrowski"
+   },
+   {
+    "para": 0,
+    "t": "Eagle Rock Partners and Thomas & Hutton Engineering had applied to rezone land at the junction of Highway 18 and Bethlehem Church Road, in Jones County, Georgia, for the Crooked Creek Technology Park, a data center of 1.8 million square feet on more than 600 acres.",
+    "src": "https://wgxa.tv/news/local/developers-withdraw-rezoning-application-jones-county-data-center-ahead-of-planning-and-zoning-hearing-thomas-hutton-engineering-eagle-rock-partners-crooked-creek-technology-park-intersection-of-highway-18-and-bethlehem-church-road-tim-pitrowski"
+   },
+   {
+    "para": 0,
+    "t": "They withdrew it on Monday 20 October 2025, hours before the planning and zoning board was to hold a public hearing and vote at six that evening.",
+    "src": "https://wgxa.tv/news/local/developers-withdraw-rezoning-application-jones-county-data-center-ahead-of-planning-and-zoning-hearing-thomas-hutton-engineering-eagle-rock-partners-crooked-creek-technology-park-intersection-of-highway-18-and-bethlehem-church-road-tim-pitrowski"
+   },
+   {
+    "para": 0,
+    "t": "Planning director Tim Pitrowski confirmed it: \"They did withdraw their application and the matter will not be heard this evening.\"",
+    "src": "https://wgxa.tv/news/local/developers-withdraw-rezoning-application-jones-county-data-center-ahead-of-planning-and-zoning-hearing-thomas-hutton-engineering-eagle-rock-partners-crooked-creek-technology-park-intersection-of-highway-18-and-bethlehem-church-road-tim-pitrowski"
+   },
+   {
+    "para": 1,
+    "t": "The argument that preceded it was about the county's own rules.",
+    "src": "https://wgxa.tv/news/local/developers-withdraw-rezoning-application-jones-county-data-center-ahead-of-planning-and-zoning-hearing-thomas-hutton-engineering-eagle-rock-partners-crooked-creek-technology-park-intersection-of-highway-18-and-bethlehem-church-road-tim-pitrowski"
+   },
+   {
+    "para": 1,
+    "t": "Dustin Riley argued that the ordinance as it stood would let a data center into a neighbourhood commercial district, and that such buildings should \"only be allowed in heavy industrial districts, of which there are very few spots in the county that would qualify\".",
+    "src": "https://wgxa.tv/news/local/developers-withdraw-rezoning-application-jones-county-data-center-ahead-of-planning-and-zoning-hearing-thomas-hutton-engineering-eagle-rock-partners-crooked-creek-technology-park-intersection-of-highway-18-and-bethlehem-church-road-tim-pitrowski"
+   },
+   {
+    "para": 1,
+    "t": "The planning and zoning board recommended that the county commissioners reconsider the data center zoning language before their decision on 4 November, and the developers had until 23 October to resubmit for the meeting on 17 November.",
+    "src": "https://wgxa.tv/news/local/developers-withdraw-rezoning-application-jones-county-data-center-ahead-of-planning-and-zoning-hearing-thomas-hutton-engineering-eagle-rock-partners-crooked-creek-technology-park-intersection-of-highway-18-and-bethlehem-church-road-tim-pitrowski"
+   },
+   {
+    "para": 2,
+    "t": "The project is listed as cancelled, at 634 acres and $5 billion to $7 billion, with a local opposition group on Facebook.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "Two other entries naming the same developers sit 3 and 8 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Jones County adopted its data center zoning rules on 16 September 2025, nine days before the application was filed.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://wgxa.tv/news/local/developers-withdraw-rezoning-application-jones-county-data-center-ahead-of-planning-and-zoning-hearing-thomas-hutton-engineering-eagle-rock-partners-crooked-creek-technology-park-intersection-of-highway-18-and-bethlehem-church-road-tim-pitrowski"
+  ],
+  "unconfirmed": "Our record files this entry as cancelled and gives 634 acres and a $5 billion to $7 billion range, none of which appears in the report read; the report gives more than 600 acres and 1.8 million square feet and no cost. Whether the developers resubmitted by the 23 October deadline, and what the commissioners decided on 4 November 2025, are not established. Our record holds two further entries naming the same developers within 8 kilometres, and whether they are separate projects or the same one recorded more than once is unresolved. No megawatt figure exists. The 13WMAZ report and the Data Center Dynamics article in our record returned 403."
+ },
+ {
+  "id": "ft-1772657752383-8906",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The state filing for this one names a company the record does not.",
+    "src": "https://apps.dca.ga.gov/DRI/InitialForm.aspx?driid=4607"
+   },
+   {
+    "para": 0,
+    "t": "Georgia's Development of Regional Impact form for the 75 South Data Center Campus, in Spalding County, gives the developer as Industrial VI Enterprises, LLC, with Steven L. Jones as contact, and the property owner as LBM Associates, represented by Lindsey Sykes.",
+    "src": "https://apps.dca.ga.gov/DRI/InitialForm.aspx?driid=4607"
+   },
+   {
+    "para": 0,
+    "t": "The project is attributed elsewhere to an affiliate of Hillwood.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The campus is 2,240,000 square feet in seven two storey buildings, filed with Spalding County, for completion in 2030, with rezoning and special exception approvals being sought.",
+    "src": "https://apps.dca.ga.gov/DRI/InitialForm.aspx?driid=4607"
+   },
+   {
+    "para": 1,
+    "t": "The form gives no acreage, no megawatt figure and no water or sewer demand.",
+    "src": "https://apps.dca.ga.gov/DRI/InitialForm.aspx?driid=4607"
+   },
+   {
+    "para": 2,
+    "t": "Spalding County is filling up.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Four of the recorded sites are in the county, and six lie within 18 kilometres of this one: the Wallace Jackson campus at 3 kilometres, a Spalding Investments site at 5, an Amazon Web Services campus in Butts County at 6 and Project Spalding at 8.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The site is put at 291 acres, and a local group calling itself Save Rural Spalding has formed against it.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "Eight moratoriums and zoning limits are in force in the surrounding counties and towns, including Lamar County's from 1 September 2025, Pike County's from 10 September 2025 and Monroe County's from 3 December 2025, but Spalding County itself has none.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "A 55 megawatt biomass plant sits 24 kilometres away, with the 2,580 megawatt Scherer coal plant at 38.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://apps.dca.ga.gov/DRI/InitialForm.aspx?driid=4607"
+  ],
+  "unconfirmed": "The developer is given as Industrial VI Enterprises, LLC in the state filing and as a Hillwood affiliate in our record, and the relationship between them is not established. No acreage appears in the filing, so our record's 291 acre figure is uncorroborated, and no megawatt or water figure exists anywhere for a campus of 2.24 million square feet. No hearing, vote or decision was found. The Data Center Dynamics article in our record returned 403, and the Save Rural Spalding group page was not read."
+ },
+ {
+  "id": "ft-150",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Greg Berns stood up at the Spalding County commission on 8 April and said the county was considering a data center that would use more power and more water than the whole county put together.",
+    "src": "https://www.griffindailynews.com/news/spalding-county-resident-raises-alarm-about-a-proposed-data-center-on-high-falls-road/article_ec6873d9-ad5a-5327-b940-fbec3e36b16c.html"
+   },
+   {
+    "para": 0,
+    "t": "\"It is shocking that the county is even considering an installation that will consume more power and more water than the entire county combined,\" he told the board.",
+    "src": "https://www.griffindailynews.com/news/spalding-county-resident-raises-alarm-about-a-proposed-data-center-on-high-falls-road/article_ec6873d9-ad5a-5327-b940-fbec3e36b16c.html"
+   },
+   {
+    "para": 0,
+    "t": "He said it would make noise equivalent to a small airplane, that surrounding property values would fall, and he asked the commissioners to say whether they had signed non disclosure agreements with the developer.",
+    "src": "https://www.griffindailynews.com/news/spalding-county-resident-raises-alarm-about-a-proposed-data-center-on-high-falls-road/article_ec6873d9-ad5a-5327-b940-fbec3e36b16c.html"
+   },
+   {
+    "para": 1,
+    "t": "The project is by Montana Property Group LLC on land owned by Alan R. Mobley at High Falls Road and Alicia Drive: about 133 acres in two parcels, 2,559,500 square feet, valued at $1.875 billion at buildout and due for completion in 2030.",
+    "src": "https://www.griffindailynews.com/news/spalding-county-resident-raises-alarm-about-a-proposed-data-center-on-high-falls-road/article_ec6873d9-ad5a-5327-b940-fbec3e36b16c.html"
+   },
+   {
+    "para": 1,
+    "t": "The estimated annual tax revenue, property and sales combined, is $26.859 million.",
+    "src": "https://www.griffindailynews.com/news/spalding-county-resident-raises-alarm-about-a-proposed-data-center-on-high-falls-road/article_ec6873d9-ad5a-5327-b940-fbec3e36b16c.html"
+   },
+   {
+    "para": 2,
+    "t": "The company filed its Development of Regional Impact application on 31 March, the planning commission was to consider the rezoning on 29 April, and the board of commissioners set a zoning public hearing for 22 May.",
+    "src": "https://www.griffindailynews.com/news/spalding-county-resident-raises-alarm-about-a-proposed-data-center-on-high-falls-road/article_ec6873d9-ad5a-5327-b940-fbec3e36b16c.html"
+   },
+   {
+    "para": 2,
+    "t": "The rezoning sought is from agricultural and residential to light manufacturing, with conditions covering masonry or stone on 40 percent of the facades, 100 foot setbacks from homes, screening of mechanical equipment and letters confirming water capacity.",
+    "src": "https://www.griffindailynews.com/news/spalding-county-resident-raises-alarm-about-a-proposed-data-center-on-high-falls-road/article_ec6873d9-ad5a-5327-b940-fbec3e36b16c.html"
+   },
+   {
+    "para": 3,
+    "t": "When the Atlanta Journal-Constitution looked at the same filing it found almost nothing in it, and the applicant's attorney did not respond to its questions.",
+    "src": "https://www.ajc.com/news/business/sprawling-data-center-campuses-proposed-south-and-east-of-atlanta/5QKZEN5W45GU5NCHUHGVYX4UUM/"
+   },
+   {
+    "para": 4,
+    "t": "The project is listed as under construction.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "Six other tracked data center sites lie within 17 kilometres, including the 75 South campus at 8 kilometres and an Amazon Web Services campus in Butts County at 14.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The closest generation is a biomass plant of 55 megawatts, 24 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.griffindailynews.com/news/spalding-county-resident-raises-alarm-about-a-proposed-data-center-on-high-falls-road/article_ec6873d9-ad5a-5327-b940-fbec3e36b16c.html",
+   "https://www.ajc.com/news/business/sprawling-data-center-campuses-proposed-south-and-east-of-atlanta/5QKZEN5W45GU5NCHUHGVYX4UUM/"
+  ],
+  "unconfirmed": "The year of the April and May meetings is not stated in the report read, though the DRI number places the filing in the 2025 sequence. What the planning commission and the board of commissioners decided is not established, so our record's status of under construction is uncorroborated. Berns's claims about power, water and noise are his own and no figures from the developer or the county were published to test them; the commissioners did not answer his question about non disclosure agreements in anything I could read. No megawatt figure exists. Both Data Center Dynamics articles in our record returned 403."
+ }
+]

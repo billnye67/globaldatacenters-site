@@ -1,0 +1,7 @@
+[
+  {"id":"ashburn","q":"Ashburn, Virginia","loc":{"lat":39.0437,"lng":-77.4875,"label":"Ashburn, Virginia","cc":"US"}},
+  {"id":"perth","q":"11 Newcastle St, Perth, Australia","loc":{"lat":-31.949977,"lng":115.868274,"label":"11 Newcastle St, Perth, Australia","cc":"AU"}},
+  {"id":"cape-town","q":"18 London Circle, Cape Town, South Africa","loc":{"lat":-33.889659,"lng":18.679337,"label":"18 London Circle, Cape Town, South Africa","cc":"ZA"}},
+  {"id":"frankfurt","q":"45 Wilhelm-Fay-Strasse, Frankfurt, Germany","loc":{"lat":50.128702,"lng":8.576623,"label":"45 Wilhelm-Fay-Strasse, Frankfurt, Germany","cc":"DE"}},
+  {"id":"singapore","q":"1 Lok Yang Way, Singapore","loc":{"lat":1.323555,"lng":103.694536,"label":"1 Lok Yang Way, Singapore","cc":"SG"}}
+]

@@ -1,0 +1,711 @@
+[
+ {
+  "id": "ft-1764028554679-9929",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "IREN is building a data center hub on 2,200 acres in Fisher County, west Texas.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The Sweetwater hub is two sites built to hold more than 700,000 liquid-cooled graphics processors: Sweetwater 1 at 1,400 megawatts on 1,700 acres and Sweetwater 2 at 600 megawatts on 500, which is the 2,000 megawatts the record carries.",
+    "src": "https://iren.com/data-centers/sweetwater"
+   },
+   {
+    "para": 0,
+    "t": "Both connect directly to the ERCOT grid, with multiple fibre paths delivering under ten milliseconds of latency to the nearest hyperscaler regions, and both use air and liquid cooling.",
+    "src": "https://iren.com/data-centers/sweetwater"
+   },
+   {
+    "para": 0,
+    "t": "The company is aiming to energise the bulk substation at Sweetwater 1 in 2026 and Sweetwater 2 in 2027.",
+    "src": "https://iren.com/data-centers/sweetwater"
+   },
+   {
+    "para": 1,
+    "t": "What is around it is wind.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "The 207 megawatt Inadale farm is 16 kilometres away, Trent at 152 megawatts 20, Sweetwater Wind 2 at 99 megawatts 21 and Roscoe at 209 megawatts 25.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "There is no thermal generation of any size on record within reach, and this is the only data center site recorded in Fisher County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "No local objection has been reported and no moratorium applies here.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "The only rule the record attaches is a statewide Texas measure dated August 3, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The ERCOT grid this site plugs into has a peak load the record puts at 73,825 megawatts, so the two Sweetwater sites together are about 2.7 percent of it.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [
+   "https://iren.com/data-centers/sweetwater"
+  ],
+  "unconfirmed": "Everything above about the site comes from the developer's own page; no independent reporting on it was found and the Data Center Dynamics article in our record could not be fetched. Water use is not stated. No county hearing, approval date or local reaction was established."
+ },
+ {
+  "id": "ft-1785353574775-1232",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The record holds a proposed Flexential campus of 108 megawatts on 110 acres on the outskirts of Talty, in Kaufman County, Texas.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "Its two sources are a Data Center Dynamics report and the company's own page for a facility it calls Talty 1; neither would open for us.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "What can be said about it is mostly the setting rather than the building.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Talty sits east of Dallas, at the edge of a belt of campuses to the south and west.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "QTS's South Dallas site at Wilmer is 31 kilometres away, a Cawley Partners proposal 31, STACK's operating Lancaster campus 32, Stream's 140 acre Wilmer site 34 and the BT Gateway proposal 34.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "This is the only data center site recorded in Kaufman County itself.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The power is close and large.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The 1,770 megawatt Forney Energy Center is 11 kilometres away, the 915 megawatt Lake Hubbard plant 21, a 196 megawatt solar hybrid 21 and a 120 megawatt battery plant 35.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Kaufman County has no moratorium of its own; the only rule the record attaches here is the statewide Texas measure of August 3, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Neither source in our record could be read: the Data Center Dynamics report refuses our requests and Flexential's own page returned a 403. The building count, square footage, cooling method, water demand, timetable and any local process are therefore all unestablished, and the 108 megawatts and 110 acres above come from our own record rather than from a source we verified."
+ },
+ {
+  "id": "ft-1775092815788-9591",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A farming family gave the city of Taylor 87 acres in 1999 for ten dollars, for a public park.",
+    "src": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/"
+   },
+   {
+    "para": 0,
+    "t": "The data center is to stand at 1601 Martin Luther King Jr Drive in Taylor, in Williamson County, Texas.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "In 2025 the city sold it to Blueprint, a data center developer, for $10 million.",
+    "src": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/"
+   },
+   {
+    "para": 0,
+    "t": "A 135,000 square foot data center is planned on it, nestled between a power substation and the railway tracks, about 500 feet from Pamela Griffin's house.",
+    "src": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/"
+   },
+   {
+    "para": 0,
+    "t": "Griffin and her brothers and sisters played baseball on that ground, camped on it, and watched their children and grandchildren do the same.",
+    "src": "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/"
+   },
+   {
+    "para": 1,
+    "t": "The city's own account is about money and machinery.",
+    "src": "https://www.taylortx.gov/1293/Blueprint-Projects-Data-Center"
+   },
+   {
+    "para": 1,
+    "t": "Three buildings are planned in three phases at a total of $1 billion, on the south east side just inside Carlos G Parker Boulevard between Martin Luther King Boulevard and the railroad tracks.",
+    "src": "https://www.taylortx.gov/1293/Blueprint-Projects-Data-Center"
+   },
+   {
+    "para": 1,
+    "t": "There would be an electrical substation, backup diesel generators and closed loop cooling with minimal water demand, wastewater going to the city sanitary sewer or an off-site facility, no natural gas systems, and fibre optic connections with no satellites.",
+    "src": "https://www.taylortx.gov/1293/Blueprint-Projects-Data-Center"
+   },
+   {
+    "para": 1,
+    "t": "Noise is to be cut by a solid barrier wall in front and an earthen berm with landscaping.",
+    "src": "https://www.taylortx.gov/1293/Blueprint-Projects-Data-Center"
+   },
+   {
+    "para": 1,
+    "t": "The city expects as much as $30 million in total additional revenue over ten years and the school district as much as $20 million.",
+    "src": "https://www.taylortx.gov/1293/Blueprint-Projects-Data-Center"
+   },
+   {
+    "para": 2,
+    "t": "The decisions were unanimous and quiet.",
+    "src": "https://www.taylortx.gov/1293/Blueprint-Projects-Data-Center"
+   },
+   {
+    "para": 2,
+    "t": "The council authorised a Chapter 380 economic development agreement on August 8, 2024 and approved the employment centre plan on July 24, 2025, both without dissent.",
+    "src": "https://www.taylortx.gov/1293/Blueprint-Projects-Data-Center"
+   },
+   {
+    "para": 2,
+    "t": "A community conversation was scheduled for July 21 at seven in the evening, at the Venue on West 2nd Street.",
+    "src": "https://www.taylortx.gov/1293/Blueprint-Projects-Data-Center"
+   },
+   {
+    "para": 2,
+    "t": "The record carries 52 acres, 30 megawatts and $1 billion, marks the project under construction, and records emerging concern.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "Twelve data center sites are counted in Williamson County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "KDC's 360 megawatt Project Comal is six kilometres away, an Iron Mountain proposal eleven, Skybox's 600 megawatt Hutto campus thirteen under construction, a cancelled 70 megawatt Hutto project sixteen and Project Raptor eighteen.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The generation nearby is batteries and solar: two 50 megawatt storage plants 17 kilometres off and a 144 megawatt solar farm 18.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.404media.co/a-farmer-donated-land-to-turn-into-a-park-the-city-is-building-a-massive-data-center-instead/",
+   "https://www.taylortx.gov/1293/Blueprint-Projects-Data-Center"
+  ],
+  "unconfirmed": "The megawatt capacity is not published by the city and our record's 30 megawatts is not corroborated. The 404 Media account is paywalled beyond its opening, so the donor family's name, any further terms attached to the 1999 gift and any legal challenge to the sale are not carried here; the only term visible is that the city use the land as a public park. Job numbers are not given by the city. Our 52 acres and the 87 acres donated do not match, and the city describes three buildings rather than one."
+ },
+ {
+  "id": "ft-1775092501551-8874",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Project Comal is a data center campus on about 210 acres at 1051 County Road 401 in Taylor, in Williamson County, Texas.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Taylor's council waited sixty days and then approved it unanimously, on the night of Thursday, March 26, 2026, for KDC, next to the city's Samsung chip plant, with limited retail and civic uses on a small adjacent parcel.",
+    "src": "https://cbsaustin.com/news/local/taylor-city-council-approves-210-acre-data-center-near-samsung-chip-plant"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 220 acres and 360 megawatts and marks the campus under construction.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The approval came with conditions attached, on water, fire hazards, civic space, air quality and traffic.",
+    "src": "https://cbsaustin.com/news/local/taylor-city-council-approves-210-acre-data-center-near-samsung-chip-plant"
+   },
+   {
+    "para": 1,
+    "t": "Council member Greg Redden described them as groundwork rather than a one-off: \"What this regulation does is it's the backbone of a future ordinance that will be addressing data centers.\"",
+    "src": "https://cbsaustin.com/news/local/taylor-city-council-approves-210-acre-data-center-near-samsung-chip-plant"
+   },
+   {
+    "para": 1,
+    "t": "He also explained the delay: \"We took a 60-day pause to do additional homework and negotiate.\"",
+    "src": "https://cbsaustin.com/news/local/taylor-city-council-approves-210-acre-data-center-near-samsung-chip-plant"
+   },
+   {
+    "para": 2,
+    "t": "The city has form for this kind of agreement.",
+    "src": "https://www.taylortx.gov/1293/Blueprint-Projects-Data-Center"
+   },
+   {
+    "para": 2,
+    "t": "Six kilometres away it sold 87 acres of donated parkland to another data center developer, Blueprint, and authorised a Chapter 380 economic development agreement for that scheme in August 2024 and an employment centre plan in July 2025, both unanimously.",
+    "src": "https://www.taylortx.gov/1293/Blueprint-Projects-Data-Center"
+   },
+   {
+    "para": 2,
+    "t": "That project is three buildings and $1 billion, with closed loop cooling and no natural gas systems, expected to bring the city as much as $30 million over ten years and the school district as much as $20 million.",
+    "src": "https://www.taylortx.gov/1293/Blueprint-Projects-Data-Center"
+   },
+   {
+    "para": 3,
+    "t": "Twelve data center sites are counted in Williamson County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "Blueprint is six kilometres from here, an Iron Mountain proposal six, Skybox's 600 megawatt Hutto campus seven, a cancelled Hutto project eleven and Project Raptor twelve.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The nearby generation is solar and batteries: a 144 megawatt solar farm 14 kilometres off and three storage plants between 17 and 19.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://cbsaustin.com/news/local/taylor-city-council-approves-210-acre-data-center-near-samsung-chip-plant",
+   "https://www.taylortx.gov/1293/Blueprint-Projects-Data-Center"
+  ],
+  "unconfirmed": "The page we read gives no building count, no substations, no megawatt figure, no utility, no job numbers and no tax projections, and no residents are quoted. Reporting elsewhere describes six buildings, two substations, power from Oncor, up to 3,000 construction jobs over three and a half years and 371.8 permanent posts averaging $53,486; we could not open those pages. Our 220 acres and the council's 210 differ."
+ },
+ {
+  "id": "ft-612",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Rowan has six data centers under development in east Temple, in Bell County, Texas.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Its own FAQ page says the cooling is air-cooled and fully closed loop, using pure water with corrosion inhibitors, needing 2 million gallons to fill at commissioning and then recirculating for about ten years, with domestic use capped at 4,000 gallons a day for employee facilities.",
+    "src": "https://www.rowantemple.com/faqs"
+   },
+   {
+    "para": 0,
+    "t": "Permanent utility power is the long term plan, with a temporary supply from a natural gas provider bridging the gap until it arrives.",
+    "src": "https://www.rowantemple.com/faqs"
+   },
+   {
+    "para": 0,
+    "t": "The entry puts the campus at 1601 Bob White Road on 700 acres, at 300 megawatts and $1.2 billion, and marks it under construction with pushback recorded.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The company's own figures are per building.",
+    "src": "https://www.rowantemple.com/faqs"
+   },
+   {
+    "para": 1,
+    "t": "Each facility is projected to create more than 550 construction jobs and at least 40 full time posts, 120 across six projects, with starting pay of $80,000 a year.",
+    "src": "https://www.rowantemple.com/faqs"
+   },
+   {
+    "para": 1,
+    "t": "It puts the whole thing at more than $4.2 billion of private investment, about $700 million a data center, and about $45 million a year in tax for the city, the county, the school districts and other jurisdictions once running.",
+    "src": "https://www.rowantemple.com/faqs"
+   },
+   {
+    "para": 1,
+    "t": "It has agreed to outperform the code requirements for sound, with a sound study and mitigation plan required before occupancy is approved.",
+    "src": "https://www.rowantemple.com/faqs"
+   },
+   {
+    "para": 2,
+    "t": "Four data center sites are counted in Bell County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "Meta's operating 152 megawatt Temple site is ten kilometres away, Project Freebird at 1,200 megawatts is 27 kilometres and under construction, a Milam County proposal 28 and Project Merlin 40.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The 1,580 megawatt Temple Power Station is three kilometres from this campus, with a 579 megawatt solar hybrid at eight and a 200 megawatt solar farm at eleven.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Temple and Bell County have written no moratorium on data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.rowantemple.com/faqs"
+  ],
+  "unconfirmed": "Everything above about the buildings comes from the developer's own FAQ page; the acreage, the megawatt figure and the completion dates are not given there and our 700 acres and 300 megawatts are uncorroborated. Our record notes pushback but we found no account of it in a page we could read; the Austin Business Journal, the local television report and the Data Center Dynamics articles our record cites all refused our requests."
+ },
+ {
+  "id": "ft-616",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This entry is a building in a portfolio being sold, not a project being built.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The record holds an operating data center at 507 Olive Street in Texarkana, in Bowie County, and its only source is a JLL page advertising an eight asset Switch portfolio.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "There is no capacity figure, no acreage and no date.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "What the searching did turn up is that Bowie County is being bought up.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "What the searches did turn up is that Bowie County is being bought up.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The record holds a 300 megawatt project called Big Pine 27 kilometres away, marked proposed, and counts two data center sites in the county.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "This corner of Texas is not on the ERCOT grid that covers most of the state.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 2,
+    "t": "It sits in the Southwest Power Pool, whose peak load the record puts at 48,687 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 2,
+    "t": "The generation nearby is mills and coal: a 65 megawatt biomass plant at the International Paper Texarkana mill 19 kilometres away, the 128 megawatt Ashdown biomass plant 25, and the 650 megawatt John W Turk coal station 33.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Texarkana and Bowie County have written no moratorium on data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "We searched 507 Olive Street with Texarkana, Bowie County with \"data center\", and the Switch portfolio name, and found no description of this building: no operator, floor area, power draw, age or tenant. The JLL listing in our record was not opened. An existing telecom building in a small downtown is not the kind of site that draws objection, which is why none appears here; that absence is not evidence."
+ },
+ {
+  "id": "ft-1782929726005-1713",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Hood County approved the Comanche Circle data center campus without conditions, 3 to 1, on June 9, 2026.",
+    "src": "https://www.keranews.org/government/2026-06-09/hood-county-approves-comanche-circle-data-center-without-conditions-after-contentious-meeting"
+   },
+   {
+    "para": 0,
+    "t": "Commissioner Nannette Samuelson voted against and Commissioner Dave Eagle was absent.",
+    "src": "https://www.keranews.org/government/2026-06-09/hood-county-approves-comanche-circle-data-center-without-conditions-after-contentious-meeting"
+   },
+   {
+    "para": 0,
+    "t": "The developer is Sailfish Investors, of Florida, whose founder Ryan Hughes did not come to the meeting, citing safety concerns.",
+    "src": "https://www.keranews.org/government/2026-06-09/hood-county-approves-comanche-circle-data-center-without-conditions-after-contentious-meeting"
+   },
+   {
+    "para": 0,
+    "t": "The commissioners dropped the restrictions they had imposed at the conditional approval stage in January, saying the engineering, drainage, water, wastewater and environmental questions would be dealt with later, at the site development plan stage.",
+    "src": "https://www.keranews.org/government/2026-06-09/hood-county-approves-comanche-circle-data-center-without-conditions-after-contentious-meeting"
+   },
+   {
+    "para": 0,
+    "t": "The entry puts the campus at 2,000 acres and 600 megawatts near the Comanche Peak nuclear plant at Tolar, and marks it under construction.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Dozens of residents spoke against it.",
+    "src": "https://www.keranews.org/government/2026-06-09/hood-county-approves-comanche-circle-data-center-without-conditions-after-contentious-meeting"
+   },
+   {
+    "para": 1,
+    "t": "Joanne Thomas told the court: \"I am asking this court to show some backbone today. Call a bad faith actor exactly what he is.\"",
+    "src": "https://www.keranews.org/government/2026-06-09/hood-county-approves-comanche-circle-data-center-without-conditions-after-contentious-meeting"
+   },
+   {
+    "para": 1,
+    "t": "Judge-elect Mark Lowrey asked how the county could afford a project whose representative \"doesn't even have the respect or the courage to come in here.\"",
+    "src": "https://www.keranews.org/government/2026-06-09/hood-county-approves-comanche-circle-data-center-without-conditions-after-contentious-meeting"
+   },
+   {
+    "para": 1,
+    "t": "Brian Crawford put it shorter: \"Ryan Hughes is telling this court to pound sand. He is completely dismissing, disregarding and disrespecting the authority of this court.\"",
+    "src": "https://www.keranews.org/government/2026-06-09/hood-county-approves-comanche-circle-data-center-without-conditions-after-contentious-meeting"
+   },
+   {
+    "para": 1,
+    "t": "When a woman in the crowd asked the commissioners how much they were being paid, County Attorney Matt Mills answered: \"Not a dime. You're accusing people of being crooks. I'm tired of that.\" He added that \"the law in Texas for decades is very pro-development, very pro-private property rights.\"",
+    "src": "https://www.keranews.org/government/2026-06-09/hood-county-approves-comanche-circle-data-center-without-conditions-after-contentious-meeting"
+   },
+   {
+    "para": 2,
+    "t": "The reason the county could not simply refuse is Texas law.",
+    "src": "https://www.texastribune.org/2026/06/02/texas-data-centers-hood-county-local-control-rural-water-power/"
+   },
+   {
+    "para": 2,
+    "t": "Counties here have only the powers the legislature grants them, and unlike cities they have no zoning authority; Robert Paterson, a University of Texas at Austin professor of land use and environmental planning, put it this way: \"Texas has always viewed counties as rural toddlers that can't be trusted with full powers.\"",
+    "src": "https://www.texastribune.org/2026/06/02/texas-data-centers-hood-county-local-control-rural-water-power/"
+   },
+   {
+    "para": 2,
+    "t": "Two attempts at a moratorium in Hood County failed, and state Senator Paul Bettencourt urged the attorney general to investigate counties that impose them, arguing they have no constitutional authority to do so; developers have sued the county twice, one seeking no less than $250,000 in damages.",
+    "src": "https://www.texastribune.org/2026/06/02/texas-data-centers-hood-county-local-control-rural-water-power/"
+   },
+   {
+    "para": 2,
+    "t": "Commissioner Dave Eagle summed it up: \"I was elected by the people to represent their opinion. But I also have to follow the law ... and not get the county sued.\" Of the county's position he said: \"There is a fence around us on what we get to do. We are working with a severe handicap.\"",
+    "src": "https://www.texastribune.org/2026/06/02/texas-data-centers-hood-county-local-control-rural-water-power/"
+   },
+   {
+    "para": 3,
+    "t": "Eight data centers are proposed across more than 7,600 acres, about twelve square miles, in Hood County, a rural place of 62,000 people about an hour southwest of Fort Worth, and Comanche Circle at 2,100 acres is the largest.",
+    "src": "https://www.texastribune.org/2026/06/02/texas-data-centers-hood-county-local-control-rural-water-power/"
+   },
+   {
+    "para": 3,
+    "t": "The developer first said Comanche Circle would need 95 million gallons of water over a seven year build and then 150,000 gallons a day, and later said the three projects together would use less than 50,000 gallons a day of groundwater at full build.",
+    "src": "https://www.texastribune.org/2026/06/02/texas-data-centers-hood-county-local-control-rural-water-power/"
+   },
+   {
+    "para": 3,
+    "t": "Nearly half of the 248 or more data centers planned in Texas will be in unincorporated areas, against 12 percent of those that exist now.",
+    "src": "https://www.texastribune.org/2026/06/02/texas-data-centers-hood-county-local-control-rural-water-power/"
+   },
+   {
+    "para": 4,
+    "t": "The 2,400 megawatt Comanche Peak nuclear plant is four kilometres from the site, Wolf Hollow II at 1,103 megawatts nine and Wolf Hollow I at 756 megawatts nine.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "An AWS proposal is four kilometres away and an operating MARA bitcoin mine ten.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "Granbury wrote zoning limits on data centers on May 21, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.keranews.org/government/2026-06-09/hood-county-approves-comanche-circle-data-center-without-conditions-after-contentious-meeting",
+   "https://www.texastribune.org/2026/06/02/texas-data-centers-hood-county-local-control-rural-water-power/"
+  ],
+  "unconfirmed": "Our 2,000 acres and the reported 2,100 differ, and our 600 megawatts is not corroborated; the three gigawatt figure covers this project with two companions. Whether construction has started, as our status says, was not established. The bribery allegations the county attorney was answering are not detailed in the page we read."
+ },
+ {
+  "id": "ft-1785258427594-3902",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Diode Ventures walked away from this one in late July 2026, days after the campaign against it announced at a July 27 committee meeting that it was escalating.",
+    "src": "https://www.texastribune.org/2026/07/23/east-texas-data-center-withdrawn/"
+   },
+   {
+    "para": 0,
+    "t": "The Kansas company had proposed a data center in Henderson County, Texas, near Cedar Creek Reservoir and inside a developed subdivision of hundreds of homes, that would have taken five million gallons of water a day by its fifth year, over a twelve year build.",
+    "src": "https://www.texastribune.org/2026/07/23/east-texas-data-center-withdrawn/"
+   },
+   {
+    "para": 0,
+    "t": "The water would have come from Cedar Creek Lake, which supplies Fort Worth.",
+    "src": "https://www.texastribune.org/2026/07/23/east-texas-data-center-withdrawn/"
+   },
+   {
+    "para": 0,
+    "t": "The entry puts the site at Highway 274 and Key Ranch Road at Trinidad, carries 150 megawatts, marks it cancelled, and attaches an organised campaign called Our Lake Our Voice with a petition.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The opposition was a volunteer coalition, Save Cedar Creek Lake, formed early in 2026.",
+    "src": "https://www.texastribune.org/2026/07/23/east-texas-data-center-withdrawn/"
+   },
+   {
+    "para": 1,
+    "t": "Henderson County Commissioner Wendy Spivey called the withdrawal \"a big, big step in a positive direction for Diode to back out.\"",
+    "src": "https://www.texastribune.org/2026/07/23/east-texas-data-center-withdrawn/"
+   },
+   {
+    "para": 1,
+    "t": "Governor Greg Abbott framed it as a standard being enforced: \"Data centers that want to do business in Texas must meet a clear standard. This project did not. Texas requires companies to put communities first, protect our natural resources and power grid, and respect the quality of life of our residents.\"",
+    "src": "https://www.texastribune.org/2026/07/23/east-texas-data-center-withdrawn/"
+   },
+   {
+    "para": 1,
+    "t": "Diode said it had determined \"not to advance the site beyond preliminary planning\" after consulting the community and officials, and pointed to its commitment to development aligned with community priorities and long term viability.",
+    "src": "https://www.texastribune.org/2026/07/23/east-texas-data-center-withdrawn/"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Henderson County and there is no other within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The 239 megawatt Trinidad gas plant is nine kilometres away, a 306 megawatt solar hybrid 18 and the 1,032 megawatt Freestone Energy Center 35.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Henderson County has no moratorium of its own; the statewide Texas measure the record attaches, dated August 3, 2026, came a fortnight after this project ended.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.texastribune.org/2026/07/23/east-texas-data-center-withdrawn/"
+  ],
+  "unconfirmed": "The acreage and the megawatt figure are not given in the report read; our 150 megawatts is uncorroborated. The governor's clear standard is spelled out only as putting communities first, protecting natural resources and the power grid and respecting quality of life, and whether it is written down anywhere was not established. This is the second Diode Ventures withdrawal in our data, after a 515 acre campus in Charles City County, Virginia, in August 2025."
+ },
+ {
+  "id": "ft-1783830204354-4305",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Twenty-six residents spoke against the Tyler data center, five spoke for it, and the meeting ran three and a half hours.",
+    "src": "https://tylerpaper.com/2026/07/08/tyler-planning-and-zoning-commission-denies-special-use-permit-for-proposed-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "On July 7, 2026 the Tyler Planning and Zoning Commission voted 5 to 2 to refuse a special use permit for Vulcan Core's bitcoin mining data center on 1.8 acres at West Erwin Street, near downtown Tyler, in Smith County, Texas.",
+    "src": "https://tylerpaper.com/2026/07/08/tyler-planning-and-zoning-commission-denies-special-use-permit-for-proposed-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "James Wynne and Roy Martinez were the two votes in favour.",
+    "src": "https://tylerpaper.com/2026/07/08/tyler-planning-and-zoning-commission-denies-special-use-permit-for-proposed-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The plan was 12 megawatts in an existing building plus eight containers of 40 feet by 8, next to an electrical substation, with Vulcan Core partnered with Barrio Energy.",
+    "src": "https://tylerpaper.com/2026/07/08/tyler-planning-and-zoning-commission-denies-special-use-permit-for-proposed-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 12 megawatts on two acres and marks it cancelled.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The argument was noise and fit rather than water.",
+    "src": "https://tylerpaper.com/2026/07/08/tyler-planning-and-zoning-commission-denies-special-use-permit-for-proposed-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "An independent sound study put ambient noise in the neighbourhood at 45 decibels and found the fans at full capacity would run below that, but residents and planning staff were not persuaded the effect on neighbours had been shown.",
+    "src": "https://tylerpaper.com/2026/07/08/tyler-planning-and-zoning-commission-denies-special-use-permit-for-proposed-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Kyle Kingma, the city's director of planning and floodplain administration, said \"the site proximity to existing commons and operational characteristics in use have not demonstrated that it can happen without adversely affecting neighboring properties.\"",
+    "src": "https://tylerpaper.com/2026/07/08/tyler-planning-and-zoning-commission-denies-special-use-permit-for-proposed-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The proposal also conflicted with the city's future land use map and its Tyler Tomorrow comprehensive plan.",
+    "src": "https://tylerpaper.com/2026/07/08/tyler-planning-and-zoning-commission-denies-special-use-permit-for-proposed-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Phillip Olivares weighed the trade: \"We have to consider the overall benefit to our community with this just being seven to 10 jobs when you compare the potential impacts.\" He added: \"Tyler is known for its roses, its beauty and for taking care of its residents and being a close-knit, hardworking community.\"",
+    "src": "https://tylerpaper.com/2026/07/08/tyler-planning-and-zoning-commission-denies-special-use-permit-for-proposed-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "City planning staff had recommended denial.",
+    "src": "https://tylerpaper.com/2026/07/08/tyler-planning-and-zoning-commission-denies-special-use-permit-for-proposed-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "The record records organised opposition against it.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Smith County, and there is no other within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The generation nearby is distant: a 59 megawatt solar plant 40 kilometres off and the 679 megawatt Stryker Creek gas plant 55.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://tylerpaper.com/2026/07/08/tyler-planning-and-zoning-commission-denies-special-use-permit-for-proposed-data-center/"
+  ],
+  "unconfirmed": "Our two acres and the reported 1.8 differ. Whether Vulcan Core appealed to the city council, and what happened if it did, was not established; the report notes only that council approval would have been needed had the permit passed. Who is behind Vulcan Core LLC is unknown."
+ },
+ {
+  "id": "ft-1771180325498-8957",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Black Mountain Power bought 432 acres in Bexar County, Texas, for a data center campus, at $64.5 million, in a deal financed by the seller, Ballard Exploration Co.",
+    "src": "https://baxtel.com/data-center/black-mountain-san-antonio-tx"
+   },
+   {
+    "para": 0,
+    "t": "The site is recorded at the junction of State Highway 16 and Lone Star Pass, with an address given as 15230 TX-16; the record places it on Watson Road at Van Ormy.",
+    "src": "https://baxtel.com/data-center/black-mountain-san-antonio-tx"
+   },
+   {
+    "para": 0,
+    "t": "It is a land bank: land secured for future development, described as a hyperscale-ready campus, with no buildings and no megawatt figure.",
+    "src": "https://baxtel.com/data-center/black-mountain-san-antonio-tx"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 432 acres, marks it proposed and holds no capacity.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Fourteen data center sites are counted in Bexar County, which is among the densest concentrations in Texas.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "An AWS proposal at Bitter Blue is 18 kilometres from here, Tract's Applewhite site at Poteet 18, a Cipher option on 288 acres 19, QTS's San Antonio site 21 and Stream's 200 megawatt third San Antonio campus 24, under construction.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The power in this corner of the county is gas and it is substantial.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The 184 megawatt Leon Creek plant is nine kilometres away, the 518 megawatt Arthur Von Rosenberg station 18, the 1,050 megawatt V H Braunig plant 18 and the 830 megawatt O W Sommers station 24.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Bexar County has no moratorium of its own; the only rule the record attaches here is the statewide Texas measure of August 3, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/data-center/black-mountain-san-antonio-tx"
+  ],
+  "unconfirmed": "No building plan, square footage, megawatt figure, water demand, tenant or timetable has been published, and no application, hearing or local reaction was found. The date of the purchase is not given in the record we read. Our address on Watson Road at Van Ormy and the Highway 16 junction in the listing may or may not be the same parcel."
+ }
+]

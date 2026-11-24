@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+
+    <title>Get Your Personalized Florida Data Center Preparation Brief | Global Data Centers</title>
+    <meta property="og:image" content="https://globaldatacenters.net/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://globaldatacenters.net/og-image.png">
+    <meta name="description" content="A personalized, professional preparation brief for Florida homeowners affected by a proposed data center. Includes pre-written public comment letter, 2-minute hearing script, and local officials guide — customized to your county, address, and concerns. $39.">
+    <link rel="canonical" href="https://globaldatacenters.net/defense-kit">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400&family=Work+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css">
+
+    <style>
+        .intake-hero {
+            background: var(--paper-dark);
+            border-bottom: 1px solid var(--rule);
+            padding: 60px 0 50px;
+        }
+        .intake-hero h1 {
+            font-family: 'Fraunces', serif;
+            font-size: clamp(2rem, 4vw, 3rem);
+            line-height: 1.1;
+            max-width: 780px;
+            margin-bottom: 20px;
+            letter-spacing: -0.02em;
+        }
+        .intake-hero .intake-lede {
+            font-family: 'Fraunces', serif;
+            font-size: 1.2rem;
+            line-height: 1.55;
+            color: var(--ink-soft);
+            max-width: 720px;
+        }
+        .price-callout {
+            display: inline-block;
+            margin-top: 30px;
+            padding: 14px 24px;
+            background: var(--ink);
+            color: var(--paper);
+        }
+        .price-callout .price {
+            font-family: 'Fraunces', serif;
+            font-size: 1.8rem;
+            font-weight: 600;
+        }
+        .price-callout .price-sub {
+            font-size: 0.8rem;
+            color: var(--sand);
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            margin-top: 3px;
+        }
+
+        .whats-included {
+            padding: 50px 0;
+            border-bottom: 1px solid var(--rule);
+        }
+        .included-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px 40px;
+            margin-top: 30px;
+        }
+        .included-item {
+            padding: 18px 0;
+            border-top: 1px solid var(--rule);
+        }
+        .included-item strong {
+            font-family: 'Fraunces', serif;
+            font-size: 1.15rem;
+            color: var(--ink);
+            display: block;
+            margin-bottom: 6px;
+        }
+        .included-item p {
+            font-size: 0.95rem;
+            color: var(--ink-soft);
+            line-height: 1.55;
+        }
+
+        .intake-form-section {
+            padding: 50px 0 80px;
+            background: var(--paper);
+        }
+        .intake-form {
+            max-width: 680px;
+            margin: 30px auto 0;
+            background: var(--paper-dark);
+            padding: 40px;
+            border: 1px solid var(--rule);
+        }
+        .form-row {
+            margin-bottom: 24px;
+        }
+        .form-row label {
+            display: block;
+            font-size: 0.78rem;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--ink-soft);
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+        .form-row label .hint {
+            text-transform: none;
+            letter-spacing: 0;
+            color: var(--ink-fade);
+            font-weight: 400;
+            font-size: 0.85rem;
+            margin-left: 6px;
+            font-style: italic;
+        }
+        .form-row input,
+        .form-row select,
+        .form-row textarea {
+            width: 100%;
+            padding: 12px 14px;
+            font-family: 'Work Sans', sans-serif;
+            font-size: 1rem;
+            color: var(--ink);
+            background: var(--paper);
+            border: 1px solid var(--rule);
+            border-radius: 0;
+        }
+        .form-row textarea { min-height: 110px; resize: vertical; }
+        .form-row input:focus,
+        .form-row select:focus,
+        .form-row textarea:focus {
+            outline: none;
+            border-color: var(--red);
+        }
+        .two-col {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 14px;
+        }
+        .concerns-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px 16px;
+            margin-top: 6px;
+        }
+        .concern-option {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 14px 16px;
+            background: var(--paper);
+            border: 1px solid var(--rule);
+            cursor: pointer;
+            transition: border-color 0.15s, background 0.15s;
+        }
+        .concern-option:hover { border-color: var(--ink-fade); }
+        .concern-option input[type="checkbox"] {
+            width: 18px;
+            height: 18px;
+            margin: 0;
+            cursor: pointer;
+            flex-shrink: 0;
+            accent-color: var(--red);
+        }
+        .concern-option.selected { background: var(--highlight); border-color: var(--red); }
+        .concern-option span { font-size: 0.95rem; color: var(--ink); font-weight: 500; line-height: 1.3; }
+
+        .submit-row {
+            margin-top: 30px;
+            text-align: center;
+        }
+        .submit-btn {
+            background: var(--red);
+            color: var(--paper);
+            padding: 18px 40px;
+            font-size: 1rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            border: none;
+            cursor: pointer;
+            transition: background 0.2s;
+            font-family: 'Work Sans', sans-serif;
+        }
+        .submit-btn:hover { background: var(--red-dark); }
+        .submit-btn:disabled { background: var(--ink-fade); cursor: not-allowed; }
+
+        .submit-note {
+            margin-top: 14px;
+            font-size: 0.85rem;
+            color: var(--ink-fade);
+        }
+
+        .form-status { margin-top: 20px; padding: 14px; font-size: 0.95rem; display: none; }
+        .form-status.error { display: block; background: #f5e3e2; color: var(--red); border-left: 3px solid var(--red); }
+
+        .trust-row {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin-top: 40px;
+            flex-wrap: wrap;
+            font-size: 0.85rem;
+            color: var(--ink-fade);
+        }
+        .trust-row span { display: flex; align-items: center; gap: 8px; }
+
+        @media (max-width: 640px) {
+            .two-col { grid-template-columns: 1fr; }
+            .concerns-grid { grid-template-columns: 1fr; }
+            .included-grid { grid-template-columns: 1fr; gap: 0; }
+            .intake-form { padding: 24px 18px; }
+        }
+    </style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://globaldatacenters.net/#org",
+      "name": "Global Data Centers",
+      "url": "https://globaldatacenters.net",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://globaldatacenters.net/apple-touch-icon.png",
+        "width": 180,
+        "height": 180
+      },
+      "description": "Independent, non-commercial tracker of proposed hyperscale and AI data center projects worldwide."
+    },
+    {
+      "@type": "Product",
+      "name": "Florida Data Center Defense Kit",
+      "description": "Personalized preparation brief for Florida residents facing a proposed hyperscale data center: pre-written public comment letter, hearing script, and county-specific action plan.",
+      "url": "https://globaldatacenters.net/defense-kit",
+      "brand": {
+        "@id": "https://globaldatacenters.net/#org"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "39.00",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "url": "https://globaldatacenters.net/defense-kit"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://globaldatacenters.net/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Defense Kit",
+          "item": "https://globaldatacenters.net/defense-kit"
+        }
+      ]
+    }
+  ]
+}
+</script>
+    <script type="text/javascript">
+        (function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "whyg2fbg7c");
+    </script>
+</head>
+<body>
+
+<header class="masthead">
+    <div class="wrap">
+        <div class="masthead-inner">
+            <div class="mast-meta js-date-full">Sunday, April 19, 2026</div>
+            <div class="mast-title"><a href="/">Global Data Centers<span class="dot">.</span></a></div>
+            <div class="mast-meta mast-meta-right">Est. 2026 · Independent</div>
+        </div>
+    </div>
+</header>
+
+<div class="tagline-bar">
+    <div class="wrap">Tracking proposed hyperscale and AI data centers worldwide, from public records and local news.</div>
+</div>
+
+<nav class="county-nav">
+    <div class="wrap">
+        <div class="county-nav-inner">
+            <a href="/">Home</a>
+            <a href="/news">News</a>
+            <a href="/risk-calculator">Risk Calculator</a>
+            <a href="/take-action">Take Action</a>
+            <a href="/your-rights">Your Rights</a>
+            <a href="/about">About</a>
+            <a href="/contact">Contact</a>
+        </div>
+    </div>
+</nav>
+
+<section class="intake-hero">
+    <div class="wrap">
+        <div class="page-kicker">Personalized Preparation Brief</div>
+        <h1>Your data center preparation brief, written for your address.</h1>
+        <p class="intake-lede">A professional, county-specific preparation document for Florida homeowners affected by a proposed data center. Covers what you're actually worried about &mdash; your family's health (diesel backup generators, air quality), your well or municipal water, the 24/7 industrial noise and light, your property value, your electricity bill. Not a template. Not a PDF you have to fill in yourself. Written from your actual address, your actual concerns, and the specific projects near you.</p>
+        <div class="price-callout">
+            <div class="price">$39</div>
+            <div class="price-sub">One-time · Instant delivery</div>
+        </div>
+    </div>
+</section>
+
+<section class="whats-included">
+    <div class="wrap">
+        <div class="section-head">
+            <div class="section-kicker">What's Included</div>
+            <h2 class="section-title">Built for homeowners, not lawyers.</h2>
+        </div>
+        <div class="included-grid">
+            <div class="included-item">
+                <strong>Your Situation — personalized</strong>
+                <p>Your address, your county's risk profile, the specific projects near you, and what the structural conditions mean for your family, your property, your water, your air, and your electricity.</p>
+            </div>
+            <div class="included-item">
+                <strong>Documented Precedents</strong>
+                <p>Newton County, Georgia: neighbors' wells contaminated, water rates up 33% in two years. Mansfield, Georgia: 24/7 industrial noise and light pollution. Bessemer, Alabama: one project requiring one-third of the local water supply. Every citation has a source you can verify.</p>
+            </div>
+            <div class="included-item">
+                <strong>Pre-Written Public Comment Letter</strong>
+                <p>Your name, your address, your concerns — written in professional civic language, ready to submit. Written for your county commission, not a template.</p>
+            </div>
+            <div class="included-item">
+                <strong>Your 2-Minute Hearing Script</strong>
+                <p>If you're attending a hearing, we write what to say. Natural speaking rhythm. Specific to your concerns. Tested under the 2-minute public comment limit.</p>
+            </div>
+            <div class="included-item">
+                <strong>Who to Contact — and How</strong>
+                <p>Your county commission, planning department, water management district, and Florida state legislators. Where to find current contact information for each.</p>
+            </div>
+            <div class="included-item">
+                <strong>Florida Law at Your Side</strong>
+                <p>What Chapter 119, the Sunshine Act, and the 2026 data center legislation (SB 484, HB 1007, SB 1118, HB 1517) actually mean for your situation. Plain English.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="intake-form-section">
+    <div class="wrap">
+        <div style="max-width: 680px; margin: 0 auto 30px; border-bottom: 2px solid var(--ink); padding-bottom: 14px;">
+            <div class="section-kicker" style="margin-bottom: 6px;">Tell Us About You</div>
+            <h2 class="section-title" style="margin: 0;">Your Brief is written to your specific situation.</h2>
+        </div>
+        <form id="intakeForm" class="intake-form">
+            <div class="two-col">
+                <div class="form-row">
+                    <label for="firstName">First name <span class="hint">required</span></label>
+                    <input type="text" id="firstName" name="firstName" required autocomplete="given-name">
+                </div>
+                <div class="form-row">
+                    <label for="lastInitial">Last initial <span class="hint">required</span></label>
+                    <input type="text" id="lastInitial" name="lastInitial" required maxlength="2" placeholder="M" style="text-transform: uppercase;">
+                </div>
+            </div>
+
+            <div class="form-row">
+                <label for="email">Email <span class="hint">required · where we send your brief</span></label>
+                <input type="email" id="email" name="email" required autocomplete="email">
+            </div>
+
+            <div class="form-row">
+                <label for="streetAddress">Street address <span class="hint">required · used only to personalize your brief</span></label>
+                <input type="text" id="streetAddress" name="streetAddress" required autocomplete="street-address" placeholder="123 Oak Ridge Drive">
+            </div>
+
+            <div class="two-col">
+                <div class="form-row">
+                    <label for="zipCode">ZIP code <span class="hint">required</span></label>
+                    <input type="text" id="zipCode" name="zipCode" required pattern="[0-9]{5}" maxlength="5" autocomplete="postal-code">
+                </div>
+                <div class="form-row">
+                    <label for="county">County <span class="hint">required</span></label>
+                    <select id="county" name="county" required>
+                        <option value="">Select...</option>
+                        <option>Alachua</option><option>Baker</option><option>Bay</option><option>Bradford</option><option>Brevard</option><option>Broward</option><option>Calhoun</option><option>Charlotte</option><option>Citrus</option><option>Clay</option><option>Collier</option><option>Columbia</option><option>DeSoto</option><option>Dixie</option><option>Duval</option><option>Escambia</option><option>Flagler</option><option>Franklin</option><option>Gadsden</option><option>Gilchrist</option><option>Glades</option><option>Gulf</option><option>Hamilton</option><option>Hardee</option><option>Hendry</option><option>Hernando</option><option>Highlands</option><option>Hillsborough</option><option>Holmes</option><option>Indian River</option><option>Jackson</option><option>Jefferson</option><option>Lafayette</option><option>Lake</option><option>Lee</option><option>Leon</option><option>Levy</option><option>Liberty</option><option>Madison</option><option>Manatee</option><option>Marion</option><option>Martin</option><option>Miami-Dade</option><option>Monroe</option><option>Nassau</option><option>Okaloosa</option><option>Okeechobee</option><option>Orange</option><option>Osceola</option><option>Palm Beach</option><option>Pasco</option><option>Pinellas</option><option>Polk</option><option>Putnam</option><option>St. Johns</option><option>St. Lucie</option><option>Santa Rosa</option><option>Sarasota</option><option>Seminole</option><option>Sumter</option><option>Suwannee</option><option>Taylor</option><option>Union</option><option>Volusia</option><option>Wakulla</option><option>Walton</option><option>Washington</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-row">
+                <label>Your top concerns <span class="hint">required · select all that apply</span></label>
+                <div class="concerns-grid" id="concernsGrid">
+                    <label class="concern-option"><input type="checkbox" name="topConcerns" value="property_value"><span>Property value</span></label>
+                    <label class="concern-option"><input type="checkbox" name="topConcerns" value="water"><span>Water supply &amp; quality</span></label>
+                    <label class="concern-option"><input type="checkbox" name="topConcerns" value="noise"><span>Noise &amp; light</span></label>
+                    <label class="concern-option"><input type="checkbox" name="topConcerns" value="power_bills"><span>Electricity bills</span></label>
+                    <label class="concern-option"><input type="checkbox" name="topConcerns" value="health"><span>Health &amp; environment</span></label>
+                    <label class="concern-option"><input type="checkbox" name="topConcerns" value="community"><span>Community impact</span></label>
+                </div>
+            </div>
+
+            <div class="form-row">
+                <label for="attendingHearing">Planning to attend a public hearing? <span class="hint">required</span></label>
+                <select id="attendingHearing" name="attendingHearing" required>
+                    <option value="">Select...</option>
+                    <option value="yes">Yes, I plan to attend</option>
+                    <option value="not_sure">I'm not sure yet</option>
+                    <option value="no">No, I don't plan to attend</option>
+                </select>
+            </div>
+
+            <div class="form-row">
+                <label for="freeformContext">Anything else we should know? <span class="hint">optional · HOA role, health conditions, specific context</span></label>
+                <textarea id="freeformContext" name="freeformContext" placeholder="For example: 'I'm on my HOA board and want to brief neighbors' or 'my daughter has asthma and I'm worried about diesel backup generators.'"></textarea>
+            </div>
+
+            <div class="submit-row">
+                <button type="submit" class="submit-btn" id="submitBtn">Get My Brief — $39</button>
+                <div class="submit-note">Secure checkout via Stripe · Brief delivered in 60 seconds</div>
+            </div>
+
+            <div id="formStatus" class="form-status"></div>
+        </form>
+
+        <div class="trust-row">
+            <span>✓ Secure Stripe checkout</span>
+            <span>✓ Instant delivery</span>
+            <span>✓ Brief stays available 180 days</span>
+        </div>
+    </div>
+</section>
+
+<footer class="footer">
+    <div class="wrap">
+        <div class="footer-grid">
+            <div>
+                <div class="footer-brand">Global Data Centers<span class="dot">.</span></div>
+                <p class="footer-about">An independent, non-commercial tracker of proposed hyperscale and AI data center projects worldwide. We report facts as filed in public records and reported by local news.</p>
+            </div>
+            <div>
+                <div class="footer-heading">Tools</div>
+                <ul class="footer-links">
+                    <li><a href="/risk-calculator">Risk Calculator</a></li>
+                    <li><a href="/methodology">Methodology</a></li>
+                    <li><a href="/take-action">Take Action</a>
+            <a href="/your-rights">Your Rights</a></li>
+                </ul>
+            </div>
+            <div>
+                <div class="footer-heading">Resources</div>
+                <ul class="footer-links">
+                    <li><a href="/about">About This Site</a></li>
+                    <li><a href="/sources">Sources &amp; Methodology</a></li>
+                    <li><a href="/contact">Contact / Tip Line</a></li>
+                    <li><a href="/support">Support This Project</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-legal">
+            <div>© <span class="js-year">2026</span> globaldatacenters.net · Educational. Not legal, financial, or environmental advice.</div>
+        </div>
+    </div>
+</footer>
+
+<script>
+    (function() {
+        const today = new Date();
+        const longOpts = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+        document.querySelectorAll('.js-date-full').forEach(el => el.textContent = today.toLocaleDateString('en-US', longOpts));
+        document.querySelectorAll('.js-year').forEach(el => el.textContent = today.getFullYear());
+    })();
+
+    // Highlight selected concern cards
+    document.querySelectorAll('.concern-option input').forEach(chk => {
+        chk.addEventListener('change', (e) => {
+            e.target.closest('.concern-option').classList.toggle('selected', e.target.checked);
+        });
+    });
+
+    // Auto-fill county from URL query param if present (from county page CTAs)
+    const params = new URLSearchParams(window.location.search);
+    if (params.get('county')) {
+        const countyInput = document.getElementById('county');
+        const target = params.get('county').toLowerCase();
+        for (const opt of countyInput.options) {
+            if (opt.value.toLowerCase() === target) {
+                opt.selected = true;
+                break;
+            }
+        }
+    }
+
+    // Submit handler
+    document.getElementById('intakeForm').addEventListener('submit', async function(e) {
+        e.preventDefault();
+        const status = document.getElementById('formStatus');
+        const submitBtn = document.getElementById('submitBtn');
+
+        const topConcerns = Array.from(document.querySelectorAll('input[name="topConcerns"]:checked')).map(i => i.value);
+        if (topConcerns.length === 0) {
+            status.className = 'form-status error';
+            status.textContent = 'Please select at least one concern.';
+            return;
+        }
+
+        const intake = {
+            firstName: document.getElementById('firstName').value.trim(),
+            lastInitial: document.getElementById('lastInitial').value.trim().toUpperCase(),
+            email: document.getElementById('email').value.trim(),
+            streetAddress: document.getElementById('streetAddress').value.trim(),
+            zipCode: document.getElementById('zipCode').value.trim(),
+            county: document.getElementById('county').value.trim(),
+            topConcerns,
+            attendingHearing: document.getElementById('attendingHearing').value,
+            freeformContext: document.getElementById('freeformContext').value.trim()
+        };
+
+        submitBtn.disabled = true;
+        submitBtn.textContent = 'Redirecting to checkout...';
+        status.className = 'form-status';
+
+        try {
+            const response = await fetch('/api/create-checkout', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(intake)
+            });
+
+            const data = await response.json();
+
+            if (!response.ok || !data.url) {
+                throw new Error(data.error || 'Checkout failed');
+            }
+
+            // Redirect to Stripe
+            window.location.href = data.url;
+        } catch (err) {
+            status.className = 'form-status error';
+            status.textContent = 'Something went wrong. Please try again, or contact us if the problem continues.';
+            submitBtn.disabled = false;
+            submitBtn.textContent = 'Get My Brief — $39';
+        }
+    });
+</script>
+
+</body>
+</html>

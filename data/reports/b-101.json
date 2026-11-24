@@ -1,0 +1,706 @@
+[
+ {
+  "id": "ft-1776265349414-9143",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The neighbours in Hutto, in Williamson County, got organised before the vote, and the developer left.",
+    "src": "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback"
+   },
+   {
+    "para": 0,
+    "t": "Zydeco Development withdrew its rezoning request for an AI data center at 450 Ed Schmidt Boulevard in Hutto ahead of a special planning and zoning commission meeting set for April 20, 2026, which was then cancelled.",
+    "src": "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback"
+   },
+   {
+    "para": 0,
+    "t": "The entry puts the site at County Road 119 and Limmer Loop on 40 acres, carries 70 megawatts and marks it cancelled.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Residents used a piece of state law most people never hear about.",
+    "src": "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback"
+   },
+   {
+    "para": 1,
+    "t": "Through a group called Stop The Hutto Data Center they set about gathering signatures from nearby property owners to trigger a state law requirement that the council approve the rezoning by supermajority rather than simple majority, and had secured a significant portion of them by the time the request was pulled.",
+    "src": "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback"
+   },
+   {
+    "para": 1,
+    "t": "Katie Martin, a co-organiser, said: \"This is what happens when neighbors work together and get organized.\"",
+    "src": "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback"
+   },
+   {
+    "para": 2,
+    "t": "The city's own planners were against it too.",
+    "src": "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback"
+   },
+   {
+    "para": 2,
+    "t": "Howard Koontz, the director of development services, said: \"Our comprehensive plan reflects the community's vision for how Hutto should grow. As submitted, this proposal was not consistent with that vision.\"",
+    "src": "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback"
+   },
+   {
+    "para": 2,
+    "t": "Approving it would have meant rezoning from multi-family residential to heavy industrial and changing both the future land use map and the SOAR 2040 comprehensive plan.",
+    "src": "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback"
+   },
+   {
+    "para": 3,
+    "t": "Twelve data center sites are counted in Williamson County, and the ones around this parcel did not stop.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "Project Raptor is two kilometres away, Skybox's 600 megawatt Hutto campus four and under construction, an Iron Mountain proposal eight, Sabey's Round Rock site eleven and a Blueprint project eleven.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The generation nearby is batteries and solar: a 100 megawatt storage plant 16 kilometres off and a 144 megawatt solar farm 18.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Williamson County has no moratorium; what reaches it is Governor Abbott's direction of August 3, 2026 to the Public Utility Commission of Texas and ERCOT to review the electricity and water demands, infrastructure, tax incentives, ownership and community effects of data centers seeking to connect to the grid.",
+    "src": "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+   }
+  ],
+  "sources": [
+   "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback",
+   "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+  ],
+  "unconfirmed": "The report gives no acreage, square footage or megawatt figure, and no date for the withdrawal beyond its coming ahead of the April 20 meeting; our 40 acres and 70 megawatts are uncorroborated here, and a previously carried date of April 17, 2026 is not in it. How many signatures the protest gathered, and what the threshold was, is not stated. Whether Zydeco has refiled is unknown."
+ },
+ {
+  "id": "ft-537",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Project Raptor is a proposed Colovore data center at 2351 Innovation Boulevard in Hutto, in Williamson County, Texas.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The entry holds no acreage and no capacity figure for it, and its single source refuses requests; nothing describing it was found in searches.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "What can be said is that it sits two kilometres from a project the neighbours stopped.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Zydeco Development withdrew its rezoning request for an AI data center at 450 Ed Schmidt Boulevard in Hutto ahead of a special planning and zoning commission meeting set for April 20, 2026, which was then cancelled.",
+    "src": "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback"
+   },
+   {
+    "para": 1,
+    "t": "Residents, through a group called Stop The Hutto Data Center, had gathered signatures from nearby owners to force the council to approve it by supermajority.",
+    "src": "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback"
+   },
+   {
+    "para": 1,
+    "t": "The city's development services director, Howard Koontz, recommended against it, saying the proposal was not consistent with the community's vision for how Hutto should grow.",
+    "src": "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback"
+   },
+   {
+    "para": 1,
+    "t": "Approving it would have needed changes to the future land use map and the SOAR 2040 comprehensive plan, which is the same test any new application here will face.",
+    "src": "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback"
+   },
+   {
+    "para": 2,
+    "t": "Twelve data center sites are counted in Williamson County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "Skybox's 600 megawatt Hutto campus is five kilometres from this parcel and under construction, an Iron Mountain proposal eight, Sabey's Round Rock site ten and Switch's Round Rock East site eleven.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The generation nearby is a 100 megawatt battery plant 15 kilometres off and a 144 megawatt solar farm 17.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Hutto has written no moratorium on data centers, so the comprehensive plan is the only test an application here has to pass.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback"
+  ],
+  "unconfirmed": "Nothing describing Project Raptor itself was found: no acreage, square footage, megawatt figure, application, hearing or timetable. The Data Center Dynamics report our record cites refuses our requests. Whether Colovore is still pursuing the site is unknown."
+ },
+ {
+  "id": "ft-538",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Skybox Hutto PowerCampus is a data center at 4200 County Road 132 in Hutto, in Williamson County, Texas.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The entry puts it on 160 acres at 600 megawatts and $125 million, under construction, with a petition against it attached, and both its sources refused requests.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Four kilometres away, the neighbours stopped a smaller one.",
+    "src": "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback"
+   },
+   {
+    "para": 1,
+    "t": "Zydeco Development withdrew its rezoning for a data center at 450 Ed Schmidt Boulevard ahead of a special meeting set for April 20, 2026, after residents organised as Stop The Hutto Data Center and set about gathering signatures from nearby owners to force a supermajority council vote.",
+    "src": "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback"
+   },
+   {
+    "para": 1,
+    "t": "Hutto's development services director recommended against that application because it did not fit the city's comprehensive plan.",
+    "src": "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback"
+   },
+   {
+    "para": 1,
+    "t": "Katie Martin, a co-organiser, put the lesson plainly: \"This is what happens when neighbors work together and get organized.\"",
+    "src": "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback"
+   },
+   {
+    "para": 2,
+    "t": "Twelve data center sites are counted in Williamson County, and five sit within thirteen kilometres of this one.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "An Iron Mountain proposal is four kilometres away, the cancelled Hutto project four, Project Raptor five, KDC's 360 megawatt Project Comal seven and the Blueprint campus at Taylor thirteen.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The generation is small next to 600 megawatts: a 144 megawatt solar farm 14 kilometres off, a 100 megawatt battery plant 15 and two 50 megawatt storage plants at 21.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Nothing in Hutto limits data centers by moratorium, which is why this campus is being built while a smaller one was stopped.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback"
+  ],
+  "unconfirmed": "Neither source in our record could be read. Trade listings describe a 159 acre site inside a 1,400 acre Hutto megasite with two private 300 megawatt substations and up to four million square feet across six to eight buildings, developed with Prologis; we did not treat those as sources. The $125 million in our record looks low for 600 megawatts and is uncorroborated. The petition our record links is against a separate Skybox proposal at Round Rock."
+ },
+ {
+  "id": "ft-540",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Jarrell, in Williamson County, has fewer than 2,000 residents and is being asked to decide on an $850 million data center.",
+    "src": "https://www.connectcre.com/stories/austin-area-town-to-decide-fate-of-proposed-850m-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The Mesones campus would draw 200 megawatts at full build, from a mix of natural gas and grid power, with water recycled and some evaporation expected.",
+    "src": "https://www.connectcre.com/stories/austin-area-town-to-decide-fate-of-proposed-850m-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The team is Prominent Property Group, Savannah Developers and Power Infrastructure Partners, with MatkinHoover engineering and Central Texas Economic Consultants.",
+    "src": "https://www.connectcre.com/stories/austin-area-town-to-decide-fate-of-proposed-850m-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 151 acres, 200 megawatts and $850 million, marks it proposed, and links a petition headed at stopping a data center near Jarrell High School and the neighbourhoods.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The jobs arithmetic is the usual one.",
+    "src": "https://www.connectcre.com/stories/austin-area-town-to-decide-fate-of-proposed-850m-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Construction would take 400 to 450 people and the finished campus up to 50.",
+    "src": "https://www.connectcre.com/stories/austin-area-town-to-decide-fate-of-proposed-850m-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The town has to approve the land use request first; if it does, the developers intend to seek tax abatements.",
+    "src": "https://www.connectcre.com/stories/austin-area-town-to-decide-fate-of-proposed-850m-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Twenty data center projects have been identified across the greater Austin area in recent years.",
+    "src": "https://www.connectcre.com/stories/austin-area-town-to-decide-fate-of-proposed-850m-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Twelve data center sites are counted in Williamson County, though Jarrell sits at its northern edge, away from the Hutto cluster.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "An operating Georgetown site is 24 kilometres away, a Blueprint project 26, a blocked Onmine site at Killeen 30, the cancelled Hutto project 30 and a suspended Onmine entry 30.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The generation is far off: a 100 megawatt battery plant 24 kilometres away and the 1,580 megawatt Temple Power Station 40.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Jarrell has no moratorium on data centers, and the land use request is the whole of the decision in front of it.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.connectcre.com/stories/austin-area-town-to-decide-fate-of-proposed-850m-data-center/"
+  ],
+  "unconfirmed": "The page we read gives no acreage beyond multiple acres, no water volume and no decision date, and does not say how close the high school is. Whether the town approved the land use request was not established. The LinkedIn post and the Austin Business Journal article our record also cites were not read."
+ },
+ {
+  "id": "ft-1777471887054-2686",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This Killeen data center is small and it still did not get through.",
+    "src": "https://kdhnews.com/news/local/killeen-planning-and-zoning-commission-to-consider-approving-data-center-in-south-killeen/article_5539153b-752e-4def-9ab1-bf4cc7ad9e46.html"
+   },
+   {
+    "para": 0,
+    "t": "The planning and zoning commission considered a rezoning for a data center on more than two acres at 6509 South Fort Hood Street, in Bell County, applied for by Belton Engineering on behalf of 4 Lazy J Properties, which asked to move the land from a university district designation to a conditional use permit.",
+    "src": "https://kdhnews.com/news/local/killeen-planning-and-zoning-commission-to-consider-approving-data-center-in-south-killeen/article_5539153b-752e-4def-9ab1-bf4cc7ad9e46.html"
+   },
+   {
+    "para": 0,
+    "t": "The entry puts it at three acres and $30 million and marks it suspended, with pushback recorded.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "The project changed shape before it arrived.",
+    "src": "https://kdhnews.com/news/local/killeen-planning-and-zoning-commission-to-consider-approving-data-center-in-south-killeen/article_5539153b-752e-4def-9ab1-bf4cc7ad9e46.html"
+   },
+   {
+    "para": 1,
+    "t": "Planning staff were first approached in early December, and in an email dated December 3 the senior planner, Maria Lopez, wrote: \"Would staff support him in applying for a conditional use permit, and what zoning would be the most appropriate fit for a data center?\"",
+    "src": "https://kdhnews.com/news/local/killeen-planning-and-zoning-commission-to-consider-approving-data-center-in-south-killeen/article_5539153b-752e-4def-9ab1-bf4cc7ad9e46.html"
+   },
+   {
+    "para": 1,
+    "t": "The first approach, on December 2, had been about a battery storage facility at the same property.",
+    "src": "https://kdhnews.com/news/local/killeen-planning-and-zoning-commission-to-consider-approving-data-center-in-south-killeen/article_5539153b-752e-4def-9ab1-bf4cc7ad9e46.html"
+   },
+   {
+    "para": 2,
+    "t": "The local context the paper set it against is Temple, forty kilometres away.",
+    "src": "https://kdhnews.com/news/local/killeen-planning-and-zoning-commission-to-consider-approving-data-center-in-south-killeen/article_5539153b-752e-4def-9ab1-bf4cc7ad9e46.html"
+   },
+   {
+    "para": 2,
+    "t": "Meta's data center there and other approvals prompted residents to start recall efforts against city council members.",
+    "src": "https://kdhnews.com/news/local/killeen-planning-and-zoning-commission-to-consider-approving-data-center-in-south-killeen/article_5539153b-752e-4def-9ab1-bf4cc7ad9e46.html"
+   },
+   {
+    "para": 2,
+    "t": "Data centers offer growth and jobs and use a lot of water, and that trade is what Killeen was weighing.",
+    "src": "https://kdhnews.com/news/local/killeen-planning-and-zoning-commission-to-consider-approving-data-center-in-south-killeen/article_5539153b-752e-4def-9ab1-bf4cc7ad9e46.html"
+   },
+   {
+    "para": 2,
+    "t": "The company did not want it called a data center. It described the site as a place for \"high-density computational research, AI-driven grid balancing and the operation of a Virtual Power Plant,\" and city officials used the phrase computing and energy research annex.",
+    "src": "https://kdhnews.com/news/local/applicant-for-killeen-data-center-rezoning-withdraws-request/article_bc1255d3-487c-4e1e-9e55-e4bd2e2b75a6.html"
+   },
+   {
+    "para": 2,
+    "t": "Nearly 30 residents turned up to the Planning and Zoning Commission on April 27, 2026, which recommended refusal. They raised quality of life, a constant humming noise, and how much water and electricity the site would use. Onmine said its closed loop system would cut water use.",
+    "src": "https://kdhnews.com/news/local/applicant-for-killeen-data-center-rezoning-withdraws-request/article_bc1255d3-487c-4e1e-9e55-e4bd2e2b75a6.html"
+   },
+   {
+    "para": 2,
+    "t": "Because of the level of public objection, the council vote set for June 2 would have needed a supermajority of six votes; the city confirmed on the Tuesday of that week, in a report dated May 12, 2026, that the applicant had withdrawn instead.",
+    "src": "https://kdhnews.com/news/local/applicant-for-killeen-data-center-rezoning-withdraws-request/article_bc1255d3-487c-4e1e-9e55-e4bd2e2b75a6.html"
+   },
+   {
+    "para": 2,
+    "t": "The politics had changed underneath it: five new council members took office after the May 2 election, among them former mayor Debbie Nash-King, Mellisa Brown and Beverly Williams, who had all opposed data centers in their campaigns, and incoming mayor Joseph Solomon had said he would struggle to support a project that \"doesn't generate meaningful jobs or significantly enhance our economy.\"",
+    "src": "https://kdhnews.com/news/local/applicant-for-killeen-data-center-rezoning-withdraws-request/article_bc1255d3-487c-4e1e-9e55-e4bd2e2b75a6.html"
+   },
+   {
+    "para": 3,
+    "t": "Four data center sites are counted in Bell County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The generation nearby is a 100 megawatt battery plant 36 kilometres off and the 1,580 megawatt Temple Power Station 43.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Killeen has written no moratorium on data centers; what stopped this one was the supermajority rule and an election.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://kdhnews.com/news/local/killeen-planning-and-zoning-commission-to-consider-approving-data-center-in-south-killeen/article_5539153b-752e-4def-9ab1-bf4cc7ad9e46.html",
+   "https://kdhnews.com/news/local/applicant-for-killeen-data-center-rezoning-withdraws-request/article_bc1255d3-487c-4e1e-9e55-e4bd2e2b75a6.html"
+  ],
+  "unconfirmed": "Our record held this site twice at the same coordinates, one entry suspended and one blocked; they have been merged. No capacity in megawatts was published, and it is not known whether Onmine intends to refile with the new council. No resident is quoted directly in either source."
+ },
+ {
+  "id": "ft-1765432611408-8215",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The power plant is bigger than anything now running in the county.",
+    "src": "https://wacobridge.org/2025/11/21/talks-underway-for-10-billion-data-center-and-power-plant-north-of-waco/"
+   },
+   {
+    "para": 0,
+    "t": "Infrakey bought two adjacent properties totalling more than 520 acres of farmland in June 2025, about a mile outside Ross in the unincorporated community of Elm Mott, north of Waco, and proposes the Lacy Lakeview Data District: 21 data center buildings and a 1.2 gigawatt gas-fired power plant on site, at more than $10 billion of taxable value when built out.",
+    "src": "https://texasscorecard.com/local/despite-protest-lacy-lakeview-officials-embrace-proposed-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "For comparison, the Sandy Creek coal plant is 900 megawatts, and the proposed plant would eclipse it.",
+    "src": "https://wacobridge.org/2025/11/21/talks-underway-for-10-billion-data-center-and-power-plant-north-of-waco/"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 520 acres, 1,000 megawatts and $10 billion and marks the project under construction, with a petition attached.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The water figures are the ones residents keep returning to.",
+    "src": "https://texasscorecard.com/local/despite-protest-lacy-lakeview-officials-embrace-proposed-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The campus is described as using and reusing 15 to 16 million gallons a day; Lacy Lakeview as a whole used just over 18.7 million gallons in December.",
+    "src": "https://texasscorecard.com/local/despite-protest-lacy-lakeview-officials-embrace-proposed-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Mayor Charles Wilson's answer is that the city has headroom: \"We as a city are only using 20% of the water that we are contracted for.\"",
+    "src": "https://wacobridge.org/2025/11/21/talks-underway-for-10-billion-data-center-and-power-plant-north-of-waco/"
+   },
+   {
+    "para": 1,
+    "t": "The city contracts 2.1 million gallons a day from Waco and plans to buy 665,000 gallons a day of treated wastewater.",
+    "src": "https://wacobridge.org/2025/11/21/talks-underway-for-10-billion-data-center-and-power-plant-north-of-waco/"
+   },
+   {
+    "para": 1,
+    "t": "County Judge Scott Felton was more cautious: \"The amount of water needed is a big issue, and then also emissions, air quality. All those things have to be analyzed so that we're totally understanding what the consequence of operations would be besides the positive impacts of growing the tax base.\"",
+    "src": "https://wacobridge.org/2025/11/21/talks-underway-for-10-billion-data-center-and-power-plant-north-of-waco/"
+   },
+   {
+    "para": 2,
+    "t": "The tax case is the reason the city is for it.",
+    "src": "https://wacobridge.org/2025/11/21/talks-underway-for-10-billion-data-center-and-power-plant-north-of-waco/"
+   },
+   {
+    "para": 2,
+    "t": "At $10 billion of taxable value the campus would be the county's largest taxpayer, against Lacy Lakeview's current base of $649 million, with money also going to Connally school district and McLennan Community College.",
+    "src": "https://wacobridge.org/2025/11/21/talks-underway-for-10-billion-data-center-and-power-plant-north-of-waco/"
+   },
+   {
+    "para": 3,
+    "t": "The residents are not persuaded.",
+    "src": "https://texasscorecard.com/local/despite-protest-lacy-lakeview-officials-embrace-proposed-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "A petition reached nearly 3,000 signatures and a Facebook group about 2,500 members.",
+    "src": "https://texasscorecard.com/local/despite-protest-lacy-lakeview-officials-embrace-proposed-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "Bob Beechner, a retired Waco firefighter living a quarter of a mile west of the site, feared his rural community would be consumed by a techno industrial zone: \"That's a bombshell, man.\"",
+    "src": "https://wacobridge.org/2025/11/21/talks-underway-for-10-billion-data-center-and-power-plant-north-of-waco/"
+   },
+   {
+    "para": 3,
+    "t": "Bryant Stanton, who runs a stained glass studio on Rogers Hill Road a mile away, said: \"For our mayor not to consider us, I take that as an affront. It's like, who cares about you guys?\"",
+    "src": "https://wacobridge.org/2025/11/21/talks-underway-for-10-billion-data-center-and-power-plant-north-of-waco/"
+   },
+   {
+    "para": 3,
+    "t": "The council approved a memorandum of understanding on December 9, the mayor signed it in Hawaii in January 2026, and an annexation resolution passed at the January 13 council meeting.",
+    "src": "https://texasscorecard.com/local/despite-protest-lacy-lakeview-officials-embrace-proposed-data-center/"
+   },
+   {
+    "para": 4,
+    "t": "Four data center sites are counted in McLennan County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 4,
+    "t": "A Cipher site at Riesel is 27 kilometres away, CyrusOne's Whitney campus 32 and under construction, a 600 megawatt Nexus proposal 39 and Galaxy's McGregor campus 39.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 933 megawatt Sandy Creek coal station is 26 kilometres from the site.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://wacobridge.org/2025/11/21/talks-underway-for-10-billion-data-center-and-power-plant-north-of-waco/",
+   "https://texasscorecard.com/local/despite-protest-lacy-lakeview-officials-embrace-proposed-data-center/"
+  ],
+  "unconfirmed": "Our record marks the project under construction and rates its own confidence low; the reporting describes approvals, a memorandum of understanding and an annexation resolution rather than a groundbreaking. The megawatt figures differ between accounts, at 925 and 1,000 for the campus and 1.2 gigawatts for the power plant, and our record puts Sandy Creek at 933 megawatts where the report says 900. Infrakey was previously described here as formed in March 2025, which neither report says, so that has come out. Whether the annexation went through, and what the February 2026 meeting decided, is unknown."
+ },
+ {
+  "id": "ft-1781208332343-1103",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A 240 megawatt data center is proposed on 701 acres near Highway 90 at Liberty, Texas, inside something called the Liberty American Multi-Sourced Power and Innovation Hub.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "Its single source, a Data Center Dynamics report headed as a medical equipment manufacturer pivoting a chemical plant to a data center and manufacturing campus, refuses requests.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Nothing else describing the project was found.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "One thing in the record is worth flagging before anyone reads a map of this.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 1,
+    "t": "The site is placed in the Midcontinent Independent System Operator, with a peak load of 111,551 megawatts, rather than the ERCOT grid that covers almost all of the rest of Texas.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 1,
+    "t": "Liberty County sits near the eastern edge of Texas, where that boundary runs.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Liberty County and there is no other within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The generation nearby is a 100 megawatt solar plant 19 kilometres away, the 852 megawatt Baytown Energy Center 37, a 204 megawatt battery installation 38 and the 356 megawatt Remy Jade station 39.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Liberty County has no moratorium; the statewide measure the record attaches, dated August 3, 2026, is Governor Abbott's direction to the Public Utility Commission of Texas and ERCOT to review data centers seeking to connect to the grid, their electricity and water demands, infrastructure, tax incentives, ownership and effect on communities.",
+    "src": "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+   },
+   {
+    "para": 2,
+    "t": "No objection to it is recorded anywhere.",
+    "src": "data:fractracker"
+   }
+  ],
+  "sources": [
+   "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+  ],
+  "unconfirmed": "The only source in our record could not be read and three searches on the project name, the county and the hub name produced nothing. No developer, application, timetable, power arrangement or local process was established; the 701 acres and 240 megawatts come from our record alone. Whether the site is really in the Midcontinent grid rather than ERCOT was not independently checked."
+ },
+ {
+  "id": "ft-1768857701845-3484",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The objection in Lubbock was about which part of the city gets the industry.",
+    "src": "https://www.kcbd.com/2026/01/16/lubbock-data-center-proposal-heads-city-council-after-planning-commission-rejection/"
+   },
+   {
+    "para": 0,
+    "t": "Hugo Reed and Associates, for Texas Solar Works, asked to rezone 936 acres near Northeast Loop 289 and East Municipal Drive from low density single family to general industrial, with a specific use permit for power generation, transmission and distribution, to build a hyperscale AI data center.",
+    "src": "https://www.kcbd.com/2026/01/16/lubbock-data-center-proposal-heads-city-council-after-planning-commission-rejection/"
+   },
+   {
+    "para": 0,
+    "t": "On January 8, 2026 the planning and zoning commission rejected it 4 to 3.",
+    "src": "https://www.kcbd.com/2026/01/16/lubbock-data-center-proposal-heads-city-council-after-planning-commission-rejection/"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 936 acres, marks the project proposed, and holds no sources at all.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "About ten residents spoke against it, on pollution and on the industrial load already carried by north east Lubbock.",
+    "src": "https://www.kcbd.com/2026/01/16/lubbock-data-center-proposal-heads-city-council-after-planning-commission-rejection/"
+   },
+   {
+    "para": 1,
+    "t": "Adam Hernandez, of Lubbock Compact, said: \"That creates a lot of smog. That creates particles in the air that can cause cancer. And so, it creates a lot of issues for our city.\"",
+    "src": "https://www.kcbd.com/2026/01/16/lubbock-data-center-proposal-heads-city-council-after-planning-commission-rejection/"
+   },
+   {
+    "para": 1,
+    "t": "Fabian Mata said: \"Gas turbines, pollution, noise. No, absolutely not. You're going against what I came to fight, you're adding another one.\"",
+    "src": "https://www.kcbd.com/2026/01/16/lubbock-data-center-proposal-heads-city-council-after-planning-commission-rejection/"
+   },
+   {
+    "para": 1,
+    "t": "He also argued the land was worth more as housing and shops: \"You're talking about 936 acres inside city limits that is currently zoned for single-family residential and commercial. If you put those two uses on that land, that is the highest and best use and that will bring in, in that amount of space, way more tax revenue for the city.\"",
+    "src": "https://www.kcbd.com/2026/01/16/lubbock-data-center-proposal-heads-city-council-after-planning-commission-rejection/"
+   },
+   {
+    "para": 2,
+    "t": "The developer's side was that the heat is the emission.",
+    "src": "https://www.kcbd.com/2026/01/16/lubbock-data-center-proposal-heads-city-council-after-planning-commission-rejection/"
+   },
+   {
+    "para": 2,
+    "t": "John Osborne, president and chief executive of the Lubbock Economic Development Alliance, said the developer had committed to moving the energy infrastructure onto adjacent county land, and that \"a data center project really only emits heat because they're trying to let the heat from the servers escape the building and other than that, there's no gases of any type or any kind of allergens that would be released.\"",
+    "src": "https://www.kcbd.com/2026/01/16/lubbock-data-center-proposal-heads-city-council-after-planning-commission-rejection/"
+   },
+   {
+    "para": 2,
+    "t": "The water system was to be closed loop, to avoid drawing down the aquifer.",
+    "src": "https://www.kcbd.com/2026/01/16/lubbock-data-center-proposal-heads-city-council-after-planning-commission-rejection/"
+   },
+   {
+    "para": 2,
+    "t": "Osborne said the developer had \"decided to withdraw the request\" and planned to adjust it to be more in line with what the community had asked for, then resubmit with a site plan and rendering.",
+    "src": "https://www.kcbd.com/2026/01/16/lubbock-data-center-proposal-heads-city-council-after-planning-commission-rejection/"
+   },
+   {
+    "para": 3,
+    "t": "Two data center sites are counted in Lubbock County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "A TeraWulf site at Abernathy and Aligned's 313 acre Project Caprock are both 24 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 820 megawatt Jones station is 12 kilometres from the site, the 583 megawatt Elk Station 28 and the 162 megawatt Antelope Station 28.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Lubbock has written no moratorium on data centers, so each application is decided on its zoning alone.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.kcbd.com/2026/01/16/lubbock-data-center-proposal-heads-city-council-after-planning-commission-rejection/"
+  ],
+  "unconfirmed": "Our record carries no sources for this entry and no capacity figure; the page we read gives no megawatt figure either. Reporting we could not open describes opposition from the North and East Lubbock Coalition and the city's NAACP chapter, arguing the site continues a pattern set by historic racial redlining; that is not carried above. Whether the developer has resubmitted is unknown."
+ },
+ {
+  "id": "ft-547",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A data center called THM1A is proposed on Bean Road at Lueders, in Haskell County, Texas.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The entry holds no acreage and no capacity figure, and cites one source that refuses requests.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "What the record does show is why a developer would look here.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "The 316 megawatt Azure Sky solar plant is six kilometres from the site, a 100 megawatt solar plant seven, the 301 megawatt Inertia wind project 23 and the 162 megawatt Hackberry wind farm 27.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "That is over 800 megawatts of renewable generation within half an hour's drive, in a county with almost nothing else drawing on it.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "Two data center sites are counted in Haskell County, the other a pair called Journey 1A and 2A, proposed 17 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Nothing around Lueders is covered by a moratorium, and no objection to this proposal has been recorded.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The site sits in the ERCOT grid, whose peak load the record puts at 73,825 megawatts.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The single source in our record could not be read and nothing else describing the project was found: no developer, acreage, megawatts, buildings, timetable or local process. The naming convention, THM1A alongside Journey 1A and 2A nearby, suggests a series of filings by one developer, but we could not establish who."
+ },
+ {
+  "id": "ft-1783826724382-4737",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A 20 megawatt data center is proposed on 40 acres at Ben Dunn Road and Highway 103 outside Lufkin, in Angelina County, Texas, from HyperDataGrid.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "Nothing else describing it was found.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Eighteen kilometres away is the reason Angelina County is on this map at all.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Amp Z has an option on about 1,041 acres at the former Southland Paper Mill site, for a campus it projects beyond 2.1 gigawatts by 2029, with roughly 500 construction jobs and about 30 permanent ones, and about 20 million gallons of water a day available to it.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Two data center sites are counted in the county, and these are the two.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "Twenty megawatts is a different proposition from 2,100, and the two sit eighteen kilometres apart.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "The generation in deep east Texas is sparse: a 100 megawatt biomass plant 51 kilometres away, the 679 megawatt Stryker Creek gas plant 63 and the 826 megawatt Tenaska Gateway station 75.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Neither Lufkin nor Angelina County has written a moratorium on data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record could not be read, and searches on the company name with Lufkin and with Angelina County produced nothing. No application, hearing, timetable, power arrangement or local reaction was established, and the 20 megawatts and 40 acres come from our own record."
+ }
+]

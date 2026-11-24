@@ -1,0 +1,601 @@
+[
+ {
+  "id": "epoch-meta-huntsville",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's data center campus sits at 5400 Prosperity Drive NW in Toney, in Madison County, Alabama, just north of Huntsville.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The campus is in the North Huntsville Industrial Park.",
+    "src": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/"
+   },
+   {
+    "para": 0,
+    "t": "Meta broke ground on the campus in 2018.",
+    "src": "https://datacenters.atmeta.com/us-locations/"
+   },
+   {
+    "para": 0,
+    "t": "The first phase, built on 251 acres, opened in September 2021.",
+    "src": "https://plateauexcavation.com/projects/huntsville-meta-data-center-meta-project-ferris/"
+   },
+   {
+    "para": 0,
+    "t": "A second phase, approved by the Huntsville City Council, is expected to expand the campus to 2.5 million square feet by 2026 and raises Meta's investment in Huntsville to more than $1.5 billion.",
+    "src": "https://plateauexcavation.com/projects/huntsville-meta-data-center-meta-project-ferris/"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI estimates the campus is now drawing about 146 megawatts of IT power.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "At a Huntsville City Council meeting on December 16, 2021, the city's director of urban and economic development, Shane Davis, presented the expansion, a $750 million project expected to add 50 jobs paying at least $80,000 a year.",
+    "src": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/"
+   },
+   {
+    "para": 1,
+    "t": "Meta says more than 1,200 construction workers were on site at peak building the campus, and the finished campus supports more than 300 operational jobs.",
+    "src": "https://datacenters.atmeta.com/us-locations/"
+   },
+   {
+    "para": 1,
+    "t": "Davis told the council the second campus would send an estimated $8 million to $10 million a year to Huntsville City Schools: \"When you take 27.5 mills annually of that investment and it's going to your school system, it's significant.\"",
+    "src": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/"
+   },
+   {
+    "para": 1,
+    "t": "Meta has also put $1.9 million into local schools and nonprofits, including Space Camp trips for more than 150 students and a science program with Girls Inc.",
+    "src": "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/"
+   },
+   {
+    "para": 2,
+    "t": "Madison County has two large data centers.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "One of them, run by DC Blox, operates about 16 kilometers from Meta's campus.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The Alabama Gazette reported in June 2026 that the Meta site has drawn little organized opposition, since it sits in an already-established industrial area.",
+    "src": "https://www.alabamagazette.com/story/2026/06/30/opinion/big-tech-colonizing-alabama-with-hyperscale-data-centers/11611.html"
+   },
+   {
+    "para": 2,
+    "t": "But the paper said residents near the data center in north Huntsville have complained of constant bright lights, steady noise, and problems with their tap water.",
+    "src": "https://www.alabamagazette.com/story/2026/06/30/opinion/big-tech-colonizing-alabama-with-hyperscale-data-centers/11611.html"
+   },
+   {
+    "para": 2,
+    "t": "Those complaints were described only in general terms; no residents were named.",
+    "src": "https://www.alabamagazette.com/story/2026/06/30/opinion/big-tech-colonizing-alabama-with-hyperscale-data-centers/11611.html"
+   }
+  ],
+  "sources": [
+   "https://plateauexcavation.com/projects/huntsville-meta-data-center-meta-project-ferris/",
+   "https://datacenters.atmeta.com/us-locations/",
+   "https://www.huntsvilleal.gov/data-center-expansion-to-benefit-north-huntsville-local-schools/",
+   "https://www.alabamagazette.com/story/2026/06/30/opinion/big-tech-colonizing-alabama-with-hyperscale-data-centers/11611.html"
+  ],
+  "unconfirmed": "Meta's own Huntsville info sheet PDF (datacenters.atmeta.com/asset/huntsville-data-center-info-sheet/) could not be read (corrupted/binary text on fetch), so it was not used. The Alabama Gazette piece describing resident complaints about lights, noise and tap water is an opinion column; it names no individual residents and no follow-up local news report confirming or investigating those complaints was found. Could not determine whether the tap water complaints relate to municipal supply or private wells, or whether any formal complaint was filed with the county."
+ },
+ {
+  "id": "epoch-meta-aiken",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's data center is in the Sage Mill Industrial Park, in the Graniteville and Vaucluse area of Aiken County, South Carolina.",
+    "src": "https://www.postandcourier.com/aikenstandard/business/meta-aiken-county-data-center-mcmaster/article_aaf0aa0c-64a8-11ef-a8f7-d389d536dea5.html"
+   },
+   {
+    "para": 0,
+    "t": "The 300-acre site holds two single-story buildings totaling more than 700,000 square feet.",
+    "src": "https://www.wfxg.com/community/meta-s-800-million-data-center-expected-to-transform-aiken-county-economy/article_f24164d4-3511-4cb5-a24c-6a18ce671cf0.html"
+   },
+   {
+    "para": 0,
+    "t": "Meta announced the project on August 29, 2024, after planning it confidentially under the names \"Project Sabal\" and later \"Starskey LLC.\"",
+    "src": "https://www.postandcourier.com/aikenstandard/business/meta-aiken-county-data-center-mcmaster/article_aaf0aa0c-64a8-11ef-a8f7-d389d536dea5.html"
+   },
+   {
+    "para": 0,
+    "t": "Meta says it broke ground on the project in 2024.",
+    "src": "https://datacenters.atmeta.com/us-locations/"
+   },
+   {
+    "para": 0,
+    "t": "Construction was expected to continue until spring 2027, according to the Post and Courier.",
+    "src": "https://www.postandcourier.com/aikenstandard/business/meta-aiken-county-data-center-mcmaster/article_aaf0aa0c-64a8-11ef-a8f7-d389d536dea5.html"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI estimates the facility already draws about 142 megawatts of IT power, ahead of that completion date.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Meta is putting more than $800 million into the project and says it will support around 100 permanent jobs, with more than 1,000 construction workers on site at peak.",
+    "src": "https://datacenters.atmeta.com/2024/08/hello-south-carolina/"
+   },
+   {
+    "para": 1,
+    "t": "Governor Henry McMaster called the project \"a major win for South Carolina's thriving technology industry,\" and Meta's director of data center strategy, Kevin Janda, said Aiken County had \"good access to infrastructure and renewable energy.\"",
+    "src": "https://www.postandcourier.com/aikenstandard/business/meta-aiken-county-data-center-mcmaster/article_aaf0aa0c-64a8-11ef-a8f7-d389d536dea5.html"
+   },
+   {
+    "para": 1,
+    "t": "Aiken Chamber president Jim Tunison said the project \"really helps elevate our community's profile, so it really helps put us on the map.\"",
+    "src": "https://www.wfxg.com/community/meta-s-800-million-data-center-expected-to-transform-aiken-county-economy/article_f24164d4-3511-4cb5-a24c-6a18ce671cf0.html"
+   },
+   {
+    "para": 1,
+    "t": "Aiken County Council vice chairman Andrew Siders said, \"AI is the future United States wants to be, wants to lead this, and I think Aiken County can be a huge part of that.\"",
+    "src": "https://www.wfxg.com/community/meta-s-800-million-data-center-expected-to-transform-aiken-county-economy/article_f24164d4-3511-4cb5-a24c-6a18ce671cf0.html"
+   },
+   {
+    "para": 1,
+    "t": "Will Williams, president and chief executive of the Western South Carolina Economic Development Partnership, said of the recruitment, \"It was a three-year process of the recruitment of Meta.\"",
+    "src": "https://www.wfxg.com/community/meta-s-800-million-data-center-expected-to-transform-aiken-county-economy/article_f24164d4-3511-4cb5-a24c-6a18ce671cf0.html"
+   },
+   {
+    "para": 2,
+    "t": "Meta says it will match its electricity use with renewable energy, including a $100 million solar farm it is backing in nearby Orangeburg County.",
+    "src": "https://www.wfxg.com/community/meta-s-800-million-data-center-expected-to-transform-aiken-county-economy/article_f24164d4-3511-4cb5-a24c-6a18ce671cf0.html"
+   },
+   {
+    "para": 2,
+    "t": "The project's tax payments are projected to equal those of about 1,726 homes valued at $350,000, according to local reporting.",
+    "src": "https://ilovebobfm.com/2025/03/05/meta-and-dc-blox-to-build-data-centers-in-aiken-county-promising-tax-windfall/"
+   },
+   {
+    "para": 2,
+    "t": "Meta donated $25,000 to the United Way of Aiken County after Tropical Storm Helene in 2024.",
+    "src": "https://ilovebobfm.com/2025/03/05/meta-and-dc-blox-to-build-data-centers-in-aiken-county-promising-tax-windfall/"
+   },
+   {
+    "para": 2,
+    "t": "Other data centers are clustered nearby: QTS operates a facility in Augusta, Georgia, about 32 kilometers away, and T5's \"Project Eisenhower\" is under construction about 36 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://datacenters.atmeta.com/2024/08/hello-south-carolina/",
+   "https://datacenters.atmeta.com/us-locations/",
+   "https://www.postandcourier.com/aikenstandard/business/meta-aiken-county-data-center-mcmaster/article_aaf0aa0c-64a8-11ef-a8f7-d389d536dea5.html",
+   "https://www.wfxg.com/community/meta-s-800-million-data-center-expected-to-transform-aiken-county-economy/article_f24164d4-3511-4cb5-a24c-6a18ce671cf0.html",
+   "https://ilovebobfm.com/2025/03/05/meta-and-dc-blox-to-build-data-centers-in-aiken-county-promising-tax-windfall/"
+  ],
+  "unconfirmed": "Meta's own Aiken info sheet PDF (datacenters.atmeta.com/asset/aiken-data-center-info-sheet/) could not be read (corrupted/binary text on fetch). A Post and Courier column referencing a fee-in-lieu-of-taxes agreement and the length of Meta's tax deal was rate-limited on every fetch attempt and could not be verified directly, so it was left out. No local reporting was found describing resident concern about water or power use for this facility; all quoted local reaction found was from county, chamber, and economic-development officials, not residents. It is unconfirmed whether any public hearing drew opposition."
+ },
+ {
+  "id": "epoch-coreweave-helios",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Helios data center campus sits outside Afton, on County Road 112 in Dickens County, West Texas, on land that was a bitcoin mine before it became an AI computing site.",
+    "src": "https://baxtel.com/data-center/galaxy-helios"
+   },
+   {
+    "para": 0,
+    "t": "Galaxy Digital owns it; CoreWeave leases the whole thing.",
+    "src": "https://www.crowdfundinsider.com/2025/04/238847-galaxy-digital-announces-commitment-with-coreweave-to-host-additional-ai-and-computing-infrastructure/"
+   },
+   {
+    "para": 0,
+    "t": "Dickens County, on the rolling plains of West Texas, had 1,770 residents at the 2020 census.",
+    "src": "https://en.wikipedia.org/wiki/Dickens_County,_Texas"
+   },
+   {
+    "para": 0,
+    "t": "The nearest town, Spur, has shrunk to 863 people, down from 1,318 a decade earlier.",
+    "src": "https://en.wikipedia.org/wiki/Spur,_Texas"
+   },
+   {
+    "para": 1,
+    "t": "Argo Blockchain built the original 180-megawatt bitcoin-mining plant on 160 acres there, finishing it in May 2022.",
+    "src": "https://baxtel.com/data-center/galaxy-helios"
+   },
+   {
+    "para": 1,
+    "t": "Galaxy Digital, a digital-asset and data infrastructure company, bought the site in December 2022 for about $65 million.",
+    "src": "https://baxtel.com/data-center/galaxy-helios"
+   },
+   {
+    "para": 1,
+    "t": "On March 28, 2025, Galaxy signed a 15-year lease making CoreWeave the site's sole tenant for AI and high-performance computing.",
+    "src": "https://www.crowdfundinsider.com/2025/04/238847-galaxy-digital-announces-commitment-with-coreweave-to-host-additional-ai-and-computing-infrastructure/"
+   },
+   {
+    "para": 1,
+    "t": "CoreWeave is a New Jersey-based cloud-computing firm that provides GPU computing infrastructure for AI developers, with Microsoft as its biggest customer.",
+    "src": "https://www.thetexasspur.com/news/galaxy-inks-major-deal-dickens-helios-host-services-coreweave"
+   },
+   {
+    "para": 1,
+    "t": "Galaxy projected the lease would generate about $4.5 billion in revenue over its 15-year term.",
+    "src": "https://www.thetexasspur.com/news/galaxy-inks-major-deal-dickens-helios-host-services-coreweave"
+   },
+   {
+    "para": 2,
+    "t": "The first phase delivers 133 megawatts of computing power to CoreWeave, with that power expected to be flowing by the first half of 2026.",
+    "src": "https://www.crowdfundinsider.com/2025/04/238847-galaxy-digital-announces-commitment-with-coreweave-to-host-additional-ai-and-computing-infrastructure/"
+   },
+   {
+    "para": 2,
+    "t": "Galaxy later exercised an option to add about 260 more megawatts, bringing CoreWeave's contracted capacity at Helios to roughly 393 megawatts, with that expansion due to roll out through 2027.",
+    "src": "https://www.crowdfundinsider.com/2025/04/238847-galaxy-digital-announces-commitment-with-coreweave-to-host-additional-ai-and-computing-infrastructure/"
+   },
+   {
+    "para": 2,
+    "t": "The full campus is approved for 800 megawatts of grid power, with another 1.7 gigawatts under study for future phases.",
+    "src": "https://www.crowdfundinsider.com/2025/04/238847-galaxy-digital-announces-commitment-with-coreweave-to-host-additional-ai-and-computing-infrastructure/"
+   },
+   {
+    "para": 2,
+    "t": "Galaxy closed a $1.4 billion debt financing package in August 2025, adding $350 million of its own equity, to pay for the buildout.",
+    "src": "https://www.compute-atlas.com/facilities/galaxy-helios-dickens-tx"
+   },
+   {
+    "para": 3,
+    "t": "Since August 3, 2026, Texas Governor Greg Abbott has ordered the state grid operator and utility regulators to audit data center projects still waiting for grid connections statewide, after complaints that they are straining the power system.",
+    "src": "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/"
+   },
+   {
+    "para": 3,
+    "t": "More than 1,800 such projects are in that queue, representing over 474 gigawatts of proposed capacity, and regulators say roughly 90 percent of new power requests statewide come from data centers.",
+    "src": "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/"
+   },
+   {
+    "para": 3,
+    "t": "The announcement of that audit did not name Helios, CoreWeave, Galaxy, or Dickens County, so it is not clear whether Helios's still-growing later phases will be swept into the review.",
+    "src": "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dickens_County,_Texas",
+   "https://en.wikipedia.org/wiki/Spur,_Texas",
+   "https://baxtel.com/data-center/galaxy-helios",
+   "https://www.crowdfundinsider.com/2025/04/238847-galaxy-digital-announces-commitment-with-coreweave-to-host-additional-ai-and-computing-infrastructure/",
+   "https://www.thetexasspur.com/news/galaxy-inks-major-deal-dickens-helios-host-services-coreweave",
+   "https://www.compute-atlas.com/facilities/galaxy-helios-dickens-tx",
+   "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/"
+  ],
+  "unconfirmed": "No local reporting on resident reaction, county tax revenue, or job counts specific to Helios in Dickens County or Afton was found; coverage is limited to trade press, one deal announcement in the local Texas Spur paper, and county/company facility trackers. Whether Texas's August 2026 grid-connection audit applies to Helios's pending later phases (Phase II and beyond) is not stated anywhere found and could not be confirmed."
+ },
+ {
+  "id": "epoch-microsoft-project-osmium",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "David Roach is 62 and lives on his family's 40-acre farm in Cumming, Iowa, two miles from one of Microsoft's data center campuses.",
+    "src": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect"
+   },
+   {
+    "para": 0,
+    "t": "The Project Osmium campus, at 5855 SW Kerry St., spans the line between Warren and Madison counties, with about 40 of its roughly 200 acres falling in Madison County.",
+    "src": "https://www.thewintersetcitizen.net/2016/07/microsoft-announcement-impacts-madison-county/"
+   },
+   {
+    "para": 0,
+    "t": "\"I like to refer to it as they're really polluting my dark,\" Roach said, describing the light spilling from the facility at night.",
+    "src": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect"
+   },
+   {
+    "para": 1,
+    "t": "Microsoft and the city of West Des Moines announced the project on July 22, 2016, calling it the company's third data center in the area.",
+    "src": "https://www.thewintersetcitizen.net/2016/07/microsoft-announcement-impacts-madison-county/"
+   },
+   {
+    "para": 1,
+    "t": "Microsoft has since built two more campuses nearby, and on November 20, 2023, the West Des Moines city council approved zoning for a sixth, called Ruthenium, immediately northwest of Osmium.",
+    "src": "https://www.yahoo.com/news/microsoft-wants-bring-sixth-data-120422896.html"
+   },
+   {
+    "para": 2,
+    "t": "Microsoft says it has invested an estimated $5 billion to $6 billion in its West Des Moines-area campuses since 2012.",
+    "src": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect"
+   },
+   {
+    "para": 2,
+    "t": "Public radio reporting counted more than 600 Microsoft employees across the five campuses, calling the company one of the metro area's seven or eight largest employers.",
+    "src": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect"
+   },
+   {
+    "para": 2,
+    "t": "Microsoft's own promotional materials, by contrast, cited about 300 full-time employees and called the company the ninth-largest employer in West Des Moines; the two counts may simply reflect different years.",
+    "src": "https://news.microsoft.com/source/features/ai/west-des-moines-iowa-ai-supercomputer/"
+   },
+   {
+    "para": 3,
+    "t": "Microsoft's five West Des Moines-area data centers used 68.5 million gallons of water in 2024, more than any other customer of the city's water utility.",
+    "src": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect"
+   },
+   {
+    "para": 3,
+    "t": "The company is permitted to draw up to 5 million gallons a day and has paid about $25 million toward water system upgrades, while the city has separately spent more than $200 million on infrastructure tied to the campuses.",
+    "src": "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect"
+   },
+   {
+    "para": 3,
+    "t": "The original 2016 announcement for Osmium promised road, water, sewer, and power-line upgrades across the site, including extending Veterans Parkway and building a new bridge over the Raccoon River.",
+    "src": "https://www.thewintersetcitizen.net/2016/07/microsoft-announcement-impacts-madison-county/"
+   },
+   {
+    "para": 4,
+    "t": "Clarke County, Iowa, a separate county from Warren and Madison, passed a temporary moratorium on new data center construction in its unincorporated areas on June 23, 2025, to give its board of supervisors time to decide on permanent rules.",
+    "src": "https://clarkecounty.iowa.gov/wp-content/uploads/2025/07/6-23-2025.pdf"
+   },
+   {
+    "para": 4,
+    "t": "The county board's minutes do not mention Microsoft, Osmium, Cumming or Madison County.",
+    "src": "https://clarkecounty.iowa.gov/wp-content/uploads/2025/07/6-23-2025.pdf"
+   }
+  ],
+  "sources": [
+   "https://www.wpr.org/news/microsoft-data-center-iowa-wisconsin-expect",
+   "https://www.thewintersetcitizen.net/2016/07/microsoft-announcement-impacts-madison-county/",
+   "https://www.yahoo.com/news/microsoft-wants-bring-sixth-data-120422896.html",
+   "https://news.microsoft.com/source/features/ai/west-des-moines-iowa-ai-supercomputer/",
+   "https://clarkecounty.iowa.gov/wp-content/uploads/2025/07/6-23-2025.pdf"
+  ],
+  "unconfirmed": "Whether Clarke County's June 2025 data center moratorium has any real bearing on Project Osmium could not be established; Clarke County is a different county and its board minutes make no mention of Osmium, Microsoft, or Madison County, so this looks like a coincidental match in the record rather than a confirmed local connection. Current employment, water use, and build status specific to Osmium alone (as opposed to Microsoft's five-campus West Des Moines cluster collectively) could not be separated out. No local government vote, permit hearing, or resident reaction more recent than the 2016 groundbreaking announcement was found tied specifically to the Osmium site, aside from David Roach's account of light pollution."
+ },
+ {
+  "id": "epoch-meta-eagle-mountain",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's data center campus sits at 1275 N Community Circle in Eagle Mountain, in Utah County.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Eagle Mountain has become one of Utah's main data center hubs; the county holds six other data centers besides Meta's.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 0,
+    "t": "A tracking site that follows data center water and power use in Utah puts the campus at roughly 300 megawatts of IT load across 28 halls in seven buildings, well above Epoch AI's independent estimate of about 133 megawatts.",
+    "src": "https://state.datacenterstress.com/"
+   },
+   {
+    "para": 1,
+    "t": "The site withdrew more than 35 million gallons of water in 2024, twice what it used in 2021, according to that tracker, though it says exact water figures have been kept confidential under a 2018 agreement between Meta and the city.",
+    "src": "https://state.datacenterstress.com/"
+   },
+   {
+    "para": 1,
+    "t": "Combined data center capacity approved across Utah counties has reached about 23 gigawatts against roughly 4 gigawatts of statewide demand, the tracker says.",
+    "src": "https://state.datacenterstress.com/"
+   },
+   {
+    "para": 2,
+    "t": "Nearby in Provo, the city council voted on March 10, 2026 against a rezoning proposal that would have allowed a new data center, one sign of pushback the industry has drawn elsewhere in Utah County.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://state.datacenterstress.com/"
+  ],
+  "unconfirmed": "Meta's own info sheet for this site and a Facebook post cited in our record could not be read (the PDF returned only binary structural data, and the Facebook post returned only a page title). Web search turned up no independent local news coverage of this specific Meta campus, only the aggregator tracking site. The Provo rezoning vote is carried from our own background record; the underlying article could not be fetched to confirm the vote count or any quotes."
+ },
+ {
+  "id": "epoch-google-midlothian",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's data center in Midlothian, Texas sits in Ellis County, part of one of the state's densest data center corridors: the county now counts nine data centers.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 0,
+    "t": "Google announced the project in 2019 and it began operating in 2022 as part of the company's Dallas cloud region.",
+    "src": "https://en.wikipedia.org/wiki/Google_data_centers"
+   },
+   {
+    "para": 0,
+    "t": "The 375-acre campus cost about $600 million to build.",
+    "src": "https://en.wikipedia.org/wiki/Google_data_centers"
+   },
+   {
+    "para": 1,
+    "t": "The site sits about a kilometer from the Midlothian Energy Facility, a 1,620-megawatt natural gas plant, one of the larger power plants in the region.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "Texas issued a statewide moratorium on new data center grid connections on August 3, 2026, and nearby Fort Worth passed its own temporary data center moratorium on August 13, 2026, running through November 11.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Neither order covers Midlothian directly, but both reflect the strain new data centers are putting on the Texas grid in the wider region.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Google_data_centers"
+  ],
+  "unconfirmed": "The Midlothian municipal ordinance cited in our record (ecode360.com) returned only unreadable binary PDF data. No local Ellis County or Midlothian news coverage of this specific project - public hearings, tax incentives, water use, or resident reaction - could be found."
+ },
+ {
+  "id": "epoch-google-storey-county",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's data center sits in the Tahoe Reno Industrial Center, an industrial park in Storey County, Nevada, larger than the city of Detroit, that has become one of the country's densest data center clusters.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Storey County now counts nine data centers, including large campuses run by Switch, Tract, Vantage, Apple and Microsoft within a few kilometers of Google's site.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 0,
+    "t": "Google says it has invested more than $6 billion in Nevada, across this site and its Henderson data center, since 2019, and that the two facilities generated $7.7 billion in economic activity for Nevada businesses in 2025.",
+    "src": "https://datacenters.google/locations/storey-county-nevada/"
+   },
+   {
+    "para": 1,
+    "t": "The facility opened in 2021.",
+    "src": "https://datacenters.google/locations/storey-county-nevada/"
+   },
+   {
+    "para": 1,
+    "t": "Google began running it on geothermal power in 2023 and in 2024 detailed a water conservation partnership with the Colorado River Indian Tribes.",
+    "src": "https://datacenters.google/locations/storey-county-nevada/"
+   },
+   {
+    "para": 2,
+    "t": "The city of Reno, a short drive west, passed a moratorium on new data centers on June 1, 2026, running through June 2027.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Reno's ban does not cover Storey County or the industrial park where Google's site sits, but it reflects regional concern about the area's power and water demand from data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://datacenters.google/locations/storey-county-nevada/"
+  ],
+  "unconfirmed": "The Las Vegas Review-Journal article on Reno's moratorium, cited in our own background record, could not be retrieved (blocked on fetch), so its dates are carried from our record rather than confirmed firsthand. No local reporting was found describing organized opposition to Google's own Storey County site specifically, as opposed to the district's data center boom generally."
+ },
+ {
+  "id": "epoch-google-lancaster",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Lancaster data center sits on Whiley Road in the Rock Mill Industrial Park, west of US Route 33, in Fairfield County, Ohio, southeast of Columbus.",
+    "src": "https://www.sciotopost.com/google-to-open-data-center-in-lancaster-ohio/"
+   },
+   {
+    "para": 0,
+    "t": "The company bought a 120 acre farm there and announced the project on August 19, 2021.",
+    "src": "https://baxtel.com/data-center/google-lancaster-oh"
+   },
+   {
+    "para": 0,
+    "t": "Ground was broken in 2023 and the first building was finished in 2024.",
+    "src": "https://baxtel.com/data-center/google-lancaster-oh"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI estimates the site draws about 137 megawatts of IT power.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "What the announcement did not include was almost everything a resident would want to know.",
+    "src": "https://www.sciotopost.com/google-to-open-data-center-in-lancaster-ohio/"
+   },
+   {
+    "para": 1,
+    "t": "The Scioto Post reported at the time that the completion date, the total investment and the number of jobs were \"not available for publication.\"",
+    "src": "https://www.sciotopost.com/google-to-open-data-center-in-lancaster-ohio/"
+   },
+   {
+    "para": 1,
+    "t": "Mayor David Scheffler credited a city team captained by economic development director Mike Pettit with thousands of hours of work on the deal.",
+    "src": "https://www.sciotopost.com/google-to-open-data-center-in-lancaster-ohio/"
+   },
+   {
+    "para": 2,
+    "t": "Fairfield County has one other data center besides Google's.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "Central Ohio has seen a wave of township level data center moratoriums through 2026, but none covers Fairfield County or Lancaster.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.sciotopost.com/google-to-open-data-center-in-lancaster-ohio/",
+   "https://baxtel.com/data-center/google-lancaster-oh"
+  ],
+  "unconfirmed": "Searches on Whiley Road with Lancaster, on Lancaster Ohio with data center, and on Google with Fairfield County found no hearing record, water figure, resident reaction or confirmed investment total. Reports of a 15 year, 100 percent abatement on improvements and of a land price near $4 million appear in search summaries, but every page carrying them refused our requests, so neither figure is stated here. The Data Center Dynamics article our record cites returns a 403 on every attempt, and Wikipedia's list of Google data centers does not mention a Fairfield County site at all. Our record gives the address as 105 Whiley Road and a trade directory gives 104."
+ },
+ {
+  "id": "epoch-meta-qts-hillsboro-2",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Hillsboro, in Washington County, Oregon, is home to one of the country's densest data center clusters: the county counts nine data centers, with QTS, STACK, Aligned, NTT and Digital Realty all operating campuses within a few kilometers of each other.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 0,
+    "t": "The campus at 4755 NE Huffman Street is QTS's Hillsboro 2, a 51-acre site with four buildings and more than 180 megawatts of capacity.",
+    "src": "https://q.com/data-centers/hillsboro-2/"
+   },
+   {
+    "para": 1,
+    "t": "It uses closed-loop cooling and draws support from a 166-megawatt Avangrid solar project that feeds Portland General Electric's grid.",
+    "src": "https://q.com/data-centers/hillsboro-2/"
+   },
+   {
+    "para": 2,
+    "t": "The city of Hillsboro enacted a 120-day moratorium on new data centers starting July 26, 2026, running to November 23.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://q.com/data-centers/hillsboro-2/"
+  ],
+  "unconfirmed": "It is unconfirmed whether this specific facility (4755 NE Huffman St) is owned by Meta or by QTS; our own record says 'Meta (likely)' while the site's own page identifies the operator as QTS, and the two could not be reconciled. The KGW article behind our moratorium record is headlined with a reference to a lawsuit and resident pushback, but it returned a 403 error on every fetch attempt, so the existence and details of any lawsuit could not be confirmed and are not reported here. No information on investment amount or jobs for this campus was found."
+ },
+ {
+  "id": "epoch-google-waltham-cross",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's data centre sits on Maxwell's Farm West off Great Cambridge Road in Cheshunt, in the Borough of Broxbourne, just north of London.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Google opened the site in 2025 as part of a two-year, five-billion-pound investment programme in the UK.",
+    "src": "https://datacenters.google/locations/waltham-cross/"
+   },
+   {
+    "para": 0,
+    "t": "Chancellor Rachel Reeves attended the opening on September 16, 2025 and called the investment \"a powerful vote of confidence in the UK economy and the strength of our partnership with the US.\"",
+    "src": "https://www.googlecloudpresscorner.com/2025-09-16-Google-Opens-Waltham-Cross-Data-Centre-as-Part-of-Two-year-GBP5-Billion-Investment-in-the-UK-to-Help-Power-its-AI-Economy"
+   },
+   {
+    "para": 0,
+    "t": "Google DeepMind chief executive Demis Hassabis and Google's Ruth Porat also spoke at the event.",
+    "src": "https://www.googlecloudpresscorner.com/2025-09-16-Google-Opens-Waltham-Cross-Data-Centre-as-Part-of-Two-year-GBP5-Billion-Investment-in-the-UK-to-Help-Power-its-AI-Economy"
+   },
+   {
+    "para": 1,
+    "t": "Google says the data centre uses air cooling that limits water use to domestic levels, and is built to send waste heat to nearby homes, schools and businesses.",
+    "src": "https://datacenters.google/locations/waltham-cross/"
+   },
+   {
+    "para": 1,
+    "t": "The company says it is aiming for the site to run on nearly all carbon-free electricity by 2026, under a round-the-clock supply deal with Shell Energy Europe.",
+    "src": "https://datacenters.google/locations/waltham-cross/"
+   },
+   {
+    "para": 1,
+    "t": "More than 250 companies, most of them local, worked on construction, according to Google, and the company set up a community fund for Broxbourne Council.",
+    "src": "https://www.googlecloudpresscorner.com/2025-09-16-Google-Opens-Waltham-Cross-Data-Centre-as-Part-of-Two-year-GBP5-Billion-Investment-in-the-UK-to-Help-Power-its-AI-Economy"
+   }
+  ],
+  "sources": [
+   "https://datacenters.google/locations/waltham-cross/",
+   "https://www.googlecloudpresscorner.com/2025-09-16-Google-Opens-Waltham-Cross-Data-Centre-as-Part-of-Two-year-GBP5-Billion-Investment-in-the-UK-to-Help-Power-its-AI-Economy"
+  ],
+  "unconfirmed": "No independent local reporting (BBC, Hertfordshire Mercury, or Broxbourne Council records) was found describing resident reaction, planning objections, or grid strain tied to this specific site; the only sources available were Google's own location page and press release, so all investment, jobs and sustainability figures here are the company's own claims, not independently verified. Our background record's list of nearest power plants was not usable for this site - the listed plants were thousands of kilometers away in the United States, evidently a data error - so it is excluded from this page."
+ }
+]

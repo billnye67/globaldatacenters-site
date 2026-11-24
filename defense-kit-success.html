@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+
+    <title>Your Preparation Brief | Global Data Centers</title>
+    <meta property="og:image" content="https://globaldatacenters.net/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://globaldatacenters.net/og-image.png">
+    <meta name="robots" content="noindex, nofollow">
+    <link rel="canonical" href="https://globaldatacenters.net/defense-kit-success">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400&family=Work+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css">
+
+    <style>
+        .success-hero {
+            background: var(--paper-dark);
+            border-bottom: 1px solid var(--rule);
+            padding: 40px 0 30px;
+            text-align: center;
+        }
+        .success-hero h1 {
+            font-family: 'Fraunces', serif;
+            font-size: clamp(1.6rem, 3vw, 2.4rem);
+            margin-bottom: 10px;
+        }
+        .success-hero .lede {
+            color: var(--ink-soft);
+            font-size: 1rem;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .loading-state {
+            text-align: center;
+            padding: 80px 20px;
+        }
+        .loading-state .spinner {
+            width: 40px;
+            height: 40px;
+            border: 3px solid var(--rule);
+            border-top-color: var(--red);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 24px;
+        }
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        .brief-container {
+            max-width: 760px;
+            margin: 40px auto;
+            background: var(--paper);
+            padding: 60px 60px 80px;
+            border: 1px solid var(--rule);
+            box-shadow: 0 4px 20px rgba(0,0,0,0.04);
+        }
+        .brief-header {
+            text-align: center;
+            padding-bottom: 30px;
+            border-bottom: 3px double var(--ink);
+            margin-bottom: 40px;
+        }
+        .brief-header .kicker {
+            font-size: 0.75rem;
+            color: var(--red);
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-weight: 600;
+            margin-bottom: 16px;
+        }
+        .brief-header h1 {
+            font-family: 'Fraunces', serif;
+            font-size: 2.2rem;
+            margin-bottom: 10px;
+            letter-spacing: -0.01em;
+        }
+        .brief-header .meta {
+            font-size: 0.85rem;
+            color: var(--ink-fade);
+            font-style: italic;
+        }
+
+        .brief-section {
+            margin: 40px 0;
+            padding-top: 30px;
+            border-top: 1px solid var(--rule);
+        }
+        .brief-section:first-of-type {
+            border-top: none;
+            padding-top: 0;
+        }
+        .brief-section h2 {
+            font-family: 'Fraunces', serif;
+            font-size: 1.5rem;
+            margin-bottom: 18px;
+            color: var(--ink);
+            letter-spacing: -0.01em;
+        }
+        .brief-section h3 {
+            font-family: 'Fraunces', serif;
+            font-size: 1.15rem;
+            margin: 24px 0 10px;
+            color: var(--ink);
+        }
+        .brief-section p {
+            font-size: 1.02rem;
+            line-height: 1.75;
+            color: var(--ink-soft);
+            margin-bottom: 16px;
+        }
+        .brief-section p strong { color: var(--ink); font-weight: 600; }
+        .brief-section ul, .brief-section ol { margin: 0 0 18px 24px; color: var(--ink-soft); }
+        .brief-section li { margin-bottom: 8px; line-height: 1.6; font-size: 1rem; }
+
+        .comment-letter, .hearing-script {
+            margin: 24px 0;
+            padding: 30px 36px;
+            background: var(--paper-dark);
+            border-left: 4px solid var(--red);
+            font-family: 'Fraunces', serif;
+            font-size: 1.05rem;
+            line-height: 1.7;
+            color: var(--ink);
+        }
+        .comment-letter p, .hearing-script p {
+            font-family: 'Fraunces', serif;
+            font-size: 1.05rem;
+            line-height: 1.7;
+            color: var(--ink);
+            margin-bottom: 14px;
+        }
+
+        .disclaimer {
+            margin-top: 40px;
+            padding: 24px;
+            background: var(--paper-dark);
+            border: 1px solid var(--rule);
+            font-size: 0.9rem;
+            color: var(--ink-fade);
+            font-style: italic;
+            line-height: 1.6;
+        }
+
+        .action-row {
+            max-width: 760px;
+            margin: 0 auto 60px;
+            padding: 24px 30px;
+            background: var(--ink);
+            color: var(--paper);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 14px;
+        }
+        .action-row p { margin: 0; font-size: 0.92rem; color: var(--sand); }
+        .print-btn {
+            background: var(--red);
+            color: var(--paper);
+            padding: 12px 24px;
+            font-size: 0.85rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            border: none;
+            cursor: pointer;
+            transition: background 0.2s;
+            font-family: 'Work Sans', sans-serif;
+        }
+        .print-btn:hover { background: var(--red-dark); }
+
+        .error-state {
+            text-align: center;
+            padding: 60px 20px;
+            max-width: 560px;
+            margin: 0 auto;
+        }
+        .error-state h2 { font-family: 'Fraunces', serif; font-size: 1.5rem; margin-bottom: 12px; }
+        .error-state p { color: var(--ink-soft); line-height: 1.6; }
+
+        @media print {
+            body > header, .tagline-bar, .county-nav, .action-row, .footer, .success-hero { display: none !important; }
+            .brief-container { box-shadow: none; border: none; padding: 0; margin: 0; max-width: 100%; }
+        }
+
+        @media (max-width: 640px) {
+            .brief-container { padding: 30px 24px; margin: 20px auto; }
+            .brief-header h1 { font-size: 1.6rem; }
+            .comment-letter, .hearing-script { padding: 20px 22px; }
+            .action-row { flex-direction: column; text-align: center; }
+        }
+    </style>
+    <script type="text/javascript">
+        (function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "whyg2fbg7c");
+    </script>
+</head>
+<body>
+
+<header class="masthead">
+    <div class="wrap">
+        <div class="masthead-inner">
+            <div class="mast-meta js-date-full">Sunday, April 19, 2026</div>
+            <div class="mast-title"><a href="/">Global Data Centers<span class="dot">.</span></a></div>
+            <div class="mast-meta mast-meta-right">Est. 2026 · Independent</div>
+        </div>
+    </div>
+</header>
+
+<div class="tagline-bar">
+    <div class="wrap">Tracking proposed hyperscale and AI data centers worldwide, from public records and local news.</div>
+</div>
+
+<section class="success-hero">
+    <div class="wrap">
+        <h1 id="heroTitle">Generating your Preparation Brief...</h1>
+        <p class="lede" id="heroLede">This takes about 30-60 seconds. A copy is also being emailed to you.</p>
+    </div>
+</section>
+
+<main>
+    <div id="loadingState" class="loading-state">
+        <div class="spinner"></div>
+        <p>Writing your personalized Brief...</p>
+    </div>
+
+    <div id="errorState" class="error-state" style="display: none;">
+        <h2>Something went wrong</h2>
+        <p id="errorMessage">Your payment was successful, but we ran into an issue generating your Brief. Please contact us via the <a href="/contact">contact page</a> with your order ID. We'll fix it or refund you.</p>
+        <p style="margin-top: 20px; color: var(--ink-fade); font-size: 0.85rem;">Order ID: <span id="errorOrderId"></span></p>
+    </div>
+
+    <div id="briefReady" style="display: none;">
+        <div class="action-row">
+            <p>Your Brief is ready. We've also emailed you a permanent link — bookmark it. Available for 180 days.</p>
+            <button class="print-btn" onclick="window.print()">Print / Save as PDF</button>
+        </div>
+
+        <div class="brief-container">
+            <div class="brief-header">
+                <div class="kicker">Preparation Brief</div>
+                <h1 id="briefTitle">Your Florida Data Center Preparation Brief</h1>
+                <div class="meta" id="briefMeta">Prepared for — · Generated —</div>
+            </div>
+            <div id="briefContent"></div>
+        </div>
+    </div>
+</main>
+
+<footer class="footer">
+    <div class="wrap">
+        <div class="footer-legal">
+            <div>© <span class="js-year">2026</span> globaldatacenters.net · Educational. Not legal, financial, or environmental advice.</div>
+        </div>
+    </div>
+</footer>
+
+<script>
+    (function() {
+        const today = new Date();
+        const longOpts = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+        document.querySelectorAll('.js-date-full').forEach(el => el.textContent = today.toLocaleDateString('en-US', longOpts));
+        document.querySelectorAll('.js-year').forEach(el => el.textContent = today.getFullYear());
+    })();
+
+    const params = new URLSearchParams(window.location.search);
+    const orderId = params.get('order_id');
+
+    if (!orderId) {
+        showError('No order ID found. If you just paid, please check your email for a link to your Brief.');
+    } else {
+        pollForReport();
+    }
+
+    async function pollForReport() {
+        let attempts = 0;
+        const maxAttempts = 40; // 40 * 3s = 2 min max
+
+        const interval = setInterval(async () => {
+            attempts++;
+            try {
+                const response = await fetch(`/api/get-report?order_id=${orderId}`);
+                const data = await response.json();
+
+                if (response.status === 200 && data.status === 'complete') {
+                    clearInterval(interval);
+                    renderBrief(data);
+                } else if (data.status === 'error') {
+                    clearInterval(interval);
+                    showError(data.error || 'Your Brief failed to generate. Please contact us.');
+                } else if (attempts >= maxAttempts) {
+                    clearInterval(interval);
+                    showError('Your Brief is taking longer than expected. Check your email in a few minutes, or contact us if it still hasn\'t arrived.');
+                }
+            } catch (err) {
+                if (attempts >= maxAttempts) {
+                    clearInterval(interval);
+                    showError('Something went wrong. Please contact us with your order ID.');
+                }
+            }
+        }, 3000);
+    }
+
+    function renderBrief(data) {
+        document.getElementById('loadingState').style.display = 'none';
+        document.getElementById('heroTitle').textContent = 'Your Preparation Brief is ready.';
+        document.getElementById('heroLede').textContent = `Also emailed to ${data.intake.email}. Bookmark this page.`;
+
+        const title = `Your ${data.intake.county} County Data Center Preparation Brief`;
+        document.getElementById('briefTitle').textContent = title;
+        document.title = title + ' | Global Data Centers';
+
+        const generatedDate = new Date(data.generatedAt).toLocaleDateString('en-US', {
+            year: 'numeric', month: 'long', day: 'numeric'
+        });
+        document.getElementById('briefMeta').textContent =
+            `Prepared for ${data.intake.firstName} ${data.intake.lastInitial} · ${data.intake.county} County · Generated ${generatedDate}`;
+
+        document.getElementById('briefContent').innerHTML = data.reportHtml;
+        document.getElementById('briefReady').style.display = 'block';
+
+        // Scroll to top
+        window.scrollTo(0, 0);
+    }
+
+    function showError(message) {
+        document.getElementById('loadingState').style.display = 'none';
+        document.getElementById('heroTitle').textContent = 'There was a problem';
+        document.getElementById('heroLede').textContent = 'We\'ll help you resolve this.';
+        document.getElementById('errorMessage').textContent = message;
+        document.getElementById('errorOrderId').textContent = orderId || '(none)';
+        document.getElementById('errorState').style.display = 'block';
+    }
+</script>
+
+</body>
+</html>

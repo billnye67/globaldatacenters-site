@@ -1,0 +1,517 @@
+[
+ {
+  "id": "ft-171",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This data center campus, in Monroe County, Georgia, is listed as cancelled, and the two trade reports that would explain how both returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Their headlines are the only account we have: one describes a 900 megawatt campus proposed outside Macon, the other says a rezoning proposal for a 1.2 gigawatt campus outside Macon was denied a recommendation for approval.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The 900 megawatt figure is the one carried here, with local pushback logged against it.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The site is at US Highway 41 and Interstate 475 in Monroe County, and the power was next door.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "The 190 megawatt Smarr Energy Center is 5 kilometres away and the 2,580 megawatt Scherer coal plant 13.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "A Google site on Rumble Road at Macon is 6 kilometres off, and five more tracked data center projects lie within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Monroe County adopted a data center moratorium on 3 December 2025, Lamar County one on 1 September 2025, and Jones County zoning limits on 16 September 2025.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Neither trade report could be read and the Macon Telegraph article in our record was blocked, so the date of the rezoning refusal, the vote, the developer's name, who objected and what they said are all unknown. The capacity is given as 900 megawatts in one headline and 1.2 gigawatts in the other and our record follows the lower figure; neither could be checked. Our record's status of cancelled rests on the refusal headline alone, and whether the developer has appealed or refiled is not established."
+ },
+ {
+  "id": "ft-174",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Two entries cover the same 31 acres on Bells Ferry Road in Cobb County, Georgia, both citing the same trade report, and they give different capacities.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "This one, Grindcap, is listed at 108 megawatts; the other, the Marietta Data Center, at 180 megawatts with MMM Acquisitions LLC and Grindcap named together as the developer.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The shared source, headed \"108MW data center campus granted zoning approval outside Atlanta, Georgia\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "If that headline is right, the zoning was granted before the door closed.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Marietta adopted a six month data center moratorium on 26 July 2026 and Cobb County one on 12 August 2026, two of ten measures now in force around this site.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Six data center sites are recorded in Cobb County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "Twenty kilometres away is the 2,535 megawatt Jack McDonough gas plant, with the 72 megawatt Allatoona dam at 25.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the date of the zoning approval, the body that granted it, the developer, the square footage and whether construction has begun are all unknown. Whether this entry and the Marietta Data Center entry at the same coordinates are one project recorded twice is unresolved, and the two capacity figures cannot be reconciled. No resident or official reaction was found and our record logs pushback as unknown."
+ },
+ {
+  "id": "ft-173",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This data center is put at 180 megawatts on 31 acres at 1751 Bells Ferry Road in Cobb County, Georgia, with MMM Acquisitions LLC and Grindcap as the developers.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "A second entry, listed simply as Grindcap and put at 108 megawatts on the same 31 acres, sits at the same coordinates and cites the same source.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "That source, a trade report headed \"108MW data center campus granted zoning approval outside Atlanta, Georgia\", could not be read.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Cobb County adopted a data center moratorium on 12 August 2026 and the city of Marietta one on 26 July 2026, both after the approval the headline describes.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Ten measures are now in force around the site, including Atlanta's partial ban and moratoriums in Chamblee, Paulding, Polk and Carroll counties.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Six other tracked data center sites lie within 22 kilometres, and the 2,535 megawatt Jack McDonough gas plant is 20 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "This entry and the Grindcap entry at the same coordinates give different capacities for the same acreage from the same unreadable source, and whether they are one project is unresolved. The zoning approval date, the deciding body, the square footage, the water demand and the construction status are all unknown. No resident or official reaction was found."
+ },
+ {
+  "id": "ft-1784069628664-5291",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one would put computers into a self storage building.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "An 18 megawatt data center is proposed on 11 acres at 1155 Powers Ferry Place in Marietta, in Cobb County, Georgia, and the single source attached to it, headed \"Self-storage facility in Marietta, Georgia targeted for 18MW data center\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "At 18 megawatts it is among the smallest proposals recorded for this part of Georgia, where campuses of several hundred megawatts are the pattern.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Six other data center sites lie within 13 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Six of the recorded sites are in Cobb County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "Cobb County put a data center moratorium in force on 12 August 2026 and Marietta one on 26 July 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Eleven kilometres away stands the 2,535 megawatt Jack McDonough gas plant.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the developer, the filing date, the current status and whether the conversion needs planning permission are all unknown. No water figure, no square footage and no local reaction are established, and no Marietta local reporting was sought. Our record logs pushback as unknown."
+ },
+ {
+  "id": "ft-175",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The website filed as the local opposition group turns out to belong to the developer.",
+    "src": "https://maysvilleneighbor.com/"
+   },
+   {
+    "para": 0,
+    "t": "Maysvilleneighbor.com is run by J. Russell & Associates, LLC as a community outreach page for RUM Group, Inc., a company listed on Nasdaq that is working with Rumble and Northern Data on a data center on Industrial Drive in Maysville, in Jackson County, Georgia.",
+    "src": "https://maysvilleneighbor.com/"
+   },
+   {
+    "para": 1,
+    "t": "The page is candid about what people are asking.",
+    "src": "https://maysvilleneighbor.com/"
+   },
+   {
+    "para": 1,
+    "t": "It lists residents' priority topics as water, noise and the elementary school.",
+    "src": "https://maysvilleneighbor.com/"
+   },
+   {
+    "para": 1,
+    "t": "It records an open community meeting on a Tuesday 28 July, and says the city of Maysville recently set up a Community Benefit Agreement Committee to handle community concerns.",
+    "src": "https://maysvilleneighbor.com/"
+   },
+   {
+    "para": 1,
+    "t": "It also states that work on the project has begun.",
+    "src": "https://maysvilleneighbor.com/"
+   },
+   {
+    "para": 2,
+    "t": "The page gives no acreage, no megawatt figure and no water or power numbers at all.",
+    "src": "https://maysvilleneighbor.com/"
+   },
+   {
+    "para": 2,
+    "t": "The project is put at 180 megawatts on 57 acres, with organised local advocacy logged against it.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Jackson County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "Project Turbo at Gainesville is 21 kilometres away, and the nearest generation is a 58 megawatt biomass plant at 25 kilometres and the 746 megawatt Dahlberg gas plant at 26.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Stephens County, to the north, adopted a data center moratorium on 26 May 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://maysvilleneighbor.com/"
+  ],
+  "unconfirmed": "Our record files maysvilleneighbor.com as the local opposition group, which the page itself contradicts; that entry needs correcting. The report in our record headed \"Citizens fight back as Maysville cancels special meeting regarding data center\" returned 403, so what the citizens did, which meeting was cancelled and when could not be established, and no resident is named or quoted anywhere reached. The 180 megawatt and 57 acre figures appear in no source read, and both Data Center Dynamics articles in our record returned 403; one of them gives 120 megawatts in its headline, which does not match our record."
+ },
+ {
+  "id": "ft-213",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A data center development by Central Coweta Industrial LLC and Brent Holdings is recorded between Amlajack Boulevard and Coweta Industrial Parkway at Newnan, with no capacity figure and no acreage.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The single source attached to it, a local newspaper report headed \"New proposed $4 billion data center development under review in Coweta\", returned a rate limit error and could not be read.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Coweta County is filling up with them.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Five of the recorded sites are in the county, and six lie within 17 kilometres of this one: Project Peach and a T5 campus at 10 kilometres, a Microsoft site at Palmetto and Project Sail at 14, and another T5 campus at 16.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Coweta County adopted data center zoning limits on 6 May 2025, and six other measures are in force in the surrounding jurisdictions.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Sixteen kilometres away, the Yates gas plant carries 714 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record could not be retrieved, so the acreage, square footage, megawatts, filing date and current status are all unknown, as is what stage of county review the project has reached. The $4 billion figure comes from the headline alone. No resident or official reaction was found and our record logs pushback as unknown."
+ },
+ {
+  "id": "ft-176",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Seventeen residents, farmers and landowners took Coweta County to court over this one.",
+    "src": "https://www.cbsnews.com/atlanta/news/coweta-county-residents-file-appeal-to-stop-massive-data-center-on-protected-rural-land/"
+   },
+   {
+    "para": 0,
+    "t": "They filed in Coweta County Superior Court on Tuesday 7 May 2026 against the county and Atlas Development, LLC, asking the court to declare the rezoning void and to block the data center permanently.",
+    "src": "https://www.cbsnews.com/atlanta/news/coweta-county-residents-file-appeal-to-stop-massive-data-center-on-protected-rural-land/"
+   },
+   {
+    "para": 1,
+    "t": "The land matters because of what is under it.",
+    "src": "https://www.cbsnews.com/atlanta/news/coweta-county-residents-file-appeal-to-stop-massive-data-center-on-protected-rural-land/"
+   },
+   {
+    "para": 1,
+    "t": "The site sits in Georgia's Most Significant Groundwater Recharge Area, one of the state's highest environmental protection designations, inside the Middle Chattahoochee River basin, and the rezoning took it from rural conservation to industrial.",
+    "src": "https://www.cbsnews.com/atlanta/news/coweta-county-residents-file-appeal-to-stop-massive-data-center-on-protected-rural-land/"
+   },
+   {
+    "para": 1,
+    "t": "The petitioners argue the county ignored its own rules, broke state law and violated residents' constitutional rights, and that an amended application from Atlas in January 2026, seeking a more intensive industrial classification, should have triggered a fresh environmental review and a new round of public comment but did not.",
+    "src": "https://www.cbsnews.com/atlanta/news/coweta-county-residents-file-appeal-to-stop-massive-data-center-on-protected-rural-land/"
+   },
+   {
+    "para": 1,
+    "t": "They cite a peer reviewed study projecting a $118 million fall in residential property values across about 1,215 parcels within a mile and a quarter of the site.",
+    "src": "https://www.cbsnews.com/atlanta/news/coweta-county-residents-file-appeal-to-stop-massive-data-center-on-protected-rural-land/"
+   },
+   {
+    "para": 1,
+    "t": "The county said it does not comment on pending litigation.",
+    "src": "https://www.cbsnews.com/atlanta/news/coweta-county-residents-file-appeal-to-stop-massive-data-center-on-protected-rural-land/"
+   },
+   {
+    "para": 2,
+    "t": "Project Sail is 831 acres across five parcels held by three ownership groups, on US 27 between Welcome Sargent and Wagers Mill roads, about 45 miles southwest of downtown Atlanta.",
+    "src": "https://www.ajc.com/news/business/project-sail-a-17b-data-center-project-pitched-south-of-atlanta/D33GKROJBJEEPATVVCT3OVZR2Q/"
+   },
+   {
+    "para": 2,
+    "t": "The plan is 13 buildings of 378,000 square feet each, more than 4.9 million square feet in all, which is more than twice the Mall of Georgia, at 72 megawatts a building and 936 megawatts in total, for $17 billion, finished by the end of 2036.",
+    "src": "https://www.ajc.com/news/business/project-sail-a-17b-data-center-project-pitched-south-of-atlanta/D33GKROJBJEEPATVVCT3OVZR2Q/"
+   },
+   {
+    "para": 2,
+    "t": "The developer is Atlas Development LLC, founded in 2017 and based in Whitesburg, with Jonathon Ward as its executive on the project.",
+    "src": "https://www.ajc.com/news/business/project-sail-a-17b-data-center-project-pitched-south-of-atlanta/D33GKROJBJEEPATVVCT3OVZR2Q/"
+   },
+   {
+    "para": 3,
+    "t": "The tax figure moved.",
+    "src": "https://www.ajc.com/news/business/project-sail-a-17b-data-center-project-pitched-south-of-atlanta/D33GKROJBJEEPATVVCT3OVZR2Q/"
+   },
+   {
+    "para": 3,
+    "t": "The state filing appeared on 31 December, its initial estimate of $1.6 billion a year in taxes was questioned in January, and an amended filing posted on 8 January put the annual figure at $163.2 million.",
+    "src": "https://www.ajc.com/news/business/project-sail-a-17b-data-center-project-pitched-south-of-atlanta/D33GKROJBJEEPATVVCT3OVZR2Q/"
+   },
+   {
+    "para": 3,
+    "t": "The county was careful at the time, noting that beginning the state review \"does not mean that the project is finalized or that the property has been officially rezoned or approved by the board of commissioners\".",
+    "src": "https://www.ajc.com/news/business/project-sail-a-17b-data-center-project-pitched-south-of-atlanta/D33GKROJBJEEPATVVCT3OVZR2Q/"
+   },
+   {
+    "para": 3,
+    "t": "No end user has been confirmed.",
+    "src": "https://www.ajc.com/news/business/project-sail-a-17b-data-center-project-pitched-south-of-atlanta/D33GKROJBJEEPATVVCT3OVZR2Q/"
+   },
+   {
+    "para": 4,
+    "t": "The project is listed as under construction, at 936 megawatts on 832 acres for $17 billion, with a campaign group at stopsail.com against it.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 4,
+    "t": "The same developer is behind Project Springbank in Bartow County, which was withdrawn after a planning commission recommended refusing it, and Project Sassy near Adairsville.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 714 megawatt Yates gas plant is 4 kilometres away, with three more gas plants, about 2,580 megawatts between them, within 15 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.cbsnews.com/atlanta/news/coweta-county-residents-file-appeal-to-stop-massive-data-center-on-protected-rural-land/",
+   "https://www.ajc.com/news/business/project-sail-a-17b-data-center-project-pitched-south-of-atlanta/D33GKROJBJEEPATVVCT3OVZR2Q/"
+  ],
+  "unconfirmed": "The date and vote of the rezoning being appealed are not given in either report, only that it happened and that an amended application followed in January 2026. No petitioner is named or quoted, and the peer reviewed study behind the $118 million property value figure is not identified. Atlas Development did not comment in either report. No water figure was published for a campus sited on a designated groundwater recharge area, which is the number the case turns on. The outcome of the appeal is not established, and our record's status of under construction sits oddly with a rezoning under legal challenge."
+ },
+ {
+  "id": "ft-1776887365551-1592",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The nearest power plant to this data center site is 59 kilometres away, and the proposal is for 1,250 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 0,
+    "t": "Project Arrowhead covers 1,066 acres between Ponderosa and Pinetta Road at Ocilla, in Irwin County, Georgia, at a cost of $6 billion.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 1,
+    "t": "Georgia's Development of Regional Impact record names the developer as Premier Data Center Development, LLC, submitted through Irwin County and reviewed by the South Georgia Regional Development Commission as a non metropolitan project.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4689"
+   },
+   {
+    "para": 1,
+    "t": "The initial form went in on 10 April 2026, the state found on 14 April that it warranted regional review, the file was certified complete on 20 April, comments were requested on 27 April, the commission issued its finding on 14 May and the review completed on 20 May 2026.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4689"
+   },
+   {
+    "para": 1,
+    "t": "The record carries no acreage and no square footage.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4689"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Irwin County, with no other project within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "No moratorium is in force nearby.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The generation within reach is four solar plants of about 420 megawatts in total, between 59 and 64 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "A change.org petition calls for Irwin County to be protected from data centers.",
+    "src": "data:sources"
+   }
+  ],
+  "sources": [
+   "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4689"
+  ],
+  "unconfirmed": "The state record confirms that a review took place but not what the regional commission found, and carries none of the figures in our record: the 1,250 megawatts, the 1,066 acres and the $6 billion appear in no source read. Where 1,250 megawatts would come from, given the distance to the nearest generation, is not addressed anywhere I could reach. No county hearing, vote or rezoning decision was found, and no resident or official is named or quoted; the petition in our record was not read."
+ },
+ {
+  "id": "ft-181",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This entry and the one a kilometre away are probably the same project.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "A Gregory Road Data Center is listed on 213 acres at Gregory Road and Flat Rock Road in Oxford, in Newton County, Georgia, and Project Lighthouse, also on 213 acres, a kilometre away near Gregory Road and Interstate 20.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "The Atlanta Journal-Constitution's account of Project Lighthouse calls it the Gregory Road data center.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The single source attached to this entry, headed \"Plans filed for 1.4 million sq ft data center campus outside Atlanta, Georgia\", returned 403, and that square footage matches the figure reported for Project Lighthouse.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Amazon Web Services' Covington campus is 3 kilometres away, and two Meta sites are 10 and 13 kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Covington adopted a data center moratorium on 6 January 2026 and Newton County on 8 April 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generation is about 21 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403. Whether this entry and Project Lighthouse are one project recorded twice is not established, though the matching acreage, the matching square footage and the shared road name all point that way; our record carries no capacity figure here where it gives Project Lighthouse 360 megawatts. No developer is named in this entry, no filing date is recorded and no local reaction was found."
+ },
+ {
+  "id": "ft-182",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Residents came to the April meeting in yellow shirts, and the commission voted 3 to 2 to let it go ahead.",
+    "src": "https://www.ajc.com/news/2025/06/as-data-centers-grow-larger-so-does-pushback-across-georgia/"
+   },
+   {
+    "para": 0,
+    "t": "The Atlanta Journal-Constitution described Project Peach as a $1 billion data center campus in Coweta County.",
+    "src": "https://www.ajc.com/news/2025/06/as-data-centers-grow-larger-so-does-pushback-across-georgia/"
+   },
+   {
+    "para": 1,
+    "t": "Georgia's Development of Regional Impact record names the developer as North Coweta Investors, LLC, submitted through Coweta County and reviewed by the Chattahoochee Flint Regional Development Commission, with the Georgia Regional Transportation Authority also holding jurisdiction.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4301"
+   },
+   {
+    "para": 1,
+    "t": "The initial form went in on 3 October 2024, the determination that it warranted regional review came on 4 November, the file was certified complete and comments requested on 15 January 2025, the commission issued its finding on 4 February and the review completed on 20 February 2025.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4301"
+   },
+   {
+    "para": 1,
+    "t": "The record gives no acreage and no square footage.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4301"
+   },
+   {
+    "para": 2,
+    "t": "The site is placed at 300 Johnston Circle in Palmetto, with no capacity figure attached.",
+    "src": "data:address"
+   },
+   {
+    "para": 2,
+    "t": "The trade report attached to the entry is headed \"Strategic files for 2.1m sq ft data center campus outside Atlanta, Georgia\", which is the only square footage on record and could not be read at source.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "Five data center sites are recorded in Coweta County, and six lie within 14 kilometres of this one, the nearest a T5 campus a kilometre away and a Microsoft site at 4.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Coweta County adopted data center zoning limits on 6 May 2025, after this review completed.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The closest generation is Yates, a 714 megawatt gas plant 22 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.ajc.com/news/2025/06/as-data-centers-grow-larger-so-does-pushback-across-georgia/",
+   "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4301"
+  ],
+  "unconfirmed": "The newspaper report names Project Peach and gives the 3 to 2 vote and the April meeting but no exact date, and does not connect the project to the Johnston Circle address in our record, so the identification rests on the project name and county. No resident or commissioner is named or quoted about this project specifically. The acreage, square footage and megawatts are unestablished, as is the current status: our record says proposed, while the commission vote is described as moving the project forward. No water figure exists. The Data Center Dynamics article in our record returned 403."
+ }
+]

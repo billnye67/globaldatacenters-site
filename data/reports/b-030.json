@@ -1,0 +1,648 @@
+[
+ {
+  "id": "amazon-aws-wallula-gap",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Burbank is an unincorporated community in Walla Walla County, Washington, at Wallula Gap on former Port of Walla Walla industrial land less than half a mile from the Columbia River.",
+    "src": "https://www.union-bulletin.com/news/local/governments/walla-walla-county-opens-comment-period-for-amazon-data-center/article_acf4a821-f1d5-4558-825f-7d9240b5d1fd.html"
+   },
+   {
+    "para": 0,
+    "t": "Amazon Data Services filed plans in May 2026 for what it calls the Attalia Data Center Campus, and the county ruled the application substantially complete on August 24, 2026.",
+    "src": "https://elkhornmediagroup.com/public-comment-period-opens-for-proposed-amazon-data-center-in-wallula/"
+   },
+   {
+    "para": 0,
+    "t": "The first phase covers 134 acres of a 554-acre site Amazon bought from the port in February 2026, and calls for three 220,000-square-foot buildings, an industrial water facility, storage tanks and a pad for a future electrical substation.",
+    "src": "https://elkhornmediagroup.com/public-comment-period-opens-for-proposed-amazon-data-center-in-wallula/"
+   },
+   {
+    "para": 0,
+    "t": "Amazon's own project description points to a larger buildout of up to 16 buildings across four phases at a cost of $4.8 billion.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Amazon held a public open house on August 11, 2026, at Columbia High School in Burbank, and the school's atrium filled to capacity, with many attendees wearing anti-data center shirts.",
+    "src": "https://www.tricitiesbusinessnews.com/articles/8340-amazon-works-to-stem-data-center-fears-at-burbank-open-house"
+   },
+   {
+    "para": 1,
+    "t": "Amazon told the crowd the campus would use water equal to about 6 percent of the site's annual allocation, roughly a quarter of what local agriculture uses, and disputed suggestions that other ratepayers would help cover its power costs.",
+    "src": "https://www.tricitiesbusinessnews.com/articles/8340-amazon-works-to-stem-data-center-fears-at-burbank-open-house"
+   },
+   {
+    "para": 1,
+    "t": "The company declined to give specifics on how much electricity the campus would use.",
+    "src": "https://www.union-bulletin.com/news/local/governments/walla-walla-county-opens-comment-period-for-amazon-data-center/article_acf4a821-f1d5-4558-825f-7d9240b5d1fd.html"
+   },
+   {
+    "para": 1,
+    "t": "Kennewick resident Bonnie Wescott compared the pace to the region's history with the Hanford nuclear site: \"They went into Hanford real quickly and didn't have all the information.\" She added: \"I feel like this is going so fast and it's so close to the river. It's kind of repeating history.\"",
+    "src": "https://www.tricitiesbusinessnews.com/articles/8340-amazon-works-to-stem-data-center-fears-at-burbank-open-house"
+   },
+   {
+    "para": 1,
+    "t": "Daniel Brown, a Walla Walla protestor at the open house, said, \"There's multiple sides to this story, not just what Amazon says. I'm not willing to give up my quality of life for another data center so Amazon can make more money.\"",
+    "src": "https://www.tricitiesbusinessnews.com/articles/8340-amazon-works-to-stem-data-center-fears-at-burbank-open-house"
+   },
+   {
+    "para": 1,
+    "t": "Roger Wehner, the Port of Walla Walla's vice president for economic development, told the crowd that any major industrial project should have questions, and that \"we need to have this broader conversation.\"",
+    "src": "https://www.tricitiesbusinessnews.com/articles/8340-amazon-works-to-stem-data-center-fears-at-burbank-open-house"
+   },
+   {
+    "para": 2,
+    "t": "The Walla Walla Anti-Data Center League has asked the county for a one-year moratorium on new data center projects.",
+    "src": "https://www.union-bulletin.com/news/local/governments/walla-walla-county-opens-comment-period-for-amazon-data-center/article_acf4a821-f1d5-4558-825f-7d9240b5d1fd.html"
+   },
+   {
+    "para": 2,
+    "t": "County commissioners Todd Kimball, Gunner Fulmer and Bertha Clayton have declined to take up a moratorium, The News Tribune reported.",
+    "src": "https://www.thenewstribune.com/news/state/washington/article317311527.html"
+   },
+   {
+    "para": 2,
+    "t": "Port officials say the project would grow the county's tax base by half during its four construction phases.",
+    "src": "https://www.tricitiesbusinessnews.com/articles/8340-amazon-works-to-stem-data-center-fears-at-burbank-open-house"
+   },
+   {
+    "para": 2,
+    "t": "Public comment on the permit is open through October 12, 2026, with a second comment period to follow once the county finishes its environmental review.",
+    "src": "https://www.union-bulletin.com/news/local/governments/walla-walla-county-opens-comment-period-for-amazon-data-center/article_acf4a821-f1d5-4558-825f-7d9240b5d1fd.html"
+   }
+  ],
+  "sources": [
+   "https://www.union-bulletin.com/news/local/governments/walla-walla-county-opens-comment-period-for-amazon-data-center/article_acf4a821-f1d5-4558-825f-7d9240b5d1fd.html",
+   "https://elkhornmediagroup.com/public-comment-period-opens-for-proposed-amazon-data-center-in-wallula/",
+   "https://www.tricitiesbusinessnews.com/articles/8340-amazon-works-to-stem-data-center-fears-at-burbank-open-house",
+   "https://www.thenewstribune.com/news/state/washington/article317311527.html"
+  ],
+  "unconfirmed": "Amazon has not disclosed a projected electricity demand figure for the campus in the reporting we found."
+ },
+ {
+  "id": "amazon-aws-lake-anna-tech",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Lake Anna Technology Campus covers 153 acres at the corner of Kentucky Springs Road and Haley Drive in Louisa County, Virginia, next door to Dominion's North Anna nuclear station.",
+    "src": "https://tammypurcell.substack.com/p/aws-preparing-to-start-work-at-lake"
+   },
+   {
+    "para": 0,
+    "t": "AWS plans seven standard data centers, two specialty ones and an administration building, about 1.7 million square feet, drawing a minimum of 420 megawatts.",
+    "src": "https://tammypurcell.substack.com/p/aws-preparing-to-start-work-at-lake"
+   },
+   {
+    "para": 0,
+    "t": "Two 300 megawatt substations will serve it, one owned by Dominion and one by Rappahannock Electric Cooperative.",
+    "src": "https://tammypurcell.substack.com/p/aws-preparing-to-start-work-at-lake"
+   },
+   {
+    "para": 0,
+    "t": "North Anna's two Westinghouse reactors produce 1.8 gigawatts.",
+    "src": "https://tammypurcell.substack.com/p/aws-preparing-to-start-work-at-lake"
+   },
+   {
+    "para": 1,
+    "t": "A pre construction meeting was held on July 17, 2024, the land disturbance permit came through that week, and groundbreaking followed within weeks.",
+    "src": "https://tammypurcell.substack.com/p/aws-preparing-to-start-work-at-lake"
+   },
+   {
+    "para": 1,
+    "t": "The first data center was meant to come online in late 2025 or early 2026, with the whole campus taking four to five years.",
+    "src": "https://tammypurcell.substack.com/p/aws-preparing-to-start-work-at-lake"
+   },
+   {
+    "para": 2,
+    "t": "The questions residents keep asking are about water and electricity.",
+    "src": "https://tammypurcell.substack.com/p/aws-preparing-to-start-work-at-lake"
+   },
+   {
+    "para": 2,
+    "t": "The campus is water cooled and will average 630,000 gallons a day at full build.",
+    "src": "https://tammypurcell.substack.com/p/aws-preparing-to-start-work-at-lake"
+   },
+   {
+    "para": 2,
+    "t": "Water comes from wells on the site until an 11 mile raw water line from the county's Northeast Creek Reservoir is finished, which was scheduled for January 2027.",
+    "src": "https://tammypurcell.substack.com/p/aws-preparing-to-start-work-at-lake"
+   },
+   {
+    "para": 2,
+    "t": "That reservoir has a safe yield of 3.2 million gallons a day and its current users take about 300,000, peaking at 500,000.",
+    "src": "https://tammypurcell.substack.com/p/aws-preparing-to-start-work-at-lake"
+   },
+   {
+    "para": 3,
+    "t": "Chris McCotter, the Cuckoo District supervisor, said, \"I think that communication is incredibly important,\" and that he had stressed to the developer that the county needs to understand what it is being asked to endure.",
+    "src": "https://tammypurcell.substack.com/p/aws-preparing-to-start-work-at-lake"
+   },
+   {
+    "para": 3,
+    "t": "Andy Wade, the county's economic development director, estimated a single data center here could return just over $2 million a year in tax revenue over a 15-year period.",
+    "src": "https://tammypurcell.substack.com/p/aws-preparing-to-start-work-at-lake"
+   },
+   {
+    "para": 4,
+    "t": "Elsewhere in Louisa County, a homeowner living across the road from AWS's Northeast Creek campus sued the company in federal court in August 2025 over dust, night noise, light and well water that turned brown, and a judge let the nuisance claim proceed.",
+    "src": "https://www.fredericksburgfreepress.com/2026/07/28/brown-water-dust-and-loud-noises-louisa-homeowner-sues-amazon-over-data-center-construction/"
+   }
+  ],
+  "sources": [
+   "https://tammypurcell.substack.com/p/aws-preparing-to-start-work-at-lake",
+   "https://www.fredericksburgfreepress.com/2026/07/28/brown-water-dust-and-loud-noises-louisa-homeowner-sues-amazon-over-data-center-construction/"
+  ],
+  "unconfirmed": "No complaint comparable to the nuisance case at Amazon's Northeast Creek campus has been reported at Lake Anna."
+ },
+ {
+  "id": "amazon-aws-northeast-creek-technology",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Northeast Creek Technology Campus sits east of Desper Creek off Jefferson Highway in Louisa County, next to a property on US Route 33 owned by Austin Newsom, who runs the boat repair and detailing business Central VA Marine.",
+    "src": "https://www.yahoo.com/news/us/articles/homeowner-sues-amazon-data-center-110030952.html"
+   },
+   {
+    "para": 0,
+    "t": "Construction began in March 2025 on what court filings describe as 10 data center buildings and three electrical substations.",
+    "src": "https://www.yahoo.com/news/us/articles/homeowner-sues-amazon-data-center-110030952.html"
+   },
+   {
+    "para": 1,
+    "t": "In 2025 Newsom sued Amazon Data Services Inc. in the U.S. District Court for the Western District of Virginia, in a private nuisance case that also names his business as a plaintiff.",
+    "src": "https://www.jdsupra.com/legalnews/data-center-developers-take-note-1880251/"
+   },
+   {
+    "para": 1,
+    "t": "He says the construction next door has brought noise that violates the county's noise ordinance, turned his well water brown, flooded his property, cracked the walls of his home from machinery vibration, covered the area in dust, lit up his nights and driven away customers from his boat business.",
+    "src": "https://www.yahoo.com/news/us/articles/homeowner-sues-amazon-data-center-110030952.html"
+   },
+   {
+    "para": 1,
+    "t": "Newsom says he had put more than $80,000 into renovating the home and that a real estate agent has told him it is now hard to sell.",
+    "src": "https://www.yahoo.com/news/us/articles/homeowner-sues-amazon-data-center-110030952.html"
+   },
+   {
+    "para": 1,
+    "t": "\"Now it's just chaos all the time,\" Newsom told Realtor.com in an interview published on August 7, 2026, adding that he should not have to deal with something all day, every day.",
+    "src": "https://www.yahoo.com/news/us/articles/homeowner-sues-amazon-data-center-110030952.html"
+   },
+   {
+    "para": 2,
+    "t": "On July 10, 2026, U.S. District Judge Jasmine H. Yoon rejected Amazon's motion to dismiss the case, ruling that the noise, dust, lights, vibration and flooding should be weighed together, not separately, in deciding whether the project unreasonably interferes with the Newsoms' use of their property.",
+    "src": "https://www.jdsupra.com/legalnews/data-center-developers-take-note-1880251/"
+   },
+   {
+    "para": 2,
+    "t": "The case, Newsom v. Amazon Data Services Inc., is still pending.",
+    "src": "https://www.jdsupra.com/legalnews/data-center-developers-take-note-1880251/"
+   }
+  ],
+  "sources": [
+   "https://www.yahoo.com/news/us/articles/homeowner-sues-amazon-data-center-110030952.html",
+   "https://www.jdsupra.com/legalnews/data-center-developers-take-note-1880251/"
+  ],
+  "unconfirmed": "Our own project record still lists the Northeast Creek campus as proposed rather than under construction, which the court filings and the reporting contradict; the discrepancy could not be resolved."
+ },
+ {
+  "id": "amazon-aws-desper-creek-technology",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "AWS has filed plans for the Desper Creek Technology Campus, a proposed multi building data center at Jefferson Highway and Shannon Hill Road in Louisa County, Virginia.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It sits about four kilometers from the company's Northeast Creek Technology Campus, which is where the trouble is.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Austin Newsom lives across the road from Northeast Creek and runs a boat repair and detailing business there.",
+    "src": "https://www.fredericksburgfreepress.com/2026/07/28/brown-water-dust-and-loud-noises-louisa-homeowner-sues-amazon-over-data-center-construction/"
+   },
+   {
+    "para": 1,
+    "t": "When construction started in March 2025 he began reporting problems to the county: trucks throwing up clouds of dust, noise late into the night, and light from the site coming into his children's bedroom.",
+    "src": "https://www.fredericksburgfreepress.com/2026/07/28/brown-water-dust-and-loud-noises-louisa-homeowner-sues-amazon-over-data-center-construction/"
+   },
+   {
+    "para": 1,
+    "t": "Then his tap water turned muddy brown, on and off, for months.",
+    "src": "https://www.fredericksburgfreepress.com/2026/07/28/brown-water-dust-and-loud-noises-louisa-homeowner-sues-amazon-over-data-center-construction/"
+   },
+   {
+    "para": 1,
+    "t": "The well had come through four major droughts since the 1950s without going bad.",
+    "src": "https://www.fredericksburgfreepress.com/2026/07/28/brown-water-dust-and-loud-noises-louisa-homeowner-sues-amazon-over-data-center-construction/"
+   },
+   {
+    "para": 2,
+    "t": "Newsom sued Amazon in August 2025 in the US District Court for the Western District of Virginia, at Charlottesville.",
+    "src": "https://www.fredericksburgfreepress.com/2026/07/28/brown-water-dust-and-loud-noises-louisa-homeowner-sues-amazon-over-data-center-construction/"
+   },
+   {
+    "para": 2,
+    "t": "He says construction vibration cracked his foundation, that drainage was disrupted, and that buyers walked away once they learned what was going up across the street.",
+    "src": "https://www.fredericksburgfreepress.com/2026/07/28/brown-water-dust-and-loud-noises-louisa-homeowner-sues-amazon-over-data-center-construction/"
+   },
+   {
+    "para": 2,
+    "t": "Amazon argued that the brown water, the noise, the diminished air quality and the light pollution were \"each insubstantial and thus require dismissal of the entire nuisance claim,\" and says it has run street sweepers and water trucks to hold the dust down.",
+    "src": "https://www.fredericksburgfreepress.com/2026/07/28/brown-water-dust-and-loud-noises-louisa-homeowner-sues-amazon-over-data-center-construction/"
+   },
+   {
+    "para": 2,
+    "t": "Judge Jasmine H. Yoon let the nuisance claim go forward and threw out a separate claim for an injunction, with a preliminary hearing set for August 19, 2026.",
+    "src": "https://www.fredericksburgfreepress.com/2026/07/28/brown-water-dust-and-loud-noises-louisa-homeowner-sues-amazon-over-data-center-construction/"
+   },
+   {
+    "para": 2,
+    "t": "Duane Adams, who chairs the county board of supervisors, said he had treated the Newsoms as he does all his constituents and tried to be responsive, to help address issues affecting them and to help mitigate the circumstances.",
+    "src": "https://www.fredericksburgfreepress.com/2026/07/28/brown-water-dust-and-loud-noises-louisa-homeowner-sues-amazon-over-data-center-construction/"
+   },
+   {
+    "para": 2,
+    "t": "\"One person can make a difference,\" Newsom said.",
+    "src": "https://www.fredericksburgfreepress.com/2026/07/28/brown-water-dust-and-loud-noises-louisa-homeowner-sues-amazon-over-data-center-construction/"
+   },
+   {
+    "para": 3,
+    "t": "Northeast Creek is Amazon's second campus in Louisa County and is planned at ten buildings with three substations, finishing in 2031.",
+    "src": "https://www.fredericksburgfreepress.com/2026/07/28/brown-water-dust-and-loud-noises-louisa-homeowner-sues-amazon-over-data-center-construction/"
+   },
+   {
+    "para": 3,
+    "t": "Desper Creek itself has not been built.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://www.fredericksburgfreepress.com/2026/07/28/brown-water-dust-and-loud-noises-louisa-homeowner-sues-amazon-over-data-center-construction/"
+  ],
+  "unconfirmed": "Nothing of the kind reported at Northeast Creek has been reported at Desper Creek, which has not been built. No capacity figure or building count for Desper Creek has been published."
+ },
+ {
+  "id": "amazon-aws-louisa-county-third",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon Web Services withdrew its plan for a third data center campus in Louisa County in the last week of July 2025, after residents packed a public meeting at a local Baptist church wearing stickers reading \"Don't Loudoun my Louisa,\" a reference to the sprawl of data centers in Loudoun County to the north.",
+    "src": "https://www.techtarget.com/it-infrastructure/news/366628222/AWS-tables-Virginia-data-center-after-community-pushback"
+   },
+   {
+    "para": 0,
+    "t": "The proposal would have covered 1,370 acres with 7.2 million square feet of buildings, big enough to rank among the largest data center campuses in the world.",
+    "src": "https://www.techtarget.com/it-infrastructure/news/366628222/AWS-tables-Virginia-data-center-after-community-pushback"
+   },
+   {
+    "para": 0,
+    "t": "Residents raised concerns about water availability and the effect on the rural county's landscape.",
+    "src": "https://www.techtarget.com/it-infrastructure/news/366628222/AWS-tables-Virginia-data-center-after-community-pushback"
+   },
+   {
+    "para": 1,
+    "t": "AWS had told the county the project could bring up to 864 jobs and as much as $144 million in gross tax revenue.",
+    "src": "https://www.techtarget.com/it-infrastructure/news/366628222/AWS-tables-Virginia-data-center-after-community-pushback"
+   },
+   {
+    "para": 1,
+    "t": "AWS attorney Charles W. Payne Jr. told the county, \"We have heard the community and appreciate the desire for more robust input in any future projects.\"",
+    "src": "https://www.techtarget.com/it-infrastructure/news/366628222/AWS-tables-Virginia-data-center-after-community-pushback"
+   },
+   {
+    "para": 1,
+    "t": "Louisa County has since revised the technology overlay rules it adopted in 2018, now requiring a conditional use permit and community input for new data center projects instead of allowing them to be built by right.",
+    "src": "https://www.techtarget.com/it-infrastructure/news/366628222/AWS-tables-Virginia-data-center-after-community-pushback"
+   }
+  ],
+  "sources": [
+   "https://www.techtarget.com/it-infrastructure/news/366628222/AWS-tables-Virginia-data-center-after-community-pushback"
+  ],
+  "unconfirmed": "The exact site location within Louisa County was not specified in the source we found."
+ },
+ {
+  "id": "amazon-aws-stevensburg-culpeper",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The land AWS is building on at Stevensburg, on State Route 3 in Culpeper County, was a working horse farm.",
+    "src": "https://www.bisnow.com/national/news/data-center/proposed-data-center-development-prompts-lawsuit-in-northern-virginia-112941"
+   },
+   {
+    "para": 0,
+    "t": "An Amazon subsidiary, Marvell Developments, applied in January 2022 to rezone 230 acres of it, with about 22 acres to be used for the data center itself and a 12 acre power station alongside.",
+    "src": "https://www.bisnow.com/national/news/data-center/proposed-data-center-development-prompts-lawsuit-in-northern-virginia-112941"
+   },
+   {
+    "para": 1,
+    "t": "More than two dozen people spoke against the plan at the planning commission's first review of it.",
+    "src": "https://www.bisnow.com/national/news/data-center/proposed-data-center-development-prompts-lawsuit-in-northern-virginia-112941"
+   },
+   {
+    "para": 1,
+    "t": "What they objected to was losing farmland, and the view from a planned Civil War battlefields state park, and a 50 foot building with lights and security fencing where the horse farm had been.",
+    "src": "https://www.bisnow.com/national/news/data-center/proposed-data-center-development-prompts-lawsuit-in-northern-virginia-112941"
+   },
+   {
+    "para": 1,
+    "t": "The commission narrowly voted to deny the rezoning.",
+    "src": "https://www.bisnow.com/national/news/data-center/proposed-data-center-development-prompts-lawsuit-in-northern-virginia-112941"
+   },
+   {
+    "para": 1,
+    "t": "In April 2022 the county board of supervisors approved it anyway, 4 to 3, with chairman Gary Deal among those in favor.",
+    "src": "https://www.bisnow.com/national/news/data-center/proposed-data-center-development-prompts-lawsuit-in-northern-virginia-112941"
+   },
+   {
+    "para": 2,
+    "t": "On May 9, 2022 six neighboring landowners, among them Alan Davis and Ralph Pritt, sued the supervisors in Culpeper County District Court to void the decision.",
+    "src": "https://www.bisnow.com/national/news/data-center/proposed-data-center-development-prompts-lawsuit-in-northern-virginia-112941"
+   },
+   {
+    "para": 2,
+    "t": "Their argument was spot zoning: the nearest land zoned industrial is more than six miles away, and the county already had five areas set aside for data centers, so singling out this one farm broke state and local law.",
+    "src": "https://www.bisnow.com/national/news/data-center/proposed-data-center-development-prompts-lawsuit-in-northern-virginia-112941"
+   },
+   {
+    "para": 3,
+    "t": "The campus was built.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Culpeper County tightened its zoning rules for data centers on September 2, 2025, and the neighboring town of Warrenton banned them outright on July 1, 2025.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.bisnow.com/national/news/data-center/proposed-data-center-development-prompts-lawsuit-in-northern-virginia-112941"
+  ],
+  "unconfirmed": "The outcome of the 2022 spot zoning suit could not be established; the Culpeper Star-Exponent and Fredericksburg Free Lance-Star reports on it would not load, and no later coverage of a ruling was found. Accounts of the building size differ, ranging from about 430,000 to 500,000 square feet, so no figure is given here."
+ },
+ {
+  "id": "amazon-aws-manassas-tanner-way",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Great Oak is a subdivision of 291 single family homes south of Manassas.",
+    "src": "https://thenewenergycrisis.com/updates/coming-crackdown-on-data-center-noise-likely-won-t-bring-relief-to-a-community-most-affected"
+   },
+   {
+    "para": 0,
+    "t": "An Amazon data center complex stands about 400 feet from the nearest properties, and residents there have been complaining about the sound since the spring of 2022.",
+    "src": "https://thenewenergycrisis.com/updates/coming-crackdown-on-data-center-noise-likely-won-t-bring-relief-to-a-community-most-affected"
+   },
+   {
+    "para": 1,
+    "t": "AWS Manassas Tanner Way is a four building campus of 795,191 square feet and is operating.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "The noise residents object to is not the servers but the air conditioning units on the roofs, running without pause.",
+    "src": "https://www.fox5dc.com/news/manassas-residents-protest-over-noise-pollution-from-amazon-data-center"
+   },
+   {
+    "para": 2,
+    "t": "Fred Kurst, who lives in Great Oak, described it this way: \"It's like being on a tarmac with an airplane engine running constantly. Except that the airplane keeps idling and never leaves.\"",
+    "src": "https://insideclimatenews.org/news/10022023/virginia-data-centers-amazon-prince-william-county/"
+   },
+   {
+    "para": 2,
+    "t": "Lori Haskell, a city administrator who lives nearby, said: \"And once you hear this sound, you can never unhear it.\"",
+    "src": "https://insideclimatenews.org/news/10022023/virginia-data-centers-amazon-prince-william-county/"
+   },
+   {
+    "para": 2,
+    "t": "Carlos Yanes, on Winged Elm Circle, said: \"My 7-year-old wakes up and says he thinks there is a spaceship outside our house.\" He added that it is beyond frustration that he cannot protect his children.",
+    "src": "https://thenewenergycrisis.com/updates/coming-crackdown-on-data-center-noise-likely-won-t-bring-relief-to-a-community-most-affected"
+   },
+   {
+    "para": 2,
+    "t": "Dale Browne, who chairs the Great Oak homeowners association, said of one neighbor: \"We have a neighbor who replaced every window in his house in hopes of getting a resolution but that didn't help.\"",
+    "src": "https://insideclimatenews.org/news/10022023/virginia-data-centers-amazon-prince-william-county/"
+   },
+   {
+    "para": 3,
+    "t": "Residents held a press conference in August 2022 and showed reporters decibel readings they had taken themselves, asking the board of supervisors to update a noise ordinance written in 1989 and never revised since.",
+    "src": "https://www.fox5dc.com/news/manassas-residents-protest-over-noise-pollution-from-amazon-data-center"
+   },
+   {
+    "para": 3,
+    "t": "A county data center advisory group was assembled in July 2023, and in November 2024 industry representatives were removed from it.",
+    "src": "https://thenewenergycrisis.com/updates/coming-crackdown-on-data-center-noise-likely-won-t-bring-relief-to-a-community-most-affected"
+   },
+   {
+    "para": 3,
+    "t": "Browne said in 2025: \"The process has been slow but it's starting to produce results.\"",
+    "src": "https://thenewenergycrisis.com/updates/coming-crackdown-on-data-center-noise-likely-won-t-bring-relief-to-a-community-most-affected"
+   },
+   {
+    "para": 4,
+    "t": "Sarah Georgiades, Amazon's head of community engagement, said the data in a recently completed sound study \"demonstrates that (Amazon Web Services') efforts have significantly reduced sound, and that AWS is in compliance with applicable law.\"",
+    "src": "https://thenewenergycrisis.com/updates/coming-crackdown-on-data-center-noise-likely-won-t-bring-relief-to-a-community-most-affected"
+   },
+   {
+    "para": 4,
+    "t": "The advisory group's experts had proposed limits of 52 decibels by day and 47 at night in residential areas.",
+    "src": "https://thenewenergycrisis.com/updates/coming-crackdown-on-data-center-noise-likely-won-t-bring-relief-to-a-community-most-affected"
+   },
+   {
+    "para": 4,
+    "t": "What the board passed on October 30, 2025, by 5 votes to 2, was 73 decibels by day and 68 at night in industrial areas, above the 67 and 62 its own consultants had recommended.",
+    "src": "https://www.princewilliamtimes.com/news/supervisors-ok-compromise-noise-ordinance-aimed-at-data-centers/article_1288e464-5559-4c12-ab8f-2a28ca28d819.html"
+   },
+   {
+    "para": 4,
+    "t": "Kathy Kulick, a Gainesville resident who had served on the advisory group, said: \"It doesn't provide any meaningful relief at all. There was little to no discussion about the victims in all of this, the residents who can't sleep at night in their homes.\"",
+    "src": "https://www.princewilliamtimes.com/news/supervisors-ok-compromise-noise-ordinance-aimed-at-data-centers/article_1288e464-5559-4c12-ab8f-2a28ca28d819.html"
+   },
+   {
+    "para": 5,
+    "t": "Great Oak may eventually be ringed by as many as 12 data center campuses.",
+    "src": "https://thenewenergycrisis.com/updates/coming-crackdown-on-data-center-noise-likely-won-t-bring-relief-to-a-community-most-affected"
+   },
+   {
+    "para": 5,
+    "t": "At least nine other campuses run by AWS, CloudHQ, QTS, STACK Infrastructure and Iron Mountain already sit within five kilometers of this one.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://thenewenergycrisis.com/updates/coming-crackdown-on-data-center-noise-likely-won-t-bring-relief-to-a-community-most-affected",
+   "https://insideclimatenews.org/news/10022023/virginia-data-centers-amazon-prince-william-county/",
+   "https://www.fox5dc.com/news/manassas-residents-protest-over-noise-pollution-from-amazon-data-center",
+   "https://www.princewilliamtimes.com/news/supervisors-ok-compromise-noise-ordinance-aimed-at-data-centers/article_1288e464-5559-4c12-ab8f-2a28ca28d819.html"
+  ],
+  "unconfirmed": "Most of the noise coverage says only \"an Amazon data center complex\" next to Great Oak and does not name the campus. One trade report names Tanner Way as the one residents object to, but that page would not load, so the identification could not be confirmed from a source we read. No decibel reading taken at Great Oak has been published as a figure, and no capacity figure for this campus was found."
+ },
+ {
+  "id": "amazon-aws-manassas-innovation-drive",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "AWS Manassas Innovation Drive, at 9680 Innovation Drive, is an operating data center in Prince William County.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Prince William County now has 18 data centers.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "The county is where Virginia's argument about this industry has been loudest.",
+    "src": "https://insideclimatenews.org/news/10022023/virginia-data-centers-amazon-prince-william-county/"
+   },
+   {
+    "para": 1,
+    "t": "By early 2023 it had 33 data centers on about 523 acres with 13 more under construction, and 83 million square feet operating or planned.",
+    "src": "https://insideclimatenews.org/news/10022023/virginia-data-centers-amazon-prince-william-county/"
+   },
+   {
+    "para": 1,
+    "t": "On November 1, 2022, after a public hearing that ran about ten hours, the board of supervisors approved the Digital Gateway proposal.",
+    "src": "https://insideclimatenews.org/news/10022023/virginia-data-centers-amazon-prince-william-county/"
+   },
+   {
+    "para": 1,
+    "t": "Bill Wright, a retired Navy captain who opposed it, said that with the Digital Gateway added \"the county overshot its own benchmark by 74 percent.\"",
+    "src": "https://insideclimatenews.org/news/10022023/virginia-data-centers-amazon-prince-william-county/"
+   },
+   {
+    "para": 2,
+    "t": "The noise rules that govern campuses like this one were written in 1989 and left air conditioning noise out.",
+    "src": "https://www.fox5dc.com/news/manassas-residents-protest-over-noise-pollution-from-amazon-data-center"
+   },
+   {
+    "para": 2,
+    "t": "On October 30, 2025 the board voted 5 to 2 for new limits of 73 decibels by day and 68 at night in industrial areas, higher than the 67 and 62 its consultants had proposed.",
+    "src": "https://www.princewilliamtimes.com/news/supervisors-ok-compromise-noise-ordinance-aimed-at-data-centers/article_1288e464-5559-4c12-ab8f-2a28ca28d819.html"
+   },
+   {
+    "para": 2,
+    "t": "Supervisor Yesli Vega and board chair Deshundra Jefferson voted against.",
+    "src": "https://www.princewilliamtimes.com/news/supervisors-ok-compromise-noise-ordinance-aimed-at-data-centers/article_1288e464-5559-4c12-ab8f-2a28ca28d819.html"
+   },
+   {
+    "para": 2,
+    "t": "Supervisor Kenny Boddye, who wrote the revised version, said a stricter rule would fall hardest on small businesses: \"If you have a mom-and-pop shop that doesn't have the sophistication to measure (noise) and then remediate, we would not want to send the message that, on one hand, we want more diversity of businesses, but, on the other hand, only data centers would have the means to remediate.\"",
+    "src": "https://www.princewilliamtimes.com/news/supervisors-ok-compromise-noise-ordinance-aimed-at-data-centers/article_1288e464-5559-4c12-ab8f-2a28ca28d819.html"
+   },
+   {
+    "para": 2,
+    "t": "Supervisor Tom Gordy asked staff to report back in 2027 on whether it works.",
+    "src": "https://www.princewilliamtimes.com/news/supervisors-ok-compromise-noise-ordinance-aimed-at-data-centers/article_1288e464-5559-4c12-ab8f-2a28ca28d819.html"
+   },
+   {
+    "para": 2,
+    "t": "The county board tightened its zoning rules for the industry on March 4, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://insideclimatenews.org/news/10022023/virginia-data-centers-amazon-prince-william-county/",
+   "https://www.princewilliamtimes.com/news/supervisors-ok-compromise-noise-ordinance-aimed-at-data-centers/article_1288e464-5559-4c12-ab8f-2a28ca28d819.html",
+   "https://www.fox5dc.com/news/manassas-residents-protest-over-noise-pollution-from-amazon-data-center"
+  ],
+  "unconfirmed": "Searches on the address with Manassas, on Manassas with data center, and on Amazon with Prince William County found no coverage naming this campus. Its size, building count, capacity and opening date are unknown, and nothing establishes whether it is among the sites residents have complained about."
+ },
+ {
+  "id": "amazon-aws-manassas-vulcan-lane",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "AWS Manassas Vulcan Lane, at 8401 Vulcan Lane in Prince William County, Virginia, is a proposed data center, part of a $152 million land purchase.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "At least nine other campuses, run by AWS, CloudHQ, STACK Infrastructure, QTS and Iron Mountain, sit within four kilometers.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Anything built here will go up under rules that changed after residents spent three years complaining.",
+    "src": "https://www.princewilliamtimes.com/news/supervisors-ok-compromise-noise-ordinance-aimed-at-data-centers/article_1288e464-5559-4c12-ab8f-2a28ca28d819.html"
+   },
+   {
+    "para": 1,
+    "t": "On October 30, 2025 the county board voted 5 to 2 to set noise limits of 73 decibels by day and 68 at night in industrial areas, above the 67 and 62 its consultants had recommended, and tightened its data center zoning rules on March 4, 2026.",
+    "src": "https://www.princewilliamtimes.com/news/supervisors-ok-compromise-noise-ordinance-aimed-at-data-centers/article_1288e464-5559-4c12-ab8f-2a28ca28d819.html"
+   },
+   {
+    "para": 1,
+    "t": "Kathy Kulick, who had sat on the county's data center advisory group, said of the noise vote: \"It doesn't provide any meaningful relief at all.\"",
+    "src": "https://www.princewilliamtimes.com/news/supervisors-ok-compromise-noise-ordinance-aimed-at-data-centers/article_1288e464-5559-4c12-ab8f-2a28ca28d819.html"
+   }
+  ],
+  "sources": [
+   "https://www.princewilliamtimes.com/news/supervisors-ok-compromise-noise-ordinance-aimed-at-data-centers/article_1288e464-5559-4c12-ab8f-2a28ca28d819.html"
+  ],
+  "unconfirmed": "Nothing has been published about the Vulcan Lane building itself: no capacity, square footage, building count or timetable."
+ },
+ {
+  "id": "amazon-aws-manassas-nokesville-road",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "AWS is building three data center buildings of about 250,000 square feet in total at 9720 Dean Drive and 9811 Nokesville Road, south of where Wellington Road meets Route 28 in the city of Manassas.",
+    "src": "https://baxtel.com/data-center/aws-nokesville-road-campus"
+   },
+   {
+    "para": 0,
+    "t": "The company bought the two vacant parcels in 2021 for $6.6 million between them.",
+    "src": "https://baxtel.com/data-center/aws-nokesville-road-campus"
+   },
+   {
+    "para": 0,
+    "t": "Amazon's internal names for the sites here are North Plaza and Hub Beta, and the campus is designated IAD-205, with completion expected in 2026.",
+    "src": "https://baxtel.com/data-center/aws-nokesville-road-campus"
+   },
+   {
+    "para": 0,
+    "t": "Two operating AWS campuses, Tanner Way and Innovation Drive, sit within a kilometer.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Manassas is a compact city of about ten square miles, and the council has been changing the rules under which campuses like this one get built.",
+    "src": "https://www.potomaclocal.com/2026/02/11/manassas-tightens-data-center-zoning-rules/"
+   },
+   {
+    "para": 1,
+    "t": "On February 9, 2026 it gave unanimous first reading approval to ordinance O-2026-455.",
+    "src": "https://www.potomaclocal.com/2026/02/11/manassas-tightens-data-center-zoning-rules/"
+   },
+   {
+    "para": 1,
+    "t": "It requires a noise study before construction showing the building will meet city standards, 20 percent glazing on any facade facing homes, variation in materials and colour to break up long walls, full screening of generators and air conditioning plant, and bigger setbacks from homes, childcare centers, parks and open space.",
+    "src": "https://www.potomaclocal.com/2026/02/11/manassas-tightens-data-center-zoning-rules/"
+   },
+   {
+    "para": 2,
+    "t": "Community development director Matt Arcieri said the city was \"trying to codify some of the items that we have been able to negotiate up to this point with existing data centers.\"",
+    "src": "https://www.potomaclocal.com/2026/02/11/manassas-tightens-data-center-zoning-rules/"
+   },
+   {
+    "para": 2,
+    "t": "Council member Ashley Hutson pushed for the design rules so that the buildings \"don't look like a big box with nothing on it.\"",
+    "src": "https://www.potomaclocal.com/2026/02/11/manassas-tightens-data-center-zoning-rules/"
+   },
+   {
+    "para": 2,
+    "t": "What residents had been raising with the city was constant low frequency noise from cooling plant and backup generators, blank walls, and industry sitting up against houses.",
+    "src": "https://www.potomaclocal.com/2026/02/11/manassas-tightens-data-center-zoning-rules/"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/data-center/aws-nokesville-road-campus",
+   "https://www.potomaclocal.com/2026/02/11/manassas-tightens-data-center-zoning-rules/"
+  ],
+  "unconfirmed": "No power capacity figure was found, and no record of a contested hearing on this campus itself. Whether the February 2026 rules apply to a campus already under construction is not stated in the coverage."
+ }
+]

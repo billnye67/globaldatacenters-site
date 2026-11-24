@@ -1,0 +1,561 @@
+[
+ {
+  "id": "ft-515",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "IREN's Childress data center is 576 acres of freehold land in west Texas with a total capacity of 750 megawatts, which is what the record carries.",
+    "src": "https://iren.com/data-centers/childress"
+   },
+   {
+    "para": 0,
+    "t": "It connects straight to the ERCOT grid through substations the company owns itself, has two physically separate fibre paths, and uses both air and liquid cooling.",
+    "src": "https://iren.com/data-centers/childress"
+   },
+   {
+    "para": 0,
+    "t": "The company presents it as its largest operational site, with capacity available to reserve.",
+    "src": "https://iren.com/data-centers/childress"
+   },
+   {
+    "para": 0,
+    "t": "The entry marks it operating.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "What makes Childress unusual is how much is stacked on one small county.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "A Lancium proposal sits a kilometre away and the 100 megawatt Project Fei four, and three data center sites are counted in the county.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The 240 megawatt Misae solar plant is four kilometres off, and after that the nearest generation is 51 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Childress County has no moratorium; the statewide measure the record attaches, dated August 3, 2026, is Governor Abbott's direction to the Public Utility Commission of Texas and ERCOT to review the electricity and water demands, infrastructure, tax incentives, ownership and community effects of data centers seeking to connect to the grid.",
+    "src": "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+   },
+   {
+    "para": 2,
+    "t": "No objection to the site has been recorded.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "For scale, 750 megawatts on one site is about one percent of ERCOT's peak load, which the record puts at 73,825 megawatts.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [
+   "https://iren.com/data-centers/childress",
+   "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+  ],
+  "unconfirmed": "Everything above comes from the operator's own page, which gives no build dates, no water figure and no employment. Reporting elsewhere says IREN delivered a first phase of AI capacity to Microsoft here and that a separate Crusoe and Lancium campus of one gigawatt on 270 acres is planned nearby; the Data Center Dynamics articles our record cites refuse our requests. How much of the 750 megawatts is actually energised is unknown."
+ },
+ {
+  "id": "ft-514",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A Lancium data center campus of 3,720 acres is recorded on County Road AA at Childress, in Childress County, Texas.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The entry holds no capacity figure for it and three sources, a post on X, the state comptroller's list of certified data centers and a trade listing, none of which was opened.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Three thousand seven hundred and twenty acres is roughly six square miles.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "What is documented is the site next door.",
+    "src": "https://iren.com/data-centers/childress"
+   },
+   {
+    "para": 1,
+    "t": "IREN's Childress data center, a kilometre away, is 576 acres and 750 megawatts, connected straight to ERCOT through substations the company owns, with dual fibre and air and liquid cooling.",
+    "src": "https://iren.com/data-centers/childress"
+   },
+   {
+    "para": 1,
+    "t": "The 240 megawatt Misae solar plant is four kilometres from both, and the next generation of any size is 50 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "Three data center sites are counted in Childress County, and all three sit within four kilometres of each other.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Childress County has written no moratorium on data centers, and nobody has objected to this one.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://iren.com/data-centers/childress"
+  ],
+  "unconfirmed": "None of the three sources in our record was read. No megawatt figure, building plan, application, timetable or local process was established for the Lancium site. Reporting we could see in search results describes a Crusoe and Lancium partnership on a one gigawatt campus at Childress on 270 acres, with Lancium owning the land and managing the energy; that is a different acreage from our 3,720 and we could not reconcile them."
+ },
+ {
+  "id": "ft-516",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A petition with 5,047 signatures was handed to the College Station council, in Brazos County, and more than 75 people signed up to speak.",
+    "src": "https://www.kbtx.com/2025/09/12/college-station-city-council-unanimously-rejects-land-sale-ai-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "On the night of Thursday, September 11, 2025, after nearly six hours, the city council voted unanimously against selling up to 200 acres in the Midtown Business Park for an AI data center.",
+    "src": "https://www.kbtx.com/2025/09/12/college-station-city-council-unanimously-rejects-land-sale-ai-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The buyer would have been Priority Power Management, led by Brandon Schwertner, a Texas A&M graduate.",
+    "src": "https://www.kbtx.com/2025/09/12/college-station-city-council-unanimously-rejects-land-sale-ai-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 200 acres, 600 megawatts and $300 million and marks the project cancelled.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The company's case was that this was not what people feared.",
+    "src": "https://www.kbtx.com/2025/09/12/college-station-city-council-unanimously-rejects-land-sale-ai-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Brandon Schwertner said: \"Cryptocurrency miners are loud and inefficient. Hyperscale data centers like this use closed-loop cooling systems and are quieter, about 40 to 50 decibels, which is like a small office.\"",
+    "src": "https://www.kbtx.com/2025/09/12/college-station-city-council-unanimously-rejects-land-sale-ai-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "The objections were noise, strain on infrastructure, utility demand, property values and the speed of it.",
+    "src": "https://www.kbtx.com/2025/09/12/college-station-city-council-unanimously-rejects-land-sale-ai-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Stephen Martin said: \"This is not family-friendly, and the fact that it was pushed out in a matter of six or seven days is unacceptable.\"",
+    "src": "https://www.kbtx.com/2025/09/12/college-station-city-council-unanimously-rejects-land-sale-ai-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Councilmember Bob Yancy said: \"It's been a 'no' for 11 months, and I'm still a hard no today.\"",
+    "src": "https://www.kbtx.com/2025/09/12/college-station-city-council-unanimously-rejects-land-sale-ai-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Councilmember Melissa McIlhaney said the development approval process \"needs to be reassessed and redesigned.\"",
+    "src": "https://www.kbtx.com/2025/09/12/college-station-city-council-unanimously-rejects-land-sale-ai-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Brazos County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "A chip manufacturing plant the record notes is not a data center is 22 kilometres away and a Cipher site 29.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 204 megawatt Dansby plant is 26 kilometres off and the 860 megawatt Tenaska Frontier station 33.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "College Station has written no moratorium on data centers; it simply declined to sell the land.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.kbtx.com/2025/09/12/college-station-city-council-unanimously-rejects-land-sale-ai-data-center/"
+  ],
+  "unconfirmed": "The report gives no megawatt figure and no land price; our 600 megawatts and $300 million are uncorroborated here, and the $300 million appears to be a capital cost rather than the price of the land, which was reported elsewhere as $30 million. The article is dated September 12, 2025 and the vote was the Thursday night before. Whether Priority Power has looked elsewhere in the county is unknown."
+ },
+ {
+  "id": "ft-1768321303492-5854",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Army is offering pieces of its own bases, and Fort Hood, in Coryell County, Texas, is one of them.",
+    "src": "https://taskandpurpose.com/news/data-centers-army-bases/"
+   },
+   {
+    "para": 0,
+    "t": "The Department of Defense has asked for proposals to build AI data centers on underused land at Fort Hood, Fort Bragg, Fort Bliss and Dugway Proving Ground.",
+    "src": "https://taskandpurpose.com/news/data-centers-army-bases/"
+   },
+   {
+    "para": 0,
+    "t": "Fort Bliss and Dugway have been conditionally selected; Fort Hood and Fort Bragg are solicitations rather than commitments.",
+    "src": "https://taskandpurpose.com/news/data-centers-army-bases/"
+   },
+   {
+    "para": 0,
+    "t": "The entry puts the Fort Hood parcel at 207 acres and marks it proposed.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The detail that matters locally is how close it is.",
+    "src": "https://taskandpurpose.com/news/data-centers-army-bases/"
+   },
+   {
+    "para": 1,
+    "t": "The Fort Hood parcels sit within half a mile of homes and businesses.",
+    "src": "https://taskandpurpose.com/news/data-centers-army-bases/"
+   },
+   {
+    "para": 1,
+    "t": "Contractors bidding must describe their plans for \"local outreach and engagement for its potential deployment of the data center on the Properties to assess local sentiment and any risks or opposition to execution of the Project.\"",
+    "src": "https://taskandpurpose.com/news/data-centers-army-bases/"
+   },
+   {
+    "para": 1,
+    "t": "The Secretary of the Army, Dan Driscoll, called the Fort Bliss facility \"the first hyper-scale data center that the Pentagon has ever done\", and said AI \"is a strategic asset for the Army. It is a force multiplier, supports future transformation and requirements, keeps the Army ahead of our adversaries, and generates resiliency across the force.\"",
+    "src": "https://taskandpurpose.com/news/data-centers-army-bases/"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Coryell County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "Two Onmine entries at Killeen, one suspended and one blocked, are eleven kilometres away; the Killeen planning commission would not recommend that $30 million project.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The generation is far off: a 100 megawatt battery plant 46 kilometres away and the 1,580 megawatt Temple Power Station 48.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Coryell County has no moratorium; the statewide measure the record attaches, dated August 3, 2026, is Governor Abbott's direction to the Public Utility Commission of Texas and ERCOT to review data centers seeking to connect to the grid, their electricity and water demands, infrastructure, tax incentives, ownership and effect on communities.",
+    "src": "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+   }
+  ],
+  "sources": [
+   "https://taskandpurpose.com/news/data-centers-army-bases/",
+   "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+  ],
+  "unconfirmed": "No developer, megawatt figure, building plan or timetable exists for Fort Hood because it is a solicitation, not an award. Reporting we could see in search results says 207 acres are available to lease with 138 kilovolt transmission on site and 345 kilovolt adjacent, served by Oncor, and that the Wall Street Journal reported negotiations with Carlyle and CyrusOne; the Data Center Dynamics article our record cites refuses our requests."
+ },
+ {
+  "id": "ft-526",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A 1,000 megawatt data center is proposed on 235 acres in Ector County, Texas, from Texas Critical Data Centers.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The record rates its confidence low, gives no address beyond the county and cites one source that refuses requests; nothing else describing it was found.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Ector County is Odessa, and it is one of the few places in west Texas with large thermal generation already in place.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "The 300 megawatt Ector County Energy Center is 20 kilometres from the point the record uses, the 1,062 megawatt Odessa-Ector plant 23, the 472 megawatt Quail Run station 24 and a 460 megawatt solar hybrid 25.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "Even so, a thousand megawatts on one site would be more than any of them.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "Two data center sites are counted in Ector County, the other a Cipher site at Odessa 23 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Ector County has written no moratorium on data centers, and nobody has objected to this one.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record could not be read and searches produced nothing describing the project beyond a land acquisition. No buildings, timetable, power arrangement, tenant or local process was established, and our record rates its own confidence low."
+ },
+ {
+  "id": "ft-1776916882527-1931",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta built this El Paso data center so that it would not own it.",
+    "src": "https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso/"
+   },
+   {
+    "para": 0,
+    "t": "BlackRock funds take 80 percent of the campus and Meta keeps 20, in a venture costing about $14 billion, with BlackRock putting in roughly $4.9 billion in cash, Meta contributing land and construction-in-progress assets worth about $2.3 billion, and Meta taking a one-time distribution of about $1 billion.",
+    "src": "https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso/"
+   },
+   {
+    "para": 0,
+    "t": "The campus is to deliver a gigawatt of compute and begin operating in 2028.",
+    "src": "https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso/"
+   },
+   {
+    "para": 0,
+    "t": "The record names the developer as Wurldwide LLC, Meta and BlackRock, carries 600 acres, 1,000 megawatts and $10 billion, and marks it proposed.",
+    "src": "data:developer"
+   },
+   {
+    "para": 1,
+    "t": "The employment figures are the ones to hold onto.",
+    "src": "https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso/"
+   },
+   {
+    "para": 1,
+    "t": "More than 4,000 construction jobs at peak, with over 2,300 workers already on site, and 300 permanent operational posts when it is finished.",
+    "src": "https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso/"
+   },
+   {
+    "para": 1,
+    "t": "BlackRock has committed nearly $30 million through its Future Builders initiative to train more than 12,000 electricians over three years.",
+    "src": "https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso/"
+   },
+   {
+    "para": 1,
+    "t": "Meta gave $500,000 to El Paso public schools and says it supports local water restoration work through nonprofit partners.",
+    "src": "https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso/"
+   },
+   {
+    "para": 2,
+    "t": "Mark Zuckerberg framed it as infrastructure for superintelligence, saying building it is key to making sure the benefits are distributed to everyone.",
+    "src": "https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso/"
+   },
+   {
+    "para": 2,
+    "t": "Larry Fink, BlackRock's chief executive, said the campus would create thousands of skilled jobs.",
+    "src": "https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso/"
+   },
+   {
+    "para": 3,
+    "t": "This corner of Texas is on its own small grid.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 3,
+    "t": "The entry puts the site in the El Paso Electric control area, whose peak load is 2,147 megawatts, which makes a one gigawatt campus about half the size of the entire system it sits beside.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 3,
+    "t": "Four data center sites are counted in El Paso County: a Fort Bliss proposal 18 kilometres away, Meta's El Paso site under construction 28, a 5 megawatt Oppidan proposal 35 and OpenAI's Stargate New Mexico 36.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 931 megawatt Newman gas plant is six kilometres from the site and a 170 megawatt solar plant twelve.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso/"
+  ],
+  "unconfirmed": "Our 600 acres and $10 billion differ from the roughly 1,039 acres and $14 billion reported elsewhere, and how this entry relates to our separate Meta El Paso entry 28 kilometres away was not resolved. No water volume is published. Whether the campus draws on the El Paso Electric system or generates its own power is not stated in the announcement."
+ },
+ {
+  "id": "ft-527",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A data center park of 5,200 acres is proposed near Ferris, between Ellis and Dallas counties in Texas, from Cawley Partners.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The entry holds no capacity figure for it and one source that refuses requests; 5,200 acres is about eight square miles.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "What the record does show is the company it would join.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "QTS's South Dallas site at Wilmer is eight kilometres away, Stream's 140 acre Wilmer campus nine, DataBank's 292 acre Red Oak campus nine, STACK's Belt Line site eleven and Google's operating 77 megawatt Red Oak campus fifteen.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Nine data center sites are counted in Ellis County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "Fort Worth adopted a moratorium on data centers on August 13, 2026, the only local rule the record places near this site.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The generation nearby is a 196 megawatt solar hybrid 19 kilometres off, the 360 megawatt Ennis Power Company plant 25, the 1,770 megawatt Forney Energy Center 28 and the 915 megawatt Lake Hubbard plant 34.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record could not be read. Search results describe the site as South Creek Ranch, bought in April 2025 out of the trust of the late Trinity Industries chief executive W. Ray Wallace, with an initial 2,000 acres in the north for data centers and logistics and as many as 5,000 homes to follow, and a first building in two to three years; none of that is carried above. No megawatt figure, application or hearing was found."
+ },
+ {
+  "id": "ft-1768321818190-9332",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Fort Bliss, in El Paso County, Texas, is one of two places the Army has actually chosen for a data center.",
+    "src": "https://taskandpurpose.com/news/data-centers-army-bases/"
+   },
+   {
+    "para": 0,
+    "t": "It and Dugway Proving Ground in Utah were conditionally selected in late March 2026, out of four sites the Department of Defense put forward; Fort Bragg and Fort Hood remain open contracting requests.",
+    "src": "https://taskandpurpose.com/news/data-centers-army-bases/"
+   },
+   {
+    "para": 0,
+    "t": "The Secretary of the Army, Dan Driscoll, called the Fort Bliss facility \"the first hyper-scale data center that the Pentagon has ever done\", and said AI \"is a strategic asset for the Army. It is a force multiplier, supports future transformation and requirements, keeps the Army ahead of our adversaries, and generates resiliency across the force.\"",
+    "src": "https://taskandpurpose.com/news/data-centers-army-bases/"
+   },
+   {
+    "para": 0,
+    "t": "The entry puts the parcel at 1,384 acres and marks it proposed, with no developer and no capacity figure.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The conditional selection is not an award.",
+    "src": "https://taskandpurpose.com/news/data-centers-army-bases/"
+   },
+   {
+    "para": 1,
+    "t": "The Wall Street Journal reported negotiations with Carlyle and CyrusOne, and this account does not confirm a final award.",
+    "src": "https://taskandpurpose.com/news/data-centers-army-bases/"
+   },
+   {
+    "para": 1,
+    "t": "Contractors are required to address local outreach and to assess community sentiment and the risk of opposition, which at the companion site in Utah has already produced formal objection from the Skull Valley Band of Goshute Indians over groundwater.",
+    "src": "https://taskandpurpose.com/news/data-centers-army-bases/"
+   },
+   {
+    "para": 2,
+    "t": "El Paso is a small electrical island for this much load.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 2,
+    "t": "The entry puts the site in the El Paso Electric control area, peak load 2,147 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 2,
+    "t": "Four data center sites are counted in the county: Meta's El Paso campus under construction eleven kilometres away, the Meta and BlackRock venture eighteen, a 5 megawatt Oppidan proposal twenty and OpenAI's Stargate New Mexico thirty.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The 63 megawatt Copper plant is eight kilometres from the base, the 313 megawatt Rio Grande station fourteen and the 931 megawatt Newman plant eighteen.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://taskandpurpose.com/news/data-centers-army-bases/"
+  ],
+  "unconfirmed": "No megawatt figure, building plan, water arrangement or lease terms exist publicly, and the selection is conditional pending negotiation. Reporting elsewhere puts initial operating capability at Fort Bliss in the 2027 financial year; the article we read does not give a date. The Data Center Dynamics piece our record cites refuses our requests, and our 1,384 acres is uncorroborated."
+ },
+ {
+  "id": "ft-528",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Project Horizon is a data center on 568 acres of the Mitchell family's Longfellow Ranch in Pecos County, Texas, near Fort Stockton, planned as two gigawatts across eight phases of 250 megawatts.",
+    "src": "https://www.datacenterfrontier.com/machine-learning/article/55326541/how-coreweave-and-poolside-are-teaming-up-in-west-texas-to-build-the-next-generation-of-ai-data-centers"
+   },
+   {
+    "para": 0,
+    "t": "CoreWeave was to anchor the first phase under a fifteen year lease, with an option on another 500 megawatts beyond the initial 250, and to put in more than 40,000 Nvidia GB300 NVL72 GPUs from December 2025.",
+    "src": "https://www.datacenterfrontier.com/machine-learning/article/55326541/how-coreweave-and-poolside-are-teaming-up-in-west-texas-to-build-the-next-generation-of-ai-data-centers"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 568 acres and 2,000 megawatts, names Poolside and CoreWeave, and marks the project proposed.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The engineering answer to the usual objections is on the record.",
+    "src": "https://www.datacenterfrontier.com/machine-learning/article/55326541/how-coreweave-and-poolside-are-teaming-up-in-west-texas-to-build-the-next-generation-of-ai-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "Power is behind the meter, from aero-derivative turbines with selective catalytic reduction on the exhaust, with batteries to smooth the load and a grid connection for redundancy.",
+    "src": "https://www.datacenterfrontier.com/machine-learning/article/55326541/how-coreweave-and-poolside-are-teaming-up-in-west-texas-to-build-the-next-generation-of-ai-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "The site sits next to a major natural gas hub in the Permian Basin, with water and processing infrastructure already there and two long-haul fibre routes.",
+    "src": "https://www.datacenterfrontier.com/machine-learning/article/55326541/how-coreweave-and-poolside-are-teaming-up-in-west-texas-to-build-the-next-generation-of-ai-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "The campus is built from prefabricated electrical, cooling and compute modules so that each 250 megawatt phase can energise independently rather than waiting for the one before, and the developers say they are working with the Mitchell family and Pecos County on jobs, infrastructure and training.",
+    "src": "https://www.datacenterfrontier.com/machine-learning/article/55326541/how-coreweave-and-poolside-are-teaming-up-in-west-texas-to-build-the-next-generation-of-ai-data-centers"
+   },
+   {
+    "para": 2,
+    "t": "The design answers the usual objections on paper.",
+    "src": "https://www.datacenterfrontier.com/machine-learning/article/55326541/how-coreweave-and-poolside-are-teaming-up-in-west-texas-to-build-the-next-generation-of-ai-data-centers"
+   },
+   {
+    "para": 2,
+    "t": "What it does not answer is whether the anchor tenant is still there.",
+    "src": "https://www.datacenterfrontier.com/machine-learning/article/55326541/how-coreweave-and-poolside-are-teaming-up-in-west-texas-to-build-the-next-generation-of-ai-data-centers"
+   },
+   {
+    "para": 2,
+    "t": "The record still marks the project proposed with both companies named.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Two data center sites are counted in Pecos County and there is no other within 40 kilometres of this one.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The entry puts the site in the El Paso Electric control area, peak load 2,147 megawatts, which a two gigawatt campus would dwarf; the behind-the-meter design is the answer to that.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 3,
+    "t": "The generation nearby is a 154 megawatt solar plant 18 kilometres away and the 132 megawatt Sherbino II wind farm 39.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterfrontier.com/machine-learning/article/55326541/how-coreweave-and-poolside-are-teaming-up-in-west-texas-to-build-the-next-generation-of-ai-data-centers"
+  ],
+  "unconfirmed": "Search results indicate CoreWeave ended its fifteen year, 250 megawatt anchor lease in late March 2026 after Poolside's parallel $2 billion funding round failed to close, which would remove the tenant the whole first phase depended on; no source confirming that could be opened, so it is not carried above. The Wall Street Journal article our record cites is paywalled and the Data Center Dynamics reports refuse requests. No water volume, emissions permit or county approval was found, and no local reaction was reported."
+ }
+]

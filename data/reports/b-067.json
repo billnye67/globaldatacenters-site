@@ -1,0 +1,538 @@
+[
+ {
+  "id": "ft-1779197186556-7045",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The land here was an army proving ground, used for testing ordnance until the 1990s.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "A data center is proposed at West JPG Niblo Road, Madison, on the former Jefferson Proving Ground, with low confidence attached to the entry.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 0,
+    "t": "Neither of the two sources attached to it, a television report headed \"Southern Indiana data center farm selling land\" and a county newsflash page, was retrieved.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "There is no shortage of power nearby.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "The 1,173 megawatt Clifty Creek coal plant is 11 kilometres away, the 2,179 megawatt Trimble County plant 28 and the 1,919 megawatt Ghent plant 34, all three of them burning coal.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Jefferson County, and the nearest other is a PowerHouse campus 34 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Dearborn County, to the east, adopted a data center moratorium on 25 February 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Neither source in our record was retrieved, so the developer, the acreage, the megawatts, the price of the land and whether any application exists are all unknown. The proving ground's history matters here because of unexploded ordnance and contamination on parts of the site, but nothing about the condition of this particular parcel could be established from any source read. No Jefferson County local reporting was sought and our record logs pushback as unknown."
+ },
+ {
+  "id": "ft-272",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The thing next door to this proposal was an orchard.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Both sources attached to the entry name Tuttle Orchards in their headlines: one is \"Public meeting set for proposed data center campus in rural Hancock County, Tuttle Orchards\", the other \"Application withdrawn: Surge Development, Hancock County, Greenfield data center, Tuttle Orchards\".",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Both returned 403, so the dates, the acreage and what was said at the public meeting are not recorded.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The project is listed as cancelled, at North 400 West and West 500 North county roads near McCordsville, with no capacity figure and no acreage.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "Hancock County adopted data center zoning limits on 16 June 2026, Henry County a moratorium on 14 June and Boone County one on 15 June.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Project Redline, a $1 billion scheme almost nothing is known about, is 9 kilometres away, and a Google campus at Franklin Township 15.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Twenty-five kilometres off, the Anderson gas plant carries 140 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Both sources in our record returned 403, so the developer's plans, the acreage, the megawatts, the date the application was withdrawn and why are all unknown, as is what role the orchard's owners or customers played. Our record logs pushback as unknown, which the headlines suggest may understate what happened."
+ },
+ {
+  "id": "ft-273",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is the third of the three data centers planned within two kilometres of each other at Merrillville, in Lake County, Indiana.",
+    "src": "https://www.govtech.com/artificial-intelligence/2b-in-data-center-projects-planned-for-merrillville-ind"
+   },
+   {
+    "para": 0,
+    "t": "Province Group, of Newport Beach in California, plans up to $500 million on a million square foot technology park near Colorado Street and Harms Road, with worker salaries put at up to $175,000 a year.",
+    "src": "https://www.govtech.com/artificial-intelligence/2b-in-data-center-projects-planned-for-merrillville-ind"
+   },
+   {
+    "para": 0,
+    "t": "A trade report attached to the entry describes it as a nine building campus.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Alongside it, Wylie Capital plans 1.2 million square feet for about $600 million and Karis Critical up to $900 million on 180 acres, and a thousand homes are going up at Liberty Estates for the workers.",
+    "src": "https://www.govtech.com/artificial-intelligence/2b-in-data-center-projects-planned-for-merrillville-ind"
+   },
+   {
+    "para": 1,
+    "t": "Stephen Muenstermann of the town's data center advisory board said the $2 billion of direct investment \"could end up having an $8 billion economic impact\".",
+    "src": "https://www.govtech.com/artificial-intelligence/2b-in-data-center-projects-planned-for-merrillville-ind"
+   },
+   {
+    "para": 2,
+    "t": "Merrillville then put a year long data center moratorium in force on 1 June 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Lake County has adopted three separate measures since August 2025, and two more are in force in neighbouring counties.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "Seven data center sites are recorded in Lake County, with Amazon Web Services and PowerHouse campuses at Hobart 6 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Nineteen kilometres off, the Gary Works steel mill runs a 161 megawatt plant of its own.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.govtech.com/artificial-intelligence/2b-in-data-center-projects-planned-for-merrillville-ind"
+  ],
+  "unconfirmed": "No megawatt figure, water demand, acreage or filing date was published for this project, and the trade report describing a nine building campus returned 403 so its detail could not be read. No resident who objects is named or quoted; the reporting is from the town's side. Whether the project has been through the plan commission, and what the June 2026 moratorium means for it, are not established."
+ },
+ {
+  "id": "ft-274",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Thirty jobs by 2034, against $42 million of tax abatements spread over 35 years, was the deal Michigan City was offered, and the mayor turned it down.",
+    "src": "https://www.insideindianabusiness.com/articles/michigan-city-mayor-shuts-down-talk-of-data-center-project"
+   },
+   {
+    "para": 0,
+    "t": "On Monday 14 July 2025 Mayor Angie Nelson Deuitch said Michigan City, in LaPorte County, Indiana, would not pursue the $832 million data center after negotiations with the developer broke down over the abatement terms.",
+    "src": "https://www.insideindianabusiness.com/articles/michigan-city-mayor-shuts-down-talk-of-data-center-project"
+   },
+   {
+    "para": 1,
+    "t": "\"Any major project of this magnitude must bring tangible value and benefits to Michigan City residents,\" she said, and the proposal showed \"limited job creation and no assurances of community reinvestment or substantial tax impact\".",
+    "src": "https://www.insideindianabusiness.com/articles/michigan-city-mayor-shuts-down-talk-of-data-center-project"
+   },
+   {
+    "para": 2,
+    "t": "The site is 67 acres on Royal Road, the former ANCO windshield wiper factory, bought by Phoenix Michigan City Industrial Investors LLC for about $1.25 million in late 2022.",
+    "src": "https://www.insideindianabusiness.com/articles/michigan-city-mayor-shuts-down-talk-of-data-center-project"
+   },
+   {
+    "para": 2,
+    "t": "The end user was never disclosed, and the Indiana Economic Development Corporation had offered the $42 million in abatements.",
+    "src": "https://www.insideindianabusiness.com/articles/michigan-city-mayor-shuts-down-talk-of-data-center-project"
+   },
+   {
+    "para": 2,
+    "t": "City Administrator Kelley Smith said negotiations began in May, the city made its final offer weeks before the announcement, the developer rejected it and the city walked away.",
+    "src": "https://www.insideindianabusiness.com/articles/michigan-city-mayor-shuts-down-talk-of-data-center-project"
+   },
+   {
+    "para": 3,
+    "t": "Saying no did not necessarily stop it.",
+    "src": "https://www.insideindianabusiness.com/articles/michigan-city-mayor-shuts-down-talk-of-data-center-project"
+   },
+   {
+    "para": 3,
+    "t": "The land is already zoned light industrial, so the developer can build without the city's approval and without the tax incentives.",
+    "src": "https://www.insideindianabusiness.com/articles/michigan-city-mayor-shuts-down-talk-of-data-center-project"
+   },
+   {
+    "para": 4,
+    "t": "Google is named as the developer, with a trade headline saying the company took over the Project Maize campus.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "A Microsoft site at La Porte is 3 kilometres away, and seven moratoriums and zoning limits are in force across the surrounding townships and counties.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 455 megawatt Michigan City coal plant is 22 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.insideindianabusiness.com/articles/michigan-city-mayor-shuts-down-talk-of-data-center-project"
+  ],
+  "unconfirmed": "Google's involvement rests on a trade headline in our record that returned 403 and is not mentioned in the report read, which describes the end user as undisclosed as of July 2025; when and how Google took the campus over, and whether the project changed, are not established. No megawatt figure or water demand has been published. Whether anything has been built on the Royal Road site since is unknown."
+ },
+ {
+  "id": "ft-279",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The meeting ran ten hours and finished after four in the morning, and then the council voted it down 7 to 2.",
+    "src": "https://wsbt.com/news/local/st-joseph-county-council-denies-rezoning-of-land-for-data-center-votes-7-2-marathon-meeting-hours-long-public-opinion-13-billion-dollar-project-amazon-new-carlisle-approval-process-plan-commission-st-joseph-county-indiana"
+   },
+   {
+    "para": 0,
+    "t": "That was the St. Joseph County Council on 10 December 2025, refusing to rezone about 1,000 acres of farmland off Chicago Trail near New Carlisle for a data center put at $13 billion.",
+    "src": "https://wsbt.com/news/local/st-joseph-county-council-denies-rezoning-of-land-for-data-center-votes-7-2-marathon-meeting-hours-long-public-opinion-13-billion-dollar-project-amazon-new-carlisle-approval-process-plan-commission-st-joseph-county-indiana"
+   },
+   {
+    "para": 1,
+    "t": "Nearly four dozen people spoke, three minutes each, and most of them were against it on environmental grounds.",
+    "src": "https://wsbt.com/news/local/st-joseph-county-council-denies-rezoning-of-land-for-data-center-votes-7-2-marathon-meeting-hours-long-public-opinion-13-billion-dollar-project-amazon-new-carlisle-approval-process-plan-commission-st-joseph-county-indiana"
+   },
+   {
+    "para": 1,
+    "t": "Resident Dan Caruso said afterwards: \"If all these people hadn't showed up, I think that had an influence on the vote tonight.\"",
+    "src": "https://wsbt.com/news/local/st-joseph-county-council-denies-rezoning-of-land-for-data-center-votes-7-2-marathon-meeting-hours-long-public-opinion-13-billion-dollar-project-amazon-new-carlisle-approval-process-plan-commission-st-joseph-county-indiana"
+   },
+   {
+    "para": 2,
+    "t": "The argument that seems to have carried was that the county already has one.",
+    "src": "https://wsbt.com/news/local/st-joseph-county-council-denies-rezoning-of-land-for-data-center-votes-7-2-marathon-meeting-hours-long-public-opinion-13-billion-dollar-project-amazon-new-carlisle-approval-process-plan-commission-st-joseph-county-indiana"
+   },
+   {
+    "para": 2,
+    "t": "Council member Joe Thomas said: \"We have the largest Amazon Data Center going on in New Carlisle right now in the country ... So, let's just wait until we see that the dust settles, and see what happens.\"",
+    "src": "https://wsbt.com/news/local/st-joseph-county-council-denies-rezoning-of-land-for-data-center-votes-7-2-marathon-meeting-hours-long-public-opinion-13-billion-dollar-project-amazon-new-carlisle-approval-process-plan-commission-st-joseph-county-indiana"
+   },
+   {
+    "para": 2,
+    "t": "That Amazon campus is partly operational with more under construction, and sits 4 kilometres from this site.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The refusal was the last of several.",
+    "src": "https://wsbt.com/news/local/st-joseph-county-council-denies-rezoning-of-land-for-data-center-votes-7-2-marathon-meeting-hours-long-public-opinion-13-billion-dollar-project-amazon-new-carlisle-approval-process-plan-commission-st-joseph-county-indiana"
+   },
+   {
+    "para": 3,
+    "t": "The Area Plan Commission had twice recommended against it, and a county council committee had done the same.",
+    "src": "https://wsbt.com/news/local/st-joseph-county-council-denies-rezoning-of-land-for-data-center-votes-7-2-marathon-meeting-hours-long-public-opinion-13-billion-dollar-project-amazon-new-carlisle-approval-process-plan-commission-st-joseph-county-indiana"
+   },
+   {
+    "para": 3,
+    "t": "In October 2025 the New Carlisle town council had filed a resolution opposing the rezoning, following unanimous opposition from the plan commission, with residents raising water and electricity use and the loss of farmland.",
+    "src": "https://www.wndu.com/2025/10/23/new-carlisle-town-council-opposes-proposed-12-billion-data-center/"
+   },
+   {
+    "para": 4,
+    "t": "The developer may resubmit within six months.",
+    "src": "https://wsbt.com/news/local/st-joseph-county-council-denies-rezoning-of-land-for-data-center-votes-7-2-marathon-meeting-hours-long-public-opinion-13-billion-dollar-project-amazon-new-carlisle-approval-process-plan-commission-st-joseph-county-indiana"
+   },
+   {
+    "para": 4,
+    "t": "The project is listed as suspended at 999 acres and $12 billion.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 5,
+    "t": "The generation is already there: a 150 megawatt solar farm 2 kilometres away, the 715 megawatt St Joseph Energy Center at 3, and the 2,177 megawatt Donald C Cook nuclear station at 29.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 5,
+    "t": "Seven moratoriums, bans and zoning limits are now in force across the surrounding townships and counties.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://wsbt.com/news/local/st-joseph-county-council-denies-rezoning-of-land-for-data-center-votes-7-2-marathon-meeting-hours-long-public-opinion-13-billion-dollar-project-amazon-new-carlisle-approval-process-plan-commission-st-joseph-county-indiana",
+   "https://www.wndu.com/2025/10/23/new-carlisle-town-council-opposes-proposed-12-billion-data-center/"
+  ],
+  "unconfirmed": "Neither report identifies the developer, and our record's entry name, Mall-O-Manor LLC, appears in no source read. The value is given as $12 billion in October and $13 billion in December and neither figure could be checked. No megawatt or water figure was published for a project of this size. Which two council members voted in favour is not reported, and no council member other than Joe Thomas is quoted. Whether the developer has resubmitted since June 2026 is not known."
+ },
+ {
+  "id": "ft-1767729868771-4781",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A petition and two trade headlines are all this entry holds, and nothing that could be read.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The headlines say RadiusDC looked to build two data centers outside Indianapolis, at Plainfield in Hendricks County, Indiana, and announced a 24 megawatt campus there; both returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The site is 31 acres on AllPoints Parkway in Plainfield, with local pushback logged and a petition headed \"Stop the construction of a data center in Plainfield, Indiana\".",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Hendricks County, though six lie within 23 kilometres including a Sabey campus at Decatur Township and a Google campus in Morgan County.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The 966 megawatt Harding Street gas plant is 15 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Boone and Putnam counties have data center moratoriums in force and Hancock County zoning limits, but Hendricks County has none.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Both sources in our record returned 403, so the 24 megawatt figure from one headline is the only capacity indication and could not be checked, and the square footage, the filing date, the planning body and the current status are all unknown. The petition was not read, so no resident is named and the objections are not established. Whether the second of the two data centers the developer was reported to be pursuing is also in Plainfield is not known."
+ },
+ {
+  "id": "ft-281",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Three Provident Realty Advisors data center entries sit within two kilometres of each other in Porter County, Indiana, and one of them has already been withdrawn.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "This entry is 102 acres at 100 Worthington Drive in Porter, and the single source, headed \"Provident Realty proposes seven-building campus in Burns Harbor, Indiana\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The Chesterton proposal 2 kilometres away, a $1.3 billion scheme, was withdrawn by the same developer in June 2024 after residents objected over air quality, water, wildlife and property values.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Five data center sites are recorded in Porter County, with a QTS campus 10 kilometres away and the Agincourt proposal at Valparaiso 14.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The 175 megawatt plant at the ArcelorMittal Burns Harbor steelworks is 4 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Six moratoriums and zoning limits are in force in the surrounding counties and towns, though Porter County itself has none.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the megawatts, the square footage, the filing date, the planning body and the current status are all unknown. Whether this entry, the withdrawn Chesterton entry and the third Provident entry are separate applications or the same scheme recorded three times at different addresses is unresolved. No local reaction to this particular parcel was found and our record logs pushback as unknown."
+ },
+ {
+  "id": "ft-1763577844897-4160",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The city of Valparaiso, in Porter County, Indiana, stopped this data center itself.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The trade report attached to the entry is headed \"Indiana's city of Valparaiso pulls the plug on Agincourt data center project\", and the Chicago Tribune's piece \"Citizens outcry for transparency, impact of potential data center development in Valparaiso\", dated 11 March 2025.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Neither could be retrieved, one returning 403 and the other blocked.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The site is 248 acres between County Road 400 North and County Road 500 North, the project is listed as suspended, and local pushback is logged.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "A QTS campus is 8 kilometres away, and three Provident Realty entries between 12 and 14.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Eight moratoriums, bans and zoning limits are now in force across this corner of Indiana, including three separate Lake County measures and a Marshall County ban.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generation is the 175 megawatt plant at the Burns Harbor steelworks, 18 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Neither source could be read, so the developer, the megawatts, the investment, the date the city pulled the plug and what the transparency complaints consisted of are all unknown. Our record logs pushback but names no group, petition or resident, so nothing can be said about who organised or what they achieved, beyond what the two headlines imply."
+ },
+ {
+  "id": "ft-1783829909593-7384",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The developer's own page for this data center answers almost every question a neighbour might ask except the biggest.",
+    "src": "https://www.wolcottdatacenter.com/"
+   },
+   {
+    "para": 0,
+    "t": "It sets out 322 acres in White County near US Highway 24: four data halls of 327,612 square feet each, under 30 feet tall, plus a 50,000 square foot office and a 100,000 square foot warehouse, set back at least 797 feet from the highway.",
+    "src": "https://www.wolcottdatacenter.com/"
+   },
+   {
+    "para": 0,
+    "t": "It does not give a megawatt figure.",
+    "src": "https://www.wolcottdatacenter.com/"
+   },
+   {
+    "para": 1,
+    "t": "On water it is specific: closed loop and dry cooled, with zero water for cooling and minimal water for operations, no wells, and water used only for employees.",
+    "src": "https://www.wolcottdatacenter.com/"
+   },
+   {
+    "para": 1,
+    "t": "On power it says the project will pay for its own electrical infrastructure, without saying where the electricity comes from.",
+    "src": "https://www.wolcottdatacenter.com/"
+   },
+   {
+    "para": 2,
+    "t": "The page promises about 1,000 construction jobs and hundreds of full time ones, with local hiring given priority, and tens of millions in property tax a year at full build out in 2029 or 2030, which it says will lower rates across all 23 of the county's districts.",
+    "src": "https://www.wolcottdatacenter.com/"
+   },
+   {
+    "para": 2,
+    "t": "It states that no subsidies or incentives are being sought, that residential electricity bills will not rise, and that noise will stay under 50 decibels, quieter than the traffic on the highway.",
+    "src": "https://www.wolcottdatacenter.com/"
+   },
+   {
+    "para": 2,
+    "t": "The page carries a Blue Ladder logo but does not say who operates the site or who will run the facility.",
+    "src": "https://www.wolcottdatacenter.com/"
+   },
+   {
+    "para": 3,
+    "t": "The generation around it is wind: four farms totalling about 606 megawatts within 11 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in White County, with no other project within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Pulaski County adopted a data center moratorium on 2 February 2026 and Tippecanoe County zoning limits on 9 October 2025.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.wolcottdatacenter.com/"
+  ],
+  "unconfirmed": "Every claim above is the developer's own and none was independently checked. The absence of a megawatt figure is the significant gap: 1.3 million square feet of data hall with no stated load makes the promises about electricity bills impossible to test. Who stands behind Blue Ladder, and who would occupy the buildings, are not established. A local newspaper report headed \"White County residents question developer of planned data center\" was blocked, so what residents actually asked, and what answers they got, could not be read. No county hearing, vote or approval was found."
+ },
+ {
+  "id": "ft-284",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "De Soto, in Johnson County, Kansas, authorised up to $50 billion in industrial revenue bonds for a data center project the developer has committed $700 million to.",
+    "src": "https://www2.ljworld.com/weblogs/town_talk/2025/aug/21/a-big-data-center-may-be-douglas-countys-newest-neighbor-plans-call-for-700m-center-along-k-10/"
+   },
+   {
+    "para": 0,
+    "t": "The city council approved the first steps at a Thursday evening meeting reported on 21 August 2025.",
+    "src": "https://www2.ljworld.com/weblogs/town_talk/2025/aug/21/a-big-data-center-may-be-douglas-countys-newest-neighbor-plans-call-for-700m-center-along-k-10/"
+   },
+   {
+    "para": 1,
+    "t": "The site is the Flint Commerce Center along Kansas Highway 10, about three miles east of Eudora near the Douglas and Johnson county line.",
+    "src": "https://www2.ljworld.com/weblogs/town_talk/2025/aug/21/a-big-data-center-may-be-douglas-countys-newest-neighbor-plans-call-for-700m-center-along-k-10/"
+   },
+   {
+    "para": 1,
+    "t": "Mount Sunflower Properties LLC is the named developer, with Beale Infrastructure leading the work.",
+    "src": "https://www2.ljworld.com/weblogs/town_talk/2025/aug/21/a-big-data-center-may-be-douglas-countys-newest-neighbor-plans-call-for-700m-center-along-k-10/"
+   },
+   {
+    "para": 1,
+    "t": "A concept plan shows four new buildings and an electrical substation taking up all the vacant land at the Flint centre.",
+    "src": "https://www2.ljworld.com/weblogs/town_talk/2025/aug/21/a-big-data-center-may-be-douglas-countys-newest-neighbor-plans-call-for-700m-center-along-k-10/"
+   },
+   {
+    "para": 2,
+    "t": "The developer has to build $700 million worth of data centers over seven years to qualify for the incentives, which include a full property tax abatement over several years with payments in lieu of tax set by floor area, at 40 to 50 cents a square foot.",
+    "src": "https://www2.ljworld.com/weblogs/town_talk/2025/aug/21/a-big-data-center-may-be-douglas-countys-newest-neighbor-plans-call-for-700m-center-along-k-10/"
+   },
+   {
+    "para": 2,
+    "t": "De Soto expects $1.5 million a year in electric franchise fees in the early phases, rising to $5.5 million when it is fully built.",
+    "src": "https://www2.ljworld.com/weblogs/town_talk/2025/aug/21/a-big-data-center-may-be-douglas-countys-newest-neighbor-plans-call-for-700m-center-along-k-10/"
+   },
+   {
+    "para": 2,
+    "t": "Employment after construction is described as fairly low.",
+    "src": "https://www2.ljworld.com/weblogs/town_talk/2025/aug/21/a-big-data-center-may-be-douglas-countys-newest-neighbor-plans-call-for-700m-center-along-k-10/"
+   },
+   {
+    "para": 3,
+    "t": "Some of what a neighbour would want to know was taken out of the papers.",
+    "src": "https://www2.ljworld.com/weblogs/town_talk/2025/aug/21/a-big-data-center-may-be-douglas-countys-newest-neighbor-plans-call-for-700m-center-along-k-10/"
+   },
+   {
+    "para": 3,
+    "t": "The exact building dimensions were not disclosed, and the water and sewer requirements were redacted from the public documents, as were the details of what the sewage would contain chemically and biologically.",
+    "src": "https://www2.ljworld.com/weblogs/town_talk/2025/aug/21/a-big-data-center-may-be-douglas-countys-newest-neighbor-plans-call-for-700m-center-along-k-10/"
+   },
+   {
+    "para": 4,
+    "t": "Beale Infrastructure is the same company behind Project Blue at Marana in Arizona, and behind the Pima County campus that Tucson refused to annex in 2025.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 5,
+    "t": "Six data center sites are recorded in Johnson County, with a second entry at these coordinates and a Digital Realty campus 2 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 5,
+    "t": "Twenty-two kilometres off is the 488 megawatt Lawrence Energy Center coal plant, in a city that adopted a two year data center moratorium on 14 July 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www2.ljworld.com/weblogs/town_talk/2025/aug/21/a-big-data-center-may-be-douglas-countys-newest-neighbor-plans-call-for-700m-center-along-k-10/"
+  ],
+  "unconfirmed": "No megawatt figure was published, and the water and sewer figures were redacted from the public record, so the two numbers that would let a neighbour judge the project are both unavailable. The reason for the gap between the $50 billion bond authorisation and the $700 million commitment is not explained in the report; bond caps are often set well above expected spend, but that was not established here. No resident or council member is named or quoted, and our record logs pushback as unknown. The cross reference to Beale Infrastructure's Arizona projects comes from our own record, not from this report."
+ }
+]

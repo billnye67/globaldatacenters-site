@@ -1,0 +1,612 @@
+[
+ {
+  "id": "ft-688",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CleanArc Data Centers expects to pay Caroline County, Virginia, about $13 million a year, around 17 percent of the county's current general fund, for the data center campus it is building at Ruther Glen off Ladysmith Road.",
+    "src": "https://virginiabusiness.com/cleanarc-data-center-developer-3b-campus-caroline-county/"
+   },
+   {
+    "para": 0,
+    "t": "The company calls the campus VA1.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It puts the investment at $3 billion.",
+    "src": "https://virginiabusiness.com/cleanarc-data-center-developer-3b-campus-caroline-county/"
+   },
+   {
+    "para": 1,
+    "t": "The company now describes 900 megawatts, in three steps of 300: the first in the first quarter of 2027, the second in 2030 and the third somewhere between 2033 and 2035.",
+    "src": "https://virginiabusiness.com/cleanarc-data-center-developer-3b-campus-caroline-county/"
+   },
+   {
+    "para": 1,
+    "t": "At full capacity the campus is expected to employ 50 people.",
+    "src": "https://virginiabusiness.com/cleanarc-data-center-developer-3b-campus-caroline-county/"
+   },
+   {
+    "para": 2,
+    "t": "It says cooling will be closed loop, the buildings modular and made off site, and the design will hold down noise and light.",
+    "src": "https://virginiabusiness.com/cleanarc-data-center-developer-3b-campus-caroline-county/"
+   },
+   {
+    "para": 2,
+    "t": "The majority investor is Snowhawk, a New York private equity firm, with Nuveen and the Townsend Group holding minority stakes.",
+    "src": "https://virginiabusiness.com/cleanarc-data-center-developer-3b-campus-caroline-county/"
+   },
+   {
+    "para": 2,
+    "t": "CleanArc was founded in 2022 and this is its first campus.",
+    "src": "https://virginiabusiness.com/cleanarc-data-center-developer-3b-campus-caroline-county/"
+   }
+  ],
+  "sources": [
+   "https://virginiabusiness.com/cleanarc-data-center-developer-3b-campus-caroline-county/",
+   "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+  ],
+  "unconfirmed": "No tenant has been named. Water withdrawal figures, the interconnection arrangement with Dominion and the date of the county approval were not established in a source we could read; both Data Center Dynamics reports in our record refuse our requests. Our 600 megawatts and the company's 900 are unreconciled, and the 650 acres in our record is not confirmed by the company. The record carries 600 MW and 650 acres; the company now describes 900 MW. This pass removed the neighbouring-project and power plant filler and reworded two sentences that described our record. No new search was spent. Reordered (backward session, company-voice pass): led on the governor's announcement quote; now leads on what the county gets. The governor's quote and the list of other county applications were removed; the county's votes on CleanArc and its neighbours are on the Caroline County pages."
+ },
+ {
+  "id": "ft-871",
+  "sentences": [
+   {
+    "para": 0,
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings",
+    "t": "Thornberry LLC has applied to rezone 657 acres of a 1,001.5 acre parcel at 23202 Carneal Lane, in the Reedy Church voting district of Caroline County, to the county's Planned Innovation, Research and Technology district, so a data center campus can be built on it."
+   },
+   {
+    "para": 0,
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings",
+    "t": "The case is RZ-03-2025."
+   },
+   {
+    "para": 0,
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings",
+    "t": "The county records the submittal as complete and forwarded for review, with no public hearing date set."
+   },
+   {
+    "para": 0,
+    "src": "data:capacity_mw",
+    "t": "The record carries 1,002 acres, which is the whole parcel rather than the part being rezoned, and no capacity figure."
+   },
+   {
+    "para": 1,
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings",
+    "t": "Two more applications sit alongside it on the county's list."
+   },
+   {
+    "para": 1,
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings",
+    "t": "The ADP Ladysmith Data Hub covers 140.38 acres at 18577 Green Road, west of Interstate 95, in the Mattaponi district, zoned M-1 industrial now and applying for the same technology district under cases RZ-02-2025 and SPEX-06-2025, and is also complete and under review."
+   },
+   {
+    "para": 1,
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings",
+    "t": "Bull Church, case RZ-04-2024 from NRD Retail, is on Bull Church Road near the Ladysmith interchange, also in the Mattaponi district, seeking M-1 industrial zoning from rural preservation, and remains in technical review with no hearing date."
+   },
+   {
+    "para": 2,
+    "src": "https://www.fredericksburgfreepress.com/2024/06/20/caroline-supervisors-reject-proposed-data-center-project-again/",
+    "t": "Caroline County has been asked this question before and answered no."
+   },
+   {
+    "para": 2,
+    "src": "https://www.fredericksburgfreepress.com/2024/06/20/caroline-supervisors-reject-proposed-data-center-project-again/",
+    "t": "On June 18, 2024 the board of supervisors voted 5 to 1 against a comprehensive plan amendment that would have pushed the Carmel Church growth area westward and created a Mount Airy planned innovation, research and technology area in the Jericho Road area for a 900 acre project."
+   },
+   {
+    "para": 2,
+    "src": "https://www.fredericksburgfreepress.com/2024/06/20/caroline-supervisors-reject-proposed-data-center-project-again/",
+    "t": "Only Madison District supervisor Clay Forehand voted for it."
+   },
+   {
+    "para": 2,
+    "src": "https://www.fredericksburgfreepress.com/2024/06/20/caroline-supervisors-reject-proposed-data-center-project-again/",
+    "t": "The applicant, VALCO, withdrew its rezoning request afterwards."
+   },
+   {
+    "para": 2,
+    "src": "https://www.fredericksburgfreepress.com/2024/06/20/caroline-supervisors-reject-proposed-data-center-project-again/",
+    "t": "The county's planning director, Leon Hughes, pointed out that \"there are 1,848 acres of undeveloped land zoned for industrial use east of the interstate within the Carmel Church Growth Area.\""
+   }
+  ],
+  "sources": [
+   "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings",
+   "https://www.fredericksburgfreepress.com/2024/06/20/caroline-supervisors-reject-proposed-data-center-project-again/"
+  ],
+  "unconfirmed": "Who is behind Thornberry LLC, what would be built, how much power it would draw and what it would cost are all unstated; the only source in our record is the county's own rezoning document. No hearing has been scheduled and no public comment has been reported."
+ },
+ {
+  "id": "ft-1769230835913-8005",
+  "sentences": [
+   {
+    "para": 0,
+    "src": "https://www.fredericksburgfreepress.com/2024/05/12/zombie-data-center-project-still-has-life-in-caroline-county/",
+    "t": "Kevin Collins has been fighting a data center campus at Ruther Glen, in Caroline County, since January 2023, from a house about 1,000 feet from the site off Jericho Road."
+   },
+   {
+    "para": 0,
+    "src": "https://www.fredericksburgfreepress.com/2024/05/12/zombie-data-center-project-still-has-life-in-caroline-county/",
+    "t": "His name for it has stuck: \"I call it the zombie project, because it keeps popping up out of the grave on us.\""
+   },
+   {
+    "para": 0,
+    "src": "https://www.fredericksburgfreepress.com/2024/06/20/caroline-supervisors-reject-proposed-data-center-project-again/",
+    "t": "The proposal is a data center campus on Mount Airy Drive and Jericho Road at Ruther Glen, west of Interstate 95 along the North Anna River, in Caroline County."
+   },
+   {
+    "para": 0,
+    "src": "https://www.fredericksburgfreepress.com/2024/05/12/zombie-data-center-project-still-has-life-in-caroline-county/",
+    "t": "The record holds it at 5499 Mount Airy Drive and 855 acres; the reporting describes a 900 acre campus on Mount Airy Drive along the North Anna River, with a separate 250 acre data center park on Jericho Road filed by VALCO."
+   },
+   {
+    "para": 1,
+    "src": "https://www.fredericksburgfreepress.com/2024/05/12/zombie-data-center-project-still-has-life-in-caroline-county/",
+    "t": "By May 2024 it had been beaten twice by the county planning commission and once by the board of supervisors."
+   },
+   {
+    "para": 1,
+    "src": "https://www.fredericksburgfreepress.com/2024/06/20/caroline-supervisors-reject-proposed-data-center-project-again/",
+    "t": "The applicant was VALCO, represented by the attorney Ann Cosby, and the land is owned by Litt Thompson of the Thompson Family Office, a Richmond investment management firm."
+   },
+   {
+    "para": 1,
+    "src": "https://www.fredericksburgfreepress.com/2024/05/12/zombie-data-center-project-still-has-life-in-caroline-county/",
+    "t": "Madison District supervisor Clay Forehand argued for it: \"A single campus of data center buildings would be the equivalent tax benefit as eight to 10 one-million square-foot distribution center buildings without the 18,000-plus trucks a day crowding our roads and exits.\""
+   },
+   {
+    "para": 1,
+    "src": "https://www.fredericksburgfreepress.com/2024/05/12/zombie-data-center-project-still-has-life-in-caroline-county/",
+    "t": "Bowling Green District supervisor Jeff Sili was against: \"I cannot vote to approve a rezoning and comp plan change every time a developer finds a good deal on land in Caroline.\""
+   },
+   {
+    "para": 2,
+    "src": "https://www.fredericksburgfreepress.com/2024/06/20/caroline-supervisors-reject-proposed-data-center-project-again/",
+    "t": "It came back a fourth time and lost again."
+   },
+   {
+    "para": 2,
+    "src": "https://www.fredericksburgfreepress.com/2024/06/20/caroline-supervisors-reject-proposed-data-center-project-again/",
+    "t": "On June 18, 2024 the board voted 5 to 1 to refuse the comprehensive plan amendment the campus needed, with Forehand the single vote in favour, and VALCO withdrew the rezoning application."
+   },
+   {
+    "para": 2,
+    "src": "https://www.fredericksburgfreepress.com/2024/06/20/caroline-supervisors-reject-proposed-data-center-project-again/",
+    "t": "Planning director Leon Hughes noted the county already had 1,848 acres of undeveloped industrial land east of the interstate inside the Carmel Church growth area."
+   },
+   {
+    "para": 2,
+    "src": "data:status",
+    "t": "The record now marks the project cancelled."
+   },
+   {
+    "para": 3,
+    "src": "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings",
+    "t": "Caroline County's current application list does not include VALCO or Mount Airy; it lists Thornberry, ADP Ladysmith and Bull Church."
+   }
+  ],
+  "sources": [
+   "https://www.fredericksburgfreepress.com/2024/05/12/zombie-data-center-project-still-has-life-in-caroline-county/",
+   "https://www.fredericksburgfreepress.com/2024/06/20/caroline-supervisors-reject-proposed-data-center-project-again/",
+   "https://co.caroline.va.us/1036/Special-Exceptions-and-Rezonings"
+  ],
+  "unconfirmed": "Whether VALCO has come back since June 2024 could not be established; the county's current application list does not show it, but our record still carries the project as proposed. No megawatt figure, building count or tenant was ever published. The Data Center Dynamics report in our record, about Amazon filing for four campuses in Spotsylvania and Caroline, refuses our requests, so the link between this parcel and Amazon is not carried here."
+ },
+ {
+  "id": "ft-994",
+  "sentences": [
+   {
+    "para": 0,
+    "src": "https://www.valo-park.com/",
+    "t": "Valo Park, at 7950 Jones Branch Drive in Tysons, in Fairfax County, is a two-tower office campus at the junction of I-495 and the Dulles Toll Road, and nothing published describes a data center there."
+   },
+   {
+    "para": 1,
+    "src": "https://www.fairfaxcounty.gov/planning-development/data-centers",
+    "t": "The county rule that governs anything new here is recent."
+   },
+   {
+    "para": 1,
+    "src": "https://www.fairfaxcounty.gov/planning-development/data-centers",
+    "t": "Fairfax County's board of supervisors adopted a data center zoning amendment on September 10, 2024, effective the next day, revising where data centers are permitted and to what standard."
+   },
+   {
+    "para": 1,
+    "src": "https://www.ffxnow.com/2026/04/24/bespoke-data-center-buildings-proposed-near-tysons-residences/",
+    "t": "It caps them at 80,000 square feet and requires 200 feet between a data center and homes."
+   },
+   {
+    "para": 1,
+    "src": "https://www.ffxnow.com/2026/04/24/bespoke-data-center-buildings-proposed-near-tysons-residences/",
+    "t": "Serverfarm is testing both limits about two kilometres from here."
+   },
+   {
+    "para": 1,
+    "src": "https://www.ffxnow.com/2026/04/24/bespoke-data-center-buildings-proposed-near-tysons-residences/",
+    "t": "Its Vienna Cloud application, filed at the end of January 2026 for 7990 and 7980 Quantum Drive, is 316,228 square feet on 14.4 acres, up to 67 feet tall, and would stand 107 to 131 feet from apartments and townhouses."
+   },
+   {
+    "para": 1,
+    "src": "https://wtop.com/fairfax-county/2026/08/tysons-vienna-cloud-data-center-project-seeks-exceptions-to-fairfax-co-rules/",
+    "t": "Serverfarm has since asked to be released from the Metro separation rule, the floor area caps and the 200 foot residential buffer."
+   },
+   {
+    "para": 1,
+    "src": "https://wtop.com/fairfax-county/2026/08/tysons-vienna-cloud-data-center-project-seeks-exceptions-to-fairfax-co-rules/",
+    "t": "The planning commission hears it on November 18."
+   }
+  ],
+  "sources": [
+   "https://www.valo-park.com/",
+   "https://www.fairfaxcounty.gov/planning-development/data-centers",
+   "https://www.ffxnow.com/2026/04/24/bespoke-data-center-buildings-proposed-near-tysons-residences/",
+   "https://wtop.com/fairfax-county/2026/08/tysons-vienna-cloud-data-center-project-seeks-exceptions-to-fairfax-co-rules/"
+  ],
+  "unconfirmed": "The record lists an operating 17 acre data center here under TAMARES 7950 OWNER LLC, with a Ruther Glen postcode that belongs to Caroline County. The owners' site and reporting describe Valo Park as an office campus owned by Tamares and Ilmarinen whose anchor tenant is Appian; no data center at the address was found. This pass replaced three sentences about our record with the owners' own description. Search run: \"Valo Park 7950 Jones Branch Drive Tysons data center Tamares\". The Vienna Cloud application two kilometres away is covered in full on its own entry; only its bearing on the Fairfax rule is carried here. Its status was updated this pass from the WTOP report of August 1, 2026. Correction, made after this page was first published: it said the county accepted the Vienna Cloud application for review on 4 May 2026, sourced to WTOP. That date is not in the WTOP article; it came from a search-result summary and could not be stood up, so it has been removed and the sentence now says only what the article supports."
+ },
+ {
+  "id": "ft-691",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google is putting a data center on 312 acres at the Botetourt Center at Greenfield business park near Daleville, in Botetourt County.",
+    "src": "https://www.roanokerambler.com/with-1-billion-google-data-center-deal-inked-the-roanoke-valley-enters-the-game/"
+   },
+   {
+    "para": 0,
+    "t": "Google committed $1 billion per data center on June 24, 2025.",
+    "src": "https://www.roanokerambler.com/with-1-billion-google-data-center-deal-inked-the-roanoke-valley-enters-the-game/"
+   },
+   {
+    "para": 0,
+    "t": "The county had sold the 312 acre site four days earlier for $14 million.",
+    "src": "https://www.roanokerambler.com/with-1-billion-google-data-center-deal-inked-the-roanoke-valley-enters-the-game/"
+   },
+   {
+    "para": 1,
+    "t": "The developer agreed to start paying local real estate taxes immediately and to put $4 million into community projects over five years, with a first check of $1.1 million expected in late August.",
+    "src": "https://www.roanokerambler.com/with-1-billion-google-data-center-deal-inked-the-roanoke-valley-enters-the-game/"
+   },
+   {
+    "para": 1,
+    "t": "Each data center is to employ at least 50 full time workers at a median salary of $86,000.",
+    "src": "https://www.roanokerambler.com/with-1-billion-google-data-center-deal-inked-the-roanoke-valley-enters-the-game/"
+   },
+   {
+    "para": 1,
+    "t": "Construction was expected to start in 2026 and the first building to be finished by 2028.",
+    "src": "https://www.roanokerambler.com/with-1-billion-google-data-center-deal-inked-the-roanoke-valley-enters-the-game/"
+   },
+   {
+    "para": 1,
+    "t": "The agreement sets June 2030 as the deadline for completion.",
+    "src": "https://www.roanokerambler.com/with-1-billion-google-data-center-deal-inked-the-roanoke-valley-enters-the-game/"
+   },
+   {
+    "para": 2,
+    "t": "Google is not named in the 19 page performance agreement, which was signed for Helio Capital LLC by Carl Bivens, an energy development attorney; the county's press release confirmed Google's involvement.",
+    "src": "https://www.roanokerambler.com/with-1-billion-google-data-center-deal-inked-the-roanoke-valley-enters-the-game/"
+   },
+   {
+    "para": 2,
+    "t": "Google contracted to buy power from the planned Rocky Forge wind farm, 20 miles northeast.",
+    "src": "https://www.roanokerambler.com/with-1-billion-google-data-center-deal-inked-the-roanoke-valley-enters-the-game/"
+   },
+   {
+    "para": 2,
+    "t": "The Western Virginia Water Authority can supply water if it is needed, and Google is paying for substation improvements at Greenfield.",
+    "src": "https://www.roanokerambler.com/with-1-billion-google-data-center-deal-inked-the-roanoke-valley-enters-the-game/"
+   },
+   {
+    "para": 2,
+    "t": "John Hull, director of the Roanoke Regional Partnership, framed it as a new industry rather than a new building: \"I think the opportunity is actually much more broad than just additional data centers. I think this is a brand-new sector to all of Western Virginia. That means new suppliers, construction specialties, technology interests.\"",
+    "src": "https://www.roanokerambler.com/with-1-billion-google-data-center-deal-inked-the-roanoke-valley-enters-the-game/"
+   }
+  ],
+  "sources": [
+   "https://www.roanokerambler.com/with-1-billion-google-data-center-deal-inked-the-roanoke-valley-enters-the-game/"
+  ],
+  "unconfirmed": "The megawatt figure, the number of buildings and the water demand are unpublished. The address in our record, in Salem in Roanoke County, does not match the Botetourt County site the reporting describes, and whether our entry is misplaced or refers to a second parcel could not be told; our record also holds two further Google entries 30 kilometres away, a Botetourt Center site and Project Flash at Summit View Business Park, and whether either is this same project is not clear from our own data. No public opposition was reported. Trimmed (backward session, remaining-fails pass): removed the record lines and the neighbour list; moved the completion deadline up; US spelling."
+ },
+ {
+  "id": "ft-695",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Gateway Commerce Center is a rezoning application on 203 acres at Hickory Ridge Road, in Spotsylvania County, for a data center campus.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The county lists the case as R23-0002 among its rezoning cases, with a link to the application materials.",
+    "src": "https://www.spotsylvania.va.us/3241/Data-Center-FAQs"
+   },
+   {
+    "para": 1,
+    "t": "The rules the application has to meet changed while it was pending.",
+    "src": "https://www.spotsylvania.va.us/3241/Data-Center-FAQs"
+   },
+   {
+    "para": 1,
+    "t": "Since February 24, 2026 every data center in Spotsylvania County needs a special use permit and nothing can be built by right, in the office, commercial and industrial districts alike; each one goes to a public hearing before the planning commission and then the board of supervisors, with postcards to properties within 3,000 feet, a newspaper advertisement and signs on the property fifteen days beforehand.",
+    "src": "https://www.spotsylvania.va.us/3241/Data-Center-FAQs"
+   },
+   {
+    "para": 1,
+    "t": "County code prohibits the permanent use of potable water for industrial cooling, the county does not support groundwater or rainwater harvesting for it, and a purple pipe reuse system is planned along a 13 mile corridor in the southeast of the county to supply treated wastewater instead.",
+    "src": "https://www.spotsylvania.va.us/3241/Data-Center-FAQs"
+   },
+   {
+    "para": 1,
+    "t": "Noise is capped at 65 decibels by day and 60 at night against residential areas, and every approved project has committed to 65 or lower, with Cosner Tech committing to 55 at its property lines.",
+    "src": "https://www.spotsylvania.va.us/3241/Data-Center-FAQs"
+   },
+   {
+    "para": 1,
+    "t": "Backup generators must be Tier 4 diesel and for emergencies and testing only.",
+    "src": "https://www.spotsylvania.va.us/3241/Data-Center-FAQs"
+   },
+   {
+    "para": 2,
+    "t": "The scale of what the county has already agreed to is the context for this parcel.",
+    "src": "https://www.spotsylvania.va.us/3241/Data-Center-FAQs"
+   },
+   {
+    "para": 2,
+    "t": "As of August 2026 Spotsylvania had approved 15,469,908 square feet of data center space, on 1,597 acres of the 2,701 acres of industrial land it has set aside for the use, leaving 1,104 acres.",
+    "src": "https://www.spotsylvania.va.us/3241/Data-Center-FAQs"
+   },
+   {
+    "para": 2,
+    "t": "That set-aside is 45 percent of the county's entire 6,003 acre industrial land inventory.",
+    "src": "https://www.spotsylvania.va.us/3241/Data-Center-FAQs"
+   },
+   {
+    "para": 2,
+    "t": "The county estimates a million square feet of data center generates about 750 vehicle trips a day, against 1,650 for a warehouse of the same size.",
+    "src": "https://www.spotsylvania.va.us/3241/Data-Center-FAQs"
+   }
+  ],
+  "sources": [
+   "https://www.spotsylvania.va.us/3241/Data-Center-FAQs"
+  ],
+  "unconfirmed": "The applicant, the building count, the square footage and the status of the rezoning were not established in a source that would open: the county FAQ lists the case with a link but summarises nothing, and the Fredericksburg newspaper's coverage is behind a paywall. The application, proffer statement, general development plan and traffic impact analysis our record points to were not read. Reports elsewhere of a roughly two million square foot campus up to 65 feet tall, and of a deadlocked planning commission, are not carried here. Trimmed (backward session, remaining-fails pass): removed the line describing our record's sources."
+ },
+ {
+  "id": "ft-1769231599872-1900",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "SpotsyTech is 315 acres at Thornburg in Spotsylvania County, bordered by Interstate 95 to the east and Route 1 to the west, rezoned from A-2 to I-1 so that data centers can be built on it.",
+    "src": "https://baxtel.com/data-center/spotsytech-campus"
+   },
+   {
+    "para": 0,
+    "t": "SpotsyTechnoCampus LLC sought the rezoning from the board of supervisors.",
+    "src": "https://baxtel.com/data-center/spotsytech-campus"
+   },
+   {
+    "para": 0,
+    "t": "It is about 2.9 million square feet in two phases, a first of up to a million square feet in three warehouse and logistics buildings and a second of 1.9 million across up to nine two storey buildings, at an estimated $366.5 million, with construction from the second quarter of 2023 and completion by 2030.",
+    "src": "https://baxtel.com/data-center/spotsytech-campus"
+   },
+   {
+    "para": 0,
+    "t": "No megawatt figure is published for it.",
+    "src": "https://baxtel.com/data-center/spotsytech-campus"
+   },
+   {
+    "para": 1,
+    "t": "PowerHouse 95, a separate campus on 145 acres nearby, is the 800 megawatt project: PowerHouse plans up to eight three storey buildings totalling 3.5 million square feet along the Interstate 95 corridor, served by three 300 megawatt substations, the first of them expected to deliver 150 megawatts by October 2025.",
+    "src": "https://www.powerhousedata.com/news/powerhouse-plans-800mw-campus-in-virginias-spotsylvania-county"
+   },
+   {
+    "para": 2,
+    "t": "What applies to both is the county's rulebook, which tightened after they were filed.",
+    "src": "https://www.spotsylvania.va.us/3241/Data-Center-FAQs"
+   },
+   {
+    "para": 2,
+    "t": "Since February 24, 2026 every data center in Spotsylvania needs a special use permit and a public hearing, with nothing built by right.",
+    "src": "https://www.spotsylvania.va.us/3241/Data-Center-FAQs"
+   },
+   {
+    "para": 2,
+    "t": "County code bars the permanent use of potable water for cooling, and the county intends to supply treated wastewater instead.",
+    "src": "https://www.spotsylvania.va.us/3241/Data-Center-FAQs"
+   },
+   {
+    "para": 2,
+    "t": "Noise is capped at 65 decibels by day and 60 at night against homes.",
+    "src": "https://www.spotsylvania.va.us/3241/Data-Center-FAQs"
+   },
+   {
+    "para": 2,
+    "t": "By August 2026 the county had approved 15,469,908 square feet of data center space across 1,597 acres, out of 2,701 acres set aside, which is 45 percent of all its industrial land.",
+    "src": "https://www.spotsylvania.va.us/3241/Data-Center-FAQs"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/data-center/spotsytech-campus",
+   "https://www.powerhousedata.com/news/powerhouse-plans-800mw-campus-in-virginias-spotsylvania-county",
+   "https://www.spotsylvania.va.us/3241/Data-Center-FAQs"
+  ],
+  "unconfirmed": "Our record gave this campus 800 megawatts, a figure that belongs to PowerHouse 95; it now carries none. How much of the SpotsyTech campus would be data center rather than warehouse is not settled, since the rezoning permits both. No tenant is named and no water figure is published. Both Data Center Dynamics reports in our record, one on the technology park and one on the PowerHouse campus, refuse requests, which is probably how the two projects came to share one entry. Trimmed (backward session, remaining-fails pass): removed the line about how our record carries PowerHouse 95. The SpotsyTech details rest on a tracker; left as is."
+ },
+ {
+  "id": "ft-995",
+  "sentences": [
+   {
+    "para": 0,
+    "src": "https://m.connectionnewspapers.com/news/2023/jun/28/amazon-data-center-coming-franconia-district/",
+    "t": "Amazon Web Services bought two office buildings at 7951 and 7961 Loisdale Road in southern Springfield, in the Franconia District of Fairfax County, knocked them down in early June 2023 and plans a data center in their place."
+   },
+   {
+    "para": 0,
+    "src": "https://m.connectionnewspapers.com/news/2023/jun/28/amazon-data-center-coming-franconia-district/",
+    "t": "They had stood about a decade on a 17.5 acre site."
+   },
+   {
+    "para": 0,
+    "src": "https://m.connectionnewspapers.com/news/2023/jun/28/amazon-data-center-coming-franconia-district/",
+    "t": "In their place AWS plans a two storey data center of 120,000 square feet, with no construction timeline announced."
+   },
+   {
+    "para": 0,
+    "src": "data:capacity_mw",
+    "t": "The entry puts the site at 7961 Loisdale Road on 23 acres, marks it proposed and holds no capacity figure."
+   },
+   {
+    "para": 1,
+    "src": "https://m.connectionnewspapers.com/news/2023/jun/28/amazon-data-center-coming-franconia-district/",
+    "t": "The plan comes with the usual frontage work: an accessible trail with ramps, a compliant bus shelter, Level 2 electric vehicle charging, bicycle parking and landscaping."
+   },
+   {
+    "para": 1,
+    "src": "https://m.connectionnewspapers.com/news/2023/jun/28/amazon-data-center-coming-franconia-district/",
+    "t": "An AWS spokesperson, Duncan Neasham, made the company's general case rather than a specific one, saying its data centers bring job creation, investment and educational programmes, and noting that Amazon had put more than $51.9 billion into Virginia's economy and paid $334 million in personal property taxes in 2022."
+   },
+   {
+    "para": 1,
+    "src": "https://m.connectionnewspapers.com/news/2023/jun/28/amazon-data-center-coming-franconia-district/",
+    "t": "He did not give a figure for this building."
+   },
+   {
+    "para": 2,
+    "src": "https://www.fairfaxcounty.gov/planning-development/data-centers",
+    "t": "The county rules changed after the demolition."
+   },
+   {
+    "para": 2,
+    "src": "https://www.fairfaxcounty.gov/planning-development/data-centers",
+    "t": "Fairfax County's board of supervisors adopted a data center zoning amendment on September 10, 2024, effective the next day."
+   },
+   {
+    "para": 2,
+    "src": "https://www.ffxnow.com/2026/04/24/bespoke-data-center-buildings-proposed-near-tysons-residences/",
+    "t": "It caps data centers at 80,000 square feet, which is smaller than what AWS described here, and requires 200 feet between a data center and homes."
+   },
+   {
+    "para": 2,
+    "src": "https://www.fairfaxcounty.gov/planning-development/data-centers",
+    "t": "It applies to new data centers; this one was announced before it."
+   }
+  ],
+  "sources": [
+   "https://m.connectionnewspapers.com/news/2023/jun/28/amazon-data-center-coming-franconia-district/",
+   "https://www.fairfaxcounty.gov/planning-development/data-centers",
+   "https://www.ffxnow.com/2026/04/24/bespoke-data-center-buildings-proposed-near-tysons-residences/"
+  ],
+  "unconfirmed": "Whether the building has been constructed since 2023 could not be established, and no power draw, water use or opening date has been published. How the September 2024 zoning amendment applies to a project already this far along is not stated in anything read. Our 23 acres does not match the 17.5 acres in the reporting, and our address gives only one of the two parcels. The Fairfax County planning report in our record is a PDF that was not opened."
+ },
+ {
+  "id": "ft-988",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "An operating data center of four acres is recorded at 7600 Boston Boulevard in Springfield, in the Newington part of Fairfax County, under the name VA 95 BUILDING NINE LP.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "What is happening nearby is better documented.",
+    "src": "https://m.connectionnewspapers.com/news/2023/jun/28/amazon-data-center-coming-franconia-district/"
+   },
+   {
+    "para": 1,
+    "t": "Two kilometres away, Amazon Web Services demolished two office buildings at 7951 and 7961 Loisdale Road in June 2023 to make room for a two storey data center of 120,000 square feet on a 17.5 acre site.",
+    "src": "https://m.connectionnewspapers.com/news/2023/jun/28/amazon-data-center-coming-franconia-district/"
+   },
+   {
+    "para": 1,
+    "t": "No construction timeline for it was announced.",
+    "src": "https://m.connectionnewspapers.com/news/2023/jun/28/amazon-data-center-coming-franconia-district/"
+   },
+   {
+    "para": 2,
+    "t": "The county has since drawn a line.",
+    "src": "https://www.fairfaxcounty.gov/planning-development/data-centers"
+   },
+   {
+    "para": 2,
+    "t": "Fairfax County's board of supervisors adopted a data center zoning amendment on September 10, 2024, effective the next day.",
+    "src": "https://www.fairfaxcounty.gov/planning-development/data-centers"
+   },
+   {
+    "para": 2,
+    "t": "It caps new data centers at 80,000 square feet and requires 200 feet of separation from homes, limits that a current application at Tysons exceeds on both counts.",
+    "src": "https://www.ffxnow.com/2026/04/24/bespoke-data-center-buildings-proposed-near-tysons-residences/"
+   }
+  ],
+  "sources": [
+   "https://m.connectionnewspapers.com/news/2023/jun/28/amazon-data-center-coming-franconia-district/",
+   "https://www.fairfaxcounty.gov/planning-development/data-centers",
+   "https://www.ffxnow.com/2026/04/24/bespoke-data-center-buildings-proposed-near-tysons-residences/"
+  ],
+  "unconfirmed": "Nothing describing this building was found: no operator, no floor area, no power draw, no age and no tenant. Searches on the partnership name, on the street, and on Newington and Springfield with the words data center produced a parcel listing and nothing else. A trade item about an eleven building flex, office and data center portfolio in Springfield changing hands for $127.5 million may cover this address, but the page refused requests and it was not confirmed. This pass removed a sentence describing our own record and the filler; no new search was spent."
+ },
+ {
+  "id": "ft-1043",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Austin Ridge Logistics Center is a rezoning application for a data center campus on 183 acres at the end of Cedar Lane, about 2,000 feet south of Courthouse Road and west of Interstate 95, at Hartwood in Stafford County.",
+    "src": "https://www.fredericksburgfreepress.com/2025/01/22/biz-beat-roundup-more-data-centers-proposed-in-stafford/"
+   },
+   {
+    "para": 0,
+    "t": "The applicant is Nathaniel Hagedorn of NP Austin Ridge LLC.",
+    "src": "https://www.fredericksburgfreepress.com/2025/01/22/biz-beat-roundup-more-data-centers-proposed-in-stafford/"
+   },
+   {
+    "para": 0,
+    "t": "The scheme runs to roughly 2.1 million square feet, of which about 1.6 million would be data center buildings and the rest other industrial uses.",
+    "src": "https://www.fredericksburgfreepress.com/2025/01/22/biz-beat-roundup-more-data-centers-proposed-in-stafford/"
+   },
+   {
+    "para": 1,
+    "t": "It is one of five put to Stafford County in the same period, and it is not the biggest.",
+    "src": "https://www.fredericksburgfreepress.com/2025/01/22/biz-beat-roundup-more-data-centers-proposed-in-stafford/"
+   },
+   {
+    "para": 1,
+    "t": "The GWV Data Center would take 1,042 acres north of Ramoth Church Road and south of Courthouse Road, near the Courthouse Road interchange, for about 7.9 million square feet, from Andrew Garrett of The Garrett Companies.",
+    "src": "https://www.fredericksburgfreepress.com/2025/01/22/biz-beat-roundup-more-data-centers-proposed-in-stafford/"
+   },
+   {
+    "para": 1,
+    "t": "Enon Road Technology Park would take 162 acres south of Enon Road near the Wyatt Lane intersection for up to 2 million square feet, from Jacob Manevich of GAM Stafford LLC.",
+    "src": "https://www.fredericksburgfreepress.com/2025/01/22/biz-beat-roundup-more-data-centers-proposed-in-stafford/"
+   },
+   {
+    "para": 1,
+    "t": "Cranes Corner would take 46 acres east of U.S. 1, about 1,400 feet north of the Centreport Parkway intersection, for about 900,000 square feet, from Jacob Manevich of GAM 403 Mountain LLC.",
+    "src": "https://www.fredericksburgfreepress.com/2025/01/22/biz-beat-roundup-more-data-centers-proposed-in-stafford/"
+   },
+   {
+    "para": 1,
+    "t": "Accokeek Center would put 520,000 square feet on 80 acres between U.S. 1 and Interstate 95, south of the Rappahannock Regional Jail, from Stephen W. DeFalco of Falmouth Tech LLC.",
+    "src": "https://www.fredericksburgfreepress.com/2025/01/22/biz-beat-roundup-more-data-centers-proposed-in-stafford/"
+   },
+   {
+    "para": 2,
+    "t": "An April 2025 impact statement for the neighbouring GWV campus said Austin Ridge Logistics was seeking a rezoning to heavy industrial to support data center use.",
+    "src": "https://www.fxbgadvance.com/p/developer-seeks-rezoning-for-79-million"
+   },
+   {
+    "para": 2,
+    "t": "In February 2026 a separate project nearby on Courthouse Road, Courthouse West LLC's Market at Austin Ridge, dropped its own data center option after opposition, and Planning Commission chair Kristen Barnes told its engineers, \"The M1 we have there now [Austin Ridge Logistics] is plenty.\"",
+    "src": "https://www.fxbgadvance.com/p/stafford-planning-commission-defers-2c6"
+   }
+  ],
+  "sources": [
+   "https://www.fredericksburgfreepress.com/2025/01/22/biz-beat-roundup-more-data-centers-proposed-in-stafford/",
+   "https://www.fxbgadvance.com/p/developer-seeks-rezoning-for-79-million",
+   "https://www.fxbgadvance.com/p/stafford-planning-commission-defers-2c6"
+  ],
+  "unconfirmed": "No megawatt figure, water demand, tenant or hearing date was established for Austin Ridge, and our record holds none. Whether the rezoning has since been granted, refused or withdrawn is unknown: our only reporting source is from January 2025 and the Stafford assessor's page in our record was not read. No organised opposition was found. Barnes's remark implies the Austin Ridge Logistics land is zoned M1 (light industrial); whether its heavy industrial rezoning for data centers has been decided was not found. The Market at Austin Ridge is a different, smaller project and is described only as nearby. This pass removed a sentence about our record and the filler. Search run: \"Austin Ridge data center Stafford County Hartwood Cedar Lane rezoning vote Hagedorn\"."
+ }
+]

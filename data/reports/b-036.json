@@ -1,0 +1,570 @@
+[
+ {
+  "id": "amazon-aws-la-cartuja-zaragoza",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Zaragoza has run out of room on the wires. The metropolitan area's substations have reached capacity, which is blocking other projects and pushing new data centres out of the city.",
+    "src": "https://www.xataka.com/empresas-y-economia/bienvenido-mr-bezos-nuevo-centro-datos-amazon-se-instalara-puebla-hijar"
+   },
+   {
+    "para": 0,
+    "t": "Amazon's proposed data centre at La Cartuja Baja sits in the Parque Tecnologico del Reciclado on the southeastern edge of the city.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "AWS now plans 11 campuses across the three provinces of Aragon, covering close to 1,000 hectares, with investment put at 33.7 billion euro through 2036, the largest private investment in the region's history.",
+    "src": "https://www.hoyaragon.es/articulo/noticias-aragon/centros-datos-amazon-aragon-donde-estan/20260426104512128887.html"
+   },
+   {
+    "para": 1,
+    "t": "The company projects 4,200 direct jobs a year on average and 13,400 jobs counting indirect work.",
+    "src": "https://www.hoyaragon.es/articulo/noticias-aragon/centros-datos-amazon-aragon-donde-estan/20260426104512128887.html"
+   },
+   {
+    "para": 1,
+    "t": "The whole programme was declared an investment of regional interest, which speeds its permits through.",
+    "src": "https://www.hoyaragon.es/articulo/noticias-aragon/centros-datos-amazon-aragon-donde-estan/20260426104512128887.html"
+   },
+   {
+    "para": 2,
+    "t": "That fast track is what is now in court. In January 2026 the groups Tu Nube Seca Mi Rio and Ecologistas en Accion filed an administrative appeal against the Government of Aragon, and the High Court of Justice of Aragon accepted it weeks later.",
+    "src": "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath"
+   },
+   {
+    "para": 2,
+    "t": "The groups say one complex alone would account for 16.5 percent of the region's total energy use, and that water consumption has never been disclosed.",
+    "src": "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath"
+   },
+   {
+    "para": 3,
+    "t": "Microsoft's Zaragoza site stands about 12 kilometres away, AWS El Burgo de Ebro about 14 kilometres away, Microsoft La Muela about 20 kilometres away and AWS Villanueva de Gallego about 23 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.xataka.com/empresas-y-economia/bienvenido-mr-bezos-nuevo-centro-datos-amazon-se-instalara-puebla-hijar",
+   "https://www.hoyaragon.es/articulo/noticias-aragon/centros-datos-amazon-aragon-donde-estan/20260426104512128887.html",
+   "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "Our record still lists La Cartuja as proposed rather than built, and no construction start has been reported."
+ },
+ {
+  "id": "amazon-aws-la-puebla-de-hijar-teruel",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "La Puebla de Hijar has 935 residents. Amazon has secured 70 hectares beside the N-232 there for what will be its largest data centre campus in Aragon.",
+    "src": "https://www.xataka.com/empresas-y-economia/bienvenido-mr-bezos-nuevo-centro-datos-amazon-se-instalara-puebla-hijar"
+   },
+   {
+    "para": 0,
+    "t": "The village got the project because Zaragoza could not take it. The metropolitan area's substations have reached capacity, and Amazon needed somewhere with power guaranteed.",
+    "src": "https://www.xataka.com/empresas-y-economia/bienvenido-mr-bezos-nuevo-centro-datos-amazon-se-instalara-puebla-hijar"
+   },
+   {
+    "para": 0,
+    "t": "The site has 100 megawatts guaranteed through Endesa's network, connected at the Hijar substation. Construction is due to start in autumn 2027.",
+    "src": "https://www.xataka.com/empresas-y-economia/bienvenido-mr-bezos-nuevo-centro-datos-amazon-se-instalara-puebla-hijar"
+   },
+   {
+    "para": 0,
+    "t": "Local technology sources put the investment at about 5 billion euro. It is the first data centre in Teruel province.",
+    "src": "https://www.xataka.com/empresas-y-economia/bienvenido-mr-bezos-nuevo-centro-datos-amazon-se-instalara-puebla-hijar"
+   },
+   {
+    "para": 1,
+    "t": "The fight here is over water. The campus needs 350,000 cubic metres a year for cooling. Amazon proposes taking it directly from the Ebro, and talks with the Gaen irrigation community have been stuck for months, with the irrigators saying they will not put the area's water future at risk.",
+    "src": "https://www.xataka.com/empresas-y-economia/bienvenido-mr-bezos-nuevo-centro-datos-amazon-se-instalara-puebla-hijar"
+   },
+   {
+    "para": 2,
+    "t": "Counting the neighbouring municipality of Azaila, the Teruel campus covers 328.59 hectares, 317.7 of them at La Puebla de Hijar. The site lies 2.3 kilometres from the village and 51 kilometres from Zaragoza.",
+    "src": "https://www.hoyaragon.es/articulo/noticias-aragon/centros-datos-amazon-aragon-donde-estan/20260426104512128887.html"
+   },
+   {
+    "para": 2,
+    "t": "It is part of a third expansion running from 2027 to 2036, alongside a 294 hectare campus at San Mateo de Gallego and a 46.93 hectare extension at Huesca.",
+    "src": "https://www.hoyaragon.es/articulo/noticias-aragon/centros-datos-amazon-aragon-donde-estan/20260426104512128887.html"
+   },
+   {
+    "para": 3,
+    "t": "Aragon has drawn more than 47 billion euro of data centre investment in total, which local coverage places third in Europe behind London and Frankfurt. AWS alone is reported to have invested more than 15 billion euro in the region so far.",
+    "src": "https://www.xataka.com/empresas-y-economia/bienvenido-mr-bezos-nuevo-centro-datos-amazon-se-instalara-puebla-hijar"
+   },
+   {
+    "para": 3,
+    "t": "The approvals route is being challenged in court. Tu Nube Seca Mi Rio and Ecologistas en Accion filed an appeal against the Government of Aragon in January 2026 over the fast track used for Amazon's projects, and the regional High Court accepted the case.",
+    "src": "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath"
+   }
+  ],
+  "sources": [
+   "https://www.xataka.com/empresas-y-economia/bienvenido-mr-bezos-nuevo-centro-datos-amazon-se-instalara-puebla-hijar",
+   "https://www.hoyaragon.es/articulo/noticias-aragon/centros-datos-amazon-aragon-donde-estan/20260426104512128887.html",
+   "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "No resident of La Puebla de Hijar or Azaila is quoted in the sources reached, and no representative of the Gaen irrigation community is named. Reported figures for the site vary between 70 hectares secured and 317.7 hectares for the whole campus, and the 5 billion euro investment is attributed to unnamed local sources rather than to Amazon. Whether the water agreement has since been settled is not known."
+ },
+ {
+  "id": "amazon-aws-massen-niederlausitz",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Amazon data centre site at Massen-Niederlausitz lies in the Gewerbegebiet Massen beside the B96, near Finsterwalde in the Elbe-Elster district of southern Brandenburg, in the Lusatian coalfield Germany is winding down.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It is no longer a proposal.",
+    "src": "https://www.datacenter-insider.de/aws-baut-rechenzentrum-bei-finsterwalde-im-gewerbegebiet-massen-a-4d9b9567a4bcf8f12f5307d6d5a95b57/"
+   },
+   {
+    "para": 0,
+    "t": "By May 2026 earthworks were visible across the site, temporary surfaces had been laid for construction and logistics, and a container village had been put up to house the workers.",
+    "src": "https://www.datacenter-insider.de/aws-baut-rechenzentrum-bei-finsterwalde-im-gewerbegebiet-massen-a-4d9b9567a4bcf8f12f5307d6d5a95b57/"
+   },
+   {
+    "para": 1,
+    "t": "The site is planned for a connection capacity of about 200 megawatts, which makes it one of the largest data centre projects in southern Brandenburg.",
+    "src": "https://www.datacenter-insider.de/aws-baut-rechenzentrum-bei-finsterwalde-im-gewerbegebiet-massen-a-4d9b9567a4bcf8f12f5307d6d5a95b57/"
+   },
+   {
+    "para": 1,
+    "t": "The Elbe-Elster district building authority issued the permit after about four months.",
+    "src": "https://www.datacenter-insider.de/aws-baut-rechenzentrum-bei-finsterwalde-im-gewerbegebiet-massen-a-4d9b9567a4bcf8f12f5307d6d5a95b57/"
+   },
+   {
+    "para": 1,
+    "t": "Approval for a substation on the property was still partly outstanding.",
+    "src": "https://www.datacenter-insider.de/aws-baut-rechenzentrum-bei-finsterwalde-im-gewerbegebiet-massen-a-4d9b9567a4bcf8f12f5307d6d5a95b57/"
+   },
+   {
+    "para": 2,
+    "t": "Massen is one of two Brandenburg sites carrying the first region of the AWS European Sovereign Cloud, built for public bodies and regulated industries that need their data held and run inside Europe.",
+    "src": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/elbe-elster/massen/307913/78-mrd-euro-amazon-plant-rechenzentren-in-baruth-und-massen.html"
+   },
+   {
+    "para": 2,
+    "t": "It opened on January 15, 2026.",
+    "src": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/elbe-elster/massen/307913/78-mrd-euro-amazon-plant-rechenzentren-in-baruth-und-massen.html"
+   },
+   {
+    "para": 2,
+    "t": "The region runs on three availability zones, physically separate sites, as AWS regions normally do.",
+    "src": "https://www.datacenter-insider.de/aws-baut-rechenzentrum-bei-finsterwalde-im-gewerbegebiet-massen-a-4d9b9567a4bcf8f12f5307d6d5a95b57/"
+   },
+   {
+    "para": 2,
+    "t": "AWS has committed more than 7.8 billion euro to the programme in Germany, says it will support an average of 2,800 full time jobs a year, and puts the addition to German GDP at 17.2 billion euro.",
+    "src": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/elbe-elster/massen/307913/78-mrd-euro-amazon-plant-rechenzentren-in-baruth-und-massen.html"
+   },
+   {
+    "para": 3,
+    "t": "State officials have welcomed it without qualification.",
+    "src": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/elbe-elster/massen/307913/78-mrd-euro-amazon-plant-rechenzentren-in-baruth-und-massen.html"
+   },
+   {
+    "para": 3,
+    "t": "Brandenburg's economics minister, Daniel Keller, said the state was on course to become Germany's leading data centre location after the Rhine-Main region.",
+    "src": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/elbe-elster/massen/307913/78-mrd-euro-amazon-plant-rechenzentren-in-baruth-und-massen.html"
+   },
+   {
+    "para": 3,
+    "t": "Minister-President Dietmar Woidke framed it as digital infrastructure for education, healthcare, public administration and industry, and justice and digitalisation minister Benjamin Grimm said it keeps sensitive data under European protection standards.",
+    "src": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/elbe-elster/massen/307913/78-mrd-euro-amazon-plant-rechenzentren-in-baruth-und-massen.html"
+   },
+   {
+    "para": 4,
+    "t": "What the region has less of is water and grid headroom.",
+    "src": "https://www.entwicklungsstadt.de/15-rechenzentren-fuer-brandenburg-was-der-ki-boom-fuer-die-region-bedeutet/"
+   },
+   {
+    "para": 4,
+    "t": "Brandenburg now has 15 data centre projects, seven in planning, five under construction and three paused, which together could take the state's computing capacity from under 50 megawatts to almost 900.",
+    "src": "https://www.entwicklungsstadt.de/15-rechenzentren-fuer-brandenburg-was-der-ki-boom-fuer-die-region-bedeutet/"
+   },
+   {
+    "para": 4,
+    "t": "Many Brandenburg districts appear on the Heisse Luft initiative's mapping as areas under structural or acute groundwater stress, and the regional power network is described as reaching its limits given the number of connection requests.",
+    "src": "https://www.entwicklungsstadt.de/15-rechenzentren-fuer-brandenburg-was-der-ki-boom-fuer-die-region-bedeutet/"
+   },
+   {
+    "para": 4,
+    "t": "Another 200 megawatt project, the Schwarz Group's Home of STACKIT at Lübbenau, is due in 2027 on an 11 billion euro investment.",
+    "src": "https://www.entwicklungsstadt.de/15-rechenzentren-fuer-brandenburg-was-der-ki-boom-fuer-die-region-bedeutet/"
+   },
+   {
+    "para": 5,
+    "t": "No other data centre project sits within 40 kilometres of this site.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.datacenter-insider.de/aws-baut-rechenzentrum-bei-finsterwalde-im-gewerbegebiet-massen-a-4d9b9567a4bcf8f12f5307d6d5a95b57/",
+   "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/elbe-elster/massen/307913/78-mrd-euro-amazon-plant-rechenzentren-in-baruth-und-massen.html",
+   "https://www.entwicklungsstadt.de/15-rechenzentren-fuer-brandenburg-was-der-ki-boom-fuer-die-region-bedeutet/"
+  ],
+  "unconfirmed": "No site area, building count, investment figure for this location alone, water withdrawal figure or completion date was found. Searches on Massen-Niederlausitz with Finsterwalde, on Baruth and Massen with Amazon, and on the European Sovereign Cloud with Brandenburg turned up no objection, council debate or resident comment on this site, and no critic is quoted by name in any of the coverage. Our record listed it as proposed; it has been under construction since at least May 2026."
+ },
+ {
+  "id": "amazon-aws-baruth-mark",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon's Baruth/Mark data centre site sits on the B115 south of Berlin, in Brandenburg.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It is the second of the two locations carrying the first region of the AWS European Sovereign Cloud, alongside Massen near Finsterwalde, and is planned at about 100 megawatts against Massen's 200.",
+    "src": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/elbe-elster/massen/307913/78-mrd-euro-amazon-plant-rechenzentren-in-baruth-und-massen.html"
+   },
+   {
+    "para": 0,
+    "t": "The sovereign cloud is meant for public bodies and regulated industries that need their data kept under European control, and it opened on January 15, 2026.",
+    "src": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/elbe-elster/massen/307913/78-mrd-euro-amazon-plant-rechenzentren-in-baruth-und-massen.html"
+   },
+   {
+    "para": 0,
+    "t": "Both campuses start in leased data centres before AWS moves to its own buildings.",
+    "src": "https://ayedo.de/en/posts/aws-european-sovereign-cloud-in-brandenburg/"
+   },
+   {
+    "para": 1,
+    "t": "AWS has committed more than 7.8 billion euro to the programme in Germany and says it will support about 2,800 full time jobs a year.",
+    "src": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/elbe-elster/massen/307913/78-mrd-euro-amazon-plant-rechenzentren-in-baruth-und-massen.html"
+   },
+   {
+    "para": 1,
+    "t": "Brandenburg's economics minister, Daniel Keller, said the state was on course to become Germany's leading data centre location after the Rhine-Main region.",
+    "src": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/elbe-elster/massen/307913/78-mrd-euro-amazon-plant-rechenzentren-in-baruth-und-massen.html"
+   },
+   {
+    "para": 2,
+    "t": "The state now has 15 data centre projects, seven in planning, five under construction and three paused, which could take Brandenburg's computing capacity from under 50 megawatts to almost 900.",
+    "src": "https://www.entwicklungsstadt.de/15-rechenzentren-fuer-brandenburg-was-der-ki-boom-fuer-die-region-bedeutet/"
+   },
+   {
+    "para": 2,
+    "t": "The Heisse Luft initiative's mapping puts many Brandenburg districts in areas of structural or acute groundwater stress, and the regional power network is described as reaching its limits given the volume of connection requests.",
+    "src": "https://www.entwicklungsstadt.de/15-rechenzentren-fuer-brandenburg-was-der-ki-boom-fuer-die-region-bedeutet/"
+   },
+   {
+    "para": 3,
+    "t": "Two other projects sit about 35 kilometres away: a Google data centre near Berlin, which was withdrawn, and two Vantage sites, one operating and one under construction.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/elbe-elster/massen/307913/78-mrd-euro-amazon-plant-rechenzentren-in-baruth-und-massen.html",
+   "https://ayedo.de/en/posts/aws-european-sovereign-cloud-in-brandenburg/",
+   "https://www.entwicklungsstadt.de/15-rechenzentren-fuer-brandenburg-was-der-ki-boom-fuer-die-region-bedeutet/"
+  ],
+  "unconfirmed": "No planning application, site area, building count, investment figure for this location alone, timetable or council decision was found, and no objection or resident comment. The district is given as Dahme-Spreewald in the report used here, while Baruth/Mark is elsewhere recorded as lying in Teltow-Fläming, and the discrepancy was not resolved, so no district is stated above. A figure of up to 2.35 million cubic metres of groundwater a year appears in connection with Baruth in search results, but the page carrying it concerns a separate Red Bull canning plant, so it is not carried here. Why the Google project near Berlin was withdrawn was also not established."
+ },
+ {
+  "id": "amazon-aws-schoeneck",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Schoeneck is a town in debt, and it is selling land for an Amazon data centre to get out of it.",
+    "src": "https://www.datacenter-insider.de/aws-rechenzentrum-soll-schoeneck-aus-der-schuldenkrise-fuehren-a-bbf8c53c2949f395c703a3a804fc7314/"
+   },
+   {
+    "para": 0,
+    "t": "AWS won a bidding process for about 7 hectares in the Kilianstaedten Nord II commercial area northeast of Frankfurt, leaving three hectares for other businesses. The purchase price has not been disclosed.",
+    "src": "https://www.datacenter-insider.de/aws-rechenzentrum-soll-schoeneck-aus-der-schuldenkrise-fuehren-a-bbf8c53c2949f395c703a3a804fc7314/"
+   },
+   {
+    "para": 0,
+    "t": "The town faces a projected deficit of 2.27 million euro for 2025 and recently received 21 million euro in state emergency aid alongside other municipalities in the Main-Kinzig district. It plans to use the sale proceeds to cut debt and build a revenue reserve meant to last 30 to 50 years.",
+    "src": "https://www.datacenter-insider.de/aws-rechenzentrum-soll-schoeneck-aus-der-schuldenkrise-fuehren-a-bbf8c53c2949f395c703a3a804fc7314/"
+   },
+   {
+    "para": 1,
+    "t": "AWS has announced investment of more than 1 billion euro for the project.",
+    "src": "https://www.datacenter-insider.de/aws-rechenzentrum-soll-schoeneck-aus-der-schuldenkrise-fuehren-a-bbf8c53c2949f395c703a3a804fc7314/"
+   },
+   {
+    "para": 1,
+    "t": "Mayor Carina Wacker confirmed AWS as the buyer and said the town had secured its electrical connection capacity early, which she described as an advantage many municipalities do not have.",
+    "src": "https://www.datacenter-insider.de/aws-rechenzentrum-soll-schoeneck-aus-der-schuldenkrise-fuehren-a-bbf8c53c2949f395c703a3a804fc7314/"
+   },
+   {
+    "para": 1,
+    "t": "A pre-study by the utility EAM found that a waste heat network would not currently pay for itself, though the mayor said recovering heat for district heating could become workable later if nearby businesses build out the pipes.",
+    "src": "https://www.datacenter-insider.de/aws-rechenzentrum-soll-schoeneck-aus-der-schuldenkrise-fuehren-a-bbf8c53c2949f395c703a3a804fc7314/"
+   },
+   {
+    "para": 2,
+    "t": "AWS is pursuing a second project at the same time in neighbouring Maintal, about 8 kilometres away.",
+    "src": "https://www.datacenter-insider.de/aws-rechenzentrum-soll-schoeneck-aus-der-schuldenkrise-fuehren-a-bbf8c53c2949f395c703a3a804fc7314/"
+   },
+   {
+    "para": 2,
+    "t": "The site sits at the edge of the Frankfurt cluster: Equinix xScale Frankfurt is about 10 kilometres away, Iron Mountain Frankfurt about 11 kilometres away, and Google's Frankfurt and Hanau sites about 12 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.datacenter-insider.de/aws-rechenzentrum-soll-schoeneck-aus-der-schuldenkrise-fuehren-a-bbf8c53c2949f395c703a3a804fc7314/",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "No construction start date has been announced, and no capacity, water use or building count was published. No objection or resident comment specific to Schoeneck was found, in contrast to the neighbouring Maintal project."
+ },
+ {
+  "id": "amazon-aws-maintal-west",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Maintal has already beaten one data centre, and the people who did it are watching this one.",
+    "src": "https://www.hessenschau.de/wirtschaft/rechenzentrum-in-maintal-amazon-tochter-aws-geht-neue-wege-v1,maintal-aws-rechenzentrum-100.html"
+   },
+   {
+    "para": 0,
+    "t": "An earlier proposal by EdgeConneX for Doernigheim came with its own gas power plant to supply the electricity. That is what residents organised against, and the protest drew national coverage in Der Spiegel, Die Welt and the Frankfurter Allgemeine Zeitung.",
+    "src": "https://www.hessenschau.de/wirtschaft/rechenzentrum-in-maintal-amazon-tochter-aws-geht-neue-wege-v1,maintal-aws-rechenzentrum-100.html"
+   },
+   {
+    "para": 0,
+    "t": "The campaign was led by Thomas Schadt, an aerospace engineer, and Mark Behrend, a former ship's captain, who worked through the technical documents on power consumption and emissions themselves.",
+    "src": "https://www.hessenschau.de/wirtschaft/rechenzentrum-in-maintal-amazon-tochter-aws-geht-neue-wege-v1,maintal-aws-rechenzentrum-100.html"
+   },
+   {
+    "para": 1,
+    "t": "AWS is proposing about ten hectares in the Maintal-West industrial area near the A66, and says it will not build a power plant. It intends to take electricity from the grid under contracts with network operators, through a new high voltage line and transformer station.",
+    "src": "https://www.it-boltwise.de/aws-plant-rechenzentrum-in-maintal-streit-um-strom-und-effizienz.html"
+   },
+   {
+    "para": 1,
+    "t": "Schadt said he took a less critical view of the AWS plan, because no gas plant is attached to it.",
+    "src": "https://www.hessenschau.de/wirtschaft/rechenzentrum-in-maintal-amazon-tochter-aws-geht-neue-wege-v1,maintal-aws-rechenzentrum-100.html"
+   },
+   {
+    "para": 2,
+    "t": "The argument now is about numbers. AWS has declined to name a megawatt figure or a total computing capacity for the site, citing a global average efficiency value of 1.15 but giving no figure for Maintal.",
+    "src": "https://www.hessenschau.de/wirtschaft/rechenzentrum-in-maintal-amazon-tochter-aws-geht-neue-wege-v1,maintal-aws-rechenzentrum-100.html"
+   },
+   {
+    "para": 2,
+    "t": "Citizens' initiatives have asked for concrete figures on total power use, water use and efficiency, and say vague numerical promises are no substitute for transparent technical parameters. They also want detail on the cooling design and on emergency diesel storage.",
+    "src": "https://www.it-boltwise.de/aws-plant-rechenzentrum-in-maintal-streit-um-strom-und-effizienz.html"
+   },
+   {
+    "para": 2,
+    "t": "On water, AWS says it will air cool for 95 percent of operating hours, and that about 93 percent of the cooling water it does use will be rainwater, recycled up to three times, with the rest from wastewater.",
+    "src": "https://www.hessenschau.de/wirtschaft/rechenzentrum-in-maintal-amazon-tochter-aws-geht-neue-wege-v1,maintal-aws-rechenzentrum-100.html"
+   },
+   {
+    "para": 3,
+    "t": "Mayor Monika Boettcher, who sits as an independent, estimates the investment at about 1 billion euro and expects the site to be running within five years. She expects less protest than EdgeConneX drew.",
+    "src": "https://www.hessenschau.de/wirtschaft/rechenzentrum-in-maintal-amazon-tochter-aws-geht-neue-wege-v1,maintal-aws-rechenzentrum-100.html"
+   },
+   {
+    "para": 3,
+    "t": "She has also argued for changing how German business tax is calculated, so that it counts technical performance and energy use rather than only headcount, because data centres employ few people for the capital they absorb.",
+    "src": "https://www.it-boltwise.de/aws-plant-rechenzentrum-in-maintal-streit-um-strom-und-effizienz.html"
+   },
+   {
+    "para": 4,
+    "t": "AWS is pursuing a second site at the same time in neighbouring Schoeneck, about 8 kilometres away. Google's Frankfurt and Hanau sites are about 8 kilometres away, and Vantage Frankfurt about 9 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.hessenschau.de/wirtschaft/rechenzentrum-in-maintal-amazon-tochter-aws-geht-neue-wege-v1,maintal-aws-rechenzentrum-100.html",
+   "https://www.it-boltwise.de/aws-plant-rechenzentrum-in-maintal-streit-um-strom-und-effizienz.html",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "The Hessenschau report is in German, so Thomas Schadt's assessment of the AWS plan is paraphrased rather than quoted."
+ },
+ {
+  "id": "amazon-aws-tnuvot",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon's Tnuvot data centre sits in an industrial zone east of Netanya in the Sharon region, and is one of three AWS sites that make up the company's Israeli cloud region, alongside Shoham and the Har Tov industrial park near Beit Shemesh.",
+    "src": "https://en.globes.co.il/en/article-aws-to-double-data-center-capacity-in-israel-1001526360"
+   },
+   {
+    "para": 0,
+    "t": "The three were built under the Israeli government's Nimbus cloud tender, constructed by Azrieli and a former subsidiary, Compass. The region opened for service in August 2023. The existing Tnuvot building is about 107,000 square feet and 12 megawatts.",
+    "src": "https://en.globes.co.il/en/article-aws-to-double-data-center-capacity-in-israel-1001526360"
+   },
+   {
+    "para": 1,
+    "t": "AWS has signed a letter of intent to lease a further 42 dunams, about 10.5 acres, near Tnuvot from Rotshtein Real Estate, the Yehuda Levy Group and Moshav Tnuvot. Rotshtein bought 60 percent of the plot in 2020 for 116 million shekels.",
+    "src": "https://en.globes.co.il/en/article-aws-to-double-data-center-capacity-in-israel-1001526360"
+   },
+   {
+    "para": 1,
+    "t": "The terms are unusual and specific. AWS would pay 15 million shekels a year for five years, with a penalty of up to 25 million shekels if it walks away, or commit to at least 24 years and 11 months of rent if it builds.",
+    "src": "https://en.globes.co.il/en/article-aws-to-double-data-center-capacity-in-israel-1001526360"
+   },
+   {
+    "para": 1,
+    "t": "The proposed building is 60,000 square metres at 35 to 40 megawatts, matching all of AWS's current Israeli capacity, at an estimated cost of 600 to 800 million dollars, and would roughly double the company's operations in Israel by about 2030.",
+    "src": "https://en.globes.co.il/en/article-aws-to-double-data-center-capacity-in-israel-1001526360"
+   },
+   {
+    "para": 2,
+    "t": "AWS had stopped looking for land to expand in Israel during the recent conflict. This lease marks a return to it.",
+    "src": "https://en.globes.co.il/en/article-aws-to-double-data-center-capacity-in-israel-1001526360"
+   },
+   {
+    "para": 2,
+    "t": "A Nebius site stands about 22 kilometres away and the AWS Tel Aviv region about 30 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://en.globes.co.il/en/article-aws-to-double-data-center-capacity-in-israel-1001526360",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "No planning application, local council decision, objection or resident comment on the Tnuvot site was found, and no water figure has been published. It is not clear whether the new lease has moved beyond a letter of intent."
+ },
+ {
+  "id": "amazon-aws-padre-hurtado-santiago",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Chile has been in drought since 2010, and the forecasts run to 2040. That is the backdrop to every data centre built around Santiago.",
+    "src": "https://restofworld.org/2024/data-centers-environmental-issues/"
+   },
+   {
+    "para": 0,
+    "t": "Amazon's Padre Hurtado campus, on Camino Melipilla west of the city, is an 18.7 hectare site with an investment of 205 million dollars. It includes 12 diesel backup generators and cooling, air conditioning and fire systems Amazon describes as low water use.",
+    "src": "https://www.terram.cl/amazon-invertiria-us-205-millones-en-su-segundo-data-center-en-chile/"
+   },
+   {
+    "para": 0,
+    "t": "The regional environmental evaluation commission approved it in January 2024, and the site opened in 2025.",
+    "src": "https://restofworld.org/2024/data-centers-environmental-issues/"
+   },
+   {
+    "para": 1,
+    "t": "The numbers behind the concern are large. A data centre drawing one megawatt needs roughly 25 million litres of water a year.",
+    "src": "https://restofworld.org/2024/data-centers-environmental-issues/"
+   },
+   {
+    "para": 1,
+    "t": "Google's Quilicura site was authorised to take 50 litres a second, more than a billion litres a year by 2018, and its proposed second site would have taken 228 litres a second, over 7 billion litres a year.",
+    "src": "https://restofworld.org/2024/data-centers-environmental-issues/"
+   },
+   {
+    "para": 1,
+    "t": "After demonstrations by the group Mosacat between 2019 and 2023, Santiago's environmental tribunal suspended Google's Cerrillos project and required the company to reassess its environmental impact. That site sits about 12 kilometres from Amazon's and has not been built.",
+    "src": "https://climatecasechart.com/non-us-case/municipality-of-cerrillos-google-data-center-v-evaluation-commission-of-the-metropolitan-region/"
+   },
+   {
+    "para": 2,
+    "t": "Tania Rodriguez of Mosacat said of the industry: \"It's turned into extractivism. We end up being everybody's backyard.\"",
+    "src": "https://restofworld.org/2024/data-centers-environmental-issues/"
+   },
+   {
+    "para": 2,
+    "t": "Amazon's own proposal at Huechuraba drew close to 50 citizen observations filed in 2023. An AWS spokesperson said the company has complied with all the requirements of the environmental impact declarations for both its Padre Hurtado and Huechuraba sites.",
+    "src": "https://restofworld.org/2024/data-centers-environmental-issues/"
+   },
+   {
+    "para": 3,
+    "t": "In May 2024 President Gabriel Boric announced 28 new data centres coming to Chile, promised they would be environmentally responsible, and committed to a national data centre regulation plan.",
+    "src": "https://restofworld.org/2024/data-centers-environmental-issues/"
+   },
+   {
+    "para": 3,
+    "t": "The area around Padre Hurtado is filling up: Aligned's San Joaquin site is about 10 kilometres away, Oracle's Santiago region about 15 kilometres away, Huawei Cloud about 19 kilometres away and a proposed 100 megawatt TECfusions site at Puente Alto about 22 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://restofworld.org/2024/data-centers-environmental-issues/",
+   "https://www.terram.cl/amazon-invertiria-us-205-millones-en-su-segundo-data-center-en-chile/",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "No water consumption figure specific to Padre Hurtado has been published, and no electrical capacity figure was found. Our record describes this as Amazon's first Chilean campus while one source calls it the second, and that could not be resolved. No resident of Padre Hurtado is quoted in the sources reached."
+ },
+ {
+  "id": "amazon-aws-hyderabad-chandanvelly",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "AWS launched its Hyderabad cloud region in 2022 and has kept building around it. Its data centre at Chandanvelly Industrial Park, in Shabad, Rangareddy district, is operating.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "The company had invested more than 1.3 billion dollars in the Hyderabad region by the end of 2025, and has committed 21 billion dollars to cloud infrastructure across India between 2026 and 2030, part of 48 billion dollars of total Amazon investment in the country over the same period.",
+    "src": "https://www.aboutamazon.in/news/aws/aws-data-centre-hyderabad"
+   },
+   {
+    "para": 1,
+    "t": "Anurag Khilnani, AWS director of data centre delivery, said: \"The support of the State Government of Telangana has been essential to fast-tracking the build of India's digital backbone in Hyderabad.\"",
+    "src": "https://www.aboutamazon.in/news/aws/aws-data-centre-hyderabad"
+   },
+   {
+    "para": 1,
+    "t": "D. Sridhar Babu, the Telangana minister for information technology, said: \"Data centres have become the foundational infrastructure of the digital economy.\"",
+    "src": "https://www.aboutamazon.in/news/aws/aws-data-centre-hyderabad"
+   },
+   {
+    "para": 1,
+    "t": "Amazon says 250 students have gone through its data centre skilling programme in Telangana and 110 of them were hired into its data centre operations team.",
+    "src": "https://www.aboutamazon.in/news/aws/aws-data-centre-hyderabad"
+   },
+   {
+    "para": 2,
+    "t": "A proposed Microsoft site with Adani stands about 17 kilometres away, and Iron Mountain's and Oracle's Hyderabad sites about 31 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.aboutamazon.in/news/aws/aws-data-centre-hyderabad",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "No capacity, water use, land area or building count for the Chandanvelly site was found, and no local coverage of land acquisition, resident concerns or council approval. Amazon's account of a Hyderabad groundbreaking refers to a site at Bharat Future City, and whether that is this site could not be established."
+ },
+ {
+  "id": "amazon-aws-navi-mumbai-taloja",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "AWS is building a 49 acre data centre campus in the MIDC industrial area at Taloja, Navi Mumbai, valued at 429.8 million dollars.",
+    "src": "https://www.storagenewsletter.com/2026/04/16/aws-plans-430-million-data-center-in-navi-mumbai-india/"
+   },
+   {
+    "para": 0,
+    "t": "The land was bought in late 2024 from Macrotech Developers, which trades as Lodha, for 450 crore rupees, about 48.35 million dollars.",
+    "src": "https://www.storagenewsletter.com/2026/04/16/aws-plans-430-million-data-center-in-navi-mumbai-india/"
+   },
+   {
+    "para": 0,
+    "t": "The campus is planned as six buildings: four data centre blocks of seven storeys each, plus two two-storey buildings for electrical and water infrastructure. Total planned capacity is 473 megawatts.",
+    "src": "https://www.storagenewsletter.com/2026/04/16/aws-plans-430-million-data-center-in-navi-mumbai-india/"
+   },
+   {
+    "para": 1,
+    "t": "AWS has announced 8.3 billion dollars for its Mumbai cloud region, on top of 3.7 billion dollars already spent there through 2022, and pledged 35 billion dollars across Indian data centres and AI infrastructure in December 2025.",
+    "src": "https://www.storagenewsletter.com/2026/04/16/aws-plans-430-million-data-center-in-navi-mumbai-india/"
+   },
+   {
+    "para": 1,
+    "t": "Navi Mumbai has become the country's main data centre hub, with STT GDC, L&T, Sify, Colt, Equinix and Bridge Data Centres all operating there.",
+    "src": "https://www.storagenewsletter.com/2026/04/16/aws-plans-430-million-data-center-in-navi-mumbai-india/"
+   },
+   {
+    "para": 2,
+    "t": "Oracle's Mumbai region stands about 10 kilometres away, AdaniConneX at Ghansoli about 15 kilometres away, Iron Mountain Mumbai about 17 kilometres away and Yotta Navi Mumbai, under construction, about 19 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.storagenewsletter.com/2026/04/16/aws-plans-430-million-data-center-in-navi-mumbai-india/",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "No completion date for the Taloja campus was published, and its environmental clearance was described only as filed. No water figure was given, despite two of the six buildings being for water infrastructure, and no local objection or resident comment was found."
+ }
+]

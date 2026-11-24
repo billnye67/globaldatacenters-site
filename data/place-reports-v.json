@@ -1,0 +1,340 @@
+{
+ "/data-centers/united-states/texas/fisher-county/": {
+  "paragraphs": [
+   "The data center in Fisher County is IREN's Sweetwater campus, named for the Nolan County town it neighbors but built across the line in Fisher County itself. Data Center Dynamics reported in May 2026 that IREN's two Sweetwater sites are planned to total 2 gigawatts across 2,200 acres: Sweetwater 1, at 1,700 acres and 1.4 gigawatts, and Sweetwater 2, at 500 acres and 600 megawatts, due for power in 2028. IREN, a former Bitcoin miner turning into an AI cloud provider, says Microsoft is a major customer.",
+   "In early May 2026 IREN energized the Sweetwater 1 substation, connecting it to the Texas grid, with power to ramp up as buildings are finished. IREN's chief operating officer, David Shaw, told KTXS about 300 construction workers were on site, expected to triple or quadruple within six months, with more than 200 people working there once complete. Shaw said the county was chosen for its power infrastructure: it \"has all the electrical infrastructure built out, and over capacity of power.\"",
+   "The county's tax question is still open. The Fisher County Hospital District's board met with IREN and its lawyer to review a proposed tax agreement, then voted to table it for more review. Next door in Nolan County, commissioners approved a 10-year abatement in April 2026 for Crusoe Energy Systems' $7 billion, 200-megawatt project, expected to pay more than $3 million a year in lieu of taxes; resident Hagan Deeter said, \"It will change our rural town.\"",
+   "IREN says Sweetwater 1 will keep expanding through 2027 and Sweetwater 2 is due for power in 2028; whether Fisher County or its hospital district has reached a tax agreement for the campus has not surfaced."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/iren-energizes-first-phase-of-2gw-sweetwater-data-center-campus-in-texas/",
+   "https://ktxs.com/news/local/iren-partners-with-nvidia-to-develop-ai-ready-architecture-for-west-texas-data-center-campus",
+   "https://www.doublemountainchronicle.com/news/fisher-county-hospital-district-stalls-iren-energy-tax-abatement",
+   "https://ktxs.com/news/local/it-will-change-our-rural-town-tax-abatement-for-7-billion-texas-data-center-approved"
+  ]
+ },
+ "/data-centers/united-states/texas/jones-county/": {
+  "paragraphs": [
+   "Lancium, the developer behind the Stargate AI campus in Abilene, has been weighing a second data center in southern Jones County, and the county has not publicly decided anything about it. KTXS first reported the idea in May 2025, after it came up at that week's Commissioners Court meeting. County Judge Dale Spurgin told the station that no action or decision had been taken, and that all the county knew for certain was that it would be in southern Jones County, close to the Lancium campus being built in Taylor County, with a setup similar to the Abilene one. No published report gives an acreage, a megawatt figure or an investment total for the Jones County site.",
+   "The campus this site is mapped against is not in Jones County. The Lancium Clean Campus is in Taylor County: in December 2021 KTXS reported that Taylor County commissioners had approved a tax abatement for it, then called Project Artemis, a $2.4 billion campus on 800 acres that would start at 200 megawatts with a goal of 1 gigawatt, and the West Texas Tribune reported in May 2026 that it lies wholly in Taylor County's Precinct 2. At a Kiwanis Club talk that April, Lancium chief executive Michael McNamara said Oracle is the campus's main tenant on a 15-year lease and Microsoft has taken buildings nine and 10, that the site has a water allocation of 500 gallons a minute and had used 20 gallons a minute the month before, and that natural gas generation on site is backup for those two buildings. Those are his figures. He also said Lancium had pledged 40 permanent jobs per building to the city and county, about 400 across the 10 buildings. Taylor County Commissioner Randy Williams said an abatement package is sometimes what it takes: \"sometimes you have to put a package together that entices a company you want to come to your area.\"",
+   "What a campus of that size does to the land around it is on the record from the Taylor County side. In July 2025 KTXS spoke to Arlene Mendler, who has lived near the site for more than 30 years. She said construction noise starts at four in the morning, that security lights have ended dark skies, and that trucks ignore the \"No Thru Trucks\" signs on her road: \"We take our lives in our hands just going out to the mailbox.\" In May 2026 Rosalie Gray, who lives in Hamby, told the station that at 5 o'clock you could wait almost an hour to get off Emdale Road, that school bus routes had been changed because stops were no longer safe, and that there had recently been a death at the corner near her home. Asked what it was doing, the Texas Department of Public Safety said it had run operations to keep construction trucks operating safely.",
+   "Around Jones County the projects keep coming. To the west, IREN has energized the first 1.4GW phase of its Sweetwater campus in Fisher County, and Nolan County approved a 10-year tax abatement in April 2026 for a $7 billion Crusoe Energy data center. In July 2026 Lancium and QTS, a Blackstone company, announced a campus near Turkey in Hall County that they said would bring more than $10 billion of investment; that figure is the companies' own. At the Kiwanis talk McNamara said further Panhandle projects were coming and that Abilene would remain Lancium's largest.",
+   "What happens next is a tax abatement decision. Whether Jones County has approved a reinvestment zone or an abatement agreement for Lancium has not been reported."
+  ],
+  "sources": [
+   "https://ktxs.com/news/local/southern-jones-county-eyed-for-new-lancium-data-center-no-decision-made-yet",
+   "https://ktxs.com/news/local/taylor-county-and-city-of-abilene-partner-with-lancium-for-data-center-campus",
+   "https://westtexastribune.org/2026/05/05/lancium-ceo-addresses-abilenes-concerns/",
+   "https://ktxs.com/news/local/country-living-disrupted-by-lancium-project-construction-residents-voice-concerns",
+   "https://ktxs.com/news/local/why-am-i-being-penalized-residents-voice-ai-data-center-traffic-concerns",
+   "https://www.datacenterdynamics.com/en/news/iren-energizes-first-phase-of-2gw-sweetwater-data-center-campus-in-texas/",
+   "https://ktxs.com/news/local/it-will-change-our-rural-town-tax-abatement-for-7-billion-texas-data-center-approved",
+   "https://lancium.com/2026/07/13/qts-and-lancium-announce-data-center-campus-in-hall-county-texas/"
+  ],
+  "unconfirmed": [
+   "The site record lists the Lancium Clean Campus at Abilene under Jones County. Reporting places that campus in Taylor County; the Jones County project is a separate, second Lancium proposal.",
+   "Citizen Portal pages summarising Jones County Commissioners Court meetings in February, March and April 2026 say Lancium items, including tax abatement procedure, were discussed with no action taken. Those pages are labelled AI-generated, so nothing from them is used.",
+   "A search preview gave a Bean Road address and a 280,000 square foot building for a Jones County site; no article that opened confirms it, so it is not used.",
+   "The Big Country Homepage story on Abilene's abatement returned an access-denied page."
+  ]
+ },
+ "/data-centers/united-states/texas/winkler-county/": {
+  "paragraphs": [
+   "Outside Wink, on County Road 209 near the New Mexico line, Cipher's Black Pearl site began as a Bitcoin mine and is being turned into an Amazon data center. Data Center Dynamics first reported it in October 2024, from a Texas Department of Licensing and Regulation filing in which Cipher Black Pearl LLC applied to build a 19,579 square foot single-story metal building at 11786 County Road 209, with construction running from August to December 2024 and about $7 million to be spent. Cipher had bought the site in late 2023 and said it would total 300MW, 250MW of it air-cooled mining and 50MW liquid-cooled. In June 2025 DCD reported that the first 150MW of mining had gone live. Cipher's chief executive, Tyler Page, said the company had delivered the data center \"in just 16 months\".",
+   "Within a year the site had a different purpose. DCD reported in February 2026 that the 300MW site was to be leased to Amazon Web Services for at least 15 years, as part of a broader deal with AWS that DCD put at $5.5 billion across several sites, and that Cipher was raising $2 billion in senior secured notes due 2031 to pay the remaining cost of converting Black Pearl from a cryptomine to an AI data center. Bloomberg reported that the bond sale drew $13 billion of orders, DCD said. In March 2026 DCD reported that 6,840 mining rigs that had been powered up at Black Pearl went to Canaan as part of a deal in which Canaan also bought Cipher's stake in three other West Texas mines. The company rebranded from Cipher Mining to Cipher Digital as it moved away from mining.",
+   "West Texas is where Cipher has built most of its business. DCD has reported that Cipher runs a 207MW site in Odessa; that its Stingray site, 250 acres west of Andrews in Andrews County, is a planned 100MW data center for which it sought $810 million in notes in June 2026; and that its Barber Lake site in Mitchell County, up to 300MW on 587 acres, is pre-leased to Fluidstack, which is backed by Google. In March 2026 Cipher said it had signed a third hyperscale tenant for a new data center at one of its existing sites, without saying which.",
+   "Amazon has begun moving in. San Angelo Live reported in September 2026 that Black Pearl delivered its first capacity to Amazon Web Services in August 2026, two months early, that rent had started, and that the remaining halls were being fitted out while construction of a second phase went on. The same report said Cipher co-sponsored Wink's centennial celebration on May 9, 2026, a street festival marking 100 years since the town's founding, and afterwards called itself a partner in the community where Black Pearl operates."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/cipher-mining-to-develop-300mw-cryptomining-data-center-site-in-west-texas/",
+   "https://www.datacenterdynamics.com/en/news/cipher-mining-launches-150mw-black-pearl-bitcoin-mining-site-in-texas/",
+   "https://www.datacenterdynamics.com/en/news/cipher-mining-plans-2bn-senior-secured-notes-offering-for-amazon-leased-black-pearl-data-center-site-in-texas/",
+   "https://www.datacenterdynamics.com/en/news/canaan-acquires-ciphers-texas-mining-stake-for-3975m/",
+   "https://www.datacenterdynamics.com/en/news/cipher-seeks-810m-in-senior-secured-notes-for-stingray-data-center-in-west-texas/",
+   "https://www.datacenterdynamics.com/en/news/cipher-digital-secures-hyperscale-tenant-under-15-year-lease/",
+   "https://sanangelolive.com/news/business/2026-09-11/data-center-ai-companies-pay-upgrade-colorado-citys-water-system"
+  ],
+  "unconfirmed": [
+   "Three searches found no local news report on Black Pearl; the Odessa and Midland outlets returned nothing on it.",
+   "Search previews from data center tracker sites gave a 216MW critical IT load, an October 2026 rent start and Oncor as the utility. None is a news report and none is used.",
+   "The NewsWest9 story on the Winkler County News closing returned access denied."
+  ]
+ },
+ "/data-centers/united-states/texas/ector-county/": {
+  "paragraphs": [
+   "The biggest data center planned in Ector County is Texas Critical Data Centers, a campus near Penwell in the west of the county, beside a Vistra gas plant that has now agreed to power it. It began in February 2025, when New Era Helium and the GPU cloud company Sharon AI announced that their joint venture had signed a letter of intent with GROW Odessa, the economic development corporation that owned the land, to buy 200 acres for a 250MW AI data center. The Odessa American printed the announcement, in which the companies described the site as close to fiber, two natural gas transmission lines and carbon dioxide pipelines, and said they hoped to bring a first phase online in late 2026. Data Center Dynamics has reported that the project was first pitched at 90MW before being enlarged to 250MW, that New Era bought out Sharon AI's half for $70 million in December 2025 while closing on another 203 acres, taking the campus to 438 acres, and that in April 2026 New Era signed a non-binding letter of intent with Stream Data Centers to develop and finance it.",
+   "On September 22, 2026 DCD reported that New Era, now called New Era Energy & Digital, had signed a 20-year agreement with Luminant, a Vistra subsidiary, for at least 207MW for the first phase, delivered straight from Vistra's 1.1GW gas-fired plant in Odessa, which sits immediately next to the site. Power is due to start flowing in the third quarter of 2027, and Vistra gets a five percent non-voting stake in the data center once it does. New Era's chief executive, Charlie Nelson, said the company now had the land, construction permits and contracted power, and described the site as \"an attractive opportunity to any quality tenant currently in the market\". No tenant has been announced.",
+   "Local officials have backed it from the start. Tom Manskey, economic development director at the Odessa Chamber of Commerce, told the Odessa American the site was near where the Nacero, Summit and FutureGen projects would have gone had any been built, and that he expected this one to happen: \"You can never be totally certain that a project this size will come to fruition, but certainly we're going to do everything we can to help them.\" He said three other data centers had expressed interest in the area, that the companies he was talking to employ between 35 and 75 people each, and that the county was not \"eagerly recruiting crypto\", which he said \"can go away in the night\". Ector County already has one: DCD lists a 207MW Cipher site operating in Odessa, which it described in March 2026 as apparently still a cryptomining site.",
+   "Opposition arrived at the Commissioners Court in August 2026. During public comment at the meeting where the court set its budget hearings, JoAnna Keese accused commissioners of being secretive and said she knew land in the county had already been cleared for a data center and that the project was \"not just in talks\", the Odessa American reported. Another speaker told the court not \"to sell out and bow down you are elected to protect us\", to applause. County Judge Dustin Fawcett repeatedly said the county has no ordinance-making authority and that public meetings would be held before the county made any agreement with a data center. Commissioner Mike Gardner said he did not disagree that data centers could be a problem and was not for tax abatements to lure them, but agreed the county could not tell landowners what to do with their property. Keese said it was the most information she had been given about data centers.",
+   "No figure has been reported for the water Texas Critical Data Centers would use, and no tax abatement for it has been reported either. That summer the court was also asked to hold a hearing on a tax abatement for EMPower USA, a roughly 120MW power plant planned on 20 acres along West Murphy Street, which Fawcett said is not a data center; the company asked for the hearing and vote to be pulled while it reworked its financing. What happens next for the data center is the promised public meetings, which have no announced date, and the first phase's power in 2027."
+  ],
+  "sources": [
+   "https://www.oaoa.com/local-news/business/new-era-helium-sharon-ai-announce-letter-of-intent-to-acquire-200-acre-site-for-data-center-in-the-permian-basin/",
+   "https://www.oaoa.com/local-news/data-center-could-be-coming-soon/",
+   "https://www.datacenterdynamics.com/en/news/new-era-signs-20-year-gas-ppa-with-vistra-subsidiary-to-power-250mw-data-center-in-ector-county-texas/",
+   "https://www.oaoa.com/local-news/tax-rate-budget-hearings-set-by-county/",
+   "https://www.oaoa.com/local-news/county-will-decide-power-plant-abatements/",
+   "https://www.oaoa.com/local-news/power-plant-abatement-hearing-withdrawn/",
+   "https://www.datacenterdynamics.com/en/news/cipher-digital-secures-hyperscale-tenant-under-15-year-lease/",
+   "https://www.datacenterdynamics.com/en/news/cipher-mining-launches-150mw-black-pearl-bitcoin-mining-site-in-texas/"
+  ],
+  "unconfirmed": [
+   "The site record gives Texas Critical Data Centers 1,000MW. The articles that opened give 250MW; a search preview described the campus as master-planned to 1 gigawatt or more over time, which is not used.",
+   "Keese did not name the land she said had been cleared, and no article ties it to a particular project.",
+   "The Odessa American stories carry no printed date in the text that was read; the August 2026 date for the Keese meeting comes from the hearing dates it announces (Aug. 24 and 25).",
+   "No local news story on Cipher's Odessa site was found; only DCD's description of it as a 207MW operating site, apparently for mining."
+  ]
+ },
+ "/data-centers/united-states/texas/glasscock-county/": {
+  "paragraphs": [
+   "Glasscock County is already home to a large Bitcoin mine at Garden City, and a new Austin company plans an AI data center powered by natural gas made on site. Applied Digital powered up its 200-megawatt Garden City site on November 28, 2023, running it on wind power under a deal with Brookfield's TerraForm Power, Data Center Dynamics reported. Marathon Digital bought the site outright in April 2024; chief executive Fred Thiel said the deal gave the company \"an additional 100 megawatts of capacity in which to expand.\"",
+   "The newer project has no firm date. In April 2026 DCD reported that Pace, an Austin firm founded by Preston Stein and Chance Pressley, plans a 100-megawatt \"Lone Star Project\" in the county that it believes could eventually grow to 1 gigawatt, powered by natural gas generated on site rather than drawn from the grid. Stein said the project is built \"around speed to power\"; Pressley said the goal is \"a durable platform in Glasscock County\" built \"wherever possible\" with Texas people and businesses.",
+   "Pace has not said where its water will come from, how much it will use, or exactly where in the county the site sits, and no Commissioners Court vote, tax abatement application, or comment from a county official or resident has surfaced for either project."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/applied-digital-signs-200mw-ppa-with-terraform-power/",
+   "https://ir.mara.com/news-events/press-releases/detail/1350/marathon-digital-holdings-announces-the-closing-of-its-acquisition-of-a-200-megawatt-bitcoin-mining-data-center-adjacent-to-a-wind-farm",
+   "https://www.datacenterdynamics.com/en/news/pace-plans-100mw-texas-first-data-center-in-glasscock-county/"
+  ]
+ },
+ "/data-centers/united-states/texas/castro-county/": {
+  "paragraphs": [
+   "Castro County's only known data center is Alborz, a 40-megawatt bitcoin mine on FM 168 near Happy, next to the Astra Wind Project. Cipher Mining, now Cipher Digital, built and ran Alborz through a joint venture with wind developer WindHQ; Cipher's 2024 annual report to the Securities and Exchange Commission describes the site as powered solely by the wind farm next door. In March 2026, mining hardware maker Canaan bought Cipher's 49% stake in the venture, which also owns two other West Texas mines, for $39.75 million in shares; WindHQ kept its 51%.",
+   "The wind farm that powers Alborz, Astra, covers about 11,000 acres of former ranch and farm land stretching across Randall, Castro and Deaf Smith counties, about 30 miles south of Amarillo. No tax abatement, zoning case or public hearing tied to Alborz has been reported in Castro County. Elsewhere in the Panhandle, Floyd County commissioners facing a proposed Amazon data center campus have looked at a tax abatement as their main tool to require air cooling and on-site power, since county government otherwise has little authority to set conditions on projects like it."
+  ],
+  "sources": [
+   "https://www.sec.gov/Archives/edgar/data/1819989/000181998925000005/cifr-20241231.htm",
+   "https://www.windpowerengineering.com/falvez-energy-gets-ge-financing-163-mw-texas-wind-farm/",
+   "https://www.datacenterdynamics.com/en/news/canaan-acquires-ciphers-texas-mining-stake-for-3975m/",
+   "https://www.rfdtv.com/texas-county-uses-tax-incentives-to-steer-data-center-development"
+  ]
+ },
+ "/data-centers/united-states/texas/freestone-county/": {
+  "paragraphs": [
+   "CyrusOne is building a $1.5 billion, 760-megawatt data center campus on FM 488 outside Fairfield, next to Calpine's Freestone gas-fired power plant, which Constellation Energy bought in January 2026. State filings show three buildings, DFW20A, B and C, each 306,215 square feet; two are under construction and the third was due to start in August 2026, with the campus expected to finish by August 2027. No tenant has been named.",
+   "The fight is over a second phase. CyrusOne is buying 218 acres across FM 488 from local owners to expand, and commissioners set a June 17 hearing on a second tax abatement. So many residents came to a June 3 meeting that it moved to the county's District Courtroom. Fairfield resident Toni Abram asked for \"a 1 to 2 year pause for thorough research by commissioners\"; others raised water, electric bills and noise. One resident said: \"These centers, they use water we won't get back.\"",
+   "At a June 10 meeting, CyrusOne representatives said the campus would use a closed-loop cooling system, about 1,000 gallons per building a day, sound of 45 to 55 decibels, and 40 jobs per building. County Judge Lloyd Lane defended the first deal: \"They could do this project without us and there would be nothing we could do to stop it.\" Then, at the June 17 meeting, Lane told a packed courtroom that CyrusOne had dropped its request for the second abatement. \"As long as they abide by environmental laws, they can do what they want,\" he said, adding the county expects three more data centers to come.",
+   "The first phase is due to finish in August 2027; when work on the second phase will start, and what commissioners will be told about it, is still unclear. CyrusOne and Calpine are also building a second campus, a 400-megawatt project by Calpine's Thad Hill Energy Campus, which DCD said should open by the end of 2026."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/cyrusone-files-to-develop-three-buildings-for-15bn-data-center-campus-in-fairfield-texas/",
+   "https://freestonecountytimesonline.com/citizens-voice-concerns-to-freeco-commissioners/",
+   "https://freestonecountytimesonline.com/concerns-raised-addressed-regarding-data-center-construction-in-freestone-county/",
+   "https://freestonecountytimesonline.com/cyrusone-rescinds-tax-abatement-request-commissioners-hear-concerns/"
+  ]
+ },
+ "/data-centers/united-states/texas/jack-county/": {
+  "paragraphs": [
+   "CyrusOne wants a 10-year tax break for a $600 million, 144-megawatt data center campus on Highway 199 near the Wise County line, and residents have sued the county over how commissioners handled it. The company applied in January 2026 for a reinvestment zone and abatement on 250 acres, planning two buildings on a site master-planned for six. Its power would come from the Wise County Power Station, the gas plant across the road.",
+   "At a May 28 community meeting in the Perrin-Whitt school gym, CyrusOne president John Hatem said the abatement would cut 30% of county property taxes while the site still pays full school taxes, cap noise at 65 dBA by day and 55 at night, and bring more than $2.3 million to county law enforcement and emergency services. He said cooling water would be trucked in: \"We will not use your water for cooling. We will not waste your water.\" About 40 jobs would result, he said: \"This is about the tax revenue this brings to the county.\" County Judge Keith Umphress called the agreement \"the only oversight the county has.\"",
+   "A June 8 hearing was pulled after the county missed the state's 30-day public notice deadline and was rescheduled for July 27. Resident Bobby Miles filed an Open Meetings Act complaint over a May 20 tour of an operating CyrusOne site in Allen that commissioners took with company staff, and on July 8 the North Texas Heritage Association sued the county, the judge and all four commissioners, alleging the tour let commissioners discuss the deal outside public view. The suit seeks to block the county from acting on anything agreed during the tour.",
+   "The rescheduled July 27 hearing was Jack County's next public step on the abatement; the vote was scheduled for that date and no result has been published. Neighboring Wise County, which has no data centers of its own, passed a resolution in March asking the Legislature to give counties more power to regulate them."
+  ],
+  "sources": [
+   "https://www.wcmessenger.com/articles/developer-eyes-2b-data-center-campus-near-wise/",
+   "https://www.grahamleader.com/jacksboro-herald-gazette/news/article_82664679-b484-4ef4-9ad3-43861042df6d.html",
+   "https://www.grahamleader.com/jacksboro-herald-gazette/news/article_9639d6a4-62bf-4473-892b-b53beed4d495.html",
+   "https://www.grahamleader.com/jacksboro-herald-gazette/article_63ee1b86-fdde-402f-b3e0-bd075959cf54.html",
+   "https://www.wcmessenger.com/articles/commissioners-call-for-state-action-on-data-center-development/"
+  ]
+ },
+ "/data-centers/united-states/texas/la-salle-county/": {
+  "paragraphs": [
+   "Cotulla is negotiating to bring Cipher Digital's Reveille data center inside the city, and city officials are open about why: the money. The Frio-Nueces Current reported in August 2026 that Cipher, the former Bitcoin miner, plans a $480 million building on more than 70 acres at the Kemosabe business park, behind the Love's travel center south of the Nueces River, holding an estimated $1.5 billion of servers on the fiber corridor that follows IH-35 between Laredo and Dallas. Data Center Dynamics reported in February 2025 that Cipher owned the Reveille site in Cotulla and that it would start at 70MW, scalable to 200MW; San Angelo Live's September 2026 list of Cipher's sites described it as 70MW approved, with 2027 as the target.",
+   "The Current's report came from a city council meeting on August 13, where councilors were asked to hire consultants to negotiate with the company. City Administrator David Wright said the project would effectively \"double the municipal annual budget\" and estimated Cotulla could earn as much as $50 million over ten years. \"This will not be a job creator,\" he said. \"It will be a money creator.\" Construction could involve 400 to 1,000 workers, but the finished building might employ 50 people or fewer. Cipher has said it will build its own substation under a direct contract with American Electric Power, and may use treated city wastewater for cooling rather than draw on the Carrizo-Wilcox Aquifer, the paper reported; the company would have to pay for a pump station and pipeline across the Nueces River that City Hall put at more than $7 million, still to be negotiated. Mayor Sandra Luna said she had learned the facility would need 12,000 gallons of water a day, \"less than a golf course\". Wright said that if talks stalled or the council said no, Cipher could build outside city limits on Cochina Ranch Road, drill its own well and avoid paying city taxes.",
+   "Not everyone at the table was sure. Councilors had received a confidential memo on the project the month before, and its contents have not been made public. City Attorney Steve Pena told the council that nobody in city government had experience negotiating a deal like this, and said of Cipher: \"Are they for real? We don't know. Are there red flags? None of us knows that.\" He warned that \"data centers are controversial\" and that the industry would face more state regulation. Councilor Raquel Yanez said she was uncertain how healthy the city was financially and wanted to hear from more people who understood the business, and Councilor Billy Alvarado said his own research had not made him comfortable. Councilor Gilbert Ayala said he would support it \"as long as it doesn't mess with the quality of life\". Among the consultants recommended was Jeff Snowden of Capex Consulting, who told the council he believed the city's wastewater supply would be adequate.",
+   "What happens next is a set of agreements between Cotulla and Cipher on infrastructure, utility connections and payments, possibly including a tax break during construction, and permit filings with the state. No published report describes a council vote on them, a La Salle County Commissioners Court action, or any public hearing, and none gives a date for construction to start."
+  ],
+  "sources": [
+   "https://www.frio-nuecescurrent.com/2026/08/20/are-they-for-real/",
+   "https://www.datacenterdynamics.com/en/news/cipher-mining-acquires-more-than-500-acres-across-two-sites-in-texas-for-crypto-and-hpc-use/",
+   "https://sanangelolive.com/news/business/2026-09-11/data-center-ai-companies-pay-upgrade-colorado-citys-water-system"
+  ],
+  "unconfirmed": [
+   "Search previews said Cipher paid $2.5 million for the Reveille site; no article that opened says so.",
+   "The Frio-Nueces Current is marked as subscriber content; the full text was readable and is the source for the council meeting.",
+   "Whether the council hired the consultants on August 13, and any later votes, were not found."
+  ]
+ },
+ "/data-centers/united-states/texas/mcculloch-county/": {
+  "paragraphs": [
+   "The only data center proposed in McCulloch County is Cipher's Mikeska project, outside Brady near Doole, planned at up to 500 megawatts. Data Center Dynamics first reported it in February 2025 as one of three 500-megawatt sites Cipher held options on, then expected to be powered in 2027. By September 2026, San Angelo Live reported Cipher had secured land rights and submitted grid studies to ERCOT, with a target of about 2028.",
+   "No local report has covered the Mikeska site directly, and no county commissioners' action, acreage, water plan or tenant has been published. Governor Greg Abbott's August 2026 moratorium on new data center permits, pending an audit by ERCOT and the Public Utility Commission, applies statewide while regulators review power and water use."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/cipher-mining-acquires-more-than-500-acres-across-two-sites-in-texas-for-crypto-and-hpc-use/",
+   "https://sanangelolive.com/news/business/2026-09-11/data-center-ai-companies-pay-upgrade-colorado-citys-water-system",
+   "https://texasborderbusiness.com/newsbreak-abbott-freezes-texas-data-center-permits-pending-sweeping-power-and-water-review/"
+  ]
+ },
+ "/data-centers/united-states/texas/hidalgo-county/": {
+  "paragraphs": [
+   "Hidalgo County's one mapped data center is not a campus on farmland but a floor of an office tower in downtown McAllen. 1547 Critical Systems Realty, a New Jersey company, runs a data center it calls MCTX1 inside the 17-story Chase Tower at 200 S. 10th St., which also houses Chase Bank, Telemundo 40 and Rhodes Enterprises, MySA reported in August 2025. Fiber lines there carry telecommunications traffic between the United States and Mexico, relaying it for 46 carrier networks, and the site draws 1.5 megawatts of power from underground lines backed by generators.",
+   "The company was planning a $5.3 million renovation, according to Texas Department of Licensing and Regulation records MySA cited, to expand the space to nearly 24,000 square feet and raise power from 1.5 to 5 megawatts within about a year. 1547 calls the Chase Tower \"the most interconnected building in South Texas\" and markets McAllen's position next to Mexico as an advantage. A statewide order from Gov. Greg Abbott, that state regulators issue no new data center permits until pending grid and water audits are complete, could apply to future work here too, Texas Border Business reported."
+  ],
+  "sources": [
+   "https://www.mysanantonio.com/business/article/1547-mctx1-data-center-mcallen-20802823.php",
+   "https://texasborderbusiness.com/newsbreak-abbott-freezes-texas-data-center-permits-pending-sweeping-power-and-water-review/"
+  ]
+ },
+ "/data-centers/south-africa/western-cape/": {
+  "paragraphs": [
+   "Four large new data centers are planned in Cape Town, and together they would need 580 megawatts of power, just over 34% of the city's current maximum electricity demand of 1,676 megawatts, Daily Maverick reported in April 2026. The biggest is a 360-megawatt campus on a 100-hectare site announced by the Cavaleros Group; Teraco plans another 60 megawatts, and Equinix two centers with a combined peak demand of 160 megawatts. The city's Municipal Planning Tribunal approved the Equinix plan on July 14, 2026, with conditions.",
+   "The Equinix site is the old King David golf course next to Cape Town International Airport, in the King Air Industria development. The Housing Assembly, which represents residents of informal settlements and backyard dwellings, and the London group Foxglove objected through the Legal Resources Centre. They said the rezoning rested on \"a 24-page motivational letter that says nothing about water, nothing about emissions, limited on electricity, nothing about diesel generators, nothing about air pollution, nothing about noise.\" Equinix said it would use dry, air-based cooling that needs \"no water for data hall cooling.\"",
+   "The objectors said neighbors in Nooitgedacht, Matroosfontein and Gugulethu had a right to know about diesel exhaust and fuel storage. After the approval, their attorney Kimal Harvey said: \"The people, including us, do not know what this will mean for our already stressed water, electricity and environmental systems.\" The groups said in July they were considering an appeal. The city welcomes the demand, saying data centers' steady power use helps it cross-subsidize other customers. Deputy mayor Eddie Andrews said Equinix still needs further approvals, including a site development plan, before it can build."
+  ],
+  "sources": [
+   "https://www.dailymaverick.co.za/article/2026-04-28-new-data-centres-set-to-swallow-34-of-cape-towns-current-electricity-supply/",
+   "https://www.businessday.co.za/news/2026-07-20-legal-fight-looms-after-cape-town-greenlights-us-giants-hyperscale-data-centre/"
+  ]
+ },
+ "/data-centers/south-africa/kwazulu-natal/": {
+  "paragraphs": [
+   "eThekwini's city council voted in late February 2026 to sign a memorandum with a group of South Korean companies, called the Korea South Power Consortium, to explore an AI data center south of Durban near Amanzimtoti. The city's own briefing report put a possible cost of $3 billion to $10 billion and twice mentioned 400 megawatts of power, but the city says no final decisions have been made and the figures are not confirmed.",
+   "The 5-hectare site sits at the mouth of the Lovu River, close to the Amanzimtoti cable landing station for the 2Africa undersea cable. Ward 97 councillor Andre Beetge, who abstained on the vote, said councillors learned of the deal only two days before it reached the council agenda and that the details were \"conspicuously absent.\" He said the land lies in an environmentally sensitive coastal area and that the city had just redirected money meant for a nearby substation upgrade.",
+   "eThekwini has since said the vote approved only exploratory and feasibility work, not the project itself, any infrastructure commitment or technical specification. \"No final decisions have been made regarding the electricity requirements of the proposed facility,\" the city said, adding that \"any figures currently circulating publicly, including specific megawatt estimates, should not be regarded as confirmed.\" It has not said how much water the plant would need or who would build it.",
+   "The province's existing data centers are far smaller. Teraco's Durban DB1, in Riverhorse Valley, doubled its capacity in 2023 to 2.2 megawatts of critical load with direct access to three subsea cables. Hurricane Electric also runs a data center on Oppenheimer Road in the city center."
+  ],
+  "sources": [
+   "https://www.dailymaverick.co.za/article/2026-03-04-sas-biggest-data-centre-monster-set-to-consume-25-of-durbans-electricity/",
+   "https://iol.co.za/news/south-africa/kwazulu-natal/2026-03-07-concerns-raised-over-ethekwini-municipalitys-ai-data-centre-project-in-amanzimtoti/",
+   "https://www.durban.gov.za/press-statement/Clarity+On+Proposed+Korean+AI+Data+Centre+Engagement",
+   "https://kznindustrialnews.co.za/super-connected-durban-data-centre-doubles-capacity/",
+   "https://insidemetros.co.za/2026/03/04/ethekwini-approves-principles-for-data-centre-not-project/"
+  ]
+ },
+ "/data-centers/ghana/": {
+  "paragraphs": [
+   "Ghana has only small data centers. The largest, Digital Realty's ACR2, opened in Accra in late 2025 on Bank Street and Prof. Atta Mills High Street, near the Achimota Forest Reserve. It has 1.7 megawatts of computing power, room for 500 server racks and a direct link to the 2Africa undersea cable. Equinix, Onix and PAIX also operate in the country.",
+   "The government wants more. At ACR2's launch, Communications Minister Sam George said Ghana's data localization policy means \"all of the local data and traffic that's been processed on clouds outside the country will all have to sit here.\" In April 2026 he announced that the Cabinet had approved $250 million for a national AI computing center to support work in farming, health, education and finance, along with a national AI strategy launched on April 24. No site for the computing center has been announced."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/digital-realty-to-establish-its-first-data-center-in-ghana/",
+   "https://www.graphic.com.gh/news/general-news/digital-realty-opens-ghanas-largest-data-center-in-accra.html",
+   "https://techafricanews.com/2026/04/01/ghana-approves-250m-ai-centre-to-power-digital-transformation/"
+  ]
+ },
+ "/data-centers/philippines/": {
+  "paragraphs": [
+   "The largest data center project in the Philippines is rising beside a busy highway in a low-income neighborhood of Fairview, in Quezon City. STT GDC Philippines, a joint venture of Globe Telecom, Singapore-owned ST Telemedia and Ayala Corporation, is building four data centers there that together will draw up to 124 megawatts of power, enough to supply the five provinces of the Muslim Mindanao region. The joint venture already runs two data centers in Metro Manila, one in Cavite and one in Davao.",
+   "The worry is the power bill. Meralco, the biggest distributor, says it will deliver 1,000 megawatts to 10 data centers and has already built switching stations for STT Fairview and PLDT's Vitro Sta. Rosa in Laguna, reportedly costing P360 million together. Such costs have mostly been passed on to customers with the Energy Regulatory Commission's approval. \"Our electricity costs are so high already,\" said Gerry Arances of the Center for Energy, Ecology, and Development. Myrine Buela, who runs a shop near the Fairview site, said her family of nine is paying more even while cutting back.",
+   "At least 40 data centers are operating or planned, mostly in and around Manila, and PLDT's Vitro is opening 11 of them to clients including Microsoft, Amazon Web Services and Google. Coal generates 60% of the country's electricity. Meralco still has to build connections for eight more data centers, and each cost goes to the Energy Regulatory Commission for approval."
+  ],
+  "sources": [
+   "https://pcij.org/2026/01/11/data-centers-raise-concerns/"
+  ]
+ },
+ "/data-centers/india/karnataka/": {
+  "paragraphs": [
+   "Karnataka has 32 private data centers, 31 of them in Bengaluru, and the state now wants new ones built away from the city's strained water supply. On September 18, 2026, the cabinet, meeting in Mangaluru under Chief Minister DK Shivakumar, approved a Sustainable Data Centre Policy for 2026-2031 that aims for 1 gigawatt of data center capacity by 2031 and will track each center's power and water efficiency. Its first phase is choosing the zones and parks where data centers will go.",
+   "In the Assembly in March, IT Minister Priyank Kharge called data centers \"a necessary evil\" and \"heavy water and energy guzzlers,\" saying each megawatt of capacity needs about 25 million liters of water a year. \"Hyperscale data centres won't suit Bengaluru, which doesn't have a port and faces shortage of water,\" he said. He was answering Doddaballapur BJP legislator Dheeraj Muniraj, who said companies were leaving Bengaluru for lack of data center parks and wanted them in the KWIN City project near Doddaballapur, where 6,000 acres are being acquired.",
+   "In April The News Minute found the state had not systematically measured how much water its data centers draw. The state's April plan named sites: a proposed 500-megawatt park near Hoskote, powered by solar from Pavagada and supplied with 60 million liters a day of treated wastewater, and about 350 acres in Mangaluru's Baikampady Industrial Area. Economist R S Deshpande has questioned whether the state has the staff to carry out the policy, pointing to competing demands for power and water in districts such as Tumakuru."
+  ],
+  "sources": [
+   "https://www.deccanchronicle.com/southern-states/karnataka/karnataka-approves-sustainable-data-centre-policy-20262031-1988661",
+   "https://m.dailyhunt.in/news/india/english/deccan+herald-epaper-deccan/karnatakas+data+centres+guzzling+water+and+energy+state+reviewing+its+policy+priyank+kharge+in+assembly-newsid-n704089359",
+   "https://www.thenewsminute.com/karnataka/in-bengalurus-water-stressed-areas-sit-most-of-its-data-centres",
+   "https://www.medianama.com/2026/09/223-karnataka-sustainable-data-centre-policy/"
+  ]
+ },
+ "/data-centers/india/west-bengal/": {
+  "paragraphs": [
+   "West Bengal's data centers are gathering around Kolkata, in the Bengal Silicon Valley Tech Hub in New Town and on former Hindustan Motors land at Uttarpara in Hooghly district. NTT opened the first two data centers of its New Town campus in February 2025, a year later than it had said; at full size the campus is to reach 40 megawatts of power on 7.5 acres. At Uttarpara, the Hiranandani Group agreed in 2021 to buy 100 acres for a logistics park and six Yotta data center buildings totaling 250 megawatts, with the first due in 2023.",
+   "That first Uttarpara building is not listed as open. Yotta's own website lists live data centers in Navi Mumbai, Greater Noida and GIFT City in Gujarat, and none in West Bengal. Hiranandani put the whole project at more than Rs 10,000 crore and credited \"the tremendous support of the government of West Bengal under the leadership of Chief Minister, Mamata Banerjee.\"",
+   "More are announced for New Town. In May 2025 APAC News Network reported that Reliance Jio was building a 40-acre campus there with Microsoft, due in 2026; that Airtel's Nakshatra and LTIMindtree data centers were under way; that an Adani data center was nearing completion; and that ST Telemedia, which already runs a data center in Ultadanga, was building a second."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/ntt-launches-kolkata-data-center-campus-in-west-bengal-india/",
+   "https://www.business-standard.com/article/companies/hiranandani-to-set-up-logistics-and-hyperscale-data-centre-park-in-bengal-121021501195_1.html",
+   "https://www.datacenterdynamics.com/en/news/hiranandani-group-build-six-hyperscale-data-centers-bengal/",
+   "https://yotta.com/data-center/",
+   "https://apacnewsnetwork.com/2025/05/bengal-witnesses-ai-data-centre-influx-in-2025-jio-airtel-microsoft-adani-in-the-fray/"
+  ]
+ },
+ "/data-centers/malaysia/federal-territory-of-kuala-lumpur/": {
+  "paragraphs": [
+   "Kuala Lumpur has one data center mapped: Huawei Cloud's Malaysian region, which Huawei says is located in the city and keeps customer data in the country. The large campuses are being built around the city: of Malaysia's 123 data centers operating, under construction or planned, 50 are in Selangor and 43 in Johor, Bernama reported in December 2025.",
+   "For city households, the question is who pays for the power and water those campuses need. On December 8, 2025, Deputy Energy Transition and Water Transformation Minister Akmal Nasrullah Mohd Nasir told the Senate that data center operators must bear the full cost of grid upgrades under a \"user pays\" approach, and that domestic water tariffs would not rise because of them. Data centers were drawing 485 megawatts of power in March 2025, nearly five times the year before, Bernama reported."
+  ],
+  "sources": [
+   "https://activity.huaweicloud.com/intl/en-us/malaysia-cloud.html",
+   "https://garasi.bernama.com/stories/the-rise-of-data-centres-can-malaysias-power-grid-cope",
+   "https://www.bernama.com/en/news.php?id=2500044"
+  ]
+ },
+ "/data-centers/mexico/nuevo-leon/": {
+  "paragraphs": [
+   "Nuevo León's running data centers are in Apodaca, near Monterrey's airport. Oracle opened a cloud region in the state in 2023, and Equinix opened its MO2 data center at the Nexxus Aeropuerto industrial park in October 2025, a $250 million project the state says will create 500 jobs, with expansion planned through 2030. Equinix has since announced a second Apodaca data center worth $200 million, and Oracle plans another cloud region in the state but has not said where.",
+   "In San Pedro Garza García, two private companies, AI-Green Data Center and Cipre Holding, plan an AI data center worth about $1 billion over ten years, starting with $100 million. It was first presented in 2025 as an Nvidia investment; Nvidia then said it would not put money into a data center in Nuevo León and would only supply technology.",
+   "The state says it will add 1.5 gigawatts of power generation in 2026, on top of about 13 gigawatts it uses now, and counts about 10 data center projects in the works. \"The bottlenecks are in the last mile, not in generation,\" investment undersecretary Emmanuel Loo said (translated from Spanish), meaning local lines and substations. Drought is spreading too: by January 15, 2026, 13 of the state's municipalities were affected, up from six at the end of 2025."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/oracle-to-develop-cloud-region-in-nuevo-leon-mexico/",
+   "https://nearshoreamericas.com/oracle-to-launch-third-cloud-region-in-mexico/",
+   "https://www.nl.gob.mx/es/boletines/inaugura-equinix-nuevo-centro-de-datos-en-nuevo-leon-con-inversion-de-250-mdd",
+   "https://energymagazine.mx/2026/01/el-data-center-verde-que-encendio-la-polemica-asi-sera-el-proyecto-de-ia-en-nuevo-leon-que-usara-tecnologia-de-nvidia/",
+   "https://reportacero.com/nuevo-leon-acelera-expansion-electrica-para-captar-nueva-ola-de-inversiones-en-data-centers-e-inteligencia-artificial/",
+   "https://abcnoticias.mx/local/2026/1/26/nuevo-leon-duplica-la-sequia-en-este-2026-conagua-268586.html"
+  ]
+ },
+ "/data-centers/vietnam/ho-chi-minh/": {
+  "paragraphs": [
+   "Most of Vietnam's new data center money is going to Ho Chi Minh City. Viettel broke ground in April 2025 on a 140-megawatt data center on nearly four hectares in Tan Phu Trung Industrial Park in Cu Chi district, the first in Vietnam planned above 100 megawatts. At Saigon Hi-Tech Park in Thu Duc, CMC Technology was chosen to build an eight-story, 30-megawatt, $250 million data center, with construction expected to start in the second quarter of 2026.",
+   "More is announced. In February 2026 the UAE technology group G42 and a group of FPT, VinaCapital and Viet Thai unveiled a $2 billion partnership to build data center infrastructure at Saigon Hi-Tech Park, and Singapore-based Evolution, Hathor and Frontier announced Evolution DC VN HCMC, a $508.78 million, 52-megawatt project. NTT's site is smaller: NTT and the local firm QD.Tek set up a joint venture in 2022 to build the 6-megawatt Ho Chi Minh City 1 data center in the hi-tech park.",
+   "Power is the limit. Hanoi and Ho Chi Minh City together have about 73 megawatts of data centers running and 137 more planned by 2030, and a 100-megawatt project faces a wait of about two to three years for new power supply, according to a report carried by VnExpress International in August. Viettel IDC's chief executive, Le Ba Tan, said Vietnam must also solve cooling suited to a tropical climate."
+  ],
+  "sources": [
+   "https://vir.com.vn/city-poised-for-data-centre-investments-128666.html",
+   "https://e.vnexpress.net/news/tech/vietnam-innovation/vietnam-data-center-boom-draws-billions-of-dollars-as-ai-demand-accelerates-5113451.html",
+   "https://www.datacenterdynamics.com/en/news/ntt-qdtek-to-develop-a-new-data-center-in-ho-chi-minh-city-vietnam/"
+  ]
+ },
+ "/data-centers/vietnam/ha-noi/": {
+  "paragraphs": [
+   "Hanoi's biggest data centers are in Hoa Lac Hi-tech Park on the city's outskirts, and they belong to the state telecom groups. In April 2024 the military-run Viettel opened a 30-megawatt data center there, covering 21,000 square meters with more than 60,000 servers, the largest of its kind in Vietnam, The Investor reported. VNPT had opened its VNPT IDC Hoa Lac center, 2.3 hectares with room for 2,000 racks of servers, in the same park in October 2023.",
+   "The Japanese firm NTT has run a data center in the capital since 2009 in partnership with VNPT. At the Viettel opening, Information Minister Nguyen Manh Hung welcomed Viettel's plan for at least three more data centers with a combined 240 megawatts. Viettel's Hoa Lac center was the first in Vietnam to commit to getting 30% of its power from renewable sources.",
+   "Power is the limit. Hanoi and Ho Chi Minh City together have about 73 megawatts of data centers running and 137 more planned by 2030, and a 100-megawatt project in either city faces a wait of two to three years for new power supply, according to a report carried by VnExpress International in August."
+  ],
+  "sources": [
+   "https://theinvestor.vn/military-run-telco-viettel-inaugurates-biggest-data-center-in-vietnam-d9504.html",
+   "https://vietnamnews.vn/economy/1653695/viettel-opens-data-centre-in-ha-noi-s-hoa-lac-hi-tech-park.html",
+   "https://www.datacenterdynamics.com/en/news/ntt-qdtek-to-develop-a-new-data-center-in-ho-chi-minh-city-vietnam/",
+   "https://e.vnexpress.net/news/tech/vietnam-innovation/vietnam-data-center-boom-draws-billions-of-dollars-as-ai-demand-accelerates-5113451.html"
+  ]
+ },
+ "/data-centers/china/zhejiang/": {
+  "paragraphs": [
+   "Zhejiang's data centers are clustered around Hangzhou, the home of Alibaba, and are run mostly by China's state telecom companies and big cloud firms. China Mobile's Zhejiang arm is building its Yangtze River Delta (Jiashan) computing center in Jiaxing as a national hub, and in 2026 aims to push its AI computing centers in the province past 500 megawatts of power, China National Radio reported in March. It is also expanding centers in Hangzhou, Ningbo and Jinhua.",
+   "Electricity is the local problem. Hangzhou's data centers used 4.27 billion kilowatt-hours in 2025, the most of any city in the province, and could use nearly a fifth of the city's power by 2030, the energy outlet Ditan reported in April. Hangzhou has almost no coal, gas or oil of its own, and its grid runs near its limit in summer heat. The city now fixes each new computing project's power demand, substation and grid connection when the land is acquired.",
+   "Most of the extra power comes from outside: hydropower from Sichuan and wind and solar from the northwest, sent over long-distance high-voltage lines. Green power used by Hangzhou's computing industry rose ninefold in three years. During six days of the 2026 Spring Festival, China Telecom's Hangzhou big data center took in 368,700 kilowatt-hours of surplus green power while factories were idle.",
+   "The oldest landmark is Alibaba Cloud's Qiandao Lake data center in Chun'an County, opened in 2015. It pipes water at 63 degrees Fahrenheit from 115 feet below the lake's surface to cool its servers, which Alibaba said gives it free cooling 90 percent of the year."
+  ],
+  "sources": [
+   "https://zjic.zj.gov.cn/ywdh/cyfz/202603/t20260312_23986986.shtml",
+   "https://www.ditan.com/news/hot/100898.html",
+   "https://www.datacenterdynamics.com/en/news/aliyun-cools-new-china-data-center-using-lake-water/"
+  ]
+ },
+ "/data-centers/china/tianjin/": {
+  "paragraphs": [
+   "Tencent runs Tianjin's one tracked data center, in the Binhai New Area High-Tech Zone. The company signed a framework agreement with the Tianjin Economic & Technical Development Area in 2011 to expand its data and research operations there after finishing an earlier storage project, and said at the time it aimed eventually for 200,000 servers in Tianjin.",
+   "In February 2024, Data Center Frontier reported that Tencent had commissioned a 10.54-megawatt microgrid of rooftop solar and battery storage at the site, expected to produce 12 million kilowatt-hours a year, about what 6,000 households use. Tencent said renewable energy supplies 54% of its data centers' electricity company-wide.",
+   "Tianjin sits inside the Beijing-Tianjin-Hebei hub, one of eight regions China named in 2022 for its national data center buildout. No public dispute over the Tianjin site is on the record so far."
+  ],
+  "sources": [
+   "https://www.tencent.com/en-us/articles/80082.html",
+   "https://www.datacenterfrontier.com/energy/article/33036576/tencent-commissions-10-mw-microgrid-for-cloud-data-center-in-china",
+   "https://www.chinatalk.media/p/eastern-data-western-compute-is-fake"
+  ]
+ },
+ "/data-centers/china/shaanxi/": {
+  "paragraphs": [
+   "Xi'an is China Mobile's main data hub for the region. Two facilities are mapped here, run by Huawei Cloud and China Telecom, though neither has turned up in published news coverage; the best-documented site in the city belongs to China Mobile. In January 2022, Data Center Dynamics reported that Huawei had built China Mobile a five-storey modular data center of 938 cabinets in six months, assembled from 232 factory-built modules, to handle a surge in mobile data from tourists. China Mobile first set up a campus in Xi'an in 2015.",
+   "The building uses indirect evaporative cooling, and Huawei said Xi'an's cool climate lets it run on outside air for about ten months a year. The city sits outside the eight regions China named in 2022 for its national data center buildout; the nearest one, in Gansu province, lies to the northwest. No public dispute over a data center in Shaanxi is on the record so far."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/huawei-deploys-modular-data-center-for-china-mobile-in-xian/",
+   "https://www.chinatalk.media/p/eastern-data-western-compute-is-fake"
+  ]
+ }
+}

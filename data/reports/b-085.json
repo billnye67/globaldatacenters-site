@@ -1,0 +1,618 @@
+[
+ {
+  "id": "ft-1763171931545-6175",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The city was trying to seize this land when the developer proposed a data center on it.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Niagara Falls Redevelopment, working with the Canadian firm Urbacon, proposes the Niagara Digital Campus: about 600,000 square feet and 140 megawatts at Rainbow Boulevard and John B Daly Boulevard, at a cost put at $1.5 billion.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The company's own material describes the website as a response to eminent domain proceedings brought against it by the City of Niagara Falls.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The dispute was settled.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Under a settlement approved by the city council on June 3, Niagara Falls Redevelopment will design, build and operate the electrical substation that powers the campus at its own expense.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Its backers put the benefit at 5,600 construction jobs and more than $400 million in tax over twenty years, to the city, the school district and the state.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The campus is recorded as under construction at 140 megawatts on 53 acres, costing $1.5 billion, with Urbacon as developer and resistance marked as an emerging concern.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "The group link on record is a YouTube video, which was not watched.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "The reason this corner of New York keeps attracting these buildings is seven kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The 2,435 megawatt Robert Moses Niagara hydroelectric station sits at that distance, with the 240 megawatt Lewiston pumped storage plant beside it.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Seven other recorded data center sites lie within 30 kilometres, including a proposed 600 megawatt project four kilometres away, BlockFusion's cryptocurrency plant at four, and a suspended 600 megawatt scheme at the former Tonawanda Coke works at 15.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "New York State's moratorium on new data centers of 50 megawatts and above runs from June 4, 2026 to June 4, 2027, and is the only measure on record within reach.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The two television reports in our record were not fetched, the planning petition is a large PDF that was not opened, and the NYISO Gold Book is likewise a large document that was not read, so no source url is listed and each sentence is attributed to our record's source list. No city official, resident or company representative is quoted. The year of the June 3 settlement is not established from what was read; it is most likely 2026 but is unconfirmed. The relationship between the eminent domain case and the data center proposal, and what the city was trying to take the land for, are not explained in anything that could be read. No water figure has been published."
+ },
+ {
+  "id": "ft-1763418819550-7661",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Residents say the noise is like a jet engine, and the courts have been busy with it for four years.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Digi Power X, formerly Digihost Technology, has run a cryptocurrency mining data center at the former Fortistar gas peaking plant at 1070 Erie Avenue in North Tonawanda, in Niagara County, since about 2022, in containers holding hundreds of computers.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "A complaint alleges the operation subjects nearby residents to continuous industrial noise and low frequency vibration from cooling fans and mining equipment.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The company put up a 26 foot acoustic wall in 2023; residents say it did not work.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "An earlier lawsuit by the Sierra Club and three North Tonawanda residents, seeking to overturn the city's approval, was dismissed by State Supreme Court Justice Frank A Sedita III, who found they lacked standing and had filed after the statutory deadline, while calling on the owners to keep the noise down.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "City officials have since taken the owners to court over breaches of the local noise ordinance.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The climate law has proved the sharper tool.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "In May 2026 the Appellate Division, Third Department, ruled that the Public Service Commission must examine the emissions consequences of the 2022 sale of the Fortistar plant to Digihost under New York's Climate Leadership and Community Protection Act.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "A 2024 ruling had already rescinded approval of that sale.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The site is recorded as operating at 46 megawatts, with resistance marked as organised advocacy, a petition asking the North Tonawanda Common Council to regulate cryptocurrency mining, and a campaign page from the Clean Air Coalition of Western New York.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "North Tonawanda has separately banned new cryptocurrency mining for two years.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "The 52 megawatt World Generation X plant is a kilometre away and the 2,435 megawatt Robert Moses Niagara station 18 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Ten other recorded data center sites sit within 39 kilometres, including a suspended 600 megawatt scheme at the former Tonawanda Coke works 11 kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Both reports in our record, from WGRZ and the Buffalo News, were not fetched, and the Earthjustice and Times Union accounts were found only in search summaries, so no source url is listed and each sentence is attributed to our record's source list. No named resident is quoted as a result. The 46 megawatt figure in our record is not confirmed by anything read. Whether the recent noise case has been decided, and what the Public Service Commission has done since the May 2026 ruling, are unknown. The two year ban on new cryptocurrency mining does not appear in our record's moratorium list for this site."
+ },
+ {
+  "id": "ft-1763168488100-6067",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Tonawanda Coke poisoned this neighbourhood for a century, and the people who fought it do not want a data center on the ashes.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The 140 acre Riverview Innovation and Technology Campus at 3800 and 3875 River Road in Tonawanda, in Erie County, was a coke works from 1917 until 2018, when Tonawanda Coke Corporation closed after bankruptcy.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The owners have proposed about 500,000 square feet of data center there, a potential $2 billion investment needing about 300 megawatts and a $50 million substation, with ground broken late in 2026 and the work finished by the end of 2027.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Hundreds of residents packed a Town of Tonawanda Planning Board meeting in June 2026 to oppose it, and the board tabled the proposal.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The Clean Air Coalition of Western New York wants the site used for something else: union-run renewable power generation and storage along the River Road industrial corridor, as part of what it calls a just transition.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The record links the coalition's own page arguing for renewable generation rather than data centers at Tonawanda Coke.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded as suspended on 140 acres, and now at 300 megawatts rather than the 600 it carried before.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "The reporting found describes 300 megawatts, half that, and a trade headline in the record's own source list says 300 too.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "The area is thick with this kind of development.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Seven other recorded sites sit within 26 kilometres, including the cryptocurrency plant at North Tonawanda 11 kilometres away, BlockFusion at 13, Tesla's cancelled Dojo project at 15, and the Niagara Digital Campus under construction at 15.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 2,435 megawatt Robert Moses Niagara hydroelectric station is 20 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Albany has put a year on the clock for everyone: the state moratorium on data centers of 50 megawatts and above runs to June 4, 2027, and a 300 megawatt campus on this site falls squarely inside it.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The project's own website, the Data Center Dynamics report and an archived article in our record were not fetched, and the Buffalo Toronto Public Media, WKBW and Buffalo News accounts were found only in search summaries, so no source url is listed and each sentence is attributed to our record's source list. No named resident, planning board member or company representative is quoted. The capacity is unresolved between our record's 600 megawatts and the 300 in the reporting. The exact date of the June 2026 planning board meeting, and whether the hold has since been lifted, are unknown. The developer is not named in our record."
+ },
+ {
+  "id": "ft-1763171550036-9496",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The town supervisor got there first.",
+    "src": "https://longisland.news12.com/2026/06/26/proposed-ai-data-center-in-yaphank-meets-opposition-from-residents-and-town-leaders/4dG9mouCvXwvgvC6Mjsvkr"
+   },
+   {
+    "para": 0,
+    "t": "Dan Panico, who runs the Town of Brookhaven, proposed an eighteen month moratorium on data centers and said he was against them in Brookhaven for now, with other Suffolk town supervisors behind him.",
+    "src": "https://longisland.news12.com/2026/06/26/proposed-ai-data-center-in-yaphank-meets-opposition-from-residents-and-town-leaders/4dG9mouCvXwvgvC6Mjsvkr"
+   },
+   {
+    "para": 0,
+    "t": "The record shows the Brookhaven moratorium running from July 17, 2026 to January 17, 2028.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "The project is a conversion of an existing warehouse at Yaphank by a company called Wildflower.",
+    "src": "https://longisland.news12.com/2026/06/26/proposed-ai-data-center-in-yaphank-meets-opposition-from-residents-and-town-leaders/4dG9mouCvXwvgvC6Mjsvkr"
+   },
+   {
+    "para": 1,
+    "t": "Michael Bowden, its director of development, argued it should not be judged with the rest: \"Every data center is not the same in our perspective. And this one we believe to be incredibly unique.\"",
+    "src": "https://longisland.news12.com/2026/06/26/proposed-ai-data-center-in-yaphank-meets-opposition-from-residents-and-town-leaders/4dG9mouCvXwvgvC6Mjsvkr"
+   },
+   {
+    "para": 1,
+    "t": "He said the cost would not fall on the public: \"Infrastructure that is associated with this project will be paid for by the project. It will not impact ratepayers.\"",
+    "src": "https://longisland.news12.com/2026/06/26/proposed-ai-data-center-in-yaphank-meets-opposition-from-residents-and-town-leaders/4dG9mouCvXwvgvC6Mjsvkr"
+   },
+   {
+    "para": 1,
+    "t": "Residents objected on electricity, water and noise, and Bowden's answer was that the company is \"still moving ahead\" and believes the project \"incredibly beneficial for the region\".",
+    "src": "https://longisland.news12.com/2026/06/26/proposed-ai-data-center-in-yaphank-meets-opposition-from-residents-and-town-leaders/4dG9mouCvXwvgvC6Mjsvkr"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded as proposed at an early stage, at 176 megawatts on 71 acres, costing $1 billion, with no developer field filled in.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "Long Island's own generation sits close: the 317 megawatt Caithness Long Island Energy Center is two kilometres away, the 532 megawatt Holtsville oil plant ten, the 140 megawatt Richard M Flynn plant ten, and the 241 megawatt Wading River plant 15.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Suffolk County, and there is no other within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The entry had put this site in the ISO New England control area; it now carries the New York Independent System Operator, which is the operator that serves Long Island.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 3,
+    "t": "Above the town moratorium sits the state one, on projects of 50 megawatts and above, running from June 4, 2026 to June 4, 2027; at 176 megawatts on record this warehouse conversion would be caught by it.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://longisland.news12.com/2026/06/26/proposed-ai-data-center-in-yaphank-meets-opposition-from-residents-and-town-leaders/4dG9mouCvXwvgvC6Mjsvkr"
+  ],
+  "unconfirmed": "The report read here names no resident and gives no acreage, megawatt or cost figure, so the 176 megawatts, 71 acres and $1 billion in our record are unconfirmed, and Dan Panico is paraphrased there rather than quoted. The Newsday and PIX11 reports in our record were not fetched. What Bowden means by unique, and whether the warehouse conversion differs materially from a purpose-built data center, is not explained. Whether the Brookhaven moratorium as adopted covers this application, which predates it, is unknown. Our record's grid control area for this site was ISO New England, which was an error, and now reads New York Independent System Operator, the operator that serves Long Island."
+ },
+ {
+  "id": "ft-1773440681171-2299",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Nobody knew it was Amazon until somebody filed a records request.",
+    "src": "https://www.foodandwaterwatch.org/2026/05/28/inside-the-fight-to-stop-a-data-center-in-ohio/"
+   },
+   {
+    "para": 0,
+    "t": "The proposed data center campus sits about two miles from Manchester, in Sprigg Township, Adams County, in the foothills of the Appalachians, and would draw 1.3 gigawatts by 2031.",
+    "src": "https://www.foodandwaterwatch.org/2026/05/28/inside-the-fight-to-stop-a-data-center-in-ohio/"
+   },
+   {
+    "para": 0,
+    "t": "Water demand would run to millions of gallons a day, from the river and from municipal supply.",
+    "src": "https://www.foodandwaterwatch.org/2026/05/28/inside-the-fight-to-stop-a-data-center-in-ohio/"
+   },
+   {
+    "para": 1,
+    "t": "Ben Murray, a senior researcher at Food and Water Watch who has studied the industry for two years, has led the opposition, and does the comparison that campaigners repeat: \"31 times as much power as the rest of Adams County uses. That's absurd.\"",
+    "src": "https://www.foodandwaterwatch.org/2026/05/28/inside-the-fight-to-stop-a-data-center-in-ohio/"
+   },
+   {
+    "para": 1,
+    "t": "Residents' objections are the secrecy, the job figures, the effect on tax revenue for schools and the emergency services, and the resemblance to the extractive industries, coal above all, that came and went here before.",
+    "src": "https://www.foodandwaterwatch.org/2026/05/28/inside-the-fight-to-stop-a-data-center-in-ohio/"
+   },
+   {
+    "para": 2,
+    "t": "The townships have acted one by one, and Murray's answer to anyone who says it is settled is that the pauses \"came about just because people spoke up and turned out to these meetings\".",
+    "src": "https://www.foodandwaterwatch.org/2026/05/28/inside-the-fight-to-stop-a-data-center-in-ohio/"
+   },
+   {
+    "para": 2,
+    "t": "Sprigg Township adopted a voluntary one year pause in February 2026, and Monroe Township passed a binding one year moratorium unanimously and began a zoning process.",
+    "src": "https://www.foodandwaterwatch.org/2026/05/28/inside-the-fight-to-stop-a-data-center-in-ohio/"
+   },
+   {
+    "para": 2,
+    "t": "The record shows five measures within reach: Sprigg Township from February 24, 2026, Mason County across the river in Kentucky from March 2, Monroe Township's moratorium from March 9 and a Monroe Township ban from March 25 marked as litigated, and Williamsburg from March 12.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Campaigners want agricultural or restrictive zoning, and back a statewide ballot measure to ban data centers above 25 megawatts.",
+    "src": "https://www.foodandwaterwatch.org/2026/05/28/inside-the-fight-to-stop-a-data-center-in-ohio/"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded at 1,300 megawatts with Amazon Web Services as developer, proposed, and now sits at Sprigg Township in Adams County, Ohio, where the campaigners and the county's own project page put it.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "The address had been the former Dayton Power and Light Stuart landfill at 745 US-52 in Aberdeen, Ohio, filed under Mason County in Kentucky, which is across the Ohio River, and under Brown County once the Aberdeen village point was used.",
+    "src": "data:address"
+   },
+   {
+    "para": 4,
+    "t": "The 1,346 megawatt H L Spurlock coal plant is 13 kilometres away, and is the only generator of comparable size anywhere near.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "A second proposed project, recorded as Fortune 500 at 400 megawatts, sits 16 kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.foodandwaterwatch.org/2026/05/28/inside-the-fight-to-stop-a-data-center-in-ohio/"
+  ],
+  "unconfirmed": "The source relied on is published by Food and Water Watch, which is campaigning against the project, and its own senior researcher is the organiser quoted; the figures it gives, including the 31-fold comparison, are its own and were not independently checked. The account that Murray found out about the proposal while planning to build a house on his great-grandmother's farmland is not in the piece read here. It does not confirm the former Dayton Power and Light Stuart landfill, which our record used to give as the site, and places the proposal near Manchester in Sprigg Township, which our record now carries; where the site sits within the township is still not established. The Data Center Dynamics and WCPO reports and the PJM planning document in our record were not fetched, and the county's own Amazon information page was not read. Amazon is not quoted anywhere. The county field in our record is inconsistent with the address."
+ },
+ {
+  "id": "ft-1774482485361-4747",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Goodyear built its largest tyre factory here.",
+    "src": "https://www.vikingdata.io/"
+   },
+   {
+    "para": 0,
+    "t": "Viking Data Centers now runs a 380,000 square foot facility at 428 Seiberling Street in Akron, in Summit County, with 150 megawatts delivered through a new 138 kilovolt substation and plans to add another 250.",
+    "src": "https://www.vikingdata.io/"
+   },
+   {
+    "para": 0,
+    "t": "The company markets it for cryptocurrency mining and AI, on a mix of nuclear, gas and renewable power, with water supply and round the clock security.",
+    "src": "https://www.vikingdata.io/"
+   },
+   {
+    "para": 1,
+    "t": "The entry is recorded as operating at 400 megawatts, which is the 150 available plus the 250 planned rather than what is running now.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The record's only source is the company's own website.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Summit County and the townships around it have been busy.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Nine measures are recorded within reach of this building: Barberton from November 10, 2025, Richfield Township from February 17, 2026, Plain Township from March 27, Washington Township with a moratorium from April 6, a ban from May 6 and a further moratorium from May 23, Kent from April 15, Ravenna Township from April 22 and Twinsburg from May 1.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The projects around it have not fared well.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Project Triton at Norton, 15 kilometres away, was cancelled after residents questioned what the developer had told a town hall.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "A three megawatt site at Canton is 23 kilometres off, a proposed 150 megawatt Bitdeer project 29, and Bitdeer's operating 221 megawatt cryptocurrency mine 31.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generator of any size is the 79 megawatt Orrville coal plant, 33 kilometres away, with the 858 megawatt Lordstown gas plant at 53.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Pushback at this building is marked unknown, and no local objection to it is recorded anywhere.",
+    "src": "data:fractracker"
+   }
+  ],
+  "sources": [
+   "https://www.vikingdata.io/"
+  ],
+  "unconfirmed": "Our record's only source is the company's own marketing page, and everything above about the building comes from it, so the square footage, the 150 megawatts delivered and the 250 planned are the company's claims and were not independently checked. No local reporting about this building was found at all, which is unusual for a facility of this size in a county with nine moratoriums. No water figure is published beyond the company saying water is available on site. How much of the 150 megawatts is in use, and what the site actually does now, are unknown."
+ },
+ {
+  "id": "ft-1784757848477-2555",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "More than a hundred people came, and the zoning board said no.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Cervenka Development Partners LLC, of Illinois, asked Amherst, in Lorain County, for a use variance to turn about 240,000 square feet of office, warehouse and laboratory buildings at 100, 200 and 300 Nordson Drive into a data center of up to 45 megawatts, on a parcel of about 36.6 acres served by Ohio Edison.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The Board of Zoning Appeals rejected the variance after a hearing that filled the building and spilled onto the lawn, with dozens speaking against it.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The developer has thirty days to appeal to the Lorain County Court of Common Pleas.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "It can also walk away and let Nordson keep marketing the buildings, or come back with something that fits the industrial zoning without needing a variance.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded as proposed at an early stage, on 36 acres, with no capacity figure, no cost and no developer field filled in, and pushback marked unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "The reporting describes a 45 megawatt facility and a packed hearing, so the pushback field is out of date.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "Two townships nearby carry moratoriums on record: Wellington Township from March 1, 2026 and Richfield Township from February 17.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "Amherst itself has none, which is why the fight happened at a zoning board rather than under a pause.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The 501 megawatt West Lorain gas plant is six kilometres away, and the 894 megawatt Davis Besse nuclear station 76.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "A T5 building at Cleveland, 35 kilometres off, is the only other data center site the record holds within 40.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The News 5 Cleveland reports were found only in search summaries and not fetched, and the Data Center Dynamics report in our record is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. No named resident or zoning board member is quoted. The date of the hearing is not established. Whether Cervenka has appealed, and whether Nordson has found another buyer, are unknown. No water figure was published, and no end user was named."
+ },
+ {
+  "id": "ft-1771179164518-9722",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "One village approved it and the next village is preparing to sue.",
+    "src": "https://www.sciotopost.com/ashville-greenlights-data-center-as-commercial-point-prepares-legal-fight/"
+   },
+   {
+    "para": 0,
+    "t": "Ashville Village Council, in Pickaway County, voted almost unanimously to approve a $102 million data center with EdgeConneX between Route 752 and Weigand Road, with about $32 million of water and wastewater improvements attached and more than seventy gas turbines on site.",
+    "src": "https://www.sciotopost.com/ashville-greenlights-data-center-as-commercial-point-prepares-legal-fight/"
+   },
+   {
+    "para": 0,
+    "t": "The project goes next to the Ohio Power Siting Board, with an application expected in April 2026 and a decision around that October.",
+    "src": "https://www.sciotopost.com/ashville-greenlights-data-center-as-commercial-point-prepares-legal-fight/"
+   },
+   {
+    "para": 1,
+    "t": "Ashville residents raised light pollution, the turbines and pollution generally, but did not mount a large campaign.",
+    "src": "https://www.sciotopost.com/ashville-greenlights-data-center-as-commercial-point-prepares-legal-fight/"
+   },
+   {
+    "para": 1,
+    "t": "Commercial Point, next door, is the one fighting: the council member Ezekiel Miller said \"we are confronting industrial-scale development that does not reflect the character of our village. This first step may well result in litigation, but we must protect the soul of our community,\" and the village has filed motions and ordinances against a separate project and is weighing litigation despite the cost.",
+    "src": "https://www.sciotopost.com/ashville-greenlights-data-center-as-commercial-point-prepares-legal-fight/"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded as under construction at 200 megawatts on 195 acres, with EdgeConneX as developer, resistance marked as an emerging concern and a change.org petition against it on file.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "Its sources include a report that Ashville earlier denied an annexation request for the project, and the development and supply agreement term summary published by the village in June 2026, which was not opened.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "This is central Ohio, where the hyperscale buildout has gone furthest.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Ten other recorded data center sites sit within 37 kilometres, including Google's operating 303 megawatt Columbus campus 14 kilometres away and its 137 megawatt Lancaster site at 25, an Amazon project eight kilometres off, Meta's Etna campus and a Microsoft site at 35, and an Aligned project at Etna marked blocked at 36.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "Six jurisdictions within reach have adopted moratoriums on record, including Ashville itself from July 8, 2026 to January 4, 2027, Scioto Township from March 6 and Jackson Township from May 29.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generator is the 480 megawatt Darby Power gas plant 18 kilometres away, with three solar farms of 200, 274 and 196 megawatts between 26 and 33 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.sciotopost.com/ashville-greenlights-data-center-as-commercial-point-prepares-legal-fight/"
+  ],
+  "unconfirmed": "The date of the Ashville council vote and the exact tally are not given in the report read here. The $102 million figure sits oddly against a 200 megawatt project and may cover only a first phase or only the village's share; which is unresolved. The seventy-plus gas turbines are described without capacity, and whether they are backup generators or primary generation is the question that would decide how much this matters to neighbours; the report does not say, though the Power Siting Board referral points towards generation. Both Data Center Dynamics reports in our record are not fetchable, and the village's own agreement summary was not opened. No resident is quoted. Whether Ashville's own moratorium, adopted in July 2026, applies to this project is unknown."
+ },
+ {
+  "id": "ft-387",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one died because of what a representative said at a town hall.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Quantum HPC proposed Project Triton, a data center on about 90 acres at the former PPG mine site on Limestone Drive, between Norton and Barberton, in Summit County.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "At a town hall on October 13, 2025 a company representative made statements residents afterwards questioned; council members passed the matter to Norton's law director, who asked the developer to verify them, and Quantum HPC concluded the comments were untrue and told the city the representative no longer worked there.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "On October 17, 2025 the city posted a short statement saying the project was not going ahead.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The objections had been the ordinary ones, from people who live very close.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Glenn and Michelle Yasko, whose house is less than 800 feet from the site, told a television station they were worried about noise, emissions and what it would do to the value of their home.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Barberton residents also urged Norton officials to stop the data center and an associated liquefied natural gas plant, over water, safety and noise.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Barberton then passed an open-ended moratorium of its own.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The record dates it November 10, 2025, with no end date, and it is the earliest of the nine measures within reach of this site.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The others run from Richfield Township in February 2026 through to Washington Township's ban in May.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded as cancelled on 90 acres, with no capacity figure and no cost, and gave the developer as Norton, which is the city rather than the company, until this pass.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Viking Data Centers' Akron site is 15 kilometres away, a three megawatt building at Canton 25, and Bitdeer's operating 221 megawatt cryptocurrency mine 28.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generator is the 79 megawatt Orrville coal plant, 21 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Three searches were run: Norton with Project Triton, the PPG mine site and the halt; the Barberton moratorium; and Summit County data center activity. The Cleveland.com report in our record could not be fetched, the Beacon Journal and WKYC accounts were found only in search summaries, and the city documents and the project's own site were not opened, so no source url is listed and each sentence is attributed to our record's source list. What the representative actually said, and which statements were found to be untrue, is not established in anything we read. No megawatt figure was ever published. Our record's developer field names Norton, the city, rather than Quantum HPC. Whether the site has attracted another proposal since October 2025 is unknown."
+ }
+]

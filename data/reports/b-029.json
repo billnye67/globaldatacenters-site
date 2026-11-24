@@ -1,0 +1,732 @@
+[
+ {
+  "id": "amazon-aws-marysville",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "AWS is building a two building data center campus on about 55 acres at 14684 Industrial Parkway, in Marysville Innovation Park in Union County.",
+    "src": "https://marysvilleohio.org/772/Data-Center-FAQs"
+   },
+   {
+    "para": 0,
+    "t": "The city puts the buildings at around 500,000 square feet and the investment at about $1 billion.",
+    "src": "https://marysvilleohio.org/772/Data-Center-FAQs"
+   },
+   {
+    "para": 0,
+    "t": "Site preparation began in early 2026, with construction running through 2027 and an overpass built alongside it.",
+    "src": "https://marysvilleohio.org/772/Data-Center-FAQs"
+   },
+   {
+    "para": 1,
+    "t": "How many people will work there is not settled in the public record.",
+    "src": "https://marysvilleohio.org/772/Data-Center-FAQs"
+   },
+   {
+    "para": 1,
+    "t": "The city says at least 50 full time operational jobs on a payroll of about $4 million; Spectrum News, reporting the announcement on March 11, 2025, said at least 25.",
+    "src": "https://spectrumnews1.com/oh/columbus/news/2025/03/11/amazon-to-invest--1-billion-into-marysville"
+   },
+   {
+    "para": 1,
+    "t": "City manager Terry Emery called the investment \"a significant step forward for Marysville and Union County.\"",
+    "src": "https://spectrumnews1.com/oh/columbus/news/2025/03/11/amazon-to-invest--1-billion-into-marysville"
+   },
+   {
+    "para": 1,
+    "t": "Roger Wehner, AWS vice president for economic development, said the company was \"proud to reinforce our long-term commitment to the State of Ohio.\"",
+    "src": "https://spectrumnews1.com/oh/columbus/news/2025/03/11/amazon-to-invest--1-billion-into-marysville"
+   },
+   {
+    "para": 2,
+    "t": "The tax abatement covers the buildings and not the land, and Amazon instead makes an annual payment in lieu of taxes split between the city, the schools and the career center.",
+    "src": "https://marysvilleohio.org/772/Data-Center-FAQs"
+   },
+   {
+    "para": 2,
+    "t": "Spectrum News put those payments at $15 million across 15 years.",
+    "src": "https://spectrumnews1.com/oh/columbus/news/2025/03/11/amazon-to-invest--1-billion-into-marysville"
+   },
+   {
+    "para": 3,
+    "t": "The city has published answers to the questions residents ask.",
+    "src": "https://marysvilleohio.org/772/Data-Center-FAQs"
+   },
+   {
+    "para": 3,
+    "t": "On water it says on site wells are forbidden and that use will depend on which cooling system Amazon specifies, without giving a figure.",
+    "src": "https://marysvilleohio.org/772/Data-Center-FAQs"
+   },
+   {
+    "para": 3,
+    "t": "On noise it says most equipment will be indoors, that the campus must meet local noise rules, and that setbacks and landscaping will be used as buffers.",
+    "src": "https://marysvilleohio.org/772/Data-Center-FAQs"
+   },
+   {
+    "para": 4,
+    "t": "Union County holds three data center projects, this one alongside the AWS sites in Jerome Township and on Warner Road, where trustees paused new approvals for nine months in September 2025 after residents complained about noise.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://marysvilleohio.org/772/Data-Center-FAQs",
+   "https://spectrumnews1.com/oh/columbus/news/2025/03/11/amazon-to-invest--1-billion-into-marysville"
+  ],
+  "unconfirmed": "No power capacity figure or water withdrawal figure was found. Job counts and the value of the payment in lieu of taxes differ between the city's own FAQ and news coverage, and neither is presented here as settled. No record of a contested council vote or organized local opposition to this campus was found."
+ },
+ {
+  "id": "amazon-aws-sidney-galaxy",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon calls the Sidney project Project Galaxy.",
+    "src": "https://stopohiodatacenters.org/shelby-county"
+   },
+   {
+    "para": 0,
+    "t": "It is a $3 billion data center campus on the north side of Millcreek Road, west of Vandemark Road, in the Shelby County city of Sidney.",
+    "src": "https://stopohiodatacenters.org/shelby-county"
+   },
+   {
+    "para": 0,
+    "t": "Construction started in January 2026 and is meant to finish by 2030.",
+    "src": "https://stopohiodatacenters.org/shelby-county"
+   },
+   {
+    "para": 1,
+    "t": "On October 27, 2025, Sidney City Council approved a 30 year, 100 percent property tax abatement for it.",
+    "src": "https://www.sidneydailynews.com/2025/10/28/council-approves-data-center-tax-abatement/"
+   },
+   {
+    "para": 1,
+    "t": "Community development director Barbara Dulworth told council that \"in order to offset costs related to the proposed development, ADS has agreed to provide the city a payment in lieu of taxes totaling $50 million over a 15 year period.\"",
+    "src": "https://www.sidneydailynews.com/2025/10/28/council-approves-data-center-tax-abatement/"
+   },
+   {
+    "para": 1,
+    "t": "Half of those payments go to Sidney City Schools and the Upper Valley Career Center, about $2.3 million across the life of the deal.",
+    "src": "https://www.sidneydailynews.com/2025/10/28/council-approves-data-center-tax-abatement/"
+   },
+   {
+    "para": 1,
+    "t": "Councilmen Darryl Thurber and Steve Wagner voted against the tax sharing agreement.",
+    "src": "https://www.sidneydailynews.com/2025/10/28/council-approves-data-center-tax-abatement/"
+   },
+   {
+    "para": 2,
+    "t": "The campus is expected to employ 75 people full time between 2028 and 2030, on an annual payroll of $6.75 million.",
+    "src": "https://www.sidneydailynews.com/2025/10/28/council-approves-data-center-tax-abatement/"
+   },
+   {
+    "para": 2,
+    "t": "The abatement is worth somewhere between $180 million and $350 million over its 30 years, which works out at between $2.4 million and $4.6 million of foregone tax for each permanent job.",
+    "src": "https://stopohiodatacenters.org/shelby-county"
+   },
+   {
+    "para": 2,
+    "t": "Resident Maria Cera, writing in the Sidney Daily News, put it this way: \"That is not a fair trade for Sidney taxpayers, especially given the 30-year duration of the abatement.\"",
+    "src": "https://stopohiodatacenters.org/shelby-county"
+   },
+   {
+    "para": 3,
+    "t": "Two resident groups have formed since.",
+    "src": "https://stopohiodatacenters.org/shelby-county"
+   },
+   {
+    "para": 3,
+    "t": "Kristin Allen, a photographer from a fourth generation farming family, started Sidney Citizens for Responsible Development, and a Facebook group called Sidney Citizens Data Center Watch has passed 150 members.",
+    "src": "https://stopohiodatacenters.org/shelby-county"
+   },
+   {
+    "para": 4,
+    "t": "Water is the open question.",
+    "src": "https://stopohiodatacenters.org/shelby-county"
+   },
+   {
+    "para": 4,
+    "t": "Mark Ekberg of the Miami Valley Conservancy District has put potential peak consumption at up to 300 gallons a minute; the city says it has enough capacity from several sources, and no peak load modelling for the site has been published.",
+    "src": "https://stopohiodatacenters.org/shelby-county"
+   },
+   {
+    "para": 4,
+    "t": "The site sits where the territories of AES Ohio and AEP Ohio overlap, and AEP Ohio's data center tariff, in force since July 2025, would apply.",
+    "src": "https://stopohiodatacenters.org/shelby-county"
+   },
+   {
+    "para": 5,
+    "t": "Demolition of the structures on the site began on August 4, 2026.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://www.sidneydailynews.com/2025/10/28/council-approves-data-center-tax-abatement/",
+   "https://stopohiodatacenters.org/shelby-county"
+  ],
+  "unconfirmed": "Our record now carries Project Galaxy as under construction rather than proposed, on the strength of the August 2026 demolition. No capacity figure in megawatts has been published for the campus."
+ },
+ {
+  "id": "amazon-aws-wilmington-ohio",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon has proposed a $4 billion data center campus on 471 acres off US-68 south of Wilmington, in Clinton County.",
+    "src": "https://baxtel.com/data-centers/amazon-aws"
+   },
+   {
+    "para": 0,
+    "t": "Homeowners near the proposed site filed a lawsuit to try to block the project.",
+    "src": "https://www.wlwt.com/article/wilmington-ohio-homeowners-lawsuit-4-billion-data-center/71182943"
+   },
+   {
+    "para": 0,
+    "t": "The case was later moved to federal court.",
+    "src": "https://www.wlwt.com/article/wilmington-data-center-lawsuit-moves-to-federal-court/71419677"
+   },
+   {
+    "para": 1,
+    "t": "On August 20, 2026, Wilmington City Council held a special meeting on the project after a federal judge ordered the council to follow Ohio's open-meetings law and give residents proper notice.",
+    "src": "https://www.fox19.com/2026/08/21/council-residents-split-amazon-data-center-rules-wilmington/"
+   },
+   {
+    "para": 1,
+    "t": "Council members took up three ordinances: one on generator noise, one to rezone the site, and one setting rules for how the data center could operate.",
+    "src": "https://www.fox19.com/2026/08/21/council-residents-split-amazon-data-center-rules-wilmington/"
+   },
+   {
+    "para": 1,
+    "t": "The noise ordinance passed 6-1 with emergency language, but the rezoning ordinance failed because it needed 75 percent approval, and council tabled it until September 3.",
+    "src": "https://www.fox19.com/2026/08/21/council-residents-split-amazon-data-center-rules-wilmington/"
+   },
+   {
+    "para": 1,
+    "t": "Resident Brenda Shobe told reporters afterward: \"The silence was deafening on the council's part. They had an opportunity to ask us questions. They did not.\"",
+    "src": "https://www.fox19.com/2026/08/21/council-residents-split-amazon-data-center-rules-wilmington/"
+   },
+   {
+    "para": 1,
+    "t": "Fellow resident Laura Struve said most council members \"did not even defend their vote or explain why they were voting the way that they did, which I think was pretty disappointing in how they are responding to their constituents.\"",
+    "src": "https://www.fox19.com/2026/08/21/council-residents-split-amazon-data-center-rules-wilmington/"
+   },
+   {
+    "para": 2,
+    "t": "Separately, residents Quintin Koger Kidd and Susan Croutwater filed a citizen petition in July 2026 for a ballot initiative that would have set limits on data center noise, lighting, airborne emissions, generator testing, water use and discharge, and heat.",
+    "src": "https://highlandcountypress.com/news/ohio-supreme-court-proposed-data-center-regulations-wilmington-will-not-be-november-ballot"
+   },
+   {
+    "para": 2,
+    "t": "The measure would also have let residents sue data center operators directly for violations, with fines of $5,000 to $10,000 a day.",
+    "src": "https://highlandcountypress.com/news/ohio-supreme-court-proposed-data-center-regulations-wilmington-will-not-be-november-ballot"
+   },
+   {
+    "para": 2,
+    "t": "The Clinton County Board of Elections verified enough signatures in August, then voted unanimously not to certify the petition after city law director Desmond Cullimore argued the private right to sue went beyond what Ohio cities can grant, citing a 2018 Ohio Supreme Court precedent.",
+    "src": "https://highlandcountypress.com/news/ohio-supreme-court-proposed-data-center-regulations-wilmington-will-not-be-november-ballot"
+   },
+   {
+    "para": 2,
+    "t": "On September 18, 2026, the Ohio Supreme Court agreed, ruling 5-1 that the measure could not appear on the November 3 ballot.",
+    "src": "https://highlandcountypress.com/news/ohio-supreme-court-proposed-data-center-regulations-wilmington-will-not-be-november-ballot"
+   },
+   {
+    "para": 2,
+    "t": "Chief Justice Sharon Kennedy wrote for the majority; Justice Patrick Fischer dissented, arguing that only a court, not an elections board, should decide whether a ballot measure is legal, and only after voters have their say.",
+    "src": "https://highlandcountypress.com/news/ohio-supreme-court-proposed-data-center-regulations-wilmington-will-not-be-november-ballot"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/data-centers/amazon-aws",
+   "https://www.wlwt.com/article/wilmington-ohio-homeowners-lawsuit-4-billion-data-center/71182943",
+   "https://www.wlwt.com/article/wilmington-data-center-lawsuit-moves-to-federal-court/71419677",
+   "https://www.fox19.com/2026/08/21/council-residents-split-amazon-data-center-rules-wilmington/",
+   "https://highlandcountypress.com/news/ohio-supreme-court-proposed-data-center-regulations-wilmington-will-not-be-november-ballot"
+  ],
+  "unconfirmed": "wlwt.com blocked direct fetches, so the lawsuit facts are limited to what the headlines state; the filing date and current status of the homeowners' suit are unconfirmed. The outcome of the September 3, 2026 rezoning vote falls after available reporting and is unconfirmed."
+ },
+ {
+  "id": "amazon-aws-pickaway-county",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon owns 234 acres at 9905 State Route 104, near Lockbourne in Pickaway County, Ohio, bought for $49.1 million in December 2023 for a future data center campus.",
+    "src": "https://baxtel.com/data-center/amazon-9905-state-route"
+   },
+   {
+    "para": 0,
+    "t": "Trade records describe it as land held for future development, and nothing has been built.",
+    "src": "https://baxtel.com/data-center/amazon-9905-state-route"
+   },
+   {
+    "para": 0,
+    "t": "No plan, capacity figure or timetable for it has been made public.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "The data center fight in this county is not Amazon's.",
+    "src": "https://abc6onyourside.com/news/local/ashville-columbus-ohio-leaders-pause-rezoning-concerned-residents-neighbors-push-back-proposed-data-center"
+   },
+   {
+    "para": 1,
+    "t": "About eight kilometers away, the village of Ashville has spent the past year arguing over hundreds of acres of farmland near State Route 752 that the developer EdgeConneX wants to rezone.",
+    "src": "https://abc6onyourside.com/news/local/ashville-columbus-ohio-leaders-pause-rezoning-concerned-residents-neighbors-push-back-proposed-data-center"
+   },
+   {
+    "para": 1,
+    "t": "On December 23, 2025 village leaders voted to pause the rezoning for six months so residents, council and the developer could weigh what the project would mean.",
+    "src": "https://abc6onyourside.com/news/local/ashville-columbus-ohio-leaders-pause-rezoning-concerned-residents-neighbors-push-back-proposed-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Mayor Roger Clark said \"a data center is part of the definition of limited industry,\" so one could be built under the rules as they stand unless the village changes them.",
+    "src": "https://abc6onyourside.com/news/local/ashville-columbus-ohio-leaders-pause-rezoning-concerned-residents-neighbors-push-back-proposed-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Clark said he had heard there are negatives, with no doubt about it, but that there are also features which can suppress some of them, and that he wants to look at taking data centers out of the limited industrial definition altogether.",
+    "src": "https://abc6onyourside.com/news/local/ashville-columbus-ohio-leaders-pause-rezoning-concerned-residents-neighbors-push-back-proposed-data-center"
+   },
+   {
+    "para": 2,
+    "t": "That dispute reached the Ohio Supreme Court, which held in State ex rel. McNamara-Smith v. Grube that a council cannot use boilerplate emergency wording, or the wish to avoid delaying a project, to shut a referendum out.",
+    "src": "https://www.fox19.com/2026/09/04/tri-state-resident-sues-block-emergency-rezoning-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "None of it concerns the Amazon parcel, which has drawn no hearing and no opposition because no application has been filed.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/data-center/amazon-9905-state-route",
+   "https://abc6onyourside.com/news/local/ashville-columbus-ohio-leaders-pause-rezoning-concerned-residents-neighbors-push-back-proposed-data-center",
+   "https://www.fox19.com/2026/09/04/tri-state-resident-sues-block-emergency-rezoning-data-center/"
+  ],
+  "unconfirmed": "Searches on the address with Pickaway County, on Ashville with data center, and on Amazon with Pickaway County produced no coverage of Amazon's own parcel beyond the record of the land sale. Its capacity, building plan and timetable are unknown, as is whether Amazon intends to build on it at all. The Ohio Supreme Court decision was read through a Fox19 report, not the opinion itself."
+ },
+ {
+  "id": "amazon-aws-hermiston",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "AWS operates a four-building data center campus at 28803 NW Livestock Road in Hermiston, Umatilla County, about a kilometer from the 464-megawatt Hermiston Generating Plant and four kilometers from the 629-megawatt Hermiston Power Partnership gas plant.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "The site is part of a growing cluster of AWS facilities across Morrow and Umatilla counties that Oregon Rural Action, a regional advocacy group, counted at about 20 data centers built, under construction or planned as of August 2026.",
+    "src": "https://www.opb.org/article/2026/08/20/think-out-loud-new-data-centers-eastern-oregon-concerns/"
+   },
+   {
+    "para": 1,
+    "t": "Kaleb Lay, the group's policy director, told Oregon Public Broadcasting on August 20, 2026, that several city council members in the area hold active non-disclosure agreements with Amazon covering data center operations and future projects.",
+    "src": "https://www.opb.org/article/2026/08/20/think-out-loud-new-data-centers-eastern-oregon-concerns/"
+   },
+   {
+    "para": 1,
+    "t": "Lay also said cooling water at one of AWS's existing Boardman-area sites, which Amazon calls PDX90, showed nitrate levels rising roughly fivefold between intake and discharge in tests taken in July and August 2025.",
+    "src": "https://www.opb.org/article/2026/08/20/think-out-loud-new-data-centers-eastern-oregon-concerns/"
+   },
+   {
+    "para": 2,
+    "t": "Separately, Oregon health officials have been testing private wells in the wider Lower Umatilla Basin for nitrate contamination that dates back to 1990 and comes mainly from decades of agricultural fertilizer use; about a third of households tested so far exceed the federal safety limit.",
+    "src": "https://www.opb.org/article/2026/07/28/oregon-lower-umatilla-basin-well-drinking-water-nitrate-pollution/"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/data-centers/amazon-aws",
+   "https://www.opb.org/article/2026/08/20/think-out-loud-new-data-centers-eastern-oregon-concerns/",
+   "https://www.opb.org/article/2026/07/28/oregon-lower-umatilla-basin-well-drinking-water-nitrate-pollution/"
+  ],
+  "unconfirmed": "Could not confirm AWS Hermiston's own capacity in megawatts or its individual water permits. The nitrate testing and non-disclosure-agreement reporting describes the Morrow-Umatilla region generally, not this site specifically, and is presented that way."
+ },
+ {
+  "id": "amazon-aws-boardman-olson-road",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "AWS runs a four building data center campus at 79386 Olson Road in Boardman, in Morrow County, eastern Oregon.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "This is desert country with porous, sandy soil, and about 45,000 people draw their drinking water from the aquifer beneath it, most of them from private wells.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 0,
+    "t": "The poverty rate in Morrow County is 40 percent, and about 30 percent of residents live in mobile homes on well water.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 1,
+    "t": "Amazon arrived in the county in 2008 and opened its first data center here in 2011.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 1,
+    "t": "It has since built seven hyperscale data centers in the county with five more underway, each one carrying a 15 year property tax abatement.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 1,
+    "t": "Rolling Stone put the value of those abatements at $1 billion to $2 billion over their terms.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 1,
+    "t": "The centers pull tens of millions of gallons a year out of the aquifer to keep servers between 70 and 80 degrees Fahrenheit.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 2,
+    "t": "The water was already contaminated before Amazon touched it.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 2,
+    "t": "Decades of fertilizer and dairy runoff pushed the average nitrate level across basin wells from 9.2 parts per million in 1992 to 15.3 by 2015, against a federal safe drinking water limit of 10 and an Oregon limit of 7.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 2,
+    "t": "An investigation published on November 25, 2025 by Rolling Stone and the Food and Environment Reporting Network found that water going into Amazon's data centers measured 13 parts per million, and that after evaporating across the servers the wastewater averaged 56.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 2,
+    "t": "The Port of Morrow sprays about 3.6 billion gallons of that industrial wastewater on farmland each year, where it drains back into the aquifer.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 2,
+    "t": "The Oregon Health Authority has now found more than 600 domestic wells over the safe limit across a 562 square mile area.",
+    "src": "https://www.rainintelligence.com/blog/data-center-water-pollution-litigation"
+   },
+   {
+    "para": 3,
+    "t": "County commissioner Jim Doherty, a cattle rancher, started collecting tap water samples in June 2022 and declared an emergency on June 9.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 3,
+    "t": "In the first 30 homes he visited he counted 25 miscarriages and six people living with one kidney.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 3,
+    "t": "\"One man about 60 years old had his voice box taken out because of a cancer that only smokers get, but that guy hadn't smoked a day of his life,\" Doherty said.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 3,
+    "t": "A recall campaign began that October and in November 2022 voters removed Doherty and fellow commissioner Melissa Lindsay from office.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 4,
+    "t": "Resident Kathy Mendoza's well tested at 50.9 and 55.7 parts per million.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 4,
+    "t": "\"How can you live with yourself knowing that the water you put in people's houses is causing miscarriages or cancer?\" she said.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 4,
+    "t": "Kristin Ostrom, who runs Oregon Rural Action, said the comparison that fits is Flint, Michigan, \"in part because of how slow the response to the crisis has been, and in part because of who's affected.\"",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 4,
+    "t": "\"These are people who have no political or economic power, and very little knowledge of the risk,\" she said.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 5,
+    "t": "Amazon rejects the account.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 5,
+    "t": "Spokesperson Lisa Levandowski said the article's apparent narrative was \"misleading and inaccurate\" and that \"this region has long-documented groundwater quality challenges that significantly predate AWS' presence.\"",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 5,
+    "t": "On March 31, 2026 the company agreed to pay $20.5 million into a fund for private well and public water infrastructure work across the Lower Umatilla Basin.",
+    "src": "https://www.rainintelligence.com/blog/data-center-water-pollution-litigation"
+   },
+   {
+    "para": 5,
+    "t": "It denied wrongdoing, the settlement still needs court approval, and the case continues against the Port of Morrow, Lamb Weston and agricultural operators.",
+    "src": "https://www.rainintelligence.com/blog/data-center-water-pollution-litigation"
+   },
+   {
+    "para": 6,
+    "t": "The campus sits about two kilometers from the Coyote Springs and Coyote Springs II gas plants, 534 megawatts between them.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 6,
+    "t": "At least five other AWS sites sit within 40 kilometers.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/",
+   "https://www.rainintelligence.com/blog/data-center-water-pollution-litigation",
+   "https://www.business-humanrights.org/en/latest-news/united-states-investigation-links-amazon-data-centers-to-worsening-nitrate-crisis-in-oregon-incl-company-comments/"
+  ],
+  "unconfirmed": "No power capacity, water withdrawal figure or completion date was found for this Olson Road campus on its own; the water reporting covers Amazon's Morrow County operations as a group and does not break them out building by building. The Oregon Capital Chronicle and Rolling Stone pages would not load directly, so the investigation was read through WaterWatch's republication of it."
+ },
+ {
+  "id": "amazon-aws-boardman-gar-swanson",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "AWS runs a data center at 75242 Gar Swanson Drive in Boardman, Morrow County, about five kilometers from the Coyote Springs gas plants and their 534 megawatts.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "The body that takes the wastewater from this county's data centers and food plants is the Port of Morrow, and it has been in trouble with Oregon's Department of Environmental Quality for years.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 1,
+    "t": "The department has recorded more than 1,000 violations by the port since 2011 and levied more than $3 million in fines.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 1,
+    "t": "In April 2024 it fined the port $727,000 for 880 violations committed between November 2023 and February 2024, when it sprayed nitrate laden wastewater on fields in the middle of winter, outside the growing season.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 1,
+    "t": "In December 2024 Governor Tina Kotek suspended those fines for six weeks so the port could keep discharging.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 2,
+    "t": "In July 2024 the Oregon Attorney General sued five former port figures, among them former general manager Gary Neal and commissioners Jerry Healy and Marv Padberg, over the 2018 sale of a port linked company called Windwave to insiders for $2.6 million against an estimated value above $9.5 million.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 2,
+    "t": "The state ethics commission fined three of them $2,000 each in 2024 for failing to disclose conflicts of interest during the Amazon negotiations.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 2,
+    "t": "Melissa Lindsay, a former county commissioner removed in a 2022 recall after raising the alarm about well water, said local officials knew from the get-go how big Amazon would become in Morrow County, that they planned for it and that they watched it all happen.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 3,
+    "t": "On March 31, 2026 Amazon agreed to pay $20.5 million toward well and water infrastructure work in the Lower Umatilla Basin without admitting wrongdoing.",
+    "src": "https://www.rainintelligence.com/blog/data-center-water-pollution-litigation"
+   }
+  ],
+  "sources": [
+   "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/",
+   "https://www.rainintelligence.com/blog/data-center-water-pollution-litigation"
+  ],
+  "unconfirmed": "The fuller account of the nitrate crisis behind this campus sits on the Olson Road entry for the same county. A quotation rendering Lindsay's remark as direct speech could not be matched word for word in the report and is given as a paraphrase."
+ },
+ {
+  "id": "amazon-aws-boardman-bombing-range",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "AWS is putting up four single story data center buildings on Bombing Range Road in Boardman, each about 215,461 square feet.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "They are part of a run of construction that has given Morrow County seven completed hyperscale Amazon data centers with five more underway.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 1,
+    "t": "Every one of them came with a 15 year property tax abatement, worth by Rolling Stone's estimate $1 billion to $2 billion across their terms.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 1,
+    "t": "Amazon says it has invested $39.2 billion in the community since 2011.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 1,
+    "t": "Morrow County has had a drought every year since 2020.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 1,
+    "t": "The data centers draw tens of millions of gallons a year from an aquifer that about 45,000 people drink from.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 2,
+    "t": "That aquifer is the subject of the fight the county is best known for.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 2,
+    "t": "More than 600 domestic wells across a 562 square mile area now test above the safe nitrate limit, and on March 31, 2026 Amazon agreed to pay $20.5 million toward well and water infrastructure work there, denying wrongdoing.",
+    "src": "https://www.rainintelligence.com/blog/data-center-water-pollution-litigation"
+   },
+   {
+    "para": 2,
+    "t": "The Olson Road page on this site sets out how that happened.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 3,
+    "t": "The nearest large power sources are the 416 megawatt Carty Generating Station and two Wheatridge wind installations, all about 15 kilometers off, with the 244 megawatt Coyote Springs gas plant a little further.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/",
+   "https://www.rainintelligence.com/blog/data-center-water-pollution-litigation"
+  ],
+  "unconfirmed": "No council vote, water right, building permit or resident comment specific to the Bombing Range Road site was found, and no power capacity figure. Searches on the road name with Boardman, on Boardman with data center, and on Amazon with Morrow County returned only the county wide water coverage."
+ },
+ {
+  "id": "amazon-aws-boardman-tower-road-east",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "AWS is building a data center on Tower Road in Boardman, in Morrow County, Oregon, about seven kilometers from the 416 megawatt Carty Generating Station.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "At least five other AWS sites sit within 40 kilometers, in a county where the company has seven hyperscale data centers finished and five more going up.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 1,
+    "t": "What is documented is what the cluster as a whole has done to the water.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 1,
+    "t": "Reporting by Rolling Stone and the Food and Environment Reporting Network, published on November 25, 2025, found water entering Amazon's Morrow County data centers at 13 parts per million of nitrate and leaving at an average of 56, against an Oregon safe limit of 7.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 1,
+    "t": "More than 600 domestic wells across a 562 square mile area test above the limit.",
+    "src": "https://www.rainintelligence.com/blog/data-center-water-pollution-litigation"
+   },
+   {
+    "para": 1,
+    "t": "Amazon agreed on March 31, 2026 to put $20.5 million into well and water infrastructure work in the basin, denying wrongdoing.",
+    "src": "https://www.rainintelligence.com/blog/data-center-water-pollution-litigation"
+   }
+  ],
+  "sources": [
+   "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/",
+   "https://www.rainintelligence.com/blog/data-center-water-pollution-litigation"
+  ],
+  "unconfirmed": "Almost nothing has been published about this building on its own: no capacity figure, opening date, investment or employment number. The nitrate figures above describe the county cluster rather than this site, and the fuller account sits on the Olson Road entry."
+ },
+ {
+  "id": "amazon-aws-arlington-oregon",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Gilliam County has about 2,000 residents spread over more than 1,200 square miles, and Arlington is the small Columbia River town where Amazon wants to build a data center campus.",
+    "src": "https://bendbulletin.com/2025/02/16/amazon-plans-major-data-center-expansion-in-tiny-eastern-oregon-town/"
+   },
+   {
+    "para": 0,
+    "t": "Amazon paid $10 million in the summer of 2024 for 376 acres on the mesa above the town and is buying another 30 acres from the Port of Arlington for $3 million.",
+    "src": "https://bendbulletin.com/2025/02/16/amazon-plans-major-data-center-expansion-in-tiny-eastern-oregon-town/"
+   },
+   {
+    "para": 1,
+    "t": "The company has been clear that this is a long way off.",
+    "src": "https://bendbulletin.com/2025/02/16/amazon-plans-major-data-center-expansion-in-tiny-eastern-oregon-town/"
+   },
+   {
+    "para": 1,
+    "t": "It plans about 13 years ahead and says it could be years before anything operates here while it works on permits, electricity and tax breaks.",
+    "src": "https://bendbulletin.com/2025/02/16/amazon-plans-major-data-center-expansion-in-tiny-eastern-oregon-town/"
+   },
+   {
+    "para": 1,
+    "t": "Kevin Miller, Amazon's vice president for data centers, explained the choice of site by distance: \"We all think light is very, very fast. But when you start to do the math, actually, the milliseconds start to add up the farther away the data centers are.\"",
+    "src": "https://bendbulletin.com/2025/02/16/amazon-plans-major-data-center-expansion-in-tiny-eastern-oregon-town/"
+   },
+   {
+    "para": 1,
+    "t": "Arlington is close to the company's campuses in Morrow and Umatilla counties.",
+    "src": "https://bendbulletin.com/2025/02/16/amazon-plans-major-data-center-expansion-in-tiny-eastern-oregon-town/"
+   },
+   {
+    "para": 2,
+    "t": "Local officials are, so far, in favor.",
+    "src": "https://bendbulletin.com/2025/02/16/amazon-plans-major-data-center-expansion-in-tiny-eastern-oregon-town/"
+   },
+   {
+    "para": 2,
+    "t": "Mayor Jeffery Bufton said: \"It's going to be an enhanced growth spurt for us and we're actually quite excited about it.\"",
+    "src": "https://bendbulletin.com/2025/02/16/amazon-plans-major-data-center-expansion-in-tiny-eastern-oregon-town/"
+   },
+   {
+    "para": 2,
+    "t": "\"We won't end up being just a truck stop on the highway,\" he said, adding that there are city amenities Arlington does not have and that he would like to see that change.",
+    "src": "https://bendbulletin.com/2025/02/16/amazon-plans-major-data-center-expansion-in-tiny-eastern-oregon-town/"
+   },
+   {
+    "para": 2,
+    "t": "County judge Cris Patnode said: \"It's going to be a major impact on the community and we need to make it a positive impact.\"",
+    "src": "https://bendbulletin.com/2025/02/16/amazon-plans-major-data-center-expansion-in-tiny-eastern-oregon-town/"
+   },
+   {
+    "para": 2,
+    "t": "The county is hiring a lawyer for the negotiations and thinking about housing.",
+    "src": "https://bendbulletin.com/2025/02/16/amazon-plans-major-data-center-expansion-in-tiny-eastern-oregon-town/"
+   },
+   {
+    "para": 3,
+    "t": "Gilliam County cannot offer the tax break most Oregon data centers get.",
+    "src": "https://bendbulletin.com/2025/02/16/amazon-plans-major-data-center-expansion-in-tiny-eastern-oregon-town/"
+   },
+   {
+    "para": 3,
+    "t": "Its per capita income is too high and its unemployment too low to qualify for the state's enterprise zone programme, which is aimed at distressed areas, so any deal would have to come through the Strategic Investment Program instead.",
+    "src": "https://bendbulletin.com/2025/02/16/amazon-plans-major-data-center-expansion-in-tiny-eastern-oregon-town/"
+   },
+   {
+    "para": 3,
+    "t": "Across Oregon, Amazon receives about $100 million a year in incentives and pays about $50 million in local taxes and fees.",
+    "src": "https://bendbulletin.com/2025/02/16/amazon-plans-major-data-center-expansion-in-tiny-eastern-oregon-town/"
+   },
+   {
+    "para": 4,
+    "t": "Power will come from PacifiCorp, which is bound by Oregon's clean energy rules.",
+    "src": "https://bendbulletin.com/2025/02/16/amazon-plans-major-data-center-expansion-in-tiny-eastern-oregon-town/"
+   },
+   {
+    "para": 4,
+    "t": "In 2024 Amazon agreed to buy more than 200,000 megawatt hours a year from the Avangrid wind farm in the county.",
+    "src": "https://bendbulletin.com/2025/02/16/amazon-plans-major-data-center-expansion-in-tiny-eastern-oregon-town/"
+   },
+   {
+    "para": 4,
+    "t": "The mapped site sits beside the 103 megawatt Arlington Wind Power Project, with several other wind farms within 10 kilometers.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://bendbulletin.com/2025/02/16/amazon-plans-major-data-center-expansion-in-tiny-eastern-oregon-town/"
+  ],
+  "unconfirmed": "No exact site address, building plan, power demand or water figure has been published, and no resident, as opposed to elected official, is quoted anywhere in the coverage found. Reports that Arlington, the port and the Gilliam County Court signed a non-disclosure agreement with Amazon in 2022 appear in secondary write-ups but could not be confirmed in a source we could read, so they are not stated here."
+ }
+]

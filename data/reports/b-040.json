@@ -1,0 +1,451 @@
+[
+ {
+  "id": "developers-qts-santa-clara",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Santa Clara has run out of electricity for new data centers, and QTS's building on Mission College Boulevard sits inside that limit.",
+    "src": "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/"
+   },
+   {
+    "para": 0,
+    "t": "The city has 55 operating data centers and three more in the pipeline, almost all north of El Camino Real along Central Expressway.",
+    "src": "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/"
+   },
+   {
+    "para": 1,
+    "t": "Nico Procos, chief operating officer of the city owned utility Silicon Valley Power, put the problem plainly: \"We've had requests to add 500 megawatts of load, so that's growing from our current peak of about 720.\"",
+    "src": "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/"
+   },
+   {
+    "para": 1,
+    "t": "City spokesperson Janine De la Vega said the electrical grid caps new data centers, meaning nothing can connect beyond what the utility has already approved. Grid projects meant to relieve it are targeted for completion by 2029.",
+    "src": "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/"
+   },
+   {
+    "para": 2,
+    "t": "The city is paid well for the crowding. Reena Brilliot, its director of economic development and sustainability, put the annual return at $40.9 million across property taxes, sales taxes and payments from Silicon Valley Power.",
+    "src": "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/"
+   },
+   {
+    "para": 2,
+    "t": "Planning Commissioner Priya Cherukuru has pressed for deeper environmental studies, pointing to the land, electricity and water the buildings take and their reliance on diesel backup generators.",
+    "src": "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/"
+   },
+   {
+    "para": 3,
+    "t": "Santa Clara County holds 25 data centers, with a China Telecom site in the same building, AWS's Mission College site about 1 kilometer away, and Vantage Santa Clara I and EdgeCore about 2 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/",
+   "https://www.datacentermap.com/usa/california/san-jose/quality-santa-clara-1/location/"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure specific to the QTS building was found, and no record of a council hearing or resident objection about it. The city's count of 55 data centers does not match our own record's 25 for the whole county, and that difference was not resolved."
+ },
+ {
+  "id": "developers-vantage-va2-ashburn-ii",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Vantage VA2 sits on Glenn Drive in Sterling with five other data centers inside a kilometer of it: Vantage VA1, CyrusOne Sterling NVA4, STACK Ashburn, Aligned IAD-03 and a proposed AWS site at Pathfinder Plaza.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "Loudoun County had 199 operating data centers with another 117 in development, according to Michael Turner, vice chair of the county board's transportation and land use committee.",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 1,
+    "t": "What is happening around Loudoun is that other places are pulling up the drawbridge: an outright ban on data centers at Warrenton, moratoriums in Montgomery County and Prince George's County, and zoning limits in Montgomery, Fairfax and Fauquier counties.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Data centers accounted for 24 percent of Dominion's Virginia electricity sales in 2023, and the company projects their peak demand could reach 13.3 gigawatts by 2038, up from about 2.8 gigawatts in 2022.",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 2,
+    "t": "Power comes off PJM, whose control area peaks at about 144,530 megawatts, with the 766 megawatt Potomac Energy Center about 12 kilometers from the building.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [
+   "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/",
+   "https://vantage-dc.com/data-centers"
+  ],
+  "unconfirmed": "Nothing specific to VA2 was found: no capacity, square footage, opening date, water use, employment or approval record. Vantage publishes a campus page for its Northern Virginia locations but no figures for this individual building were reached, and no Sterling resident or Loudoun official is quoted about it."
+ },
+ {
+  "id": "developers-vantage-va3-ashburn-iii",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "VA3 is on Belmont Ridge Road in Ashburn, and the land around it is still being carved up.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Two more projects are proposed within 3 kilometers, Tuscarora Crossing Landbay 3 and the TELOS data center, with Google's Loudoun County site about 4 kilometers away, Google Leesburg about 5 kilometers away and STACK's Compass Creek site about 5 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The pressure this puts on the grid is now the central political question in Virginia. Dominion is spending $50.1 billion on capital projects between 2025 and 2029, including the Golden to Mars 500/230 kilovolt transmission line and the Evergreen Mills project, both of which run through this part of the county.",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 1,
+    "t": "Dominion's chief financial officer Steven Ridge said: \"We have not observed any evidence of slowing demand from data center customers across our service area.\"",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 2,
+    "t": "Neighboring jurisdictions have begun restricting what Loudoun has allowed: a ban at Warrenton, zoning limits in Fairfax, Fauquier and Prince William counties, and a moratorium with zoning limits in Montgomery County.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/",
+   "https://vantage-dc.com/data-centers"
+  ],
+  "unconfirmed": "No capacity, square footage, construction timeline, water use, employment figure or county approval record specific to VA3 was found, and no resident or supervisor is quoted about this building. Whether the transmission projects named here serve this site directly was not established."
+ },
+ {
+  "id": "developers-vantage-fredericksburg",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Stafford County had no data centers in development at the start of 2025. By the middle of 2026 it had three under construction and seventeen more in the pipeline, having received three times as many applications as it expected.",
+    "src": "https://virginiabusiness.com/stafford-county-data-center-boom-public-backlash/"
+   },
+   {
+    "para": 0,
+    "t": "Vantage's building is on Centreport Parkway. A proposed 1,000 megawatt STACK project, the Cranes Corner data center and the Enon Road Technology Park all sit within about 3 kilometers, with an AWS site under construction about 5 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Erin Sanzero founded a grassroots group called Protect Stafford in spring 2025, after finding out that a proposed data center campus of 7.9 million square feet would be built near her property. She called the situation \"unfathomable.\"",
+    "src": "https://virginiabusiness.com/stafford-county-data-center-boom-public-backlash/"
+   },
+   {
+    "para": 1,
+    "t": "County officials estimate net tax revenue from data centers could reach $24 million in 2028 and $146 million once twenty facilities are fully built by 2035. Sanzero questions those figures.",
+    "src": "https://virginiabusiness.com/stafford-county-data-center-boom-public-backlash/"
+   },
+   {
+    "para": 2,
+    "t": "The county tightened its rules on October 21, 2025, raising the required setback from adjacent homes, schools and waterways from 100 feet to 750 feet.",
+    "src": "https://www.fredericksburgfreepress.com/2025/12/04/stafford-supervisors-after-approving-new-rules-grandfather-five-data-center-projects/"
+   },
+   {
+    "para": 2,
+    "t": "Then on December 3, 2025, the Board of Supervisors voted to exempt five projects that predated the new rules: the Stafford Technology Campus, Potomac Church Tech Center, the Centreport Gateway and Pemberton development, Vantage VA-4 at Melrod, and the Cranes Corner data center.",
+    "src": "https://www.fredericksburgfreepress.com/2025/12/04/stafford-supervisors-after-approving-new-rules-grandfather-five-data-center-projects/"
+   },
+   {
+    "para": 2,
+    "t": "Board Chairman Deuntay Diggs said of the process: \"And I think this is an example yet again of why we need to sometimes slow it down and work through the process.\" Garrisonville District Commissioner Laura Sellers voted against the exemption without giving a public reason.",
+    "src": "https://www.fredericksburgfreepress.com/2025/12/04/stafford-supervisors-after-approving-new-rules-grandfather-five-data-center-projects/"
+   },
+   {
+    "para": 3,
+    "t": "Sanzero has said the reality is that the largest corporations in the world are doing business with local municipalities, and questioned the county's projected tax revenue.",
+    "src": "https://virginiabusiness.com/stafford-county-data-center-boom-public-backlash/"
+   }
+  ],
+  "sources": [
+   "https://virginiabusiness.com/stafford-county-data-center-boom-public-backlash/",
+   "https://www.fredericksburgfreepress.com/2025/12/04/stafford-supervisors-after-approving-new-rules-grandfather-five-data-center-projects/",
+   "https://vantage-dc.com/data-centers"
+  ],
+  "unconfirmed": "A line quoting a Stafford resident saying \"my heart breaks for the people who live in such close proximity that their home value is now gone\" was removed: it is not in the Virginia Business report it was credited to, and no source we could read carries it."
+ },
+ {
+  "id": "developers-vantage-new-albany-oh1",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "For two years, no new data center in central Ohio could get a power contract at all, and Vantage OH1 was going up in Licking County in the middle of it.",
+    "src": "https://www.vorys.com/publication-public-utilities-commission-of-ohio-authorizes-tariff-for-aep-ohios-data-center-customers-requires-end-of-moratorium-on-new-services-for-data-centers"
+   },
+   {
+    "para": 0,
+    "t": "AEP Ohio imposed a moratorium in March 2023 so its transmission planners could study the effect of an anticipated 30,000 megawatts of new load from data centers.",
+    "src": "https://www.vorys.com/publication-public-utilities-commission-of-ohio-authorizes-tariff-for-aep-ohios-data-center-customers-requires-end-of-moratorium-on-new-services-for-data-centers"
+   },
+   {
+    "para": 0,
+    "t": "The Public Utilities Commission of Ohio approved a separate tariff for data center customers and ordered AEP to end the moratorium. From July 23, 2025, data centers drawing more than 25 megawatts must pay for at least 85 percent of the capacity they subscribe to, whether they use it or not.",
+    "src": "https://stopohiodatacenters.org/licking-county"
+   },
+   {
+    "para": 1,
+    "t": "Vantage's OH1 building sits at the center of the cluster that caused the problem, in Licking County, Ohio: AWS New Albany, at 213 megawatts, is about 1 kilometer away, along with Google Johnstown and two Microsoft and AWS sites, and Meta's 562 megawatt Prometheus campus about 4 kilometers away, 13 data centers in the county in all.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Intel's $20 billion semiconductor plant is being built alongside them, targeted to operate in 2028, and Cologix is building an eight building campus at Johnstown described as a $7 billion investment.",
+    "src": "https://stopohiodatacenters.org/licking-county"
+   },
+   {
+    "para": 2,
+    "t": "The cost to residents is cumulative rather than sudden: electricity rates under the new tariff, school funding squeezed by tax abatements, and farmland turned over to buildings.",
+    "src": "https://stopohiodatacenters.org/licking-county"
+   },
+   {
+    "para": 2,
+    "t": "Ohio's Tax Credit Authority approved a 15 year sales tax exemption worth an estimated $72.5 million for three Microsoft centers. Policy Matters Ohio calculated the foregone tax revenue at roughly $1 million for each job created. School districts hosting abated data centers give up property tax revenue for 30 years.",
+    "src": "https://stopohiodatacenters.org/licking-county"
+   },
+   {
+    "para": 2,
+    "t": "Microsoft declined real estate tax abatements at its Heath and Hebron sites, which leaves that revenue with the Lakewood Local School District. Heath economic development director Brittany Misner called that decision of huge value to the district.",
+    "src": "https://stopohiodatacenters.org/licking-county"
+   },
+   {
+    "para": 3,
+    "t": "The townships around New Albany have been shutting the door, with moratoriums at Sunbury, Jackson Township, St. Albans Township, Muhlenberg and Scioto Township, and an outright ban at South Bloomfield.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.vorys.com/publication-public-utilities-commission-of-ohio-authorizes-tariff-for-aep-ohios-data-center-customers-requires-end-of-moratorium-on-new-services-for-data-centers",
+   "https://stopohiodatacenters.org/licking-county",
+   "https://vantage-dc.com/data-centers"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure specific to the Vantage OH1 building was found, and it is not established whether it was affected by the AEP moratorium or falls under the new tariff. The Licking County account used here comes from a campaign group's site, and no resident is quoted in it."
+ },
+ {
+  "id": "developers-vantage-quincy",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Quincy is a farming town of about 8,500 people in Grant County, central Washington, near the Columbia River and home to one of the world's largest french fry producers. Data centers started going up here 18 years ago and they are still going up.",
+    "src": "https://www.opb.org/article/2026/01/17/quincy-washington-microsoft-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "Roughly 30 data centers now pay an estimated 57 percent of the town's property taxes. That money built a $15 million aquatic center, a sports complex due to open next year, and a $120 million high school.",
+    "src": "https://www.opb.org/article/2025/08/20/some-are-concerned-about-the-future-of-washington-s-data-center-boom/"
+   },
+   {
+    "para": 1,
+    "t": "Microsoft president Brad Smith has used the town as his answer to the backlash elsewhere: \"If you want to visit what's probably the nicest high school in the state of Washington, you don't go to the neighborhood where Microsoft's headquarters is based, you don't go next door to Amazon, you go to Quincy.\"",
+    "src": "https://www.opb.org/article/2026/01/17/quincy-washington-microsoft-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Individual data centers employ 50 people or fewer, though together they have become a substantial employer locally.",
+    "src": "https://www.opb.org/article/2026/01/17/quincy-washington-microsoft-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "The power comes from Columbia River hydroelectricity through the Grant County Public Utility District. The utility says it has 79 pending applications in its queue, most of them data centers, and that together they would need roughly double the electricity demand of the entire city of Seattle.",
+    "src": "https://www.opb.org/article/2025/08/20/some-are-concerned-about-the-future-of-washington-s-data-center-boom/"
+   },
+   {
+    "para": 2,
+    "t": "City Administrator Pat Haley has said hydropower and water in Grant County are maxed out.",
+    "src": "https://www.opb.org/article/2025/08/20/some-are-concerned-about-the-future-of-washington-s-data-center-boom/"
+   },
+   {
+    "para": 2,
+    "t": "Residential power rates rose 3.5 percent in Grant County last year. Rates for large industrial customers rose 9.1 percent.",
+    "src": "https://www.opb.org/article/2025/08/20/some-are-concerned-about-the-future-of-washington-s-data-center-boom/"
+   },
+   {
+    "para": 3,
+    "t": "Data centers use around 8 percent of the town's water supply, and Microsoft put $30 million into a water reuse facility with the city that treats cooling water for data centers and other industry.",
+    "src": "https://www.opb.org/article/2025/08/20/some-are-concerned-about-the-future-of-washington-s-data-center-boom/"
+   },
+   {
+    "para": 3,
+    "t": "Former mayor Patty Martin is not reassured about what comes later: \"What about 10 years, 20 years from now, and these facilities are still here and the electrical grid, because now there's more people, there's more electric cars, there's not as much water running in the river because the snow packs aren't there.\"",
+    "src": "https://www.opb.org/article/2026/01/17/quincy-washington-microsoft-data-center/"
+   },
+   {
+    "para": 4,
+    "t": "Vantage's building is one of a tight group: Sabey's Intergate campus stands on the same ground, and Microsoft Columbia, CyrusOne Quincy and NTT Quincy all about 4 kilometers away, six data centers in Grant County in all.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.opb.org/article/2026/01/17/quincy-washington-microsoft-data-center/",
+   "https://www.opb.org/article/2025/08/20/some-are-concerned-about-the-future-of-washington-s-data-center-boom/",
+   "https://vantage-dc.com/data-centers"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure specific to the Vantage Quincy building was found. The tax, water and rate figures given here describe the town and its data centers collectively, not this one."
+ },
+ {
+  "id": "developers-vantage-reno",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Nevada gets about 10 inches of rain a year, a third of the national average, and more than half the state is in moderate to exceptional drought. This is where one of the fastest growing data center markets in the country has been built.",
+    "src": "https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/"
+   },
+   {
+    "para": 0,
+    "t": "Vantage's Reno site sits in the Tahoe Reno Industrial Center in Storey County, a business park larger than Detroit, alongside Google, Microsoft, Apple, Switch, Tract, EdgeCore, Novva and PowerHouse. About 13 million square feet was under construction as of May 2025.",
+    "src": "https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/"
+   },
+   {
+    "para": 1,
+    "t": "Vantage has announced a 224 megawatt campus there called NV1, on nearly 137 acres, four multi-story buildings totaling more than a million square feet, with nearly $3 billion to be invested. The first two buildings are fully leased and the first was scheduled to open in the second quarter of 2026.",
+    "src": "https://vantage-dc.com/data-center-locations/north-america/reno-nevada/"
+   },
+   {
+    "para": 1,
+    "t": "Vantage says NV1 uses a closed loop chiller system to cut water use, and supports both air and liquid cooling.",
+    "src": "https://vantage-dc.com/data-center-locations/north-america/reno-nevada/"
+   },
+   {
+    "para": 2,
+    "t": "The water arithmetic for the area as a whole is harder. Shaolei Ren, a researcher at UC Riverside, calculated that the 12 data center projects seeking capacity from NV Energy would directly consume between 860 million and 5.7 billion gallons a year, with another 15.5 billion gallons consumed indirectly at power plants.",
+    "src": "https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/"
+   },
+   {
+    "para": 2,
+    "t": "Google's existing Storey County site withdrew 1.9 million gallons in 2023 but consumed only 200,000, the rest going back into the system.",
+    "src": "https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/"
+   },
+   {
+    "para": 2,
+    "t": "More than half of Nevada's groundwater basins are over-appropriated, meaning the water rights granted exceed what is thought to be underground. The Tracy Segment basin, which partly supplies the industrial park, already draws more than it can sustain each year.",
+    "src": "https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/"
+   },
+   {
+    "para": 3,
+    "t": "Sean McKenna, who heads hydrologic sciences at the Desert Research Institute, said: \"We can't consider each of these as a one-off, without considering that there may be tens or dozens of these in the next 15 years.\"",
+    "src": "https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/"
+   },
+   {
+    "para": 3,
+    "t": "Kyle Roerink of the Great Basin Water Network said: \"We just don't want to be in a situation where the tail is wagging the dog, where this demand for data centers is driving water policy.\"",
+    "src": "https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/"
+   },
+   {
+    "para": 3,
+    "t": "Steven Wadsworth, chairman of the Pyramid Lake Paiute Tribe, said of the water: \"It's completely tied into us as a people. That is what has sustained us all this time.\"",
+    "src": "https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/"
+   },
+   {
+    "para": 4,
+    "t": "Data center proposals have asked NV Energy for nearly six gigawatts of capacity over the next decade, which would require expanding Nevada's power sector by about 40 percent for one industry.",
+    "src": "https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/"
+   },
+   {
+    "para": 4,
+    "t": "Nevada abates up to 75 percent of property tax for ten to twenty years, cuts sales and use taxes on equipment, and has no corporate income tax. Even so, the Apple, Google and Vantage projects are projected to produce close to half a billion dollars in state tax revenue.",
+    "src": "https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/"
+   },
+   {
+    "para": 4,
+    "t": "In January 2025 Reno's city council approved the city's first data center by 5 votes to 2, over residents' objections about water, energy and climate. Vice Mayor Kathleen Taylor said: \"Welcome to Reno. We're open for business.\"",
+    "src": "https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/"
+   }
+  ],
+  "sources": [
+   "https://www.technologyreview.com/2025/05/20/1116287/ai-data-centers-nevada-water-reno-computing-environmental-impact/",
+   "https://vantage-dc.com/data-center-locations/north-america/reno-nevada/",
+   "https://vantage-dc.com/data-centers"
+  ],
+  "unconfirmed": "Reno has since had a moratorium on new data centers in force, which sits oddly beside the council's January 2025 approval; the two could not be reconciled from the sources we could read."
+ },
+ {
+  "id": "developers-vantage-santa-clara-i",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Three data centers share the corner of Walsh Avenue and Northwestern Parkway. Vantage Santa Clara I is one of them, with Vantage Santa Clara III, Digital Realty's 2401 Walsh building, NTT Silicon Valley and a China Telecom site all recorded at the same distance.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Whether any of them can grow depends on the city. Silicon Valley Power, the municipal utility, has a peak load of about 720 megawatts and has received requests to add 500 megawatts more.",
+    "src": "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/"
+   },
+   {
+    "para": 1,
+    "t": "City spokesperson Janine De la Vega said the grid caps new data centers, so nothing can connect beyond what the utility has already approved. The city has 55 data centers operating and three more coming, and grid work meant to lift the limit is targeted for 2029.",
+    "src": "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/"
+   },
+   {
+    "para": 2,
+    "t": "The 148 megawatt Donald Von Raesfeld gas plant is about 2 kilometers away, inside a California ISO control area that peaks at about 46,970 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/",
+   "https://vantage-dc.com/data-centers"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure specific to Vantage Santa Clara I was found, and no council hearing or resident objection about it. The power constraint described here applies to the city as a whole."
+ },
+ {
+  "id": "developers-vantage-santa-clara-ii",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A 100 megawatt petroleum fired unit, listed as SC 1 Data Center, Phase 2, stands at zero distance from this building.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 0,
+    "t": "Vantage Santa Clara II is on Mathew Street, with Digital Realty's 2045 Lafayette building recorded at the same location, CloudHQ's Santa Clara campus and Prime's Comstock site about a kilometer away, and Vantage Santa Clara I about 2 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Generation sitting that close to the load is one answer to the city's problem. Silicon Valley Power peaks at about 720 megawatts and has requests to add 500 megawatts, and the city says its grid now caps new data centers until upgrades land around 2029.",
+    "src": "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/"
+   },
+   {
+    "para": 1,
+    "t": "Planning Commissioner Priya Cherukuru has argued for deeper environmental review of these buildings, citing the land, power and water they take and their diesel backup generators.",
+    "src": "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/"
+   }
+  ],
+  "sources": [
+   "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/",
+   "https://vantage-dc.com/data-centers"
+  ],
+  "unconfirmed": "The 100 megawatt petroleum unit recorded at this location comes from our own power plant data and no source reached explains what it serves, who owns it or whether it is connected to this building, so the link drawn here is proximity only. No capacity, square footage, opening date, water use or employment figure for Vantage Santa Clara II was found."
+ },
+ {
+  "id": "developers-vantage-santa-clara-iii",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Santa Clara collects $40.9 million a year from its data centers, across property taxes, sales taxes and payments from the city owned utility, according to Reena Brilliot, the city's director of economic development and sustainability.",
+    "src": "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/"
+   },
+   {
+    "para": 0,
+    "t": "Vantage Santa Clara III on Walsh Avenue is one of the 55 buildings producing it, sharing its immediate block with Vantage Santa Clara I, Digital Realty's 2401 Walsh site and NTT Silicon Valley.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "That revenue now comes with a ceiling. Nico Procos, chief operating officer of Silicon Valley Power, said the utility has \"had requests to add 500 megawatts of load, so that's growing from our current peak of about 720,\" and the city says its grid caps any further data centers until upgrades finish around 2029.",
+    "src": "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/"
+   },
+   {
+    "para": 2,
+    "t": "Santa Clara County holds 25 data centers, with AWS's Mission College site under construction about 2 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://sanjosespotlight.com/santa-clara-data-centers-hit-max-energy-capacity/",
+   "https://vantage-dc.com/data-centers"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure specific to Vantage Santa Clara III was found, and no record of a hearing or objection about it. How the $40.9 million divides between the city's data centers is not published."
+ }
+]

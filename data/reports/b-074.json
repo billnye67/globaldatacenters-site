@@ -1,0 +1,851 @@
+[
+ {
+  "id": "ft-1782841480971-3749",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The people objecting to this one are the university's own students and staff.",
+    "src": "https://oaklandpostonline.com/58898/campus/june-2026-bot-meeting-trustees-vote-to-move-forward-with-data-center-president-ora-pescovitz-declares-it-is-a-project-ou-will-desperately-need/"
+   },
+   {
+    "para": 0,
+    "t": "On June 26, 2026 the Oakland University board of trustees voted to advance a 20 to 26 megawatt data center on campus, seven votes in favour with trustee Stefen J Welch abstaining because he still had questions and was not ready to vote either way.",
+    "src": "https://oaklandpostonline.com/58898/campus/june-2026-bot-meeting-trustees-vote-to-move-forward-with-data-center-president-ora-pescovitz-declares-it-is-a-project-ou-will-desperately-need/"
+   },
+   {
+    "para": 0,
+    "t": "The vote opens a year of due diligence with the developer Fairmount Properties, working with DTE Energy.",
+    "src": "https://oaklandpostonline.com/58898/campus/june-2026-bot-meeting-trustees-vote-to-move-forward-with-data-center-president-ora-pescovitz-declares-it-is-a-project-ou-will-desperately-need/"
+   },
+   {
+    "para": 0,
+    "t": "President Ora Pescovitz told the meeting: \"This is a project that we desperately need in order to sustain our current position and for us to see ourselves in the future.\"",
+    "src": "https://oaklandpostonline.com/58898/campus/june-2026-bot-meeting-trustees-vote-to-move-forward-with-data-center-president-ora-pescovitz-declares-it-is-a-project-ou-will-desperately-need/"
+   },
+   {
+    "para": 1,
+    "t": "Dozens of people, many of them students, held protest signs through the presentation.",
+    "src": "https://oaklandpostonline.com/58898/campus/june-2026-bot-meeting-trustees-vote-to-move-forward-with-data-center-president-ora-pescovitz-declares-it-is-a-project-ou-will-desperately-need/"
+   },
+   {
+    "para": 1,
+    "t": "Cullen Black, president of the student congress, said: \"Students resoundingly have said no ... this is only the beginning.\"",
+    "src": "https://oaklandpostonline.com/58898/campus/june-2026-bot-meeting-trustees-vote-to-move-forward-with-data-center-president-ora-pescovitz-declares-it-is-a-project-ou-will-desperately-need/"
+   },
+   {
+    "para": 1,
+    "t": "Dr Megan L Peiser, who teaches English and is a member of the Choctaw Nation, said: \"This data center will make OU a villain in Oakland County.\"",
+    "src": "https://oaklandpostonline.com/58898/campus/june-2026-bot-meeting-trustees-vote-to-move-forward-with-data-center-president-ora-pescovitz-declares-it-is-a-project-ou-will-desperately-need/"
+   },
+   {
+    "para": 1,
+    "t": "The site, parking lot P37, lies next to the campus Native American heritage site on Anishinaabe ancestral land.",
+    "src": "https://oaklandpostonline.com/58898/campus/june-2026-bot-meeting-trustees-vote-to-move-forward-with-data-center-president-ora-pescovitz-declares-it-is-a-project-ou-will-desperately-need/"
+   },
+   {
+    "para": 2,
+    "t": "The trustees who voted yes were Brian Calley, Trina Scott, David Kramer, Dennis Muchmore, Colleen Ochoa Peters, Melanie Brown and Nate Engle.",
+    "src": "https://oaklandpostonline.com/58898/campus/june-2026-bot-meeting-trustees-vote-to-move-forward-with-data-center-president-ora-pescovitz-declares-it-is-a-project-ou-will-desperately-need/"
+   },
+   {
+    "para": 2,
+    "t": "Ten percent of the computing capacity would serve the campus and the other 90 percent would go to partner companies, which is what the objection on campus is mostly about.",
+    "src": "https://oaklandpostonline.com/58898/campus/june-2026-bot-meeting-trustees-vote-to-move-forward-with-data-center-president-ora-pescovitz-declares-it-is-a-project-ou-will-desperately-need/"
+   },
+   {
+    "para": 2,
+    "t": "The university says the building would take less than two percent of its land, and due diligence was expected to start in September or October 2026 before design and construction.",
+    "src": "https://oaklandpostonline.com/58898/campus/june-2026-bot-meeting-trustees-vote-to-move-forward-with-data-center-president-ora-pescovitz-declares-it-is-a-project-ou-will-desperately-need/"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded at 26 megawatts, proposed, at 253 Pioneer Drive, with no developer named.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "Thirteen municipalities in the surrounding counties carry data center moratoriums, though Rochester Hills is not among them and a university campus would in any case sit outside most of them.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generator is the 93 megawatt Hancock gas plant, 24 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://oaklandpostonline.com/58898/campus/june-2026-bot-meeting-trustees-vote-to-move-forward-with-data-center-president-ora-pescovitz-declares-it-is-a-project-ou-will-desperately-need/"
+  ],
+  "unconfirmed": "The site description differs between accounts: the university's request for proposals named a five acre site at parking lot P-35, while the June board discussion described 15 acres at P37; we could not reconcile them. Whether Fairmount Properties was confirmed after the August selection and October board presentation described in earlier reporting is unknown. The water demand has not been published, and no partner company has been named."
+ },
+ {
+  "id": "ft-1766108459741-7894",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "For months it was just Project Cannoli.",
+    "src": "https://planetdetroit.org/2026/01/van-buren-data-center-protest/"
+   },
+   {
+    "para": 0,
+    "t": "On March 17, 2026 Google confirmed it was behind the gigawatt data center planned on 282 acres in Van Buren Township, in Wayne County, Michigan, north of I-94 between Haggerty Road and I-275.",
+    "src": "https://planetdetroit.org/2026/03/google-dte-data-center-van-buren/"
+   },
+   {
+    "para": 0,
+    "t": "The building would be 800,000 square feet, in service from December 2027 and at full load by December 2028.",
+    "src": "https://planetdetroit.org/2026/03/google-dte-data-center-van-buren/"
+   },
+   {
+    "para": 1,
+    "t": "The water figure is the one to hold onto: two to 3.6 million gallons a day.",
+    "src": "https://planetdetroit.org/2026/03/google-dte-data-center-van-buren/"
+   },
+   {
+    "para": 1,
+    "t": "Google announced the project alongside a partnership with DTE Energy to build 2.7 gigawatts of new solar, storage and demand response.",
+    "src": "https://planetdetroit.org/2026/03/google-dte-data-center-van-buren/"
+   },
+   {
+    "para": 1,
+    "t": "It said existing customers would see nearly $1.7 billion in affordability benefits, and pledged $10 million for energy affordability work in Michigan communities.",
+    "src": "https://planetdetroit.org/2026/03/google-dte-data-center-van-buren/"
+   },
+   {
+    "para": 1,
+    "t": "Michigan attorney general Dana Nessel said Google had \"obviously learned a lesson from the Oracle/Open AI boondoggle\", referring to the fast-tracked approvals given to the Saline Township campus.",
+    "src": "https://planetdetroit.org/2026/03/google-dte-data-center-van-buren/"
+   },
+   {
+    "para": 2,
+    "t": "The township had already moved.",
+    "src": "https://planetdetroit.org/2026/03/google-dte-data-center-van-buren/"
+   },
+   {
+    "para": 2,
+    "t": "The planning commission gave preliminary site plan approval in February 2026, a month before Google put its name to the project, and it still needs board approval and a final site plan review.",
+    "src": "https://planetdetroit.org/2026/03/google-dte-data-center-van-buren/"
+   },
+   {
+    "para": 2,
+    "t": "More than 1,500 residents signed a petition against it.",
+    "src": "https://planetdetroit.org/2026/03/google-dte-data-center-van-buren/"
+   },
+   {
+    "para": 3,
+    "t": "Residents protested outside the township hall on January 14, 2026, when they still did not know who the customer was.",
+    "src": "https://planetdetroit.org/2026/01/van-buren-data-center-protest/"
+   },
+   {
+    "para": 3,
+    "t": "Sanjay Singh, who lives in the township, said: \"From what I've observed, the general community sentiment is currently a resounding no\", and added: \"If the township only receives standard water/sewer fees and basic property tax, this is a waste of land.\"",
+    "src": "https://planetdetroit.org/2026/01/van-buren-data-center-protest/"
+   },
+   {
+    "para": 3,
+    "t": "The objections were that the outreach had been inadequate, that a gigawatt would strain local utilities, and that residents already dealing with higher bills and outages would carry the cost.",
+    "src": "https://planetdetroit.org/2026/01/van-buren-data-center-protest/"
+   },
+   {
+    "para": 4,
+    "t": "The entry is recorded on 282 acres, proposed, under the name Panattoni Project Cannoli with Google as developer, and now at 1,000 megawatts rather than the 2,700 it carried before.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 4,
+    "t": "The 2,700 megawatt figure is the size of the DTE generation partnership, not the data center, which is one gigawatt.",
+    "src": "https://planetdetroit.org/2026/03/google-dte-data-center-van-buren/"
+   },
+   {
+    "para": 5,
+    "t": "Ten other data center sites sit within 35 kilometres, including the Thor Equities land rejected by Augusta Township voters and the Verrus campus at Lyon Township.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 5,
+    "t": "The 308 megawatt Sumpter gas plant is 10 kilometres away, and fourteen municipalities in the surrounding counties have adopted data center moratoriums or zoning limits.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://planetdetroit.org/2026/03/google-dte-data-center-van-buren/",
+   "https://planetdetroit.org/2026/01/van-buren-data-center-protest/"
+  ],
+  "unconfirmed": "Where the water would come from, and what happens to it after cooling, is not established in what we read. The $1.7 billion affordability benefit is Google and DTE's figure, presented in a regulatory filing, and has not been independently checked here. Whether the township board has given final approval since March 2026 is unknown. Panattoni's role, which our record carries in the project's name, is as the developer of the land; the reporting we read attributes the campus to Google and does not describe Panattoni's current involvement."
+ },
+ {
+  "id": "ft-1767583568638-1135",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "More than 100 people came from across Macomb County to the Washington Township planning commission on December 11, 2025, and talked for three hours.",
+    "src": "https://planetdetroit.org/2025/12/washington-township-data-center-hearing/"
+   },
+   {
+    "para": 0,
+    "t": "At the end of it the commission put the data center rezoning off for a month.",
+    "src": "https://planetdetroit.org/2025/12/washington-township-data-center-hearing/"
+   },
+   {
+    "para": 0,
+    "t": "The developer is Prologis, a San Francisco real estate company, and the site is 312 acres on the south side of 32 Mile Road between M-53 and Powell Road.",
+    "src": "https://planetdetroit.org/2025/12/washington-township-data-center-hearing/"
+   },
+   {
+    "para": 1,
+    "t": "Barry Miller, vice chair of the commission, explained the delay: \"I just don't feel comfortable throwing this at the wall. I want to take the time to make the right decision.\"",
+    "src": "https://planetdetroit.org/2025/12/washington-township-data-center-hearing/"
+   },
+   {
+    "para": 1,
+    "t": "Mark Hosfeld, a vice president at Prologis, told the room: \"Before we go through any of these steps and have a project and move anything forward, we have to produce site plans.\"",
+    "src": "https://planetdetroit.org/2025/12/washington-township-data-center-hearing/"
+   },
+   {
+    "para": 2,
+    "t": "John Ardelean, from Almont, said: \"I truly believe this is something that would take us backwards 40 years, instead of propelling us forward 20 years.\"",
+    "src": "https://planetdetroit.org/2025/12/washington-township-data-center-hearing/"
+   },
+   {
+    "para": 2,
+    "t": "Corinne Graper, of Washington Township, said: \"This is death by a thousand paper cuts.\"",
+    "src": "https://planetdetroit.org/2025/12/washington-township-data-center-hearing/"
+   },
+   {
+    "para": 2,
+    "t": "Fred Hakim, a retired IT professional who lives in the township, took the other side, arguing the infrastructure upgrades the project would require would help the whole township.",
+    "src": "https://planetdetroit.org/2025/12/washington-township-data-center-hearing/"
+   },
+   {
+    "para": 3,
+    "t": "The entry is recorded as proposed, with no capacity, no acreage and no cost, and a Facebook group formed against it is on file.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "No megawatt figure has been published.",
+    "src": "https://planetdetroit.org/2025/12/washington-township-data-center-hearing/"
+   },
+   {
+    "para": 4,
+    "t": "This is the only data center site recorded in Macomb County, and the nearest other is the Oakland University campus proposal, 23 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generators are a long way off: the 1,508 megawatt Belle River coal plant and the 1,009 megawatt Greenwood gas plant are both 41 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Six municipalities nearby carry data center moratoriums, including the Village of Romeo from January 26, 2026, which borders the township.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://planetdetroit.org/2025/12/washington-township-data-center-hearing/"
+  ],
+  "unconfirmed": "The acreage in our record is blank while Planet Detroit reports 312 acres. No power or water demand has been published, and Prologis has not named an end user. What the planning commission decided after the one month postponement in January 2026, and whether the rezoning has since gone to the township board, we could not establish; this is the only source our record holds and we found nothing later that we could read."
+ },
+ {
+  "id": "ft-305",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The argument over the data center in Ypsilanti Township, in Washtenaw County, Michigan, is partly about where the building goes and partly about what it is for.",
+    "src": "https://planetdetroit.org/2025/12/university-of-michigan-data-center-funding/"
+   },
+   {
+    "para": 0,
+    "t": "The University of Michigan and Los Alamos National Laboratory plan a $1.2 billion computing facility on Textile Road, on the south bank of the Huron River.",
+    "src": "https://planetdetroit.org/2025/12/university-of-michigan-data-center-funding/"
+   },
+   {
+    "para": 0,
+    "t": "The state put in $100 million through the Michigan Strategic Fund and the Michigan Economic Development Corporation, and the university is financing $850 million.",
+    "src": "https://planetdetroit.org/2025/12/university-of-michigan-data-center-funding/"
+   },
+   {
+    "para": 0,
+    "t": "Construction and completion are projected between 2028 and 2031.",
+    "src": "https://planetdetroit.org/2025/12/university-of-michigan-data-center-funding/"
+   },
+   {
+    "para": 1,
+    "t": "The land grew.",
+    "src": "https://planetdetroit.org/2025/12/university-of-michigan-data-center-funding/"
+   },
+   {
+    "para": 1,
+    "t": "The university's December 2024 grant application described a 20 acre property in Ypsilanti Township; on June 12, 2025 the board of regents approved buying a further 124.68 acres on Textile Road.",
+    "src": "https://planetdetroit.org/2025/12/university-of-michigan-data-center-funding/"
+   },
+   {
+    "para": 1,
+    "t": "Township attorney Doug Winters said of the university: \"They've dealt from the bottom of the deck.\"",
+    "src": "https://planetdetroit.org/2025/12/university-of-michigan-data-center-funding/"
+   },
+   {
+    "para": 2,
+    "t": "The township wants it moved east, to the American Center for Mobility, away from the river and the West Willow neighbourhood.",
+    "src": "https://planetdetroit.org/2025/12/university-of-michigan-data-center-funding/"
+   },
+   {
+    "para": 2,
+    "t": "It passed a resolution urging relocation in August 2025 and another on December 2, 2025 calling for the state grant to be cancelled.",
+    "src": "https://planetdetroit.org/2025/12/university-of-michigan-data-center-funding/"
+   },
+   {
+    "para": 2,
+    "t": "On December 11, 2025 state representative Jimmie Wilson Jr, a Democrat from Ypsilanti, introduced legislation to rescind the $100 million: \"The University of Michigan has not been fully transparent with this project and has refused to collaborate with the Ypsilanti Township officials throughout this planning process.\"",
+    "src": "https://planetdetroit.org/2025/12/university-of-michigan-data-center-funding/"
+   },
+   {
+    "para": 2,
+    "t": "University spokesperson Kay Jarvis said: \"U-M has been undertaking, in good faith, a second thorough review of the ACM location.\"",
+    "src": "https://planetdetroit.org/2025/12/university-of-michigan-data-center-funding/"
+   },
+   {
+    "para": 3,
+    "t": "Winters put the objection in plain terms: \"Why should taxpayers subsidize this ... at a time when there's hundreds of thousands of people in this state losing Medicaid benefits, losing SNAP benefits, and they're not being honest, and forthright.\"",
+    "src": "https://planetdetroit.org/2025/12/university-of-michigan-data-center-funding/"
+   },
+   {
+    "para": 3,
+    "t": "Aaron Stark, who works for the university, said: \"I see this data center as another example of U of M throwing its muscle around to the detriment of local other communities and also another example of U of M's long, sordid ties to military research.\"",
+    "src": "https://planetdetroit.org/2025/12/university-of-michigan-data-center-funding/"
+   },
+   {
+    "para": 3,
+    "t": "Danielle Emerson of the Michigan Economic Development Corporation said it \"continues to have conversations with various entities involved in this potential project, and we look forward to an amenable outcome that serves the best interest for all Michiganders\".",
+    "src": "https://planetdetroit.org/2025/12/university-of-michigan-data-center-funding/"
+   },
+   {
+    "para": 4,
+    "t": "Water is where the township has leverage.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The Ypsilanti Community Utilities Authority adopted a water utility moratorium from April 22, 2026, recorded as specifically blocking this facility and the Thor Equities project in Augusta Township.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 5,
+    "t": "The entry is recorded as proposed at $1.2 billion, with the University of Michigan and Los Alamos National Laboratory named as developers and no capacity figure.",
+    "src": "data:developer"
+   },
+   {
+    "para": 6,
+    "t": "The 308 megawatt Sumpter gas plant is five kilometres away, and ten other data center sites sit within 31 kilometres, including Google's Van Buren campus at 10 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://planetdetroit.org/2025/12/university-of-michigan-data-center-funding/"
+  ],
+  "unconfirmed": "The power and water demand of the facility have not been published. Whether the university has moved the site to the American Center for Mobility, and whether Wilson's bill to rescind the grant went anywhere, are unknown; the reporting we could read stops in December 2025. The purpose of the machine is the most serious open question: our record holds a Michigan Daily brief reporting that Los Alamos confirmed it would be used for nuclear weapons research, and an MLive report of protesters disrupting a talk about the project in May 2025, but both returned errors and we will not repeat an unread claim of that weight. Aaron Stark's remark about the university's ties to military research, restored here, is the only reference to that question in a source we could read, and it is his characterisation rather than a confirmed fact."
+ },
+ {
+  "id": "ft-1775095642594-1332",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Apple Valley, in Dakota County, Minnesota, turned this data center down and then closed the door behind it.",
+    "src": "https://www.hometownsource.com/sun_thisweek/community/apple_valley/apple-valley-enacts-one-year-data-center-moratorium/article_202f77b2-8efe-4be3-aa3c-d514c6bf8885.html"
+   },
+   {
+    "para": 0,
+    "t": "Oppidan proposed up to five data center buildings totalling a million square feet on land near County Road 42 and Pilot Knob Road that is currently used for sand and gravel mining and owned by Rockport LLC.",
+    "src": "https://www.hometownsource.com/sun_thisweek/community/apple_valley/apple-valley-enacts-one-year-data-center-moratorium/article_202f77b2-8efe-4be3-aa3c-d514c6bf8885.html"
+   },
+   {
+    "para": 0,
+    "t": "In March 2026 the council rejected a conditional use permit for 143 acres, finding the proposal inconsistent with the city's comprehensive plan.",
+    "src": "https://www.hometownsource.com/sun_thisweek/community/apple_valley/apple-valley-enacts-one-year-data-center-moratorium/article_202f77b2-8efe-4be3-aa3c-d514c6bf8885.html"
+   },
+   {
+    "para": 0,
+    "t": "The applicants withdrew their rezoning requests on March 6 and March 10, 2026.",
+    "src": "https://www.hometownsource.com/sun_thisweek/community/apple_valley/apple-valley-enacts-one-year-data-center-moratorium/article_202f77b2-8efe-4be3-aa3c-d514c6bf8885.html"
+   },
+   {
+    "para": 1,
+    "t": "On July 9, 2026 the council approved a one year moratorium on all data center proposals, defined to include cryptocurrency mining and AI generation, while it writes regulations, reserving the right to shorten or lift it.",
+    "src": "https://www.hometownsource.com/sun_thisweek/community/apple_valley/apple-valley-enacts-one-year-data-center-moratorium/article_202f77b2-8efe-4be3-aa3c-d514c6bf8885.html"
+   },
+   {
+    "para": 1,
+    "t": "That effectively ends any further consideration of the site.",
+    "src": "https://www.hometownsource.com/sun_thisweek/community/apple_valley/apple-valley-enacts-one-year-data-center-moratorium/article_202f77b2-8efe-4be3-aa3c-d514c6bf8885.html"
+   },
+   {
+    "para": 2,
+    "t": "The entry is recorded as cancelled, at 300 megawatts on 134 acres.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "The land is part of the Apple Valley Redi-Mix and Fischer Aggregate mining operation, which is the inconsistency the council pointed to.",
+    "src": "https://www.hometownsource.com/sun_thisweek/community/apple_valley/apple-valley-enacts-one-year-data-center-moratorium/article_202f77b2-8efe-4be3-aa3c-d514c6bf8885.html"
+   },
+   {
+    "para": 3,
+    "t": "Dakota County around it is thick with data centers: Meta's operating Rosemount campus at 178 megawatts is 10 kilometres away, a Tract site at Farmington 13 kilometres, and Centra's MSP1 at Eagan the same distance.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Six municipalities nearby have adopted data center moratoriums, among them Eagan from February 2026 and Rosemount from April 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The 491 megawatt Black Dog gas plant is 10 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.hometownsource.com/sun_thisweek/community/apple_valley/apple-valley-enacts-one-year-data-center-moratorium/article_202f77b2-8efe-4be3-aa3c-d514c6bf8885.html"
+  ],
+  "unconfirmed": "The acreage differs between accounts: our record has 134 acres, the March 2026 conditional use permit covered 143, and other reports describe a 134 acre parcel. The capacity figure of 250 to 300 megawatts comes from trade press and trackers rather than a filing we read. Two claims came out on this pass because the only source we have does not carry them: a January 2026 council rejection of the comprehensive plan amendment, and the city being unable to fund a water treatment expansion. No council member or resident is quoted in the source; the piece on the moratorium names none. Whether Oppidan or Rockport intend to bring the site back after July 2027 is unknown. The Oheyawahi-Pilot Knob site, a place of significance to Dakota people, lies elsewhere in the county and we found nothing connecting it to this parcel, so it is not mentioned above."
+ },
+ {
+  "id": "ft-308",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Almost nothing is publicly known about the data center recorded at Chisago, in Chisago County, Minnesota, and the single source behind the entry points somewhere else entirely.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "That source is a trade report about a 300 megawatt Cielo Digital Infrastructure campus in South Carolina.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The entry itself gives 300 megawatts on 157 acres, proposed, with confidence marked low.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Tracker listings do describe a planned Cielo campus at Chisago on 157 acres, variously at 200 and 300 megawatts, with no completion date, and Cielo's own site lists Minnesota among the states where it has active projects.",
+    "src": "https://cleanview.co/data-centers/minnesota/2043/cielo-chisago-data-center"
+   },
+   {
+    "para": 1,
+    "t": "No filing, planning application or news report naming the site could be found.",
+    "src": "https://cleanview.co/data-centers/minnesota/2043/cielo-chisago-data-center"
+   },
+   {
+    "para": 2,
+    "t": "The county has acted anyway.",
+    "src": "https://citizenportal.ai/articles/9506848/minnesota/chisago-county/chisago-county-enacts-interim-moratorium-on-data-centers"
+   },
+   {
+    "para": 2,
+    "t": "A resident, Inez Westbrook, raised data center development at the Chisago City Council on May 26, 2026, asking about transparency and long term effects.",
+    "src": "https://citizenportal.ai/articles/8304282/minnesota/chisago-county/chisago-city/resident-urges-moratorium-on-data-centers-city-staff-point-to-state-law-and-utility-limits"
+   },
+   {
+    "para": 2,
+    "t": "On July 15, 2026 the county board directed staff to prepare a twelve month moratorium on data center development and set a public hearing for August 5, at which all five commissioners voted to adopt it, to give the planning commission time to look at zoning, permitting and utility capacity.",
+    "src": "https://citizenportal.ai/articles/9078441/minnesota/chisago-county/chisago-county-board-directs-12month-moratorium-on-data-center-development"
+   },
+   {
+    "para": 3,
+    "t": "The Chisago County moratorium is not among the measures listed near this site; the only ones carried are Inver Grove Heights and Minneapolis, both an hour away.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "No other data center site is recorded anywhere in the county.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generator is the 100 megawatt North Star solar project, 12 kilometres off, with the 511 megawatt Allen S King coal plant 38 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://cleanview.co/data-centers/minnesota/2043/cielo-chisago-data-center",
+   "https://citizenportal.ai/articles/8304282/minnesota/chisago-county/chisago-city/resident-urges-moratorium-on-data-centers-city-staff-point-to-state-law-and-utility-limits",
+   "https://citizenportal.ai/articles/9078441/minnesota/chisago-county/chisago-county-board-directs-12month-moratorium-on-data-center-development",
+   "https://citizenportal.ai/articles/9506848/minnesota/chisago-county/chisago-county-enacts-interim-moratorium-on-data-centers"
+  ],
+  "unconfirmed": "Three searches were run: Cielo Digital Infrastructure with Chisago and the 157 acre figure; Cielo with Minnesota and campus announcement; and Chisago County with \"data center\", residents and council for 2026. No local news report, planning application or company announcement about a Chisago site was found, only aggregator listings and the county's own meeting records. The capacity is unresolved, with 200 and 300 megawatts both appearing in listings. The exact parcel, whether Cielo has any land under contract, and whether the county moratorium was adopted with this project in mind, are all unknown. The citizenportal records used here are automated summaries of public meetings rather than reported journalism, and are cited as such. Our record's only source is a Data Center Dynamics report about a Cielo project in South Carolina, which does not support a Minnesota entry at all."
+ },
+ {
+  "id": "ft-309",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is a reuse, not a new build.",
+    "src": "https://www.centradigital.com/post/centra-breaks-ground-on-msp1"
+   },
+   {
+    "para": 0,
+    "t": "The data center is at 610 Opperman Drive in Eagan, in Dakota County, Minnesota.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Centra describes MSP1 as a 12 megawatt carrier-neutral interconnection data center made by the adaptive reuse of a former enterprise-owned facility.",
+    "src": "https://www.centradigital.com/post/centra-breaks-ground-on-msp1"
+   },
+   {
+    "para": 0,
+    "t": "Cooling is to be refrigerant-based with free cooling for almost half the year, power sourced through Dakota Electric's renewable programmes, and the design aligned with LEED principles.",
+    "src": "https://www.centradigital.com/post/centra-breaks-ground-on-msp1"
+   },
+   {
+    "para": 1,
+    "t": "Eagan has since drawn a line, and been sued over it.",
+    "src": "https://www.cbsnews.com/minnesota/news/lawsuit-filed-eagan-data-center-moratorium/"
+   },
+   {
+    "para": 1,
+    "t": "On February 17, 2026 the council unanimously passed an interim ordinance saying no new data center may sit within 500 feet of homes or use more than 20 megawatts of electricity, through February 17, 2027, unless the council lifts it earlier.",
+    "src": "https://www.cbsnews.com/minnesota/news/lawsuit-filed-eagan-data-center-moratorium/"
+   },
+   {
+    "para": 1,
+    "t": "On June 15, 2026 a company called Eagan Capital LLC sued the city, arguing it has no authority to regulate electricity because that power sits with the Minnesota Public Utilities Commission, and calling the moratorium ill-advised and unlawful because a data center's power use is not related to its effect on the environment, water, wastewater or public health.",
+    "src": "https://www.cbsnews.com/minnesota/news/lawsuit-filed-eagan-data-center-moratorium/"
+   },
+   {
+    "para": 1,
+    "t": "It asks for damages in excess of $50,000 and a court order voiding the moratorium.",
+    "src": "https://www.cbsnews.com/minnesota/news/lawsuit-filed-eagan-data-center-moratorium/"
+   },
+   {
+    "para": 1,
+    "t": "The city said it was confident in its position and would defend the moratorium vigorously, and had denied Eagan Capital an interim permit after staff found unpermitted chiller units running on the site.",
+    "src": "https://www.cbsnews.com/minnesota/news/lawsuit-filed-eagan-data-center-moratorium/"
+   },
+   {
+    "para": 2,
+    "t": "MSP1 is recorded as under construction at 12 megawatts, which is below the moratorium's 20 megawatt threshold.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "Meta's operating Rosemount campus at 178 megawatts is 11 kilometres away, and nine more recorded sites sit within 28 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The 286 megawatt Inver Hills gas plant is eight kilometres off and the 530 megawatt High Bridge plant 11 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.centradigital.com/post/centra-breaks-ground-on-msp1",
+   "https://www.cbsnews.com/minnesota/news/lawsuit-filed-eagan-data-center-moratorium/"
+  ],
+  "unconfirmed": "Whether Eagan Capital LLC is connected to Centra or to MSP1 is not established; the reporting on the lawsuit does not identify which building the plaintiff owns, and we have not assumed a link beyond the shared city. Centra's own announcement gives the megawatts, the cooling and the reuse but no address, floor area or previous occupant, so the 150,000 square feet and the former West Publishing and Thomson Reuters campus have come out of the text, as has a May 6 Eagan council approval of a planned development amendment and preliminary subdivision, which appears in no source we could read; the street address comes from our own record. The technical description is the company's account and not independent reporting. No resident objection to MSP1 specifically was found. The Data Center Dynamics report in our record is headlined as a groundbreaking in Minneapolis, though the site is in Eagan; that report is not fetchable. The outcome of the lawsuit is unknown."
+ },
+ {
+  "id": "ft-1783825562487-1869",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The person with most to lose in Elk River, in Sherburne County, Minnesota, runs a brewery.",
+    "src": "https://www.cbsnews.com/minnesota/news/elk-river-data-center-concerns-brewery/"
+   },
+   {
+    "para": 0,
+    "t": "Timothy Jones's business sits in the same industrial zone, yards from where one version of the plan put the data center's cooling equipment.",
+    "src": "https://www.cbsnews.com/minnesota/news/elk-river-data-center-concerns-brewery/"
+   },
+   {
+    "para": 0,
+    "t": "A third party noise study found the facility would produce more than 70 decibels in his area, below Minnesota's 80 decibel limit.",
+    "src": "https://www.cbsnews.com/minnesota/news/elk-river-data-center-concerns-brewery/"
+   },
+   {
+    "para": 0,
+    "t": "Jones said that is the equivalent of a garbage disposal or an alarm clock: \"I just don't see people coming, even walking through to get a beer and enjoy it inside, let alone enjoy it on the patio and just have that constantly in their ear.\"",
+    "src": "https://www.cbsnews.com/minnesota/news/elk-river-data-center-concerns-brewery/"
+   },
+   {
+    "para": 0,
+    "t": "He said the project would mean \"either closing this location and moving or closing completely\".",
+    "src": "https://www.cbsnews.com/minnesota/news/elk-river-data-center-concerns-brewery/"
+   },
+   {
+    "para": 1,
+    "t": "Elk River Capital LLC, an affiliate of Swervo Development, wanted to convert the existing building at 19178 Industrial Boulevard NW into a 33 megawatt data center, to be operated by Irongate Data Centers.",
+    "src": "https://www.hometownsource.com/elk_river_star_news/elk_river_star_news/council-rejects-data-center-zoning-amendment-calls-for-one-year-study/article_a9e353f0-0de5-4765-bd80-50a5f4fcb97c.html"
+   },
+   {
+    "para": 1,
+    "t": "The planning commission recommended against it on June 24, 2026 and asked the council for a six month moratorium.",
+    "src": "https://www.cbsnews.com/minnesota/news/elk-river-data-center-concerns-brewery/"
+   },
+   {
+    "para": 1,
+    "t": "On July 6, 2026 the city council unanimously rejected the zoning amendment the project needed in the light industrial zone, and directed staff to prepare a one year moratorium on new data center applications.",
+    "src": "https://www.hometownsource.com/elk_river_star_news/elk_river_star_news/council-rejects-data-center-zoning-amendment-calls-for-one-year-study/article_a9e353f0-0de5-4765-bd80-50a5f4fcb97c.html"
+   },
+   {
+    "para": 2,
+    "t": "What Elk River refused first was not a building but the rule that would have allowed one.",
+    "src": "https://www.mprnews.org/story/2026/07/07/elk-river-rejects-changing-rules-to-allow-data-centers"
+   },
+   {
+    "para": 2,
+    "t": "The ordinance changes would have permitted data centers in industrial zones, and the draft capped size and energy use and required closed loop cooling to limit water consumption.",
+    "src": "https://www.mprnews.org/story/2026/07/07/elk-river-rejects-changing-rules-to-allow-data-centers"
+   },
+   {
+    "para": 2,
+    "t": "The councillors were careful to say what the vote was not.",
+    "src": "https://www.hometownsource.com/elk_river_star_news/elk_river_star_news/council-rejects-data-center-zoning-amendment-calls-for-one-year-study/article_a9e353f0-0de5-4765-bd80-50a5f4fcb97c.html"
+   },
+   {
+    "para": 2,
+    "t": "Mike Beyer of Ward 3 said every decision he makes is guided by what he believes is best for residents, and that the proposal was not the right fit for this location at this time.",
+    "src": "https://www.hometownsource.com/elk_river_star_news/elk_river_star_news/council-rejects-data-center-zoning-amendment-calls-for-one-year-study/article_a9e353f0-0de5-4765-bd80-50a5f4fcb97c.html"
+   },
+   {
+    "para": 2,
+    "t": "Brian Calva of Ward 2 had visited four existing data centers and reported that people living near them were largely unaware they were running.",
+    "src": "https://www.hometownsource.com/elk_river_star_news/elk_river_star_news/council-rejects-data-center-zoning-amendment-calls-for-one-year-study/article_a9e353f0-0de5-4765-bd80-50a5f4fcb97c.html"
+   },
+   {
+    "para": 2,
+    "t": "Cory Grupa of Ward 1 raised the closeness of homes and schools, and Mayor John Dietz argued for case by case review through planned unit development rather than a blanket amendment.",
+    "src": "https://www.hometownsource.com/elk_river_star_news/elk_river_star_news/council-rejects-data-center-zoning-amendment-calls-for-one-year-study/article_a9e353f0-0de5-4765-bd80-50a5f4fcb97c.html"
+   },
+   {
+    "para": 2,
+    "t": "Residents raised noise, diesel generator emissions, water use, electrical demand, property values, radio interference and the closeness of homes, schools, parks and other businesses.",
+    "src": "https://www.hometownsource.com/elk_river_star_news/elk_river_star_news/council-rejects-data-center-zoning-amendment-calls-for-one-year-study/article_a9e353f0-0de5-4765-bd80-50a5f4fcb97c.html"
+   },
+   {
+    "para": 2,
+    "t": "David McClellan argued against rushing: \"There are other communities that are investigating this for us. There's a lot to learn, but there's no reason for us to rush into this.\"",
+    "src": "https://www.mprnews.org/story/2026/07/07/elk-river-rejects-changing-rules-to-allow-data-centers"
+   },
+   {
+    "para": 2,
+    "t": "Council member Jennifer Wagner said: \"Good community planning sometimes means saying yes. It also means sometimes saying no, or not yet, or we just don't have it right yet.\"",
+    "src": "https://www.mprnews.org/story/2026/07/07/elk-river-rejects-changing-rules-to-allow-data-centers"
+   },
+   {
+    "para": 3,
+    "t": "The council set a conditional use permit vote for August 3, where refusal was expected, and asked staff to draft the one year moratorium.",
+    "src": "https://www.mprnews.org/story/2026/07/07/elk-river-rejects-changing-rules-to-allow-data-centers"
+   },
+   {
+    "para": 3,
+    "t": "The applicant withdrew both applications on July 10, 2026.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The entry is now recorded as cancelled, at 33 megawatts on three acres.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "The 617 megawatt Monticello nuclear station is 21 kilometres away and the 1,556 megawatt Sherburne County coal plant 25 kilometres, with the 179 megawatt Elk River gas plant three kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Amazon's Becker project, recorded as paused, is 24 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.cbsnews.com/minnesota/news/elk-river-data-center-concerns-brewery/",
+   "https://www.hometownsource.com/elk_river_star_news/elk_river_star_news/council-rejects-data-center-zoning-amendment-calls-for-one-year-study/article_a9e353f0-0de5-4765-bd80-50a5f4fcb97c.html",
+   "https://www.mprnews.org/story/2026/07/07/elk-river-rejects-changing-rules-to-allow-data-centers"
+  ],
+  "unconfirmed": "The Elk River Star News page returned HTTP 429 on this pass and could not be re-read, so Mike Beyer's remark, which had been given as a direct quotation, is now paraphrased, and the rest of the detail drawn from that report is left as the earlier reading had it. The July 10, 2026 withdrawal is reported in syndicated summaries of the Star News found through search but not fetched, so the date is attributed to our record's source list rather than to a page we read in full. Whether the one year moratorium was actually adopted after the council's direction is unknown, and the planning commission had asked for six months rather than twelve. Neither source gives the 33 megawatt figure, which comes from our own record. Swervo Development's backers, and whether Irongate has gone elsewhere in Minnesota, are not established."
+ },
+ {
+  "id": "ft-311",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Hermantown, in St. Louis County, Minnesota, was asked to rezone 220 acres for a data center whose customer nobody would name.",
+    "src": "https://www.duluthnewstribune.com/news/local/charged-debate-over-hermantown-data-center-draws-crowd"
+   },
+   {
+    "para": 0,
+    "t": "More than 300 people came to the city council on October 20, 2025, filling the chamber and the overflow rooms.",
+    "src": "https://www.duluthnewstribune.com/news/local/charged-debate-over-hermantown-data-center-draws-crowd"
+   },
+   {
+    "para": 0,
+    "t": "City officials would say only that the customer was a United States based Fortune 50 company.",
+    "src": "https://www.mprnews.org/story/2025/10/22/hermantown-delays-permits-for-disputed-data-center"
+   },
+   {
+    "para": 0,
+    "t": "The council voted unanimously to rezone the land from suburban to business and light manufacturing, and the audience stood and shouted \"Shame\".",
+    "src": "https://www.duluthnewstribune.com/news/local/charged-debate-over-hermantown-data-center-draws-crowd"
+   },
+   {
+    "para": 1,
+    "t": "Less than 24 hours later the city delayed considering the permits.",
+    "src": "https://www.mprnews.org/story/2025/10/22/hermantown-delays-permits-for-disputed-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Assistant city administrator Joe Wicklund explained: \"Our approach was, hey, the request is valid. Let's just pause.\"",
+    "src": "https://www.mprnews.org/story/2025/10/22/hermantown-delays-permits-for-disputed-data-center"
+   },
+   {
+    "para": 1,
+    "t": "He said the city would take the next legal steps to see whether the work done in preparation for the alternative urban areawide review met the mark, and that everything was on pause while it took a deep look at the next environmental step.",
+    "src": "https://www.mprnews.org/story/2025/10/22/hermantown-delays-permits-for-disputed-data-center"
+   },
+   {
+    "para": 2,
+    "t": "The project is three phases and could reach 1.8 million square feet in up to four buildings of 300,000 square feet each, 50 feet tall, costing $650 million over eight to ten years.",
+    "src": "https://www.duluthnewstribune.com/news/local/charged-debate-over-hermantown-data-center-draws-crowd"
+   },
+   {
+    "para": 2,
+    "t": "At full capacity it would use 30,000 to 50,000 gallons of water a day.",
+    "src": "https://www.duluthnewstribune.com/news/local/charged-debate-over-hermantown-data-center-draws-crowd"
+   },
+   {
+    "para": 2,
+    "t": "Dan Lessor, a vice president at the developer Mortenson, told the meeting data centers are \"critical pieces of our local and national infrastructure\", and the city projected $50 million to $100 million in economic stimulus.",
+    "src": "https://www.duluthnewstribune.com/news/local/charged-debate-over-hermantown-data-center-draws-crowd"
+   },
+   {
+    "para": 3,
+    "t": "Nicholas Rinehart, a resident, put the objection in one question: \"Is this the Hermantown we want to become?\"",
+    "src": "https://www.duluthnewstribune.com/news/local/charged-debate-over-hermantown-data-center-draws-crowd"
+   },
+   {
+    "para": 3,
+    "t": "A group called Stop the Hermantown Data Center formed against it and petitioned the state Environmental Quality Board, saying noise, light, air and water had been inadequately addressed, with some homes within 350 feet of the site.",
+    "src": "https://www.mprnews.org/story/2025/10/22/hermantown-delays-permits-for-disputed-data-center"
+   },
+   {
+    "para": 4,
+    "t": "Google later confirmed it is the company.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "The entry is named Project Loon, gives Google as the developer, is recorded as suspended at 403 acres and $650 million, and holds both a change.org petition and the opposition group's website.",
+    "src": "data:status"
+   },
+   {
+    "para": 5,
+    "t": "This is the only data center site recorded anywhere in St. Louis County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 5,
+    "t": "The nearest generator of any size is the 60 megawatt M L Hibbard biomass plant, 11 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 5,
+    "t": "The only moratorium within reach is across the state line in Superior City, Wisconsin, from June 17, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.duluthnewstribune.com/news/local/charged-debate-over-hermantown-data-center-draws-crowd",
+   "https://www.mprnews.org/story/2025/10/22/hermantown-delays-permits-for-disputed-data-center"
+  ],
+  "unconfirmed": "The acreage differs: our record and trade press give 403 acres for the campus, while the October 2025 rezoning covered 220. Google's confirmation, the date of it and the terms of any electricity agreement with Minnesota Power are known here only from our record and from search summaries of reports we could not fetch, including the Star Tribune and Data Center Dynamics, so no figure for the power supply is stated above. Our record marks the project suspended, which does not obviously match a rezoning that passed; what happened after the October 2025 permit pause, and whether Google has since started work, we could not establish from sources we could read."
+ },
+ {
+  "id": "ft-1785527745587-6440",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Minnesota Star Tribune stopped printing at 800 North First Street in Minneapolis, in Hennepin County, Minnesota, in December 2025, moving the work to Iowa and affecting about 125 jobs, and a data center developer moved to buy the building.",
+    "src": "https://www.cbsnews.com/minnesota/news/data-center-minnesota-star-tribune-downtown-minneapolis/"
+   },
+   {
+    "para": 0,
+    "t": "In July 2026 Legacy Investing, of Arlington, Virginia, agreed to purchase the 13 acre printing site in the North Loop, expecting 20 megawatts of capacity.",
+    "src": "https://www.cbsnews.com/minnesota/news/data-center-minnesota-star-tribune-downtown-minneapolis/"
+   },
+   {
+    "para": 0,
+    "t": "The same company had already turned the Sleep Number building into a 30 megawatt data center.",
+    "src": "https://www.cbsnews.com/minnesota/news/data-center-minnesota-star-tribune-downtown-minneapolis/"
+   },
+   {
+    "para": 0,
+    "t": "Adam Duininck, president and chief executive of the Minneapolis Downtown Council, welcomed it: \"I think it's an exciting opportunity just to rethink how a data center development can help spur a different use.\"",
+    "src": "https://www.cbsnews.com/minnesota/news/data-center-minnesota-star-tribune-downtown-minneapolis/"
+   },
+   {
+    "para": 0,
+    "t": "He said it could lead to hundreds of millions of dollars in additional valuation and tens of millions of dollars of property tax.",
+    "src": "https://www.cbsnews.com/minnesota/news/data-center-minnesota-star-tribune-downtown-minneapolis/"
+   },
+   {
+    "para": 1,
+    "t": "The neighbourhood did not agree.",
+    "src": "https://www.cbsnews.com/minnesota/news/data-center-minnesota-star-tribune-downtown-minneapolis/"
+   },
+   {
+    "para": 1,
+    "t": "Kaitlyn Cooper, who lives next to the site, said: \"I think environmental concerns of course is like number one, also just like hearing other news reports of like, noise and things like that.\"",
+    "src": "https://www.cbsnews.com/minnesota/news/data-center-minnesota-star-tribune-downtown-minneapolis/"
+   },
+   {
+    "para": 1,
+    "t": "Hundreds of city residents took part in the opposition at forums in August 2026, raising environmental effects and how few jobs the building would create.",
+    "src": "https://www.mprnews.org/story/2026/09/11/developer-legacy-investing-withdraws-proposed-star-tribune-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Minneapolis had already imposed a six month ban in May 2026 on data centers larger than 350,000 square feet.",
+    "src": "https://www.mprnews.org/story/2026/09/11/developer-legacy-investing-withdraws-proposed-star-tribune-data-center"
+   },
+   {
+    "para": 2,
+    "t": "Legacy Investing withdrew its land use application on September 11, 2026 without comment, and emails to the company bounced back.",
+    "src": "https://www.mprnews.org/story/2026/09/11/developer-legacy-investing-withdraws-proposed-star-tribune-data-center"
+   },
+   {
+    "para": 2,
+    "t": "City spokesperson Jess Olstad said: \"The city looks forward to working with other partners who may wish to look at the future of this site.\"",
+    "src": "https://www.mprnews.org/story/2026/09/11/developer-legacy-investing-withdraws-proposed-star-tribune-data-center"
+   },
+   {
+    "para": 2,
+    "t": "The Star Tribune still owns the building, and vice president Chris Iles said the company \"remains committed to maximizing the value of the Heritage Printing Facility for the benefit of our community and our journalism\".",
+    "src": "https://www.mprnews.org/story/2026/09/11/developer-legacy-investing-withdraws-proposed-star-tribune-data-center"
+   },
+   {
+    "para": 2,
+    "t": "The entry is now recorded as cancelled, at 20 megawatts on 13 acres.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "Minneapolis adopted a six month data center moratorium on May 22, 2026, and six other jurisdictions nearby have measures of their own.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The 454 megawatt Riverside gas plant is three kilometres away, and nine other recorded data center sites sit within 33 kilometres, four of them within three.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.cbsnews.com/minnesota/news/data-center-minnesota-star-tribune-downtown-minneapolis/",
+   "https://www.mprnews.org/story/2026/09/11/developer-legacy-investing-withdraws-proposed-star-tribune-data-center"
+  ],
+  "unconfirmed": "Why Legacy Investing withdrew was not stated by the company, and whether its other Minneapolis proposal is still live is not established. MPR reports that the Star Tribune has not said whether the purchase agreement was terminated or whether any other developer has applied, so the earlier statements that it was terminated and that none has applied have come out. The Star Tribune's own report of the withdrawal returned HTTP 429 and could not be fetched. No investment figure or floor area for the proposed data center was published. Legacy Investing's managing partner Daniel English described a mixed use scheme with housing or retail funded by data center profits; we did not read that account directly and it is not stated above."
+ }
+]

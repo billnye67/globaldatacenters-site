@@ -1,0 +1,644 @@
+[
+ {
+  "id": "ft-1772681077912-7681",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is a small one, and the city sold the land for it.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Kearney City Council, in Buffalo County, Nebraska, approved the sale of 16 acres at the TechoNE Crossing technology park to Sequitor Edge, which plans a Tier III data center of about 40,000 square feet due to open in early 2027.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The company says it will offer racks from 5 to 100 kilowatts, colocation, GPU and AI services and cloud on-ramps for regional businesses, healthcare and agricultural technology.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Several Kearney businesses and organisations have signed non-binding letters of intent to become tenants.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The site was chosen for the power and the fibre.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "It sits beside two Nebraska Public Power District substations feeding it separately, and near existing fibre routes.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Not everyone in Kearney was untroubled.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "A resident raised concerns about the effect of a data center on the city at a meeting in May 2026, reported by Central Nebraska Today, which was not read.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded as proposed on 16 acres, with no capacity figure and no cost.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "There is no data center moratorium or zoning limit anywhere near Kearney on record, and no other data center site within 40 kilometres.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generators are a long way out: the 99 megawatt Canaday gas plant 56 kilometres away, the 100 megawatt Platte coal plant at 60, and the 296 megawatt Whelan Energy Center at 64.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The grid is the Southwest Power Pool, which peaks at 48,687 megawatts.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Everything found came from the company's own material, local economic development coverage and directory listings, none of it fetched, so no source url is listed and each sentence is attributed to our record's source list. No megawatt, water or cost figure has been published beyond the rack densities the company advertises. No resident or council member is quoted. Whether construction has begun is unknown."
+ },
+ {
+  "id": "ft-1763168180527-7934",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Yahoo built this one, and Yahoo is gone.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The data center at 10917 Harry Watanabe Parkway in La Vista, in Sarpy County, is 234,500 square feet on 32 acres, bought as an undeveloped shell by Yahoo around 2008, opened in 2010 and expanded in 2015.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "H5 Data Centers acquired it as part of a set of Yahoo facilities in 2024, in a sale and leaseback.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Directory listings give it 17.3 megawatts and up to seven carriers on site.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The reason to look at this corner of Nebraska is not this building.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Eight other data center sites on record sit within 24 kilometres: three Google campuses at 237 megawatts each, a Meta site at 80 megawatts, a CyrusOne building at Council Bluffs, two TierPoint buildings and a proposed 200 megawatt Edged site.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Sarpy County and the land across the Missouri in Council Bluffs have become one of the densest clusters of hyperscale computing in the United States.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The power that runs it is mostly coal and gas, and close by.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The 316 megawatt Sarpy County gas plant is ten kilometres away, the 564 megawatt North Omaha coal plant 20 kilometres, and the 1,512 megawatt Walter Scott Junior coal plant the same distance across the river.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "No jurisdiction anywhere near here has adopted a data center moratorium, ban or zoning limit on record.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "That is unusual for a cluster this size, and it is the single most useful thing on this page for anyone living nearby.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The building is recorded as operating at 17 megawatts on 32 acres, sourced to a trade report about H5 buying Yahoo's data centers in New York rather than to anything about La Vista.",
+    "src": "data:sources"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The Data Center Dynamics report in our record concerns the H5 acquisition generally and is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. No megawatt or water figure has been published for the building, and nothing was found about what it does now or who its tenants are. No local reporting about it was found."
+ },
+ {
+  "id": "ft-357",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "TierPoint's Omaha-Midlands data center at 11425 South 84th Street in Papillion, in Sarpy County, is an entry the record holds with no source at all.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Directory listings give it about 63,000 square feet with roughly 3.5 megawatts of power, redundant feeds, on-site generators and N+1 cooling.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The company says it is built to withstand 250 mile an hour winds and sits outside the 500 year floodplain, and links by ten gigabit waves to its other buildings in Bellevue, Kansas City and St Louis.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "It is one of the smallest things in a very large neighbourhood.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Google's Papillion campus, at 237 megawatts, is nine kilometres away, Meta's Sarpy site at 80 megawatts the same distance, and six more recorded data center sites sit within 24 kilometres, including two more Google campuses at 237 megawatts each.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Together the recorded sites within 25 kilometres of this building account for more than 770 megawatts of capacity, and that is only the sites for which a figure exists.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The generation is close and heavy.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The 316 megawatt Sarpy County gas plant is seven kilometres away, the 1,512 megawatt Walter Scott Junior coal plant 17 kilometres, and the 324 megawatt Cass County gas plant 22.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "No jurisdiction anywhere near here carries a data center moratorium, ban or zoning limit on record.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The building is recorded as operating with no capacity, no acreage, no cost and no developer.",
+    "src": "data:status"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Our record carries no source for this entry. The square footage, the 3.5 megawatts, the wind rating and the floodplain claim come from directory listings and the company's own pages surfaced in search, so no source url is listed and each sentence is attributed to our record's source list. No water figure is published and how much of the 3.5 megawatts is in use is not known. No local reporting about the building was found, and no objection to it."
+ },
+ {
+  "id": "ft-1780877798165-4320",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Nearly 15,000 people signed a petition against a proposal that had not yet been formally filed.",
+    "src": "https://newhampshirereview.com/articles/nottingham-data-center-moulton-route-4-planning-board-petition-2026/"
+   },
+   {
+    "para": 0,
+    "t": "Tom Moulton, a Seacoast businessman, asked the Nottingham Planning Board, in Rockingham County, for a conceptual consultation about a data center at Nottingham Business Park on Old Turnpike Road, off Route 4, on a property of more than 100 acres of which about 40 would be used, with 60 to 70 usable acres once the wetlands were taken out.",
+    "src": "https://indepthnh.org/2026/05/20/data-center-proposed-for-nottingham-property/"
+   },
+   {
+    "para": 0,
+    "t": "The board meeting on May 26, 2026 had to move from the town hall to Nottingham School to hold the crowd, and the agenda item was only a conceptual consultation.",
+    "src": "https://newhampshirereview.com/articles/nottingham-data-center-moulton-route-4-planning-board-petition-2026/"
+   },
+   {
+    "para": 1,
+    "t": "Brad Weit, a resident, had gathered 14,747 signatures on a change.org petition by three o'clock on Monday, May 25.",
+    "src": "https://newhampshirereview.com/articles/nottingham-data-center-moulton-route-4-planning-board-petition-2026/"
+   },
+   {
+    "para": 1,
+    "t": "Ellen White, the town administrator, said the response was unlike anything she had seen: 'It's been statewide. Everything has been in opposition to it.'",
+    "src": "https://newhampshirereview.com/articles/nottingham-data-center-moulton-route-4-planning-board-petition-2026/"
+   },
+   {
+    "para": 1,
+    "t": "Moulton felt the weight of it before he had said anything: \"I haven't even had my voice heard yet, and everybody is coming out of the woodwork, and they want to lynch me. It's like, 'Come on people, relax.'\"",
+    "src": "https://newhampshirereview.com/articles/nottingham-data-center-moulton-route-4-planning-board-petition-2026/"
+   },
+   {
+    "para": 1,
+    "t": "He also said: \"The reality is we're gonna need these places for the future.\"",
+    "src": "https://indepthnh.org/2026/05/20/data-center-proposed-for-nottingham-property/"
+   },
+   {
+    "para": 2,
+    "t": "The town had no rules to apply.",
+    "src": "https://indepthnh.org/2026/05/20/data-center-proposed-for-nottingham-property/"
+   },
+   {
+    "para": 2,
+    "t": "New Hampshire law contains no definition of a data center, which leaves municipalities without a basis to write zoning for one.",
+    "src": "https://indepthnh.org/2026/05/20/data-center-proposed-for-nottingham-property/"
+   },
+   {
+    "para": 2,
+    "t": "Representative Hope Damon, a Democrat from Croydon, put it plainly: 'We don't have anything that enables the municipalities to put regulations in place.'",
+    "src": "https://indepthnh.org/2026/05/20/data-center-proposed-for-nottingham-property/"
+   },
+   {
+    "para": 2,
+    "t": "In May 2026 the state House voted 304 to 11 to table a bill that would have taken data center zoning authority away from towns, preserving their ability to impose special zoning requirements of their own.",
+    "src": "https://newhampshirereview.com/articles/nottingham-data-center-moulton-route-4-planning-board-petition-2026/"
+   },
+   {
+    "para": 3,
+    "t": "Moulton withdrew on May 27, in a letter from his lawyer saying he appreciated the public's engagement and the importance of addressing questions and concerns thoughtfully and responsibly.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "No power or water figure was ever published for the proposal, because it never got that far.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generators are the two Newington gas plants at 561 and 400 megawatts, 25 and 27 kilometres away, and the 156 megawatt Schiller coal plant at 27.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "The only measure on record within reach is zoning limits adopted in Rochester on August 18, 2026, after all this had happened.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://newhampshirereview.com/articles/nottingham-data-center-moulton-route-4-planning-board-petition-2026/",
+   "https://indepthnh.org/2026/05/20/data-center-proposed-for-nottingham-property/"
+  ],
+  "unconfirmed": "Our record held this site twice at the same coordinates, one entry suspended and one blocked; they were merged in an earlier pass. The withdrawal on May 27 and the wording of the lawyer's letter come from a search summary of the Data Center Dynamics report in our record, which is not fetchable, so that sentence is attributed to our record's source list. The company name differs between accounts, Nottingham Business Park LLC in our record and PCC Nottingham Business Park LLC in the New Hampshire Review, with case number 26-009. The meeting is given there as a Wednesday evening on May 26, 2026, which was in fact a Tuesday, so only the date is used here. Whether Moulton intends to return, and whether Nottingham has since adopted any zoning of its own, are unknown. No end user was ever named."
+ },
+ {
+  "id": "ft-359",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is a bank branch, not a campus.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Comcast is converting a long vacant former TD Bank at 92 West Main Street in Clinton Town, in Hunterdon County, into an unmanned data center: a single storey building of 2,170 square feet on just over an acre, built around 1975 and last refitted in 2017.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The drive-through is to be removed and two backup generators installed.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The Clinton Town land use board approved the conversion.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The building has stood empty for nearly a decade, and nobody will work in it.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "It is the kind of edge facility that sits inside an existing network rather than the kind that needs its own substation.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Around it, New Jersey has been banning data centers at a pace matched almost nowhere else.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The record shows eight measures within reach of this site alone, seven of them outright bans rather than pauses: Phillipsburg from April 14, 2026, Andover Township from May 28, Green Township from June 10, Warren Township from June 19, Roselle Park from June 24, Sparta Township from June 29 and Sayreville from July 20, plus zoning limits in Allentown from June 17.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The Andover ban is marked as litigated.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The entry stands as proposed with no capacity, no acreage, no cost and no developer field filled in.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generator is the 455 megawatt Gilbert gas plant 22 kilometres away, with the 1,700 megawatt Martins Creek plant across the Delaware at 24 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Hunterdon County.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Our record's only source is a trade report that is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. No megawatt, water or cost figure has been published, which for a building of 2,170 square feet is unsurprising. No resident or town official is quoted, and no objection to the conversion was found."
+ },
+ {
+  "id": "ft-360",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "No developer has proposed a data center at Joint Base McGuire-Dix-Lakehurst; what exists is an invitation to bid.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The Department of the Air Force put the base, in Burlington County, on a list of five where it would take proposals from private developers to build AI data centers on underused land, asking for facilities of more than 100 megawatts of new load and at least $500 million of capital spending, on leases of up to 50 years bid at fair market value.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Proposals were due by November 14, 2025, with selections to be announced the following year after environmental assessments and design reviews.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Fewer than 300 acres are available at the New Jersey base.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The record carries 193 acres, proposed, with no developer, no capacity and no cost, at medium confidence.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "That acreage is not confirmed anywhere else.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "What surrounds the base is worth knowing.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Seven municipalities within reach have adopted outright bans on record: Pemberton Township from February 20, 2026, Waterford Township from April 20, Mantua Township from May 11, East Greenwich and Red Bank Borough from June 11, Neptune Township from July 13 and Sayreville from July 20.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "None of them reaches a federal military installation.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "Five other recorded data center sites sit within 29 kilometres, including CoreWeave's operating 250 megawatt site at the former Merck campus in Rahway and a proposed Amazon project across the river at Falls Township.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 1,280 megawatt Fairless Energy Center is 18 kilometres away, with the 391 megawatt Croydon oil plant at 25.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The grid is PJM, which peaks at 144,530 megawatts.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The solicitation documents and the base's own pages were not fetched, so no source url is listed and each sentence is attributed to our record's source list. The acreage offered at this base, 193 acres, comes from reporting on the programme as a whole rather than from a filing about this site. Whether any proposal was received for McGuire-Dix-Lakehurst, from whom, and whether a lease has been signed, are unknown. No megawatt, water or cost figure specific to this base has been published, and no base official, resident or county official is quoted."
+ },
+ {
+  "id": "ft-1785457888414-6619",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The developer is suing the township for $300 million.",
+    "src": "https://www.inquirer.com/south-jersey/monroe-new-jersey-data-center-ban-lawsuit-20260717.html"
+   },
+   {
+    "para": 0,
+    "t": "Hexa Builders bought a 170 acre farm at 3043 Black Horse Pike in Monroe Township, in Gloucester County, in 2022 and sought to build a million square foot data center and a warehouse on it.",
+    "src": "https://www.inquirer.com/south-jersey/monroe-new-jersey-data-center-ban-lawsuit-20260717.html"
+   },
+   {
+    "para": 0,
+    "t": "On April 22, 2026 Monroe Township passed two ordinances: one banning data centers across the township, the other repealing the 2025 ordinance that had permitted them on Hexa's land.",
+    "src": "https://www.inquirer.com/south-jersey/monroe-new-jersey-data-center-ban-lawsuit-20260717.html"
+   },
+   {
+    "para": 0,
+    "t": "The ban took effect on May 13, 2026.",
+    "src": "https://www.inquirer.com/south-jersey/monroe-new-jersey-data-center-ban-lawsuit-20260717.html"
+   },
+   {
+    "para": 1,
+    "t": "The complaint, filed on June 5, 2026, runs to 102 pages and twenty counts, including equal protection under the Fourteenth Amendment, free speech under the First, arbitrary and capricious decision making, and insufficient notice of the ban.",
+    "src": "https://www.inquirer.com/south-jersey/monroe-new-jersey-data-center-ban-lawsuit-20260717.html"
+   },
+   {
+    "para": 1,
+    "t": "On July 6, 2026 the township moved the case from New Jersey Superior Court to federal court.",
+    "src": "https://www.inquirer.com/south-jersey/monroe-new-jersey-data-center-ban-lawsuit-20260717.html"
+   },
+   {
+    "para": 1,
+    "t": "Hexa's attorney Jim Maley said of the wave of bans: \"Nobody is giving any testimonial, any scientific reasons for the good of the community. Everybody's doing it. It's just a thing.\"",
+    "src": "https://www.inquirer.com/south-jersey/monroe-new-jersey-data-center-ban-lawsuit-20260717.html"
+   },
+   {
+    "para": 1,
+    "t": "Township solicitor Sandra Graise said: \"The Township is committed to vigorously and zealously defending this lawsuit while remaining steadfast in its commitment to protecting the interests of the Township, its residents, and its taxpayers.\"",
+    "src": "https://www.inquirer.com/south-jersey/monroe-new-jersey-data-center-ban-lawsuit-20260717.html"
+   },
+   {
+    "para": 2,
+    "t": "John Romano, who lives in Williamstown, gave the reason people wanted the ban: \"I'd like to sit out in my backyard and enjoy a stogie and a cold one and not hear noise and pollution and this and that.\"",
+    "src": "https://www.inquirer.com/south-jersey/monroe-new-jersey-data-center-ban-lawsuit-20260717.html"
+   },
+   {
+    "para": 2,
+    "t": "The township's stated reason for rejecting the application was that it was incomplete, which Hexa disputes.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The record used to place this project in Hammonton, in Atlantic County, and now places it in Monroe Township, in Gloucester County.",
+    "src": "data:address"
+   },
+   {
+    "para": 3,
+    "t": "The reporting places 3043 Black Horse Pike in Monroe Township, in Gloucester County, which is a different municipality and a different county.",
+    "src": "https://www.inquirer.com/south-jersey/monroe-new-jersey-data-center-ban-lawsuit-20260717.html"
+   },
+   {
+    "para": 4,
+    "t": "The entry stands as proposed with no acreage, no capacity and no cost, and marks pushback as unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "Seven municipalities within reach carry outright bans on record, including Logan Township from April 21, 2026 and Millville from May 20.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generators are small gas plants of 55, 55, 87 and 187 megawatts between 20 and 24 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.inquirer.com/south-jersey/monroe-new-jersey-data-center-ban-lawsuit-20260717.html"
+  ],
+  "unconfirmed": "The township's justification that the application was incomplete comes from a search summary of the Data Center Dynamics report in our record, which is not fetchable. No megawatt or water figure was ever published for the proposed building. The outcome of the federal case is unknown. Our record used to place this project in Hammonton, in Atlantic County, a different municipality and a different county from the Monroe Township the reporting gives; the record has since been checked and now agrees with the reporting."
+ },
+ {
+  "id": "ft-1763166934482-3928",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This Jersey City data center entry, in Hudson County, is a backup address rather than a building of its own.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "DataVerge's main site is at 882 Third Avenue in Brooklyn, at Industry City, where it runs more than 60,000 square feet of white space, up to ten megawatts, more than 40 tier one carriers and what it calls Brooklyn's only carrier-neutral meet-me room.",
+    "src": "https://dataverge.com/interconnected-colocation-new-york/"
+   },
+   {
+    "para": 0,
+    "t": "111 Town Square Place in Jersey City, in Hudson County, is listed alongside it as a backup and disaster recovery option.",
+    "src": "https://dataverge.com/interconnected-colocation-new-york/"
+   },
+   {
+    "para": 0,
+    "t": "The record holds both, the Brooklyn one at ten megawatts eight kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The point of this address is that it sits in the densest interconnection cluster in the country.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Ten other recorded data center sites sit within 15 kilometres, among them Digital Realty's New York buildings at 60 Hudson Street and 111 Eighth Avenue two kilometres off, Sabey's Intergate Manhattan at 375 Pearl Street at three, and Equinix's New York metro campus at Secaucus at six.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Jersey City has since decided it does not want more of them.",
+    "src": "https://newjersey.news12.com/2026/08/23/jersey-city-council-votes-to-ban-data-centers-on-industrial-property/2juzJBPYsK7KemgdiedWKP"
+   },
+   {
+    "para": 2,
+    "t": "On August 22, 2026 the city council voted unanimously to ban artificial intelligence data centers in the industrial district, on the argument that they create few local jobs and use large amounts of electricity and water.",
+    "src": "https://newjersey.news12.com/2026/08/23/jersey-city-council-votes-to-ban-data-centers-on-industrial-property/2juzJBPYsK7KemgdiedWKP"
+   },
+   {
+    "para": 2,
+    "t": "The resident Abril Rios supported it: \"I really support it. I think a lot of A.I. data centers have been going up without confirmation of the community, so it is really important that we have input before anything happens.\"",
+    "src": "https://newjersey.news12.com/2026/08/23/jersey-city-council-votes-to-ban-data-centers-on-industrial-property/2juzJBPYsK7KemgdiedWKP"
+   },
+   {
+    "para": 2,
+    "t": "Brenden Clark argued for regulating rather than banning, pointing to a 15.5 per cent property tax rise: \"We are telling homeowners we need more reoccurring revenue, yet at the same time we are considering an ordinance eliminating a category of capital-intensive development from our industrial property.\"",
+    "src": "https://newjersey.news12.com/2026/08/23/jersey-city-council-votes-to-ban-data-centers-on-industrial-property/2juzJBPYsK7KemgdiedWKP"
+   },
+   {
+    "para": 3,
+    "t": "Bayonne, next door, had gone first.",
+    "src": "http://hudsoncountyview.com/bayonne-council-unanimously-approves-measure-to-ban-data-centers-citywide/"
+   },
+   {
+    "para": 3,
+    "t": "Its council approved the second reading 5 to 0 to make data centers a non-permitted use citywide, after the issue dominated a mayoral election that Sharon Ashe-Nadrowski won campaigning against them, and which she returned to in her inaugural address.",
+    "src": "http://hudsoncountyview.com/bayonne-council-unanimously-approves-measure-to-ban-data-centers-citywide/"
+   },
+   {
+    "para": 3,
+    "t": "The resident Keith Gallant welcomed it with a warning: \"First of all, I can't tell you how happy I am that this is moving forward in that direction. That hopefully does not open us to litigation because I'm still sure that that might happen...\"",
+    "src": "http://hudsoncountyview.com/bayonne-council-unanimously-approves-measure-to-ban-data-centers-citywide/"
+   },
+   {
+    "para": 3,
+    "t": "The ordinance does not undo three redevelopment plans the city had already zoned for data centers, as the resident Jill Pustorino pointed out: \"as far as I understand from section 4, this does not apply to the three permissions that were already given for data centers.\"",
+    "src": "http://hudsoncountyview.com/bayonne-council-unanimously-approves-measure-to-ban-data-centers-citywide/"
+   },
+   {
+    "para": 4,
+    "t": "The entry stands as operating with no capacity, no acreage, no cost and no source beyond the company's own page.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "The 631 megawatt East River plant is five kilometres away and the 456 megawatt Kearny station the same distance.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://dataverge.com/interconnected-colocation-new-york/",
+   "https://newjersey.news12.com/2026/08/23/jersey-city-council-votes-to-ban-data-centers-on-industrial-property/2juzJBPYsK7KemgdiedWKP",
+   "http://hudsoncountyview.com/bayonne-council-unanimously-approves-measure-to-ban-data-centers-citywide/"
+  ],
+  "unconfirmed": "Nothing published describes the Jersey City address as a data center in its own right; the company's page lists it as a backup and disaster recovery option alongside its Brooklyn site, and all the capacity figures given by the company belong to Brooklyn. Whether DataVerge operates equipment at 111 Town Square Place, and on what scale, is unknown. A line attributed to Keith Gallant, calling the ban \"a huge turning point in the election issue that really motivated residents to come out and use their voices\", is not in the report read here, and his words are quoted instead. That report does not date the Bayonne vote or say when the mayor signed; our record dates the ban August 14, 2026 and the page had the vote on August 13, so only the sequence is certain. The Jersey City vote was on a Wednesday and the report is dated August 23, 2026. More than thirty New Jersey towns and cities have enacted similar bans. Whether the Jersey City ban reaches existing buildings is not stated."
+ },
+ {
+  "id": "ft-361",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is the second of two Comcast bank conversions on record, both from the same trade report.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The other, at 92 West Main Street in Clinton Town, is a former TD Bank of 2,170 square feet being turned into an unmanned data center with two backup generators and the drive-through removed; this one is at 650 Centerton Road in Moorestown, in Burlington County.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The entry gives this one as 650 Centerton Road in Moorestown, proposed, with no capacity, no acreage, no cost and no developer field filled in.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "No published account describes the Moorestown site separately.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Beyond that trade report, which is not fetchable, there are only directory listings repeating it.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "What can be said is what Burlington County has done about data centers generally.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Six municipalities within reach of this address carry outright bans on record: Pemberton Township from February 20, 2026, Waterford Township from April 20, Logan Township from April 21, Mantua Township from May 11, Pilesgrove Township from May 12 and East Greenwich from June 11.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "New Jersey municipalities have been passing bans rather than moratoriums, which is a sharper instrument than most of the country has used.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generators are the 168 megawatt Burlington gas station and the 391 megawatt Croydon oil plant, both ten kilometres away, with the 98 megawatt Richmond station at 16.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Eight other recorded data center sites sit within 40 kilometres, four of them cancelled or suspended.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Our record's only source is the same trade report that covers the Clinton Town conversion, which is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. Nothing specific to the Moorestown building has been published: no square footage, no megawatt figure, no water figure and no timetable. No resident or township official is quoted, and no objection was found."
+ }
+]

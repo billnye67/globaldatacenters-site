@@ -1,0 +1,694 @@
+[
+ {
+  "id": "ft-431",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Cherokee data center at 7400 North Lakewood Avenue in Tulsa is a building the record holds with no source at all.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "It is listed as operating, with no capacity, no acreage, no cost and no developer, and pushback marked unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "No published account describes the building, its operator or its size.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "What is certain is what has been built up around it in the last two years.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Google's Project Clydesdale, a 506 acre campus confirmed as Google's on August 19, 2026, is under construction one kilometre away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Meta's Tulsa campus is under construction 14 kilometres off, a Compass site sits at 17, a TierPoint building at 19, Project Anthem under construction at 20, another Google project at 25, and two more proposals at 29.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The record counts six data center sites in Tulsa County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The city has since stopped taking new applications.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Tulsa adopted a moratorium on March 25, 2026 running to the end of the year, and Broken Arrow a six month one from June 15.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Neither would reach a building already operating.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The generation here is gas and a long way off: the 330 megawatt Tulsa plant is 18 kilometres away, the 1,342 megawatt Northeastern plant 27, the 1,070 megawatt Riverside plant 30 and the 783 megawatt Green Country plant 31.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The regional control area, Associated Electric Cooperative, peaks at 4,770 megawatts, a thirtieth of PJM on the east coast.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Nothing was found naming an operator, a size or a history for the building at 7400 North Lakewood Avenue, and our record carries no source for it at all, so no source url is listed and each sentence is attributed to our record's source list. The name \"Cherokee Data Center\" probably refers to the Cherokee Industrial Park next to which Project Clydesdale is being built, but that is unconfirmed. No power or water figure exists. No local reporting about this building was found and no objection to it."
+ },
+ {
+  "id": "ft-430",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This was TierPoint's fourth building in Oklahoma, and it cost $20 million.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The record carries the data center as operating at 12151 East State Farm Boulevard in Tulsa, in Tulsa County, with no capacity, no acreage and no developer field filled in, sourced to a trade report on the company completing the site.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "It now sits at the edge of a very large buildout.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "A Compass site is two kilometres away, the proposed Broken Arrow project 11, Project Anthem under construction 11, Meta's Tulsa campus 15, an operating Cherokee data center 19, Google's Project Clydesdale under construction 21, another Google project at 25, the cancelled Project Atlas at 31 and Project Mustang at 35.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Tulsa stopped taking new data center applications on March 25, 2026, for nine months to the end of the year, and Broken Arrow followed on June 15 with six months.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Neither reaches an existing building.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The gas plants are the reason the campuses came.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The 330 megawatt Tulsa plant is 14 kilometres away, the 1,070 megawatt Riverside plant 15, the 783 megawatt Green Country plant 15 and the 1,086 megawatt Oneta Energy Center 16.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Together those four make about 3.3 gigawatts, most of the 4,770 megawatt peak of the whole Associated Electric Cooperative control area.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 4,
+    "t": "Pushback is marked as unknown, and no objection to this building is recorded anywhere.",
+    "src": "data:fractracker"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Nothing specific about this TierPoint building was found beyond its address and the $20 million cost in our record, and the Data Center Dynamics report that is our only source is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. No square footage, power capacity, water figure or completion date is established. No local reporting about it was found."
+ },
+ {
+  "id": "ft-434",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Two port commissioners were recalled over this one before it collapsed.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "In March 2023 a startup called Roundhouse Digital Infrastructure proposed a 10 megawatt data center at Cascade Locks, in Hood River County, in the Columbia River Gorge, seeking a 25 year lease from the Cascade Locks Port Authority for a vacant industrial building and ten acres nearby.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "It planned $40 million on the first building and $60 million on a second.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The town is small enough that the arithmetic was stark.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Local reporting was headlined that the data center would nearly double Cascade Locks' energy consumption.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Residents raised noise, pollution, water, electricity and what else they did not know about.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "By the summer of 2023 the controversy had led to the recall and replacement of two port commissioners, and the port and Roundhouse announced together that they were dropping the project, citing community feedback and the complexity of the situation.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Friends of the Columbia Gorge, which campaigned against it, describes the episode on its own site as shutting down a data center proposal in Cascade Locks.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded as cancelled with no acreage, no capacity, no cost and no developer, at medium confidence.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "There is no other data center site on record anywhere in Hood River County, and none within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The power that drew the developer is five kilometres away: the 1,154 megawatt Bonneville hydroelectric dam.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "The grid is the Bonneville Power Administration, which peaks at 9,418 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 4,
+    "t": "No jurisdiction anywhere near Cascade Locks has a data center moratorium or zoning limit on record.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Both Oregonlive reports in our record could not be fetched and the advocacy and trade accounts were found only in search summaries, so no source url is listed and each sentence is attributed to our record's source list. No resident, commissioner or company representative is quoted. The exact date of the cancellation, and which two commissioners were recalled, are not established. The 10 megawatt figure comes from a trade summary rather than a filing."
+ },
+ {
+  "id": "ft-435",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Signs reading \"No Forest Grove Data Center\" went up on lawns across the town, and it was approved anyway.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Crane Data Centers applied to build a campus on Heather Street in Forest Grove, in Washington County, west of Portland, on light industrial land bordered by houses on two sides.",
+    "src": "https://hillsboronewstimes.com/2024/10/16/forest-groves-first-data-center-approved-despite-community-concerns/"
+   },
+   {
+    "para": 0,
+    "t": "City staff approved the site development review in late July 2024; the planning commission approved it on September 3, 2024; a resident, Dale Feik, appealed to the city council, which denied the appeal 5 to 0 on October 14, 2024, with one councillor absent.",
+    "src": "https://hillsboronewstimes.com/2024/10/16/forest-groves-first-data-center-approved-despite-community-concerns/"
+   },
+   {
+    "para": 0,
+    "t": "The plan is two phases: 180,000 square feet at 40 feet tall, then 363,000 square feet at 75 feet, and construction began in August 2025.",
+    "src": "https://hillsboronewstimes.com/2024/10/16/forest-groves-first-data-center-approved-despite-community-concerns/"
+   },
+   {
+    "para": 1,
+    "t": "Residents objected to how close it would be to houses, to what it would do to the environment, and to the effect on power and utility rates.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Mayor Malynda Wenzl put the council's position plainly: \"My job as a presiding officer and as an elected person in Forest Grove is to uphold our code.\"",
+    "src": "https://hillsboronewstimes.com/2024/10/16/forest-groves-first-data-center-approved-despite-community-concerns/"
+   },
+   {
+    "para": 2,
+    "t": "The resident Carol Alery drew the distinction the campaign turned on: \"I'm not against data centers, I'm against where it's gonna be.\"",
+    "src": "https://hillsboronewstimes.com/2024/10/16/forest-groves-first-data-center-approved-despite-community-concerns/"
+   },
+   {
+    "para": 2,
+    "t": "The business owner Tim Schauermann made the other case: \"This data center is going to be worth at least $100 million.\"",
+    "src": "https://hillsboronewstimes.com/2024/10/16/forest-groves-first-data-center-approved-despite-community-concerns/"
+   },
+   {
+    "para": 3,
+    "t": "Washington County is where Oregon's data centers have concentrated.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The record counts nine sites in the county, and eight of them sit within 15 kilometres of this one: Aligned's Hillsboro campus at 11, STACK, QTS, T5 and a Flexential site used by CoreWeave all at 12, Meta's operating 180 megawatt QTS Hillsboro 2 at 13, NTT's Hillsboro campus at 14 and Digital Realty's PDX10 at 15.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "Hillsboro adopted a moratorium on July 26, 2026, running to November 23, and is the only measure on record within reach.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generator is a 75 megawatt battery installation 12 kilometres away, with the 230 megawatt River Road gas plant at 31.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://hillsboronewstimes.com/2024/10/16/forest-groves-first-data-center-approved-despite-community-concerns/"
+  ],
+  "unconfirmed": "The reporting gives the address as 3975 Heather Street while our record's address field says 2975; which is right is unresolved. The page had the planning commission dismissing an appeal 4 to 2 on September 3, 2024; the report read here says the commission approved the application that day and gives no vote count, and the appeal it describes is Dale Feik's to the council. No megawatt or water figure has been published for the campus. The lawn signs and the Oregonian headline about the building blocking out the sky come from our record's source list; the report read here mentions neither. An appellant had 21 days to take the decision to Oregon's Land Use Board of Appeals, and whether anyone did is unknown. The Data Center Dynamics headline about the council approving the project \"again\" is consistent with the staff, commission and council decisions above."
+ },
+ {
+  "id": "ft-1779562814193-6454",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The chief executive said it himself the day after the hearing.",
+    "src": "https://www.bendsource.com/news/localnews/after-pushback-to-la-pine-data-center-community-developers-await-next-steps/"
+   },
+   {
+    "para": 0,
+    "t": "About 150 people came to a public hearing at La Pine City Hall, in Deschutes County, on May 13, 2026, with nearly three hours of comment and most of it against; the next day Boxminer's chief executive Jeff Keller wrote: \"I'm not sure there will ever be a data center in La Pine after last night's meeting...\"",
+    "src": "https://www.bendsource.com/news/localnews/after-pushback-to-la-pine-data-center-community-developers-await-next-steps/"
+   },
+   {
+    "para": 1,
+    "t": "The proposal was a 20 megawatt data center on a 20 acre lot in the La Pine Industrial Park, east of the railway near Highway 97, costing $286 million to build, on land the company would buy for $1.5 million, split evenly between the city and Deschutes County.",
+    "src": "https://www.bendsource.com/news/localnews/after-pushback-to-la-pine-data-center-community-developers-await-next-steps/"
+   },
+   {
+    "para": 1,
+    "t": "Twenty megawatts is about what 16,000 homes use.",
+    "src": "https://www.bendsource.com/news/localnews/after-pushback-to-la-pine-data-center-community-developers-await-next-steps/"
+   },
+   {
+    "para": 1,
+    "t": "Keller had told the hearing: \"We are here to create jobs in the community. A data center is a clean factory with no pollution, very little noise, a lot less noise than the sawmill and the freight train, and a positive effect on the community.\"",
+    "src": "https://www.bendsource.com/news/localnews/after-pushback-to-la-pine-data-center-community-developers-await-next-steps/"
+   },
+   {
+    "para": 2,
+    "t": "The company said the cooling would be a closed loop that recirculates rather than consumes water, with power from Midstate Electric Cooperative, and promised 100 construction jobs and 50 permanent posts rising to 200 if the site expanded, paying $60,000 to $180,000.",
+    "src": "https://www.bendsource.com/news/localnews/after-pushback-to-la-pine-data-center-community-developers-await-next-steps/"
+   },
+   {
+    "para": 2,
+    "t": "The city manager Geoff Wullschlager said of the process: \"We're just doing our due diligence without fear or favor, trying to be benign on this. The community having a strong opinion on this certainly makes an impact with the Council.\"",
+    "src": "https://www.bendsource.com/news/localnews/after-pushback-to-la-pine-data-center-community-developers-await-next-steps/"
+   },
+   {
+    "para": 2,
+    "t": "The city council had directed staff to move forward with a purchase and sale process on March 25, 2026.",
+    "src": "https://www.bendsource.com/news/localnews/after-pushback-to-la-pine-data-center-community-developers-await-next-steps/"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded as suspended at 20 megawatts on 20 acres, costing $288 million, with Box Miner as developer and resistance marked as organised advocacy.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "The cost differs slightly from the $286 million in the reporting.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "This is remote country.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generator is a 56 megawatt solar farm 73 kilometres away, then a 104 megawatt hydroelectric plant at 82 and a 71 megawatt solar farm at 94.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "There is no other data center site on record within 40 kilometres, and no moratorium anywhere near.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.bendsource.com/news/localnews/after-pushback-to-la-pine-data-center-community-developers-await-next-steps/"
+  ],
+  "unconfirmed": "The company's name is spelled Boxminer in the reporting and Box Miner in our record. Keller's line about there never being a data center in La Pine was posted on LinkedIn on May 14, 2026, the day after the hearing, rather than said at it. No resident is quoted by name in the report read here, only the city manager and the chief executive. Whether the land sale was formally abandoned, and whether Boxminer has gone elsewhere in Deschutes County, are unknown. The closed loop claim is the company's own and was not independently checked. Our record's $288 million differs from the $286 million in the reporting."
+ },
+ {
+  "id": "ft-1784230987783-1009",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The governor stopped this one by taking the land off the table.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "In July 2026 Governor Tina Kotek directed the Oregon Department of Administrative Services to terminate the planned sale of about 32 acres at the Mill Creek Corporate Center in Salem, in Marion County, where Verrus, backed by the Alphabet spin-out Sidewalk Infrastructure Partners, planned a three building data center campus valued at $5.1 billion.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "She said the project's handling had not met her expectations for transparency and public engagement and that the state needed a more deliberate approach.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "She went further than one site.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Kotek directed every state agency to pause unapproved requests for easements, rights of way, leases, rentals, land use permits and sales or transfers of state-owned property for data center projects, with the pause running to July 1, 2027.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "She has also said the legislature should pass a statewide data center moratorium.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The project drew union support as well as resident objection, over water, energy and infrastructure.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Verrus is the same company whose Project Flex campus at Lyon Township, Michigan, drew a resident campaign, a threatened lawsuit and a refused stormwater easement.",
+    "src": "data:developer"
+   },
+   {
+    "para": 3,
+    "t": "The entry stands as suspended on 75 acres, with Sidewalk Infrastructure Partners as developer, no capacity figure and no cost, at medium confidence.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "It holds a second entry, Verrus at Salem, marked blocked, nine kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The acreage on record, 75, does not match the 32 acres the state was selling.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generators are small hydroelectric plants a long way off: 80 megawatts at 58 kilometres, 100 at 59 and 58 at 68.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "No jurisdiction anywhere near Salem carries a data center moratorium or zoning limit on record.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Both Data Center Dynamics reports in our record are not fetchable, and the KATU, w.media and governor's office accounts were found only in search summaries, so no source url is listed and each sentence is attributed to our record's source list. No resident, union representative or company spokesperson is quoted. The $5.1 billion valuation and the 32 acres come from search summaries rather than a page read in full. A later report describes Verrus filing in a way that sidesteps the land sale block; it was not read, and the project's current status cannot be stated. No megawatt figure has been published."
+ },
+ {
+  "id": "ft-1769720540856-8663",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The 86 acres at 71 Woodlawn Road in Aliquippa, in Beaver County, are a data center land advertisement rather than a project, on the ground where the J&L steel works used to be.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The entry puts the site at 496 megawatts, proposed at an early stage, with Five 9s Digital and Fezzik Energy as developers and a cost of $25 billion, and marks resistance as an emerging concern.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "Its sources are two documents posted by the borough in February and March 2025, a trade article on Pennsylvania's race for data centers, and a marketing PDF of western Pennsylvania data center sites.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Five 9s Digital describes itself as a national data center property firm doing acquisitions, site selection, market research and development rather than as an operator.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Listings name CB Tech Partners LLC as a supposed purchaser, at an address connected to Fezzik Energy.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "No planning application, construction date or end user has been found.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Beaver County and the townships around it have been putting limits in place rather than bans.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Ten measures are recorded within reach, nine of them zoning limits rather than pauses: Bell Acres Borough from March 2023, Union Township from June 2025, South Strabane from February 2026, Shippingport from March 4, Gilpin from April 23, Center Township from June 10, Adams Township from July 13, Lancaster Township from July 21, Smith Township with no date, and one moratorium at Upper Burrell from May 15, 2026, in which an existing TECfusions site is grandfathered in.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The surrounding pipeline is enormous.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Ten other sites sit within 29 kilometres, including an Aligned project recorded at 2,000 megawatts 15 kilometres away, an operating 144 megawatt Mawson site at Midland at 18, and a 1,000 megawatt campus under construction at Fort Cherry at 29.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "Power is not the obstacle here: the Shell chemical plant generates 257 megawatts of its own ten kilometres away, and the 1,808 megawatt Beaver Valley nuclear station is 17.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Everything found came from aggregator and tracker listings; the borough documents, the trade article and the marketing PDF in our record were not opened, so no source url is listed and each sentence is attributed to our record's source list. The $25 billion cost and the 496 megawatts in our record could not be traced to any filing. No resident or borough official is quoted, and what the emerging concern in our record refers to is unestablished. Whether any of this has progressed beyond a marketing listing is unknown."
+ },
+ {
+  "id": "ft-1767584334287-8832",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The school superintendent's worry is not the traffic.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Mark Madson, whose district includes Parkland High School in Lehigh County, says his main concern about the Atlas data center campus is noise and vibration, warning that low frequency data center noise easily passes through building walls and travels hundreds of feet.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Project Atlas, by the data center firm Edged, is three data center buildings, an administration building and a warehouse, about 1.5 million square feet across 410 acres on three parcels at 2493, 2747 and 2807 North Cedar Crest Boulevard in South Whitehall Township.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Edged puts the annual economic effect on the township at $99.5 million and the tax bill at $16.5 million a year, with about 250 permanent jobs paying $65,000 to $75,000.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Hundreds of people have come to meetings about it, and residents have been pressing the township for a formal public hearing before the board signs anything off.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Residents have raised traffic, noise and the strain on the roads in a fast growing corner of Lehigh County.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The record holds a change.org petition opposing the project and a residents' Facebook group.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded at 725 megawatts on 410 acres, proposed, costing $9 billion, with no developer field filled in.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Edged is named throughout the reporting and in the record's own trade source, which is headlined that Edged eyes a 725 megawatt campus in Pennsylvania.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "The Lehigh Valley is filling up.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "A 100 megawatt J G Petrucci proposal is seven kilometres away, an 80 megawatt Quantm Group project at Allentown ten, a cancelled scheme at Cetronia Road 11, two operating TierPoint buildings at 14 and 15, and a 350 megawatt Keel Infrastructure campus under construction at Panther Creek 37.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generators are the 112 megawatt Northampton coal plant seven kilometres off and the 1,136 megawatt Bethlehem gas plant at 19.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Allentown adopted zoning limits on data centers on June 17, 2026, which the record notes do not apply to the Emaus proposal.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The Morning Call report in our record could not be fetched, the WFMZ and MSN accounts and the project's own site were not opened, and the Data Center Dynamics report is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. No resident is quoted by name. The date of the Lehigh Valley planners meeting at which residents pushed back is not established. No water figure has been published, and the $9 billion cost in our record is not confirmed."
+ },
+ {
+  "id": "ft-1787597342380-5835",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A 100 megawatt data center is recorded as proposed at 1024 North Bradford Street in Allentown, in Lehigh County, on the thinnest of evidence: no acreage, no cost, no developer field filled in, and a single trade report that is not fetchable.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "The entry is named for J G Petrucci, a Lehigh Valley property developer.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "Nothing was found naming a site plan, an application or an end user.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "What is documented is the city's response to a different proposal at the same time.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "On July 16, 2026 the Allentown Planning Commission took no vote on an 80 megawatt data center at 2401 West Emaus Avenue, waiting for the developer to resubmit with changes, after officials raised electrical infrastructure, water use, noise and how close it would be to houses across the road.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Allentown adopted zoning limits on data centers on June 17, 2026, which the record records as not applying to the Emaus proposal.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Three large proposals now sit within ten kilometres of each other in and around Allentown.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The Atlas campus at South Whitehall, at 725 megawatts on 410 acres, is seven kilometres away; the Emaus Avenue project at 80 megawatts is seven; a cancelled scheme at Cetronia Road is 14.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Two operating TierPoint buildings sit at eight and 19 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generators are the 112 megawatt Northampton coal plant eight kilometres away, the 1,136 megawatt Bethlehem gas plant 12, the 455 megawatt Gilbert plant 25 and the 1,700 megawatt Martins Creek plant 35.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Phillipsburg, across the Delaware in New Jersey, banned data centers outright on April 14, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "Pushback at this site is marked unknown.",
+    "src": "data:fractracker"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Nothing was found describing this project beyond the trade headline our record cites, which is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. No acreage, cost, end user, application date or resident response has been established. The same trade report is also cited by our record for the West Emaus Avenue entry, which suggests the two may have been reported together; whether they are separate projects by separate developers is unconfirmed."
+ },
+ {
+  "id": "ft-1785374952695-7873",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "One resident called the optics Disney villain-level.",
+    "src": "https://www.lehighvalleypublicmedia.org/news/local/allentown-data-center-proposal-dropped-from-upcoming-planning-meeting-could-come-back-in-july/"
+   },
+   {
+    "para": 0,
+    "t": "Julie Vitale said that of a plan to convert a warehouse at 2401 West Emaus Avenue in south Allentown, in Lehigh County, into a data center close to houses and to a children's charity, and said it would create an \"impossibly miserable situation\".",
+    "src": "https://www.lehighvalleypublicmedia.org/news/local/allentown-data-center-proposal-dropped-from-upcoming-planning-meeting-could-come-back-in-july/"
+   },
+   {
+    "para": 0,
+    "t": "Lester Wenger, who lives within half a mile, called the building \"neither productive nor prudent\", said it was \"no coincidence\" that a power substation sits on an adjacent lot, and worried residents would be priced out by what it does to electricity.",
+    "src": "https://www.lehighvalleypublicmedia.org/news/local/allentown-data-center-proposal-dropped-from-upcoming-planning-meeting-could-come-back-in-july/"
+   },
+   {
+    "para": 0,
+    "t": "Mark Miller, of the board of Camelot for Children, which works with children with special needs and medical complexities, asked the city to do \"whatever you can to protect the children, the families [and] volunteers of a 40-year community institution\".",
+    "src": "https://www.lehighvalleypublicmedia.org/news/local/allentown-data-center-proposal-dropped-from-upcoming-planning-meeting-could-come-back-in-july/"
+   },
+   {
+    "para": 1,
+    "t": "The plan is to convert a vacant warehouse of about 224,000 square feet into an 80 megawatt data center, adding 23,000 square feet, with 42 rooftop chillers, closed loop recycled water cooling and 35 foot sound walls to meet the city's noise limits of 57 decibels by day and 52 at night.",
+    "src": "https://www.wfmz.com/news/local_government/city_township_county_councils/planners-seek-revisions-for-proposed-allentown-data-center-after-residents-voice-concerns/article_0cf36aaf-9e30-476d-b1e3-38fd7be437dc.html"
+   },
+   {
+    "para": 1,
+    "t": "Quantm Group estimates $4 million a year in tax.",
+    "src": "https://www.wfmz.com/news/local_government/city_township_county_councils/planners-seek-revisions-for-proposed-allentown-data-center-after-residents-voice-concerns/article_0cf36aaf-9e30-476d-b1e3-38fd7be437dc.html"
+   },
+   {
+    "para": 1,
+    "t": "Its attorney, Anthony Maras, put the company's case: \"It's not a question of whether data centers are needed or not. It's a question of how you develop them responsibly,\" and told the commission its \"obligation is to uphold the law, take community feedback, and give it to us.\"",
+    "src": "https://www.wfmz.com/news/local_government/city_township_county_councils/planners-seek-revisions-for-proposed-allentown-data-center-after-residents-voice-concerns/article_0cf36aaf-9e30-476d-b1e3-38fd7be437dc.html"
+   },
+   {
+    "para": 2,
+    "t": "The applicant's engineer, Zach Jordan of Langan Engineering, asked for the proposal to be pulled from the June 2026 planning commission agenda after a hearing at which dozens spoke against it; it came back on Thursday, July 16, 2026, when the commission took no vote at all.",
+    "src": "https://www.lehighvalleypublicmedia.org/news/local/allentown-data-center-proposal-dropped-from-upcoming-planning-meeting-could-come-back-in-july/"
+   },
+   {
+    "para": 2,
+    "t": "The chairman Christian Brown said officials were \"eagerly awaiting a formal resubmission from Quantm Group\", after concerns about electrical infrastructure, water, noise and how close the houses across the street are.",
+    "src": "https://www.wfmz.com/news/local_government/city_township_county_councils/planners-seek-revisions-for-proposed-allentown-data-center-after-residents-voice-concerns/article_0cf36aaf-9e30-476d-b1e3-38fd7be437dc.html"
+   },
+   {
+    "para": 2,
+    "t": "The resident Alexx Knight said: \"I am very concerned about our community. I want to be somewhere where we can live and thrive. The fact that something like this is going up is shameful.\"",
+    "src": "https://www.wfmz.com/news/local_government/city_township_county_councils/planners-seek-revisions-for-proposed-allentown-data-center-after-residents-voice-concerns/article_0cf36aaf-9e30-476d-b1e3-38fd7be437dc.html"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded at 80 megawatts, proposed, with Quantm Group LLC as developer, no acreage and no cost, resistance marked as organised advocacy and a petition against it on file.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Allentown's zoning limits, adopted on June 17, 2026, do not apply to this proposal, which the record notes.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The 112 megawatt Northampton coal plant is 14 kilometres away and the 1,136 megawatt Bethlehem gas plant 15.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "The 725 megawatt Atlas campus at South Whitehall is ten kilometres off, and a 750 megawatt Project Laurel at 38.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.lehighvalleypublicmedia.org/news/local/allentown-data-center-proposal-dropped-from-upcoming-planning-meeting-could-come-back-in-july/",
+   "https://www.wfmz.com/news/local_government/city_township_county_councils/planners-seek-revisions-for-proposed-allentown-data-center-after-residents-voice-concerns/article_0cf36aaf-9e30-476d-b1e3-38fd7be437dc.html"
+  ],
+  "unconfirmed": "The report on the postponement expected the proposal back before the commission on July 14, 2026; the meeting at which it was actually heard was July 16. The 224,000 square foot warehouse plus a 23,000 square foot addition is given elsewhere as a 247,000 square foot facility, which is the same building described two ways. No water volume has been published, and the closed loop recycled water claim and the $4 million tax estimate are the company's own. Whether Quantm Group has resubmitted since July 2026 is unknown."
+ }
+]

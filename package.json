@@ -1,0 +1,20 @@
+{
+  "name": "floridadatacenters",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Florida Data Centers — independent tracking site",
+  "dependencies": {
+    "stripe": "^17.0.0"
+  },
+  "devDependencies": {
+    "playwright": "^1.48.0",
+    "topojson-client": "^3.1.0",
+    "us-atlas": "^3.0.1",
+    "world-atlas": "^2.0.2"
+  },
+  "scripts": {
+    "build": "node data/build-globe.js && node tools/make-globe-still.js && node data/build-pages.js",
+    "build:pages": "node data/build-pages.js",
+    "build:still": "node tools/make-globe-still.js"
+  }
+}

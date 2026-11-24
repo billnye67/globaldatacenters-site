@@ -1,0 +1,693 @@
+[
+ {
+  "id": "ft-1782182999139-2340",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "People who could not get into the meeting listened through the open windows.",
+    "src": "https://theportager.com/standing-room-crowd-lashes-out-at-ai-data-center-reps-in-town-hall-meeting"
+   },
+   {
+    "para": 0,
+    "t": "On June 16, 2026 a standing room crowd came to a town hall in Shalersville Township, in Portage County, about a data center campus that had not yet been formally proposed, on land at the Turnpike Commerce Center near the Ohio Turnpike interchange owned by Geis Companies.",
+    "src": "https://theportager.com/standing-room-crowd-lashes-out-at-ai-data-center-reps-in-town-hall-meeting"
+   },
+   {
+    "para": 0,
+    "t": "Representatives of Geis and of Bitdeer Technologies Group were there, and residents fired questions at them and sometimes accusations at the township trustees.",
+    "src": "https://theportager.com/standing-room-crowd-lashes-out-at-ai-data-center-reps-in-town-hall-meeting"
+   },
+   {
+    "para": 1,
+    "t": "The acreage does not agree between accounts.",
+    "src": "https://theportager.com/standing-room-crowd-lashes-out-at-ai-data-center-reps-in-town-hall-meeting"
+   },
+   {
+    "para": 1,
+    "t": "The entry gives 257 acres at 3960 to 4350 Township Highway 213; the Portager describes about 150 acres at the Turnpike Commerce Center.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "The project is recorded at 150 megawatts, proposed, with Bitdeer as developer, and resistance marked as institutional support, meaning local institutions have taken a position.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "Portage County has been adopting pauses faster than almost anywhere in Ohio.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Ten measures are recorded within reach: Barberton from November 10, 2025, Hubbard Township and Richfield Township from February 2026, Plain Township from March 27, Washington Township with a moratorium from April 6, a ban from May 6 and a further moratorium from May 23, Kent from April 15, Ravenna Township from April 22 and Twinsburg from May 1.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "Viking Data Centers' Akron site is 29 kilometres away and the OpenAI Stargate campus under construction at Lordstown 33.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generator is the 858 megawatt Lordstown gas plant, 35 kilometres off; the 1,240 megawatt Perry nuclear station is 62.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The record's own trade source is headlined that Bitdeer is looking at a 750 megawatt campus in Ohio, five times the figure in the capacity field.",
+    "src": "data:sources"
+   }
+  ],
+  "sources": [
+   "https://theportager.com/standing-room-crowd-lashes-out-at-ai-data-center-reps-in-town-hall-meeting"
+  ],
+  "unconfirmed": "The Portager report is behind a paywall and only its opening was readable, so no resident, trustee or company representative is quoted and the substance of the objections is described only in outline. The Data Center Dynamics and News 5 Cleveland reports in our record were not fetched. The acreage conflicts between 257 in our record and about 150 in the reporting, and the capacity between 150 megawatts in our record and a 750 megawatt campus in our own source's headline. Whether Bitdeer has since applied to Shalersville Township, and whether the township has adopted a moratorium of its own, are unknown. No water figure has been published."
+ },
+ {
+  "id": "ft-1782183424777-9963",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Two of the twenty-six buildings caught fire before any mining equipment was installed.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "On the afternoon of November 11, 2025 the Massillon fire brigade was called to 1115 Industrial Avenue Southwest, in Stark County, where Bitdeer is building a bitcoin mining and AI data center, and put the fire out shortly after arriving.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Bitdeer's chairman, Jihan Wu, said it started during welding and spread fast in strong winds.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Nobody was hurt.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The site is planned at 221 megawatts across 26 buildings, and the fire delayed the energisation of about 26 megawatts in the two damaged ones.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Bitdeer bought about 19 acres in Massillon through its American subsidiary White Tail Creek LLC for $1.6 million in 2023.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The site is recorded as operating at 221 megawatts on 19 acres, with Bitdeer as developer, and pushback marked unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "No local objection to this site is documented, which is unusual for a 221 megawatt cryptocurrency operation.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "Eight jurisdictions in the counties around it carry moratoriums or bans on record, from Barberton in November 2025 to Washington Township's ban in May 2026, but Massillon is not among them.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "Bitdeer's other Ohio proposal, at Shalersville Township in Portage County, is 29 kilometres away on record.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generator is the 79 megawatt Orrville coal plant, 21 kilometres off, with the 715 megawatt Carroll County gas plant at 44.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "A three megawatt site at Canton is 12 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Everything found came from company statements, trade press and financial wires; the Data Center Dynamics report in our record is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. No Massillon official, fire officer or resident is quoted. Whether the site is now operating at its full 221 megawatts, and whether the fire prompted any change to permits or inspections, are unknown. No water figure has been published."
+ },
+ {
+  "id": "ft-420",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Millersport knew it was coming, which did not make it easier.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Vantage Data Centers is building a $2.1 billion campus at State Routes 204 and 37 in Walnut Township, Fairfield County: four data centers, two security buildings and an administrative warehouse, employing 37 people full time.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Construction began in May 2026, with underground utilities and preparation for the first building under way by that August.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Zack Gorsuch, who lives in Millersport, put the objection in a sentence: 'It's like selling the soul of the town for the promise of progress that never actually shows up for the people who live here.'",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "He added: 'I'm all for innovation, but not at the cost of our land, our peace and our future.'",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded at 800 megawatts on 345 acres, under construction, costing $2.1 billion, with Vantage as developer and pushback marked unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "The status is out of date and the pushback field does not reflect what residents have said.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "This is the heart of the Ohio buildout.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Ten other recorded data center sites sit within 27 kilometres: Meta's operating Etna campus at 12, a Microsoft site at 15, an Aligned project at Etna marked blocked at 18, Google's 137 megawatt Lancaster site at 22, Meta's 562 megawatt Prometheus campus and Google's 453 megawatt New Albany campus at 25, two QTS buildings at 24 and 25, Google Johnstown at 26 and a Compass site at 27.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The generation is nowhere near.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "The closest is the 540 megawatt Dresden plant, 50 kilometres away, then the 480 megawatt Darby Power plant at 57 and two solar farms at 62 and 65.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "The record's own sources include a website for a Fairfield Energy Center, which suggests generation is planned alongside the campus, though that page was not opened.",
+    "src": "data:sources"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The Columbus Dispatch and NBC4 reports in our record were not fetched, nor were the Fairfield Energy Center and Vantage campus websites, so no source url is listed and each sentence is attributed to our record's source list. Only one resident is quoted, from a search summary. The 800 megawatt figure in our record is not confirmed by anything read, and the relationship between the data center and the Fairfield Energy Center is not established. No water figure has been published. Our record lists the project as proposed although construction began in May 2026."
+ },
+ {
+  "id": "ft-1778089927585-6375",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Monclova Township, in Lucas County, adopted a twelve month moratorium on data centers, which the record dates February 18, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 0,
+    "t": "It was one of seven measures now in force within reach of this site: Waterville Township from December 18, 2025, Maumee from February 3, 2026, Lake Township from March 9, Frenchtown Township from March 10, Erie Township from March 16 and Findlay from April 22.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "The entry stands as suspended with no address beyond the township, no acreage, no capacity, no cost and no developer, at medium confidence.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "It marks resistance as institutional support and links a campaign site, No AW Data Centers.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 1,
+    "t": "No published account names a developer or a site.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "What is documented is that residents were wary before anything was proposed.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The record's sources include a Toledo Blade report from March 16, 2026 on Monclova Township residents wary of data centers in their back yard, a television report on the twelve month moratorium, and a statement on data centers by Trustee Chuck Hoecherl published by the township itself.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "All three returned errors or were not fetched.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The area around Toledo is filling in.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "A Waterville land advertisement for a data center site sits six kilometres away, Meta's operating Bowling Green campus 20 kilometres, and a proposed 500 megawatt project at Oregon 28.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 707 megawatt Troy Energy plant is 23 kilometres off, the 849 megawatt Oregon Clean Energy Center 26, and the 3,080 megawatt Monroe coal plant across the Michigan line at 49.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Nothing was found naming a developer, a site or a size for this entry, and all three of our record's sources returned errors or were not fetched, so no source url is listed and each sentence is attributed to our record's source list. No resident or trustee is quoted. What was actually proposed in Monclova Township, if anything, is unknown; the entry may record community concern about a prospective project rather than a filed application. Our record's status of suspended is not explained by anything that could be read."
+ },
+ {
+  "id": "ft-1771913845055-5122",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A petition with more than 700 signatures stopped this one, at least for a year.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Pacifico Energy sought rezoning of land on London Road in Muhlenberg Township, Pickaway County, for a data center and power plant, using a natural gas line that runs through the site.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Residents objected in numbers, and the township introduced a twelve month moratorium on planning applications for new data centers, saying it was waiting for the state legislature to settle the law.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The record dates the Muhlenberg moratorium February 3, 2026 and lists this project as suspended, with no acreage, no capacity, no cost and no developer field filled in, marking resistance as organised advocacy.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "It holds a change.org petition by Muhlenberg Township residents against the data center and the power distribution build.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "Whether Pacifico Energy comes back in a year is not recorded anywhere.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "What is certain is that the rest of Pickaway County is being developed regardless.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "EdgeConneX's 200 megawatt project at Ashville, now under construction, is 13 kilometres away; an Amazon Web Services project in the county is 13 kilometres off; Google's operating 303 megawatt Columbus campus is 21 kilometres, and five more sites sit within 39.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Seven jurisdictions within reach carry moratoriums on record, including Scioto Township from March 6, 2026, Jackson Township from May 29, Springfield twice and Ashville from July 8.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The 480 megawatt Darby Power gas plant is five kilometres away, and three solar farms of 200, 274 and 577 megawatts sit between 16 and 23 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "That is a great deal of generation for one township, and it is why the gas line and the substations are the thing residents organised around.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Our record's only source is a Data Center Dynamics report that is not fetchable, and everything above comes from search summaries of it, so no source url is listed and each sentence is attributed to our record's source list. No resident or township trustee is quoted. No acreage, megawatt or water figure was ever published. Whether the rezoning application was formally refused or simply overtaken by the moratorium is unknown. Our record gives the developer field as empty although Pacifico Energy is named in the reporting."
+ },
+ {
+  "id": "ft-422",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The council approved it, so residents went to the ballot instead.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Oregon City Council, in Lucas County, rezoned seven parcels totalling about 20 acres on Corduroy and North Wynn Roads from agricultural to advanced manufacturing for a data center, and officials bought houses within a nearly 22 acre area at the junction as part of the plan.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "An earlier vote on the rezoning was 6 to 1 in August 2025.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "United Neighbors of Oregon then collected nearly 2,100 signatures, past its target of 1,700, for a charter amendment limiting data centers in the city to 25 megawatts.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "It would not ban them; it would cap their size and push development towards brownfield and industrial land rather than farmland.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The council voted unanimously to accept the board of elections' certification of the signatures, and Oregon voters were to decide in November 2026.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The 25 megawatt figure is not local.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "It mirrors a statewide petition effort to ban data centers drawing more than 25 megawatts, and data centers were on the November ballot in eighteen Ohio communities.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded at 500 megawatts on 168 acres, proposed, with a cost of $8.6 million, no developer, and resistance marked as organised advocacy.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "An $8.6 million cost against 500 megawatts is not a plausible pairing, and one of the two figures is likely to be something other than what the field says.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "The power is next door.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "The 849 megawatt Oregon Clean Energy Center is two kilometres away, the 154 megawatt Bay Shore oil plant three, the 707 megawatt Troy Energy plant 21, and the 3,080 megawatt Monroe coal plant across the Michigan line 26.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Seven jurisdictions within reach carry moratoriums or zoning limits on record, none of them Oregon itself, which is why the fight there has been a ballot question rather than a pause.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The WTOL report in our record returned HTTP 403, the Data Center Dynamics report is not fetchable, and the city's own information page and the campaign site were not opened, so no source url is listed and each sentence is attributed to our record's source list. No named resident or council member is quoted. The developer has not been named anywhere. The 500 megawatt and $8.6 million figures in our record are both unconfirmed and sit oddly together. How the November 2026 vote went is unknown; the searches behind this page were run in late September 2026."
+ },
+ {
+  "id": "ft-1775186735797-5852",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The grid this sits on has a peak load of 141 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 0,
+    "t": "The data center campus proposed on top of it, at Piketon in Pike County, is 10,000 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "SB Energy, a SoftBank company, is building the PORTS Technology Campus on the decommissioned uranium enrichment site at Piketon, in Pike County, in partnership with the United States Department of Energy.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The plan is 10 gigawatts of data center supported by 10 gigawatts of new generation, including 9.2 gigawatts of natural gas, funded in part through the United States and Japan trade and investment agreement and to be owned by the federal government.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "SoftBank and the Department of Energy broke ground in March 2026.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "OpenAI has signed a twenty year lease as the anchor tenant, and Nvidia is to provide credit support and be the exclusive supplier of AI computing hardware.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Reporting describes Nvidia in talks to invest $250 billion alongside OpenAI, with the two paying about $500 billion to the Department of Energy and SoftBank for access to the site.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The site is about 3,700 acres.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The record carries it on 640 acres, under construction, costing $30 billion, with the developer given as SoftBank and OpenAI marked unconfirmed, at medium confidence, and now at 10,000 megawatts rather than the 9,200 it carried before.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "The 9,200 figure is the gas generation rather than the data center load, and the acreage and cost are both far below the figures in the reporting.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "There is no other data center site on record anywhere in Pike County, and none within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generators are a 70 megawatt hydroelectric plant 42 kilometres away, a 120 megawatt solar farm at 46 and the 1,365 megawatt Hanging Rock gas plant at 52.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Two measures sit within reach on record, both at Monroe Township: a moratorium from March 9, 2026 and a ban from March 25 marked as litigated.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Everything found came from trade press, company and government announcements and a campaign site; the Cleveland.com report in our record could not be fetched, and neither Data Center Dynamics report is fetchable, so no source url is listed and each sentence is attributed to our record's source list. No resident, county official or company representative is quoted, which is a serious gap for a project of this scale, and our record marks pushback as unknown. The figures in our record for capacity, acreage and cost all disagree with the reporting. No water figure has been published. The Ohio Valley Electric Corporation peak load of 141 megawatts in our record is the figure for that small control area rather than for the wider PJM system the campus would connect to."
+ },
+ {
+  "id": "ft-1770130909274-3596",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The company behind a data center proposed at Piqua, in Miami County, will not say who it is.",
+    "src": "https://miamivalleytoday.com/piqua-commission-hears-plans-for-new-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The developer's name is withheld under a nondisclosure agreement, and the city does not know it either: the city manager Paul Oberdorfer told the commission he did not know the company, and the commissioners said they had never signed an agreement themselves.",
+    "src": "https://miamivalleytoday.com/piqua-commission-hears-plans-for-new-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The data center is controlled by Piqua Land Company, and sits in the I-75 Exit 78 business and industrial park at Farrington and Washington Roads in Piqua, in Miami County, on heavy industrial land inside the city; the commission heard the plans on Monday, November 3, 2025, in a meeting that ran more than four hours.",
+    "src": "https://miamivalleytoday.com/piqua-commission-hears-plans-for-new-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The money is $1 billion in fixed assets and $78 million of infrastructure investment by the company, with operations power from AES and improvements to the transmission grid.",
+    "src": "https://miamivalleytoday.com/piqua-commission-hears-plans-for-new-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The economic development director Chris Schmiesing said the developers \"will be the ones footing the bill\" for the infrastructure, and that \"no less than eight public hearings and zoning items were discussed before being approved\".",
+    "src": "https://miamivalleytoday.com/piqua-commission-hears-plans-for-new-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Mayor Kris Lee said: \"I'm excited we started the process to get the data center installed. It will mean a lot to the city of Piqua.\"",
+    "src": "https://miamivalleytoday.com/piqua-commission-hears-plans-for-new-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Commissioner Tom Hohman went to the question residents elsewhere have raised: \"The key difference here is that this (water for the project) is not well water.\"",
+    "src": "https://miamivalleytoday.com/piqua-commission-hears-plans-for-new-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Still to come are a development agreement, a water and sewer agreement, a tax increment financing agreement, a power agreement, permits and construction contracts.",
+    "src": "https://miamivalleytoday.com/piqua-commission-hears-plans-for-new-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "No megawatt figure was given.",
+    "src": "https://miamivalleytoday.com/piqua-commission-hears-plans-for-new-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "The record carries the project on 607 acres, proposed, with no capacity or cost, and now names Piqua Land Company as developer; it gave Cleanview until this pass.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "The reporting describes a zoning area of 1,168 acres rather than a project footprint, and Cleanview is a data center tracking site rather than a developer.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "An Amazon project at Sidney, called Project Galaxy, is 18 kilometres away and is the only other site recorded within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generators are a 144 megawatt solar farm and the 196 megawatt Greenville station, both 30 kilometres off, with the 607 megawatt Tait station at 42.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Dayton, which banned data centers outright on June 25, 2026, is one of four jurisdictions within reach carrying a measure on record; Piqua itself carries none.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://miamivalleytoday.com/piqua-commission-hears-plans-for-new-data-center/"
+  ],
+  "unconfirmed": "The end user is unknown by design, protected by a nondisclosure agreement that the city itself is not party to, and no megawatt or water figure was given at the meeting. The page had Tom Hohman saying the project would bring the kind of industry people had asked for; that is not in the report read here, and his words about the water supply are quoted instead. The project is described there as not associated with the city of Piqua, Piqua Materials or Bruns Upper Valley Development. No resident is quoted, only officials, all of whom were in favour. Our record's developer field names Cleanview, which appears to be the tracking website listed among its sources rather than a company involved in the project. The 1,168 acres is the zoning area and the 607 in our record is not explained. Whether the agreements and permits have since been executed, and whether any resident opposition has emerged, are unknown."
+ },
+ {
+  "id": "ft-1779196554180-4540",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "They knocked down the smokestacks and started looking for a buyer.",
+    "src": "https://www.theintelligencer.net/news/community/2025/06/opportunities-eyed-for-former-w-h-sammis-plant-site-in-stratton/"
+   },
+   {
+    "para": 0,
+    "t": "Energy Transition and Environmental Management, a Houston company that bought the former W H Sammis coal plant at Stratton, in Jefferson County, in 2023, is exploring a data center there, though its co-founder was careful to say: \"We're not data center developers.\"",
+    "src": "https://www.theintelligencer.net/news/community/2025/06/opportunities-eyed-for-former-w-h-sammis-plant-site-in-stratton/"
+   },
+   {
+    "para": 0,
+    "t": "Dan McDevitt told Jefferson County commissioners on Wednesday, June 25, 2025 that such a campus would need \"500 megawatts of power\", and that the company was weighing \"what happens next at that site\" and \"some kind of industrial development\".",
+    "src": "https://www.theintelligencer.net/news/community/2025/06/opportunities-eyed-for-former-w-h-sammis-plant-site-in-stratton/"
+   },
+   {
+    "para": 0,
+    "t": "Demolition is most of the way through: \"We've knocked down most of the buildings, and we expect to finish that project in the first quarter of 2027.\"",
+    "src": "https://www.theintelligencer.net/news/community/2025/06/opportunities-eyed-for-former-w-h-sammis-plant-site-in-stratton/"
+   },
+   {
+    "para": 1,
+    "t": "The site has a switching station, a substation, water and rail, and the company is considering bringing in a natural gas pipeline to generate on site.",
+    "src": "https://www.theintelligencer.net/news/community/2025/06/opportunities-eyed-for-former-w-h-sammis-plant-site-in-stratton/"
+   },
+   {
+    "para": 1,
+    "t": "McDevitt spoke of billions of dollars of investment, about 1,000 construction jobs over a couple or three years, and a couple of hundred permanent posts.",
+    "src": "https://www.theintelligencer.net/news/community/2025/06/opportunities-eyed-for-former-w-h-sammis-plant-site-in-stratton/"
+   },
+   {
+    "para": 1,
+    "t": "The smokestacks came down in April 2025 and most of the structures are gone.",
+    "src": "https://www.theintelligencer.net/news/community/2025/06/opportunities-eyed-for-former-w-h-sammis-plant-site-in-stratton/"
+   },
+   {
+    "para": 2,
+    "t": "The county was enthusiastic.",
+    "src": "https://www.theintelligencer.net/news/community/2025/06/opportunities-eyed-for-former-w-h-sammis-plant-site-in-stratton/"
+   },
+   {
+    "para": 2,
+    "t": "Commissioner Tony Morelli said \"our board will do anything possible to bring in new opportunities\", and Commissioner Jake Kleineke said: \"I see it as a great opportunity for the county to grow. I don't see a downside to it, honestly.\"",
+    "src": "https://www.theintelligencer.net/news/community/2025/06/opportunities-eyed-for-former-w-h-sammis-plant-site-in-stratton/"
+   },
+   {
+    "para": 2,
+    "t": "Under Ohio's House Bill 15 the commissioners were considering designating the property a priority investment area, which would bring accelerated permit reviews, brownfield funding for site preparation and a utility tax exemption on infrastructure delivering power or natural gas.",
+    "src": "https://www.theintelligencer.net/news/community/2025/06/opportunities-eyed-for-former-w-h-sammis-plant-site-in-stratton/"
+   },
+   {
+    "para": 3,
+    "t": "The entry stands as proposed with no acreage, no capacity, no cost and no developer, and marks pushback as unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "The upper Ohio valley is filling with this.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "Seven other sites sit within 38 kilometres, including an operating 144 megawatt Mawson site at Midland 19 kilometres away, an Aligned project recorded at 2,000 megawatts at 22, a 1,000 megawatt campus under construction at Fort Cherry at 36, and a 496 megawatt land advertisement at Aliquippa at 35.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 1,808 megawatt Beaver Valley nuclear station is 20 kilometres away, the 1,210 megawatt South Field gas plant 13, and the 1,790 megawatt Cardinal coal plant 31.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.theintelligencer.net/news/community/2025/06/opportunities-eyed-for-former-w-h-sammis-plant-site-in-stratton/"
+  ],
+  "unconfirmed": "The report read here is from June 2025 and describes an exploration rather than a proposal; no application, acreage or customer has been published since, and nothing later was found. The 500 megawatts is McDevitt's description of what a data center would need, not a stated project size, and he says plainly that the company does not develop data centers itself. A line attributed to him, that \"the world has changed\", is not in that report and has come out; the two 500 foot smokestacks the page described are given there only as the smokestacks, without height or number. No resident is quoted, and no objection has been recorded in our record or found in searches. Whether the county designated the site a priority investment area under House Bill 15, and whether demolition has finished, are unknown. No water figure exists."
+ },
+ {
+  "id": "ft-1767026476511-2974",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The planning commission approved it in ten minutes, without a public hearing.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Prologis bought 141 acres at Woodsdale Road and Kennel Road in Trenton, in Butler County, for $7.7 million and proposed four data center buildings totalling 880,000 square feet, which it calls Project Mila and which would be one of the largest in the Cincinnati area.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The Trenton Planning Commission approved the site plan on March 30, 2026, and construction was set to start in autumn 2026.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Prologis says the campus will create 140 jobs, bring the city $120,000 a year in utility fees, and use a water-efficient design that needs no chemicals and draws water only about three percent of the year.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Residents have objected on environmental grounds, water use, electricity costs and the way the decision was taken.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Barry Blankenship lives within half a mile of where the crews are now working, south of Kennel Road and east of the Woodsdale Road junction.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded at 240 megawatts on 142 acres, approved, with Prologis as developer, and a Facebook group formed against it is on file.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "The status is out of date if construction has begun.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "The gas is right there.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The 566 megawatt Madison plant and the 476 megawatt Woodsdale plant are both a kilometre away, the 136 megawatt Dick's Creek plant seven, and the 468 megawatt Middletown Energy Center ten.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Amazon's proposed 18 building campus is three kilometres off and the Logistix project at Hamilton 12.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "Butler County adopted its own moratorium from June 17 to December 17, 2026, after this approval had already gone through, and Cincinnati has an interim development control overlay running to the end of the year; five jurisdictions within reach carry a measure on record, and none of them reaches Project Mila.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Three searches were run: Prologis with Trenton, Project Mila and the Kennel Road site; the planning commission approval; and Butler County data center activity. Neither Data Center Dynamics report in our record is fetchable, and the WCPO, WLWT, Journal-News and WVXU accounts were found only in search summaries, so no source url is listed and each sentence is attributed to our record's source list. Barry Blankenship is named but not quoted here, because we could not read his words directly. The 240 megawatt figure in our record is not confirmed by anything we read. Prologis's water claim is the company's own and was not independently checked. Whether the ten minute approval without a hearing has been challenged is unknown."
+ }
+]

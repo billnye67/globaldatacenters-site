@@ -1,0 +1,617 @@
+[
+ {
+  "id": "research-mistral-bruyeres-le-chatel",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Eclairion's data centre sits in the park of the chateau at Bruyeres-le-Chatel, a village in Essonne about 30 kilometres south of Paris, on four hectares that were reclassified from a natural zone to building land when the local plan was revised in 2018.",
+    "src": "https://www.lechiffon.fr/petites-et-grosses-combines-autour-dun-centre-de-supercalculateurs-dans-lessonne/"
+   },
+   {
+    "para": 0,
+    "t": "It is run by Eclairion, whose president is Francois Sabatio, and it was put together by the historian and urban planner Michel Carmona with the property developer Patrice Cavalier, who put in the first 10 to 12 million euros.",
+    "src": "https://www.lechiffon.fr/petites-et-grosses-combines-autour-dun-centre-de-supercalculateurs-dans-lessonne/"
+   },
+   {
+    "para": 0,
+    "t": "Thierry Rouyer has been mayor since 2003.",
+    "src": "https://www.lechiffon.fr/petites-et-grosses-combines-autour-dun-centre-de-supercalculateurs-dans-lessonne/"
+   },
+   {
+    "para": 1,
+    "t": "Mistral AI takes about half the computing power.",
+    "src": "https://www.lechiffon.fr/petites-et-grosses-combines-autour-dun-centre-de-supercalculateurs-dans-lessonne/"
+   },
+   {
+    "para": 1,
+    "t": "Its cluster was announced in February 2025, at the international artificial intelligence summit President Emmanuel Macron held in Paris, and is being installed by the cloud company Fluidstack: 13,800 Nvidia Grace Blackwell GB300 processors on 44 megawatts of powered capacity, with operations meant to start by the end of June 2026.",
+    "src": "https://www.digitalapplied.com/blog/mistral-830m-paris-data-center-european-ai-push"
+   },
+   {
+    "para": 1,
+    "t": "Fluidstack has since walked away and the space is going to other providers.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Thales, Dassault Systemes, Safran, EDF, Michelin, TotalEnergies and Amazon Web Services are also named as users.",
+    "src": "https://www.lechiffon.fr/petites-et-grosses-combines-autour-dun-centre-de-supercalculateurs-dans-lessonne/"
+   },
+   {
+    "para": 2,
+    "t": "For the village the numbers that matter are these.",
+    "src": "https://www.lechiffon.fr/petites-et-grosses-combines-autour-dun-centre-de-supercalculateurs-dans-lessonne/"
+   },
+   {
+    "para": 2,
+    "t": "The site is licensed for 60 megawatts of electricity, which the local paper Le Chiffon compared to the yearly consumption of 260,000 people in Bordeaux, and it draws about 90 cubic metres of water a day from the public network, rising at peak to 423 cubic metres, roughly what the whole town uses.",
+    "src": "https://www.lechiffon.fr/petites-et-grosses-combines-autour-dun-centre-de-supercalculateurs-dans-lessonne/"
+   },
+   {
+    "para": 2,
+    "t": "Nine diesel generators totalling 49.5 megawatts stand behind it, fed by nine buried tanks of 40 cubic metres each.",
+    "src": "https://www.lechiffon.fr/petites-et-grosses-combines-autour-dun-centre-de-supercalculateurs-dans-lessonne/"
+   },
+   {
+    "para": 3,
+    "t": "The project was registered under the classified installations rules in April 2020 and was allowed to proceed on a case-by-case environmental assessment rather than a full impact study.",
+    "src": "https://www.lechiffon.fr/petites-et-grosses-combines-autour-dun-centre-de-supercalculateurs-dans-lessonne/"
+   },
+   {
+    "para": 3,
+    "t": "The local group Bruyeres-le-Chatel Ensemble objected in December 2018 over the water, the electricity and the buried fuel, then dropped its opposition.",
+    "src": "https://www.lechiffon.fr/petites-et-grosses-combines-autour-dun-centre-de-supercalculateurs-dans-lessonne/"
+   },
+   {
+    "para": 3,
+    "t": "Le Chiffon quotes the feeling locally as: one cannot fight every battle, supercomputers are linked to the atomic energy commission, and the commission is the state.",
+    "src": "https://www.lechiffon.fr/petites-et-grosses-combines-autour-dun-centre-de-supercalculateurs-dans-lessonne/"
+   },
+   {
+    "para": 3,
+    "t": "The regional council voted three million euros towards the site in November 2024, and the regional prefect Michel Cadot had opposed the project at the start.",
+    "src": "https://www.lechiffon.fr/petites-et-grosses-combines-autour-dun-centre-de-supercalculateurs-dans-lessonne/"
+   }
+  ],
+  "sources": [
+   "https://www.lechiffon.fr/petites-et-grosses-combines-autour-dun-centre-de-supercalculateurs-dans-lessonne/",
+   "https://www.digitalapplied.com/blog/mistral-830m-paris-data-center-european-ai-push",
+   "https://www.datacentermap.com/france/paris/eclairion-bruyeres-le-chtel/"
+  ],
+  "unconfirmed": "Published capacity figures disagree: 40 MW in some accounts, 44 MW in others, 60 MW in the classified installation file and up to 120 MW in a directory listing, and it is not clear which are IT load and which are site supply. Whether Fluidstack has actually withdrawn could not be confirmed from any source outside our own record. Searched: Eclairion Bruyeres-le-Chatel data center Mistral AI Fluidstack 44MW; Bruyeres-le-Chatel Essonne data center riverains eau electricite; Mistral AI data centre France Essonne nuclear power Eclairion 2026."
+ },
+ {
+  "id": "research-brookfield-data4-cambrai-e-valley",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Data4 data centre campus is going on the old Cambrai-Epinoy air base, about 320 hectares that the air force left in June 2009 and handed over for good in the summer of 2013, now the E-Valley logistics park.",
+    "src": "https://info.fr/nord-comite-pilotage-data-centers-e-valley-cambrai/"
+   },
+   {
+    "para": 0,
+    "t": "Brookfield is paying for the campus and Data4, which Brookfield controls, will build and run it.",
+    "src": "https://dcmag.fr/brookfield-va-investir-20-milliards-e-en-france-dont-un-mega-data-center-dia-de-1gw-a-cambrai/"
+   },
+   {
+    "para": 0,
+    "t": "The plan is up to a gigawatt, which would make it one of the largest in France, with a first 300 megawatts and first deliveries expected between 2027 and 2028 according to local planning papers; the full gigawatt is about a decade away.",
+    "src": "https://info.fr/nord-comite-pilotage-data-centers-e-valley-cambrai/"
+   },
+   {
+    "para": 0,
+    "t": "Brookfield said in February 2025 it would put 20 billion euros into France by 2030, 15 billion of it into artificial intelligence data centres with Cambrai as the lead project, and has since raised the figure to 30 billion.",
+    "src": "https://dcmag.fr/brookfield-va-investir-20-milliards-e-en-france-dont-un-mega-data-center-dia-de-1gw-a-cambrai/"
+   },
+   {
+    "para": 1,
+    "t": "The project is being steered from the prefecture rather than the town hall.",
+    "src": "https://info.fr/nord-comite-pilotage-data-centers-e-valley-cambrai/"
+   },
+   {
+    "para": 1,
+    "t": "Bertrand Gaume, the prefect of the Nord, chaired a steering committee on June 9, 2026, the second in four months after one on February 3, with the sub-prefect of Cambrai Michel Gouriou; the meeting went through the state of the administrative procedures without saying what had been settled.",
+    "src": "https://info.fr/nord-comite-pilotage-data-centers-e-valley-cambrai/"
+   },
+   {
+    "para": 1,
+    "t": "Nicolas Siegler, who heads the Cambrai agglomeration, put the project at about 4,000 direct and indirect jobs.",
+    "src": "https://info.fr/nord-comite-pilotage-data-centers-e-valley-cambrai/"
+   },
+   {
+    "para": 1,
+    "t": "Reporting from the area records residents of the Cambresis as cautious about those projections.",
+    "src": "https://info.fr/nord-comite-pilotage-data-centers-e-valley-cambrai/"
+   },
+   {
+    "para": 2,
+    "t": "E-Valley is one of 35 sites the French government has listed as ready for data centres, eight of them in Hauts-de-France, more than any other region.",
+    "src": "https://dcmag.fr/brookfield-va-investir-20-milliards-e-en-france-dont-un-mega-data-center-dia-de-1gw-a-cambrai/"
+   },
+   {
+    "para": 2,
+    "t": "At public meetings in the area the questions residents raise most often are about water and electricity running short.",
+    "src": "https://info.fr/nord-comite-pilotage-data-centers-e-valley-cambrai/"
+   },
+   {
+    "para": 2,
+    "t": "Data4's other northern campus, at Escaudain, is 17 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://info.fr/nord-comite-pilotage-data-centers-e-valley-cambrai/",
+   "https://dcmag.fr/brookfield-va-investir-20-milliards-e-en-france-dont-un-mega-data-center-dia-de-1gw-a-cambrai/",
+   "https://www.datacenterdynamics.com/en/news/brookfield-ups-french-data-center-investment-by-10-billion/"
+  ],
+  "unconfirmed": "No planning application, building permit, public inquiry, grid connection agreement or water arrangement for the Cambrai campus was found, and no capacity has been confirmed by Data4 itself. Our record carries no megawatt figure at all. Searched: Data4 Cambrai Epinoy E-Valley data centre Brookfield Hauts-de-France; Cambrai Epinoy data centre eau electricite habitants opposition enquete publique; Data4 Escaudain Parc des Soufflantes 700 MW data centre Valenciennes. Whether Data4 is formally the operator at Cambrai was described in one trade report as still unconfirmed."
+ },
+ {
+  "id": "research-brookfield-data4-escaudain",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Escaudain is a former steel town near Denain, outside Valenciennes, and the data centre campus is going on the Parc des Soufflantes, 33 hectares of ground left by an Usinor plant that shut about 45 years ago.",
+    "src": "https://www.data4group.com/en/news-data4/in-northern-france-data4-launches-its-largest-data-center-campus-to-support-europes-ai-growth/"
+   },
+   {
+    "para": 0,
+    "t": "Data4, which is controlled by Brookfield, announced it on June 12, 2026: five billion euros, 700 megawatts, four buildings and about 2,400 permanent jobs when it is all running.",
+    "src": "https://www.data4group.com/en/news-data4/in-northern-france-data4-launches-its-largest-data-center-campus-to-support-europes-ai-growth/"
+   },
+   {
+    "para": 0,
+    "t": "It is the largest project the company has attempted.",
+    "src": "https://www.data4group.com/en/news-data4/in-northern-france-data4-launches-its-largest-data-center-campus-to-support-europes-ai-growth/"
+   },
+   {
+    "para": 0,
+    "t": "Olivier Micheli, its chief executive, said the company was pleased to be building in a region at the crossroads of Europe's networks.",
+    "src": "https://www.data4group.com/en/news-data4/in-northern-france-data4-launches-its-largest-data-center-campus-to-support-europes-ai-growth/"
+   },
+   {
+    "para": 0,
+    "t": "The design is described as using low carbon concrete and recovering the heat off the servers.",
+    "src": "https://www.data4group.com/en/news-data4/in-northern-france-data4-launches-its-largest-data-center-campus-to-support-europes-ai-growth/"
+   },
+   {
+    "para": 1,
+    "t": "What made the site worth five billion euros is the power that was left behind when the steelworks closed.",
+    "src": "https://www.mediacites.fr/enquete/lille/2026/06/19/data-centers-comment-data4-a-decroche-le-pompon-lacces-aux-700-megawatts-de-la-friche-usinor-a-escaudain/"
+   },
+   {
+    "para": 1,
+    "t": "The regional paper Mediacites reported on June 19, 2026 on how Data4, working with Brookfield and the developer BT Immo, came to get access to those 700 megawatts, with the state, the local authorities and the grid operator RTE all lined up behind it.",
+    "src": "https://www.mediacites.fr/enquete/lille/2026/06/19/data-centers-comment-data4-a-decroche-le-pompon-lacces-aux-700-megawatts-de-la-friche-usinor-a-escaudain/"
+   },
+   {
+    "para": 1,
+    "t": "The choice was made by the Porte du Hainaut agglomeration.",
+    "src": "https://www.mediacites.fr/enquete/lille/2026/06/19/data-centers-comment-data4-a-decroche-le-pompon-lacces-aux-700-megawatts-de-la-friche-usinor-a-escaudain/"
+   },
+   {
+    "para": 1,
+    "t": "Its president Aymeric Robin described the state of play plainly: they sign the promise of sale, then the company files its development permit and its building permit, and then it rolls.",
+    "src": "https://www.mediacites.fr/enquete/lille/2026/06/19/data-centers-comment-data4-a-decroche-le-pompon-lacces-aux-700-megawatts-de-la-friche-usinor-a-escaudain/"
+   },
+   {
+    "para": 1,
+    "t": "In other words, when the announcement was made neither permit had been filed.",
+    "src": "https://www.mediacites.fr/enquete/lille/2026/06/19/data-centers-comment-data4-a-decroche-le-pompon-lacces-aux-700-megawatts-de-la-friche-usinor-a-escaudain/"
+   },
+   {
+    "para": 2,
+    "t": "Other schemes in the region have not held up: Mediacites notes Fluidstack's abandoned ten billion euro Boquel project alongside SoftBank's 45 billion euro three gigawatt plan.",
+    "src": "https://www.mediacites.fr/enquete/lille/2026/06/19/data-centers-comment-data4-a-decroche-le-pompon-lacces-aux-700-megawatts-de-la-friche-usinor-a-escaudain/"
+   },
+   {
+    "para": 2,
+    "t": "Data4's Cambrai project is 17 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.data4group.com/en/news-data4/in-northern-france-data4-launches-its-largest-data-center-campus-to-support-europes-ai-growth/",
+   "https://www.mediacites.fr/enquete/lille/2026/06/19/data-centers-comment-data4-a-decroche-le-pompon-lacces-aux-700-megawatts-de-la-friche-usinor-a-escaudain/",
+   "https://www.datacentermap.com/france/valenciennes/data4-valenciennes/"
+  ],
+  "unconfirmed": "No commissioning date was given by the company, though trade coverage puts it at 2030, and no water figure, cooling design or grid connection agreement has been published. The jobs figure differs between 2,400 in Data4's own announcement and 2,500 in our record. No public inquiry has opened and no objection was found. Searched: Data4 Escaudain Parc des Soufflantes 700 MW data centre Valenciennes; Cambrai Epinoy data centre eau electricite habitants opposition enquete publique; Data4 Cambrai Epinoy E-Valley data centre Brookfield Hauts-de-France."
+ },
+ {
+  "id": "research-atnorth-haugaland",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "atNorth bought a 36 hectare plot in the Haugaland Business Park at Gismarvik, in Tysvaer municipality in Rogaland, about 530 kilometres southwest of Oslo, announcing it in June 2026 as its first Norwegian data centre site.",
+    "src": "https://www.atnorth.com/news/atnorth-expands-to-norway-with-new-mega-site-in-haugaland/"
+   },
+   {
+    "para": 0,
+    "t": "The site, NOR01, starts at 120 megawatts and is meant to reach 350.",
+    "src": "https://www.datacenterdynamics.com/en/news/atnorth-plans-350mw-data-center-campus-in-norway/"
+   },
+   {
+    "para": 0,
+    "t": "The company is putting about 11 billion Norwegian kroner, roughly $1.1 billion, into the first phase.",
+    "src": "https://www.datacenterdynamics.com/en/news/atnorth-plans-350mw-data-center-campus-in-norway/"
+   },
+   {
+    "para": 1,
+    "t": "The constraint is when the power arrives.",
+    "src": "https://www.datacenterdynamics.com/en/news/atnorth-plans-350mw-data-center-campus-in-norway/"
+   },
+   {
+    "para": 1,
+    "t": "Availability is projected for 2028 and depends on two new substations, one built by Statnett, Norway's transmission operator, and one by the regional grid company Fagne.",
+    "src": "https://www.datacenterdynamics.com/en/news/atnorth-plans-350mw-data-center-campus-in-norway/"
+   },
+   {
+    "para": 1,
+    "t": "atNorth says the site will run on entirely renewable power and that it is looking at reusing the waste heat with local partners.",
+    "src": "https://www.atnorth.com/nordic-data-centers/norway-data-centers/haugaland-nor01/"
+   },
+   {
+    "para": 1,
+    "t": "It describes strong community support, which is the company's own characterisation and not something we could check.",
+    "src": "https://www.atnorth.com/news/atnorth-expands-to-norway-with-new-mega-site-in-haugaland/"
+   }
+  ],
+  "sources": [
+   "https://www.atnorth.com/news/atnorth-expands-to-norway-with-new-mega-site-in-haugaland/",
+   "https://www.datacenterdynamics.com/en/news/atnorth-plans-350mw-data-center-campus-in-norway/",
+   "https://www.atnorth.com/nordic-data-centers/norway-data-centers/haugaland-nor01/"
+  ],
+  "unconfirmed": "Searches on atNorth with Haugaland, on Tysvaer with datasenter, and on Rogaland with data centre found no Norwegian local reporting, no planning decision, no resident or councillor quoted, and no water figure. Everything above comes from the company or from trade press reporting its announcement. Our record places the site in Haugaland without naming Tysvaer or Gismarvik."
+ },
+ {
+  "id": "research-microsoft-sweden-sandviken-gavle",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Microsoft's Swedish data centre region runs across Gavle, Sandviken and Staffanstorp, and opened on November 16, 2021.",
+    "src": "https://news.microsoft.com/sv-se/2021/11/16/idag-oppnar-microsofts-hallbara-datacenter-i-sverige-skapar-nya-mojligheter-for-sverige-genom-hallbar-digitalisering/"
+   },
+   {
+    "para": 0,
+    "t": "The site is on Jarbovagen in Sandviken, in central Sweden near Gavle, and falls within a $3.2 billion Microsoft commitment to AI infrastructure in the country.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "The reason the buildings are here is the transmission network.",
+    "src": "https://www.datacenterdynamics.com/en/news/microsoft-build-sustainable-data-centers-sweden/"
+   },
+   {
+    "para": 1,
+    "t": "The large lines carrying hydropower down from Norrland meet in the Gavle and Sandviken area.",
+    "src": "https://sandviken.se/naringslivarbete/naringslivetisandviken/etableringavdatacenterigavlesandviken/saetablerasdatacenterindustrinigavlesandviken.27779.html"
+   },
+   {
+    "para": 1,
+    "t": "Microsoft works with Vattenfall on a 24 hour matching arrangement intended to keep the sites on carbon free power at every hour of the year, and says it aims to be carbon negative, water positive and zero waste before 2030.",
+    "src": "https://www.datacenterdynamics.com/en/news/microsoft-build-sustainable-data-centers-sweden/"
+   },
+   {
+    "para": 2,
+    "t": "Those are commitments rather than measurements.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/microsoft-build-sustainable-data-centers-sweden/",
+   "https://news.microsoft.com/sv-se/2021/11/16/idag-oppnar-microsofts-hallbara-datacenter-i-sverige-skapar-nya-mojligheter-for-sverige-genom-hallbar-digitalisering/",
+   "https://sandviken.se/naringslivarbete/naringslivetisandviken/etableringavdatacenterigavlesandviken/saetablerasdatacenterindustrinigavlesandviken.27779.html"
+  ],
+  "unconfirmed": "Three searches found no Swedish local reporting on this site, no planning decision, no water figure and nobody in Sandviken quoted about living beside it."
+ },
+ {
+  "id": "research-microsoft-finland-pure-dc-seinajoki",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Pure DC, a British developer, is building a data centre campus at Seinajoki in South Ostrobothnia, western Finland.",
+    "src": "https://www.seinajoki.fi/asuminen-ja-ymparisto/datakeskukset/"
+   },
+   {
+    "para": 0,
+    "t": "The city says the first phase is 110 megawatts on about 22 hectares in the Kivenneva area along the eastern highway, with the campus able to grow beyond 550 megawatts.",
+    "src": "https://www.seinajoki.fi/asuminen-ja-ymparisto/datakeskukset/"
+   },
+   {
+    "para": 0,
+    "t": "The city lists Roves and Rahkola as possible future data centre areas rather than current ones, and the site itself is at Kivenneva.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Microsoft is among the companies taking capacity in the first phase, which is reported as fully leased.",
+    "src": "https://www.datacenterdynamics.com/en/news/microsoft-signs-on-for-capacity-at-pure-dc-data-center-in-finland-report/"
+   },
+   {
+    "para": 0,
+    "t": "The city expects the first phase to start operating in 2027 or 2028 and about 200 jobs with it, rising to roughly 600 if the full campus is built, which would take about a decade.",
+    "src": "https://www.seinajoki.fi/asuminen-ja-ymparisto/datakeskukset/"
+   },
+   {
+    "para": 1,
+    "t": "On the things people ask about, the city's answers are these.",
+    "src": "https://www.seinajoki.fi/asuminen-ja-ymparisto/datakeskukset/"
+   },
+   {
+    "para": 1,
+    "t": "Cooling runs in a closed loop and uses almost no water, about what an office building uses for its staff.",
+    "src": "https://www.seinajoki.fi/asuminen-ja-ymparisto/datakeskukset/"
+   },
+   {
+    "para": 1,
+    "t": "Noise comes from the cooling plant and the backup generators, and is to be handled with barriers, walls and planting, with measurements required near houses once the site is running.",
+    "src": "https://www.seinajoki.fi/asuminen-ja-ymparisto/datakeskukset/"
+   },
+   {
+    "para": 1,
+    "t": "Pure DC buys its electricity from large producers on the market rather than locally, and talks about using the waste heat in the district heating network are still going on.",
+    "src": "https://www.seinajoki.fi/asuminen-ja-ymparisto/datakeskukset/"
+   },
+   {
+    "para": 2,
+    "t": "An earlier data centre already running in Seinajoki recovers more than 90 percent of its waste heat and supplies about four percent of the city's district heating.",
+    "src": "https://www.ilkkapohjalainen.fi/datakeskus-tuottaa-kaukolampoa-seinajoella-saamme/12359499"
+   },
+   {
+    "para": 3,
+    "t": "The town turned out for this.",
+    "src": "https://yle.fi/a/74-20240505"
+   },
+   {
+    "para": 3,
+    "t": "So many people came to the residents' evening at the city library that dozens were turned away at the door and the rest watched online, with the mayor Jaakko Kiiskila, the general plan director Jyrki Kuusinen and representatives of Pure DC answering questions.",
+    "src": "https://yle.fi/a/74-20240505"
+   },
+   {
+    "para": 3,
+    "t": "What residents asked about was whether there would be enough electricity and whether their bills would go up, who pays to extend the grid, whether local young people would get the jobs, and whether a foreign-owned company would leave anything behind.",
+    "src": "https://yle.fi/a/74-20240505"
+   },
+   {
+    "para": 3,
+    "t": "Aila Laine asked how the change would affect nature and animals.",
+    "src": "https://yle.fi/a/74-20240505"
+   },
+   {
+    "para": 3,
+    "t": "Vaino Kuoppala hoped it would bring some stimulus to the area; Reino Elomaa was sceptical about the burden on taxpayers and about the foreign ownership.",
+    "src": "https://yle.fi/a/74-20240505"
+   }
+  ],
+  "sources": [
+   "https://www.seinajoki.fi/asuminen-ja-ymparisto/datakeskukset/",
+   "https://yle.fi/a/74-20240505",
+   "https://www.ilkkapohjalainen.fi/datakeskus-tuottaa-kaukolampoa-seinajoella-saamme/12359499",
+   "https://www.datacenterdynamics.com/en/news/microsoft-signs-on-for-capacity-at-pure-dc-data-center-in-finland-report/",
+   "https://baxtel.com/data-center/microsoft-fairwater-2"
+  ],
+  "unconfirmed": "Our record used to give the address as Roveksenraitti; the entry now points at Kivenneva."
+ },
+ {
+  "id": "research-nebius-finland-factory",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Nebius runs a data centre at Moreenitie 6 in Mantsala, north of Helsinki, and is tripling its capacity to 75 megawatts by extending the existing building and putting up two more.",
+    "src": "https://nebius.com/newsroom/nebius-to-triple-capacity-at-finland-data-center-to-75-mw"
+   },
+   {
+    "para": 0,
+    "t": "Caverion has an agreement worth about 80 million euro covering the cooling, heat recovery, ventilation and fire safety for that expansion.",
+    "src": "https://www.caverion.com/newsroom/releases/2025/caverion-strengthens-its-position-as-key-partner-in-major-infrastructure-investments-in-europe--secures-a-large-contract-related-to-the-expansion-of-a-state-of-the-art-data-centre-in-finland/"
+   },
+   {
+    "para": 1,
+    "t": "What makes Mantsala worth writing about is the heat.",
+    "src": "https://arkisto.sitra.fi/en/cases/district-heating-from-data-centre-waste-heat-mantsala/"
+   },
+   {
+    "para": 1,
+    "t": "The site uses free cooling and sends its waste heat into the town's district heating network, a scheme phased in during 2015 and 2016 and the first of its kind in Finland.",
+    "src": "https://arkisto.sitra.fi/en/cases/district-heating-from-data-centre-waste-heat-mantsala/"
+   },
+   {
+    "para": 1,
+    "t": "It recovers about 20,000 megawatt hours a year, enough to heat the equivalent of 2,500 Finnish homes.",
+    "src": "https://arkisto.sitra.fi/en/cases/district-heating-from-data-centre-waste-heat-mantsala/"
+   },
+   {
+    "para": 1,
+    "t": "Over two recent years the facility supplied more than 30 gigawatt hours of heat, covering as much as 72 percent of the town's annual heating demand.",
+    "src": "https://nebius.com/sustainability/turning-heat-into-a-resource"
+   },
+   {
+    "para": 1,
+    "t": "The expansion is expected to increase that.",
+    "src": "https://nebius.com/sustainability/turning-heat-into-a-resource"
+   }
+  ],
+  "sources": [
+   "https://nebius.com/newsroom/nebius-to-triple-capacity-at-finland-data-center-to-75-mw",
+   "https://www.caverion.com/newsroom/releases/2025/caverion-strengthens-its-position-as-key-partner-in-major-infrastructure-investments-in-europe--secures-a-large-contract-related-to-the-expansion-of-a-state-of-the-art-data-centre-in-finland/",
+   "https://arkisto.sitra.fi/en/cases/district-heating-from-data-centre-waste-heat-mantsala/",
+   "https://nebius.com/sustainability/turning-heat-into-a-resource"
+  ],
+  "unconfirmed": "Searches on Nebius with Mantsala, on Mantsala with data centre heat, and on Finland with data centre district heating found no Finnish local reporting, no planning record and no resident or municipal official quoted. No water figure was found, and the heat figures come from Nebius and from a Sitra case study rather than from the district heating utility. Our record describes the capacity as having been tripled during 2025; the company gives the resulting figure as 75 megawatts."
+ },
+ {
+  "id": "research-qts-blackstone-cambois-northumberland",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "QTS is building a data centre campus at Cambois, a coastal village in Northumberland, near Blyth, in northeast England.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "QTS plans ten buildings there, each 72 megawatts, for a total of 720 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The site was previously home to Blyth power station, and the Blackstone-owned Renaissance Land is financing the 10 billion pound, 6 million square foot campus.",
+    "src": "https://www.placenortheast.co.uk/qts-doubles-down-as-openai-pauses-north-east-data-centre-ambitions/"
+   },
+   {
+    "para": 0,
+    "t": "The land had also been earmarked for Britishvolt's battery gigafactory before that project collapsed.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "The tenant has not been publicly disclosed, and is described only as an undisclosed hyperscale customer.",
+    "src": "data:tenant"
+   },
+   {
+    "para": 0,
+    "t": "Northumberland Council approved reserved matters for the first phase in December 2025, and construction of the first building's foundations was due to begin in spring 2026.",
+    "src": "https://www.placenortheast.co.uk/qts-doubles-down-as-openai-pauses-north-east-data-centre-ambitions/"
+   },
+   {
+    "para": 0,
+    "t": "QTS says the project uses closed-loop, water-free cooling.",
+    "src": "data:source_notes"
+   },
+   {
+    "para": 0,
+    "t": "QTS said in a statement it \"remains committed to delivering our Cambois Data Centre project in Northumberland,\" pointing to work with the local community and council, including support for local charities and education.",
+    "src": "https://www.placenortheast.co.uk/qts-doubles-down-as-openai-pauses-north-east-data-centre-ambitions/"
+   },
+   {
+    "para": 1,
+    "t": "A separate project 15 kilometers away, Stargate UK at Cobalt Park, was paused in April 2026.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The North East Combined Authority said it was disappointed by that pause but attributed it to national energy and regulatory challenges rather than problems specific to the region, and said the area's AI Growth Zone status still stood.",
+    "src": "https://www.placenortheast.co.uk/qts-doubles-down-as-openai-pauses-north-east-data-centre-ambitions/"
+   }
+  ],
+  "sources": [
+   "https://www.placenortheast.co.uk/qts-doubles-down-as-openai-pauses-north-east-data-centre-ambitions/"
+  ],
+  "unconfirmed": "No resident or opposition voices specific to Cambois were found in available sources."
+ },
+ {
+  "id": "research-nscale-loughton",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Nscale is building an artificial intelligence data centre campus on Langston Road in Loughton, in Epping Forest district on the northeastern edge of London.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The site is meant to go live in the last quarter of 2026 with 50 megawatts, rising to 90, and to hold tens of thousands of Nvidia processors for Microsoft, which the two companies say will make it the largest artificial intelligence supercomputer in the United Kingdom.",
+    "src": "https://www.datacenterdynamics.com/en/news/microsoft-to-build-uks-largest-supercomputer-as-part-of-15bn-infrastructure-push/"
+   },
+   {
+    "para": 0,
+    "t": "Nscale has described the Loughton building as its first British data centre, part of a two billion pound commitment, supporting 500 construction jobs and up to 250 permanent ones.",
+    "src": "https://www.nscale.com/press-releases/nscale-uk-ai-infrastructure-announcement"
+   },
+   {
+    "para": 1,
+    "t": "The town council is not persuaded.",
+    "src": "https://datacentrereview.com/2026/03/nscale-latest-to-face-public-backlash-over-proposed-data-centre/"
+   },
+   {
+    "para": 1,
+    "t": "Planning permission for a data centre on the site already existed, but the building Nscale wants is about half as large again as the one approved, because of the cooling it needs, and Loughton Town Council's planning officers asked for an entirely new application.",
+    "src": "https://datacentrereview.com/2026/03/nscale-latest-to-face-public-backlash-over-proposed-data-centre/"
+   },
+   {
+    "para": 1,
+    "t": "They said they wanted clear, independently verified evidence that the electricity the site will draw will not strain the local grid or push up residents' bills, together with firm commitments on renewable supply.",
+    "src": "https://datacentrereview.com/2026/03/nscale-latest-to-face-public-backlash-over-proposed-data-centre/"
+   },
+   {
+    "para": 1,
+    "t": "They also asked for assurance that the cooling will not press on local water supplies, that wildlife and habitats will not be harmed, and that noise and light on nearby houses will be controlled by conditions that can actually be enforced.",
+    "src": "https://datacentrereview.com/2026/03/nscale-latest-to-face-public-backlash-over-proposed-data-centre/"
+   },
+   {
+    "para": 1,
+    "t": "The district council's urban design and conservation teams objected as well.",
+    "src": "https://datacentrereview.com/2026/03/nscale-latest-to-face-public-backlash-over-proposed-data-centre/"
+   },
+   {
+    "para": 1,
+    "t": "The decision rests with Epping Forest District Council, not the town council.",
+    "src": "https://datacentrereview.com/2026/03/nscale-latest-to-face-public-backlash-over-proposed-data-centre/"
+   },
+   {
+    "para": 2,
+    "t": "Epping Forest District Council had granted outline permission for a data centre on the site and approved the reserved matters of appearance and landscaping in June 2026.",
+    "src": "https://www.datacenterdynamics.com/en/news/microsoft-to-build-uks-largest-supercomputer-as-part-of-15bn-infrastructure-push/"
+   },
+   {
+    "para": 2,
+    "t": "Nscale has moved the expected completion from the end of 2026 to early 2027, which it puts down to upgrading the hardware.",
+    "src": "https://datacentrereview.com/2026/03/nscale-latest-to-face-public-backlash-over-proposed-data-centre/"
+   },
+   {
+    "para": 2,
+    "t": "Google's Waltham Cross data centre, rated at 88 megawatts, is about 11 kilometres away, and a Google site at North Weald about 10.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://datacentrereview.com/2026/03/nscale-latest-to-face-public-backlash-over-proposed-data-centre/",
+   "https://www.datacenterdynamics.com/en/news/microsoft-to-build-uks-largest-supercomputer-as-part-of-15bn-infrastructure-push/",
+   "https://www.nscale.com/press-releases/nscale-uk-ai-infrastructure-announcement",
+   "https://www.datacentermap.com/united-kingdom/essex/nscale-loughton/"
+  ],
+  "unconfirmed": "How many objections the district council received, and whether Nscale was made to submit a fresh application, could not be established. No water figure, no grid connection agreement and no statement from the council on the energy evidence it was asked for were found, and no residents are named in any account. Searched: Nscale Loughton Langston Road AI campus Microsoft Nvidia Essex planning; Loughton Essex data centre residents Epping Forest council objection electricity; Nebius Finland Mantsala municipality district heating agreement jobs."
+ },
+ {
+  "id": "research-stargate-uk-cobalt-park",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "OpenAI has paused its plans for a data center at Cobalt Business Park in Wallsend, North Tyneside.",
+    "src": "https://www.placenortheast.co.uk/qts-doubles-down-as-openai-pauses-north-east-data-centre-ambitions/"
+   },
+   {
+    "para": 0,
+    "t": "The project, first announced in September 2025 with partners Nvidia and the British firm Nscale, was part of a 31 billion pound government AI growth zone initiative for the North East.",
+    "src": "https://www.placenortheast.co.uk/qts-doubles-down-as-openai-pauses-north-east-data-centre-ambitions/"
+   },
+   {
+    "para": 0,
+    "t": "OpenAI announced the pause in April 2026, citing high energy costs and regulatory uncertainty.",
+    "src": "https://www.placenortheast.co.uk/qts-doubles-down-as-openai-pauses-north-east-data-centre-ambitions/"
+   },
+   {
+    "para": 0,
+    "t": "OpenAI said: \"We continue to explore Stargate UK and will move forward when the right conditions, such as regulation and the cost of energy, enable long-term infrastructure investment.\"",
+    "src": "https://www.placenortheast.co.uk/qts-doubles-down-as-openai-pauses-north-east-data-centre-ambitions/"
+   },
+   {
+    "para": 0,
+    "t": "The North East Combined Authority said it was disappointed but called the pause a national problem, not a sign of regional weakness, and said the area's AI Growth Zone status remained in place.",
+    "src": "https://www.placenortheast.co.uk/qts-doubles-down-as-openai-pauses-north-east-data-centre-ambitions/"
+   },
+   {
+    "para": 1,
+    "t": "A separate, larger project 15 kilometers away, QTS's 720 megawatt Cambois campus in Northumberland, is continuing.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Construction of the first building there was due to begin in spring 2026.",
+    "src": "https://www.placenortheast.co.uk/qts-doubles-down-as-openai-pauses-north-east-data-centre-ambitions/"
+   }
+  ],
+  "sources": [
+   "https://www.placenortheast.co.uk/qts-doubles-down-as-openai-pauses-north-east-data-centre-ambitions/"
+  ],
+  "unconfirmed": "No information on resident reaction specific to Cobalt Park was found in available sources."
+ }
+]

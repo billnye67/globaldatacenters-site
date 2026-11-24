@@ -1,0 +1,484 @@
+[
+ {
+  "id": "apple-apple-waukee",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Tim Cook announced a $1.3 billion Apple data center for Waukee in August 2017. Then, for about five years, nothing visible happened.",
+    "src": "https://appleinsider.com/articles/24/10/16/seven-years-on-iowas-apple-data-center-finally-opens"
+   },
+   {
+    "para": 0,
+    "t": "Waukee and the state put up roughly $214 million in combined local and state incentives to land it. At the announcement Cook said: \"We're the largest taxpayer in the United States. Not by a little, by a lot.\"",
+    "src": "https://appleinsider.com/articles/24/10/16/seven-years-on-iowas-apple-data-center-finally-opens"
+   },
+   {
+    "para": 0,
+    "t": "Apple also committed $100 million to a public community fund and $4 million toward Triumph Park, a 66 acre recreation site that was finished in June 2023.",
+    "src": "https://appleinsider.com/articles/24/10/16/seven-years-on-iowas-apple-data-center-finally-opens"
+   },
+   {
+    "para": 1,
+    "t": "Iowa authorities reviewed Apple's plans again in February 2022, and in August 2024 the company applied for permission to rehabilitate wetlands near the site. One building opened in October 2024, seven years after the announcement, serving North American users of iMessage, Apple Music, iCloud and the App Store.",
+    "src": "https://appleinsider.com/articles/24/10/16/seven-years-on-iowas-apple-data-center-finally-opens"
+   },
+   {
+    "para": 1,
+    "t": "The campus covers 2,000 acres at Hickman Road and S Avenue. Waukee receives $500,000 a year per building, and the one operating building has produced $1.5 million so far.",
+    "src": "https://appleinsider.com/articles/24/10/16/seven-years-on-iowas-apple-data-center-finally-opens"
+   },
+   {
+    "para": 2,
+    "t": "The tax arrangement went wrong in a way that cost the city money. Under a 2017 agreement Apple has a 20 year abatement on the buildings, and a 2023 agreement set a minimum taxable value of $52.2 million per data center.",
+    "src": "https://www.waukee.org/1206/Apple-Valuation-Correction"
+   },
+   {
+    "para": 2,
+    "t": "Dallas County then failed to apply that abatement when it calculated valuations for the fiscal year. Correcting the error cut the city's projected property tax revenue by $3.4 million, with the school district and the county also receiving less than planned.",
+    "src": "https://www.waukee.org/1206/Apple-Valuation-Correction"
+   },
+   {
+    "para": 2,
+    "t": "The city said the loss \"will not affect our operating budget and the services and programs you get from the City,\" but that it had to re-examine infrastructure projects in its capital plan.",
+    "src": "https://www.waukee.org/1206/Apple-Valuation-Correction"
+   },
+   {
+    "para": 3,
+    "t": "The area around it is busy: six data centers sit in Polk County, with a proposed 150 megawatt Cielo project about 7 kilometers away, Edged under construction about 9 kilometers away, Microsoft's 200 megawatt West Des Moines IV about 11 kilometers away and Meta Altoona about 15 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://appleinsider.com/articles/24/10/16/seven-years-on-iowas-apple-data-center-finally-opens",
+   "https://www.waukee.org/1206/Apple-Valuation-Correction",
+   "https://baxtel.com/data-centers/apple"
+  ],
+  "unconfirmed": "Our own record listed this project as withdrawn and shelved, which the reporting does not support: the first building is open and running, and the entry now says so."
+ },
+ {
+  "id": "apple-apple-viborg",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Apple's data centre at Foulum, outside Viborg in central Jutland, became operational in 2020 after being announced in 2015.",
+    "src": "https://appleinsider.com/articles/20/09/03/apples-viborg-denmark-data-center-is-operational-powered-100-by-clean-energy"
+   },
+   {
+    "para": 0,
+    "t": "The building covers about 45,000 square metres, and Apple has said it will put a total of 850 million euro into its Viborg sites, scaling the campus toward 166,000 square metres.",
+    "src": "https://appleinsider.com/articles/20/09/03/apples-viborg-denmark-data-center-is-operational-powered-100-by-clean-energy"
+   },
+   {
+    "para": 1,
+    "t": "Power comes from a 50 megawatt solar project under a long term purchase agreement, built by European Energy, which also built a wind farm for the site. Apple additionally paid for two of the largest onshore wind turbines in the world near Esbjerg, expected to produce 62 gigawatt hours a year each.",
+    "src": "https://appleinsider.com/articles/20/09/03/apples-viborg-denmark-data-center-is-operational-powered-100-by-clean-energy"
+   },
+   {
+    "para": 2,
+    "t": "The part that is unusual is the heat. Apple said from the start that the centre would capture waste heat from its equipment and feed it into the local district heating system, and during 2022 and early 2023 it expanded the site and built the infrastructure to do so.",
+    "src": "https://appleinsider.com/articles/17/04/21/apples-upcoming-danish-data-center-will-help-warm-area-homes"
+   },
+   {
+    "para": 2,
+    "t": "Nothing else of the kind has been built within 40 kilometres of Viborg.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://appleinsider.com/articles/20/09/03/apples-viborg-denmark-data-center-is-operational-powered-100-by-clean-energy",
+   "https://appleinsider.com/articles/17/04/21/apples-upcoming-danish-data-center-will-help-warm-area-homes",
+   "https://baxtel.com/data-centers/apple"
+  ],
+  "unconfirmed": "No electrical capacity figure in megawatts, water use figure or employment number was found for Viborg. How much heat actually reaches the district heating network, and how many homes it serves, was not established. No Danish planning objection or local opposition appeared in any source reached."
+ },
+ {
+  "id": "apple-apple-gui-an",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This data centre exists because of a law. China's 2017 cybersecurity rules require cloud services for Chinese citizens to run through Chinese companies with the data held inside the country.",
+    "src": "https://www.aljazeera.com/amp/economy/2018/2/25/for-the-first-time-china-will-host-apples-icloud-keys"
+   },
+   {
+    "para": 0,
+    "t": "Apple said of that requirement: \"While we advocated against iCloud being subject to these laws, we were ultimately unsuccessful.\"",
+    "src": "https://www.aljazeera.com/amp/economy/2018/2/25/for-the-first-time-china-will-host-apples-icloud-keys"
+   },
+   {
+    "para": 0,
+    "t": "Apple's own support pages state that iCloud in China mainland is operated by GCBD, legally AIPO Cloud (Guizhou) Technology Co. Ltd, and that users there accept GCBD's terms rather than Apple's.",
+    "src": "https://support.apple.com/en-us/111754"
+   },
+   {
+    "para": 1,
+    "t": "GCBD is Guizhou-Cloud Big Data Industry Co Ltd, a state owned company set up by the provincial government in 2014. Apple began hosting Chinese users' iCloud accounts in the new Guizhou data centre at the end of February 2018.",
+    "src": "https://www.aljazeera.com/amp/economy/2018/2/25/for-the-first-time-china-will-host-apples-icloud-keys"
+   },
+   {
+    "para": 1,
+    "t": "Apple says it keeps control of the encryption keys and that the arrangement gives China no backdoor to user data, and argued that shutting the service down would have left users worse off.",
+    "src": "https://www.aljazeera.com/amp/economy/2018/2/25/for-the-first-time-china-will-host-apples-icloud-keys"
+   },
+   {
+    "para": 2,
+    "t": "What changed is who asks. Before, Chinese authorities seeking iCloud data had to go through United States courts. Now they use domestic legal processes that carry no equivalent of a warrant requirement or independent judicial review.",
+    "src": "https://www.aljazeera.com/amp/economy/2018/2/25/for-the-first-time-china-will-host-apples-icloud-keys"
+   },
+   {
+    "para": 2,
+    "t": "Jeremy Daum of Yale Law School said Chinese police \"have broad powers to collect evidence\" under procedures set internally by the police rather than by courts.",
+    "src": "https://www.aljazeera.com/amp/economy/2018/2/25/for-the-first-time-china-will-host-apples-icloud-keys"
+   },
+   {
+    "para": 2,
+    "t": "Camille Fischer of the Electronic Frontier Foundation said: \"The US standard, when it's a warrant and when it's properly executed, is the most privacy-protecting standard.\"",
+    "src": "https://www.aljazeera.com/amp/economy/2018/2/25/for-the-first-time-china-will-host-apples-icloud-keys"
+   },
+   {
+    "para": 3,
+    "t": "The site sits in a cluster: a Huawei data centre stands about 1 kilometre away, and Tencent's Seven Stars site, built into Guizhou mountain caves, along with another Huawei Cloud site, about 26 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.aljazeera.com/amp/economy/2018/2/25/for-the-first-time-china-will-host-apples-icloud-keys",
+   "https://support.apple.com/en-us/111754",
+   "https://baxtel.com/data-centers/apple"
+  ],
+  "unconfirmed": "No size, capacity, investment figure, water use or employment number for the Gui'an site was found. Later reporting has disputed Apple's account of who controls the encryption keys, but the pages carrying that reporting could not be retrieved, so it is not set out here."
+ },
+ {
+  "id": "apple-apple-ulanqab",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Apple announced its Ulanqab data centre in Inner Mongolia in 2018, its second in mainland China, at a cost reported at about $160 million, and put it into operation in 2020.",
+    "src": "https://www.chinadaily.com.cn/a/201802/08/WS5a7b8d78a3106e7dcc13b692.html"
+   },
+   {
+    "para": 0,
+    "t": "It is the company's first in northern China and carries iCloud services for the mainland.",
+    "src": "https://www.chinadaily.com.cn/a/201802/08/WS5a7b8d78a3106e7dcc13b692.html"
+   },
+   {
+    "para": 0,
+    "t": "Apple says it runs on entirely renewable energy.",
+    "src": "https://www.chinadaily.com.cn/a/201802/08/WS5a7b8d78a3106e7dcc13b692.html"
+   },
+   {
+    "para": 1,
+    "t": "Apple does not run it alone, and cannot.",
+    "src": "https://www.rfa.org/english/news/china/warnings-02072018111943.html"
+   },
+   {
+    "para": 1,
+    "t": "Both of its Chinese data centres operate in partnership with Guizhou-Cloud Big Data Industry Development Co, a state supervised company, and control of iCloud storage in China was transferred to GCBD, which is linked to the Guizhou provincial government, to comply with the country's 2017 rules requiring domestic data to be held domestically.",
+    "src": "https://www.rfa.org/english/news/china/warnings-02072018111943.html"
+   },
+   {
+    "para": 1,
+    "t": "That transfer drew warnings at the time about what it meant for the security of Chinese users' data.",
+    "src": "https://www.rfa.org/english/news/china/warnings-02072018111943.html"
+   },
+   {
+    "para": 2,
+    "t": "Inner Mongolia was designated one of China's big data development zones in 2016, and Ulanqab now also holds a large Huawei data centre.",
+    "src": "https://www.chinadaily.com.cn/a/201802/06/WS5a799f1ca3106e7dcc13b235.html"
+   }
+  ],
+  "sources": [
+   "https://www.chinadaily.com.cn/a/201802/08/WS5a7b8d78a3106e7dcc13b692.html",
+   "https://www.rfa.org/english/news/china/warnings-02072018111943.html",
+   "https://www.chinadaily.com.cn/a/201802/06/WS5a799f1ca3106e7dcc13b235.html"
+  ],
+  "unconfirmed": "Searches on Apple with Ulanqab, on Inner Mongolia with data centre, and on Apple with GCBD found no capacity figure, water figure, land area or employment number for this site, and no account of residents, land acquisition or environmental review. The coverage available is Chinese state media and international reporting on the data sovereignty question, not local reporting on the building."
+ },
+ {
+  "id": "neoclouds-coreweave-kenilworth-nest",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The building was Merck's. CoreWeave is turning part of the former Merck & Co. campus on Galloping Hill Road in Kenilworth, in Union County, into its first data center in New Jersey, the state where the company is based.",
+    "src": "https://re-nj.com/coreweave-begins-1-8-billion-data-center-project-in-kenilworth-landing-first-award-under-new-eda-tax-credit-program/"
+   },
+   {
+    "para": 0,
+    "t": "Onyx Equities and Machine Investment Group bought the 2 million square foot complex in 2023 for $187.5 million and renamed it the Northeast Science & Technology Center, or NEST.",
+    "src": "https://re-nj.com/ai-startup-coreweave-to-build-1-billion-data-center-at-onyxs-nest-campus-in-kenilworth/"
+   },
+   {
+    "para": 0,
+    "t": "CoreWeave bought its part of the 107 acre campus, plus 27 adjacent acres, for $322 million in August 2024.",
+    "src": "https://re-nj.com/coreweave-begins-1-8-billion-data-center-project-in-kenilworth-landing-first-award-under-new-eda-tax-credit-program/"
+   },
+   {
+    "para": 1,
+    "t": "The project is now put at $1.8 billion and 250 megawatts. It totals 392,600 square feet: 108,100 square feet of new construction plus a retrofit of the existing 284,500 square foot building known as 11 NEST.",
+    "src": "https://re-nj.com/coreweave-begins-1-8-billion-data-center-project-in-kenilworth-landing-first-award-under-new-eda-tax-credit-program/"
+   },
+   {
+    "para": 1,
+    "t": "Construction began in mid-September and the building is expected to be running in early 2027.",
+    "src": "https://re-nj.com/coreweave-begins-1-8-billion-data-center-project-in-kenilworth-landing-first-award-under-new-eda-tax-credit-program/"
+   },
+   {
+    "para": 1,
+    "t": "It is the first award under New Jersey's Next New Jersey Program AI incentive: a $250 million tax credit over five years, against a commitment of 143 jobs, above the program's 100 job minimum.",
+    "src": "https://re-nj.com/coreweave-begins-1-8-billion-data-center-project-in-kenilworth-landing-first-award-under-new-eda-tax-credit-program/"
+   },
+   {
+    "para": 1,
+    "t": "CoreWeave chief executive Michael Intrator said: \"We are incredibly excited to open a next-generation data center in CoreWeave's home state of New Jersey.\"",
+    "src": "https://re-nj.com/coreweave-begins-1-8-billion-data-center-project-in-kenilworth-landing-first-award-under-new-eda-tax-credit-program/"
+   },
+   {
+    "para": 2,
+    "t": "Merck itself moved out to nearby Rahway in early 2024, which is why the campus is sometimes filed under that town. It is about 30 minutes from CoreWeave’s Livingston headquarters.",
+    "src": "https://www.bisnow.com/national/news/data-center/coreweave-acquires-former-merck-hq-in-new-jersey-for-data-center-campus-130416"
+   },
+   {
+    "para": 2,
+    "t": "CoreWeave first leased the building in October 2024, then paid $322 million on August 4, 2025 to buy it and the adjacent 27 acre parcel outright. The campus already has a 50 megawatt substation, on-site power generation and chiller plants left over from Merck’s operations.",
+    "src": "https://www.bisnow.com/national/news/data-center/coreweave-acquires-former-merck-hq-in-new-jersey-for-data-center-campus-130416"
+   },
+   {
+    "para": 3,
+    "t": "New Jersey municipalities have been moving the other way, with outright bans on data centers in Bayonne, Sayreville, Neptune Township, Red Bank, Warren Township, Andover Township, Green Township, Hardyston Township, Sparta Township and Roselle Park, which borders Kenilworth.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The site draws from PJM, whose control area peaks at about 144,530 megawatts. The 1,636 megawatt PSEG Linden station is about 8 kilometers away and the 904 megawatt Linden Cogen plant about 7 kilometers away.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 3,
+    "t": "CoreWeave broke ground in mid-September after landing a five year, $250 million New Jersey tax credit, and expects the building operational in early 2027.",
+    "src": "https://www.datacenterdynamics.com/en/news/coreweave-to-convert-new-jersey-lab-building-into-data-center/"
+   }
+  ],
+  "sources": [
+   "https://re-nj.com/coreweave-begins-1-8-billion-data-center-project-in-kenilworth-landing-first-award-under-new-eda-tax-credit-program/",
+   "https://re-nj.com/ai-startup-coreweave-to-build-1-billion-data-center-at-onyxs-nest-campus-in-kenilworth/",
+   "https://www.bisnow.com/national/news/data-center/coreweave-acquires-former-merck-hq-in-new-jersey-for-data-center-campus-130416",
+   "https://www.datacenterdynamics.com/en/news/coreweave-to-convert-new-jersey-lab-building-into-data-center/"
+  ],
+  "unconfirmed": "Our record carried this project a second time as CoreWeave Merck Rahway, holding only \"New Jersey\" as its address and a pin in Ocean County; that entry has been merged into this one and its 250 megawatt figure kept. Figures for the project have moved as it has progressed, from $1 billion to $1.2 billion to $1.8 billion, and the earlier reporting described a long term lease of 280,000 square feet rather than a purchase, so the sequence of lease then sale is not fully clear. No water use figure was published, and no Kenilworth resident, council member or objector appears in any source reached, despite bans in force in neighbouring towns."
+ },
+ {
+  "id": "neoclouds-coreweave-lancaster",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CoreWeave plans to spend up to $6 billion on a data center in Lancaster, Pennsylvania, built on the site of the former LSC Communications and R.R. Donnelley printing plants.",
+    "src": "https://www.datacentermap.com/usa/pennsylvania/lancaster/coreweave-lancaster/"
+   },
+   {
+    "para": 0,
+    "t": "The two addresses, 216 Greenfield Road and 1375 Harrisburg Pike, hold a combined 1.5 million square feet of industrial buildings across 144 acres.",
+    "src": "https://www.datacentermap.com/usa/pennsylvania/lancaster/coreweave-lancaster/"
+   },
+   {
+    "para": 0,
+    "t": "It starts at 100 megawatts of IT capacity with room to reach 300 megawatts, across five data halls of 20 megawatts each. CoreWeave will be the sole tenant, with Chirisa Technology Parks and Machine Investment Group as co-developers. The first phase is due in summer 2027.",
+    "src": "https://www.datacentermap.com/usa/pennsylvania/lancaster/coreweave-lancaster/"
+   },
+   {
+    "para": 1,
+    "t": "The city says PPL Electric customers will not pay for infrastructure built specifically for the data center, because the developer pays for those upgrades directly, while benefits to the shared system are spread across all customers.",
+    "src": "https://ccblueprint.org/data-center-dilemma/"
+   },
+   {
+    "para": 1,
+    "t": "City staff say the building will mainly use air cooled chillers, with water use similar to a small office building, and that existing ordinances mean the city is not obliged to supply municipal water. An acoustic study commissioned by Chirisa found a neutral noise impact, which the city said it was checking independently.",
+    "src": "https://ccblueprint.org/data-center-dilemma/"
+   },
+   {
+    "para": 2,
+    "t": "The developer projects 600 to 1,000 construction jobs and 150 permanent positions. The city has so far received $327,345 in real estate transfer tax and about $7.8 million in phase one building permit fees.",
+    "src": "https://ccblueprint.org/data-center-dilemma/"
+   },
+   {
+    "para": 2,
+    "t": "The land is zoned Suburban Manufacturing. On August 26, 2025 the City Council directed staff to draft a zoning ordinance specific to data centers, with adoption tentatively set for December 9, 2025.",
+    "src": "https://ccblueprint.org/data-center-dilemma/"
+   },
+   {
+    "para": 2,
+    "t": "CoreWeave announced the project on July 16, 2025 at a Pennsylvania energy summit attended by Governor Josh Shapiro, Senator Dave McCormick and President Trump, and chief executive Michael Intrator said it would \"accelerate innovation and drive economic growth across the region.\"",
+    "src": "https://www.rcrwireless.com/20250716/ai-infrastructure/coreweave-ai-data"
+   },
+   {
+    "para": 2,
+    "t": "The build is expected to need about 600 construction workers, with roughly 70 to 75 full time operations jobs at launch growing to about 175 over time.",
+    "src": "https://www.coreweave.com/blog/building-pennsylvania-into-the-mid-atlantic-ai-hub"
+   },
+   {
+    "para": 3,
+    "t": "Zoning limits are already in force at West Whiteland Township, Londonderry Township, Pequea Township and Lancaster itself; a second CoreWeave site sits on Harrisburg Pike about 6 kilometers away, a proposed 828 megawatt Energy Capital Partners project about 32 kilometers away, and a cancelled data center at South Annville about 38 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 2,549 megawatt Peach Bottom nuclear plant is about 32 kilometers away, with the 1,058 megawatt Muddy Run pumped storage plant about 27 kilometers away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.datacentermap.com/usa/pennsylvania/lancaster/coreweave-lancaster/",
+   "https://ccblueprint.org/data-center-dilemma/",
+   "https://www.rcrwireless.com/20250716/ai-infrastructure/coreweave-ai-data",
+   "https://www.coreweave.com/blog/building-pennsylvania-into-the-mid-atlantic-ai-hub"
+  ],
+  "unconfirmed": "Our own record used to file a separate entry, CoreWeave Allentown, in Centre County. The reporting places this project in Lancaster County, and the two have been merged."
+ },
+ {
+  "id": "neoclouds-coreweave-hammond",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Hammond approved the largest economic development project in the city's history, and then watched the deadline pass.",
+    "src": "https://www.gohammond.com/hammond-announces-expiration-of-data-center-development-agreement/"
+   },
+   {
+    "para": 0,
+    "t": "The city council approved the development agreement 8 to 0 in June 2025, for a data center at 301 Digital Crossroads Drive in Hammond, Lake County, Indiana, built to CoreWeave's specifications and expanding the company's existing presence at the campus.",
+    "src": "https://www.gohammond.com/hammond-announces-expiration-of-data-center-development-agreement/"
+   },
+   {
+    "para": 1,
+    "t": "On July 1, 2026 the city announced that the agreement had expired. It bound four parties: the City of Hammond, the Hammond Redevelopment Commission, Decennial Group and CoreWeave.",
+    "src": "https://www.gohammond.com/hammond-announces-expiration-of-data-center-development-agreement/"
+   },
+   {
+    "para": 1,
+    "t": "Certain milestones and obligations had to be met by June 30, 2026. They were not, and two extensions had already been granted. The city said no further extension would be offered, and did not say which milestones were missed.",
+    "src": "https://www.gohammond.com/hammond-announces-expiration-of-data-center-development-agreement/"
+   },
+   {
+    "para": 1,
+    "t": "Mayor Thomas M. McDermott Jr. said: \"While we are disappointed that the project did not move forward under the terms of this agreement, we appreciate the time and effort invested by all parties throughout the process.\"",
+    "src": "https://www.gohammond.com/hammond-announces-expiration-of-data-center-development-agreement/"
+   },
+   {
+    "para": 1,
+    "t": "The city said it will keep looking for development at the site, which it calls one of the premier locations for large scale economic development in the Midwest.",
+    "src": "https://www.gohammond.com/hammond-announces-expiration-of-data-center-development-agreement/"
+   },
+   {
+    "para": 2,
+    "t": "Lake County is not short of restrictions: two county moratoriums and county zoning limits, plus municipal moratoriums at Plainfield and Merrillville, with seven data centers in the county.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The 513 megawatt Whiting Clean Energy plant is about 5 kilometers away and the 326 megawatt Calumet Energy Team plant about 4 kilometers away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.gohammond.com/hammond-announces-expiration-of-data-center-development-agreement/",
+   "https://www.datacentermap.com/usa/illinois/chicago/coreweave-hammond/quote"
+  ],
+  "unconfirmed": "Reporting indicates the proposal was for about 180 megawatts and that it depended on a pending power agreement with NIPSCO, and that the mayor had earlier said he had no confidence the project would proceed, but the pages carrying those accounts could not be retrieved, so neither the capacity nor the reason for the collapse is established here. Whether CoreWeave still operates at the existing Digital Crossroads building was not confirmed."
+ },
+ {
+  "id": "neoclouds-coreweave-plano",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CoreWeave's Plano data center at 1000 Coit Road came into operation at the end of 2023, a 454,421 square foot building put at $1.6 billion.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "It sits in one of the densest data center corridors in Texas. Collin County holds nine, with the 100 megawatt Skybox Atlantic Station about 2 kilometers away, and Equinix's Plano campus, Aligned's Plano campus, Digital Realty's Richardson site and Stream DFW III all about 7 to 8 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The surrounding area has begun to push back, with zoning limits at Lewisville and Sanger, a moratorium at Fort Worth, and the Texas state grid connection order of August 3, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "The nearest large generator is the 915 megawatt Lake Hubbard gas plant, about 29 kilometers away, inside an ERCOT control area that peaks at about 73,825 megawatts.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/data-centers/coreweave"
+  ],
+  "unconfirmed": "No capacity figure in megawatts, water use figure, employment number, or account of the city approval was found for the Plano site, and no local coverage of it, supportive or critical, was reached. The $1.6 billion and square footage figures come from our own record rather than from a source read for this page."
+ },
+ {
+  "id": "neoclouds-coreweave-cheyenne-related-digital",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Related Digital broke ground on October 7, 2025 on a $1.2 billion data center campus across 115 acres at Campstool Business Park in Cheyenne, in Laramie County, Wyoming.",
+    "src": "https://www.datacentermap.com/usa/wyoming/cheyenne/related-digital-cheyenne/"
+   },
+   {
+    "para": 0,
+    "t": "CoreWeave is the anchor tenant, on a long term lease for 88 megawatts. The first phase, due to finish in late 2026, covers 184,000 square feet on 36 acres. The campus is designed to reach 302 megawatts.",
+    "src": "https://www.datacentermap.com/usa/wyoming/cheyenne/related-digital-cheyenne/"
+   },
+   {
+    "para": 0,
+    "t": "The buildings are air cooled, which the developer says means only nominal water consumption.",
+    "src": "https://www.datacentermap.com/usa/wyoming/cheyenne/related-digital-cheyenne/"
+   },
+   {
+    "para": 1,
+    "t": "The scale is worth setting against the grid. The site sits in the Western Area Power Administration's Rocky Mountain region, whose control area peaks at about 3,362 megawatts. A campus built out to 302 megawatts would be close to a tenth of that.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 1,
+    "t": "Cheyenne already has company: Crusoe about 7 kilometers away, Meta's 152 megawatt campus about 9 kilometers away, a Crusoe expansion in doubt about 10 kilometers away, another Crusoe campus about 14 kilometers away and Microsoft about 15 kilometers away, six data centers in Laramie County in all.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The 131 megawatt Cheyenne Prairie gas plant is about 1 kilometer away, with 150 megawatts of solar about 13 kilometers away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.datacentermap.com/usa/wyoming/cheyenne/related-digital-cheyenne/",
+   "https://baxtel.com/data-centers/coreweave"
+  ],
+  "unconfirmed": "No named Cheyenne or Laramie County official, resident or objector appears in any source reached, and no account of the city or county approval process, tax arrangements or power supply agreement was found. How the campus will be supplied as it scales toward 302 megawatts is not established."
+ },
+ {
+  "id": "neoclouds-coreweave-cambridge-ontario",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CoreWeave's Cambridge data centre sits in the Boxwood Business Campus on Pinebush Road in Cambridge, Ontario, and is operating.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Its customer is Cohere, the Canadian AI company, and the two describe the facility as a multibillion dollar project.",
+    "src": "https://www.theglobeandmail.com/business/article-coreweave-ai-data-centre-cambridge-ontario-cohere/"
+   },
+   {
+    "para": 0,
+    "t": "Property records link the building to TowerBrook Capital Partners, a private equity firm with offices in New York and London, which worked on it with the American data centre company Related Digital.",
+    "src": "https://www.theglobeandmail.com/business/article-coreweave-ai-data-centre-cambridge-ontario-cohere/"
+   },
+   {
+    "para": 1,
+    "t": "No other data centre project sits within 40 kilometres, which is unusual for a CoreWeave site.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.theglobeandmail.com/business/article-coreweave-ai-data-centre-cambridge-ontario-cohere/",
+   "https://www.cbc.ca/news/ai-data-centre-canada-water-use-9.6939684"
+  ],
+  "unconfirmed": "Three searches found no council decision, planning record or resident comment about the Cambridge site, and no capacity figure, square footage or investment total has been published for it."
+ }
+]

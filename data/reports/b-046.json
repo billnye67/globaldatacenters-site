@@ -1,0 +1,325 @@
+[
+ {
+  "id": "digitalrealty-buildings-digital-realty-milan-abbiategrasso",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Digital Realty has proposed a data centre on the SS494 at Abbiategrasso, southwest of Milan, with a first building of 8 megawatts targeted for 2028.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The Milan ring has filled in around it, with CloudHQ's Magenta site about nine kilometres away and Data4 and others nearby.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Milan already has 68 data centre facilities, the densest concentration in Italy.",
+    "src": "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+   },
+   {
+    "para": 1,
+    "t": "Lombardy alone has 166 new requests for grid connection totalling more than 44 gigawatts, and across Italy the operator Terna has 529 requests for roughly 95 gigawatts.",
+    "src": "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+   },
+   {
+    "para": 1,
+    "t": "Italian data centres used between 5 and 7 terawatt hours in 2024, about 1.9 percent of national electricity, and estimates put that between 7 and 13 percent by 2035.",
+    "src": "https://www.valigiablu.it/data-center-italia-consumo-acqua-energia-rischi/"
+   },
+   {
+    "para": 2,
+    "t": "Towns around Milan have begun organising.",
+    "src": "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+   },
+   {
+    "para": 2,
+    "t": "More than 2,200 people signed a petition against a data centre at San Bovio, in Peschiera Borromeo, over energy and water consumption, noise, how close it sits to houses and to the Gambarone spring, groundwater drawn from shallow aquifers, and carbon dioxide from burning diesel.",
+    "src": "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+   },
+   {
+    "para": 2,
+    "t": "The first public demonstration against a data centre in Lombardy was held at Lacchiarella on July 11, drawing committees from Magenta, Opera, Linate and other towns, and a national protest was called for October 10 in Milan.",
+    "src": "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+   },
+   {
+    "para": 2,
+    "t": "Magenta, whose committee joined that demonstration, is the town nearest this site.",
+    "src": "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+   }
+  ],
+  "sources": [
+   "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku",
+   "https://www.valigiablu.it/data-center-italia-consumo-acqua-energia-rischi/"
+  ],
+  "unconfirmed": "Searches on Digital Realty with Abbiategrasso, on Milan with data centre water and energy, and on Lombardy with data centre residents found no planning application, decision, water figure or objection naming this project. The opposition described above concerns other operators' projects nearby, and no resident of Abbiategrasso is quoted anywhere we could read."
+ },
+ {
+  "id": "gemini-digital-realty-par8",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "PAR8 is the flagship data centre of Digital Realty's Interxion digital park at La Courneuve, north of Paris, and is rated at 76 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The campus was designed as four digital centres with 43,200 square metres of computer room built in successive phases, alongside a heat exchange and recovery building, an RTE power station, a second chance school and a public square.",
+    "src": "https://lacourneuve.fr/sites/default/files/2019-06/3-PAR_8_Notice_explicative_succincte.pdf"
+   },
+   {
+    "para": 0,
+    "t": "Construction began in October 2020, described at the time as the largest data centre in France.",
+    "src": "https://www.cnews.fr/france/2020-10-13/la-construction-du-plus-grand-data-center-de-france-commence-la-courneuve-1007176"
+   },
+   {
+    "para": 1,
+    "t": "The company has had to live with its neighbours here before.",
+    "src": "https://en.wikipedia.org/wiki/Interxion"
+   },
+   {
+    "para": 1,
+    "t": "In October 2015 the Montreuil administrative tribunal ordered Interxion to stop using its La Courneuve data centre after residents complained about noise, and the PAR8 project itself was delayed by lawsuits brought in 2013 and 2015.",
+    "src": "https://en.wikipedia.org/wiki/Interxion"
+   },
+   {
+    "para": 1,
+    "t": "The plans answer that with an 8,000 square metre garden open to everyone and a site office nearby where residents could ask about the work and watch it progress.",
+    "src": "https://www.cnews.fr/france/2020-10-13/la-construction-du-plus-grand-data-center-de-france-commence-la-courneuve-1007176"
+   },
+   {
+    "para": 2,
+    "t": "The waste heat is meant to go somewhere useful: the campus could supply the equivalent of 54,000 homes with heating and hot water.",
+    "src": "https://www.cnews.fr/france/2020-10-13/la-construction-du-plus-grand-data-center-de-france-commence-la-courneuve-1007176"
+   },
+   {
+    "para": 2,
+    "t": "Digital Realty has since moved this Paris campus to water cooling as customers' high performance equipment has grown denser.",
+    "src": "https://www.solutions-numeriques.com/digital-realty-passe-au-refroidissement-par-eau-pour-son-datacenter-parisien-face-a-laugmentation-de-la-densite-des-equipements-hpc-des-clients/"
+   },
+   {
+    "para": 3,
+    "t": "Oracle's Paris region sits at the same location, with CyrusOne PAR1 about two kilometres away and Equinix's xScale Saint-Denis campus nearby.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://lacourneuve.fr/sites/default/files/2019-06/3-PAR_8_Notice_explicative_succincte.pdf",
+   "https://www.cnews.fr/france/2020-10-13/la-construction-du-plus-grand-data-center-de-france-commence-la-courneuve-1007176",
+   "https://en.wikipedia.org/wiki/Interxion",
+   "https://www.solutions-numeriques.com/digital-realty-passe-au-refroidissement-par-eau-pour-son-datacenter-parisien-face-a-laugmentation-de-la-densite-des-equipements-hpc-des-clients/"
+  ],
+  "unconfirmed": "Searches on Interxion with PAR8, on La Courneuve with data centre, and on Paris with data centre riverains found no resident or official quoted by name, no water withdrawal figure, and no account of what happened after the 2015 tribunal order. Whether the heat recovery scheme has been connected was not established. The 2013 and 2015 lawsuits and the tribunal ruling were read through an encyclopaedia entry rather than contemporary reporting."
+ },
+ {
+  "id": "research-teraco-bredell",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Teraco's JB4 at the Bredell campus, east of Johannesburg near Kempton Park, is the largest standalone data centre built in Africa.",
+    "src": "https://www.teraco.co.za/news/teraco-completes-significant-jb4-hyperscale-data-centre-expansion-incorporating-new-sustainability-designs/"
+   },
+   {
+    "para": 0,
+    "t": "The expansion announced on August 12, 2025 added 30 megawatts of critical IT load, bringing the building to 50 megawatts against an 80 megawatt utility supply. It covers 80,000 square metres with 14 data halls and 17,000 square metres of hall space, each hall carrying 5 megawatts of critical IT load.",
+    "src": "https://www.teraco.co.za/news/teraco-completes-significant-jb4-hyperscale-data-centre-expansion-incorporating-new-sustainability-designs/"
+   },
+   {
+    "para": 1,
+    "t": "Six of the new halls are built for liquid to liquid cooling, on a closed loop chilled water system with free air cooling and AI controlled configuration. Teraco says the arrangement consumes no water during ongoing cooling.",
+    "src": "https://www.teraco.co.za/news/teraco-completes-significant-jb4-hyperscale-data-centre-expansion-incorporating-new-sustainability-designs/"
+   },
+   {
+    "para": 1,
+    "t": "Chief executive Jan Hnizdo said: \"South Africa has become the technology and data centre hub for sub-Saharan Africa, acting as a springboard for cloud, AI and content provision into Africa.\"",
+    "src": "https://www.teraco.co.za/news/teraco-completes-significant-jb4-hyperscale-data-centre-expansion-incorporating-new-sustainability-designs/"
+   },
+   {
+    "para": 2,
+    "t": "Vantage's 20 megawatt JNB2 at Isando, a second Vantage Johannesburg site, and Oracle's and Huawei's Johannesburg sites are all about 11 kilometres away, with Vantage's 80 megawatt JNB1 at Waterfall City about 18 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.teraco.co.za/news/teraco-completes-significant-jb4-hyperscale-data-centre-expansion-incorporating-new-sustainability-designs/"
+  ],
+  "unconfirmed": "The claim of zero water use in cooling is Teraco's own and was not independently checked. No investment figure, employment number or account of how the 80 megawatt utility supply is secured from Eskom was found, and no South African local coverage of the site's effect on Kempton Park, supportive or critical, was reached. Our record gives the campus 64 megawatts where the company gives JB4 alone 50."
+ },
+ {
+  "id": "blocked-cerrillos-2024-09-17",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Residents of Cerrillos fought Google's data centre for four years and won.",
+    "src": "https://restofworld.org/2024/data-centers-environmental-issues/"
+   },
+   {
+    "para": 0,
+    "t": "After demonstrations by the group Mosacat between 2019 and 2023, Santiago's environmental tribunal suspended the project and required Google to reassess its environmental impact. The scheme covered 23 hectares and about $200 million, and the ruling against it is dated September 17, 2024.",
+    "src": "data:blocked.size"
+   },
+   {
+    "para": 1,
+    "t": "The objection was water, in a country that has been in drought since 2010 with forecasts running to 2040. A data centre drawing one megawatt needs roughly 25 million litres of water a year.",
+    "src": "https://restofworld.org/2024/data-centers-environmental-issues/"
+   },
+   {
+    "para": 1,
+    "t": "Google's existing site at Quilicura was authorised to take 50 litres a second, more than a billion litres a year by 2018. The proposed second site would have taken 228 litres a second, over 7 billion litres a year.",
+    "src": "https://restofworld.org/2024/data-centers-environmental-issues/"
+   },
+   {
+    "para": 1,
+    "t": "Tania Rodriguez of Mosacat said of the industry: \"It's turned into extractivism. We end up being everybody's backyard.\"",
+    "src": "https://restofworld.org/2024/data-centers-environmental-issues/"
+   },
+   {
+    "para": 2,
+    "t": "Google is not gone from Cerrillos. An operating Google site stands about 2 kilometers away, with Aligned's San Joaquin site about 3 kilometers away, Oracle's Santiago region about 11 kilometers away and the AWS Padre Hurtado campus about 12 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "In May 2024 President Gabriel Boric announced 28 new data centres coming to Chile, promised they would be environmentally responsible, and committed to a national regulation plan.",
+    "src": "https://restofworld.org/2024/data-centers-environmental-issues/"
+   }
+  ],
+  "sources": [
+   "https://restofworld.org/2024/data-centers-environmental-issues/",
+   "https://www.elciudadano.com/chile/google-abandona-proyecto-de-data-center-en-cerrillos-tras-fallo-ambiental-comenzara-nueva-iniciativa/09/17/"
+  ],
+  "unconfirmed": "The Chilean report that Google abandoned the original design after the ruling and would start a new initiative could not be retrieved, so Google's own response is not quoted here and it is unclear what, if anything, has replaced the scheme. Our record dates the ruling to September 2024 while the account used here places the tribunal's suspension after protests running to 2023, and the two were not reconciled."
+ },
+ {
+  "id": "blocked-iver-buckinghamshire-2026-01-22",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The British government approved this data centre over the objections of the local council, and then admitted in court that it had got the decision wrong.",
+    "src": "https://www.foxglove.org.uk/2026/01/22/uk-government-admits-serious-error-data-centre/"
+   },
+   {
+    "para": 0,
+    "t": "Greystoke had proposed a hyperscale data centre at Woodlands Park near Iver in Buckinghamshire, put at 90 megawatts and 1 billion pounds. Buckinghamshire Council refused it, and ministers overruled the refusal the previous year.",
+    "src": "data:blocked.size"
+   },
+   {
+    "para": 1,
+    "t": "The technology justice group Foxglove and the environmental charity Global Action Plan brought what they describe as the first legal challenge in the United Kingdom to a hyperscale data centre. They argued the government had failed to properly assess the energy use and environmental impact, and that the decision contained no binding environmental protections, with a single paragraph addressing the site's power consumption.",
+    "src": "https://www.foxglove.org.uk/2026/01/22/uk-government-admits-serious-error-data-centre/"
+   },
+   {
+    "para": 1,
+    "t": "In the week to January 22, 2026 government lawyers accepted that the permission should be quashed, conceding they had not put in place measures to hold the developer and operator to their climate commitments. The High Court planning appeal was heard on January 22.",
+    "src": "https://www.foxglove.org.uk/2026/01/22/uk-government-admits-serious-error-data-centre/"
+   },
+   {
+    "para": 2,
+    "t": "Rosa Curling, co-executive director of Foxglove, said ministers had been \"putting the profits of Trump-supporting tech billionaires ahead of the interests of the British public.\"",
+    "src": "https://www.foxglove.org.uk/2026/01/22/uk-government-admits-serious-error-data-centre/"
+   },
+   {
+    "para": 2,
+    "t": "Sonja Graham, chief executive of Global Action Plan, said: \"Silicon Valley abandoned its green sheen the moment AI data centres started to proliferate.\"",
+    "src": "https://www.foxglove.org.uk/2026/01/22/uk-government-admits-serious-error-data-centre/"
+   },
+   {
+    "para": 3,
+    "t": "The site sits inside the Slough data centre belt. CyrusOne's Iver Heath site is about 4 kilometres away, CyrusOne LON2 about 5 kilometres away, Vantage London I about 7 kilometres away, and CyrusOne LON1 and LON3 about 8 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.foxglove.org.uk/2026/01/22/uk-government-admits-serious-error-data-centre/"
+  ],
+  "unconfirmed": "The account used here comes from one of the two groups that brought the challenge. Neither the government nor Greystoke is quoted in reply, and it is not established what happened after the permission was quashed, whether the application was redetermined, or whether Greystoke has reapplied. No local resident of Iver appears in the source."
+ },
+ {
+  "id": "blocked-edinburgh-south-gyle-former-rbs-hq-site-2026-02-09",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The developer called it a green data centre. Edinburgh's councillors did not accept that, and rejected it unanimously.",
+    "src": "https://datacentrereview.com/2026/02/edinburgh-council-rejects-green-data-centre-plan-for-former-rbs-hq-site/"
+   },
+   {
+    "para": 0,
+    "t": "Shelborn Asset Management had proposed the building, put at 210 megawatts, on the former Royal Bank of Scotland headquarters site at South Gyle, on Redheughs Avenue in Edinburgh Park. The council's development management sub-committee refused it on February 5, 2026.",
+    "src": "data:blocked.size"
+   },
+   {
+    "para": 1,
+    "t": "Shelborn had offered to use waste heat from the data centre to supply homes and offices at Edinburgh Park, and to create a new public park.",
+    "src": "https://datacentrereview.com/2026/02/edinburgh-council-rejects-green-data-centre-plan-for-former-rbs-hq-site/"
+   },
+   {
+    "para": 1,
+    "t": "Green councillor Alys Mumford led the challenge to the environmental case, saying the proposal lacked detail on where its renewable power would come from, how it would cool efficiently, and how much water it would use.",
+    "src": "https://datacentrereview.com/2026/02/edinburgh-council-rejects-green-data-centre-plan-for-former-rbs-hq-site/"
+   },
+   {
+    "para": 1,
+    "t": "On the waste heat offer she said: \"Re-use of heat is the really key one for me. We were told by the applicants this was one of the main advantages for the council. We are nowhere near being able to realise this currently, so we have to discount that at the moment.\"",
+    "src": "https://datacentrereview.com/2026/02/edinburgh-council-rejects-green-data-centre-plan-for-former-rbs-hq-site/"
+   },
+   {
+    "para": 2,
+    "t": "The council also found the scheme at odds with Edinburgh Park's policy direction toward mixed use development, objected to the loss of about a quarter of the trees on the site, and called the building unacceptably large and dominant on the skyline.",
+    "src": "https://datacentrereview.com/2026/02/edinburgh-council-rejects-green-data-centre-plan-for-former-rbs-hq-site/"
+   },
+   {
+    "para": 3,
+    "t": "Nothing else of the kind is recorded within 40 kilometres of the site.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://datacentrereview.com/2026/02/edinburgh-council-rejects-green-data-centre-plan-for-former-rbs-hq-site/"
+  ],
+  "unconfirmed": "The source does not give the capacity, so the 210 megawatt figure comes from our own record, and it gives the refusal date as February 5 where our record has February 9. No investment figure was published, Shelborn is not quoted in reply, no local resident or objector appears, and whether the company has appealed is not known."
+ },
+ {
+  "id": "blocked-montour-county-2026-02-10",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Talen Energy owns a power plant in Montour County and wanted to put a data center next to it. The county commissioners said no, 3 to 0.",
+    "src": "https://insideclimatenews.org/news/11022026/pennsylvania-talen-energy-data-center-rezoning-denied/"
+   },
+   {
+    "para": 0,
+    "t": "The vote came on Tuesday, February 10, 2026, and blocked the rezoning of more than 800 acres from agricultural to industrial, on land beside the company's existing coal and gas fired plant in central Pennsylvania.",
+    "src": "https://insideclimatenews.org/news/11022026/pennsylvania-talen-energy-data-center-rezoning-denied/"
+   },
+   {
+    "para": 1,
+    "t": "Commission chair Rebecca Dressler gave the reason: \"No evidence was provided demonstrating that the benefits outweigh documented and foreseeable public harms.\" She said Talen had not met its burden of proof.",
+    "src": "https://insideclimatenews.org/news/11022026/pennsylvania-talen-energy-data-center-rezoning-denied/"
+   },
+   {
+    "para": 1,
+    "t": "Ginny Kerslake, eastern Pennsylvania organiser for Food & Water Watch, called it a David and Goliath moment: \"Thanks to the incredible work of a community that tirelessly showed up and spoke out over the past several months, the request to rezone almost 1000 acres of farmland to industrial for a gas power plant expansion and data centers was unanimously denied.\"",
+    "src": "https://insideclimatenews.org/news/11022026/pennsylvania-talen-energy-data-center-rezoning-denied/"
+   },
+   {
+    "para": 2,
+    "t": "Talen said it remained \"committed to pursuing a path forward in Montour County,\" and that the refusal gave it time to \"listen, incorporate feedback from the Commissioners, engage with the community, and refine our plans so they reflect local priorities.\" The company has not dropped the idea.",
+    "src": "https://insideclimatenews.org/news/11022026/pennsylvania-talen-energy-data-center-rezoning-denied/"
+   },
+   {
+    "para": 3,
+    "t": "The 1,504 megawatt Talen Energy Montour plant is about 5 kilometers from the site. A suspended Amazon data center sits about 5 kilometers away, another suspended project about 22 kilometers away and one under construction at Muncy about 25 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Townships across the area have been setting their own limits, with a moratorium and zoning limits at Madison Township, and zoning limits at Pine Creek Township, Black Creek Township, Hazle Township and Nescopeck Borough.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://insideclimatenews.org/news/11022026/pennsylvania-talen-energy-data-center-rezoning-denied/"
+  ],
+  "unconfirmed": "The source dates the vote to February 11 where our record has February 10. No capacity in megawatts, building count, investment figure or timeline for the proposed data center was published, and no resident of Montour County is quoted directly. Why the nearby Amazon project is suspended was not established."
+ }
+]

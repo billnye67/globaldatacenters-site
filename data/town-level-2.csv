@@ -1,0 +1,161 @@
+id;name;address;country
+epoch-openai-stargate-new-mexico;OpenAI Stargate New Mexico;Project Jupiter, Santa Teresa, Dona Ana County, NM 88008;United States
+epoch-openai-stargate-shackelford;OpenAI Stargate Shackelford;175 Private Road 1604, Shackelford County, TX 79601;United States
+gemini-google-doha;Google Doha;Doha, Ad Dawhah, Qatar;Qatar
+gemini-digital-realty-sjc37;Digital Realty SJC37;Santa Clara, California, United States;United States
+gemini-iren-sweetwater-1;IREN Sweetwater 1;883 FM 611, Sweetwater, TX 79556;United States
+gemini-iren-childress;IREN Childress;620 FM 1033, Childress, TX 79201;United States
+gemini-yotta-greater-noida;Yotta Greater Noida;Plot No. 7, Tusiana Village, Knowledge Park V, Greater Noida, Uttar Pradesh 201301, India;India
+research-scala-bahia;Scala Bahia;Polo Industrial de Camacari, Camacari, Bahia, Brazil;Brazil
+research-aws-european-sovereign-cloud;AWS European Sovereign Cloud;Brandenburg, Brandenburg, Germany;Germany
+research-brookfield-data4-escaudain;Brookfield/Data4 Escaudain;Parc des Soufflantes, 59124 Escaudain, France;France
+research-atnorth-haugaland;atNorth Haugaland;Haugaland, Rogaland, Norway;Norway
+research-microsoft-finland-pure-dc-seinajoki;Microsoft Finland (Pure DC Seinajoki);Roveksenraitti, 60100 Seinajoki, Finland;Finland
+research-culham-data-centre;Culham AI Data Centre;Culham Science Centre, Abingdon OX14 3DB, UK;United Kingdom
+research-humain-dammam;HUMAIN Dammam;Dammam 3rd Industrial City, Dammam, Saudi Arabia;Saudi Arabia
+research-reliance-jamnagar-data-centre;Reliance Jamnagar AI Data Centre;Dhirubhai Ambani Green Energy Giga Complex, Jamnagar, Gujarat 361142, India;India
+research-haenam-national-computing-center;Haenam National AI Computing Center;Solasido Smart City, Haenam-gun, Jeollanam-do, South Korea;South Korea
+research-envision-galaxy-ulanqab;Envision Galaxy Ulanqab;Chahar High-tech Industrial Development Zone, Ulanqab, Inner Mongolia, China;China
+research-deepseek-ulanqab;DeepSeek Ulanqab;Chahar High-tech Industrial Development Zone, Ulanqab, Inner Mongolia, China;China
+research-open-access-dc-lagos-lekki;Open Access DC Lagos (Lekki);Lekki Peninsula II, Lekki, Lagos, Nigeria;Nigeria
+research-naver-nvidia-tamesna;Naver/NVIDIA Tamesna AI Campus;Parc Industriel de Tamesna, Tamesna, Morocco;Morocco
+research-dakhla-500mw;Dakhla 500MW hyperscale;N1, Dakhla, Morocco;Morocco
+research-neoix-new-administrative-capital-dc;NEOIX New Administrative Capital DC;Knowledge City, New Administrative Capital, Egypt;Egypt
+gemini-aws-threemile-exascale;AWS Threemile Exascale;Oregon, United States;United States
+google-google-muhos;Google Muhos;Tahvola, 91500 Muhos, Finland;Finland
+google-google-chateauroux;Google Chateauroux;Parc d'activites Ozans, Route de Deols, 36130 Montierchaume, France;France
+google-google-valer;Google Valer;Gylderasen, 1592 Valer i Ostfold, Norway;Norway
+amazon-aws-new-albany-crosby-court;AWS New Albany Crosby Court;6665 Crosby Ct, New Albany, OH 43054;United States
+amazon-aws-arlington-oregon;AWS Arlington Oregon;Arlington, OR 97812;United States
+amazon-aws-louisa-county-third;AWS Louisa County Third Campus;Louisa County, VA;United States
+amazon-aws-becker-minnesota;AWS Becker Minnesota;Becker, MN 55308;United States
+amazon-aws-dublin-mulhuddart;AWS Dublin Mulhuddart;Cruiserath Rd, Blanchardstown, Dublin 15, Ireland;Ireland
+amazon-aws-villanueva-de-gallego;AWS Villanueva de Gallego;Poligono Industrial San Roque, 50830 Villanueva de Gallego, Spain;Spain
+amazon-aws-schoeneck;AWS Schoeneck;L3392, Kilianstadten, 61137 Schoneck, Germany;Germany
+amazon-aws-tnuvot;AWS Tnuvot;Tnuvot Industrial Zone, Route 57, Israel;Israel
+amazon-aws-ulsan-sk-group;AWS Ulsan (SK Group);110 Cheonggu-ro, Nam-gu, Ulsan, South Korea;South Korea
+amazon-aws-kutanegara-west-java;AWS Kutanegara (West Java);Kutanegara, Ciampel, Karawang, West Java 41363, Indonesia;Indonesia
+apple-apple-prineville;Apple Prineville;1600 SW Apple Way, Prineville, OR 97754;United States
+apple-apple-viborg;Apple Viborg;Foulum, 8830 Tjele, Denmark;Denmark
+developers-vantage-tokyo-sagamihara;Vantage Tokyo (Sagamihara);Minami-ku, Sagamihara, Kanagawa 252-0312, Japan;Japan
+cyrusone-cyrusone-frankfurt-fra5;CyrusOne Frankfurt FRA5;Industrieweg 45, 60487 Frankfurt am Main, Germany;Germany
+cyrusone-cyrusone-osaka-osk1;CyrusOne Osaka OSK1;Hikaridai 9-chome, Seika-cho, Soraku-gun, Kyoto 619-0237, Japan;Japan
+developers3-qts-calatorao;QTS Calatorao;Poligono Industrial Calatorao, 50280 Calatorao, Spain;Spain
+developers3-qts-forssa;QTS Forssa;Kukonharja, 30100 Forssa, Finland;Finland
+developers3-qts-hall-county-texas;QTS Hall County Texas;Hall County, TX;United States
+developers3-qts-phoenix-2;QTS Phoenix 2;Phoenix, AZ;United States
+developers3-qts-porter-county;QTS Porter County;Porter County, IN;United States
+developers3-qts-salem-township;QTS Salem Township;Salem Township, Luzerne County, PA;United States
+developers3-qts-south-dallas-wilmer;QTS South Dallas (Wilmer);Wilmer, TX 75172;United States
+developers3-stack-tokyo-inzai-tky01;STACK Tokyo (Inzai TKY01);1-chome Hara, Inzai, Chiba 270-1337, Japan;Japan
+developers3-stack-osaka-kix01;STACK Osaka (KIX01);Hikaridai 3-chome, Seika-cho, Soraku-gun, Kyoto 619-0237, Japan;Japan
+neoclouds-iren-sweetwater-2;IREN Sweetwater 2;FM 1657 & County Rd 153, Rotan, Fisher County, TX 79546;United States
+vantage-vantage-osaka;Vantage Osaka;Osaka, Japan;Japan
+aligned-aligned-caprock-abernathy;Aligned Project Caprock (Abernathy);Abernathy, Hale County, TX 79311;United States
+compass-compass-milan;Compass Milan;SP139, 20082 Noviglio, Italy;Italy
+digitalrealty-buildings-digital-realty-maputo-mpm1;Digital Realty Maputo MPM1;Maputo, Mozambique;Mozambique
+digitalrealty-buildings-digital-realty-accra-acr2;Digital Realty Accra ACR2;Accra, Ghana;Ghana
+digitalrealty-digital-realty-seoul-icn10-sangam;Digital Realty Seoul (ICN10 Sangam);22 World Cup buk-ro 56-gil, Mapo-gu, Seoul 03923, South Korea;South Korea
+digitalrealty-digital-realty-par15-dugny-digital-hub;Digital Realty PAR15 (Dugny Digital Hub);Chemin de la Motte, 93440 Dugny, France;France
+digitalrealty-mc-digital-realty-inzai-nrt12-nrt14;MC Digital Realty Inzai (NRT12/NRT14);3-chome Izumi, Inzai, Chiba 270-1356, Japan;Japan
+digitalrealty-mc-digital-realty-mitaka;MC Digital Realty Mitaka;Shimorenjaku, Mitaka, Tokyo 181-0013, Japan;Japan
+gemini-digital-realty-par8;Digital Realty PAR8;Paris, Ile-de-France, France;France
+equinix-equinix-xscale-mexico-city-mx3x;Equinix xScale Mexico City (MX3x);Parque Industrial Techno Industrial, Tepotzotlan, State of Mexico 54600, Mexico;Mexico
+equinix-equinix-orlando-connectivity-hub-or1;Equinix Orlando Connectivity Hub (OR1);9726 Touchstone Circle, Orlando, FL 32827;United States
+equinix-equinix-sofia-gateway-so1;Equinix Sofia Gateway (SO1);24 5th Street, Gara Iskar, Sofia 1528, Bulgaria;Bulgaria
+equinix-equinix-osaka-saito-connected-os1-os2-os3;Equinix Osaka Saito Connected Campus (OS1/OS2/OS3);1-chome Saito-Asagi, Ibaraki, Osaka 567-0085, Japan;Japan
+equinix-equinix-perth-gateway-pe1-pe2;Equinix Perth Gateway Campus (PE1/PE2);15-21 Absolute Loop, Malaga, WA 6090, Australia;Australia
+equinix-equinix-seoul-sangam-tech-sl1;Equinix Seoul Sangam Tech Campus (SL1);14 World Cup buk-ro 60-gil, Mapo-gu, Seoul 03922, South Korea;South Korea
+t5-t5-alliancetexas-fort-worth;T5 AllianceTexas (Fort Worth);AllianceTexas, Fort Worth, TX 76177;United States
+t5-t5-colorado-springs;T5 Colorado Springs;Colorado Springs, CO 80921;United States
+t5-t5-maiden-former-apple;T5 Maiden (former Apple);Maiden, NC 28650;United States
+t5-t5-chicago-iv-grayslake;T5 Chicago IV (Grayslake);Grayslake, Lake County, IL 60030;United States
+ntt-ntt-ashburn-va1-va9;NTT Ashburn Campus (VA1-VA9);22640 Davis Dr, Ashburn, VA 20147;United States
+ntt-ntt-milan;NTT Milan;Via Breda 42, 20090 San Giuliano Milanese, Italy;Italy
+ntt-ntt-tokyo-inzai-shiroi-tky12-shr1;NTT Tokyo Inzai-Shiroi (TKY12 / SHR1);Shiroi, Chiba 270-1400, Japan;Japan
+ntt-ntt-tochigi-inter-industrial-park;NTT Tochigi Inter Industrial Park;Kagahara, Utsunomiya, Tochigi 321-3325, Japan;Japan
+ntt-ntt-yokohama-1;NTT Yokohama 1;Yokohama, Japan;Japan
+ntt-ntt-osaka-north-1-osk12-ibaraki;NTT Osaka North 1 (OSK12 Ibaraki);Saito-Asagi, Ibaraki, Osaka 567-0085, Japan;Japan
+ntt-ntt-keihanna-osk11;NTT Keihanna (OSK11);Hikaridai, Seika-cho, Soraku-gun, Kyoto 619-0237, Japan;Japan
+ntt-ntt-kolkata;NTT Kolkata Campus;Block GP, Sector V, Salt Lake, Kolkata, West Bengal 700091, India;India
+ntt-ntt-gelang-patah-johor;NTT Gelang Patah (Johor);Taman Teknologi Johor, 81550 Gelang Patah, Johor, Malaysia;Malaysia
+ntt-ntt-ho-chi-minh-city-1;NTT Ho Chi Minh City 1;19 Tan Thuan, Tan Thuan Dong, District 7, Ho Chi Minh City, Vietnam;Vietnam
+ironmountain-iron-mountain-pune-pun-1;Iron Mountain Pune (PUN-1);Phase III, Hinjewadi Rajiv Gandhi Infotech Park, Pune, Maharashtra 411057, India;India
+tract-tract-virginia-highlands-storey-county;Tract Virginia Highlands (Storey County);Storey County, NV 89434;United States
+powerhouse-powerhouse-caldwell-county-uhland;PowerHouse Caldwell County (Uhland);Uhland, Caldwell County, TX 78640;United States
+powerhouse-powerhouse-carlisle-pax-1;PowerHouse Carlisle (PAX-1);Carlisle, Cumberland County, PA 17013;United States
+databank-databank-other-edge-markets-zcolo-legacy-18-metros;DataBank other edge markets (zColo legacy, 18 metros);United States;United States
+amazon-regions-aws-bahrain-region-manama;AWS Bahrain Region (Manama);Manama, Bahrain;Bahrain
+amazon-regions-aws-thailand-region-bangkok;AWS Thailand Region (Bangkok);80/1 Moo 9, Bang Phut, Pak Kret, Nonthaburi 11120, Thailand;Thailand
+amazon-regions-aws-tel-aviv-region;AWS Tel Aviv Region;Tel Aviv, Israel;Israel
+amazon-regions-aws-china-ningxia-region-nwcd;AWS China Ningxia Region (NWCD);Western Cloud Base, Shapotou District, Zhongwei, Ningxia, China;China
+oracle-regions-oracle-cloud-region-paris;Oracle Cloud Region Paris;Paris, France;France
+oracle-regions-oracle-cloud-region-riyadh;Oracle Cloud Region Riyadh;Al Malaz, Riyadh 12629, Saudi Arabia;Saudi Arabia
+oracle-regions-oracle-cloud-region-dubai;Oracle Cloud Region Dubai;Dubai Production City (IMPZ), Dubai, UAE;United Arab Emirates
+oracle-regions-oracle-cloud-region-abu-dhabi;Oracle Cloud Region Abu Dhabi;Masdar City Blvd, Masdar City, Abu Dhabi, UAE;United Arab Emirates
+oracle-regions-oracle-cloud-region-tokyo;Oracle Cloud Region Tokyo;2-11-24 Otemachi, Chiyoda-ku, Tokyo 100-0004, Japan;Japan
+oracle-regions-oracle-cloud-region-seoul;Oracle Cloud Region Seoul;233-5 Mokdongdong-ro, Yangcheon-gu, Seoul 07997, South Korea;South Korea
+oracle-regions-oracle-cloud-region-chuncheon;Oracle Cloud Region Chuncheon;100 Dongmyeon-ro, Dong-myeon, Chuncheon, Gangwon-do 24209, South Korea;South Korea
+coreweave-coreweave-sweden-ecodatacenter-falun;CoreWeave Sweden (EcoDataCenter Falun);Trafikgatan 11, 791 62 Falun, Sweden;Sweden
+coreweave-coreweave-horizon-west-texas;CoreWeave Project Horizon (West Texas);FM 1233, Oldham County, TX 79092;United States
+crusoe-crusoe-second-1gw-undisclosed;Crusoe second 1GW+ campus (undisclosed);United States;United States
+applieddigital-applied-digital-toronto-south-dakota;Applied Digital Toronto (South Dakota);East of Toronto, Deuel County, SD 57268;United States
+iren-iren-galicia-green-curtis-spain;IREN Galicia Green (Curtis, Spain);Poligono Industrial de Curtis-Teixeiro, 15310 Teixeiro, A Coruna, Spain;Spain
+cipher-cipher-ulysses;Cipher Ulysses;Texas;United States
+cipher-cipher-apollo-san-antonio-option;Cipher Apollo (San Antonio option);Within 25 miles of San Antonio, TX;United States
+nebius-nebius-kansas-city-colocation;Nebius Kansas City (colocation);14100 Horizon Cir, Kansas City, MO 64163;United States
+nebius-nebius-keflavik-iceland;Nebius Keflavik (Iceland);Keflavik, Iceland;Iceland
+fluidstack-fluidstack-bosquel-france-cancelled;Fluidstack Bosquel (France, cancelled);80160 Bosquel, France;France
+xai-xai-saudi-arabia-humain-500mw;xAI Saudi Arabia (HUMAIN 500MW);Riyadh, Saudi Arabia;Saudi Arabia
+stargate-stargate-korea-sk-group;Stargate Korea (SK Group);Sepoong Industrial Park, Gwangyang, Jeollanam-do, South Korea;South Korea
+airtrunk-airtrunk-tok1-inzai;AirTrunk TOK1 (Inzai);1150-1 Inzai, Inzai-shi, Chiba 270-1337, Japan;Japan
+airtrunk-airtrunk-osk1-osaka-west-amagasaki;AirTrunk OSK1 (Osaka West, Amagasaki);1-2-3 Nagasunishidori, Amagasaki, Hyogo 660-0807, Japan;Japan
+airtrunk-airtrunk-mum1-mumbai;AirTrunk MUM1 (Mumbai);Mumbai, Maharashtra, India;India
+tencent-tencent-qingyuan-qingxin;Tencent Qingyuan Qingxin Campus;Longwan Yiheng Rd, Taiping Town, Qingxin District, Qingyuan, Guangdong, China;China
+tencent-tencent-chongqing-cloud-computing-shuitu;Tencent Chongqing Cloud Computing Data Center (Shuitu);Shuitu Hi-tech Industrial Park, Liangjiang New Area, Chongqing, China;China
+tencent-tencent-shanghai-qingpu;Tencent Shanghai Qingpu Campus;Qingpu Industrial Zone, Huaxin Town, Qingpu District, Shanghai, China;China
+tencent-tencent-shenzhen-shantou-cooperation-zone;Tencent Shenzhen-Shantou Cooperation Zone Campus;66 Chuangyuan Rd, Ebu Town, Shenzhen-Shantou Special Cooperation Zone, Guangdong, China;China
+tencent-tencent-gui-an-seven-stars-guizhou-mountain-caves;Tencent Gui'an Seven Stars (Guizhou mountain caves);Tianquan Rd, Gui'an New Area, Guizhou, China;China
+tencent-tencent-yidu-hubei;Tencent Yidu Campus (Hubei);Yidu High-tech Industrial Park, Yidu, Yichang, Hubei, China;China
+tencent-tencent-cloud-zhongwei-ningxia;Tencent Cloud Zhongwei (Ningxia);Western Cloud Base, Shapotou District, Zhongwei, Ningxia, China;China
+tencent-tencent-cloud-nanjing;Tencent Cloud Nanjing;666 Kexue 2nd Rd, Jiangning District, Nanjing, Jiangsu, China;China
+tencent-tencent-cloud-mumbai;Tencent Cloud Mumbai;G Block, Bandra Kurla Complex, Mumbai, Maharashtra 400051, India;India
+tencent-tencent-cloud-seoul;Tencent Cloud Seoul;187 Gasan digital 1-ro, Geumcheon-gu, Seoul 08503, South Korea;South Korea
+tencent-tencent-cloud-riyadh;Tencent Cloud Riyadh;Al Malaz, Riyadh, Saudi Arabia;Saudi Arabia
+huawei-huawei-cloud-gui-an-guizhou;Huawei Cloud Gui'an Data Center (Guizhou);1 Shugu Ave, Gui'an New Area, Guizhou, China;China
+huawei-huawei-cloud-ulanqab;Huawei Cloud Ulanqab Campus;Wenyuan Rd, Chahar High-tech Industrial Development Zone, Ulanqab, Inner Mongolia, China;China
+huawei-huawei-cloud-riyadh;Huawei Cloud Riyadh;Al Mursalat, Riyadh 12461, Saudi Arabia;Saudi Arabia
+huawei-huawei-cloud-cairo;Huawei Cloud Cairo;Smart Village, Km 28 Cairo-Alexandria Desert Rd, Giza 12577, Egypt;Egypt
+huawei-huawei-cloud-beijing-2-regions;Huawei Cloud Beijing (2 regions);Beijing, China;China
+huawei-huawei-cloud-shanghai;Huawei Cloud Shanghai;Shanghai, China;China
+huawei-huawei-cloud-guangzhou;Huawei Cloud Guangzhou;Guangzhou, China;China
+huawei-huawei-cloud-shenzhen;Huawei Cloud Shenzhen;Shenzhen, China;China
+huawei-huawei-cloud-hangzhou;Huawei Cloud Hangzhou;Hangzhou, China;China
+huawei-huawei-cloud-nanjing;Huawei Cloud Nanjing;Nanjing, China;China
+huawei-huawei-cloud-chengdu;Huawei Cloud Chengdu;Chengdu, China;China
+huawei-huawei-cloud-chongqing;Huawei Cloud Chongqing;Shuitu High-tech Industrial Park, Liangjiang New Area, Chongqing, China;China
+huawei-huawei-cloud-qingdao;Huawei Cloud Qingdao;Qingdao, China;China
+huawei-huawei-cloud-xi-an;Huawei Cloud Xi'an;Xi'an, China;China
+huawei-huawei-cloud-changsha;Huawei Cloud Changsha;Changsha, China;China
+huawei-huawei-cloud-fuzhou;Huawei Cloud Fuzhou;Fuzhou, China;China
+huawei-huawei-cloud-wuhan;Huawei Cloud Wuhan;Wuhan, China;China
+bytedance-bytedance-ceara-brazil-omnia;ByteDance Ceara Campus (Brazil, Omnia);Complexo Industrial e Portuario do Pecem, Sao Goncalo do Amarante, Ceara, Brazil;Brazil
+bytedance-tiktok-ireland-dublin-clover;TikTok Ireland (Dublin, Project Clover);Echelon DUB20, Clondalkin Industrial Estate, Dublin 22, Ireland;Ireland
+bytedance-tiktok-finland-clover;TikTok Finland (Project Clover);Hyperco Hamina campus, 49400 Hamina, Finland;Finland
+bytedance-tiktok-us-oracle-hosted-texas;TikTok US (Oracle-hosted, Project Texas);Texas, United States;United States
+chinamobile-china-mobile-beijing-international-information-port-changping;China Mobile Beijing International Information Port (Changping);32 Chenghong Rd, Changping District, Beijing 102200, China;China
+chinamobile-china-mobile-shanghai;China Mobile Shanghai Data Center;1512 Lijun Rd, Shuyuan Town, Pudong, Shanghai, China;China
+chinamobile-china-mobile-chongqing-shuitu;China Mobile Chongqing Campus (Shuitu);Shuitu High-tech Industrial Park, Liangjiang New Area, Chongqing, China;China
+chinamobile-china-mobile-port-dickson-malaysia;China Mobile Port Dickson (Malaysia);Malaysia Vision Valley 2.0, 71000 Port Dickson, Negeri Sembilan, Malaysia;Malaysia
+chinamobile-china-mobile-us-expansion-fcc-denied;China Mobile US expansion (FCC denied);United States;United States
+khazna-khazna-auh1-masdar-city;Khazna AUH1 (Masdar City);Masdar City Blvd, Masdar City, Abu Dhabi, UAE;United Arab Emirates
+khazna-khazna-auh4-mafraq;Khazna AUH4 (Mafraq);Al Mafraq Industrial Area, Abu Dhabi, UAE;United Arab Emirates
+khazna-khazna-saudi-arabia-2-sites;Khazna Saudi Arabia (2 sites);Riyadh Information Technology Zone, Riyadh, Saudi Arabia;Saudi Arabia
+humain-humain-stc-center3-jv-up-to-1gw;HUMAIN / stc center3 JV (up to 1GW);Saudi Arabia;Saudi Arabia
+humain-humain-211-plot-land-bank-6gw-plan;HUMAIN 211-plot land bank (6GW plan);Saudi Arabia;Saudi Arabia
+humain-humain-datavolt-oxagon-neom;HUMAIN / DataVolt Oxagon Campus (NEOM);Oxagon Industrial City, NEOM, Saudi Arabia;Saudi Arabia
+yotta-yotta-chennai-park-ch1;Yotta Chennai Data Center Park (CH1);Singaperumal-Oragadam Hwy, Vadakkupattu, Oragadam, Tamil Nadu 603204, India;India
+yotta-yotta-pune;Yotta Pune;Plot 2, Software Technology Park, MIDC, Dighi, Pune, Maharashtra 411015, India;India
+dayone-dayone-spain-barcelona-zaragoza;DayOne Spain (Barcelona / Zaragoza);Spain;Spain
+keppel-keppel-taiwan-dc-taoyuan;Keppel Taiwan DC Campus (Taoyuan);109 Baoshi St, Taoyuan, Taiwan;Taiwan
+data4-data4-luxembourg-3-sites-ex-secure-it;Data4 Luxembourg (3 sites, ex-Secure IT);Luxembourg;Luxembourg

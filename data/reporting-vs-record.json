@@ -1,0 +1,2025 @@
+[
+ {
+  "id": "amazon-aws-horizon-junction-floydada",
+  "name": "AWS Horizon Junction (Floydada)",
+  "page": "/project/aws-horizon-junction-floydada-floydada-texas/",
+  "record": {
+   "address": "1782 County Rd 241, Floydada, TX 79235",
+   "county": "Crosby",
+   "state": "Texas",
+   "country": "United States",
+   "capacity_mw": null,
+   "capacity_note": null,
+   "coords": {
+    "lat": 33.769782,
+    "lng": -101.08654
+   },
+   "exact_location": true,
+   "dataset": "research: amazon.csv"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Crosby County",
+    "reported": "Floyd County",
+    "sentence": "Our own record files this site in Crosby County. The permit filings place Floydada in Floyd County, and that is where the town sits.",
+    "source": "data:county",
+    "tier": "flagged"
+   },
+   {
+    "kind": "county",
+    "ours": "Crosby County",
+    "reported": "Floydada County",
+    "sentence": "The land is currently the Floydada County Club, a nine hole semi-private golf course.",
+    "source": "https://usdatacenterprojects.com/texas/amazon-files-plans-for-new-data-center-buildings-in-texas-across-three-sites",
+    "tier": "likely"
+   }
+  ],
+  "all_sources": [
+   "https://usdatacenterprojects.com/texas/amazon-files-plans-for-new-data-center-buildings-in-texas-across-three-sites",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ]
+ },
+ {
+  "id": "blocked-alixan-rovaltain-2026-07-10",
+  "name": "Sesterce · Alixan",
+  "page": "/project/sesterce-alixan-alixan-auvergne-rhone-alpes/",
+  "record": {
+   "address": "Alixan, Auvergne-Rhone-Alpes, France",
+   "county": null,
+   "state": null,
+   "country": "France",
+   "capacity_mw": 40,
+   "coords": {
+    "lat": 44.9753,
+    "lng": 5.0277
+   },
+   "exact_location": false,
+   "dataset": "blocked list (checked Sept 2026)"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 40,
+    "reported": 60,
+    "sentence": "The court recorded that the site needed a power supply of more than 60 megawatts, with backup generators of substantially higher thermal capacity. Our record puts the project at 40 megawatts and 1.5 billion euro.",
+    "source": "https://grenoble.tribunal-administratif.fr/decisions-de-justice/dernieres-decisions/suspension-du-projet-de-datacenter-a-alixan",
+    "tier": "flagged"
+   }
+  ],
+  "all_sources": [
+   "https://grenoble.tribunal-administratif.fr/decisions-de-justice/dernieres-decisions/suspension-du-projet-de-datacenter-a-alixan"
+  ]
+ },
+ {
+  "id": "blocked-kingsboro-edgecombe-county-2026-07-06",
+  "name": "Energy Storage Solutions · Kingsboro, Edgecombe County",
+  "page": "/project/energy-storage-solutions-kingsboro-edgecombe-county-edgecombe-county-north-carolina/",
+  "record": {
+   "address": "Kingsboro, Edgecombe County, North Carolina, United States",
+   "county": "Edgecombe",
+   "state": "North Carolina",
+   "country": "United States",
+   "capacity_mw": 300,
+   "coords": {
+    "lat": 35.9177,
+    "lng": -77.6716
+   },
+   "exact_location": false,
+   "dataset": "blocked list (checked Sept 2026)"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 300,
+    "reported": 900,
+    "sentence": "Our record lists a suspended 900 megawatt Kingsboro data center project about 8 kilometers away, and moratoriums in force at Bailey, Farmville, Wilson and Spring Hope.",
+    "source": "data:context.moratoriums_nearby",
+    "tier": "flagged"
+   }
+  ],
+  "all_sources": [
+   "https://www.bisnow.com/news/national/data-center-development/north-carolina-data-center-canceled-as-county-debates-moratorium-135338"
+  ]
+ },
+ {
+  "id": "blocked-travagliato-2026-09",
+  "name": "East Gate / Edge Gate · Travagliato",
+  "page": "/project/east-gate-edge-gate-travagliato-travagliato-lombardy/",
+  "record": {
+   "address": "Travagliato, Lombardy, Italy",
+   "county": null,
+   "state": null,
+   "country": "Italy",
+   "capacity_mw": 120,
+   "coords": {
+    "lat": 45.5234,
+    "lng": 10.0781
+   },
+   "exact_location": false,
+   "dataset": "blocked list (checked Sept 2026)"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 120,
+    "reported": 240,
+    "sentence": "The friction is regional. There have been recent protests against a 240 megawatt facility at nearby Magenta. Our record lists only Microsoft's Settala site, about 39 kilometres away, within range.",
+    "source": "https://idcnova.com/news/Plans-for-120MW-Data-Center-Withdrawn-in-Lombardy-Italy",
+    "tier": "flagged"
+   }
+  ],
+  "all_sources": [
+   "https://idcnova.com/news/Plans-for-120MW-Data-Center-Withdrawn-in-Lombardy-Italy"
+  ]
+ },
+ {
+  "id": "developers2-compass-raleigh-wake-county",
+  "name": "Compass Raleigh (Wake County)",
+  "page": "/project/compass-raleigh-wake-county-durham-north-carolina/",
+  "record": {
+   "address": "99 TW Alexander Dr, Durham, NC 27709",
+   "county": "Durham",
+   "state": "North Carolina",
+   "country": "United States",
+   "capacity_mw": null,
+   "capacity_note": null,
+   "coords": {
+    "lat": 35.897356,
+    "lng": -78.878804
+   },
+   "exact_location": true,
+   "dataset": "research: developers2.csv"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Durham County",
+    "reported": "Wake County",
+    "sentence": "Our own record names this project Compass Raleigh and places it in Wake County, but the address is TW Alexander Drive in Durham, and our county field says Durham.",
+    "source": "data:county",
+    "tier": "flagged"
+   },
+   {
+    "kind": "county",
+    "ours": "Durham County",
+    "reported": "Rowan County",
+    "sentence": "Charlotte adopted a 150 day pause, Rowan County a year, Orange County and Hillsborough their own, along with Chatham County and Boiling Spring Lakes in Brunswick County. Asheville and Fayetteville were weighing rules.",
+    "source": "https://carolinapublicpress.org/75853/data-centers-moratorium-fever-for-nc-local-governments/",
+    "tier": "likely"
+   },
+   {
+    "kind": "county",
+    "ours": "Durham County",
+    "reported": "Brunswick County",
+    "sentence": "Charlotte adopted a 150 day pause, Rowan County a year, Orange County and Hillsborough their own, along with Chatham County and Boiling Spring Lakes in Brunswick County. Asheville and Fayetteville were weighing rules.",
+    "source": "https://carolinapublicpress.org/75853/data-centers-moratorium-fever-for-nc-local-governments/",
+    "tier": "likely"
+   }
+  ],
+  "all_sources": [
+   "https://carolinapublicpress.org/75853/data-centers-moratorium-fever-for-nc-local-governments/",
+   "https://www.wunc.org/environment/2026-08-26/durham-county-data-center-moratorium",
+   "https://www.datacenterdynamics.com/en/news/compass-datacenters-proposes-333-acre-campus-in-statesville-north-carolina/"
+  ]
+ },
+ {
+  "id": "gemini-applied-digital-jamestown",
+  "name": "Applied Digital Jamestown",
+  "page": "/project/applied-digital-jamestown-jamestown-north-dakota/",
+  "record": {
+   "address": "2671 Highway 20 SE, Jamestown, ND 58401",
+   "county": "Stutsman",
+   "state": "North Dakota",
+   "country": "United States",
+   "capacity_mw": 106,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 47.028953,
+    "lng": -98.682246
+   },
+   "exact_location": true,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 106,
+    "reported": 7.5,
+    "sentence": "A 7.5-megawatt high-performance computing facility aimed at AI workloads, rather than crypto mining, was nearing completion next to the existing site.",
+    "source": "https://www.sec.gov/Archives/edgar/data/1144879/000164117225013535/form424b3.htm",
+    "tier": "flagged"
+   }
+  ],
+  "all_sources": [
+   "https://www.sec.gov/Archives/edgar/data/1144879/000164117225013535/form424b3.htm"
+  ]
+ },
+ {
+  "id": "gemini-aws-threemile-exascale",
+  "name": "AWS Threemile Exascale",
+  "page": "/project/aws-threemile-exascale-oregon/",
+  "record": {
+   "address": "Oregon, United States",
+   "county": "Deschutes",
+   "state": "Oregon",
+   "country": "United States",
+   "capacity_mw": 1000,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 43.8041,
+    "lng": -120.5542
+   },
+   "exact_location": false,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Deschutes County",
+    "reported": "Morrow County",
+    "sentence": "Our own listing files this project under Deschutes County, but the site itself, and the reporting we found, place it in Morrow County.",
+    "source": "data:county",
+    "tier": "flagged"
+   },
+   {
+    "kind": "note",
+    "ours": null,
+    "reported": null,
+    "sentence": "Our own listing files this project under Deschutes County, but the site itself, and the reporting we found, place it in Morrow County.",
+    "source": "data:county",
+    "tier": "flagged"
+   }
+  ],
+  "all_sources": [
+   "https://www.blackridgeresearch.com/blog/list-of-upcoming-new-data-center-projects-oregon"
+  ]
+ },
+ {
+  "id": "gemini-coreweave-allentown",
+  "name": "CoreWeave Allentown",
+  "page": "/project/coreweave-allentown-pennsylvania/",
+  "record": {
+   "address": "Pennsylvania, United States",
+   "county": "Centre",
+   "state": "Pennsylvania",
+   "country": "United States",
+   "capacity_mw": 100,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 40.96999,
+    "lng": -77.72788
+   },
+   "exact_location": true,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Centre County",
+    "reported": "Lancaster County",
+    "sentence": "CoreWeave announced on July 16, 2025 that it would spend more than $6 billion on a data center in Lancaster County, Pennsylvania, not Allentown or Centre County as our record lists.",
+    "source": "https://www.rcrwireless.com/20250716/ai-infrastructure/coreweave-ai-data",
+    "tier": "flagged"
+   },
+   {
+    "kind": "note",
+    "ours": null,
+    "reported": null,
+    "sentence": "CoreWeave announced on July 16, 2025 that it would spend more than $6 billion on a data center in Lancaster County, Pennsylvania, not Allentown or Centre County as our record lists.",
+    "source": "https://www.rcrwireless.com/20250716/ai-infrastructure/coreweave-ai-data",
+    "tier": "flagged"
+   },
+   {
+    "kind": "mw",
+    "ours": 100,
+    "reported": 300,
+    "sentence": "The facility will start at 100 megawatts and could expand to 300 megawatts, with CoreWeave as the sole tenant and Chirisa Technology Parks and Machine Investment Group as co-developers.",
+    "source": "https://www.rcrwireless.com/20250716/ai-infrastructure/coreweave-ai-data",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://www.rcrwireless.com/20250716/ai-infrastructure/coreweave-ai-data",
+   "https://www.coreweave.com/blog/building-pennsylvania-into-the-mid-atlantic-ai-hub"
+  ]
+ },
+ {
+  "id": "gemini-coreweave-merck-rahway",
+  "name": "CoreWeave Merck Rahway",
+  "page": "/project/coreweave-merck-rahway-new-jersey/",
+  "record": {
+   "address": "New Jersey, United States",
+   "county": "Ocean",
+   "state": "New Jersey",
+   "country": "United States",
+   "capacity_mw": 250,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 40.07574,
+    "lng": -74.40416
+   },
+   "exact_location": true,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Ocean County",
+    "reported": "Union County",
+    "sentence": "Our own record lists this project's capacity as 250 megawatts and places it in Ocean County near Lakewood; the news coverage we found describes the actual site as the Kenilworth campus in Union County, so the location in our record does not match published reporting.",
+    "source": "data:county",
+    "tier": "flagged"
+   },
+   {
+    "kind": "note",
+    "ours": null,
+    "reported": null,
+    "sentence": "Our own record lists this project's capacity as 250 megawatts and places it in Ocean County near Lakewood; the news coverage we found describes the actual site as the Kenilworth campus in Union County, so the location in our record does not match published reporting.",
+    "source": "data:county",
+    "tier": "flagged"
+   }
+  ],
+  "all_sources": [
+   "https://www.bisnow.com/national/news/data-center/coreweave-acquires-former-merck-hq-in-new-jersey-for-data-center-campus-130416",
+   "https://www.datacenterdynamics.com/en/news/coreweave-to-convert-new-jersey-lab-building-into-data-center/"
+  ]
+ },
+ {
+  "id": "gemini-coreweave-phoenix",
+  "name": "CoreWeave Phoenix",
+  "page": "/project/coreweave-phoenix-arizona/",
+  "record": {
+   "address": "Arizona, United States",
+   "county": "Yavapai",
+   "state": "Arizona",
+   "country": "United States",
+   "capacity_mw": 200,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 34.39534,
+    "lng": -111.76327
+   },
+   "exact_location": true,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Yavapai County",
+    "reported": "Pinal County",
+    "sentence": "A tracker of the project places it in Pinal County, about 15 miles from the Gila River Waterfowl Management Area, which conflicts with our own record's Yavapai County location.",
+    "source": "https://morethanjustparks.com/data-center-tracker/coreweave-phoenix-gpu-cloud-az--aa604b90-6f52-4757-b48c-32c08473c636",
+    "tier": "flagged"
+   },
+   {
+    "kind": "note",
+    "ours": null,
+    "reported": null,
+    "sentence": "A tracker of the project places it in Pinal County, about 15 miles from the Gila River Waterfowl Management Area, which conflicts with our own record's Yavapai County location.",
+    "source": "https://morethanjustparks.com/data-center-tracker/coreweave-phoenix-gpu-cloud-az--aa604b90-6f52-4757-b48c-32c08473c636",
+    "tier": "flagged"
+   }
+  ],
+  "all_sources": [
+   "https://morethanjustparks.com/data-center-tracker/coreweave-phoenix-gpu-cloud-az--aa604b90-6f52-4757-b48c-32c08473c636"
+  ]
+ },
+ {
+  "id": "gemini-coreweave-raleigh",
+  "name": "CoreWeave Raleigh",
+  "page": "/project/coreweave-raleigh-north-carolina/",
+  "record": {
+   "address": "North Carolina, United States",
+   "county": "Chatham",
+   "state": "North Carolina",
+   "country": "United States",
+   "capacity_mw": 60,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 35.67296,
+    "lng": -79.03929
+   },
+   "exact_location": true,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Chatham County",
+    "reported": "Forsyth County",
+    "sentence": "A data center tracker lists a CoreWeave project called \"CoreWeave Raleigh NC,\" placing it in Forsyth County, which does not match our own record's Chatham County location.",
+    "source": "https://morethanjustparks.com/data-center-tracker/coreweave-dfw-data-center-tx--0d6ec85d-09bb-431d-8885-d97d16060c68",
+    "tier": "flagged"
+   },
+   {
+    "kind": "note",
+    "ours": null,
+    "reported": null,
+    "sentence": "A data center tracker lists a CoreWeave project called \"CoreWeave Raleigh NC,\" placing it in Forsyth County, which does not match our own record's Chatham County location.",
+    "source": "https://morethanjustparks.com/data-center-tracker/coreweave-dfw-data-center-tx--0d6ec85d-09bb-431d-8885-d97d16060c68",
+    "tier": "flagged"
+   }
+  ],
+  "all_sources": [
+   "https://morethanjustparks.com/data-center-tracker/coreweave-dfw-data-center-tx--0d6ec85d-09bb-431d-8885-d97d16060c68"
+  ]
+ },
+ {
+  "id": "gemini-edged-energy-pottawattamie",
+  "name": "Edged Energy Pottawattamie",
+  "page": "/project/edged-energy-pottawattamie-iowa/",
+  "record": {
+   "address": "Iowa, United States",
+   "county": "Story",
+   "state": "Iowa",
+   "country": "United States",
+   "capacity_mw": 200,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 41.92167,
+    "lng": -93.31227
+   },
+   "exact_location": true,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Story County",
+    "reported": "Pottawattamie County",
+    "sentence": "The project's name points to Pottawattamie County in western Iowa, but the record's own coordinates and county field place it in Story County near Ames, a discrepancy we could not resolve.",
+    "source": "data:county",
+    "tier": "flagged"
+   },
+   {
+    "kind": "note",
+    "ours": null,
+    "reported": null,
+    "sentence": "The project's name points to Pottawattamie County in western Iowa, but the record's own coordinates and county field place it in Story County near Ames, a discrepancy we could not resolve.",
+    "source": "data:county",
+    "tier": "flagged"
+   }
+  ],
+  "all_sources": [
+   "https://morethanjustparks.com/data-center-tracker/google-council-bluffs-core-campus-ia--7846d476-e02d-43a4-be49-1626a43315b7"
+  ]
+ },
+ {
+  "id": "gemini-khazna-ajman",
+  "name": "Khazna Ajman",
+  "page": "/project/khazna-ajman-ajman/",
+  "record": {
+   "address": "Ajman, Ajman, United Arab Emirates",
+   "county": null,
+   "state": null,
+   "country": "United Arab Emirates",
+   "capacity_mw": 650,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 25.39366,
+    "lng": 55.44514
+   },
+   "exact_location": true,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "note",
+    "ours": null,
+    "reported": null,
+    "sentence": "That 100-megawatt figure is far below the 650 megawatts in our own record for this project, and we could not resolve which is accurate.",
+    "source": "data:capacity_mw",
+    "tier": "flagged"
+   }
+  ],
+  "all_sources": [
+   "https://www.mordorintelligence.com/industry-reports/united-arab-emirates-data-center-construction-market"
+  ]
+ },
+ {
+  "id": "gemini-reeves-county-solar-data-ranch",
+  "name": "Reeves County Solar Data Ranch",
+  "page": "/project/reeves-county-solar-data-ranch-texas/",
+  "record": {
+   "address": "Texas, United States",
+   "county": "Mills",
+   "state": "Texas",
+   "country": "United States",
+   "capacity_mw": 1100,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 31.26389,
+    "lng": -98.54561
+   },
+   "exact_location": true,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Mills County",
+    "reported": "Reeves County",
+    "sentence": "Our record lists a proposed 1.1-gigawatt data center project called the Reeves County Solar Data Ranch, naming LandBridge and NRG Energy as developers.",
+    "source": "data:capacity_mw",
+    "tier": "flagged"
+   }
+  ],
+  "all_sources": [
+   "https://morethanjustparks.com/data-center-tracker/coreweave-dfw-data-center-tx--0d6ec85d-09bb-431d-8885-d97d16060c68"
+  ]
+ },
+ {
+  "id": "gemini-stack-stafford",
+  "name": "STACK Stafford",
+  "page": "/project/stack-stafford-stafford-virginia/",
+  "record": {
+   "address": "Richmond Hwy & Eskimo Hill Rd, Stafford, VA 22554",
+   "county": "Stafford",
+   "state": "Virginia",
+   "country": "United States",
+   "capacity_mw": 1000,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 38.395688,
+    "lng": -77.429584
+   },
+   "exact_location": true,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "note",
+    "ours": null,
+    "reported": null,
+    "sentence": "Our own record instead notes 23 planned buildings, so the two counts do not match.",
+    "source": "data:source_notes",
+    "tier": "flagged"
+   }
+  ],
+  "all_sources": [
+   "https://www.mordorintelligence.com/industry-reports/northern-virginia-data-center-market"
+  ]
+ },
+ {
+  "id": "gemini-ytl-green-park",
+  "name": "YTL Green Data Center Park",
+  "page": "/project/ytl-green-data-center-park-johor/",
+  "record": {
+   "address": "2 Jalan Lestari Hijau 1, Taman Lestari Hijau, 81000 Kulai, Johor, Malaysia",
+   "county": null,
+   "state": null,
+   "country": "Malaysia",
+   "capacity_mw": 500,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 1.610145,
+    "lng": 103.521702
+   },
+   "exact_location": true,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 500,
+    "reported": 600,
+    "sentence": "YTL's own site says the park is planned for up to 600 megawatts, with its first building already operating at 72 megawatts, figures that do not match our own record's 500 megawatts, which our notes say was itself later doubled to 1.2 gigawatts in June 2026.",
+    "source": "https://ytldatacenters.com/locations/malaysia/",
+    "tier": "flagged"
+   },
+   {
+    "kind": "mw",
+    "ours": 500,
+    "reported": 72,
+    "sentence": "YTL's own site says the park is planned for up to 600 megawatts, with its first building already operating at 72 megawatts, figures that do not match our own record's 500 megawatts, which our notes say was itself later doubled to 1.2 gigawatts in June 2026.",
+    "source": "https://ytldatacenters.com/locations/malaysia/",
+    "tier": "flagged"
+   },
+   {
+    "kind": "mw",
+    "ours": 500,
+    "reported": 1200,
+    "sentence": "YTL's own site says the park is planned for up to 600 megawatts, with its first building already operating at 72 megawatts, figures that do not match our own record's 500 megawatts, which our notes say was itself later doubled to 1.2 gigawatts in June 2026.",
+    "source": "https://ytldatacenters.com/locations/malaysia/",
+    "tier": "flagged"
+   },
+   {
+    "kind": "note",
+    "ours": null,
+    "reported": null,
+    "sentence": "YTL's own site says the park is planned for up to 600 megawatts, with its first building already operating at 72 megawatts, figures that do not match our own record's 500 megawatts, which our notes say was itself later doubled to 1.2 gigawatts in June 2026.",
+    "source": "https://ytldatacenters.com/locations/malaysia/",
+    "tier": "flagged"
+   }
+  ],
+  "all_sources": [
+   "https://ytldatacenters.com/locations/malaysia/"
+  ]
+ },
+ {
+  "id": "neoclouds-coreweave-kenilworth-nest",
+  "name": "CoreWeave Kenilworth (NEST)",
+  "page": "/project/coreweave-kenilworth-nest-kenilworth-new-jersey/",
+  "record": {
+   "address": "2000 Galloping Hill Rd, Kenilworth, NJ 07033",
+   "county": "Union",
+   "state": "New Jersey",
+   "country": "United States",
+   "capacity_mw": null,
+   "capacity_note": null,
+   "coords": {
+    "lat": 40.675815,
+    "lng": -74.274669
+   },
+   "exact_location": true,
+   "dataset": "research: neoclouds.csv"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Union County",
+    "reported": "Ocean County",
+    "sentence": "Our own record carries a second entry, CoreWeave Merck Rahway, listed at 250 megawatts and placed in Ocean County. That appears to be this same project recorded twice and located wrongly: the site is in Kenilworth, in Union County.",
+    "source": "data:county",
+    "tier": "flagged"
+   }
+  ],
+  "all_sources": [
+   "https://re-nj.com/coreweave-begins-1-8-billion-data-center-project-in-kenilworth-landing-first-award-under-new-eda-tax-credit-program/",
+   "https://re-nj.com/ai-startup-coreweave-to-build-1-billion-data-center-at-onyxs-nest-campus-in-kenilworth/",
+   "https://baxtel.com/data-centers/coreweave"
+  ]
+ },
+ {
+  "id": "neoclouds-coreweave-lancaster",
+  "name": "CoreWeave Lancaster",
+  "page": "/project/coreweave-lancaster-lancaster-pennsylvania/",
+  "record": {
+   "address": "216 Greenfield Rd, Lancaster, PA 17601",
+   "county": "Lancaster",
+   "state": "Pennsylvania",
+   "country": "United States",
+   "capacity_mw": null,
+   "capacity_note": null,
+   "coords": {
+    "lat": 40.048056,
+    "lng": -76.256535
+   },
+   "exact_location": true,
+   "dataset": "research: neoclouds.csv"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Lancaster County",
+    "reported": "Centre County",
+    "sentence": "Our own record files a separate entry, CoreWeave Allentown, in Centre County. The reporting places this project in Lancaster County, not Allentown or Centre County.",
+    "source": "data:county",
+    "tier": "flagged"
+   }
+  ],
+  "all_sources": [
+   "https://www.datacentermap.com/usa/pennsylvania/lancaster/coreweave-lancaster/",
+   "https://ccblueprint.org/data-center-dilemma/",
+   "https://baxtel.com/data-centers/coreweave"
+  ]
+ },
+ {
+  "id": "research-atnorth-haugaland",
+  "name": "atNorth Haugaland",
+  "page": "/project/atnorth-haugaland-haugaland-rogaland/",
+  "record": {
+   "address": "Haugaland, Rogaland, Norway",
+   "county": null,
+   "state": null,
+   "country": "Norway",
+   "capacity_mw": 120,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 59.41,
+    "lng": 5.28
+   },
+   "exact_location": true,
+   "dataset": "research: research.csv"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 120,
+    "reported": 350,
+    "sentence": "Our record notes the site could grow to as much as 350 megawatts.",
+    "source": "data:source_notes",
+    "tier": "flagged"
+   }
+  ],
+  "all_sources": []
+ },
+ {
+  "id": "research-mistral-bruyeres-le-chatel",
+  "name": "Mistral Bruyeres-le-Chatel",
+  "page": "/project/mistral-bruyeres-le-chatel/",
+  "record": {
+   "address": "Rue de la Liberation & Rue de la Piquetterie, 91680 Bruyeres-le-Chatel, France",
+   "county": null,
+   "state": null,
+   "country": "France",
+   "capacity_mw": 44,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 48.597626,
+    "lng": 2.19825
+   },
+   "exact_location": true,
+   "dataset": "research: research.csv"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 44,
+    "reported": 100,
+    "sentence": "Our record also notes the site could expand beyond 100 megawatts, and that Fluidstack has since walked away from the project, with the space going to other providers.",
+    "source": "data:source_notes",
+    "tier": "flagged"
+   }
+  ],
+  "all_sources": []
+ },
+ {
+  "id": "research-nscale-loughton",
+  "name": "Nscale AI Campus Loughton",
+  "page": "/project/nscale-ai-campus-loughton-loughton-ig10-3tq/",
+  "record": {
+   "address": "Langston Road, Loughton IG10 3TQ, United Kingdom",
+   "county": null,
+   "state": null,
+   "country": "United Kingdom",
+   "capacity_mw": 90,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 51.645851,
+    "lng": 0.089448
+   },
+   "exact_location": true,
+   "dataset": "research: research.csv"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 90,
+    "reported": 50,
+    "sentence": "Our record notes the project started at 50 megawatts and is scaling up to 90.",
+    "source": "data:source_notes",
+    "tier": "flagged"
+   }
+  ],
+  "all_sources": []
+ },
+ {
+  "id": "research-teraco-bredell",
+  "name": "Teraco Bredell Campus",
+  "page": "/project/teraco-bredell-campus-kempton-park-1619/",
+  "record": {
+   "address": "26 Third Ave, Bredell, Kempton Park 1619, South Africa",
+   "county": null,
+   "state": null,
+   "country": "South Africa",
+   "capacity_mw": 64,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": -26.079989,
+    "lng": 28.286395
+   },
+   "exact_location": true,
+   "dataset": "research: research.csv"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 64,
+    "reported": 20,
+    "sentence": "Our record puts Vantage's 20 megawatt JNB2 at Isando, a second Vantage Johannesburg site, and Oracle's and Huawei's Johannesburg sites all about 11 kilometres away, with Vantage's 80 megawatt JNB1 at Waterfall City about 18 kilometres away.",
+    "source": "data:context.other_projects_within_40km",
+    "tier": "flagged"
+   },
+   {
+    "kind": "mw",
+    "ours": 64,
+    "reported": 80,
+    "sentence": "Our record puts Vantage's 20 megawatt JNB2 at Isando, a second Vantage Johannesburg site, and Oracle's and Huawei's Johannesburg sites all about 11 kilometres away, with Vantage's 80 megawatt JNB1 at Waterfall City about 18 kilometres away.",
+    "source": "data:context.other_projects_within_40km",
+    "tier": "flagged"
+   }
+  ],
+  "all_sources": [
+   "https://www.teraco.co.za/news/teraco-completes-significant-jb4-hyperscale-data-centre-expansion-incorporating-new-sustainability-designs/"
+  ]
+ },
+ {
+  "id": "amazon-aws-louisa-county-third",
+  "name": "AWS Louisa County Third Campus",
+  "page": "/project/aws-louisa-county-third-campus-louisa-county-virginia/",
+  "record": {
+   "address": "Louisa County, VA",
+   "county": "Louisa",
+   "state": "Virginia",
+   "country": "United States",
+   "capacity_mw": null,
+   "capacity_note": null,
+   "coords": {
+    "lat": 37.9926,
+    "lng": -77.9739
+   },
+   "exact_location": false,
+   "dataset": "research: amazon.csv"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Louisa County",
+    "reported": "Loudoun County",
+    "sentence": "Amazon Web Services withdrew its plan for a third data center campus in Louisa County in the last week of July 2025, after residents packed a public meeting at a local Baptist church wearing stickers reading \"Don't Loudoun my Louisa,\" a reference to the sprawl of data centers in Loudoun County to the north.",
+    "source": "https://www.techtarget.com/it-infrastructure/news/366628222/AWS-tables-Virginia-data-center-after-community-pushback",
+    "tier": "likely"
+   }
+  ],
+  "all_sources": [
+   "https://www.techtarget.com/it-infrastructure/news/366628222/AWS-tables-Virginia-data-center-after-community-pushback"
+  ]
+ },
+ {
+  "id": "apple-apple-reno-sparks",
+  "name": "Apple Reno (Sparks)",
+  "page": "/project/apple-reno-sparks-sparks-nevada/",
+  "record": {
+   "address": "Reno Technology Park, Sparks, NV 89434",
+   "county": "Washoe",
+   "state": "Nevada",
+   "country": "United States",
+   "capacity_mw": null,
+   "capacity_note": null,
+   "coords": {
+    "lat": 39.555024,
+    "lng": -119.565365
+   },
+   "exact_location": true,
+   "dataset": "research: apple.csv"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Washoe County",
+    "reported": "Elko County",
+    "sentence": "Elko County Commissioner Rex Steninger said: \"I don't think they've ever asked us,\" and asked, \"Where's the revenue if the taxes are abated?\"",
+    "source": "https://thenevadaindependent.com/article/nevada-is-reviewing-its-data-center-tax-breaks-but-counties-are-out-of-the-loop",
+    "tier": "likely"
+   }
+  ],
+  "all_sources": [
+   "https://lasvegassun.com/news/2012/jun/27/apple-comes-under-radar-granted-tax-abatement-deal/",
+   "https://www.nnbw.com/news/2024/aug/06/apple-to-expand-operations-at-reno-technology-park-in-washoe-county/",
+   "https://thenevadaindependent.com/article/nevada-is-reviewing-its-data-center-tax-breaks-but-counties-are-out-of-the-loop",
+   "https://baxtel.com/data-centers/apple"
+  ]
+ },
+ {
+  "id": "apple-apple-waukee",
+  "name": "Apple Waukee",
+  "page": "/project/apple-waukee-waukee-iowa/",
+  "record": {
+   "address": "2500 Hickman Rd, Waukee, IA 50263",
+   "county": "Polk",
+   "state": "Iowa",
+   "country": "United States",
+   "capacity_mw": null,
+   "capacity_note": null,
+   "coords": {
+    "lat": 41.614736,
+    "lng": -93.650984
+   },
+   "exact_location": true,
+   "dataset": "research: apple.csv"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Polk County",
+    "reported": "Dallas County",
+    "sentence": "Dallas County then failed to apply that abatement when it calculated valuations for the fiscal year. Correcting the error cut the city's projected property tax revenue by $3.4 million, with the school district and the county also receiving less than planned.",
+    "source": "https://www.waukee.org/1206/Apple-Valuation-Correction",
+    "tier": "likely"
+   }
+  ],
+  "all_sources": [
+   "https://appleinsider.com/articles/24/10/16/seven-years-on-iowas-apple-data-center-finally-opens",
+   "https://www.waukee.org/1206/Apple-Valuation-Correction",
+   "https://baxtel.com/data-centers/apple"
+  ]
+ },
+ {
+  "id": "epoch-openai-stargate-lordstown",
+  "name": "OpenAI Stargate Lordstown",
+  "page": "/project/openai-stargate-lordstown-warren-ohio/",
+  "record": {
+   "address": "2300 Hallock Young Rd, Warren, OH 44481",
+   "county": "Trumbull",
+   "state": "Ohio",
+   "country": "United States",
+   "capacity_mw": null,
+   "capacity_note": "Not yet operating per Epoch AI (satellite/permit tracked)",
+   "coords": {
+    "lat": 41.150667,
+    "lng": -80.875137
+   },
+   "exact_location": true,
+   "dataset": "Epoch AI, 'AI Data Centers' (CC-BY 4.0), retrieved 2026-09-16"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Trumbull County",
+    "reported": "Milam County",
+    "sentence": "Epoch AI estimates the facility's own capacity at under 0.3 gigawatts, with combined capacity at Lordstown and OpenAI's much larger Milam County, Texas site targeted to reach 1.5 gigawatts by 2027.",
+    "source": "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand",
+    "tier": "likely"
+   }
+  ],
+  "all_sources": [
+   "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand",
+   "https://www.tribtoday.com/news/local-news/2025/10/lordstown-starts-process-to-ban-data-centers/"
+  ]
+ },
+ {
+  "id": "epoch-openai-stargate-shackelford",
+  "name": "OpenAI Stargate Shackelford",
+  "page": "/project/openai-stargate-shackelford-shackelford-county-texas/",
+  "record": {
+   "address": "175 Private Road 1604, Shackelford County, TX 79601",
+   "county": "Jones",
+   "state": "Texas",
+   "country": "United States",
+   "capacity_mw": null,
+   "capacity_note": "Not yet operating per Epoch AI (satellite/permit tracked)",
+   "coords": {
+    "lat": 32.57,
+    "lng": -99.6787
+   },
+   "exact_location": false,
+   "dataset": "Epoch AI, 'AI Data Centers' (CC-BY 4.0), retrieved 2026-09-16"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Jones County",
+    "reported": "Shackelford County",
+    "sentence": "Vantage Data Centers is building a campus called Frontier in Shackelford County, Texas, a few hours' drive from both Dallas-Fort Worth and Austin.",
+    "source": "https://vantage-dc.com/data-center-locations/north-america/shackelford-county-tx",
+    "tier": "likely"
+   }
+  ],
+  "all_sources": [
+   "https://vantage-dc.com/data-center-locations/north-america/shackelford-county-tx",
+   "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand",
+   "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/",
+   "https://www.msn.com/en-us/money/technology/shackelford-county-judge-weighs-benefits-concerns-of-proposed-data-center/ar-AA29fMNp"
+  ]
+ },
+ {
+  "id": "gemini-crane-pdx01",
+  "name": "Crane PDX01",
+  "page": "/project/crane-pdx01-oregon/",
+  "record": {
+   "address": "Oregon, United States",
+   "county": "Crook",
+   "state": "Oregon",
+   "country": "United States",
+   "capacity_mw": 100,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 43.97928,
+    "lng": -120.73726
+   },
+   "exact_location": true,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Crook County",
+    "reported": "Washington County",
+    "sentence": "Trade coverage describes a 35 acre campus in Forest Grove, in Washington County west of Portland, with two buildings, backup biodiesel generators and rainwater harvesting for cooling.",
+    "source": "https://www.blackridgeresearch.com/blog/list-of-upcoming-new-data-center-projects-oregon",
+    "tier": "likely"
+   }
+  ],
+  "all_sources": [
+   "https://www.blackridgeresearch.com/blog/list-of-upcoming-new-data-center-projects-oregon"
+  ]
+ },
+ {
+  "id": "gemini-google-mica",
+  "name": "Google Project Mica",
+  "page": "/project/google-project-mica-missouri/",
+  "record": {
+   "address": "Missouri, United States",
+   "county": "Moniteau",
+   "state": "Missouri",
+   "country": "United States",
+   "capacity_mw": 700,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 38.76048,
+    "lng": -92.56179
+   },
+   "exact_location": true,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Moniteau County",
+    "reported": "Clay County",
+    "sentence": "Google's Project Mica data center is under construction in Kansas City's Northland, in Clay County, Missouri, near Interstate 435 and U.S. 169.",
+    "source": "https://www.kctv5.com/2026/02/12/google-confirms-new-data-center-development-kansas-citys-northland/",
+    "tier": "likely"
+   }
+  ],
+  "all_sources": [
+   "https://www.kctv5.com/2026/02/12/google-confirms-new-data-center-development-kansas-citys-northland/",
+   "https://baxtel.com/data-center/google-project-mica",
+   "https://www.kshb.com/news/local-news/missouri/kansas-city/google-announces-construction-underway-for-second-data-center-campus-in-kansas-city"
+  ]
+ },
+ {
+  "id": "gemini-google-spade",
+  "name": "Google Project Spade",
+  "page": "/project/google-project-spade-missouri/",
+  "record": {
+   "address": "Missouri, United States",
+   "county": "Moniteau",
+   "state": "Missouri",
+   "country": "United States",
+   "capacity_mw": 1200,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 38.76048,
+    "lng": -92.56179
+   },
+   "exact_location": true,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Moniteau County",
+    "reported": "Montgomery County",
+    "sentence": "Google's Project Spade data center is planned off Interstate 70 near New Florence and High Hill in Montgomery County, Missouri.",
+    "source": "https://abc17news.com/top-story/2026/05/20/kehoe-google-tout-15-billion-investment-to-accompany-data-center/",
+    "tier": "likely"
+   }
+  ],
+  "all_sources": [
+   "https://abc17news.com/top-story/2026/05/20/kehoe-google-tout-15-billion-investment-to-accompany-data-center/",
+   "https://baxtel.com/data-center/google-project-spade-campus",
+   "https://www.columbiamissourian.com/news/local/city-council-approves-data-center-definition-requests-moratorium/article_064eadce-c84e-4bfc-8f9c-b930741b94af.html"
+  ]
+ },
+ {
+  "id": "gemini-microsoft-kilby",
+  "name": "Microsoft Project Kilby",
+  "page": "/project/microsoft-project-kilby-texas/",
+  "record": {
+   "address": "Texas, United States",
+   "county": "Mills",
+   "state": "Texas",
+   "country": "United States",
+   "capacity_mw": 2700,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 31.26389,
+    "lng": -98.54561
+   },
+   "exact_location": true,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Mills County",
+    "reported": "Reeves County",
+    "sentence": "Project Kilby is a Microsoft data center campus planned on more than 2,000 acres of the Permian Basin in Reeves County, Texas, near Pecos.",
+    "source": "https://www.globaldatacenterhub.com/p/chevron-and-microsoft-sign-9b-west",
+    "tier": "likely"
+   }
+  ],
+  "all_sources": [
+   "https://www.globaldatacenterhub.com/p/chevron-and-microsoft-sign-9b-west"
+  ]
+ },
+ {
+  "id": "gemini-openai-stargate-do-a-ana",
+  "name": "OpenAI Stargate Doña Ana",
+  "page": "/project/openai-stargate-dona-ana-new-mexico/",
+  "record": {
+   "address": "New Mexico, United States",
+   "county": "Torrance",
+   "state": "New Mexico",
+   "country": "United States",
+   "capacity_mw": 2200,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 34.58021,
+    "lng": -105.99605
+   },
+   "exact_location": true,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Torrance County",
+    "reported": "Ana County",
+    "sentence": "OpenAI's Stargate data center, known locally as Project Jupiter, is being built in the towns of Sunland Park and Santa Teresa in Doña Ana County, New Mexico, near the Texas border by El Paso.",
+    "source": "https://technical.ly/civics/new-mexico-data-center-meeting-turns-physical/",
+    "tier": "likely"
+   }
+  ],
+  "all_sources": [
+   "https://technical.ly/civics/new-mexico-data-center-meeting-turns-physical/",
+   "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand",
+   "https://thetechcapital.com/stargate-new-mexico-suffers-setback-as-gas-pipeline-permits-rejected/"
+  ]
+ },
+ {
+  "id": "gemini-percheron",
+  "name": "Percheron Data Center",
+  "page": "/project/percheron-data-center-oregon/",
+  "record": {
+   "address": "Oregon, United States",
+   "county": "Crook",
+   "state": "Oregon",
+   "country": "United States",
+   "capacity_mw": 300,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 43.97928,
+    "lng": -120.73726
+   },
+   "exact_location": true,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Crook County",
+    "reported": "Morrow County",
+    "sentence": "Trade coverage places the site on about 274 acres near Boardman in Morrow County, with data center buildings using roughly 190 acres and the rest set aside for conservation.",
+    "source": "https://www.blackridgeresearch.com/blog/list-of-upcoming-new-data-center-projects-oregon",
+    "tier": "likely"
+   }
+  ],
+  "all_sources": [
+   "https://www.blackridgeresearch.com/blog/list-of-upcoming-new-data-center-projects-oregon"
+  ]
+ },
+ {
+  "id": "gemini-stack-berry-hill",
+  "name": "STACK Berry Hill",
+  "page": "/project/stack-berry-hill-virginia/",
+  "record": {
+   "address": "Virginia, United States",
+   "county": "Prince Edward",
+   "state": "Virginia",
+   "country": "United States",
+   "capacity_mw": null,
+   "capacity_note": null,
+   "coords": {
+    "lat": 37.12322,
+    "lng": -78.49277
+   },
+   "exact_location": true,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "county",
+    "ours": "Prince Edward County",
+    "reported": "Pittsylvania County",
+    "sentence": "A project-tracking site, aigridwatch.com, lists an approved 2,990-acre 'STACK Berry Hill' project in Pittsylvania County, near Danville, that cleared local approval on May 18, 2026.",
+    "source": "https://aigridwatch.com/projects",
+    "tier": "likely"
+   }
+  ],
+  "all_sources": [
+   "https://aigridwatch.com/projects"
+  ]
+ },
+ {
+  "id": "epoch-core42-lake-mariner",
+  "name": "Core42 Lake Mariner",
+  "page": "/project/core42-lake-mariner-barker-new-york/",
+  "record": {
+   "address": "7725 Lake Rd, Barker, NY 14012",
+   "county": "Niagara",
+   "state": "New York",
+   "country": "United States",
+   "capacity_mw": 58,
+   "capacity_note": "Epoch AI estimate of current IT power (80% chance within 1.4x)",
+   "coords": {
+    "lat": 43.35865,
+    "lng": -78.60413
+   },
+   "exact_location": true,
+   "dataset": "Epoch AI, 'AI Data Centers' (CC-BY 4.0), retrieved 2026-09-16"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 58,
+    "reported": 70,
+    "sentence": "Core42, a unit of Abu Dhabi's G42, signed a ten-year lease with TeraWulf for more than 70 megawatts of turnkey data center capacity at the site, delivered in phases between the first and third quarters of 2025.",
+    "source": "https://investors.terawulf.com/news-events/press-releases/detail/99/terawulf-to-deliver-over-70-mw-of-data-center",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://www.datacenterfrontier.com/site-selection/article/55379784/terawulfs-lake-mariner-campus-how-a-retired-coal-plant-became-an-ai-factory-prototype",
+   "https://datacenterrichness.substack.com/p/inside-an-accelerated-ai-data-center",
+   "https://investors.terawulf.com/news-events/press-releases/detail/99/terawulf-to-deliver-over-70-mw-of-data-center"
+  ]
+ },
+ {
+  "id": "epoch-coreweave-dalton-1-2",
+  "name": "CoreWeave Dalton 1 & 2",
+  "page": "/project/coreweave-dalton-1-2-dalton-georgia/",
+  "record": {
+   "address": "2205 Industrial South Rd, Dalton, GA 30721",
+   "county": "Whitfield",
+   "state": "Georgia",
+   "country": "United States",
+   "capacity_mw": 28,
+   "capacity_note": "Epoch AI estimate of current IT power (80% chance within 1.4x)",
+   "coords": {
+    "lat": 34.71344,
+    "lng": -84.95215
+   },
+   "exact_location": true,
+   "dataset": "Epoch AI, 'AI Data Centers' (CC-BY 4.0), retrieved 2026-09-16"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 28,
+    "reported": 50,
+    "sentence": "The facility sits on 5 acres and totals 52,000 square feet; Core Scientific advertises up to 50 megawatts of capacity there, while Epoch AI estimates its current IT power draw at 28 megawatts.",
+    "source": "https://corescientific.com/high-density-data-centers/dalton-ga-dnn1-2/",
+    "tier": "review"
+   },
+   {
+    "kind": "mw",
+    "ours": 28,
+    "reported": 476,
+    "sentence": "Dalton Utilities has told officials that peak electricity load in the area has nearly doubled since data centers arrived, from 250 to 476 megawatts, and residents raised concerns at a February 2026 planning meeting about the effect on their electric rates.",
+    "source": "https://daltoncitizen.com/2025/09/27/dalton-whitfield-joint-development-authority-moves-forward-on-deal-for-data-center/",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://corescientific.com/high-density-data-centers/dalton-ga-dnn1-2/",
+   "https://newschannel9.com/news/local/dalton-residents-push-for-moratorium-against-future-development-of-data-centers",
+   "https://newschannel9.com/news/local/in-whitfield-county-officials-face-growing-resident-backlash-as-data-centers-expand",
+   "https://daltoncitizen.com/2025/09/27/dalton-whitfield-joint-development-authority-moves-forward-on-deal-for-data-center/"
+  ]
+ },
+ {
+  "id": "epoch-coreweave-denton-tx",
+  "name": "CoreWeave Denton TX",
+  "page": "/project/coreweave-denton-tx-denton-texas/",
+  "record": {
+   "address": "8171 Jim Christal Rd, Denton, TX 76207",
+   "county": "Denton",
+   "state": "Texas",
+   "country": "United States",
+   "capacity_mw": 262,
+   "capacity_note": "Epoch AI estimate of current IT power (80% chance within 1.4x)",
+   "coords": {
+    "lat": 33.21927,
+    "lng": -97.17472
+   },
+   "exact_location": true,
+   "dataset": "Epoch AI, 'AI Data Centers' (CC-BY 4.0), retrieved 2026-09-16"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 262,
+    "reported": 70,
+    "sentence": "On February 26, 2025, the companies announced a further $1.2 billion expansion, adding 70 megawatts of contracted power and bringing the site's contracted capacity to about 260 megawatts.",
+    "source": "https://investors.corescientific.com/news-events/press-releases/detail/110/core-scientific-and-coreweave-announce-1-2-billion-expansion-at-denton-tx-site",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://dentonrc.com/news/denton/denton-s-data-center-boom-sparks-debate-over-growth-and-resources/article_edd8a259-a067-45b1-bd99-7aefa775f940.html",
+   "https://investors.corescientific.com/news-events/press-releases/detail/110/core-scientific-and-coreweave-announce-1-2-billion-expansion-at-denton-tx-site"
+  ]
+ },
+ {
+  "id": "epoch-coreweave-helios",
+  "name": "CoreWeave Helios",
+  "page": "/project/coreweave-helios-afton-texas/",
+  "record": {
+   "address": "984 County Road 112, Afton, TX 79220",
+   "county": "Dickens",
+   "state": "Texas",
+   "country": "United States",
+   "capacity_mw": 132,
+   "capacity_note": "Epoch AI estimate of current IT power (80% chance within 1.4x)",
+   "coords": {
+    "lat": 33.78049,
+    "lng": -100.866532
+   },
+   "exact_location": true,
+   "dataset": "Epoch AI, 'AI Data Centers' (CC-BY 4.0), retrieved 2026-09-16"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 132,
+    "reported": 393,
+    "sentence": "Galaxy later exercised an option to add about 260 more megawatts, bringing CoreWeave's contracted capacity at Helios to roughly 393 megawatts, with that expansion due to roll out through 2027.",
+    "source": "https://www.crowdfundinsider.com/2025/04/238847-galaxy-digital-announces-commitment-with-coreweave-to-host-additional-ai-and-computing-infrastructure/",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://en.wikipedia.org/wiki/Dickens_County,_Texas",
+   "https://en.wikipedia.org/wiki/Spur,_Texas",
+   "https://baxtel.com/data-center/galaxy-helios",
+   "https://www.crowdfundinsider.com/2025/04/238847-galaxy-digital-announces-commitment-with-coreweave-to-host-additional-ai-and-computing-infrastructure/",
+   "https://www.thetexasspur.com/news/galaxy-inks-major-deal-dickens-helios-host-services-coreweave",
+   "https://www.compute-atlas.com/facilities/galaxy-helios-dickens-tx",
+   "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/"
+  ]
+ },
+ {
+  "id": "epoch-coreweave-marble-nc",
+  "name": "CoreWeave Marble NC",
+  "page": "/project/coreweave-marble-nc-marble-north-carolina/",
+  "record": {
+   "address": "155 Palmer Ln, Marble, NC 28905",
+   "county": "Cherokee",
+   "state": "North Carolina",
+   "country": "United States",
+   "capacity_mw": 65,
+   "capacity_note": "Epoch AI estimate of current IT power (80% chance within 1.4x)",
+   "coords": {
+    "lat": 35.18499,
+    "lng": -83.91412
+   },
+   "exact_location": true,
+   "dataset": "Epoch AI, 'AI Data Centers' (CC-BY 4.0), retrieved 2026-09-16"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 65,
+    "reported": 117,
+    "sentence": "The facility is 250,000 square feet on 70 acres, with a total power capacity of about 117 megawatts.",
+    "source": "https://corescientific.com/high-density-data-centers/marble-nc/",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://www.wunc.org/2026-04-10/cherokee-county-residents-were-upset-about-crypto-mines-then-came-ai",
+   "https://corescientific.com/high-density-data-centers/marble-nc/"
+  ]
+ },
+ {
+  "id": "epoch-coreweave-norway",
+  "name": "CoreWeave Norway",
+  "page": "/project/coreweave-norway/",
+  "record": {
+   "address": "Stolevegen 39, 4715 Ovrebo, Norway",
+   "county": null,
+   "state": null,
+   "country": "Norway",
+   "capacity_mw": 42,
+   "capacity_note": "Epoch AI estimate of current IT power (80% chance within 1.4x)",
+   "coords": {
+    "lat": 58.25757,
+    "lng": 7.89205
+   },
+   "exact_location": true,
+   "dataset": "Epoch AI, 'AI Data Centers' (CC-BY 4.0), retrieved 2026-09-16"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 42,
+    "reported": 400,
+    "sentence": "Bulk Infrastructure said it had secured 400 megawatts of capacity at the roughly 300-hectare site, with room to grow toward 1 gigawatt.",
+    "source": "https://bulkinfrastructure.com/newsroom/coreweave-partners-with-bulk-infrastructure",
+    "tier": "review"
+   },
+   {
+    "kind": "mw",
+    "ours": 42,
+    "reported": 1000,
+    "sentence": "Bulk Infrastructure said it had secured 400 megawatts of capacity at the roughly 300-hectare site, with room to grow toward 1 gigawatt.",
+    "source": "https://bulkinfrastructure.com/newsroom/coreweave-partners-with-bulk-infrastructure",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://bulkinfrastructure.com/newsroom/coreweave-partners-with-bulk-infrastructure"
+  ]
+ },
+ {
+  "id": "epoch-meta-eagle-mountain",
+  "name": "Meta Eagle Mountain",
+  "page": "/project/meta-eagle-mountain-eagle-mountain-utah/",
+  "record": {
+   "address": "1275 N Community Cir, Eagle Mountain, UT 84005",
+   "county": "Utah",
+   "state": "Utah",
+   "country": "United States",
+   "capacity_mw": 133,
+   "capacity_note": "Epoch AI estimate of current IT power (80% chance within 1.4x)",
+   "coords": {
+    "lat": 40.403364,
+    "lng": -111.859036
+   },
+   "exact_location": true,
+   "dataset": "Epoch AI, 'AI Data Centers' (CC-BY 4.0), retrieved 2026-09-16"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 133,
+    "reported": 300,
+    "sentence": "A tracking site that follows data center water and power use in Utah puts the campus at roughly 300 megawatts of IT load across 28 halls in seven buildings, well above Epoch AI's independent estimate of about 133 megawatts of current IT power for the site.",
+    "source": "https://state.datacenterstress.com/",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://state.datacenterstress.com/"
+  ]
+ },
+ {
+  "id": "epoch-meta-gallatin",
+  "name": "Meta Gallatin",
+  "page": "/project/meta-gallatin-gallatin-tennessee/",
+  "record": {
+   "address": "1 Meta Lp, Gallatin, TN 37066",
+   "county": "Sumner",
+   "state": "Tennessee",
+   "country": "United States",
+   "capacity_mw": 87,
+   "capacity_note": "Epoch AI estimate of current IT power (80% chance within 1.4x)",
+   "coords": {
+    "lat": 36.411935,
+    "lng": -86.369636
+   },
+   "exact_location": true,
+   "dataset": "Epoch AI, 'AI Data Centers' (CC-BY 4.0), retrieved 2026-09-16"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 87,
+    "reported": 450,
+    "sentence": "Earlier coverage described a planned buildout of up to 450 megawatts and $4.4 billion, which would make it the largest single private investment in Tennessee history; available reporting does not make clear whether that larger figure describes a future phase or an earlier, since-revised plan.",
+    "source": "https://www.datacenterdynamics.com/en/news/meta-officially-launches-gallatin-data-center-campus-in-tennessee/",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://wpln.org/post/gallatin-offers-a-glimpse-at-hyperscale-data-center-experiences/",
+   "https://datacenters.atmeta.com/2020/08/hello-gallatin/",
+   "https://datacenters.atmeta.com/2024/11/gallatin-we-are-online/",
+   "https://www.datacenterdynamics.com/en/news/meta-officially-launches-gallatin-data-center-campus-in-tennessee/",
+   "https://ttc.tml1.org/2024/11/15/meta-data-center-begins-operations-gallatin"
+  ]
+ },
+ {
+  "id": "epoch-meta-montgomery",
+  "name": "Meta Montgomery",
+  "page": "/project/meta-montgomery-montgomery-alabama/",
+  "record": {
+   "address": "Co Rd 42, Montgomery, AL 36105",
+   "county": "Montgomery",
+   "state": "Alabama",
+   "country": "United States",
+   "capacity_mw": 153,
+   "capacity_note": "Epoch AI estimate of current IT power (80% chance within 1.4x)",
+   "coords": {
+    "lat": 32.277383,
+    "lng": -86.335467
+   },
+   "exact_location": true,
+   "dataset": "Epoch AI, 'AI Data Centers' (CC-BY 4.0), retrieved 2026-09-16"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 153,
+    "reported": 227,
+    "sentence": "Meta says it is backing 227 megawatts of new clean power in Alabama to match the site's energy use.",
+    "source": "https://datacenters.atmeta.com/2025/09/montgomery-were-growing/",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://datacenters.atmeta.com/2025/09/montgomery-were-growing/",
+   "https://www.wsfa.com/2026/08/04/infrastructure-vs-impact-inside-alabamas-growing-data-center-conversation/",
+   "https://bhamnow.com/2026/05/05/data-center-alabama-492-alabamians-weigh-in/"
+  ]
+ },
+ {
+  "id": "epoch-microsoft-nebius-new-jersey",
+  "name": "Microsoft-Nebius New Jersey",
+  "page": "/project/microsoft-nebius-new-jersey-vineland-new-jersey/",
+  "record": {
+   "address": "3963 S Lincoln Ave, Vineland, NJ 08360",
+   "county": "Cumberland",
+   "state": "New Jersey",
+   "country": "United States",
+   "capacity_mw": 50,
+   "capacity_note": "Epoch AI estimate of current IT power (80% chance within 1.4x)",
+   "coords": {
+    "lat": 39.4282,
+    "lng": -75.01841
+   },
+   "exact_location": true,
+   "dataset": "Epoch AI, 'AI Data Centers' (CC-BY 4.0), retrieved 2026-09-16"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 50,
+    "reported": 350,
+    "sentence": "The company says the campus is designed for up to 350 megawatts, which it says is nearly double the electrical capacity of the entire city of Vineland.",
+    "source": "https://sjclimate.news/7428/news/data-centers-are-booming-in-the-garden-state-are-local-communities-ready/",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://sjclimate.news/7428/news/data-centers-are-booming-in-the-garden-state-are-local-communities-ready/",
+   "https://pinelandsalliance.org/dataone-vineland-town-hall/",
+   "https://nebius.com/vinelandnj"
+  ]
+ },
+ {
+  "id": "epoch-qts-richmond-2",
+  "name": "QTS Richmond 2",
+  "page": "/project/qts-richmond-2-sandston-virginia/",
+  "record": {
+   "address": "6030-6070 Technology Blvd, Sandston, VA 23150",
+   "county": "Henrico",
+   "state": "Virginia",
+   "country": "United States",
+   "capacity_mw": 180,
+   "capacity_note": "Epoch AI estimate of current IT power (80% chance within 1.4x)",
+   "coords": {
+    "lat": 37.488878,
+    "lng": -77.241203
+   },
+   "exact_location": true,
+   "dataset": "Epoch AI, 'AI Data Centers' (CC-BY 4.0), retrieved 2026-09-16"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 180,
+    "reported": 238,
+    "sentence": "Epoch AI estimates its IT power at about 180 megawatts, smaller than the 238-megawatt Richmond 1 and the 240-megawatt planned capacity of Richmond 3 next door.",
+    "source": "data:capacity_mw",
+    "tier": "review"
+   },
+   {
+    "kind": "mw",
+    "ours": 180,
+    "reported": 240,
+    "sentence": "Epoch AI estimates its IT power at about 180 megawatts, smaller than the 238-megawatt Richmond 1 and the 240-megawatt planned capacity of Richmond 3 next door.",
+    "source": "data:capacity_mw",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://qtsdatacenters.com/data-centers/richmond-1/"
+  ]
+ },
+ {
+  "id": "epoch-qts-richmond-3",
+  "name": "QTS Richmond 3",
+  "page": "/project/qts-richmond-3-sandston-virginia/",
+  "record": {
+   "address": "3525-3543 Portugee Rd, Sandston, VA 23150",
+   "county": "Henrico",
+   "state": "Virginia",
+   "country": "United States",
+   "capacity_mw": 144,
+   "capacity_note": "Epoch AI estimate of current IT power (80% chance within 1.4x)",
+   "coords": {
+    "lat": 37.482146,
+    "lng": -77.248487
+   },
+   "exact_location": true,
+   "dataset": "Epoch AI, 'AI Data Centers' (CC-BY 4.0), retrieved 2026-09-16"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 144,
+    "reported": 240,
+    "sentence": "Richmond 3, QTS's newest building at the Sandston campus in Henrico County, spans more than 220 acres and is planned to reach 240 megawatts across five buildings once complete, built to the company's \"Freedom Design\" standard.",
+    "source": "https://q.com/data-centers/richmond-3/",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://q.com/data-centers/richmond-3/"
+  ]
+ },
+ {
+  "id": "epoch-southgate-melbourne",
+  "name": "Southgate Melbourne",
+  "page": "/project/southgate-melbourne-melbourne-victoria/",
+  "record": {
+   "address": "CDC Brooklyn campus, Melbourne, Victoria, Australia",
+   "county": null,
+   "state": null,
+   "country": "Australia",
+   "capacity_mw": 41,
+   "capacity_note": "Epoch AI estimate of current IT power (80% chance within 1.4x)",
+   "coords": {
+    "lat": -37.815536,
+    "lng": 144.845945
+   },
+   "exact_location": true,
+   "dataset": "Epoch AI, 'AI Data Centers' (CC-BY 4.0), retrieved 2026-09-16"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 41,
+    "reported": 1600,
+    "sentence": "The Melbourne site is one piece of Firmus's larger \"Project Southgate,\" which the company says will bring up to 1.6 gigawatts of AI computing capacity to Australia by 2028, anchored by a flagship campus in Tasmania.",
+    "source": "https://firmus.co/newsroom/southgate-expansion",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://firmus.co/newsroom/southgate-expansion"
+  ]
+ },
+ {
+  "id": "epoch-stack-infrastructure-nva02",
+  "name": "STACK Infrastructure NVA02",
+  "page": "/project/stack-infrastructure-nva02-manassas-virginia/",
+  "record": {
+   "address": "9590 Hornbaker Rd, Manassas, VA 20109",
+   "county": "Prince William",
+   "state": "Virginia",
+   "country": "United States",
+   "capacity_mw": 85,
+   "capacity_note": "Epoch AI estimate of current IT power (80% chance within 1.4x)",
+   "coords": {
+    "lat": 38.74581,
+    "lng": -77.53772
+   },
+   "exact_location": true,
+   "dataset": "Epoch AI, 'AI Data Centers' (CC-BY 4.0), retrieved 2026-09-16"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 85,
+    "reported": 420,
+    "sentence": "STACK Infrastructure's NVA02 campus in Manassas, Prince William County is planned for up to ten buildings across 200 acres, with 420 megawatts of capacity fed by two dedicated 300 megawatt substations built by Northern Virginia Electric Cooperative.",
+    "source": "https://www.stackinfra.com/locations/americas/northern-virginia/nva02/",
+    "tier": "review"
+   },
+   {
+    "kind": "mw",
+    "ours": 85,
+    "reported": 300,
+    "sentence": "STACK Infrastructure's NVA02 campus in Manassas, Prince William County is planned for up to ten buildings across 200 acres, with 420 megawatts of capacity fed by two dedicated 300 megawatt substations built by Northern Virginia Electric Cooperative.",
+    "source": "https://www.stackinfra.com/locations/americas/northern-virginia/nva02/",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://www.stackinfra.com/locations/americas/northern-virginia/nva02/",
+   "https://www.datacenterdynamics.com/en/news/prince-william-county-rejects-rezoning-application-from-stack-infrastructure/"
+  ]
+ },
+ {
+  "id": "epoch-stream-phoenix",
+  "name": "Stream Phoenix",
+  "page": "/project/stream-phoenix-goodyear-arizona/",
+  "record": {
+   "address": "2950 S Litchfield Road, Goodyear, AZ 85338",
+   "county": "Maricopa",
+   "state": "Arizona",
+   "country": "United States",
+   "capacity_mw": 64,
+   "capacity_note": "Epoch AI estimate of current IT power (80% chance within 1.4x)",
+   "coords": {
+    "lat": 33.41949,
+    "lng": -112.35999
+   },
+   "exact_location": true,
+   "dataset": "Epoch AI, 'AI Data Centers' (CC-BY 4.0), retrieved 2026-09-16"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 64,
+    "reported": 280,
+    "sentence": "At full build, the campus is designed for 280 megawatts of critical power across more than 2 million square feet.",
+    "source": "https://www.streamdatacenters.com/locations/phoenix/",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://www.streamdatacenters.com/locations/phoenix/"
+  ]
+ },
+ {
+  "id": "epoch-vantage-tx1",
+  "name": "Vantage TX1",
+  "page": "/project/vantage-tx1-san-antonio-texas/",
+  "record": {
+   "address": "14720 Omicron Dr, San Antonio, TX 78245",
+   "county": "Bexar",
+   "state": "Texas",
+   "country": "United States",
+   "capacity_mw": 32,
+   "capacity_note": "Epoch AI estimate of current IT power (80% chance within 1.4x)",
+   "coords": {
+    "lat": 29.41686,
+    "lng": -98.79019
+   },
+   "exact_location": true,
+   "dataset": "Epoch AI, 'AI Data Centers' (CC-BY 4.0), retrieved 2026-09-16"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 32,
+    "reported": 8,
+    "sentence": "The $95.8 million project has four separate 8-megawatt data halls and was registered with the state in December 2023, targeting completion by September 2026.",
+    "source": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024007561",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024007561",
+   "https://www.archynewsy.com/san-antonio-residents-report-gas-odors-near-vantage-data-centers/",
+   "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/"
+  ]
+ },
+ {
+  "id": "epoch-vnet-bayin-ulanqab",
+  "name": "VNET Bayin Ulanqab",
+  "page": "/project/vnet-bayin-ulanqab-ulanqab-inner-mongolia/",
+  "record": {
+   "address": "Bayin, Ulanqab, Inner Mongolia, China",
+   "county": null,
+   "state": null,
+   "country": "China",
+   "capacity_mw": 221,
+   "capacity_note": "Epoch AI estimate of current IT power (80% chance within 1.4x)",
+   "coords": {
+    "lat": 41.62415,
+    "lng": 112.6325
+   },
+   "exact_location": true,
+   "dataset": "Epoch AI, 'AI Data Centers' (CC-BY 4.0), retrieved 2026-09-16"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 221,
+    "reported": 28,
+    "sentence": "Trade coverage of the deal said VNet's Ulanqab campus has drawn 28 megawatts and 55 megawatts of contracted capacity in separate phases, with more phases under discussion.",
+    "source": "https://www.insidermonkey.com/blog/why-bytedances-reported-data-center-order-could-be-a-major-win-for-vnet-vnet-1714707/",
+    "tier": "review"
+   },
+   {
+    "kind": "mw",
+    "ours": 221,
+    "reported": 55,
+    "sentence": "Trade coverage of the deal said VNet's Ulanqab campus has drawn 28 megawatts and 55 megawatts of contracted capacity in separate phases, with more phases under discussion.",
+    "source": "https://www.insidermonkey.com/blog/why-bytedances-reported-data-center-order-could-be-a-major-win-for-vnet-vnet-1714707/",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://www.bloomberg.com/news/articles/2026-03-03/vnet-is-said-to-secure-data-center-deal-with-tiktok-owner-bytedance",
+   "https://www.insidermonkey.com/blog/why-bytedances-reported-data-center-order-could-be-a-major-win-for-vnet-vnet-1714707/",
+   "https://www.scmp.com/tech/big-tech/article/3366220/bytedance-expand-massive-ai-data-centre-cluster-inner-mongolia-source-says"
+  ]
+ },
+ {
+  "id": "gemini-core-scientific-dalton",
+  "name": "Core Scientific Dalton",
+  "page": "/project/core-scientific-dalton-dalton-georgia/",
+  "record": {
+   "address": "206 Boring Dr, Dalton, GA 30721",
+   "county": "Whitfield",
+   "state": "Georgia",
+   "country": "United States",
+   "capacity_mw": 195,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 34.700467,
+    "lng": -84.950244
+   },
+   "exact_location": true,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 195,
+    "reported": 28,
+    "sentence": "CoreWeave runs a smaller, 28-megawatt facility about a kilometer away, and our records count three data centers total in Whitfield County.",
+    "source": "data:context.other_projects_within_40km",
+    "tier": "review"
+   }
+  ],
+  "all_sources": []
+ },
+ {
+  "id": "gemini-microsoft-chicago",
+  "name": "Microsoft Chicago",
+  "page": "/project/microsoft-chicago-illinois/",
+  "record": {
+   "address": "Illinois, United States",
+   "county": "Logan",
+   "state": "Illinois",
+   "country": "United States",
+   "capacity_mw": 158,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 40.07966,
+    "lng": -89.43373
+   },
+   "exact_location": true,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 158,
+    "reported": 500,
+    "sentence": "Logan County does have an active data center fight, but over a different company: Hut 8 is seeking approval for a 500 megawatt, 5 billion dollar campus on 250 acres of farmland near the village of Latham.",
+    "source": "https://www.illinoistimes.com/news/data-center-seeks-zoning-approval-in-logan-county/",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://www.illinoistimes.com/news/data-center-seeks-zoning-approval-in-logan-county/"
+  ]
+ },
+ {
+  "id": "gemini-quantum-frederick-park",
+  "name": "Quantum Frederick Park",
+  "page": "/project/quantum-frederick-park-frederick-maryland/",
+  "record": {
+   "address": "5601 Manor Woods Rd, Frederick, MD 21703",
+   "county": "Frederick",
+   "state": "Maryland",
+   "country": "United States",
+   "capacity_mw": 264,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 39.333828,
+    "lng": -77.469855
+   },
+   "exact_location": true,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 264,
+    "reported": 2400,
+    "sentence": "Across the full campus, backers project eventual demand of 2,400 megawatts, more than the 2024 average electricity use of Montgomery and Prince George's counties combined.",
+    "source": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/",
+    "tier": "review"
+   },
+   {
+    "kind": "mw",
+    "ours": 264,
+    "reported": 300,
+    "sentence": "Four projects are in development there: Aligned's roughly 260-megawatt piece, an Amazon Web Services project called AWS BWI at 300 megawatts, and Rowan Bauxite II and III, adding at least 200 more megawatts across eight buildings.",
+    "source": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+  ]
+ },
+ {
+  "id": "gemini-xai-colossus-2-macrohard",
+  "name": "xAI Colossus 2 (Macrohard)",
+  "page": "/project/xai-colossus-2-macrohard-memphis-tennessee/",
+  "record": {
+   "address": "5400 Tulane Rd, Memphis, TN 38109",
+   "county": "Shelby",
+   "state": "Tennessee",
+   "country": "United States",
+   "capacity_mw": 210,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 34.999805,
+    "lng": -90.043062
+   },
+   "exact_location": true,
+   "dataset": "research: gemini.csv"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 210,
+    "reported": 946,
+    "sentence": "A separate entry in the data we track lists a facility called simply \"Colossus 2\" at the same location at 946 megawatts, more than four times the 210-megawatt figure recorded for Macrohard; it is unclear whether these describe the same building at different stages or separate structures.",
+    "source": "data:context.other_projects_within_40km",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+  ]
+ },
+ {
+  "id": "research-africa-data-centres-samrand",
+  "name": "Africa Data Centres Samrand",
+  "page": "/project/africa-data-centres-samrand/",
+  "record": {
+   "address": "17 Waterloo Road, Samrand Business Park, 0187 Centurion, South Africa",
+   "county": null,
+   "state": null,
+   "country": "South Africa",
+   "capacity_mw": 40,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": -25.930507,
+    "lng": 28.138383
+   },
+   "exact_location": true,
+   "dataset": "research: research.csv"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 40,
+    "reported": 10,
+    "sentence": "Africa Data Centres, backed by Cassava Technologies, is expanding its Samrand facility in Centurion, on Johannesburg's northern edge, from 10 megawatts to 40 megawatts.",
+    "source": "https://www.africadatacentres.com/category/johannesburg/",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://www.africadatacentres.com/category/johannesburg/"
+  ]
+ },
+ {
+  "id": "research-deepseek-ulanqab",
+  "name": "DeepSeek Ulanqab",
+  "page": "/project/deepseek-ulanqab-ulanqab-inner-mongolia/",
+  "record": {
+   "address": "Chahar High-tech Industrial Development Zone, Ulanqab, Inner Mongolia, China",
+   "county": null,
+   "state": null,
+   "country": "China",
+   "capacity_mw": 1000,
+   "capacity_note": "as reported in source; announced/planned unless status is operating",
+   "coords": {
+    "lat": 41.4359,
+    "lng": 113.1922
+   },
+   "exact_location": false,
+   "dataset": "research: research.csv"
+  },
+  "findings": [
+   {
+    "kind": "mw",
+    "ours": 1000,
+    "reported": 2000,
+    "sentence": "DeepSeek's site neighbors Envision Group's 2-gigawatt Galaxy campus, which opened August 6, 2026, and a Huawei Cloud campus, both in the same industrial zone.",
+    "source": "data:context.other_projects_within_40km",
+    "tier": "review"
+   }
+  ],
+  "all_sources": [
+   "https://aiweekly.co/alerts/ulanqab-becomes-chinas-ai-data-center-capital-125-gw-planned"
+  ]
+ }
+]

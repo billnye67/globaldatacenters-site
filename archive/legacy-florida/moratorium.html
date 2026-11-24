@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="robots" content="noindex,follow">
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Florida Data Center Moratoriums — Every County Ban and Pause, and When It Expires</title>
+    <meta name="description" content="Which Florida counties and cities have banned data centers or paused new applications, when each moratorium expires, and how many days are left.">
+    <meta name="keywords" content="stop data center, data center opposition, data center near me, stop data center my county, data center opposition letter, data center property values, data center water usage, proposed data centers, data center moratorium, AI data center map">
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Florida Data Centers — Every Proposed Data Center in Florida">
+    <meta property="og:description" content="Independent tracker of hyperscale data center projects across Florida. By county, with status, scale, and community impact.">
+    <meta property="og:url" content="https://floridadatacenters.org/">
+    <meta property="og:image" content="https://floridadatacenters.org/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://floridadatacenters.org/og-image.png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;0,9..144,800;0,9..144,900;1,9..144,400&family=Work+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css">
+
+    <style>
+        /* Homepage-specific styles */
+        .hero {
+            padding: 50px 0 60px;
+            border-bottom: 1px solid var(--rule);
+        }
+        .hero-grid {
+            display: grid;
+            grid-template-columns: 1.45fr 1fr;
+            gap: 60px;
+            align-items: start;
+        }
+        .hero-kicker {
+            font-size: 0.75rem;
+            color: var(--red);
+            text-transform: uppercase;
+            letter-spacing: 0.22em;
+            font-weight: 600;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .hero-kicker::before {
+            content: '';
+            width: 32px;
+            height: 2px;
+            background: var(--red);
+        }
+        .hero-headline {
+            font-family: 'Fraunces', Georgia, serif;
+            font-weight: 400;
+            font-size: clamp(2.4rem, 4.5vw, 3.75rem);
+            line-height: 1.03;
+            letter-spacing: -0.025em;
+            color: var(--ink);
+            margin-bottom: 28px;
+            font-variation-settings: "opsz" 144, "SOFT" 30;
+        }
+        .hero-headline em {
+            font-style: italic;
+            font-weight: 400;
+            color: var(--red);
+        }
+        .hero-lead {
+            font-family: 'Fraunces', Georgia, serif;
+            font-size: 1.22rem;
+            line-height: 1.5;
+            color: var(--ink-soft);
+            margin-bottom: 28px;
+            font-weight: 400;
+        }
+        .hero-lead .firstletter {
+            font-family: 'Fraunces', serif;
+            font-weight: 600;
+            font-size: 3.2rem;
+            float: left;
+            line-height: 0.85;
+            padding: 8px 10px 0 0;
+            color: var(--red);
+        }
+        .hero-byline {
+            font-size: 0.85rem;
+            color: var(--ink-fade);
+            padding-top: 20px;
+            border-top: 1px solid var(--rule);
+            display: flex;
+            justify-content: space-between;
+            font-style: italic;
+        }
+        .pullquote {
+            padding: 36px 32px;
+            background: var(--paper-dark);
+            border-left: 4px solid var(--red);
+            position: relative;
+        }
+        .pullquote::before {
+            content: '"';
+            position: absolute;
+            top: -12px;
+            left: 20px;
+            font-family: 'Fraunces', serif;
+            font-size: 5rem;
+            color: var(--red);
+            line-height: 1;
+            font-weight: 700;
+        }
+        .pullquote-text {
+            font-family: 'Fraunces', Georgia, serif;
+            font-size: 1.35rem;
+            line-height: 1.4;
+            font-weight: 400;
+            color: var(--ink);
+            font-style: italic;
+            margin-bottom: 18px;
+            padding-left: 8px;
+        }
+        .pullquote-attr {
+            font-size: 0.78rem;
+            color: var(--ink-fade);
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            font-weight: 500;
+            padding-left: 8px;
+        }
+        .pullquote-attr strong {
+            color: var(--ink);
+            font-weight: 600;
+        }
+
+        .stats {
+            background: var(--ink);
+            color: var(--paper);
+            padding: 44px 0;
+        }
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 40px;
+        }
+        .stat { border-left: 2px solid var(--red); padding-left: 20px; }
+        .stat-num {
+            font-family: 'Fraunces', Georgia, serif;
+            font-size: 2.8rem;
+            font-weight: 500;
+            line-height: 1;
+            color: var(--paper);
+            font-variation-settings: "opsz" 144;
+            margin-bottom: 8px;
+        }
+        .stat-num .unit { font-size: 1rem; font-weight: 400; color: var(--sand); margin-left: 4px; }
+        .stat-label {
+            font-size: 0.78rem;
+            text-transform: uppercase;
+            letter-spacing: 0.14em;
+            color: var(--sand);
+            font-weight: 500;
+            line-height: 1.4;
+        }
+
+        .county-row {
+            display: grid;
+            grid-template-columns: 260px 1fr;
+            gap: 48px;
+            padding: 32px 0;
+            border-bottom: 1px solid var(--rule);
+            align-items: start;
+        }
+        .county-row:last-child { border-bottom: none; }
+        .county-info { position: sticky; top: 120px; }
+        .county-name {
+            font-family: 'Fraunces', Georgia, serif;
+            font-size: 1.55rem;
+            font-weight: 500;
+            color: var(--ink);
+            margin-bottom: 8px;
+            letter-spacing: -0.01em;
+        }
+        .county-sub {
+            font-size: 0.78rem;
+            color: var(--ink-fade);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            margin-bottom: 16px;
+            font-weight: 500;
+        }
+        .county-descrip {
+            font-size: 0.92rem;
+            color: var(--ink-soft);
+            line-height: 1.55;
+            margin-bottom: 16px;
+        }
+        .county-link {
+            font-size: 0.82rem;
+            color: var(--red);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            border-bottom: 1px solid var(--red);
+            padding-bottom: 2px;
+            display: inline-block;
+            transition: all 0.15s;
+        }
+        .county-link:hover { color: var(--red-dark); border-bottom-color: var(--red-dark); }
+        .county-link .arrow { transition: transform 0.2s; display: inline-block; }
+        .county-link:hover .arrow { transform: translateX(4px); }
+
+        .law {
+            background: var(--paper-dark);
+            padding: 70px 0;
+            border-top: 3px double var(--ink);
+            border-bottom: 3px double var(--ink);
+            margin-top: 50px;
+        }
+        .law-grid {
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            gap: 60px;
+            align-items: start;
+        }
+        .law-title {
+            font-family: 'Fraunces', serif;
+            font-size: 2.2rem;
+            font-weight: 500;
+            letter-spacing: -0.02em;
+            line-height: 1.05;
+            font-variation-settings: "opsz" 144;
+        }
+        .law-title em { font-style: italic; color: var(--red); }
+        .law-kicker {
+            font-size: 0.72rem;
+            color: var(--red);
+            text-transform: uppercase;
+            letter-spacing: 0.22em;
+            font-weight: 600;
+            margin-bottom: 16px;
+        }
+        .law-text p { margin-bottom: 16px; font-size: 1.02rem; line-height: 1.65; color: var(--ink-soft); }
+        .law-text p:first-child {
+            font-family: 'Fraunces', serif;
+            font-size: 1.15rem;
+            color: var(--ink);
+            font-weight: 400;
+        }
+        .law-text p strong { color: var(--ink); font-weight: 600; }
+        .bill-list { margin-top: 24px; border-top: 1px solid var(--rule); padding-top: 20px; }
+        .bill {
+            display: grid;
+            grid-template-columns: 110px 1fr;
+            gap: 20px;
+            padding: 14px 0;
+            border-bottom: 1px solid var(--rule);
+            font-size: 0.9rem;
+            line-height: 1.5;
+        }
+        .bill:last-child { border-bottom: none; }
+        .bill-code {
+            font-family: 'Fraunces', serif;
+            font-weight: 600;
+            color: var(--ink);
+            font-size: 0.98rem;
+        }
+        .bill-desc { color: var(--ink-soft); }
+
+        /* ============ MAP SECTION (Leaflet) ============ */
+        .map-section {
+            padding: 70px 0;
+            background: var(--paper-dark);
+            border-bottom: 1px solid var(--rule);
+        }
+        .map-grid {
+            display: grid;
+            grid-template-columns: 1fr 1.3fr;
+            gap: 60px;
+            align-items: center;
+        }
+        .map-text .map-kicker {
+            font-size: 0.72rem;
+            color: var(--red);
+            text-transform: uppercase;
+            letter-spacing: 0.22em;
+            font-weight: 600;
+            margin-bottom: 16px;
+        }
+        .map-text h2 {
+            font-family: 'Fraunces', Georgia, serif;
+            font-size: 2.1rem;
+            font-weight: 500;
+            letter-spacing: -0.02em;
+            line-height: 1.05;
+            margin-bottom: 20px;
+            font-variation-settings: "opsz" 144;
+        }
+        .map-text h2 em { font-style: italic; color: var(--red); }
+        .map-text p {
+            font-size: 1rem;
+            line-height: 1.65;
+            color: var(--ink-soft);
+            margin-bottom: 16px;
+        }
+        .map-legend {
+            margin-top: 24px;
+            border-top: 1px solid var(--rule);
+            padding-top: 20px;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 24px 20px;
+        }
+        .legend-group-title {
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            color: var(--ink-fade);
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 0.88rem;
+            color: var(--ink-soft);
+            margin-bottom: 6px;
+        }
+        .legend-dot {
+            width: 14px;
+            height: 14px;
+            border-radius: 50%;
+            flex-shrink: 0;
+            border: 2px solid var(--paper);
+            box-shadow: 0 0 0 1px var(--rule);
+        }
+        .legend-approved { background: var(--red); }
+        .legend-denied { background: var(--forest); }
+        .legend-proposed { background: var(--ink-fade); }
+        .legend-withdrawn { background: var(--paper); border: 2px dashed var(--ink-fade); box-shadow: none; }
+        .legend-swatch {
+            width: 16px;
+            height: 14px;
+            flex-shrink: 0;
+            border: 1px solid rgba(0,0,0,0.1);
+        }
+        .tier-very-high-swatch { background: #a0231d; }
+        .tier-high-swatch      { background: #b5872a; }
+        .tier-moderate-swatch  { background: #6b8a73; }
+        .tier-low-swatch       { background: #b8b2a0; }
+
+        /* Leaflet map container */
+        .map-wrap {
+            position: relative;
+            background: var(--paper);
+            border: 1px solid var(--rule);
+            padding: 0;
+            height: 580px;
+        }
+        .map-loading {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: var(--paper);
+            border: 1px solid var(--rule);
+            padding: 12px 20px;
+            font-size: 0.88rem;
+            color: var(--ink-soft);
+            z-index: 500;
+            pointer-events: none;
+        }
+        .map-loading.hidden { display: none; }
+        #florida-map {
+            width: 100%;
+            height: 100%;
+            background: #eef3f7;
+        }
+
+        /* Custom marker styling */
+        .dc-marker {
+            width: 22px;
+            height: 22px;
+            border-radius: 50%;
+            border: 3px solid #f7f4ec;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.25);
+            transition: transform 0.15s ease;
+            cursor: pointer;
+        }
+        .dc-marker:hover { transform: scale(1.25); }
+        .dc-marker.approved  { background: #a0231d; }
+        .dc-marker.delayed   { background: #2f4a35; }
+        .dc-marker.denied    { background: #2f4a35; }
+        .dc-marker.proposed  { background: #6a665a; }
+        .dc-marker.withdrawn {
+            background: #f7f4ec;
+            border: 2.5px dashed #6a665a;
+            box-shadow: none;
+        }
+
+        .leaflet-popup-content-wrapper {
+            background: var(--paper);
+            color: var(--ink);
+            border-radius: 0;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            border: 1px solid var(--rule);
+        }
+        .leaflet-popup-tip { background: var(--paper); border: 1px solid var(--rule); }
+        .leaflet-interactive:focus,
+        path.leaflet-interactive:focus,
+        .leaflet-interactive:focus-visible { outline: none; }
+        .leaflet-popup-content {
+            margin: 14px 18px;
+            font-family: 'Work Sans', sans-serif;
+            line-height: 1.4;
+        }
+        .popup-county {
+            font-family: 'Fraunces', serif;
+            font-size: 1.1rem;
+            font-weight: 600;
+            color: var(--ink);
+            margin-bottom: 2px;
+            display: block;
+        }
+        .popup-project {
+            font-size: 0.85rem;
+            color: var(--ink-fade);
+            font-style: italic;
+            margin-bottom: 8px;
+            display: block;
+        }
+        .popup-status {
+            font-size: 0.72rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            font-weight: 600;
+            margin-bottom: 10px;
+            display: inline-block;
+            padding: 3px 8px;
+            border: 1px solid;
+        }
+        .popup-status.approved  { color: var(--red); border-color: var(--red); }
+        .popup-status.delayed   { color: var(--forest); border-color: var(--forest); }
+        .popup-status.denied    { color: var(--forest); border-color: var(--forest); }
+        .popup-status.proposed  { color: var(--ink-soft); border-color: var(--ink-fade); }
+        .popup-status.withdrawn { color: var(--ink-fade); border-color: var(--rule); }
+        .leaflet-popup-content a.popup-link,
+        .popup-link {
+            font-size: 0.82rem;
+            color: var(--red);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            border-bottom: 1px solid var(--red);
+            padding-bottom: 1px;
+            display: inline-block;
+        }
+        .leaflet-popup-content a.popup-link:hover,
+        .popup-link:hover { color: var(--red-dark); border-bottom-color: var(--red-dark); }
+
+        /* Primary CTA inside every map popup */
+        .risk-popup .mor-pop {
+            display: block; margin: 8px 0 2px; padding: 6px 8px;
+            font-size: 0.72rem; line-height: 1.35; letter-spacing: 0.02em;
+        }
+        .risk-popup .mor-pop b { font-weight: 700; }
+        .risk-popup .mor-pop.act  { background: #f4e9c8; color: #6b4f16; }
+        .risk-popup .mor-pop.ban  { background: #2f4a35; color: #f7f4ec; }
+        .risk-popup .mor-pop.pend { background: #eae5d8; color: #6a665a; }
+        .risk-popup .mor-pop.none { background: transparent; color: #6a665a; padding-left: 0; font-style: italic; }
+        .leaflet-popup-content a.popup-letter-cta,
+        a.popup-letter-cta {
+            display: block;
+            margin-top: 8px;
+            padding: 7px 10px;
+            background: #a0231d;
+            color: #ffffff;
+            font-size: 0.78rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.07em;
+            text-align: center;
+            text-decoration: none;
+            border: none;
+            border-radius: 2px;
+            white-space: nowrap;
+        }
+        .leaflet-popup-content a.popup-letter-cta:hover,
+        a.popup-letter-cta:hover { background: #7d1a16; color: #ffffff; text-decoration: none; }
+
+        /* Choropleth popup (county risk popup) */
+        .risk-popup { min-width: 200px; }
+        .risk-popup-kicker {
+            font-size: 0.68rem;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            font-weight: 700;
+            margin-bottom: 4px;
+            display: block;
+        }
+        .risk-popup-kicker.tier-very-high { color: #a0231d; }
+        .risk-popup-kicker.tier-high      { color: #b5872a; }
+        .risk-popup-kicker.tier-moderate  { color: #2f4a35; }
+        .risk-popup-kicker.tier-low       { color: #8a8472; }
+        .risk-popup-name {
+            font-family: 'Fraunces', serif;
+            font-size: 1.15rem;
+            font-weight: 600;
+            color: var(--ink);
+            margin-bottom: 8px;
+            display: block;
+        }
+        .risk-popup-score {
+            font-family: 'Fraunces', serif;
+            font-size: 2rem;
+            font-weight: 600;
+            line-height: 1;
+            margin-bottom: 8px;
+            display: block;
+            font-variation-settings: "opsz" 144;
+        }
+        .risk-popup-score.tier-very-high { color: #a0231d; }
+        .risk-popup-score.tier-high      { color: #b5872a; }
+        .risk-popup-score.tier-moderate  { color: #2f4a35; }
+        .risk-popup-score.tier-low       { color: #8a8472; }
+        .risk-popup-score .denom { font-size: 0.85rem; color: var(--ink-fade); font-weight: 400; }
+        .risk-popup-has-project {
+            font-size: 0.78rem;
+            color: var(--red);
+            font-weight: 600;
+            margin-bottom: 8px;
+            display: block;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+        }
+        .leaflet-popup-content a.risk-popup-link,
+        .risk-popup-link {
+            font-size: 0.82rem;
+            color: var(--red);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            border-bottom: 1px solid var(--red);
+            padding-bottom: 1px;
+            display: inline-block;
+            margin-top: 4px;
+        }
+        .leaflet-popup-content a.risk-popup-link:hover,
+        .risk-popup-link:hover { color: var(--red-dark); border-bottom-color: var(--red-dark); }
+
+        .leaflet-control-attribution {
+            font-size: 10px !important;
+            background: rgba(247, 244, 236, 0.8) !important;
+            color: var(--ink-fade) !important;
+        }
+        .leaflet-control-attribution a { color: var(--ink-soft) !important; }
+
+        @media (max-width: 1000px) {
+            .hero-grid { grid-template-columns: 1fr; gap: 40px; }
+            .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 30px; }
+            .county-row { grid-template-columns: 1fr; gap: 24px; }
+            .county-info { position: static; }
+            .law-grid { grid-template-columns: 1fr; gap: 32px; }
+            .map-grid { grid-template-columns: 1fr; gap: 40px; }
+            .map-wrap { height: 460px; }
+        }
+        @media (max-width: 640px) {
+            .stats-grid { grid-template-columns: 1fr; }
+            .bill { grid-template-columns: 1fr; gap: 4px; }
+            .map-wrap { height: 400px; }
+        }
+
+        /* ============ RISK CALCULATOR BANNER ============ */
+        .rc-banner {
+            padding: 70px 0;
+            background: var(--ink);
+            color: var(--paper);
+            border-bottom: 1px solid var(--ink);
+        }
+        .rc-banner-grid {
+            display: grid;
+            grid-template-columns: 1.3fr 1fr;
+            gap: 60px;
+            align-items: center;
+        }
+        .rc-banner-kicker {
+            font-size: 0.72rem;
+            color: #f0a8a4;
+            text-transform: uppercase;
+            letter-spacing: 0.22em;
+            font-weight: 600;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .rc-banner-kicker::before {
+            content: '';
+            width: 32px;
+            height: 2px;
+            background: var(--red);
+        }
+        .rc-banner h2 {
+            font-family: 'Fraunces', Georgia, serif;
+            font-size: clamp(1.8rem, 3vw, 2.4rem);
+            font-weight: 500;
+            line-height: 1.08;
+            letter-spacing: -0.02em;
+            margin-bottom: 20px;
+            color: var(--paper);
+            font-variation-settings: "opsz" 144;
+        }
+        .rc-banner h2 em { font-style: italic; color: #f0a8a4; }
+        .rc-banner p {
+            font-size: 1.02rem;
+            line-height: 1.65;
+            color: var(--sand);
+            margin-bottom: 24px;
+        }
+        .rc-banner-cta {
+            display: inline-block;
+            background: var(--red);
+            color: var(--paper);
+            padding: 16px 32px;
+            font-size: 0.88rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            transition: background 0.2s;
+        }
+        .rc-banner-cta:hover { background: #b82821; }
+        .rc-banner-cta .arrow { display: inline-block; margin-left: 8px; transition: transform 0.2s; }
+        .rc-banner-cta:hover .arrow { transform: translateX(4px); }
+        .rc-banner-visual {
+            padding: 28px 30px;
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+        .rc-banner-visual-title {
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--sand);
+            font-weight: 600;
+            margin-bottom: 18px;
+        }
+        .rc-banner-tier {
+            display: grid;
+            grid-template-columns: 1fr auto;
+            padding: 12px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.08);
+            font-size: 0.95rem;
+            color: var(--paper);
+            align-items: center;
+        }
+        .rc-banner-tier:last-child { border-bottom: none; }
+        .rc-banner-tier-label { font-family: 'Fraunces', serif; font-weight: 500; }
+        .rc-banner-tier-count {
+            font-family: 'Fraunces', serif;
+            font-size: 1.2rem;
+            font-weight: 600;
+            padding: 4px 12px;
+            border: 1px solid;
+        }
+        .tier-vh { color: #f0a8a4; border-color: #f0a8a4; }
+        .tier-h  { color: #e0c58a; border-color: #e0c58a; }
+        .tier-m  { color: #a8c9b0; border-color: #a8c9b0; }
+        .tier-l  { color: var(--sand); border-color: var(--sand); }
+
+        @media (max-width: 900px) {
+            .rc-banner-grid { grid-template-columns: 1fr; gap: 32px; }
+            .ta-cta-grid { grid-template-columns: 1fr !important; gap: 32px !important; }
+        }
+    </style>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    <script src="/community-pins.js" defer></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/topojson-client@3" defer></script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://floridadatacenters.org/#org",
+      "name": "Florida Data Centers",
+      "url": "https://floridadatacenters.org",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://floridadatacenters.org/apple-touch-icon.png",
+        "width": 180,
+        "height": 180
+      },
+      "description": "Independent, non-commercial tracker of hyperscale and AI data center projects proposed across all 50 states, with the deepest coverage in Florida's 67 counties."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://floridadatacenters.org/#site",
+      "url": "https://floridadatacenters.org",
+      "name": "Florida Data Centers",
+      "publisher": {
+        "@id": "https://floridadatacenters.org/#org"
+      },
+      "inLanguage": "en-US",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://floridadatacenters.org/?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    }
+  ]
+}
+</script>
+    <script type="text/javascript">
+        (function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "whyg2fbg7c");
+    </script>
+</head>
+<body>
+
+<header class="masthead">
+    <div class="wrap">
+        <div class="masthead-inner">
+            <div class="mast-meta js-date-full">Thursday, May 15, 2026</div>
+            <div class="mast-title"><a href="/">Florida Data Centers<span class="dot">.</span></a></div>
+            <div class="mast-meta mast-meta-right">Est. 2026 · Independent</div>
+        </div>
+    </div>
+</header>
+
+<div class="tagline-bar">
+    <div class="wrap">Tracking data center opposition across all 50 states. 1,100+ community reports and counting.</div>
+</div>
+
+<nav class="county-nav">
+    <div class="wrap">
+        <div class="county-nav-inner">
+            <a href="/#map">Map</a>
+            <a href="/news">News</a>
+            <a href="/risk-calculator">Risk Calculator</a>
+            <a href="/take-action">Take Action</a>
+            <a href="/shop">Shop</a>
+            <a href="/moratorium">Moratoriums</a>
+            <a href="/#florida-law">Florida Law</a>
+        </div>
+    </div>
+</nav>
+
+
+
+
+<main>
+    <style>
+    /* ===== MORATORIUM SECTION — mobile first ===== */
+    .mor-sec { padding: 46px 0; border-top: 1px solid var(--rule); }
+    .mor-kicker { font-size: 0.7rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--red); font-weight: 600; margin-bottom: 8px; }
+    .mor-h { font-family: 'Fraunces', Georgia, serif; font-size: 1.85rem; font-weight: 700; line-height: 1.1; letter-spacing: -0.02em; }
+    .mor-h em { font-style: italic; color: var(--red); }
+    .mor-sub { font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-fade); margin-top: 10px; padding-bottom: 16px; border-bottom: 2px solid var(--ink); }
+    .mor-lead { margin: 20px 0 26px; color: var(--ink-soft); font-size: 0.98rem; }
+
+    .mor-tally { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; background: var(--rule); border: 1px solid var(--rule); margin-bottom: 34px; }
+    .mor-t { background: var(--paper); padding: 14px 15px; }
+    .mor-t-n { font-family: 'Fraunces', Georgia, serif; font-size: 1.9rem; font-weight: 700; line-height: 1; }
+    .mor-t-l { font-size: 0.73rem; color: var(--ink-fade); margin-top: 5px; line-height: 1.3; }
+    .mor-t.b .mor-t-n { color: var(--forest); }
+    .mor-t.a .mor-t-n { color: #a8791f; }
+    .mor-t.p .mor-t-n { color: var(--ink-fade); }
+    .mor-t.n .mor-t-n { color: var(--red); }
+
+    .mor-grouphead { font-size: 0.68rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--ink-fade); margin: 30px 0 10px; padding-bottom: 7px; border-bottom: 1px solid var(--rule); }
+
+    .mor-item { padding: 15px 0; border-bottom: 1px solid rgba(201,195,179,0.6); }
+    .mor-top { display: flex; justify-content: space-between; align-items: baseline; gap: 14px; }
+    .mor-nm { font-family: 'Fraunces', Georgia, serif; font-size: 1.08rem; font-weight: 600; line-height: 1.2; }
+    .mor-nm span { display: block; font-family: 'Work Sans', sans-serif; font-size: 0.66rem; font-weight: 400; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-fade); margin-top: 2px; }
+    .mor-days { text-align: right; white-space: nowrap; flex: none; }
+    .mor-days b { font-family: 'Fraunces', Georgia, serif; font-size: 1.35rem; font-weight: 700; color: #a8791f; display: block; line-height: 1; }
+    .mor-days i { font-style: normal; font-size: 0.66rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--ink-fade); }
+    .mor-days.unk b { font-size: 0.8rem; color: var(--red); letter-spacing: 0.04em; }
+
+    .mor-track { height: 7px; background: var(--paper-dark); margin: 11px 0 9px; }
+    .mor-fill { height: 100%; background: #a8791f; }
+    .mor-fill.unk { background: repeating-linear-gradient(45deg,#a8791f,#a8791f 3px,rgba(168,121,31,0.35) 3px,rgba(168,121,31,0.35) 6px); }
+    .mor-fill.ban { background: var(--forest); }
+    .mor-track.pend { border: 1px dashed var(--ink-fade); background: transparent; }
+
+    .mor-note { font-size: 0.85rem; color: var(--ink-soft); line-height: 1.5; }
+    .mor-note a { color: var(--red); border-bottom: 1px solid rgba(160,35,29,0.35); }
+    .mor-warn { display: block; margin-top: 6px; font-size: 0.76rem; color: var(--red); font-style: italic; }
+    .mor-foot { margin-top: 26px; padding-top: 16px; border-top: 2px solid var(--ink); font-size: 0.82rem; color: var(--ink-fade); }
+    .mor-foot a { color: var(--red); }
+
+    @media (min-width: 700px) {
+        .mor-sec { padding: 66px 0; }
+        .mor-h { font-size: 2.6rem; max-width: 20ch; }
+        .mor-tally { grid-template-columns: repeat(4, 1fr); }
+        .mor-list { display: grid; grid-template-columns: 1fr 1fr; gap: 0 40px; }
+        .mor-grouphead { grid-column: 1 / -1; }
+    }
+    </style>
+
+    <section class="mor-sec" id="moratoriums">
+        <div class="wrap">
+            <div class="mor-kicker">Protections</div>
+            <h2 class="mor-h">Every pause has an <em>expiration date</em>.</h2>
+            <div class="mor-sub">Updated <span id="mor-upd"></span></div>
+
+            <p class="mor-lead">Nineteen Florida jurisdictions have blocked data centers outright or frozen applications while they write rules. Three of those blocks are permanent. The rest are clocks &mdash; and when one runs out, the county is back to having no rules at all unless commissioners pass something first.</p>
+
+            <div class="mor-tally" id="mor-tally"></div>
+            <div class="mor-list" id="mor-list"></div>
+
+            <p class="mor-foot">Dates reflect the final vote as reported by local outlets and county postings. Some ordinances run from an effective date later than the adoption date, and a board can lift a pause early or extend it. Entries marked <em>date unconfirmed</em> have not been checked against the ordinance text and are shown without a countdown. Corrections &mdash; <a href="mailto:james@floridadatacenters.org">send them here</a>.</p>
+        </div>
+    </section>
+
+    <script src="/moratoriums.js"></script>
+    <script>
+    (function(){
+        if (typeof MORATORIUMS === 'undefined') return;
+        var DAY = 864e5, today = new Date(); today.setHours(0,0,0,0);
+        function parse(s){ return new Date(s + 'T00:00:00'); }
+        function addM(d,m){ var x = new Date(d); x.setMonth(x.getMonth()+m); return x; }
+        function fmt(d){ return d.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'}); }
+
+        document.getElementById('mor-upd').textContent = fmt(parse(MORATORIUM_UPDATED));
+
+        var rows = [];
+        for (var k in MORATORIUMS) {
+            var m = MORATORIUMS[k];
+            rows.push({ label:m.name + ' County', sub:'County', d:m });
+        }
+        CITY_MORATORIUMS.forEach(function(m){
+            rows.push({ label:m.city, sub:m.county + ' County \u00b7 City', d:m });
+        });
+        rows.forEach(function(r){
+            var m = r.d;
+            r.status = m.status;
+            r.start = parse(m.adopted);
+            r.end = m.months ? addM(r.start, m.months) : null;
+            r.left = r.end ? Math.max(0, Math.round((r.end - today)/DAY)) : null;
+            r.total = r.end ? Math.round((r.end - r.start)/DAY) : null;
+            r.pctLeft = r.end ? Math.max(0, Math.min(100, (r.left / r.total) * 100)) : 0;
+        });
+
+        function n(s){ return rows.filter(function(r){ return r.status === s; }).length; }
+        var tally = [['b',n('ban'),'Banned permanently'],
+                     ['a',n('active'),'Pause running now'],
+                     ['p',n('pending'),'Drafting or awaiting a vote'],
+                     ['n',67 - Object.keys(MORATORIUMS).length,'Counties with nothing on record']];
+        document.getElementById('mor-tally').innerHTML = tally.map(function(t){
+            return '<div class="mor-t ' + t[0] + '"><div class="mor-t-n">' + t[1] +
+                   '</div><div class="mor-t-l">' + t[2] + '</div></div>';
+        }).join('');
+
+        function item(r){
+            var m = r.d, right, track;
+            if (r.status === 'ban') {
+                right = '<div class="mor-days"><b style="color:var(--forest);font-size:0.82rem;">No expiry</b><i>Permanent</i></div>';
+                track = '<div class="mor-track"><div class="mor-fill ban" style="width:100%"></div></div>';
+            } else if (r.status === 'pending') {
+                right = '<div class="mor-days"><b style="color:var(--ink-fade);font-size:0.82rem;">Not in effect</b><i>Pending</i></div>';
+                track = '<div class="mor-track pend"></div>';
+            } else if (!m.confirmed) {
+                right = '<div class="mor-days unk"><b>Unconfirmed</b><i>' + m.months + '-month pause</i></div>';
+                track = '<div class="mor-track"><div class="mor-fill unk" style="width:' + r.pctLeft + '%"></div></div>';
+            } else {
+                right = '<div class="mor-days"><b>' + r.left.toLocaleString() + '</b><i>days left</i></div>';
+                track = '<div class="mor-track"><div class="mor-fill" style="width:' + r.pctLeft + '%"></div></div>';
+            }
+            return '<div class="mor-item">' +
+                '<div class="mor-top"><div class="mor-nm">' + r.label + '<span>' + r.sub + '</span></div>' + right + '</div>' +
+                track +
+                '<div class="mor-note">' + m.note +
+                    (m.ordinance ? ' <em>Ordinance ' + m.ordinance + '.</em>' : '') +
+                    (r.end && m.confirmed ? ' <strong>Expires ' + fmt(r.end) + '.</strong>' : '') +
+                    ' <a href="' + m.source + '" target="_blank" rel="noopener">Source</a>' +
+                    (m.confirmed ? '' : '<span class="mor-warn">Adoption date approximate &mdash; not yet checked against the ordinance.</span>') +
+                '</div></div>';
+        }
+
+        var active  = rows.filter(function(r){ return r.status === 'active'; })
+                          .sort(function(a,b){ return (a.end||0) - (b.end||0); });
+        var bans    = rows.filter(function(r){ return r.status === 'ban'; });
+        var pending = rows.filter(function(r){ return r.status === 'pending'; })
+                          .sort(function(a,b){ return a.start - b.start; });
+
+        var html = '<div class="mor-grouphead">Pause running &mdash; soonest to expire</div>' + active.map(item).join('');
+        if (bans.length)    html += '<div class="mor-grouphead">Permanent bans &mdash; no clock</div>' + bans.map(item).join('');
+        if (pending.length) html += '<div class="mor-grouphead">Not yet in effect</div>' + pending.map(item).join('');
+        document.getElementById('mor-list').innerHTML = html;
+    })();
+    </script>
+
+    
+</main>
+<footer class="footer">
+    <div class="wrap">
+        <div class="footer-grid">
+            <div>
+                <div class="footer-brand">Florida Data Centers<span class="dot">.</span></div>
+                <p class="footer-about">An independent, non-commercial tracker of proposed hyperscale and AI data center projects across all 50 states, with the deepest coverage in Florida's 67 counties. We report facts as filed in public records and reported by local news. We are not affiliated with any developer, operator, advocacy group, or government agency.</p>
+            </div>
+            <div>
+                <div class="footer-heading">By County</div>
+                <ul class="footer-links">
+                    <li><a href="/palm-beach-county">Palm Beach</a></li>
+                    <li><a href="/polk-county">Polk</a></li>
+                    <li><a href="/st-lucie-county">St. Lucie</a></li>
+                    <li><a href="/okeechobee-county">Okeechobee</a></li>
+                    <li><a href="/martin-county">Martin</a></li>
+                    <li><a href="/citrus-county">Citrus</a></li>
+                    <li><a href="/nassau-county">Nassau</a>
+            <a href="/broward-county">Broward</a>
+            <a href="/miami-dade-county">Miami-Dade</a></li>
+                </ul>
+            </div>
+            <div>
+                <div class="footer-heading">Resources</div>
+                <ul class="footer-links">
+                    <li><a href="/news">Nationwide News</a></li>
+                    <li><a href="/moratorium">Moratorium Tracker</a></li><li><a href="/#florida-law">Florida Legislation</a></li>
+                    <li><a href="/your-rights">Your Rights as a Resident</a></li>
+                    <li><a href="/about">About This Site</a></li>
+                    <li><a href="/sources">Sources &amp; Methodology</a></li>
+                    <li><a href="/contact">Contact / Tip Line</a></li>
+                    <li><a href="/support">Support This Project</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-legal">
+            <div>© <span class="js-year">2026</span> floridadatacenters.org · Independent reporting. Not legal, financial, or environmental advice.</div>
+            <div>Last updated <span class="js-date-long">May 15, 2026</span></div>
+        </div>
+    </div>
+</footer>
+</body>
+</html>

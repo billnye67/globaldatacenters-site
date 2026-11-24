@@ -1,0 +1,444 @@
+[
+ {
+  "id": "developers2-cyrusone-milan-mil1",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CyrusOne broke ground on its first Milan data centre, MIL1, on Via Reggio Emilia in March 2026, with a second site, MIL2, about a kilometre away.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "Google Milan is about seven kilometres off, with Equinix xScale Milan, NTT's 53 acre campus and Oracle's site nearby.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Milan already has 68 data centre facilities, the densest concentration in Italy.",
+    "src": "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+   },
+   {
+    "para": 1,
+    "t": "Lombardy alone has 166 new requests for grid connection totalling more than 44 gigawatts, and across Italy the operator Terna has 529 requests for roughly 95 gigawatts.",
+    "src": "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+   },
+   {
+    "para": 1,
+    "t": "Italian data centres used between 5 and 7 terawatt hours in 2024, about 1.9 percent of national electricity, and estimates put that between 7 and 13 percent by 2035.",
+    "src": "https://www.valigiablu.it/data-center-italia-consumo-acqua-energia-rischi/"
+   },
+   {
+    "para": 2,
+    "t": "Towns around the city have started organising against them.",
+    "src": "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+   },
+   {
+    "para": 2,
+    "t": "More than 2,200 people signed a petition against a data centre at San Bovio, in Peschiera Borromeo, over energy and water consumption, noise, how close it would sit to houses and to the Gambarone spring, and carbon dioxide from burning diesel.",
+    "src": "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+   },
+   {
+    "para": 2,
+    "t": "The first public demonstration against a data centre in Lombardy was held at Lacchiarella on July 11, drawing committees from Magenta, Opera, Linate and other towns, and a national protest was called for October 10 in Milan.",
+    "src": "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+   }
+  ],
+  "sources": [
+   "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku",
+   "https://www.valigiablu.it/data-center-italia-consumo-acqua-energia-rischi/"
+  ],
+  "unconfirmed": "Searches on CyrusOne with Milan, on Milan with data centre water and energy, and on Lombardy with data centre residents found no capacity figure, water figure, planning record or objection naming MIL1 or MIL2, and no resident quoted about them. The opposition described above concerns other operators' projects elsewhere around Milan."
+ },
+ {
+  "id": "developers2-cyrusone-halfweg-ams1",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Netherlands does not allow buildings like this one any more, at least not new ones and not here.",
+    "src": "https://cms-lawnow.com/en/ealerts/2022/11/netherlands-prohibits-creating-hyperscale-data-centres-until-national-guidelines-are-passed"
+   },
+   {
+    "para": 0,
+    "t": "Amsterdam and Haarlemmermeer, the municipalities either side of this site at Halfweg, declared a one year moratorium on new data centres in June 2019, to reconsider grid bottlenecks and write a sustainability strategy. It was lifted a year later.",
+    "src": "https://www.datacenterdynamics.com/en/analysis/the-ongoing-impact-of-amsterdams-data-center-moratorium/"
+   },
+   {
+    "para": 1,
+    "t": "National rules followed. Since an amendment that took effect on January 1, 2024, hyperscale data centres, meaning those of 70 megawatts of IT capacity or more or covering more than 10 hectares, are prohibited across the Netherlands, with exceptions only at a few sites in the municipalities of Het Hogeland and Hollands Kroon in the north.",
+    "src": "https://cms-lawnow.com/en/ealerts/2022/11/netherlands-prohibits-creating-hyperscale-data-centres-until-national-guidelines-are-passed"
+   },
+   {
+    "para": 1,
+    "t": "Amsterdam and Haarlemmermeer added a further round of restrictions in December 2023 aimed at the electricity data centres use. At least seven hyperscale projects are being built anyway, because their permits were granted before the restrictions were proposed.",
+    "src": "https://www.datacenterdynamics.com/en/analysis/the-ongoing-impact-of-amsterdams-data-center-moratorium/"
+   },
+   {
+    "para": 2,
+    "t": "Iron Mountain Amsterdam stands about 3 kilometres away, NTT Amsterdam about 9 kilometres away, CloudHQ's Amsterdam campus about 11 kilometres away and Digital Realty's Schiphol-Rijk campus about 12 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://cms-lawnow.com/en/ealerts/2022/11/netherlands-prohibits-creating-hyperscale-data-centres-until-national-guidelines-are-passed",
+   "https://www.datacenterdynamics.com/en/analysis/the-ongoing-impact-of-amsterdams-data-center-moratorium/",
+   "https://www.datacentermap.com/c/cyrusone/datacenters"
+  ],
+  "unconfirmed": "No capacity, size, opening date, investment, water use or employment figure for the Halfweg building was found, so it is not known whether it would meet the hyperscale definition now prohibited, or when it was permitted relative to the rules described here."
+ },
+ {
+  "id": "developers2-cloudhq-manassas-mcc1-mcc2",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Two miles from this building, the largest data center rezoning in Virginia history was thrown out by a judge because the county had not advertised it properly.",
+    "src": "https://www.princewilliamtimes.com/news/breaking-judge-overturns-prince-william-digital-gateway/article_951d6362-1bbd-416f-89c5-ff322bf49fa8.html"
+   },
+   {
+    "para": 0,
+    "t": "The Prince William Digital Gateway covered 1,700 acres rezoned for up to 37 data centers, approved by a lame duck board of supervisors in December 2023.",
+    "src": "https://www.princewilliamtimes.com/news/breaking-judge-overturns-prince-william-digital-gateway/article_951d6362-1bbd-416f-89c5-ff322bf49fa8.html"
+   },
+   {
+    "para": 1,
+    "t": "On August 7, 2025, Circuit Court Judge Kimberly Irving ruled the rezoning void. The county had failed to meet state and local notice requirements before the December 2023 hearings, and had not made the plans, ordinances or amendments available to the public. Irving found the defects in the advertised notices \"were solely caused by the county, not the Washington Post.\"",
+    "src": "https://www.princewilliamtimes.com/news/breaking-judge-overturns-prince-william-digital-gateway/article_951d6362-1bbd-416f-89c5-ff322bf49fa8.html"
+   },
+   {
+    "para": 1,
+    "t": "The case was brought by the Oak Valley Homeowners' Association and individual homeowners, among them Mike Cliggott, Jeff Jensen, Mike Donegan, Chris Wall, Mac Haddow, Andrew Cliggott, Gabrielle Pyle, Roger Yackel, Mike Dow and Doug Collins.",
+    "src": "https://www.princewilliamtimes.com/news/breaking-judge-overturns-prince-william-digital-gateway/article_951d6362-1bbd-416f-89c5-ff322bf49fa8.html"
+   },
+   {
+    "para": 1,
+    "t": "Association president Mac Haddow called the ruling \"a victory for every resident who wants government to be accountable,\" and said he hoped the county would not appeal.",
+    "src": "https://www.princewilliamtimes.com/news/breaking-judge-overturns-prince-william-digital-gateway/article_951d6362-1bbd-416f-89c5-ff322bf49fa8.html"
+   },
+   {
+    "para": 2,
+    "t": "CloudHQ's own Manassas buildings sit inside an existing cluster rather than on the contested land. STACK's 85 megawatt NVA02, an AWS site and QTS Manassas 1 are each about 1 kilometer away, and two more STACK and AWS sites about 2 kilometers away, 18 data centers in Prince William County in all.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Around it are a ban at Warrenton, a moratorium and zoning limits in Montgomery County, and zoning limits in Culpeper, Fairfax and Fauquier counties.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.princewilliamtimes.com/news/breaking-judge-overturns-prince-william-digital-gateway/article_951d6362-1bbd-416f-89c5-ff322bf49fa8.html",
+   "https://www.cloudhq.com/data-centers/"
+  ],
+  "unconfirmed": "Reporting indicates the Court of Appeals upheld the ruling on March 31, that Compass Datacenters decided not to appeal further, and that the county spent $1.72 million on legal fees before abandoning the fight, but those pages could not be retrieved so none of it is set out here. No capacity, square footage, opening date, water use or employment figure for the CloudHQ buildings themselves was found."
+ },
+ {
+  "id": "developers2-cloudhq-ashburn-lc1",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The address of CloudHQ's LC1 data center is Loudoun Water Way, which is fitting for a county where the utility question has overtaken everything else.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "LC1 is one of five CloudHQ buildings on this campus, alongside LC9, LC10, LC12 and LC14, with CyrusOne's Sterling sites, PowerHouse and a Tencent Cloud site each about a kilometer away and Oracle Ashburn about 2 kilometers away.",
+    "src": "data:source_notes"
+   },
+   {
+    "para": 1,
+    "t": "Loudoun County had 199 operating data centers and 117 more in development, according to Michael Turner, vice chair of the county board's transportation and land use committee. Data centers made up 24 percent of Dominion's Virginia electricity sales in 2023, and the company projects their peak demand reaching 13.3 gigawatts by 2038.",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 1,
+    "t": "Dominion has proposed a 14 percent residential rate increase for 2026 and is spending $50.1 billion on capital projects between 2025 and 2029. It is also exploring nuclear, signing a memorandum of understanding with Amazon Web Services in October 2024 to look at a small modular reactor near North Anna that could supply roughly 300 megawatts to the corridor.",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 2,
+    "t": "About 50 data centers sit in Loudoun County, and the places around it have brought in bans or restrictions: Warrenton, Montgomery County, Fairfax, Fauquier and Prince William counties.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/",
+   "https://www.cloudhq.com/data-centers/"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure specific to LC1 or the wider CloudHQ campus was found, and no county approval record or objection about it. Despite the street name, no source reached connects this site to Loudoun Water or gives its water consumption."
+ },
+ {
+  "id": "developers2-cloudhq-paris-lisses",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CloudHQ is building two data centres, CDG1 and CDG2, on Rue des Cevennes at Lisses, south of Paris in Essonne.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Reporting on the Ile-de-France build out describes a data centre at Lisses going up on 13.7 hectares of farmland, about twenty football pitches, with an announced electrical need of 275 megawatts, which would make it one of the largest in France.",
+    "src": "https://www.usinenouvelle.com/article/quand-des-habitants-se-mobilisent-contre-les-datacenters-en-ile-de-france.N2221270"
+   },
+   {
+    "para": 0,
+    "t": "The account does not name the operator, so it cannot be tied to CloudHQ with certainty.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Essonne is where French residents have started going to court over these buildings.",
+    "src": "https://www.connaissancedesenergies.org/afp/data-center-dans-lessonne-la-justice-se-penche-sur-le-saucissonnage-dun-vaste-projet-260319"
+   },
+   {
+    "para": 1,
+    "t": "At Wissous, about 15 kilometres away, France Nature Environnement, Data For Good and a local group called Wissous Notre Ville challenged a CyrusOne project built for Amazon servers, arguing the developer had deliberately split it into phases of 19.8 and 49.5 megawatts to stay under the 50 megawatt threshold that triggers strict authorisation, full environmental impact studies and a public inquiry.",
+    "src": "https://www.connaissancedesenergies.org/afp/data-center-dans-lessonne-la-justice-se-penche-sur-le-saucissonnage-dun-vaste-projet-260319"
+   },
+   {
+    "para": 1,
+    "t": "CyrusOne says the three phases come to 60 megawatts at most; the associations say the real total is 100.",
+    "src": "https://www.connaissancedesenergies.org/afp/data-center-dans-lessonne-la-justice-se-penche-sur-le-saucissonnage-dun-vaste-projet-260319"
+   },
+   {
+    "para": 1,
+    "t": "On March 19, 2026 the public rapporteur said the third phase remained hypothetical because local planning rules had prohibited such installations when the application was made.",
+    "src": "https://www.connaissancedesenergies.org/afp/data-center-dans-lessonne-la-justice-se-penche-sur-le-saucissonnage-dun-vaste-projet-260319"
+   },
+   {
+    "para": 1,
+    "t": "Wissous has 7,000 residents, who face noise from large ventilation plant close to houses and, on the associations' figures, electricity consumption about seven times the town's own.",
+    "src": "https://www.connaissancedesenergies.org/afp/data-center-dans-lessonne-la-justice-se-penche-sur-le-saucissonnage-dun-vaste-projet-260319"
+   },
+   {
+    "para": 2,
+    "t": "Ile-de-France held 75 to 80 percent of France's large data centres in 2024, ahead of Marseille.",
+    "src": "https://www.usinenouvelle.com/article/quand-des-habitants-se-mobilisent-contre-les-datacenters-en-ile-de-france.N2221270"
+   },
+   {
+    "para": 2,
+    "t": "NTT's Corbeil-Essonnes campus is about two kilometres from this site.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.connaissancedesenergies.org/afp/data-center-dans-lessonne-la-justice-se-penche-sur-le-saucissonnage-dun-vaste-projet-260319",
+   "https://www.usinenouvelle.com/article/quand-des-habitants-se-mobilisent-contre-les-datacenters-en-ile-de-france.N2221270"
+  ],
+  "unconfirmed": "No capacity, timetable, planning reference or objection was found for CloudHQ's Lisses buildings by name. The 13.7 hectare and 275 megawatt figures come from a report on a Lisses data centre whose operator is not named, and the Usine Nouvelle article refused our requests, so they are summarised rather than quoted. The Wissous case is a different commune and a different developer; it is set out here because it is the nearest documented account of how these projects are being contested in Essonne. Whether the Wissous court has ruled was not established."
+ },
+ {
+  "id": "developers2-cloudhq-frankfurt-hattersheim",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CloudHQ is building a data centre campus of about 1.2 million square feet at Am Kastengrund in Hattersheim am Main, west of Frankfurt, sharing the address with Digital Realty's Hattersheim buildings.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Anything commissioned in Germany from July 1, 2026 has to reuse at least 10 percent of its waste heat, under the Energieeffizienzgesetz passed in September 2023. That rises to 15 percent on January 1, 2027, when new sites must also run entirely on renewable electricity, and 20 percent from January 1, 2028.",
+    "src": "https://thecoolingreport.com/intel/germany-heat-reuse-mandate"
+   },
+   {
+    "para": 1,
+    "t": "New buildings must also reach a power usage effectiveness of 1.2 or better immediately. The law applies to any data centre drawing 300 kilowatts or more, and fines run from 50,000 to 100,000 euro.",
+    "src": "https://thecoolingreport.com/intel/germany-heat-reuse-mandate"
+   },
+   {
+    "para": 2,
+    "t": "Other Frankfurt operators have already connected up. Equinix supplies heat to about 1,000 households in Griesheim, Telehouse Germany covers more than 60 percent of the heating and hot water in the FRANKY quarter, and Digital Realty works with the utility Mainova to heat the Westville development, cutting about 400 tonnes of CO2 a year.",
+    "src": "https://thecoolingreport.com/intel/germany-heat-reuse-mandate"
+   },
+   {
+    "para": 3,
+    "t": "Vantage's Raunheim site and an AWS Frankfurt region site are each about 5 kilometres away, STACK Frankfurt about 7 kilometres away and CyrusOne FRA7 about 10 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://thecoolingreport.com/intel/germany-heat-reuse-mandate",
+   "https://www.cloudhq.com/data-centers/"
+  ],
+  "unconfirmed": "No capacity, investment figure, timeline, water use, employment figure or planning decision specific to the CloudHQ Hattersheim campus was found, and no source reached says whether it will be commissioned after July 1, 2026 or what it plans to do with its waste heat. No local objection was found."
+ },
+ {
+  "id": "developers2-cloudhq-sao-paulo-barueri",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CloudHQ's Sao Paulo data centre is in the Alphaville Industrial district of Barueri, west of the city, and is operating.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "Barueri has become Brazil's densest data centre area, with Aligned's SP-03 and Equinix's Barueri campus close by.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "No capacity, water figure or opening date for the building has been published.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "About a third of Brazil's data centres are in Sao Paulo state, which went through an acute water crisis about a decade ago, and that history is why the arrival of more of them worries people there.",
+    "src": "https://restofworld.org/2025/brazil-data-center-environmental-risk/"
+   },
+   {
+    "para": 1,
+    "t": "The government wants Brazil to be a sustainable data centre hub; environmentalists are sceptical.",
+    "src": "https://restofworld.org/2025/brazil-data-center-environmental-risk/"
+   },
+   {
+    "para": 1,
+    "t": "An engineering professor at the Federal University of Rio de Janeiro has said the build out is putting significant pressure on the energy system and could have a major environmental effect, particularly given where the buildings are being put.",
+    "src": "https://dialogue.earth/en/energy/ai-for-whom-inside-brazils-data-centre-boom/"
+   },
+   {
+    "para": 1,
+    "t": "Land and available power are already running short closer in to the city, which is pushing smaller projects out toward Barueri and Osasco.",
+    "src": "https://aligneddc.com/brazil-data-centers/"
+   }
+  ],
+  "sources": [
+   "https://restofworld.org/2025/brazil-data-center-environmental-risk/",
+   "https://dialogue.earth/en/energy/ai-for-whom-inside-brazils-data-centre-boom/",
+   "https://aligneddc.com/brazil-data-centers/"
+  ],
+  "unconfirmed": "Searches on CloudHQ with Barueri, on Sao Paulo with data centre water, and on Alphaville with data centre found no capacity, square footage, water figure, opening date, planning record or resident comment naming this facility. Everything beyond our own record describes Brazil and the Sao Paulo region rather than this site."
+ },
+ {
+  "id": "developers2-compass-raleigh-wake-county",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "North Carolina local governments have spent 2026 pressing pause. At least 11 counties and 17 towns have adopted data center moratoriums, usually for a year.",
+    "src": "https://carolinapublicpress.org/75853/data-centers-moratorium-fever-for-nc-local-governments/"
+   },
+   {
+    "para": 0,
+    "t": "Durham city imposed a 60 day moratorium in May 2026 and extended it to twelve months in June, running to May 2027. Durham County commissioners then voted 4 to 1 in August 2026 for a nine month pause of their own. Apex adopted a one year moratorium in April 2026 and Holly Springs in June.",
+    "src": "https://www.wunc.org/environment/2026-08-26/durham-county-data-center-moratorium"
+   },
+   {
+    "para": 0,
+    "t": "Charlotte adopted a 150 day pause, Rowan County a year, Orange County and Hillsborough their own, along with Chatham County and Boiling Spring Lakes in Brunswick County. Asheville and Fayetteville were weighing rules.",
+    "src": "https://carolinapublicpress.org/75853/data-centers-moratorium-fever-for-nc-local-governments/"
+   },
+   {
+    "para": 1,
+    "t": "The reasons given are consistent. Mark Ortiz, opposing facilities in Rowan County, named \"environmental effects: the noise, heat island effect, water usage.\" Hillsborough's mayor, Mark Bell, said the town has \"very constrained water and sewer capacity and could not support a hyperscale data center.\" Boiling Spring Lakes' town manager, Gordon Hargrove, said simply that the town's development ordinances do not address data centers at all.",
+    "src": "https://carolinapublicpress.org/75853/data-centers-moratorium-fever-for-nc-local-governments/"
+   },
+   {
+    "para": 1,
+    "t": "Dan Diorio of the Data Center Coalition warned that local moratoriums \"would send a signal that the area is closed for business, both for data centers and for other significant economic development projects.\"",
+    "src": "https://carolinapublicpress.org/75853/data-centers-moratorium-fever-for-nc-local-governments/"
+   },
+   {
+    "para": 1,
+    "t": "State law does not let a moratorium stop a project already under way, so existing developments continue regardless.",
+    "src": "https://carolinapublicpress.org/75853/data-centers-moratorium-fever-for-nc-local-governments/"
+   },
+   {
+    "para": 2,
+    "t": "Compass's building at TW Alexander Drive is already built and fully leased. Apple's Research Triangle Park data center, about 5 kilometers away, is suspended, and a 250 megawatt New Hill Digital Campus about 27 kilometers away was cancelled.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://carolinapublicpress.org/75853/data-centers-moratorium-fever-for-nc-local-governments/",
+   "https://www.wunc.org/environment/2026-08-26/durham-county-data-center-moratorium",
+   "https://www.datacenterdynamics.com/en/news/compass-datacenters-proposes-333-acre-campus-in-statesville-north-carolina/"
+  ],
+  "unconfirmed": "Our own record names this project Compass Raleigh and places it in Wake County, but the address is TW Alexander Drive in Durham, and the county field says Durham."
+ },
+ {
+  "id": "developers2-compass-montreal-levis",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Compass's Montreal data centres are at 19701 Clark Graham Avenue in Baie-d'Urfe, at the western end of the island, despite the Levis name attached to them.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Montreal II runs to 175,000 square feet and 30 megawatts, which its operator describes as Canada's largest wholesale data centre, on entirely green power.",
+    "src": "https://datacenterhawk.com/marketplace/providers/compass-datacenters/19701-clark-graham-avenue/montreal-ii"
+   },
+   {
+    "para": 0,
+    "t": "Vantage Montreal II is about nine kilometres away and a second Compass Montreal site about 21.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "What draws these buildings to Quebec is cheap hydroelectric power.",
+    "src": "https://renx.ca/montreal-worldwide-data-centre-hot-spot"
+   },
+   {
+    "para": 1,
+    "t": "What that costs elsewhere in the province is visible at Beauharnois, where the government rezoned 62.4 hectares of Hydro-Quebec land out of the agricultural zone for a Google data centre, putting an equivalent area back into protection and handing it to the UPA-Fondaction agricultural trust in compensation.",
+    "src": "https://globalnews.ca/news/7849110/google-canada-expansion-quebec-beauharnois/"
+   },
+   {
+    "para": 1,
+    "t": "That project, at about US$600 million, is expected to employ around 30 people once running.",
+    "src": "https://globalnews.ca/news/7849110/google-canada-expansion-quebec-beauharnois/"
+   },
+   {
+    "para": 2,
+    "t": "On water, the CBC has reported that working out how much any individual Canadian data centre uses is close to impossible, and a University of Toronto professor of municipal water engineering has warned that cooling them could strain the country's water infrastructure.",
+    "src": "https://www.cbc.ca/news/ai-data-centre-canada-water-use-9.6939684"
+   }
+  ],
+  "sources": [
+   "https://www.datacentermap.com/canada/montreal/mtl-las1/",
+   "https://datacenterhawk.com/marketplace/providers/compass-datacenters/19701-clark-graham-avenue/montreal-ii",
+   "https://renx.ca/montreal-worldwide-data-centre-hot-spot",
+   "https://globalnews.ca/news/7849110/google-canada-expansion-quebec-beauharnois/",
+   "https://www.cbc.ca/news/ai-data-centre-canada-water-use-9.6939684"
+  ],
+  "unconfirmed": "Searches on Compass with Baie-d'Urfe, on Montreal with data centre residents, and on Quebec with data centre moratorium found no municipal decision, hearing record or resident comment naming this campus, and no water figure. Why our record calls the project Levis, which is a city near Quebec City more than 250 kilometres away, was not established."
+ },
+ {
+  "id": "developers2-stack-port-washington",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "On April 7, 2026, Port Washington, in Ozaukee County, Wisconsin, became the first city in the United States to put data center tax breaks to a public vote, and about 66 percent of voters said no.",
+    "src": "https://www.washingtonexaminer.com/policy/energy-and-environment/4520622/port-washington-wisconsin-restrict-data-centers/"
+   },
+   {
+    "para": 0,
+    "t": "The referendum requires city leaders to get voter approval before granting a developer tax incentives of more than $10 million. It was put on the ballot by residents and a local group called Great Lakes Neighbors United.",
+    "src": "https://www.washingtonexaminer.com/policy/energy-and-environment/4520622/port-washington-wisconsin-restrict-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "What prompted it was a proposed 1.3 gigawatt AI data center campus, backed by OpenAI and Oracle and put at $15 billion, part of the Stargate program, about 2 kilometers from the STACK site, alongside a second Stargate site under construction.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Oracle said the project would put $175 million into local infrastructure including water and wastewater systems, and create more than 4,000 construction jobs and 1,000 permanent ones.",
+    "src": "https://broadbandbreakfast.com/wisconsin-town-votes-to-restrict-tax-incentives-for-openai-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Officials had to move meetings to fit the crowds turning up to object, over energy and water use, environmental effects, and the way the city had gone about it.",
+    "src": "https://broadbandbreakfast.com/wisconsin-town-votes-to-restrict-tax-incentives-for-openai-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "STACK's own proposed site is on West Grand Avenue, about 2 kilometers from the 1,237 megawatt Port Washington Generating Station. An outright ban on data centers is now in force in Port Washington, with a proposed Fredonia data center about 8 kilometers away and a cancelled Milwaukee project about 34 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.washingtonexaminer.com/policy/energy-and-environment/4520622/port-washington-wisconsin-restrict-data-centers/",
+   "https://broadbandbreakfast.com/wisconsin-town-votes-to-restrict-tax-incentives-for-openai-data-center/",
+   "https://www.stackinfra.com/locations/"
+  ],
+  "unconfirmed": "No capacity, size, investment, timeline or planning application for the STACK Port Washington project itself was found, and no source reached says whether it is affected by the ban our record lists or by the referendum. No individual resident or city official is quoted in the sources reached, and the terms and date of the ban were not established."
+ }
+]

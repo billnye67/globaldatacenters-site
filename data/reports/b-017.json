@@ -1,0 +1,335 @@
+[
+ {
+  "id": "gemini-coreweave-phoenix",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CoreWeave is building a 200 megawatt GPU data center at Phoenix, in Maricopa County, Arizona, one of several it has under construction across the United States.",
+    "src": "https://morethanjustparks.com/data-center-tracker/coreweave-phoenix-gpu-cloud-az--aa604b90-6f52-4757-b48c-32c08473c636"
+   },
+   {
+    "para": 0,
+    "t": "The company ended 2025 with more than 850 megawatts of active power and more than 3.1 gigawatts contracted, almost all of which it expects to come online by the end of 2027.",
+    "src": "https://www.coreweave.com/blog/our-capacity-plans-for-coreweave-data-centers"
+   },
+   {
+    "para": 0,
+    "t": "No address, opening date or water figure for the Phoenix site has been published.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Arizona has begun asking whether it can carry any more of this.",
+    "src": "https://www.azfamily.com/2026/08/31/ag-mayes-calls-statewide-pause-new-data-center-construction/"
+   },
+   {
+    "para": 1,
+    "t": "On August 31, 2026 the state's attorney general, Kris Mayes, asked the legislature and Governor Katie Hobbs to stop approving new data centers: \"Data centers are power- and water-intensive, and Arizona is challenged on both fronts right now.\"",
+    "src": "https://www.azfamily.com/2026/08/31/ag-mayes-calls-statewide-pause-new-data-center-construction/"
+   },
+   {
+    "para": 1,
+    "t": "The federal government had cut Arizona's Colorado River allocation by close to 30 percent, and a 2025 analysis by Ceres projected data center water demand across greater Phoenix rising by 450 percent.",
+    "src": "https://www.azfamily.com/2026/08/31/ag-mayes-calls-statewide-pause-new-data-center-construction/"
+   },
+   {
+    "para": 1,
+    "t": "Phoenix adopted Ordinance G-7396 on July 2, 2025, bringing data centers into a special permit framework in named commercial and industrial districts with standards for siting, noise, design and public safety.",
+    "src": "https://servercountry.org/policy/arizona/"
+   }
+  ],
+  "sources": [
+   "https://morethanjustparks.com/data-center-tracker/coreweave-phoenix-gpu-cloud-az--aa604b90-6f52-4757-b48c-32c08473c636",
+   "https://www.coreweave.com/blog/our-capacity-plans-for-coreweave-data-centers",
+   "https://www.azfamily.com/2026/08/31/ag-mayes-calls-statewide-pause-new-data-center-construction/",
+   "https://servercountry.org/policy/arizona/"
+  ],
+  "unconfirmed": "Searches on CoreWeave with Phoenix, on Phoenix with data center, and on CoreWeave with Arizona found no address, no permit record, no water figure and no resident comment naming this facility. The 200 megawatt figure comes from a tracking site rather than from the company. CoreWeave leases rather than builds in most markets, so this may be space inside another operator's building."
+ },
+ {
+  "id": "gemini-coreweave-raleigh",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A CoreWeave data center is listed at Raleigh, North Carolina, on coordinates that fall in Chatham County, but no CoreWeave facility there has been reported.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The company's North Carolina presence that does appear in listings is at Winston-Salem, about 170 kilometres away.",
+    "src": "https://www.datacenters.com/providers/coreweave/locations/united-states/north-carolina"
+   }
+  ],
+  "sources": [
+   "https://www.datacenters.com/providers/coreweave/locations/united-states/north-carolina",
+   "https://www.flexential.com/resources/press-release/coreweave-expands-data-center-footprint-two-new-flexential-colocation",
+   "https://www.coreweave.com/blog/our-capacity-plans-for-coreweave-data-centers"
+  ],
+  "unconfirmed": "Three searches found no CoreWeave facility at Raleigh or in Chatham County. The company's North Carolina presence that does appear in listings is at Winston-Salem, about 170 kilometres away."
+ },
+ {
+  "id": "gemini-coreweave-santa-clara",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CoreWeave has a data center in Santa Clara, California, and nothing else about it has been published: no address, no capacity, no date.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "Santa Clara is where this industry has run out of electricity.",
+    "src": "https://www.tomshardware.com/tech-industry/data-centers-in-nvidias-hometown-sit-idle-as-grid-struggles-to-keep-up"
+   },
+   {
+    "para": 1,
+    "t": "Two finished buildings in the city, STACK's 48 megawatt SVY02A and a Digital Realty facility, stand complete and unpowered, close to 100 megawatts of capacity that cannot be switched on.",
+    "src": "https://www.tomshardware.com/tech-industry/data-centers-in-nvidias-hometown-sit-idle-as-grid-struggles-to-keep-up"
+   },
+   {
+    "para": 1,
+    "t": "The city has 57 data center facilities active or in progress and is spending $450 million on grid upgrades due to finish in 2028, with the municipal utility sequencing power delivery between customers as new substations and transmission lines come on.",
+    "src": "https://www.tomshardware.com/tech-industry/data-centers-in-nvidias-hometown-sit-idle-as-grid-struggles-to-keep-up"
+   },
+   {
+    "para": 1,
+    "t": "Neither idle project has a firm date for full energization.",
+    "src": "https://www.datacenterdynamics.com/en/news/silicon-valley-data-centers-stand-empty-awaiting-power-connections-report/"
+   },
+   {
+    "para": 2,
+    "t": "Santa Clara County has 25 data centers, run by Amazon, Equinix, QTS, Digital Realty, STACK Infrastructure and others.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://www.tomshardware.com/tech-industry/data-centers-in-nvidias-hometown-sit-idle-as-grid-struggles-to-keep-up",
+   "https://www.datacenterdynamics.com/en/news/silicon-valley-data-centers-stand-empty-awaiting-power-connections-report/"
+  ],
+  "unconfirmed": "Searches on CoreWeave with Santa Clara, on Santa Clara with data center power, and on CoreWeave with California found no address, capacity, water figure, opening date or resident comment for this facility, and nothing establishing whether it is among the buildings waiting on power. CoreWeave leases rather than builds in most markets, so this may be space inside another operator's building."
+ },
+ {
+  "id": "gemini-applied-digital-jamestown",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Applied Digital's first site was at Jamestown, in Stutsman County, North Dakota: a 106 megawatt data center built for $82 million in 2021 for blockchain work, which now employs 40 people.",
+    "src": "https://www.minotdailynews.com/news/local-news/2026/05/u-s-data-center-boom-comes-to-nd/"
+   },
+   {
+    "para": 0,
+    "t": "It was the company's first site, and it has since built at Ellendale, started a $3 billion, 280 megawatt facility at Harwood near Fargo, been approved for one about 40 miles northwest of Bismarck, and begun looking at Oliver County for a third.",
+    "src": "https://www.jamestownsun.com/news/fargo/will-data-centers-increase-electrical-bills-water-use-and-noise-levels-in-north-dakota"
+   },
+   {
+    "para": 1,
+    "t": "The argument in North Dakota is about noise, bills and water, in that order.",
+    "src": "https://www.jamestownsun.com/news/fargo/will-data-centers-increase-electrical-bills-water-use-and-noise-levels-in-north-dakota"
+   },
+   {
+    "para": 1,
+    "t": "The cautionary example people cite is not Jamestown but Williston, where Atlas Power built 800 feet from occupied houses and left neighbors with a continuous 50 to 55 decibels, about the hum of a refrigerator, against a rural night time background of 30 to 35.",
+    "src": "https://www.jamestownsun.com/news/fargo/will-data-centers-increase-electrical-bills-water-use-and-noise-levels-in-north-dakota"
+   },
+   {
+    "para": 1,
+    "t": "Residents there have sued.",
+    "src": "https://www.minotdailynews.com/news/local-news/2026/05/u-s-data-center-boom-comes-to-nd/"
+   },
+   {
+    "para": 1,
+    "t": "At half a mile the sound falls to 40 decibels or less; at Harwood the nearest house is half a mile east and the nearest town home more than a mile away, and Applied Digital has put a wall round its Ellendale site and uses silencing equipment and sound barriers.",
+    "src": "https://www.jamestownsun.com/news/fargo/will-data-centers-increase-electrical-bills-water-use-and-noise-levels-in-north-dakota"
+   },
+   {
+    "para": 2,
+    "t": "On bills the company and the state make the opposite case to the one residents fear.",
+    "src": "https://www.jamestownsun.com/news/fargo/will-data-centers-increase-electrical-bills-water-use-and-noise-levels-in-north-dakota"
+   },
+   {
+    "para": 2,
+    "t": "An Electric Power Research Institute study found data center growth pushed electricity rates down 6 percent between 2019 and 2024, and Montana-Dakota Utilities customers in North Dakota are said to have saved $45 million since the Ellendale project started.",
+    "src": "https://www.jamestownsun.com/news/fargo/will-data-centers-increase-electrical-bills-water-use-and-noise-levels-in-north-dakota"
+   },
+   {
+    "para": 2,
+    "t": "Nick Phillips, Applied Digital's executive vice president of public affairs and real estate, said: \"Ellendale is now by far the largest property taxpayer in (Dickey) county. It's about $4.3 million in property tax for 2026, and that's in our partially constructed state.\"",
+    "src": "https://www.jamestownsun.com/news/fargo/will-data-centers-increase-electrical-bills-water-use-and-noise-levels-in-north-dakota"
+   },
+   {
+    "para": 2,
+    "t": "Robert Mayo, a research specialist at North Dakota State University's Challey Institute who wrote a guide to the industry for the state, said his aim was that \"citizens and policymakers have accurate facts so that they can, based on those facts, choose the policy that will get them the result they want,\" and that when a facility is proposed, \"you want them to be good neighbors, not annoying problem neighbors that cost you.\"",
+    "src": "https://www.jamestownsun.com/news/fargo/will-data-centers-increase-electrical-bills-water-use-and-noise-levels-in-north-dakota"
+   },
+   {
+    "para": 3,
+    "t": "Applied Digital's closed loop cooling is said in Mayo's guide to use less water than a single family home.",
+    "src": "https://www.jamestownsun.com/news/fargo/will-data-centers-increase-electrical-bills-water-use-and-noise-levels-in-north-dakota"
+   },
+   {
+    "para": 3,
+    "t": "An interim legislative committee on AI and data centers held its first meeting in mid July 2026.",
+    "src": "https://www.jamestownsun.com/news/fargo/will-data-centers-increase-electrical-bills-water-use-and-noise-levels-in-north-dakota"
+   }
+  ],
+  "sources": [
+   "https://www.minotdailynews.com/news/local-news/2026/05/u-s-data-center-boom-comes-to-nd/",
+   "https://www.jamestownsun.com/news/fargo/will-data-centers-increase-electrical-bills-water-use-and-noise-levels-in-north-dakota"
+  ],
+  "unconfirmed": "Searches on Applied Digital with Jamestown, on Jamestown North Dakota with data center noise, and on North Dakota with data center residents found no noise complaint, hearing record or resident comment about the Jamestown site itself. The noise, lawsuit and setback material above concerns Williston and Harwood; the bill and tax figures concern Ellendale. No water figure for Jamestown alone was found."
+ },
+ {
+  "id": "gemini-core-scientific-austin",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Core Scientific's Austin data center is at 3301 Hibbetts Road in Travis County, Texas, on 38 acres.",
+    "src": "https://www.datacentermap.com/usa/texas/austin/core-scientific-austin/"
+   },
+   {
+    "para": 0,
+    "t": "The building was Hewlett Packard's, housing its hosting business and high performance computing, until Core Scientific bought it in 2024.",
+    "src": "https://corescientific.com/high-density-data-centers/austin-tx/"
+   },
+   {
+    "para": 0,
+    "t": "It runs to 312,000 square feet with 118,000 square feet of compute space and 16 megawatts of power, and CoreWeave leased the space soon after the acquisition.",
+    "src": "https://corescientific.com/high-density-data-centers/austin-tx/"
+   },
+   {
+    "para": 1,
+    "t": "Because it is a conversion of an existing building rather than a new campus on farmland, it has drawn none of the argument that follows this company elsewhere in Texas.",
+    "src": "data:note"
+   },
+   {
+    "para": 2,
+    "t": "Since August 3, 2026 Texas has frozen new grid connections for large power users while regulators audit what the data centers in the queue would draw.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.datacentermap.com/usa/texas/austin/core-scientific-austin/",
+   "https://corescientific.com/high-density-data-centers/austin-tx/"
+  ],
+  "unconfirmed": "Three searches found no hearing, no permit dispute and no resident comment about the Austin site."
+ },
+ {
+  "id": "gemini-start-sines-4-0",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Sines 4.0 is the hyperscale data centre campus Start Campus is building in the Sines Industrial and Logistics Zone in Portugal, next to the thermoelectric power station and adjacent to the port.",
+    "src": "https://www.submarinenetworks.com/en/stations/europe/portugal/start-campus-sines-4-0"
+   },
+   {
+    "para": 0,
+    "t": "It is planned at up to 450 megawatts across nine buildings, on an investment of up to 3.5 billion euro, and Start Campus is owned by the American firm Davidson Kempner Capital Management and the British firm Pioneer Point Partners.",
+    "src": "https://www.submarinenetworks.com/en/stations/europe/portugal/start-campus-sines-4-0"
+   },
+   {
+    "para": 0,
+    "t": "The first building, called NEST, was completed in 2024, with the other eight due by 2028.",
+    "src": "https://www.submarinenetworks.com/en/stations/europe/portugal/start-campus-sines-4-0"
+   },
+   {
+    "para": 1,
+    "t": "This appears to be the same development carried separately as the Start Campus Sines data campus, where the figures are given as six buildings and 1.2 gigawatts on 8.5 billion euro.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "No source reconciles the two sets of numbers.",
+    "src": "data:note"
+   },
+   {
+    "para": 2,
+    "t": "The campus was named in Operation Influencer, the corruption investigation that led Portugal's prime minister Antonio Costa to resign in November 2023, and two Start Campus executives resigned while under investigation before the charges against them were dropped.",
+    "src": "https://www.commondreams.org/opinion/sines-4-0-data-center-portugal"
+   },
+   {
+    "para": 2,
+    "t": "Approval for felling 1,800 cork oaks was granted at the EDP Renovaveis Morgavel wind farm that is to supply it, and at full build the campus would consume 4,769.8 gigawatt hours a year, about 20 percent of all the renewable electricity Portugal generated in 2022.",
+    "src": "https://www.commondreams.org/opinion/sines-4-0-data-center-portugal"
+   }
+  ],
+  "sources": [
+   "https://www.submarinenetworks.com/en/stations/europe/portugal/start-campus-sines-4-0",
+   "https://www.commondreams.org/opinion/sines-4-0-data-center-portugal"
+  ],
+  "unconfirmed": "Whether Sines 4.0 and our separate Start Campus Sines entry are the same project could not be settled: the building counts, capacities and investment figures differ across sources and none of them explains the difference. No water figure was found, and no resident of Sines is quoted anywhere we could read. This duplication is logged in our notes on reporting against the record."
+ },
+ {
+  "id": "gemini-ytl-green-park",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The YTL Green Data Center Park covers 275 acres at Kulai in Johor, Malaysia, about 30 kilometres from Singapore, and is planned at 500 megawatts.",
+    "src": "https://www.mida.gov.my/media-release/ytl-data-centers-and-sea-break-ground-with-the-rm1-5bil-first-phase-of-the-500mw-ytl-green-data-center-park-in-johor/"
+   },
+   {
+    "para": 0,
+    "t": "YTL and Sea broke ground on a first phase worth RM1.5 billion, and the park sits next to 1,500 acres set aside for solar farms, which is what YTL means in calling it the first integrated data centre park in Malaysia powered by renewable solar energy.",
+    "src": "https://www.mida.gov.my/media-release/ytl-data-centers-and-sea-break-ground-with-the-rm1-5bil-first-phase-of-the-500mw-ytl-green-data-center-park-in-johor/"
+   },
+   {
+    "para": 0,
+    "t": "In April 2026 YTL Power International said it would try to double the park's capacity within three years, having secured commitments for up to 300 megawatts.",
+    "src": "https://www.ytlpowerinternational.com/our-businesses/data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "Johor's build out has brought jobs and a problem.",
+    "src": "https://restofworld.org/2024/malaysia-data-center-jobs-environment/"
+   },
+   {
+    "para": 1,
+    "t": "Residents and local authorities have raised rising property prices and shortages of power and water, the two things this industry needs most and the state has least spare of.",
+    "src": "https://restofworld.org/2024/malaysia-data-center-jobs-environment/"
+   },
+   {
+    "para": 1,
+    "t": "The park has access to grid power as well as the solar, and to water.",
+    "src": "https://www.mida.gov.my/media-release/ytl-data-centers-and-sea-break-ground-with-the-rm1-5bil-first-phase-of-the-500mw-ytl-green-data-center-park-in-johor/"
+   },
+   {
+    "para": 2,
+    "t": "Johor now holds several of the largest campuses in the region, among them DayOne's sites at Nusajaya and Kempas Tech Park.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.mida.gov.my/media-release/ytl-data-centers-and-sea-break-ground-with-the-rm1-5bil-first-phase-of-the-500mw-ytl-green-data-center-park-in-johor/",
+   "https://restofworld.org/2024/malaysia-data-center-jobs-environment/",
+   "https://www.ytlpowerinternational.com/our-businesses/data-centers/"
+  ],
+  "unconfirmed": "Searches on YTL with Kulai, on Johor with data centre water and electricity, and on the YTL Green Data Center Park found no water withdrawal figure for the park, no planning record and no Johor resident quoted by name about this site in particular. The groundbreaking date was not established. Almost all the detail above comes from the developer or from Malaysia's investment development authority."
+ },
+ {
+  "id": "gemini-khazna-ajman",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Khazna Data Centers, backed by Abu Dhabi's G42, operates an AI-focused data center complex in Ajman, one of the smaller emirates of the UAE.",
+    "src": "data:developer"
+   },
+   {
+    "para": 0,
+    "t": "An industry report from Mordor Intelligence describes it as a 100-megawatt, AI-optimized complex with 20 halls built for GPU clusters, part of Khazna's October 2025 plan to add more than a gigawatt of capacity globally over five years, including new projects in Abu Dhabi, Dubai and Ajman.",
+    "src": "https://www.mordorintelligence.com/industry-reports/united-arab-emirates-data-center-construction-market"
+   },
+   {
+    "para": 1,
+    "t": "That 100-megawatt figure is far below the 650 megawatts given for this project, and no source settles which is accurate.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Khazna's regional buildout, including Ajman, is supported by a $2.62 billion financing facility from Abu Dhabi Commercial Bank and First Abu Dhabi Bank announced in September 2025.",
+    "src": "https://www.mordorintelligence.com/industry-reports/united-arab-emirates-data-center-construction-market"
+   }
+  ],
+  "sources": [
+   "https://www.mordorintelligence.com/industry-reports/united-arab-emirates-data-center-construction-market"
+  ],
+  "unconfirmed": "Capacity is disputed: 100 MW per the Mordor Intelligence report versus 650 MW in our own record. We could not reach Khazna's own website (connection refused) and found no local news coverage or details on land, water or community impact in Ajman."
+ }
+]

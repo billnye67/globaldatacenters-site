@@ -1,0 +1,61 @@
+project_name;developer_or_owner;tenant;city;state_or_region;country;address;latitude;longitude;capacity_mw;site_size;status;year_announced;year_operating_or_planned;note;source_url
+QTS Ashburn 2;QTS;hyperscale;Sterling;Virginia;United States;Sterling, VA 20166;;;;75;24 acres;operating;;;;https://q.com/data-centers/
+QTS Ashburn 3;QTS;hyperscale;Ashburn;Virginia;United States;Ashburn, VA 20147;;;;80;25 acres;operating;;;;https://q.com/data-centers/
+QTS Atlanta 1 (Metro);QTS;hyperscale;Atlanta;Georgia;United States;1033 Jefferson St NW, Atlanta, GA 30318;;;;278;99 acres;operating;;;;https://q.com/data-centers/
+QTS Augusta;QTS;hyperscale;Augusta;Georgia;United States;Augusta, GA;;;;;;under construction;;;In development per QTS;https://q.com/data-centers/
+QTS Bessemer;QTS;hyperscale;Bessemer;Alabama;United States;Bessemer, AL 35022;;;;;;under construction;;;In development per QTS;https://q.com/data-centers/
+QTS Calatorao;QTS;hyperscale;Calatorao;Aragon;Spain;Calatorao, Zaragoza, Spain;;;;;;proposed;;;In consideration per QTS;https://q.com/data-centers/
+QTS Chicago;QTS;hyperscale;Chicago;Illinois;United States;Chicago, IL;;;;95;30 acres;operating;;;;https://q.com/data-centers/
+QTS Clinton Iowa;QTS;hyperscale;Clinton;Iowa;United States;Clinton, IA 52732;;;;;;proposed;;;In consideration per QTS;https://q.com/data-centers/
+QTS Denver (Aurora);QTS;hyperscale;Aurora;Colorado;United States;Aurora, CO;;;;160;65 acres;operating;;;;https://q.com/data-centers/
+QTS East Windsor;QTS;hyperscale;East Windsor;New Jersey;United States;East Windsor, NJ 08520;;;;70;52 acres;operating;;;;https://q.com/data-centers/
+QTS Fayetteville (ATL2);QTS;Microsoft;Fayetteville;Georgia;United States;1435 Highway 54 W, Fayetteville, GA 30214;;;;;;under construction;;;ATL2 East is a 2M sq ft expansion;https://baxtel.com/data-centers/qts-data-centers
+QTS Forssa;QTS;hyperscale;Forssa;Kanta-Hame;Finland;Forssa, Finland;;;;;;proposed;;;In consideration per QTS;https://q.com/data-centers/
+QTS Fort Worth;QTS;hyperscale;Fort Worth;Texas;United States;Fort Worth, TX;;;;70;52 acres;operating;;;;https://q.com/data-centers/
+QTS Hall County Texas;QTS;hyperscale;Memphis;Texas;United States;Hall County, TX;;;;;;under construction;;;In development per QTS;https://q.com/data-centers/
+QTS Hillsboro 1;QTS;hyperscale;Hillsboro;Oregon;United States;Hillsboro, OR 97124;;;;20;25 acres;operating;;;;https://q.com/data-centers/
+QTS Hillsboro 3;QTS;hyperscale;Hillsboro;Oregon;United States;4425 NE Huffman St, Hillsboro, OR 97124;;;;;;under construction;;;;https://baxtel.com/data-centers/qts-data-centers
+QTS Howard County Texas;QTS;hyperscale;Big Spring;Texas;United States;Howard County, TX;;;;;;proposed;;;In consideration per QTS;https://q.com/data-centers/
+QTS Irving;QTS;hyperscale;Irving;Texas;United States;6431 Longhorn Dr, Irving, TX 75063;;;;165;56 acres;operating;;;;https://www.datacentermap.com/usa/texas/dallas/qts-irving/
+QTS Manassas 1;QTS;hyperscale;Manassas;Virginia;United States;Manassas, VA 20109;;;;190;105 acres;operating;;;;https://q.com/data-centers/
+QTS New Albany 1;QTS;hyperscale;New Albany;Ohio;United States;1225 Beech Rd SW, New Albany, OH 43054;;;;;;under construction;;;Two buildings;https://baxtel.com/data-centers/qts-data-centers
+QTS New Albany 2;QTS;hyperscale;Pataskala;Ohio;United States;785 Beech Rd SW, Pataskala, OH 43062;;;;;;under construction;;;Two buildings;https://baxtel.com/data-centers/qts-data-centers
+QTS Phoenix 2;QTS;hyperscale;Phoenix;Arizona;United States;Phoenix, AZ;;;;;;under construction;;;In development per QTS;https://q.com/data-centers/
+QTS Phoenix 4 (Avondale);QTS;hyperscale;Avondale;Arizona;United States;Avondale, AZ 85323;;;;;;under construction;;;In development per QTS;https://q.com/data-centers/
+QTS Porter County;QTS;hyperscale;Porter County;Indiana;United States;Porter County, IN;;;;;;proposed;;;In consideration per QTS;https://qtsdatacenters.com/us-locations
+QTS Richmond 5;QTS;hyperscale;Sandston;Virginia;United States;Sandston, VA 23150;;;;;;under construction;;;;https://q.com/data-centers/
+QTS Salem Township;QTS;hyperscale;Salem Township;Pennsylvania;United States;Salem Township, Luzerne County, PA;;;;;;proposed;;;In consideration per QTS;https://q.com/data-centers/
+QTS San Antonio;QTS;hyperscale;San Antonio;Texas;United States;San Antonio, TX;;;;90;32 acres;operating;;;;https://q.com/data-centers/
+QTS South Dallas (Wilmer);QTS;hyperscale;Wilmer;Texas;United States;Wilmer, TX 75172;;;;;;under construction;;;In development per QTS;https://q.com/data-centers/
+QTS Suwanee 1;QTS;hyperscale;Suwanee;Georgia;United States;300 Satellite Blvd, Suwanee, GA 30024;;;;50;53 acres;operating;;;;https://q.com/data-centers/
+QTS York County;QTS;hyperscale;York County;South Carolina;United States;York County, SC;;;;;;under construction;;;In development per QTS;https://q.com/data-centers/
+QTS Eemshaven;QTS;hyperscale;Eemshaven;Groningen;Netherlands;9979XR Eemshaven, Netherlands;;;;20;;operating;;;;https://q.com/data-centers/
+STACK Melbourne (MEL01);STACK Infrastructure;hyperscale;Truganina;Victoria;Australia;399 Palmers Rd, Truganina, VIC, Australia;;;;;;operating;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Perth (PER01);STACK Infrastructure;hyperscale;Wangara;Western Australia;Australia;92 Windsor Rd, Wangara, WA, Australia;;;;;;operating;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Canberra (CAN01);STACK Infrastructure;hyperscale;Hume;ACT;Australia;56 Sheppard St, Hume, ACT, Australia;;;;;;operating;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Toronto (TOR01);STACK Infrastructure;hyperscale;Scarborough;Ontario;Canada;3650 Danforth Ave, Scarborough, ON, Canada;;;;56;;operating;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Frankfurt (FRA01);STACK Infrastructure;hyperscale;Liederbach;Hesse;Germany;Sindlinger Weg 1, Liederbach am Taunus, Germany;;;;;;operating;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Milan (Siziano);STACK Infrastructure;hyperscale;Siziano;Lombardy;Italy;Via Marche 8-10, Siziano, Italy;;;;;;operating;;;Five buildings;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Tokyo (Inzai TKY01);STACK Infrastructure;hyperscale;Inzai;Chiba;Japan;1 Chome Hara, Inzai, Chiba, Japan;;;;;;operating;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Osaka (KIX01);STACK Infrastructure;hyperscale;Kyotanabe;Kyoto;Japan;3 Chome Hikaridai, Seika, Kyoto, Japan;;;;;;operating;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Johor (JHB01);STACK Infrastructure;hyperscale;Iskandar Puteri;Johor;Malaysia;Nusajaya Technology Park, Iskandar Puteri, Johor, Malaysia;;;;;;under construction;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Oslo (OSL03 Fetsund);STACK Infrastructure;hyperscale;Fetsund;Akershus;Norway;Heiaveien 9, 1900 Fetsund, Norway;;;;;;operating;;;Four buildings;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Stockholm (STO01);STACK Infrastructure;hyperscale;Upplands Vasby;Stockholm;Sweden;Smedbyvagen 6, Upplands Vasby, Sweden;;;;;;operating;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Zurich (ZUR01);STACK Infrastructure;hyperscale;Zurich;Zurich;Switzerland;Industriestrasse 16, Zurich, Switzerland;;;;;;operating;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK San Jose (SVY01);STACK Infrastructure;hyperscale;San Jose;California;United States;2001 Fortune Dr, San Jose, CA 95131;;;;;;operating;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Hayward (SVY03);STACK Infrastructure;hyperscale;Hayward;California;United States;26203 Production Ave, Hayward, CA 94545;;;;;;operating;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Alpharetta (ATL01);STACK Infrastructure;hyperscale;Alpharetta;Georgia;United States;3200 Webb Bridge Rd, Alpharetta, GA 30005;;;;;;operating;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Atlanta (ATL02 Factory Shoals);STACK Infrastructure;hyperscale;Atlanta;Georgia;United States;808 Factory Shoals Rd, Atlanta, GA 30336;;;;;;under construction;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Chicago (CHI01 Touhy);STACK Infrastructure;hyperscale;Elk Grove Village;Illinois;United States;1441 Touhy Ave, Elk Grove Village, IL 60007;;;;;;operating;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK New Albany (NAL01);STACK Infrastructure;hyperscale;New Albany;Ohio;United States;7300 Souder Rd, New Albany, OH 43054;;;;;;operating;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Hillsboro (POR01);STACK Infrastructure;hyperscale;Hillsboro;Oregon;United States;3145 NE Brookwood Pkwy, Hillsboro, OR 97124;;;;;;operating;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Dallas (DFW01 Pinecrest);STACK Infrastructure;hyperscale;Dallas;Texas;United States;6653 Pinecrest Dr, Dallas, TX 75212;;;;;;operating;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Dallas (DFW02 Belt Line);STACK Infrastructure;hyperscale;Lancaster;Texas;United States;E Belt Line Rd, Lancaster, TX 75146;;;;;102 acres;under construction;;;Six buildings;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Loudoun County (Evergreen Mills);STACK Infrastructure;hyperscale;Ashburn;Virginia;United States;Evergreen Mills Rd, Ashburn, VA 20148;;;;;;under construction;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Ashburn (NVA01 Pacific Blvd);STACK Infrastructure;hyperscale;Ashburn;Virginia;United States;22080 Pacific Blvd, Ashburn, VA 20147;;;;;;operating;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Ashburn (NVA06 Compass Creek);STACK Infrastructure;hyperscale;Leesburg;Virginia;United States;19275 Compass Creek Pkwy, Leesburg, VA 20175;;;;;;under construction;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Sterling (NVA04 Lockridge);STACK Infrastructure;hyperscale;Sterling;Virginia;United States;22275 Lockridge Rd, Sterling, VA 20166;;;;;;operating;;;Three buildings;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Manassas (NVA05 Freedom Center);STACK Infrastructure;hyperscale;Manassas;Virginia;United States;9101 Freedom Center Blvd, Manassas, VA 20110;;;;;;operating;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Fredericksburg (Gordon Shelton);STACK Infrastructure;hyperscale;Fredericksburg;Virginia;United States;Gordon W Shelton Blvd, Fredericksburg, VA 22408;;;;;;proposed;;;;https://datacentermap.com/c/stack-infrastructure/datacenters
+STACK Stafford Technology Campus;STACK Infrastructure;hyperscale;Stafford;Virginia;United States;Richmond Hwy & Eskimo Hill Rd, Stafford, VA 22554;;;;1000;500 acres;proposed;;2030;23 buildings planned;https://datacentermap.com/c/stack-infrastructure/datacenters
+AWS Varennes (Montreal);Amazon Web Services;AWS;Varennes;Quebec;Canada;1790 Boulevard Lionel-Boulet, Varennes, QC J3X 1S1, Canada;;;;;;under construction;;;Two buildings, ca-central-1;https://www.datacentermap.com/canada/montreal/

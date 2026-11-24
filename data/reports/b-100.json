@@ -1,0 +1,625 @@
+[
+ {
+  "id": "ft-1775093225991-3279",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Blueprint is building two data centers in Williamson County, and this is the smaller one.",
+    "src": "https://www.hellogeorgetown.com/coming-soon-to-georgetown/blueprint-data-centers-commits-160m-to-georgetown-site-tied-to-taylor-expansion/"
+   },
+   {
+    "para": 0,
+    "t": "The Georgetown site at 1201 Westinghouse Road is 45,000 square feet on ten acres, up to 25 megawatts, at $160 million, backed by Northampton Capital Partners.",
+    "src": "https://www.hellogeorgetown.com/coming-soon-to-georgetown/blueprint-data-centers-commits-160m-to-georgetown-site-tied-to-taylor-expansion/"
+   },
+   {
+    "para": 0,
+    "t": "The city council approved the zoning and the incentives in September 2024, with the first phase due late in 2026 and completion early in 2027.",
+    "src": "https://www.hellogeorgetown.com/coming-soon-to-georgetown/blueprint-data-centers-commits-160m-to-georgetown-site-tied-to-taylor-expansion/"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 20 acres, 35 megawatts and $160 million and marks the project under construction.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The terms are specific.",
+    "src": "https://www.hellogeorgetown.com/coming-soon-to-georgetown/blueprint-data-centers-commits-160m-to-georgetown-site-tied-to-taylor-expansion/"
+   },
+   {
+    "para": 1,
+    "t": "There is a ten year, 50 percent property tax abatement through local economic development agreements.",
+    "src": "https://www.hellogeorgetown.com/coming-soon-to-georgetown/blueprint-data-centers-commits-160m-to-georgetown-site-tied-to-taylor-expansion/"
+   },
+   {
+    "para": 1,
+    "t": "Water comes through the Brazos River Authority and Georgetown's thirty year agreement with GateHouse Water for up to 18,500 acre-feet a year, and electricity from Georgetown Utility Systems, the city's own utility, on a commercial rate with dedicated service agreements.",
+    "src": "https://www.hellogeorgetown.com/coming-soon-to-georgetown/blueprint-data-centers-commits-160m-to-georgetown-site-tied-to-taylor-expansion/"
+   },
+   {
+    "para": 1,
+    "t": "Together with the sister project at Taylor, the two would deliver more than 85 megawatts to the region.",
+    "src": "https://www.hellogeorgetown.com/coming-soon-to-georgetown/blueprint-data-centers-commits-160m-to-georgetown-site-tied-to-taylor-expansion/"
+   },
+   {
+    "para": 2,
+    "t": "Twelve data center sites are counted in Williamson County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "An operating Georgetown data center is two kilometres away, three Round Rock sites eleven, and the Hutto project that residents stopped eleven.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The generation nearby is batteries and solar: two 100 megawatt storage plants at 21 and 27 kilometres and a 144 megawatt solar farm at 27.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Georgetown has no moratorium; what reaches it is Governor Abbott's direction of August 3, 2026 to the Public Utility Commission of Texas and ERCOT to review the electricity and water demands, infrastructure, tax incentives, ownership and community effects of data centers seeking to connect to the grid.",
+    "src": "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+   }
+  ],
+  "sources": [
+   "https://www.hellogeorgetown.com/coming-soon-to-georgetown/blueprint-data-centers-commits-160m-to-georgetown-site-tied-to-taylor-expansion/",
+   "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+  ],
+  "unconfirmed": "Our 20 acres and 35 megawatts do not match the ten acres and 25 megawatts in the account read, which also gives no street address, so the address on this page is our record's. No water volume for the data center itself is given. Whether the first phase opened on time in late 2026 was not established, and no public objection to the Georgetown site was found."
+ },
+ {
+  "id": "ft-533",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "An operating data center is recorded at 201 Blue Ridge Drive in Georgetown, in Williamson County, Texas, with no developer and no capacity figure.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The entry gives one source for it, a state environmental agency mapping layer, and no objection to it has been recorded.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Two kilometres away, a second one is being built, and that one is documented.",
+    "src": "https://www.hellogeorgetown.com/coming-soon-to-georgetown/blueprint-data-centers-commits-160m-to-georgetown-site-tied-to-taylor-expansion/"
+   },
+   {
+    "para": 1,
+    "t": "Blueprint Data Centers is putting 45,000 square feet on ten acres at 1201 Westinghouse Road, up to 25 megawatts, at $160 million, with council approval for the zoning and incentives in September 2024 and a first phase due late in 2026.",
+    "src": "https://www.hellogeorgetown.com/coming-soon-to-georgetown/blueprint-data-centers-commits-160m-to-georgetown-site-tied-to-taylor-expansion/"
+   },
+   {
+    "para": 1,
+    "t": "It has a ten year, 50 percent property tax abatement, takes water through the Brazos River Authority and Georgetown's thirty year agreement with GateHouse Water, and buys electricity from Georgetown Utility Systems.",
+    "src": "https://www.hellogeorgetown.com/coming-soon-to-georgetown/blueprint-data-centers-commits-160m-to-georgetown-site-tied-to-taylor-expansion/"
+   },
+   {
+    "para": 1,
+    "t": "With its sister project at Taylor it would add more than 85 megawatts in the county.",
+    "src": "https://www.hellogeorgetown.com/coming-soon-to-georgetown/blueprint-data-centers-commits-160m-to-georgetown-site-tied-to-taylor-expansion/"
+   },
+   {
+    "para": 2,
+    "t": "Twelve data center sites are counted in Williamson County, which is as many as any county in Texas on record.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The cancelled Hutto project is twelve kilometres from here, Project Raptor twelve, and three Round Rock sites thirteen.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The generation nearby is two 100 megawatt battery plants at 23 and 25 kilometres and a 144 megawatt solar farm at 29.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Georgetown has written no moratorium on data centers, and this one predates the argument.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.hellogeorgetown.com/coming-soon-to-georgetown/blueprint-data-centers-commits-160m-to-georgetown-site-tied-to-taylor-expansion/"
+  ],
+  "unconfirmed": "Nothing describing the building at 201 Blue Ridge Drive was found: no operator, floor area, power draw or age, and our record holds no capacity figure. The environmental agency mapping layer our record cites was not opened. Whether this entry and the Blueprint site two kilometres away are related was not established."
+ },
+ {
+  "id": "ft-1778016460822-2764",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A 100 megawatt data center called the Lone Star Project is proposed in Glasscock County, Texas, from a company called Pace.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The record rates its confidence low, gives no address beyond the county and no acreage, and cites one source that refuses requests; nothing else describing it was found.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Glasscock County is empty enough that the wind is the only thing to describe.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "The 197 megawatt Bearkat farm is seven kilometres from the point the record uses, Rattlesnake Den at 207 megawatts ten, Lacy Creek at 301 megawatts 28 and Pioneer Hutt at 140 megawatts 30.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "That is more than 800 megawatts of wind within half an hour, which is the reason a 100 megawatt load would be proposed here.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Two data center sites are counted in the county.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "A Marathon Digital site at Garden City, formerly Applied Digital, is 13 kilometres away, and the FO Permian Partners proposal near Midland 30.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Glasscock County has written no moratorium on data centers, and nobody has objected to this one.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record could not be read and searches on the project name, the company and the county produced nothing describing it. No acreage, buildings, timetable, power arrangement or local process was established, and our record rates its own confidence low."
+ },
+ {
+  "id": "ft-1770304491188-7235",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Constable John Shirley measured 91 decibels coming off the Wolf Hollow data center at Granbury, in Hood County, a level the report puts roughly between a lawnmower and a chainsaw.",
+    "src": "https://time.com/6982015/bitcoin-mining-texas-health/"
+   },
+   {
+    "para": 0,
+    "t": "Texas law treats 85 decibels as the limit for reasonable noise, and over 2024 Shirley documented more than 35 breaches of it.",
+    "src": "https://time.com/6982015/bitcoin-mining-texas-health/"
+   },
+   {
+    "para": 0,
+    "t": "The Centers for Disease Control note that two hours at 90 decibels can damage hearing.",
+    "src": "https://time.com/6982015/bitcoin-mining-texas-health/"
+   },
+   {
+    "para": 0,
+    "t": "The entry puts the site at 2001 Mitchell Bend Highway in Granbury, marks it operating, holds no capacity figure and links a residents' group.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "More than 40 residents reported illness.",
+    "src": "https://time.com/6982015/bitcoin-mining-texas-health/"
+   },
+   {
+    "para": 1,
+    "t": "The list includes hypertension, heart palpitations, chest pain, vertigo, tinnitus, migraines and panic attacks, with at least ten people seeking emergency or urgent care.",
+    "src": "https://time.com/6982015/bitcoin-mining-texas-health/"
+   },
+   {
+    "para": 1,
+    "t": "Larry Potts, a retired pastor of 77, was rushed to hospital in February when his heart gave out, kept alive by an external pacemaker and diagnosed with third degree atrioventricular block, and five year old Indigo Rosenkranz had a seizure in July.",
+    "src": "https://time.com/6982015/bitcoin-mining-texas-health/"
+   },
+   {
+    "para": 1,
+    "t": "The German cardiologist Thomas Munzel, who studies noise and the heart, said the European Environment Agency \"tells us that everything above 55 decibels is making us sick\", and called levels of 70 to 90 decibels like torture.",
+    "src": "https://time.com/6982015/bitcoin-mining-texas-health/"
+   },
+   {
+    "para": 2,
+    "t": "The company said it would replace the majority of its air-cooled containers with immersion cooling by the end of 2024, while acknowledging the risk of converting the technology at that scale.",
+    "src": "https://time.com/6982015/bitcoin-mining-texas-health/"
+   },
+   {
+    "para": 2,
+    "t": "A sound wall built in 2023 at a cost of $1.9 million had made little difference.",
+    "src": "https://time.com/6982015/bitcoin-mining-texas-health/"
+   },
+   {
+    "para": 2,
+    "t": "Shirley's fines of $500 each came to about $17,500, against Marathon's revenue of $165 million in the first quarter of 2024, and the company asked for a jury trial to overturn the citations.",
+    "src": "https://time.com/6982015/bitcoin-mining-texas-health/"
+   },
+   {
+    "para": 3,
+    "t": "Granbury wrote zoning limits on data centers on May 21, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "Three data center sites are counted in Hood County: an AWS proposal six kilometres from here, the 600 megawatt Comanche Circle campus ten, and an approved Rock Creek campus 40.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The two Wolf Hollow gas plants, 1,103 and 756 megawatts, are one kilometre away, and the 2,400 megawatt Comanche Peak nuclear station seven.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://time.com/6982015/bitcoin-mining-texas-health/"
+  ],
+  "unconfirmed": "The account dates from 2024, so whether the immersion cooling conversion happened, what the noise is now, and how the citations were resolved are all unknown. No megawatt figure is published and our record holds none. The Texas Tribune piece our record also cites returned a 404."
+ },
+ {
+  "id": "ft-1771180842318-5355",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Harlingen, in Cameron County, became the first city in Texas to pause data centers, and it did so before anyone had formally applied.",
+    "src": "https://truchargv.com/how-to-halt-a-data-center-the-harlingen-texas-moratorium/"
+   },
+   {
+    "para": 0,
+    "t": "On May 23, 2026 the city commission approved a 120 day moratorium, after a public hearing, to research and update its ordinances.",
+    "src": "https://www.krgv.com/news/harlingen-officials-approve-120-day-moratorium-to-study-impact-of-potential-data-centers/"
+   },
+   {
+    "para": 0,
+    "t": "Mayor Norma Sepulveda said \"there are currently no proposed data center projects within Harlingen city limits,\" and Commissioner Daniel Lopez said \"to the best of my knowledge, as I sit here before you, I do not know of any other data center that is interested.\"",
+    "src": "https://www.krgv.com/news/harlingen-officials-approve-120-day-moratorium-to-study-impact-of-potential-data-centers/"
+   },
+   {
+    "para": 0,
+    "t": "Lopez put the purpose simply: \"The whole purpose of the moratorium is to make sure we as a community understand what's going on, that we have done our due diligence and so that our ordinances reflect what the people of Harlingen want.\"",
+    "src": "https://www.krgv.com/news/harlingen-officials-approve-120-day-moratorium-to-study-impact-of-potential-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "What is outside the city limits is large.",
+    "src": "https://truchargv.com/how-to-halt-a-data-center-the-harlingen-texas-moratorium/"
+   },
+   {
+    "para": 1,
+    "t": "Eneus Energy, a British company, plans a 1,785 acre campus east of Valley International Airport, projecting $14 billion of capital investment, about 1,000 jobs and $9 billion of economic impact through 2045, while calling those long term projections and \"not guarantees of future outcomes.\"",
+    "src": "https://truchargv.com/how-to-halt-a-data-center-the-harlingen-texas-moratorium/"
+   },
+   {
+    "para": 1,
+    "t": "The record carries 1,785 acres and 2,000 megawatts and marks the project proposed, with pushback recorded.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "The company is suing Cameron County and the Texas attorney general, Ken Paxton, to stop the release of records the attorney general wants disclosed: project timelines, water impacts and power demands on the local grid, incentives, land ownership deals, confidentiality agreements and communications with public officials.",
+    "src": "https://truchargv.com/how-to-halt-a-data-center-the-harlingen-texas-moratorium/"
+   },
+   {
+    "para": 2,
+    "t": "Amani Newman, who is 22, co-founded a civic education group called the For The People Alliance to push for transparency: \"Local activism is going to help disrupt institutional systems that can silence us and keep us in the dark.\"",
+    "src": "https://truchargv.com/how-to-halt-a-data-center-the-harlingen-texas-moratorium/"
+   },
+   {
+    "para": 2,
+    "t": "Residents spoke on both sides at the Harlingen hearing, and Lopez said they were \"bringing up things I never considered.\"",
+    "src": "https://www.krgv.com/news/harlingen-officials-approve-120-day-moratorium-to-study-impact-of-potential-data-centers/"
+   },
+   {
+    "para": 3,
+    "t": "The scale of what Texas is being asked to absorb is the backdrop.",
+    "src": "https://truchargv.com/how-to-halt-a-data-center-the-harlingen-texas-moratorium/"
+   },
+   {
+    "para": 3,
+    "t": "The state has an estimated 100 data centers with dozens more planned, the governor has ordered an audit requiring new facilities to disclose tax breaks, power use, water consumption, community impacts and ownership to get onto the ERCOT grid, and the planned centers add up to 474 gigawatts against ERCOT's record demand of about 94.8.",
+    "src": "https://truchargv.com/how-to-halt-a-data-center-the-harlingen-texas-moratorium/"
+   },
+   {
+    "para": 4,
+    "t": "Five data center sites are counted in Cameron County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 4,
+    "t": "Fluidstack's 1,100 acre Harlingen site is four kilometres away, Project Hedy twelve, Project Ellen fifteen, Project Kati seventeen and Project Rosa nineteen.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The generation around it is wind: four farms between 143 and 202 megawatts, twelve to fifteen kilometres out.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.krgv.com/news/harlingen-officials-approve-120-day-moratorium-to-study-impact-of-potential-data-centers/",
+   "https://truchargv.com/how-to-halt-a-data-center-the-harlingen-texas-moratorium/"
+  ],
+  "unconfirmed": "No formal application had been filed when these accounts were written, so there is no site plan, no hearing and no decision. Our 2,000 megawatts is not in either page we read; reporting elsewhere describes 16 data halls, a planned 765 kilovolt line and up to a gigawatt of interconnection secured. How the records litigation ended is unknown, and the moratorium was 120 days from May 2026."
+ },
+ {
+  "id": "ft-1784070682843-9282",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Two data centers are recorded at 1362 Red Creek Road, Haskell, Texas, at $800 million, with Google named as the developer.",
+    "src": "data:developer"
+   },
+   {
+    "para": 0,
+    "t": "The entry holds no capacity figure and one source that refuses requests, and it renders the filing company's name as the Housebound Group, described as Google-linked.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "No published account describes the buildings.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "What is documented is the power around them.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "The 301 megawatt Inertia wind project is six kilometres from the site, a 100 megawatt solar plant eleven, the 316 megawatt Azure Sky solar plant fourteen and the 184 megawatt King Creek wind farm seventeen.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "Two data center sites are counted in Haskell County, the other being an entry the record calls THM1A, seventeen kilometres away at Lueders.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The two sit either side of the same stretch of renewable generation, which is what a developer filing under a holding company name is usually chasing.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Haskell County has no moratorium; the statewide measure the record attaches, dated August 3, 2026, is Governor Abbott's direction to the Public Utility Commission of Texas and ERCOT to review data centers seeking to connect to the grid, their electricity and water demands, infrastructure, tax incentives, ownership and effect on communities.",
+    "src": "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+   },
+   {
+    "para": 2,
+    "t": "No objection to either building is recorded anywhere.",
+    "src": "data:fractracker"
+   }
+  ],
+  "sources": [
+   "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+  ],
+  "unconfirmed": "The only source in our record could not be read. Reporting we could see in search results says Journey 1A began construction on April 1, 2026 and is due late in August 2027 at 285,280 square feet, with Journey 2A at 210,420 square feet, both tied to Homebound Group LLC, and that Google said in November 2025 it would invest $40 billion in Texas including campuses in Haskell and Armstrong counties; none of that is carried above. No megawatt figure was found."
+ },
+ {
+  "id": "ft-1778596768130-6523",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The land the Hillsboro data center would go on is the old city airport, in Hill County, and the city owns it.",
+    "src": "https://hillsbororeporter.com/city-hears-feedback-on-data-center-proposal-p31629-54.htm"
+   },
+   {
+    "para": 0,
+    "t": "About 300 acres of heavy industrial property north of town, held by the city's economic development corporation, is under contract to Provident Realty Advisors through November, with closing about 45 days after the review period ends.",
+    "src": "https://hillsbororeporter.com/city-hears-feedback-on-data-center-proposal-p31629-54.htm"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 300 acres, marks the project proposed and records pushback.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Because the site is already zoned heavy industrial and inside the city limits, it comes under municipal rules and oversight, which is a real difference from the unincorporated county sites elsewhere on record.",
+    "src": "https://hillsbororeporter.com/city-hears-feedback-on-data-center-proposal-p31629-54.htm"
+   },
+   {
+    "para": 1,
+    "t": "Officials proposed funding the infrastructure through a municipal management district, set up through the Texas Commission on Environmental Quality, paid for by extra property tax assessments on the site rather than from existing city resources.",
+    "src": "https://hillsbororeporter.com/city-hears-feedback-on-data-center-proposal-p31629-54.htm"
+   },
+   {
+    "para": 1,
+    "t": "The city manager, Megan Henderson, explained: \"They pay the tax payments inside that district for that infrastructure. It's over and above the taxes they pay to the city.\"",
+    "src": "https://hillsbororeporter.com/city-hears-feedback-on-data-center-proposal-p31629-54.htm"
+   },
+   {
+    "para": 2,
+    "t": "A public forum at Historic City Hall on Tuesday, April 28 drew a large crowd and ran over two hours, with many residents against.",
+    "src": "https://hillsbororeporter.com/city-hears-feedback-on-data-center-proposal-p31629-54.htm"
+   },
+   {
+    "para": 2,
+    "t": "Henderson said the meeting was to gather feedback for the council.",
+    "src": "https://hillsbororeporter.com/city-hears-feedback-on-data-center-proposal-p31629-54.htm"
+   },
+   {
+    "para": 2,
+    "t": "Nothing has been decided: the project needs the council to approve a development agreement, and without one the developer can walk away.",
+    "src": "https://hillsbororeporter.com/city-hears-feedback-on-data-center-proposal-p31629-54.htm"
+   },
+   {
+    "para": 3,
+    "t": "Two data center sites are counted in Hill County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "CyrusOne's Whitney campus is 35 kilometres away and under construction, the Venus proposal 38, and Google's operating 103 megawatt Midlothian campus 39.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 145 megawatt BPL Files solar plant is eleven kilometres from the site, a 250 megawatt solar plant 25 and the 763 megawatt Thad Hill Energy Center 35.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://hillsbororeporter.com/city-hears-feedback-on-data-center-proposal-p31629-54.htm"
+  ],
+  "unconfirmed": "No megawatt figure, building count, water demand or tenant has been published, and our record holds no capacity. The year of the April 28 forum is not stated in the page we read. Whether the council approved a development agreement, and whether the sale closed, is unknown."
+ },
+ {
+  "id": "ft-535",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "An operating and expanding Serverfarm data center is recorded at 15555 Cutten Road in Houston, in Harris County, Texas, at 100 megawatts.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The entry gives two sources for it, the state comptroller's list of certified data centers and a trade report that refuses requests, and neither was opened.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Houston has a cluster of older colocation buildings rather than the campuses filling the rest of Texas.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Equinix's Houston hub and Switch's Greenspoint site are fifteen kilometres from here, CyrusOne's Houston buildings seventeen, Stream's site at The Woodlands 22 and Digital Realty's Meadows Place building 38.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Five data center sites are counted in Harris County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The generation is close and gas-fired: the 1,002 megawatt T H Wharton plant seven kilometres away, a 97 megawatt cogeneration unit 36, the 327 megawatt Greens Bayou plant 38 and the 117 megawatt Friendswood plant 40.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Harris County has no moratorium; the statewide measure the record attaches, dated August 3, 2026, is Governor Abbott's direction to the Public Utility Commission of Texas and ERCOT to review the electricity and water demands, infrastructure, tax incentives, ownership and community effects of data centers seeking to connect to the grid.",
+    "src": "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+   },
+   {
+    "para": 2,
+    "t": "No objection to the site has been recorded.",
+    "src": "data:fractracker"
+   }
+  ],
+  "sources": [
+   "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+  ],
+  "unconfirmed": "Neither source in our record was read. The floor area, the build date, the number of buildings and the current load are unestablished, and the 100 megawatts comes from our record alone. No local reporting on the site was found."
+ },
+ {
+  "id": "ft-1782347848782-4491",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The power station here is the project.",
+    "src": "https://www.gem.wiki/Nexus_Hubbard_power_plant"
+   },
+   {
+    "para": 0,
+    "t": "The Global Energy Monitor records Nexus Hubbard Power LLC as sole owner of a natural gas plant in Hill County, Texas, with six combined cycle units totalling 2,759.2 megawatts in pre-construction and a planned start in 2027, built to supply a data center rather than the grid.",
+    "src": "https://www.gem.wiki/Nexus_Hubbard_power_plant"
+   },
+   {
+    "para": 0,
+    "t": "Two units were cancelled: a 612 megawatt gas internal combustion engine and a 155.1 megawatt diesel engine for emergency and backup use.",
+    "src": "https://www.gem.wiki/Nexus_Hubbard_power_plant"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 600 megawatts, 2,900 acres and $400 million for the data center at 357 HCR 3372, Hubbard, and marks it proposed.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The gap between those numbers is the thing to notice.",
+    "src": "https://www.gem.wiki/Nexus_Hubbard_power_plant"
+   },
+   {
+    "para": 1,
+    "t": "The record's 600 megawatts describes the computing; the generation being permitted on the same ground is several times that, and it is behind the meter, so it does not appear as new supply for anyone else.",
+    "src": "https://www.gem.wiki/Nexus_Hubbard_power_plant"
+   },
+   {
+    "para": 2,
+    "t": "Two data center sites are counted in Hill County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "A Riot Platforms site operating and expanding at 1,000 megawatts is 26 kilometres away, and the Lacy Lakeview campus 39.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The renewable generation around it is substantial: the 300 megawatt Hubbard wind farm nine kilometres off, the 299 megawatt Limestone wind project twelve, the 400 megawatt Waco solar plant fourteen and a 250 megawatt solar plant 26.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Hill County has written no moratorium on data centers, and the generation is being permitted alongside the computing rather than separately from it.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.gem.wiki/Nexus_Hubbard_power_plant"
+  ],
+  "unconfirmed": "The three Data Center Dynamics reports our record cites all refuse requests. Search results describe a 491,380 square foot first building, construction from January 2026 to October 2027, about 612.93 megawatts of baseload gas permitted, Google backing and Anthropic as the intended customer, and a partnership using metal-organic framework technology to make distilled water from waste heat; none of that is carried above. The Global Energy Monitor's aggregate of about 8,286 megawatts across all units, cancelled ones included, is hard to reconcile with the other figures and is not used here."
+ },
+ {
+  "id": "ft-1773979399544-6786",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A data center campus is proposed on 500 acres at FM 3499 in Hutto, in Williamson County, Texas, from Iron Mountain.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The entry holds no capacity figure for it and one source that refuses requests; nothing describing the buildings was found.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "What is documented is what happens to data center applications in this town.",
+    "src": "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback"
+   },
+   {
+    "para": 1,
+    "t": "Eight kilometres from this parcel, Zydeco Development withdrew a rezoning for a data center at 450 Ed Schmidt Boulevard ahead of a special meeting set for April 20, 2026, after residents organised as Stop The Hutto Data Center and set about gathering signatures from nearby owners to force a supermajority council vote.",
+    "src": "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback"
+   },
+   {
+    "para": 1,
+    "t": "The city's development services director recommended against that application because it did not match the comprehensive plan, and approving it would have meant changing the future land use map and the SOAR 2040 plan.",
+    "src": "https://cbsaustin.com/news/local/developer-withdraws-proposed-data-center-rezoning-in-hutto-after-community-pushback"
+   },
+   {
+    "para": 2,
+    "t": "Twelve data center sites are counted in Williamson County, and five are within eleven kilometres of this one.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Skybox's 600 megawatt Hutto campus is four kilometres away and under construction, KDC's 360 megawatt Project Comal six, the cancelled Hutto project eight, Project Raptor eight and the Blueprint campus at Taylor eleven.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The generation nearby is a 144 megawatt solar farm eleven kilometres off, a 100 megawatt battery plant fourteen and two 50 megawatt storage plants at seventeen.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Hutto has written no moratorium on data centers, which is why each application turns on the comprehensive plan instead.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record could not be read; it is headed as Iron Mountain eyeing a seven building campus outside Austin, which is all we know of the scheme. No acreage confirmation, square footage, megawatt figure, application, hearing or timetable was established, and the 500 acres comes from our record alone."
+ }
+]

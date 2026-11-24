@@ -1,0 +1,751 @@
+[
+ {
+  "id": "gemini-aws-bwi",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "AWS is building a data center at 5601 Manor Woods Road in Frederick, in Frederick County, Maryland.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The project is rated at 258 megawatts and is under construction.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "AWS has filed permits for 99 backup generators at the site, which sits inside the Quantum Frederick Park campus.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Quantum Frederick Park is at the center of Frederick County's biggest fight over data centers.",
+    "src": "https://www.wypr.org/wypr-news/2026-09-10/frederick-county-elections-could-hinge-on-one-issue-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "County Executive Jessica Fitzwater rejected a $110 million community benefits agreement with the campus's developer, Catellus, on September 14, 2026, after hearing objections from residents.",
+    "src": "https://www.wfmd.com/2026/09/15/frederick-county-executive-rejected-proposed-deal-with-data-center-developer/"
+   },
+   {
+    "para": 1,
+    "t": "The rejected package would have paid for $30 million to renovate Carroll Manor Elementary School, a new $30 million park in Adamstown, $14.5 million for workforce development, $10 million for youth recreation and a new engine for the Carroll Manor Fire Department.",
+    "src": "https://www.wfmd.com/2026/09/15/frederick-county-executive-rejected-proposed-deal-with-data-center-developer/"
+   },
+   {
+    "para": 1,
+    "t": "In exchange, the county would have locked in the campus's development rules for at least eight years, and potentially thirteen.",
+    "src": "https://www.msn.com/en-us/money/real-estate/frederick-data-center-deal-promises-110m-what-does-the-developer-get/ar-AA2btnPA"
+   },
+   {
+    "para": 1,
+    "t": "Two weeks earlier, on September 1, 2026, the county announced that Catellus had agreed to shrink its planned buildout of the site, known as the Eastalco campus, from 18.3 million square feet to 15 million.",
+    "src": "https://www.baltimoresun.com/2026/09/01/frederick-executive-announces-110m-in-data-center-benefits-less-development/"
+   },
+   {
+    "para": 1,
+    "t": "Fitzwater's rejection extended the county's pause on new data center applications, which had been due to expire at the end of 2026, to July 1, 2027.",
+    "src": "https://www.wfmd.com/2026/09/15/frederick-county-executive-rejected-proposed-deal-with-data-center-developer/"
+   },
+   {
+    "para": 1,
+    "t": "Some coverage names the developer Quantum Maryland and the project the Frederick Digital Campus, rather than Catellus and Eastalco.",
+    "src": "https://www.wypr.org/wypr-news/2026-09-15/frederick-county-rejects-agreement-with-data-center-developer-amidst-public-outcry"
+   },
+   {
+    "para": 2,
+    "t": "More than 21,000 residents have signed a petition against the county's data center expansion.",
+    "src": "https://www.wypr.org/wypr-news/2026-09-10/frederick-county-elections-could-hinge-on-one-issue-data-centers"
+   },
+   {
+    "para": 2,
+    "t": "A resident-led effort to force a public referendum on the project was struck down by the Maryland Supreme Court for lack of clarity.",
+    "src": "https://www.wypr.org/wypr-news/2026-09-10/frederick-county-elections-could-hinge-on-one-issue-data-centers"
+   },
+   {
+    "para": 2,
+    "t": "Referring to the county's approval of an expanded data center zone in December 2025, Frederick resident Nancy Evans said it \"seemed a little shady with the timing right before Christmas.\"",
+    "src": "https://www.wypr.org/wypr-news/2026-09-10/frederick-county-elections-could-hinge-on-one-issue-data-centers"
+   },
+   {
+    "para": 2,
+    "t": "\"We felt like we elected people who were going to be looking out for the best interest of Frederick County residents,\" Evans said. \"I think some of us feel now that's not necessarily the case.\"",
+    "src": "https://www.wypr.org/wypr-news/2026-09-10/frederick-county-elections-could-hinge-on-one-issue-data-centers"
+   },
+   {
+    "para": 2,
+    "t": "Data centers have become the dominant issue in Frederick County's 2026 elections.",
+    "src": "https://www.wypr.org/wypr-news/2026-09-10/frederick-county-elections-could-hinge-on-one-issue-data-centers"
+   }
+  ],
+  "sources": [
+   "https://www.wfmd.com/2026/09/15/frederick-county-executive-rejected-proposed-deal-with-data-center-developer/",
+   "https://www.baltimoresun.com/2026/09/01/frederick-executive-announces-110m-in-data-center-benefits-less-development/",
+   "https://www.wypr.org/wypr-news/2026-09-10/frederick-county-elections-could-hinge-on-one-issue-data-centers",
+   "https://www.msn.com/en-us/money/real-estate/frederick-data-center-deal-promises-110m-what-does-the-developer-get/ar-AA2btnPA",
+   "https://www.wypr.org/wypr-news/2026-09-15/frederick-county-rejects-agreement-with-data-center-developer-amidst-public-outcry"
+  ],
+  "unconfirmed": "The Frederick News-Post's own account of the September 15 rejection could not be fetched directly (server error); facts on that event are drawn from WFMD and the Baltimore Sun instead. Which entity name (Catellus vs. Quantum Maryland) and project name (Eastalco vs. Frederick Digital Campus) is the authoritative one for the whole campus is unclear from the coverage available."
+ },
+ {
+  "id": "gemini-core-scientific-marble-1",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Core Scientific's data center sits at 1132 Airport Road in Marble, a small town in Cherokee County, North Carolina.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It is rated at 105 megawatts and is operating.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The site once housed the American Thread Company, which made thread for the garment industry until it closed in 2015, taking hundreds of jobs with it.",
+    "src": "https://grist.org/politics/first-crypto-now-data-centers-how-tech-is-reshaping-this-north-carolina-community/"
+   },
+   {
+    "para": 1,
+    "t": "Core Scientific converted what had been a cryptocurrency mining operation on the property into an AI data center.",
+    "src": "https://grist.org/politics/first-crypto-now-data-centers-how-tech-is-reshaping-this-north-carolina-community/"
+   },
+   {
+    "para": 1,
+    "t": "The facility runs more than 170 diesel generators, most of them for backup power, which regulators classify as exempt from air-quality permitting.",
+    "src": "https://grist.org/politics/first-crypto-now-data-centers-how-tech-is-reshaping-this-north-carolina-community/"
+   },
+   {
+    "para": 1,
+    "t": "It draws water from three wells that tap the local water table.",
+    "src": "https://grist.org/politics/first-crypto-now-data-centers-how-tech-is-reshaping-this-north-carolina-community/"
+   },
+   {
+    "para": 1,
+    "t": "The company sought a wastewater contract with the nearby town of Andrews; Andrews turned it down.",
+    "src": "https://grist.org/politics/first-crypto-now-data-centers-how-tech-is-reshaping-this-north-carolina-community/"
+   },
+   {
+    "para": 2,
+    "t": "Andrews Mayor James Reid said he rejected the request because the company had not done adequate environmental planning.",
+    "src": "https://grist.org/politics/first-crypto-now-data-centers-how-tech-is-reshaping-this-north-carolina-community/"
+   },
+   {
+    "para": 2,
+    "t": "\"I wouldn't wish this on any county or entity ever. It's absolutely destroyed Marble,\" Reid said.",
+    "src": "https://www.wunc.org/2026-04-10/cherokee-county-residents-were-upset-about-crypto-mines-then-came-ai"
+   },
+   {
+    "para": 2,
+    "t": "Cherokee County Commissioner Ben Adams, who ran for office in 2022 on an anti-crypto platform, has filed public records requests and is reconvening the planning board to consider limits on new data centers.",
+    "src": "https://grist.org/politics/first-crypto-now-data-centers-how-tech-is-reshaping-this-north-carolina-community/"
+   },
+   {
+    "para": 2,
+    "t": "A soccer complex the company had promised the community never materialized.",
+    "src": "https://grist.org/politics/first-crypto-now-data-centers-how-tech-is-reshaping-this-north-carolina-community/"
+   },
+   {
+    "para": 2,
+    "t": "Cherokee County collected $268,000 in tax revenue from the facility in 2024; the total fell in 2025 as construction slowed collections.",
+    "src": "https://grist.org/politics/first-crypto-now-data-centers-how-tech-is-reshaping-this-north-carolina-community/"
+   }
+  ],
+  "sources": [
+   "https://grist.org/politics/first-crypto-now-data-centers-how-tech-is-reshaping-this-north-carolina-community/",
+   "https://www.wunc.org/2026-04-10/cherokee-county-residents-were-upset-about-crypto-mines-then-came-ai"
+  ],
+  "unconfirmed": "Could not confirm the current status of Core Scientific's attempted merger with CoreWeave, or whether this site is administratively distinct from the separately operating CoreWeave Marble facility 3 km away."
+ },
+ {
+  "id": "google-google-loudoun-county-ashburn",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's data center at 20491 Goose Landing Lane in Ashburn, Virginia, is operating.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "County officials told residents in September 2026 that Loudoun is now home to about 250 data centers.",
+    "src": "https://www.wusa9.com/article/news/community/data-centers/loudoun-county-board-of-supervisors-data-center-pause-resolution/65-e3e590c2-4ff4-4230-935b-860bcdc96644"
+   },
+   {
+    "para": 1,
+    "t": "On September 15, 2026, the Loudoun County Board of Supervisors voted to direct staff to draft a resolution pausing new data center and substation applications for 12 months.",
+    "src": "https://www.bizjournals.com/washington/news/2026/09/16/loudoun-county-data-center-moratorium.html"
+   },
+   {
+    "para": 1,
+    "t": "County attorneys had warned that an outright, indefinite moratorium would be illegal under Virginia law, so the board is pursuing a time-limited pause instead.",
+    "src": "https://www.bizjournals.com/washington/news/2026/09/16/loudoun-county-data-center-moratorium.html"
+   },
+   {
+    "para": 1,
+    "t": "Data centers supplied 38 percent of Loudoun County's general fund revenue in the 2026 budget, money the county has used to build parks, schools and recreation centers.",
+    "src": "https://www.msn.com/en-us/news/other/weve-become-addicted-a-virginia-county-used-ai-data-center-riches-to-fund-parks-schools-and-rec-centers-some-say-its-still-not-worth-it/ar-AA2bGmRA"
+   },
+   {
+    "para": 1,
+    "t": "Some residents told reporters the tradeoff is still not worth it.",
+    "src": "https://www.msn.com/en-us/news/other/weve-become-addicted-a-virginia-county-used-ai-data-center-riches-to-fund-parks-schools-and-rec-centers-some-say-its-still-not-worth-it/ar-AA2bGmRA"
+   }
+  ],
+  "sources": [
+   "https://www.wusa9.com/article/news/community/data-centers/loudoun-county-board-of-supervisors-data-center-pause-resolution/65-e3e590c2-4ff4-4230-935b-860bcdc96644",
+   "https://www.bizjournals.com/washington/news/2026/09/16/loudoun-county-data-center-moratorium.html",
+   "https://www.msn.com/en-us/news/other/weve-become-addicted-a-virginia-county-used-ai-data-center-riches-to-fund-parks-schools-and-rec-centers-some-say-its-still-not-worth-it/ar-AA2bGmRA"
+  ],
+  "unconfirmed": "No reporting specific to this individual Google building (permits, complaints, neighbors) could be found; it is one of roughly 250 data centers in the county and coverage is almost entirely about county-wide policy rather than this site."
+ },
+ {
+  "id": "google-google-elmina-business-park",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google is building its first data centre in Malaysia at Elmina Business Park in Sungai Buloh, Selangor.",
+    "src": "https://soyacincau.com/2024/05/30/google-data-centre-malaysia-elmina/"
+   },
+   {
+    "para": 0,
+    "t": "The park belongs to the Malaysian property company Sime Darby Property, which is building the campus for Google.",
+    "src": "https://www.simedarbyproperty.com/press-releases/googles-hyperscale-data-centre-elmina-business-park-breaks-ground"
+   },
+   {
+    "para": 0,
+    "t": "Google announced the project on May 30, 2024 as part of a US$2 billion investment that also brings a Google Cloud region to the country.",
+    "src": "https://soyacincau.com/2024/05/30/google-data-centre-malaysia-elmina/"
+   },
+   {
+    "para": 1,
+    "t": "Work started with a ceremony on October 1, 2024 attended by Prime Minister Anwar Ibrahim, Selangor Chief Minister Amirudin Shari and Alphabet president Ruth Porat.",
+    "src": "https://www.simedarbyproperty.com/press-releases/googles-hyperscale-data-centre-elmina-business-park-breaks-ground"
+   },
+   {
+    "para": 1,
+    "t": "Gary Demasi of Google said the company was pleased to have broken ground on its first data centre and cloud region campus in Malaysia.",
+    "src": "https://www.simedarbyproperty.com/press-releases/googles-hyperscale-data-centre-elmina-business-park-breaks-ground"
+   },
+   {
+    "para": 1,
+    "t": "Completion was then expected in early 2026.",
+    "src": "https://www.simedarbyproperty.com/press-releases/googles-hyperscale-data-centre-elmina-business-park-breaks-ground"
+   },
+   {
+    "para": 1,
+    "t": "On August 20, 2026, Ken Siah, who runs global infrastructure for Google in Asia Pacific, told the Selangor state news service the site would begin operating within nine months.",
+    "src": "https://mediaselangor.com/en/2026/08/390529"
+   },
+   {
+    "para": 1,
+    "t": "He said construction had been progressing very well.",
+    "src": "https://mediaselangor.com/en/2026/08/390529"
+   },
+   {
+    "para": 1,
+    "t": "Google puts the construction workforce at about 4,200.",
+    "src": "https://mediaselangor.com/en/2026/08/390529"
+   },
+   {
+    "para": 2,
+    "t": "Selangor approved 39 data centre projects between 2021 and 2025.",
+    "src": "https://www.thestar.com.my/metro/metro-news/2026/08/07/almost-40-data-centres-approved-in-selangor"
+   },
+   {
+    "para": 2,
+    "t": "State executive councillor Ng Sze Han told the state assembly that demand from data centres had not so far put pressure on domestic water supply.",
+    "src": "https://www.thestar.com.my/metro/metro-news/2026/08/07/almost-40-data-centres-approved-in-selangor"
+   },
+   {
+    "para": 2,
+    "t": "He put Air Selangor's treated water reserve margin at 16.23 percent, or 1,055 million litres a day, against projected future demand from data centres of about 632 million litres a day.",
+    "src": "https://www.thestar.com.my/metro/metro-news/2026/08/07/almost-40-data-centres-approved-in-selangor"
+   },
+   {
+    "para": 2,
+    "t": "On April 27, 2026 the state set out what it expects of the industry: any project drawing more than two million litres of water a day must submit a study of whether the supply is there and what it would do to existing users.",
+    "src": "https://mediaselangor.com/en/2026/04/354302"
+   },
+   {
+    "para": 2,
+    "t": "Operators have to fit abstraction meters, pay charges on what they take, and give way to homes, hospitals and schools when supply is short.",
+    "src": "https://mediaselangor.com/en/2026/04/354302"
+   },
+   {
+    "para": 3,
+    "t": "On noise, Google says the Elmina buildings are designed to run between 50 and 65 decibels, with generators turned inward and noise-dampening fans fitted, and that it tests regularly.",
+    "src": "https://mediaselangor.com/en/2026/08/390529"
+   }
+  ],
+  "sources": [
+   "https://soyacincau.com/2024/05/30/google-data-centre-malaysia-elmina/",
+   "https://www.simedarbyproperty.com/press-releases/googles-hyperscale-data-centre-elmina-business-park-breaks-ground",
+   "https://mediaselangor.com/en/2026/08/390529",
+   "https://www.thestar.com.my/metro/metro-news/2026/08/07/almost-40-data-centres-approved-in-selangor",
+   "https://mediaselangor.com/en/2026/04/354302"
+  ],
+  "unconfirmed": "Our record carried this campus twice, as Google Klang Valley and as Google Elmina Business Park, at the same address and coordinates; they have been merged. No power capacity, water draw or land area has been published for the Elmina site, and no objection from people living near it was found. Sources differ on whether the address is Shah Alam or Sungai Buloh; Sime Darby Property and the Malaysian coverage both give Sungai Buloh, which is what the record now carries."
+ },
+ {
+  "id": "google-google-canelones",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Uruguayan data centre is in the Parque de las Ciencias free trade zone in Canelones, on Route 101 near Carrasco International Airport outside Montevideo.",
+    "src": "https://www.imcanelones.gub.uy/noticias/google-inicia-construccion-su-centro-datos-parque-las-ciencias-canelones"
+   },
+   {
+    "para": 0,
+    "t": "The zone lies beside Colonia Nicolich.",
+    "src": "https://zur.uy/google-y-la-campana-ciudadana-frente-a-su-nuevo-proyecto-de-datacenter-en-uruguay/"
+   },
+   {
+    "para": 0,
+    "t": "For years nobody outside the government knew how much water the plant would take, because Google had written confidentiality clauses into its agreement with Uruguay and the state agreed to keep the environmental projections classified.",
+    "src": "https://logicmag.io/land/exposing-googles-seizure-of-water-in-drought-impacted-uruguay-a-conversation/"
+   },
+   {
+    "para": 0,
+    "t": "Two researchers, Daniel Pena of the University of the Republic and Enol Nieto Jiménez of the BETA Tech Center, sued the Ministry of Environment together with the water groups CNDAV and Coordinación por el Agua to force the figures out, citing the article of the constitution that requires public participation in water management.",
+    "src": "https://logicmag.io/land/exposing-googles-seizure-of-water-in-drought-impacted-uruguay-a-conversation/"
+   },
+   {
+    "para": 0,
+    "t": "They filed on March 22, 2023, the day more than 40 organisations and about 3,000 people marched.",
+    "src": "https://logicmag.io/land/exposing-googles-seizure-of-water-in-drought-impacted-uruguay-a-conversation/"
+   },
+   {
+    "para": 0,
+    "t": "A court ordered the documents released soon after, and they showed Google planned to use 7.6 million litres of drinking water a day for cooling, about what 55,000 people use.",
+    "src": "https://logicmag.io/land/exposing-googles-seizure-of-water-in-drought-impacted-uruguay-a-conversation/"
+   },
+   {
+    "para": 1,
+    "t": "Uruguay was then in its worst drought in seven decades and Montevideo came close to running out.",
+    "src": "https://news.mongabay.com/2023/11/the-cloud-vs-drought-water-hog-data-centers-threaten-latin-america-critics-say/"
+   },
+   {
+    "para": 1,
+    "t": "The government relaxed its drinking water standards and let residents drink salty water drawn from the Río de la Plata.",
+    "src": "https://news.mongabay.com/2023/11/the-cloud-vs-drought-water-hog-data-centers-threaten-latin-america-critics-say/"
+   },
+   {
+    "para": 1,
+    "t": "Montevideo declared a water emergency in June 2023.",
+    "src": "https://logicmag.io/land/exposing-googles-seizure-of-water-in-drought-impacted-uruguay-a-conversation/"
+   },
+   {
+    "para": 1,
+    "t": "Carmen Sosa of the Commission in Defense of Water and Life, who helped lead the 1994 campaign that wrote water into the constitution as a human right, said the defence of natural resources and the environment is too important to leave to politicians.",
+    "src": "https://news.mongabay.com/2023/11/the-cloud-vs-drought-water-hog-data-centers-threaten-latin-america-critics-say/"
+   },
+   {
+    "para": 2,
+    "t": "On March 25, 2024 the Movimiento por un Uruguay Sustentable and Amnesty International opened a public campaign before the comment period closed on April 5.",
+    "src": "https://zur.uy/google-y-la-campana-ciudadana-frente-a-su-nuevo-proyecto-de-datacenter-en-uruguay/"
+   },
+   {
+    "para": 2,
+    "t": "They asked the Ministry of Environment to make Google account for the carbon behind its electricity demand, for its waste, and for taking the plant apart at the end of its life, and noted that the company had promised 50 jobs on a site that pays no tax.",
+    "src": "https://zur.uy/google-y-la-campana-ciudadana-frente-a-su-nuevo-proyecto-de-datacenter-en-uruguay/"
+   },
+   {
+    "para": 2,
+    "t": "Google redrew the project.",
+    "src": "https://zur.uy/google-y-la-campana-ciudadana-frente-a-su-nuevo-proyecto-de-datacenter-en-uruguay/"
+   },
+   {
+    "para": 2,
+    "t": "It shrank from about 30 hectares to about 10 and swapped the cooling towers for a closed air-cooled system that uses no water and produces no wastewater.",
+    "src": "https://zur.uy/google-y-la-campana-ciudadana-frente-a-su-nuevo-proyecto-de-datacenter-en-uruguay/"
+   },
+   {
+    "para": 2,
+    "t": "The revised campus was still reckoned to draw the electricity of about 200,000 households a year.",
+    "src": "https://zur.uy/google-y-la-campana-ciudadana-frente-a-su-nuevo-proyecto-de-datacenter-en-uruguay/"
+   },
+   {
+    "para": 3,
+    "t": "Work began on August 30, 2024, with Google putting about US$850 million into the site.",
+    "src": "https://www.imcanelones.gub.uy/noticias/google-inicia-construccion-su-centro-datos-parque-las-ciencias-canelones"
+   },
+   {
+    "para": 3,
+    "t": "The Intendencia de Canelones gave the campus about 400 permanent jobs and 800 workers at the peak of construction.",
+    "src": "https://www.imcanelones.gub.uy/noticias/google-inicia-construccion-su-centro-datos-parque-las-ciencias-canelones"
+   },
+   {
+    "para": 3,
+    "t": "Eduardo López, who runs Google Cloud in Latin America, said the talks had begun in 2018 and the project was settled in 2020.",
+    "src": "https://www.imcanelones.gub.uy/noticias/google-inicia-construccion-su-centro-datos-parque-las-ciencias-canelones"
+   },
+   {
+    "para": 3,
+    "t": "President Luis Lacalle Pou and the intendente of Canelones, Marcelo Metediera, were both there.",
+    "src": "https://www.imcanelones.gub.uy/noticias/google-inicia-construccion-su-centro-datos-parque-las-ciencias-canelones"
+   },
+   {
+    "para": 3,
+    "t": "President Yamandú Orsi visited the site in 2026 and pointed to its progress and its effect on technology investment in the country.",
+    "src": "https://www.msn.com/es-xl/tecnolog%C3%ADa/empresas-de-tecnolog%C3%ADa/orsi-destac%C3%B3-avance-del-data-center-de-google-en-canelones-y-su-impacto-en-la-inversi%C3%B3n-tecnol%C3%B3gica/ar-AA20W7Q2?ocid=BingNewsVerp"
+   }
+  ],
+  "sources": [
+   "https://logicmag.io/land/exposing-googles-seizure-of-water-in-drought-impacted-uruguay-a-conversation/",
+   "https://news.mongabay.com/2023/11/the-cloud-vs-drought-water-hog-data-centers-threaten-latin-america-critics-say/",
+   "https://zur.uy/google-y-la-campana-ciudadana-frente-a-su-nuevo-proyecto-de-datacenter-en-uruguay/",
+   "https://www.imcanelones.gub.uy/noticias/google-inicia-construccion-su-centro-datos-parque-las-ciencias-canelones",
+   "https://www.msn.com/es-xl/tecnolog%C3%ADa/empresas-de-tecnolog%C3%ADa/orsi-destac%C3%B3-avance-del-data-center-de-google-en-canelones-y-su-impacto-en-la-inversi%C3%B3n-tecnol%C3%B3gica/ar-AA20W7Q2?ocid=BingNewsVerp"
+  ],
+  "unconfirmed": "No megawatt figure for the finished campus was found, and no measured electricity or water use since it opened. Searched: Google data center Canelones Uruguay agua vecinos; Canelones Uruguay centro de datos Google Parque de las Ciencias permiso ambiental; Google Uruguay data center water consumption protest drought. Accounts of the announcement date vary between August 29 and August 31, 2024; the Canelones government dates the start of construction to August 30."
+ },
+ {
+  "id": "microsoft-microsoft-bergheim-inka-terra-nova",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Microsoft is building a data centre campus on the INKA terra nova industrial park in Bergheim, in the Rhineland west of Cologne.",
+    "src": "https://www.bergheim.de/aktuelles/news/weltkonzern-microsoft-siedelt-sich-in-bergheim-und-bedburg-an.php"
+   },
+   {
+    "para": 0,
+    "t": "The city announced it on February 16, 2024, alongside a second Microsoft site at the BEB61 industrial park in neighbouring Bedburg.",
+    "src": "https://www.bergheim.de/aktuelles/news/weltkonzern-microsoft-siedelt-sich-in-bergheim-und-bedburg-an.php"
+   },
+   {
+    "para": 0,
+    "t": "Mayor Volker Mießeler called it the largest corporate settlement in Bergheim's history and described it as a move from brown coal to future technology.",
+    "src": "https://www.bergheim.de/aktuelles/news/weltkonzern-microsoft-siedelt-sich-in-bergheim-und-bedburg-an.php"
+   },
+   {
+    "para": 0,
+    "t": "The city said the talks had run for more than two years before the announcement.",
+    "src": "https://www.bergheim.de/aktuelles/news/weltkonzern-microsoft-siedelt-sich-in-bergheim-und-bedburg-an.php"
+   },
+   {
+    "para": 0,
+    "t": "Microsoft broke ground on March 12, 2026 on what it calls a data centre cluster spanning Bergheim, Bedburg and Elsdorf, with North Rhine-Westphalia's minister-president Hendrik Wüst attending.",
+    "src": "https://news.microsoft.com/source/emea/2026/03/spatenstich-fuer-rechenzentrums-cluster-in-nordrhein-westfalen-microsoft-staerkt-die-digitale-infrastruktur-fuer-deutschlands-ki-zukunft/?lang=de"
+   },
+   {
+    "para": 0,
+    "t": "The three sites together carry a stated investment of 3.2 billion euros.",
+    "src": "https://www.datacenter-insider.de/es-hagelt-kritik-am-vierten-microsoft-rechenzentrum-in-nrw-a-8d2bd68a6db4866da7e9557b59f499f8/"
+   },
+   {
+    "para": 1,
+    "t": "The campus is going up on farmland.",
+    "src": "https://www.bund-nrw.de/themen/braunkohle/strukturwandel-im-revier/stoppt-den-flaechenfrass-im-rheinischen-revier/"
+   },
+   {
+    "para": 1,
+    "t": "BUND, the German conservation federation, says the soils there are fertile and worth protecting, and that about 4,000 hectares across the old coal region are earmarked for new industrial estates.",
+    "src": "https://www.bund-nrw.de/themen/braunkohle/strukturwandel-im-revier/stoppt-den-flaechenfrass-im-rheinischen-revier/"
+   },
+   {
+    "para": 1,
+    "t": "Its petition, which asks Microsoft to put the buildings on land that is already sealed or industrial, had more than 79,000 signatures by early February 2025.",
+    "src": "https://www.bund-nrw.de/themen/braunkohle/strukturwandel-im-revier/stoppt-den-flaechenfrass-im-rheinischen-revier/"
+   },
+   {
+    "para": 1,
+    "t": "Microsoft Germany's chief executive Agnes Heftberger declined to take the signatures at an event in Cologne on March 12, 2025.",
+    "src": "https://www.bund-nrw.de/themen/braunkohle/strukturwandel-im-revier/stoppt-den-flaechenfrass-im-rheinischen-revier/"
+   },
+   {
+    "para": 1,
+    "t": "BUND places the Bergheim campus at Paffendorf, names its buildings NRW01 to NRW03, and puts the first phase at 24.1 hectares of sealed ground.",
+    "src": "https://www.bund-nrw.de/themen/braunkohle/strukturwandel-im-revier/stoppt-den-flaechenfrass-im-rheinischen-revier/"
+   },
+   {
+    "para": 2,
+    "t": "A public hearing on the campus's backup power plant was held on August 19, 2026.",
+    "src": "https://www.bund-nrw.de/themen/braunkohle/strukturwandel-im-revier/stoppt-den-flaechenfrass-im-rheinischen-revier/"
+   },
+   {
+    "para": 2,
+    "t": "BUND says the Bergheim site would hold between 36 and 99 diesel generator units, emitting somewhere between about 40,000 and 72,360 tonnes of carbon dioxide a year, and that Microsoft did not answer at the hearing why it had not chosen something other than diesel.",
+    "src": "https://www.bund-nrw.de/themen/braunkohle/strukturwandel-im-revier/stoppt-den-flaechenfrass-im-rheinischen-revier/"
+   },
+   {
+    "para": 2,
+    "t": "The city has told residents Microsoft will keep up to 3,400 tonnes of diesel on site for emergency power.",
+    "src": "https://www.radioerft.de/artikel/spd-fragen-zum-microsoft-rechenzentrum-2492260"
+   },
+   {
+    "para": 3,
+    "t": "On November 15, 2025 the local SPD asked the council whether running the campus could strain the electricity supply of the surrounding towns, and what would be done with the heat the servers throw off.",
+    "src": "https://www.radioerft.de/artikel/spd-fragen-zum-microsoft-rechenzentrum-2492260"
+   },
+   {
+    "para": 3,
+    "t": "The administration answered that Microsoft may draw only what the operation needs and that supply across Bergheim and its neighbours stays stable, and that the city and the company were still examining how the waste heat might be used.",
+    "src": "https://www.radioerft.de/artikel/spd-fragen-zum-microsoft-rechenzentrum-2492260"
+   },
+   {
+    "para": 3,
+    "t": "The Greens proposed piping it to a swimming and wellness centre they want built, the ErftOase.",
+    "src": "https://www.radioerft.de/artikel/spd-fragen-zum-microsoft-rechenzentrum-2492260"
+   },
+   {
+    "para": 3,
+    "t": "Microsoft plans solar panels on the site.",
+    "src": "https://www.radioerft.de/artikel/spd-fragen-zum-microsoft-rechenzentrum-2492260"
+   },
+   {
+    "para": 4,
+    "t": "When Microsoft announced a fourth North Rhine-Westphalia site, at Grevenbroich, the trade press recorded two objections that follow the company around the region: a finished data centre needs few staff, so the promised jobs are doubted, and a firm with sites in many places splits its trade tax between them, so the host town collects little.",
+    "src": "https://www.datacenter-insider.de/es-hagelt-kritik-am-vierten-microsoft-rechenzentrum-in-nrw-a-8d2bd68a6db4866da7e9557b59f499f8/"
+   },
+   {
+    "para": 4,
+    "t": "Germany's national data centre strategy, published in March 2026, proposes a special allocation to deal with the tax split, and still needs parliament's approval.",
+    "src": "https://www.datacenter-insider.de/es-hagelt-kritik-am-vierten-microsoft-rechenzentrum-in-nrw-a-8d2bd68a6db4866da7e9557b59f499f8/"
+   }
+  ],
+  "sources": [
+   "https://www.bergheim.de/aktuelles/news/weltkonzern-microsoft-siedelt-sich-in-bergheim-und-bedburg-an.php",
+   "https://news.microsoft.com/source/emea/2026/03/spatenstich-fuer-rechenzentrums-cluster-in-nordrhein-westfalen-microsoft-staerkt-die-digitale-infrastruktur-fuer-deutschlands-ki-zukunft/?lang=de",
+   "https://www.bund-nrw.de/themen/braunkohle/strukturwandel-im-revier/stoppt-den-flaechenfrass-im-rheinischen-revier/",
+   "https://www.radioerft.de/artikel/spd-fragen-zum-microsoft-rechenzentrum-2492260",
+   "https://www.datacenter-insider.de/es-hagelt-kritik-am-vierten-microsoft-rechenzentrum-in-nrw-a-8d2bd68a6db4866da7e9557b59f499f8/"
+  ],
+  "unconfirmed": "No official area or power capacity for the Bergheim campus has been published; the 24.1 hectare figure is BUND's, and trade reports circulate a figure of 20 hectares that could not be traced to the city or to Microsoft. Searched: Microsoft Rechenzentrum Bergheim terra nova Anwohner Buergerinitiative; Bergheim Rhein-Erft-Kreis Rechenzentrum Microsoft Wasser Strom Kritik; Microsoft data center Bergheim Bedburg Elsdorf Rhein-Erft investment. Our record still lists the project as proposed although it broke ground in March 2026."
+ },
+ {
+  "id": "microsoft-microsoft-grange-castle-dublin",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Microsoft's Grange Castle data centre campus, on Nangor Road in south Dublin, Ireland, is operating.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "In December 2022 Microsoft applied to Ireland's Environmental Protection Agency for a licence to run its own power station on the site, a 170 megawatt gas plant and 21 diesel generators, as part of a 900 million euro data centre build.",
+    "src": "https://dublinpeople.com/news/southside/articles/2022/12/14/microsoft-plans-build-gas-power-station-part-of-e900m-data-centre/"
+   },
+   {
+    "para": 1,
+    "t": "Madeleine Johansson, a People Before Profit councillor, objected: \"The plan for a private gas power plant is clearly a way for Microsoft to circumvent the new stricter criteria for data centres in the Dublin Region.\"",
+    "src": "https://dublinpeople.com/news/southside/articles/2022/12/14/microsoft-plans-build-gas-power-station-part-of-e900m-data-centre/"
+   },
+   {
+    "para": 1,
+    "t": "She also rejected the idea that natural gas belongs in a renewable plan, saying it \"is a fossil fuel and needs to be phased out.\"",
+    "src": "https://dublinpeople.com/news/southside/articles/2022/12/14/microsoft-plans-build-gas-power-station-part-of-e900m-data-centre/"
+   },
+   {
+    "para": 2,
+    "t": "Global Energy Monitor lists the gas unit at 167.2 megawatts and still under construction, with a target of 2026, alongside three sets of diesel backup generators already operating: 60.9, 73.8 and 123.5 megawatts.",
+    "src": "https://www.gem.wiki/Grange_Castle_Business_Park_power_station"
+   },
+   {
+    "para": 2,
+    "t": "It puts the whole station at a capacity of at least 258 megawatts.",
+    "src": "https://www.gem.wiki/Grange_Castle_Business_Park_power_station"
+   }
+  ],
+  "sources": [
+   "https://news.google.com/rss/search?q=%22Grange%20Castle%22%20Microsoft%20data%20centre%20Dublin&hl=en-IE&gl=IE&ceid=IE:en"
+  ],
+  "unconfirmed": "This page previously rested entirely on a Google News search feed rather than on articles, and the sentences that could not be traced to a readable source have been removed: an 880 million euro expansion approved in 2016; a February 2026 Microsoft statement that \"there is no special grid for data centres\"; and a July 2026 Irish Times report on data centres straining the grid during heat waves. Trade press also reports that Irish regulators granted the gas plant permission in July 2023, but none of those pages could be opened to confirm it."
+ },
+ {
+  "id": "microsoft-microsoft-woodlands-singapore",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Microsoft runs an operating data centre at 1 Woodlands Industrial Park E9, in the north of Singapore.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It sits in one of the densest clusters anywhere: China Telecom Global is about 2 kilometres away, NTT Singapore about 8, PDG about 10, Keppel about 12, and Google Jurong West, Digital Realty and STT Defu about 15.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Singapore stopped adding to that cluster in 2019, imposing a moratorium on new data centres because the build-out had strained its land, water and electricity.",
+    "src": "https://kontinentalist.com/stories/data-centres-in-johor-singapore-batam"
+   },
+   {
+    "para": 1,
+    "t": "The demand crossed the Causeway instead. Johor, in Malaysia, had approved more than 53 billion Singapore dollars of data centre investment by mid-2025, and its live capacity went from 10 megawatts in 2021 to more than 900 megawatts by the end of 2025.",
+    "src": "https://kontinentalist.com/stories/data-centres-in-johor-singapore-batam"
+   },
+   {
+    "para": 1,
+    "t": "AirTrunk's Johor Bahru site is about 10 kilometres from this building, across the strait.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://kontinentalist.com/stories/data-centres-in-johor-singapore-batam",
+   "https://www.datacentermap.com/c/microsoft/datacenters"
+  ],
+  "unconfirmed": "Nothing specific to the Woodlands building was found: no capacity, size, opening date, investment, water use, employment figure or planning history, and no Singaporean coverage of it. Whether it predates the 2019 moratorium is not established."
+ },
+ {
+  "id": "microsoft-microsoft-middenmeer",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Microsoft data centre campus at Agriport A7 sits in the Wieringermeer polder outside Middenmeer, in the North Holland municipality of Hollands Kroon.",
+    "src": "https://nl.wikipedia.org/wiki/Microsoft_Datacenter_Campus_Middenmeer"
+   },
+   {
+    "para": 0,
+    "t": "Microsoft announced the first building in December 2013 and it started running in November 2015.",
+    "src": "https://nl.wikipedia.org/wiki/Microsoft_Datacenter_Campus_Middenmeer"
+   },
+   {
+    "para": 0,
+    "t": "The campus now has 112,330 square metres of floor area and about 450 staff.",
+    "src": "https://nl.wikipedia.org/wiki/Microsoft_Datacenter_Campus_Middenmeer"
+   },
+   {
+    "para": 0,
+    "t": "It took about 1.17 terawatt hours of electricity in 2025, roughly one percent of everything the Netherlands used.",
+    "src": "https://nl.wikipedia.org/wiki/Microsoft_Datacenter_Campus_Middenmeer"
+   },
+   {
+    "para": 1,
+    "t": "What people here remember is a number from 2021.",
+    "src": "https://www.aquatechtrade.com/news/industrial-water/microsoft-data-centre-uses-too-much-water"
+   },
+   {
+    "para": 1,
+    "t": "The regional paper Noordhollands Dagblad found that the campus had used 84 million litres of drinking water that year, 75 million of it for cooling, after Microsoft and the municipality had told people the site would need 12 to 20 million litres a year.",
+    "src": "https://www.aquatechtrade.com/news/industrial-water/microsoft-data-centre-uses-too-much-water"
+   },
+   {
+    "para": 1,
+    "t": "Microsoft answered that the figure covered the construction phase, which is water hungry, rather than the running of the plant.",
+    "src": "https://www.aquatechtrade.com/news/industrial-water/microsoft-data-centre-uses-too-much-water"
+   },
+   {
+    "para": 1,
+    "t": "The company said cooling switches from outside air to water only when the outdoor temperature passes 25 degrees, which happened on six days in 2021.",
+    "src": "https://www.aquatechtrade.com/news/industrial-water/microsoft-data-centre-uses-too-much-water"
+   },
+   {
+    "para": 1,
+    "t": "All the data centres in North Holland together drank 550 million litres of drinking water that year.",
+    "src": "https://www.aquatechtrade.com/news/industrial-water/microsoft-data-centre-uses-too-much-water"
+   },
+   {
+    "para": 2,
+    "t": "Construction of a second building on the west side of the A7, called Het Venster, began at the end of 2020.",
+    "src": "https://nl.wikipedia.org/wiki/Microsoft_Datacenter_Campus_Middenmeer"
+   },
+   {
+    "para": 2,
+    "t": "The municipality granted the permit in January 2021 and on February 19 the farmers' and growers' organisation LTO Noord went to appeal, saying the council had not weighed their interests and had not worked out the consequences.",
+    "src": "https://www.nhnieuws.nl/nieuws/281185/boeren-en-tuinders-gaan-in-beroep-tegen-vergunning-datacenter-microsoft"
+   },
+   {
+    "para": 2,
+    "t": "Its chair in Hollands Kroon, Wim Mostert, said permits were being handed out easily, without clear frameworks set beforehand.",
+    "src": "https://www.nhnieuws.nl/nieuws/281185/boeren-en-tuinders-gaan-in-beroep-tegen-vergunning-datacenter-microsoft"
+   },
+   {
+    "para": 2,
+    "t": "The growers objected to the cooling water, the nitrogen emissions, the size of the thing and the loss of scarce farmland.",
+    "src": "https://www.nhnieuws.nl/nieuws/281185/boeren-en-tuinders-gaan-in-beroep-tegen-vergunning-datacenter-microsoft"
+   },
+   {
+    "para": 2,
+    "t": "The council said it had followed the rules and that the project fitted the zoning plan.",
+    "src": "https://www.nhnieuws.nl/nieuws/281185/boeren-en-tuinders-gaan-in-beroep-tegen-vergunning-datacenter-microsoft"
+   },
+   {
+    "para": 2,
+    "t": "The province issued a provisional permit in September 2021 after the dispute, and Microsoft carried on building at its own risk until the final environmental permit came through in April 2023.",
+    "src": "https://nl.wikipedia.org/wiki/Microsoft_Datacenter_Campus_Middenmeer"
+   },
+   {
+    "para": 3,
+    "t": "The land was supposed to stay open as a green buffer until a previous council changed the zoning in 2021, and the building that followed set off protests from people who felt they had been left out of the decision.",
+    "src": "https://www.demeerpeen.nl/nieuws/uitbreiding-microsoft-datacenter-in-middenmeer-stuit-op-gevoelig-verleden-en-strengere-eisen/"
+   },
+   {
+    "para": 3,
+    "t": "Microsoft announced the next phase on September 10, 2025 and took 50 hectares in an area called Deelgebied B1 for six more buildings.",
+    "src": "https://nl.wikipedia.org/wiki/Microsoft_Datacenter_Campus_Middenmeer"
+   },
+   {
+    "para": 3,
+    "t": "In June 2026 it bought a further 37.5 hectares of farmland south of Agriport A7.",
+    "src": "https://nl.wikipedia.org/wiki/Microsoft_Datacenter_Campus_Middenmeer"
+   },
+   {
+    "para": 3,
+    "t": "A rainwater collection system called the Waterbank was fitted in September 2025.",
+    "src": "https://nl.wikipedia.org/wiki/Microsoft_Datacenter_Campus_Middenmeer"
+   },
+   {
+    "para": 3,
+    "t": "This time the municipality is asking for stricter conditions on how the buildings sit in the landscape and for consultation before the plans are drawn, with the province and the environment agency watching.",
+    "src": "https://www.demeerpeen.nl/nieuws/uitbreiding-microsoft-datacenter-in-middenmeer-stuit-op-gevoelig-verleden-en-strengere-eisen/"
+   },
+   {
+    "para": 3,
+    "t": "Joris Schoonis of Microsoft said the company was scaling up its infrastructure in Middenmeer with attention to the region.",
+    "src": "https://www.demeerpeen.nl/nieuws/uitbreiding-microsoft-datacenter-in-middenmeer-stuit-op-gevoelig-verleden-en-strengere-eisen/"
+   },
+   {
+    "para": 4,
+    "t": "A proposed Google site sits about three kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://nl.wikipedia.org/wiki/Microsoft_Datacenter_Campus_Middenmeer",
+   "https://www.aquatechtrade.com/news/industrial-water/microsoft-data-centre-uses-too-much-water",
+   "https://www.nhnieuws.nl/nieuws/281185/boeren-en-tuinders-gaan-in-beroep-tegen-vergunning-datacenter-microsoft",
+   "https://www.demeerpeen.nl/nieuws/uitbreiding-microsoft-datacenter-in-middenmeer-stuit-op-gevoelig-verleden-en-strengere-eisen/",
+   "https://www.datacentermap.com/c/microsoft/datacenters"
+  ],
+  "unconfirmed": "No megawatt rating for the campus was found, only the 2025 electricity total, and no water figure later than 2021. Searched: Microsoft datacenter Middenmeer Agriport 570 Hollands Kroon drinkwater; Hollands Kroon Middenmeer datacenter omwonenden protest uitbreiding; Microsoft Noord-Holland data center water use Wieringermeer controversy. Our record carries this as a single site at Agriport 570; the reporting describes a campus of several buildings on both sides of the A7."
+ },
+ {
+  "id": "microsoft-microsoft-boydton",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Microsoft operates a data center campus at Boydton, in Mecklenburg County, Virginia, on a 175-acre site with a 40-acre graded pad.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The first building went up in 2013 and the campus now runs ten buildings, with Dominion Virginia Power supplying it and the Mid-Atlantic Broadband Cooperative's fiber network described as a key reason Microsoft chose the county.",
+    "src": "https://baxtel.com/data-center/microsoft-boydton-va"
+   },
+   {
+    "para": 1,
+    "t": "Microsoft has put more than $2 billion into the site since 2010: $499 million that year, $150 million in 2011, $348 million in 2013, a $346.7 million expansion announced in 2014, $402.4 million in 2015 and a sixth expansion in 2019.",
+    "src": "https://baxtel.com/data-center/microsoft-boydton-va"
+   },
+   {
+    "para": 1,
+    "t": "In May 2018 the company bought 315 megawatts from Virginia solar projects, at the time the largest single corporate solar purchase in the United States.",
+    "src": "https://baxtel.com/data-center/microsoft-boydton-va"
+   },
+   {
+    "para": 2,
+    "t": "On June 29, 2023 Constellation Energy agreed to supply up to 35 percent of the Boydton campus's power from nuclear plants, matched hour by hour against what the data center actually draws rather than against an annual total.",
+    "src": "http://www.constellationenergy.com/news/2023/Constellation-signs-hourly-carbon-free-energy-matching-agreement-with-Microsoft-to-support-a-clean-powered-data-center.html"
+   },
+   {
+    "para": 2,
+    "t": "Combined with Microsoft's wind and solar purchases, Constellation said that would bring the site close to running carbon free around the clock.",
+    "src": "http://www.constellationenergy.com/news/2023/Constellation-signs-hourly-carbon-free-energy-matching-agreement-with-Microsoft-to-support-a-clean-powered-data-center.html"
+   }
+  ],
+  "sources": [
+   "https://news.google.com/rss/search?q=%22Boydton%22%20Microsoft%20data%20center&hl=en-US&gl=US&ceid=US:en"
+  ],
+  "unconfirmed": "This page previously rested entirely on a Google News search feed rather than on articles. Claims that could not be traced to a readable source have been removed: a 2013 trade-press description of Boydton as a $1 billion campus, a 2017 Dominion Energy solar project tied to the campus, permit filings in July and October 2022 and for a six-building campus in April 2023, and environmental groups raising concerns about data center spread across Mecklenburg County in September 2024. The campus's power capacity is redacted in the facility record and no megawatt figure was found."
+ }
+]

@@ -1,0 +1,738 @@
+[
+ {
+  "id": "ft-1114",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The data center proposed at Dundee, in Monroe County, Michigan, stalled over the village's water and sewer agreement.",
+    "src": "https://www.13abc.com/2025/10/08/data-center-dundee-takes-step-back-developers-plan-educate-public/"
+   },
+   {
+    "para": 0,
+    "t": "On October 8, 2025 the village shelved its pre-agreement with Cloverleaf Infrastructure, after the developers wrote to say they should have done more to communicate with the public before advancing the proposal.",
+    "src": "https://www.13abc.com/2025/10/08/data-center-dundee-takes-step-back-developers-plan-educate-public/"
+   },
+   {
+    "para": 0,
+    "t": "The data center itself would have taken about 350 acres near North Ann Arbor Road in Dundee Township, and Cloverleaf held options on 750 acres across two townships.",
+    "src": "https://www.13abc.com/2025/10/08/data-center-dundee-takes-step-back-developers-plan-educate-public/"
+   },
+   {
+    "para": 1,
+    "t": "Cloverleaf had no customer for it.",
+    "src": "https://www.13abc.com/2025/10/08/data-center-dundee-takes-step-back-developers-plan-educate-public/"
+   },
+   {
+    "para": 1,
+    "t": "The company said it had no end user and planned to approach Amazon, Google, Meta and Microsoft.",
+    "src": "https://www.13abc.com/2025/10/08/data-center-dundee-takes-step-back-developers-plan-educate-public/"
+   },
+   {
+    "para": 1,
+    "t": "Aaron Bilyeu of Cloverleaf said the company wanted to educate residents \"about the truths about water consumption, about noise, about power rates\".",
+    "src": "https://www.13abc.com/2025/10/08/data-center-dundee-takes-step-back-developers-plan-educate-public/"
+   },
+   {
+    "para": 2,
+    "t": "Hilary Kerr, who lives nearby, was not persuaded.",
+    "src": "https://www.13abc.com/2025/10/08/data-center-dundee-takes-step-back-developers-plan-educate-public/"
+   },
+   {
+    "para": 2,
+    "t": "She said putting the data center there \"could affect our water, it could affect our farm animals that we have. Just our general way of life\", and added: \"I don't think this is the right area for a project like this.\"",
+    "src": "https://www.13abc.com/2025/10/08/data-center-dundee-takes-step-back-developers-plan-educate-public/"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded as suspended, on 750 acres, with no capacity figure, and a change.org petition against it is on file.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "The site sits inside one of the densest clusters of local pushback in the country: fifteen municipalities within reach carry data center moratoriums or zoning limits, from Manchester Township in October 2025 through Erie, Frenchtown and Lake townships in March 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The Thor Equities proposal, rejected by Augusta Township voters, is 11 kilometres away, and the OpenAI Stargate campus at Saline, 1,400 megawatts and under construction, is 20 kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 3,080 megawatt Monroe coal plant is 29 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.13abc.com/2025/10/08/data-center-dundee-takes-step-back-developers-plan-educate-public/"
+  ],
+  "unconfirmed": "Trade press and a Toledo station both report that the Dundee village council went further and voted to block the village water supply the project needed; neither report could be fetched, so that vote and its date are not stated above. The power demand was never published. Whether Cloverleaf still holds its land options, and whether it has found an end user since September 2025, are unknown. Our record's address, 15398 Day Rd, matches the corner of Ann Arbor Road and Day Road that Cloverleaf's own project site names as Project Ironwood, but we did not read that site."
+ },
+ {
+  "id": "ft-1765383091599-7166",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Southfield city council, in Oakland County, Michigan, sat through nearly six hours of public comment on a data center before it voted.",
+    "src": "https://planetdetroit.org/2025/12/southfield-data-center-approval/"
+   },
+   {
+    "para": 0,
+    "t": "On December 16, 2025 it approved the site plan 5 to 2.",
+    "src": "https://planetdetroit.org/2025/12/southfield-data-center-approval/"
+   },
+   {
+    "para": 0,
+    "t": "The developer is Metrobloks, of Los Angeles, and the building is 109,683 square feet on 12.19 acres on the east side of Inkster Road between 11 Mile Road and I-696.",
+    "src": "https://planetdetroit.org/2025/12/southfield-data-center-approval/"
+   },
+   {
+    "para": 0,
+    "t": "It would draw 100 megawatts, cost $1.5 billion across two phases, and employ 35 people, bringing the city about $400,000 a year in tax.",
+    "src": "https://planetdetroit.org/2025/12/southfield-data-center-approval/"
+   },
+   {
+    "para": 1,
+    "t": "Council president Charles Hicks voted against: \"I'm just concerned there's too many unknowns, not enough fact based information to make a good decision.\"",
+    "src": "https://planetdetroit.org/2025/12/southfield-data-center-approval/"
+   },
+   {
+    "para": 1,
+    "t": "Council president pro tem Coretta Houge voted for it: \"We have to consider new technologies, new ideas, because that's just the way the world is going.\"",
+    "src": "https://planetdetroit.org/2025/12/southfield-data-center-approval/"
+   },
+   {
+    "para": 1,
+    "t": "Resident Lysa Davis asked: \"This is a little scary. Why do we have to be the first one?\"",
+    "src": "https://planetdetroit.org/2025/12/southfield-data-center-approval/"
+   },
+   {
+    "para": 1,
+    "t": "An IT engineer, Terrance Francis, told the council: \"Right now they're saying 100 megawatts ... it's 150 megawatts that they're really actually looking at by the time they break ground going forward.\"",
+    "src": "https://planetdetroit.org/2025/12/southfield-data-center-approval/"
+   },
+   {
+    "para": 2,
+    "t": "At an earlier packed meeting, Metrobloks did not turn up, having presented its plans the week before.",
+    "src": "https://www.wxyz.com/news/southfield-residents-voice-concerns-over-proposed-data-center-at-packed-council-meeting"
+   },
+   {
+    "para": 2,
+    "t": "Sherry Evanscafe, who lives within walking distance, told the council: \"I'm asking council to protect our neighborhoods. If the data center proposal is adopted that this area will be protected from pollution, noise and disruption.\"",
+    "src": "https://www.wxyz.com/news/southfield-residents-voice-concerns-over-proposed-data-center-at-packed-council-meeting"
+   },
+   {
+    "para": 2,
+    "t": "One Inkster Road resident supported the project but worried about traffic on a road already congested.",
+    "src": "https://www.wxyz.com/news/southfield-residents-voice-concerns-over-proposed-data-center-at-packed-council-meeting"
+   },
+   {
+    "para": 2,
+    "t": "Southfield already has about nine data centers, and Hicks put the proposal in that line: \"For decades, our city has supported both large and small data centers as part of the broader technology ecosystem that serves residents, local businesses, hospitals and regional institutions.\"",
+    "src": "https://www.wxyz.com/news/southfield-residents-voice-concerns-over-proposed-data-center-at-packed-council-meeting"
+   },
+   {
+    "para": 3,
+    "t": "Residents and the councillors who opposed it asked for a community benefits agreement and a health impact study, and questioned whether the infrastructure was ready.",
+    "src": "https://planetdetroit.org/2025/12/southfield-data-center-approval/"
+   },
+   {
+    "para": 4,
+    "t": "The project is recorded at 100 megawatts, proposed, under the developer Metrobloks.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 4,
+    "t": "Fourteen municipalities nearby carry data center moratoriums, though Southfield is not among them.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The closest generator of any size is the 93 megawatt Hancock gas plant, 12 kilometres away; the 739 megawatt Dearborn Industrial Generation plant is 25 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://planetdetroit.org/2025/12/southfield-data-center-approval/",
+   "https://www.wxyz.com/news/southfield-residents-voice-concerns-over-proposed-data-center-at-packed-council-meeting"
+  ],
+  "unconfirmed": "Metrobloks has not named a customer, and it is not clear where the 100 megawatts would come from or whether DTE has agreed to supply it. Francis's 150 megawatt figure is a resident's estimate, not a company or utility number, and is reported as such. What has happened since the December 2025 approval, including whether construction has begun, we could not establish. Our record gives the address as Farmington Hills while the reporting places the site on Inkster Road in Southfield; the two municipalities meet near that stretch of road and we could not resolve which side of the line it falls on."
+ },
+ {
+  "id": "ft-1763326509042-3634",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The developers pulled out the night before the vote.",
+    "src": "https://planetdetroit.org/2025/12/billion-dollar-data-center-paused/"
+   },
+   {
+    "para": 0,
+    "t": "Late on Sunday, December 7, 2025, Stantec Consulting Michigan Inc and Randee LLC withdrew their conditional rezoning application for a $1 billion data center on 1,077 acres of farmland north of I-96 in Howell Township, in Livingston County, Michigan, ahead of the board meeting scheduled for the following day.",
+    "src": "https://planetdetroit.org/2025/12/billion-dollar-data-center-paused/"
+   },
+   {
+    "para": 0,
+    "t": "Their statement said: \"We believe the right thing to do now is to honor the current moratorium, which will give the township and its residents the time needed to develop thoughtful, well-considered regulations for any future data centers.\"",
+    "src": "https://planetdetroit.org/2025/12/billion-dollar-data-center-paused/"
+   },
+   {
+    "para": 1,
+    "t": "The township's six month moratorium, passed on November 20, 2025, ran to May 20, 2026, and officials expected to write data center rules in that time.",
+    "src": "https://planetdetroit.org/2025/12/billion-dollar-data-center-paused/"
+   },
+   {
+    "para": 1,
+    "t": "Township treasurer and zoning administrator Jonathan Hohenstein was not sure the project was over: \"The communication from the applicant makes it sound like once the regulations are complete, they will resubmit their application; time will tell.\"",
+    "src": "https://planetdetroit.org/2025/12/billion-dollar-data-center-paused/"
+   },
+   {
+    "para": 1,
+    "t": "Resident Cory Alchin took a wider view: \"We are setting a precedent for people to follow and have faith in, across the country. The key was that people kept showing up and kept showing up.\"",
+    "src": "https://planetdetroit.org/2025/12/billion-dollar-data-center-paused/"
+   },
+   {
+    "para": 2,
+    "t": "Part of the footprint is the Van Gilder family's land.",
+    "src": "https://planetdetroit.org/2025/12/billion-dollar-data-center-paused/"
+   },
+   {
+    "para": 2,
+    "t": "Ryan Van Gilder declined to comment.",
+    "src": "https://planetdetroit.org/2025/12/billion-dollar-data-center-paused/"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded as cancelled, at 1,077 acres and $1 billion, with the developer given as Stantec Consulting and Meta.",
+    "src": "data:developer"
+   },
+   {
+    "para": 4,
+    "t": "Residents ran a change.org petition demanding a six month moratorium on rezoning, and the moratorium followed.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 4,
+    "t": "Thirteen municipalities within reach of the site carry data center moratoriums, including Flint from June 2026 and Manchester Township from October 2025.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The only other project within 40 kilometres is the Verrus campus at Lyon Township, 38 kilometres away at 525 megawatts.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://planetdetroit.org/2025/12/billion-dollar-data-center-paused/"
+  ],
+  "unconfirmed": "Our record spelled the consultant Santec until this pass; Planet Detroit gives Stantec, and the entry now reads that way. Meta's involvement is in our record and in a Michigan Advance report and an MLive report from November 2025 that we could not fetch, both attributed to a township trustee rather than to the company; the Planet Detroit account of the withdrawal does not mention Meta at all, and we have not repeated it as established fact. The power demand of the proposal was never published. Whether the developers have resubmitted since the moratorium expired on May 20, 2026 is unknown; we found no reporting after December 2025 that we could read. Who owns Randee LLC is not stated."
+ },
+ {
+  "id": "ft-1115",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Residents of Pavilion Township found out about this one late, and said so.",
+    "src": "https://wwmt.com/news/local/data-center-indistrial-hub-pavilion-township-community-concerns-halt-project-kalamazoo-county-franklin-partners-llc"
+   },
+   {
+    "para": 0,
+    "t": "Franklin Partners LLC proposed a data center on industrially zoned land at South 26th Street and East N Avenue in Kalamazoo County, and paused the plan at the end of October 2025, pending planning commission approval.",
+    "src": "https://wwmt.com/news/local/data-center-indistrial-hub-pavilion-township-community-concerns-halt-project-kalamazoo-county-franklin-partners-llc"
+   },
+   {
+    "para": 0,
+    "t": "It was taken off the township board's agenda for the rest of the year.",
+    "src": "https://wwmt.com/news/local/data-center-indistrial-hub-pavilion-township-community-concerns-halt-project-kalamazoo-county-franklin-partners-llc"
+   },
+   {
+    "para": 1,
+    "t": "Don Shoemaker, a co-founder of Franklin Partners, said the company wanted the community's interests aligned with its own: \"Public displeasure is not a way we look at doing business.\"",
+    "src": "https://wwmt.com/news/local/data-center-indistrial-hub-pavilion-township-community-concerns-halt-project-kalamazoo-county-franklin-partners-llc"
+   },
+   {
+    "para": 1,
+    "t": "Township supervisor John Speeter suggested residents might benefit, saying \"there might be some economies of scale that their bills may go down because of the larger wires and additional usage\".",
+    "src": "https://wwmt.com/news/local/data-center-indistrial-hub-pavilion-township-community-concerns-halt-project-kalamazoo-county-franklin-partners-llc"
+   },
+   {
+    "para": 1,
+    "t": "Katelyn Clarey, from nearby Vicksburg, said people felt very surprised and blindsided.",
+    "src": "https://wwmt.com/news/local/data-center-indistrial-hub-pavilion-township-community-concerns-halt-project-kalamazoo-county-franklin-partners-llc"
+   },
+   {
+    "para": 2,
+    "t": "Residents raised electricity costs, citing 20 percent increases in other communities, the thousands of gallons of water a cooling system would need, air quality from generators burning dirty fuels, and the speed with which the plan had moved without notice.",
+    "src": "https://wwmt.com/news/local/data-center-indistrial-hub-pavilion-township-community-concerns-halt-project-kalamazoo-county-franklin-partners-llc"
+   },
+   {
+    "para": 2,
+    "t": "Franklin Partners said it was considering other uses for the site.",
+    "src": "https://wwmt.com/news/local/data-center-indistrial-hub-pavilion-township-community-concerns-halt-project-kalamazoo-county-franklin-partners-llc"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded as suspended, with no capacity, acreage or cost.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Eight jurisdictions nearby have since adopted data center moratoriums, including Portage from February 24, 2026 and Texas Township from June 26, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The 72 megawatt Kalamazoo River generating station is four kilometres away, and a one megawatt site called Harbor Farmz is three kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://wwmt.com/news/local/data-center-indistrial-hub-pavilion-township-community-concerns-halt-project-kalamazoo-county-franklin-partners-llc"
+  ],
+  "unconfirmed": "No size, capacity or end user was ever published for the Pavilion Township proposal. The date of the pause is uncertain: the story carried October 28, 2025, while the WWMT report is dated October 30 and describes the decision as having been made on the Monday, which was October 27, so the text now says the end of October. Whether Franklin Partners has returned to the township since, and what it has decided to do with the land, are unknown. The same firm, as Franklin Lowell LLC, was behind the Lowell Township proposal elsewhere in our record, for which Microsoft later identified itself as the end user; we have not assumed the two are connected beyond the shared developer. One of our record's two sources for this entry is a YouTube video, which we did not watch."
+ },
+ {
+  "id": "ft-1764303510176-1505",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The plan was to put a gigawatt-scale data center and its own power plant on more than 1,400 acres of state-managed land near Island Lake in Kalkaska County.",
+    "src": "https://www.9and10news.com/2025/11/17/residents-voice-concerns-over-proposed-data-center-in-kalkaska-county"
+   },
+   {
+    "para": 0,
+    "t": "The developer is Rocklocker, led by Matt Rine of Traverse City.",
+    "src": "https://www.9and10news.com/2025/11/17/residents-voice-concerns-over-proposed-data-center-in-kalkaska-county"
+   },
+   {
+    "para": 0,
+    "t": "Rine told residents the project would create work and tens of millions of dollars a year in tax revenue, and that the region's geology suited a data center using carbon capture to reach net zero.",
+    "src": "https://www.9and10news.com/2025/11/17/residents-voice-concerns-over-proposed-data-center-in-kalkaska-county"
+   },
+   {
+    "para": 0,
+    "t": "The Michigan Department of Natural Resources had already refused Rocklocker's earlier request to buy the state land.",
+    "src": "https://www.9and10news.com/2025/11/17/residents-voice-concerns-over-proposed-data-center-in-kalkaska-county"
+   },
+   {
+    "para": 1,
+    "t": "The room at Garfield Township Hall in Fife Lake on November 17, 2025 was packed, and cold.",
+    "src": "https://www.interlochenpublicradio.org/2025-11-19/yall-should-stop-crowd-gives-cold-response-to-kalkaska-data-center-idea"
+   },
+   {
+    "para": 1,
+    "t": "One attendee told the presenters: \"We're gonna fight like hell, so y'all should stop. It's gonna be expensive.\"",
+    "src": "https://www.interlochenpublicradio.org/2025-11-19/yall-should-stop-crowd-gives-cold-response-to-kalkaska-data-center-idea"
+   },
+   {
+    "para": 1,
+    "t": "Willow Lund, who is 17 and from Kalkaska, asked: \"What are our other land options other than pulling down a forest?\"",
+    "src": "https://www.interlochenpublicradio.org/2025-11-19/yall-should-stop-crowd-gives-cold-response-to-kalkaska-data-center-idea"
+   },
+   {
+    "para": 1,
+    "t": "Ryan Harper asked how much the cooling would raise the temperature of the ground, the groundwater and the springs that keep the Boardman River cool.",
+    "src": "https://www.interlochenpublicradio.org/2025-11-19/yall-should-stop-crowd-gives-cold-response-to-kalkaska-data-center-idea"
+   },
+   {
+    "para": 1,
+    "t": "Another resident said he could hear the DTE Energy compressor station near Kalkaska from five miles away.",
+    "src": "https://www.interlochenpublicradio.org/2025-11-19/yall-should-stop-crowd-gives-cold-response-to-kalkaska-data-center-idea"
+   },
+   {
+    "para": 2,
+    "t": "Senator Jon Bumstead sat in the front row and spoke; senator Michele Hoitenga and representative Ken Borton put their opposition on social media rather than at the meeting.",
+    "src": "https://www.interlochenpublicradio.org/2025-11-19/yall-should-stop-crowd-gives-cold-response-to-kalkaska-data-center-idea"
+   },
+   {
+    "para": 2,
+    "t": "Residents also worried about what would be left behind, citing companies that had come to the area before and gone, leaving scars on the landscape.",
+    "src": "https://www.9and10news.com/2025/11/17/residents-voice-concerns-over-proposed-data-center-in-kalkaska-county"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded as cancelled, at 1,000 megawatts on 1,440 acres.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "No other data center site is recorded anywhere in Kalkaska County, and the nearest one of any kind is beyond the 40 kilometre radius.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generator is the 405 megawatt Alpine gas plant, 48 kilometres away, which is one reason the proposal came with its own power station attached.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.9and10news.com/2025/11/17/residents-voice-concerns-over-proposed-data-center-in-kalkaska-county",
+   "https://www.interlochenpublicradio.org/2025-11-19/yall-should-stop-crowd-gives-cold-response-to-kalkaska-data-center-idea"
+  ],
+  "unconfirmed": "The fuel for the on-site power plant was not specified in the reports we read, nor was the water source or volume, nor the carbon capture arrangement beyond Rine's description of it. Our record marks the project cancelled and the Data Center Dynamics headline says opposition led the developer to withdraw, but that report is not fetchable, so the date and terms of the withdrawal are not given here. Who backs Rocklocker financially is unknown. Attendance figures for the November 17 meeting were not published beyond descriptions of a packed room."
+ },
+ {
+  "id": "ft-1764610070998-6215",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one was meant to heat the city.",
+    "src": "https://www.lbwl.com/community/newsroom/2025-11-05-deep-green-proposes-120-million-sustainable-data-center-investment"
+   },
+   {
+    "para": 0,
+    "t": "On November 5, 2025 the Lansing Board of Water and Light, in Ingham County, Michigan, announced that Deep Green had proposed a $120 million, 24 megawatt data center on downtown surface parking lots, with the waste heat from the computers fed into the utility's hot water distribution system.",
+    "src": "https://www.lbwl.com/community/newsroom/2025-11-05-deep-green-proposes-120-million-sustainable-data-center-investment"
+   },
+   {
+    "para": 0,
+    "t": "Deep Green chief executive Mark Lee said that \"by capturing and reusing heat that would otherwise be wasted, this project transforms Lansing's energy landscape, turning technology into a local sustainability solution\".",
+    "src": "https://www.lbwl.com/community/newsroom/2025-11-05-deep-green-proposes-120-million-sustainable-data-center-investment"
+   },
+   {
+    "para": 0,
+    "t": "BWL general manager Dick Peffley said it would let the utility cut carbon emissions and natural gas use.",
+    "src": "https://www.lbwl.com/community/newsroom/2025-11-05-deep-green-proposes-120-million-sustainable-data-center-investment"
+   },
+   {
+    "para": 0,
+    "t": "Mayor Andy Schor said the project would bring the city more than $1 million a year in additional revenue.",
+    "src": "https://www.lbwl.com/community/newsroom/2025-11-05-deep-green-proposes-120-million-sustainable-data-center-investment"
+   },
+   {
+    "para": 0,
+    "t": "Construction was to start in spring 2026, subject to local and state approvals.",
+    "src": "https://www.lbwl.com/community/newsroom/2025-11-05-deep-green-proposes-120-million-sustainable-data-center-investment"
+   },
+   {
+    "para": 1,
+    "t": "It did not get that far.",
+    "src": "https://www.wilx.com/2026/04/06/company-behind-downtown-lansing-data-center-project-withdraws-application-city-council-president-says/"
+   },
+   {
+    "para": 1,
+    "t": "On April 6, 2026, hours before the city council was due to vote on rezoning the parcel at East Kalamazoo Street and South Cedar Street, Deep Green withdrew its application for the zoning amendment.",
+    "src": "https://www.wilx.com/2026/04/06/company-behind-downtown-lansing-data-center-project-withdraws-application-city-council-president-says/"
+   },
+   {
+    "para": 1,
+    "t": "Council president Peter Spadafore announced it on Facebook that afternoon: \"What this means: the data center proposal downtown will not move forward.\"",
+    "src": "https://www.wilx.com/2026/04/06/company-behind-downtown-lansing-data-center-project-withdraws-application-city-council-president-says/"
+   },
+   {
+    "para": 1,
+    "t": "The company gave no reason.",
+    "src": "https://www.wilx.com/2026/04/06/company-behind-downtown-lansing-data-center-project-withdraws-application-city-council-president-says/"
+   },
+   {
+    "para": 1,
+    "t": "The Board of Water and Light said it still believed in the benefits the project would have brought, which included future hot water customers, the emissions reductions that went with them, and $120,000 a year towards helping customers struggling with their bills.",
+    "src": "https://www.wilx.com/2026/04/06/company-behind-downtown-lansing-data-center-project-withdraws-application-city-council-president-says/"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded as cancelled, at 24 megawatts on three acres, costing $120 million.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Lansing's own power stations sit close by: the 75 megawatt REO Town plant is a kilometre from the site and the 126 megawatt T B Simon plant five kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "No other data center site is recorded anywhere in Ingham County.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://www.lbwl.com/community/newsroom/2025-11-05-deep-green-proposes-120-million-sustainable-data-center-investment",
+   "https://www.wilx.com/2026/04/06/company-behind-downtown-lansing-data-center-project-withdraws-application-city-council-president-says/"
+  ],
+  "unconfirmed": "Why Deep Green withdrew is not established: the company said nothing, and the withdrawal came hours before a council vote it might have lost. The utility release does not say where Deep Green is based, so the description of it as a British company has come out. The heat reuse and negligible water use are the company's own claims as published by the utility, and were not independently checked in anything we read. A November 2025 report in our record of residents calling for transparency about the contract was not read, so what they objected to, and what the complaints about the land sale amounted to, we could not establish. Whether the Board of Water and Light is seeking another partner for the hot water scheme is unknown."
+ },
+ {
+  "id": "ft-1765216543175-2908",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "For weeks nobody in Lowell Township, in Kent County, Michigan, would say who the data center was for.",
+    "src": "https://lowellledger.org/articles/news/microsoft-reveals-itself-as-data-center-developer-in-lowell-township/"
+   },
+   {
+    "para": 0,
+    "t": "Franklin Partners applied to rezone land at the Covenant Business Park by I-96, put the application on hold, and described the end user only as a national American-owned company.",
+    "src": "https://lowellledger.org/articles/news/microsoft-reveals-itself-as-data-center-developer-in-lowell-township/"
+   },
+   {
+    "para": 0,
+    "t": "On January 7, 2026 Microsoft identified itself, in a letter to the Lowell community dated January 2.",
+    "src": "https://lowellledger.org/articles/news/microsoft-reveals-itself-as-data-center-developer-in-lowell-township/"
+   },
+   {
+    "para": 0,
+    "t": "Its cloud infrastructure team wrote: \"We are introducing ourselves now because we have observed that the community would like more information about the proposal.\"",
+    "src": "https://lowellledger.org/articles/news/microsoft-reveals-itself-as-data-center-developer-in-lowell-township/"
+   },
+   {
+    "para": 1,
+    "t": "The company said it was evaluating the business park for a facility worth between $500 million and $1 billion.",
+    "src": "https://lowellledger.org/articles/news/microsoft-reveals-itself-as-data-center-developer-in-lowell-township/"
+   },
+   {
+    "para": 1,
+    "t": "Township supervisor Jerry Hale said: \"We told them that we're glad that they came out and said who they are, and we look forward to further dialogue with them, and with the community, so we can all get the questions answered.\"",
+    "src": "https://lowellledger.org/articles/news/microsoft-reveals-itself-as-data-center-developer-in-lowell-township/"
+   },
+   {
+    "para": 2,
+    "t": "The opposition came first.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "A change.org petition against the project and a Residents United Lowell group are on file, and the site is recorded as suspended at 100 megawatts on 237 acres.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "A public hearing on December 8, 2025 had to be rescheduled because the venue could not hold the crowd, and a township press release ten days later said the applicant had asked for an indefinite suspension of the application.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "Microsoft has two other West Michigan proposals: Gaines Township, 16 kilometres away, where the planning commission tabled a rezoning in April 2026, and Dorr Township, 30 kilometres off, where a twelve month moratorium is in force.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The nearest large generator is the 843 megawatt Zeeland gas station, 51 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://lowellledger.org/articles/news/microsoft-reveals-itself-as-data-center-developer-in-lowell-township/"
+  ],
+  "unconfirmed": "Whether the application is formally withdrawn or merely suspended is unclear: the Lowell Ledger describes it as on hold, trade press describes a withdrawal, and the township's own language was an indefinite suspension. The 100 megawatt figure in our record is not confirmed by anything we read; Microsoft has published no capacity for Lowell. The MLive and wzzm13 reports in our record, which would name residents and carry the opposition's own words, returned errors and could not be fetched, so no resident is quoted here. Whether Microsoft has returned to the township since January 2026 is unknown."
+ },
+ {
+  "id": "ft-1766256114879-1116",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Marshall, in Calhoun County, Michigan, sold the land for a data center first and asked the questions afterwards.",
+    "src": "https://wwmt.com/news/local/marshall-data-center-moratorium-delays-development-one-year-alterra-brooks-industrial-park-acres-wetland-lake-energy-environment-calhoun-county-west-michigan"
+   },
+   {
+    "para": 0,
+    "t": "In October 2025 Alterra Development agreed to buy 270 acres at Brooks Industrial Park, and the city has since acknowledged it had not considered the environmental questions when it sold.",
+    "src": "https://wwmt.com/news/local/marshall-data-center-moratorium-delays-development-one-year-alterra-brooks-industrial-park-acres-wetland-lake-energy-environment-calhoun-county-west-michigan"
+   },
+   {
+    "para": 0,
+    "t": "The site sits beside wetlands and a lake.",
+    "src": "https://wwmt.com/news/local/marshall-data-center-moratorium-delays-development-one-year-alterra-brooks-industrial-park-acres-wetland-lake-energy-environment-calhoun-county-west-michigan"
+   },
+   {
+    "para": 1,
+    "t": "The original plan paired the data center with a gas generating plant and would have used a gigawatt of power.",
+    "src": "https://wwmt.com/news/local/marshall-data-center-moratorium-delays-development-one-year-alterra-brooks-industrial-park-acres-wetland-lake-energy-environment-calhoun-county-west-michigan"
+   },
+   {
+    "para": 1,
+    "t": "Alterra has since dropped the gas plant, cutting the project's energy use by about 60 percent.",
+    "src": "https://wwmt.com/news/local/marshall-data-center-moratorium-delays-development-one-year-alterra-brooks-industrial-park-acres-wetland-lake-energy-environment-calhoun-county-west-michigan"
+   },
+   {
+    "para": 2,
+    "t": "On August 3, 2026 the city council approved a moratorium holding any data center approval for 365 days, to at least August 2027.",
+    "src": "https://wwmt.com/news/local/marshall-data-center-moratorium-delays-development-one-year-alterra-brooks-industrial-park-acres-wetland-lake-energy-environment-calhoun-county-west-michigan"
+   },
+   {
+    "para": 2,
+    "t": "The measure cites uncertainty about electricity, water use and heat discharge, and the city intends to write an ordinance limiting low frequency noise during the pause.",
+    "src": "https://wwmt.com/news/local/marshall-data-center-moratorium-delays-development-one-year-alterra-brooks-industrial-park-acres-wetland-lake-energy-environment-calhoun-county-west-michigan"
+   },
+   {
+    "para": 2,
+    "t": "Mayor Scott Wolfersberger explained it this way: \"We want to make sure they come and they talk to us and they have this conversation\", and said the company would have to satisfy the city's concerns before anything went ahead.",
+    "src": "https://wwmt.com/news/local/marshall-data-center-moratorium-delays-development-one-year-alterra-brooks-industrial-park-acres-wetland-lake-energy-environment-calhoun-county-west-michigan"
+   },
+   {
+    "para": 2,
+    "t": "On water he was reassuring: \"The new modern closed loop systems with inline filtration actually use about as much water as an apartment building, about 2,000 gallons a day.\"",
+    "src": "https://wwmt.com/news/local/marshall-data-center-moratorium-delays-development-one-year-alterra-brooks-industrial-park-acres-wetland-lake-energy-environment-calhoun-county-west-michigan"
+   },
+   {
+    "para": 3,
+    "t": "Alterra is still in due diligence, which may run several more months before it decides whether to complete the purchase, and has not answered recent questions from reporters.",
+    "src": "https://wwmt.com/news/local/marshall-data-center-moratorium-delays-development-one-year-alterra-brooks-industrial-park-acres-wetland-lake-energy-environment-calhoun-county-west-michigan"
+   },
+   {
+    "para": 3,
+    "t": "The city notes that legislation pending in Lansing could affect how much local control it has.",
+    "src": "https://wwmt.com/news/local/marshall-data-center-moratorium-delays-development-one-year-alterra-brooks-industrial-park-acres-wetland-lake-energy-environment-calhoun-county-west-michigan"
+   },
+   {
+    "para": 4,
+    "t": "The entry is recorded at 112 acres for $1.12 million, proposed, with no capacity figure.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "The sale itself covers 270 acres.",
+    "src": "https://wwmt.com/news/local/marshall-data-center-moratorium-delays-development-one-year-alterra-brooks-industrial-park-acres-wetland-lake-energy-environment-calhoun-county-west-michigan"
+   },
+   {
+    "para": 4,
+    "t": "No other data center site is recorded anywhere in Calhoun County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 4,
+    "t": "The land around Marshall is dense with solar: four farms totalling nearly 600 megawatts sit within 25 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://wwmt.com/news/local/marshall-data-center-moratorium-delays-development-one-year-alterra-brooks-industrial-park-acres-wetland-lake-energy-environment-calhoun-county-west-michigan"
+  ],
+  "unconfirmed": "What the project would draw now that the gas plant is dropped is not stated: a 60 percent cut from a gigawatt implies about 400 megawatts, but no source gives a figure and we have not calculated one into the text. Where the remaining power would come from, with no gas plant, is unknown. The 270 acres in the sale and the 112 acres on our entry are different figures, and the report does not say that 112 is the buildable portion, so the earlier sentence asserting that has come out. Who Alterra's end user would be has never been named. The mayor's 2,000 gallons a day figure is his own characterisation of closed loop systems generally, not a number for this project. The MLive report of the land sale, which is in our record, could not be fetched."
+ },
+ {
+  "id": "ft-1765821873733-6952",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The first most people in Lyon Township, in Oakland County, Michigan, heard of the data center was from a neighbour.",
+    "src": "https://www.wxyz.com/news/region/oakland-county/lyon-township-residents-blindsided-by-ai-data-center-approval-near-homes"
+   },
+   {
+    "para": 0,
+    "t": "Verrus submitted its site plan on August 7 and the planning commission conditionally approved Project Flex on September 8, 2025, without a public hearing or a board vote, because data centers are a permitted use in the township's industrial zones.",
+    "src": "https://www.wxyz.com/news/region/oakland-county/lyon-township-residents-blindsided-by-ai-data-center-approval-near-homes"
+   },
+   {
+    "para": 0,
+    "t": "Residents found out months later.",
+    "src": "https://www.wxyz.com/news/region/oakland-county/lyon-township-residents-blindsided-by-ai-data-center-approval-near-homes"
+   },
+   {
+    "para": 0,
+    "t": "Kimberly Killian, who lives nearby, said: \"I'm extremely upset, I'm heartbroken, nobody wants that in their backyard\", and described learning about it piecemeal on Facebook after a neighbour told the street.",
+    "src": "https://www.wxyz.com/news/region/oakland-county/lyon-township-residents-blindsided-by-ai-data-center-approval-near-homes"
+   },
+   {
+    "para": 0,
+    "t": "Mike Kazy, who sits on the Downtown Development Authority board, was the neighbour who told them: \"I felt that was my obligation, my first step was to notify my neighbors so they knew.\"",
+    "src": "https://www.wxyz.com/news/region/oakland-county/lyon-township-residents-blindsided-by-ai-data-center-approval-near-homes"
+   },
+   {
+    "para": 1,
+    "t": "The campus is 172 acres and six buildings totalling 1.8 million square feet, south of Grand River Avenue between South Hill and Milford Roads, with a new DTE substation of its own.",
+    "src": "https://planetdetroit.org/2026/01/lyon-township-data-center-plan/"
+   },
+   {
+    "para": 1,
+    "t": "Backup power would be battery storage for outages under four hours and diesel generators in acoustic enclosures for anything longer.",
+    "src": "https://planetdetroit.org/2026/01/lyon-township-data-center-plan/"
+   },
+   {
+    "para": 1,
+    "t": "The nearest residential zoning is about 300 feet away.",
+    "src": "https://www.wxyz.com/news/region/oakland-county/lyon-township-residents-blindsided-by-ai-data-center-approval-near-homes"
+   },
+   {
+    "para": 2,
+    "t": "The sound study is the point residents keep returning to.",
+    "src": "https://planetdetroit.org/2026/01/lyon-township-data-center-plan/"
+   },
+   {
+    "para": 2,
+    "t": "It projected 44 decibels in normal operation but left out the diesel generators, which can reach 110.",
+    "src": "https://planetdetroit.org/2026/01/lyon-township-data-center-plan/"
+   },
+   {
+    "para": 2,
+    "t": "Final approval depends on an independent review of that study and an energy audit, and the township has said the planning commission may revisit the site plan approval to make sure its conditions have been properly addressed.",
+    "src": "https://planetdetroit.org/2026/01/lyon-township-data-center-plan/"
+   },
+   {
+    "para": 2,
+    "t": "Nancy Hopkins, about a mile away, worries about the cooling system and generator fuel reaching her well water, and about relatives with asthma.",
+    "src": "https://planetdetroit.org/2026/01/lyon-township-data-center-plan/"
+   },
+   {
+    "para": 2,
+    "t": "Kelley Haynes called for a twelve month moratorium, saying: \"The red flags are going up all around us.\"",
+    "src": "https://planetdetroit.org/2026/01/lyon-township-data-center-plan/"
+   },
+   {
+    "para": 2,
+    "t": "Verrus spokesperson Emily Hebert said the company was working to set a new industry benchmark for responsible development, through cooling and power systems with little to no water consumption or emissions, and said it was the backup batteries rather than diesel generators that would support grid reliability.",
+    "src": "https://planetdetroit.org/2026/01/lyon-township-data-center-plan/"
+   },
+   {
+    "para": 3,
+    "t": "About 125 people came to the planning meeting on January 12, 2026, and the township held further sessions at South Lyon East High School on January 15 and January 22.",
+    "src": "https://planetdetroit.org/2026/01/lyon-township-data-center-plan/"
+   },
+   {
+    "para": 4,
+    "t": "The dispute hardened through 2026.",
+    "src": "https://www.wxyz.com/news/data-centers/lyon-township-residents-push-back-on-data-center-as-developer-threatens-lawsuit"
+   },
+   {
+    "para": 4,
+    "t": "In a final site plan response letter on May 27, Verrus's attorney Benjamin E Bayram warned that if approval was further delayed the company would pursue legal action, including injunctions and damages under Michigan and federal law.",
+    "src": "https://www.wxyz.com/news/data-centers/lyon-township-residents-push-back-on-data-center-as-developer-threatens-lawsuit"
+   },
+   {
+    "para": 4,
+    "t": "The township board of trustees had denied an easement the developers asked for to carry out a stormwater project.",
+    "src": "https://www.wxyz.com/news/data-centers/lyon-township-residents-push-back-on-data-center-as-developer-threatens-lawsuit"
+   },
+   {
+    "para": 4,
+    "t": "Craig Kreutzberg, who speaks for the group No Data Center Lyon Township, read the threat as a sign of progress: \"Obviously, if they're using such strong language and rhetoric, it means that the things that we have been doing have been having the impact that we want them to have.\"",
+    "src": "https://www.wxyz.com/news/data-centers/lyon-township-residents-push-back-on-data-center-as-developer-threatens-lawsuit"
+   },
+   {
+    "para": 4,
+    "t": "Erika Schott said: \"This is literally in the heart of our community. It's not on the outskirts. It's not in some farmland.\"",
+    "src": "https://www.wxyz.com/news/data-centers/lyon-township-residents-push-back-on-data-center-as-developer-threatens-lawsuit"
+   },
+   {
+    "para": 4,
+    "t": "Melisa Noble said: \"They keep gaslighting us and refusing to provide that information and now they're threatening to sue and that's very frustrating.\"",
+    "src": "https://www.wxyz.com/news/data-centers/lyon-township-residents-push-back-on-data-center-as-developer-threatens-lawsuit"
+   },
+   {
+    "para": 5,
+    "t": "The entry is recorded at 525 megawatts on 172 acres, proposed, with the developer given as Verrus and Anthropic.",
+    "src": "data:developer"
+   },
+   {
+    "para": 5,
+    "t": "Verrus is backed by Sidewalk Infrastructure Partners, whose investors include Alphabet, StepStone and the Ontario Teachers' Pension Plan.",
+    "src": "https://planetdetroit.org/2026/01/lyon-township-data-center-plan/"
+   },
+   {
+    "para": 5,
+    "t": "The 93 megawatt Hancock gas plant is 15 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 5,
+    "t": "The nearest other project on record is the Metrobloks proposal at Southfield, 24 kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.wxyz.com/news/region/oakland-county/lyon-township-residents-blindsided-by-ai-data-center-approval-near-homes",
+   "https://planetdetroit.org/2026/01/lyon-township-data-center-plan/",
+   "https://www.wxyz.com/news/data-centers/lyon-township-residents-push-back-on-data-center-as-developer-threatens-lawsuit"
+  ],
+  "unconfirmed": "Anthropic's role is in our record as a co-developer, and a Crain's Detroit report is titled as Anthropic being in talks for the site, but that report is behind a paywall and returned HTTP 403; nothing we could read confirms a signed tenancy, so Anthropic is named above only as our record has it. The 525 megawatt figure in our record is not confirmed by any source we read. The stormwater easement denial is now sourced to the WXYZ report of the legal threat, which carries it; a $10 million community benefits offer from Verrus appears only in reports we could not fetch and is not stated. Whether the site plan approval has been revisited, and whether Verrus has sued, are unknown. The acreage differs slightly between sources, 172 acres in our record and in Planet Detroit, 180 in trade press."
+ }
+]

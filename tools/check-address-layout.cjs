@@ -1,0 +1,11 @@
+const {webkit}=require('playwright');
+(async()=>{const browser=await webkit.launch();const page=await browser.newPage({viewport:{width:390,height:844},deviceScaleFactor:3,isMobile:true,hasTouch:true});
+ const pixel=Buffer.from('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4nGNgYGBgAAAABQABpfZFQAAAAABJRU5ErkJggg==','base64');
+ await page.route(/World_Imagery\/MapServer\/(tile|export)/,r=>r.fulfill({status:200,contentType:'image/png',body:pixel}));
+ await page.route('**/api/geocode?q=**',r=>r.fulfill({status:200,contentType:'application/json',body:JSON.stringify({matches:[{lat:39.0437,lng:-77.4875,label:'Ashburn, Virginia, United States',city:'Ashburn',state:'Virginia',country:'United States',cc:'US',confidence:1}]})}));
+ const errors=[];page.on('pageerror',e=>errors.push(e.message));
+ await page.goto('http://127.0.0.1:8788/#check',{waitUntil:'domcontentloaded'});
+ await page.locator('#check-address').fill('Ashburn, Virginia');await page.locator('#check-form button').click();
+ await page.waitForFunction(()=>!document.querySelector('#score-details').hidden,{timeout:15000});await page.waitForTimeout(2700);
+ console.log(JSON.stringify(await page.evaluate(()=>{const rect=s=>{const b=document.querySelector(s).getBoundingClientRect();return {left:Math.round(b.left),right:Math.round(b.right),width:Math.round(b.width)};};return {viewport:innerWidth,pageWidth:document.documentElement.scrollWidth,check:rect('#check'),stage:rect('.rs-stage'),map:rect('#site-map'),address:document.querySelector('#site-addr').textContent,score:document.querySelector('#risk-value').textContent};})));
+ console.log('ERRORS',errors);await browser.close();})().catch(e=>{console.error(e);process.exit(1)});

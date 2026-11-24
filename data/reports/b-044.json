@@ -1,0 +1,404 @@
+[
+ {
+  "id": "developers2-stack-new-albany-cmh01",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "STACK's CMH01 on Souder Road sits on the Franklin County side of New Albany, in the cluster that made central Ohio stop connecting data centers for two years.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "AEP Ohio imposed a moratorium in March 2023 so its transmission planners could study an anticipated 30,000 megawatts of new load from data centers.",
+    "src": "https://www.vorys.com/publication-public-utilities-commission-of-ohio-authorizes-tariff-for-aep-ohios-data-center-customers-requires-end-of-moratorium-on-new-services-for-data-centers"
+   },
+   {
+    "para": 0,
+    "t": "The Public Utilities Commission of Ohio approved a separate tariff for data center customers and ordered the moratorium ended. From July 23, 2025, a data center drawing more than 25 megawatts must pay for at least 85 percent of the capacity it subscribes to, used or not.",
+    "src": "https://stopohiodatacenters.org/licking-county"
+   },
+   {
+    "para": 1,
+    "t": "Eleven data centers sit in Franklin County, with AWS Crosby Court about 3 kilometers away, Microsoft's Beech Road site and another AWS site about 4 kilometers away, and AWS New Albany at 213 megawatts and Vantage OH1 about 5 kilometers away.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The townships around this cluster have been closing off, with moratoriums at Sunbury, Jackson Township, St. Albans Township, Muhlenberg and Scioto Township, and an outright ban at South Bloomfield.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.vorys.com/publication-public-utilities-commission-of-ohio-authorizes-tariff-for-aep-ohios-data-center-customers-requires-end-of-moratorium-on-new-services-for-data-centers",
+   "https://stopohiodatacenters.org/licking-county",
+   "https://www.stackinfra.com/locations/"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure specific to CMH01 was found, and no record of its approval or of local objection to it. Whether it was connected before the AEP moratorium or falls under the new tariff is not established."
+ },
+ {
+  "id": "developers2-stack-atlanta-lithia-springs",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "STACK's Atlanta data center is at Lithia Springs, in Douglas County, Georgia, on the western edge of the metro area.",
+    "src": "https://www.stackinfra.com/locations/"
+   },
+   {
+    "para": 0,
+    "t": "On December 19, 2025 the Georgia Public Service Commission voted unanimously to let Georgia Power acquire nearly 10 gigawatts of new generating capacity, including five methane gas plants at Plant Bowen, Plant McIntosh and Plant Wansley. Critics put the lifetime cost to customers at $50 billion to $60 billion.",
+    "src": "https://www.selc.org/press-release/psc-unanimously-votes-to-approve-georgia-powers-data-center-plan-without-sufficient-customer-protections/"
+   },
+   {
+    "para": 0,
+    "t": "Bob Sherrier, a staff attorney at the Southern Environmental Law Center, said: \"Existing customers' bills are not adequately protected. There currently is not, and may never be, data center customers that need this much energy from Georgia Power.\"",
+    "src": "https://www.selc.org/press-release/psc-unanimously-votes-to-approve-georgia-powers-data-center-plan-without-sufficient-customer-protections/"
+   },
+   {
+    "para": 0,
+    "t": "Codi Norred of Georgia Interfaith Power & Light put it more bluntly: \"We're being asked to risk our health and wellbeing so Georgia Power shareholders can get richer.\" Thomas Farmer of the Southface Institute said: \"We can't risk current customers' bills on the hope data centers will come.\"",
+    "src": "https://www.selc.org/press-release/psc-unanimously-votes-to-approve-georgia-powers-data-center-plan-without-sufficient-customer-protections/"
+   },
+   {
+    "para": 1,
+    "t": "The Lithia Springs building sits in the densest part of that demand. Switch's 126 acre Keep campus, T5's 80 acre Atlanta campus and DataBank's 95 acre campus are each about a kilometer away, Google's Douglas County site about 2 kilometers away and Digital Realty's Austell site about 3 kilometers away, 12 data centers in the county in all.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The 2,535 megawatt Jack McDonough gas plant is about 14 kilometers away, inside a Southern Company control area that peaks at about 43,535 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Metro Atlanta has been restricting what it will take: an outright ban in the city of Atlanta, moratoriums at Marietta, Chamblee and in Carroll County, and zoning limits at Hampton and in Bartow County.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.selc.org/press-release/psc-unanimously-votes-to-approve-georgia-powers-data-center-plan-without-sufficient-customer-protections/",
+   "https://www.stackinfra.com/locations/"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure for the STACK Lithia Springs building was found, and no record of its own approval or of objections to it. The Public Service Commission decision described here covers the whole state, not this site."
+ },
+ {
+  "id": "developers2-stack-chicago-elk-grove",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Elk Grove Village, in Cook County, Illinois, has 16 data centers and another 15 to 20 in the pipeline, according to Mayor Craig Johnson, and the mayor's complaint is that the power is not arriving fast enough.",
+    "src": "https://www.journal-topics.com/articles/elk-grove-mayor-meets-with-comed-on-substations-for-data-centers/"
+   },
+   {
+    "para": 0,
+    "t": "Johnson said in January that ComEd was \"dragging their feet\" in building the substations the village needs. Five ComEd officials met him on February 22 to discuss it.",
+    "src": "https://www.journal-topics.com/articles/elk-grove-mayor-meets-with-comed-on-substations-for-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "The scale of what is queued explains the pressure. Prime is building a 1 million square foot, three building campus of 175 megawatts. Stream has a 2.1 million square foot, three building campus planned, four floors and 90 feet tall, which would be the largest in the village. Microsoft is building three buildings valued at $10 billion. Aligned has a five building campus planned on Northwest Point Boulevard, and a 1 million square foot development is proposed on the former WGN transmitter site at 720 Rohlwing Road.",
+    "src": "https://www.journal-topics.com/articles/elk-grove-mayor-meets-with-comed-on-substations-for-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "Newer data centers use roughly ten times the electricity of ones built a few years earlier.",
+    "src": "https://www.journal-topics.com/articles/elk-grove-mayor-meets-with-comed-on-substations-for-data-centers/"
+   },
+   {
+    "para": 2,
+    "t": "STACK's building is on Touhy Avenue among them. Digital Realty's Busse Road site and Stream's Elk Grove and Lunt Avenue sites are each about a kilometer away, with Microsoft and T5 about 2 kilometers away, 27 data centers in Cook County in all.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.journal-topics.com/articles/elk-grove-mayor-meets-with-comed-on-substations-for-data-centers/",
+   "https://www.stackinfra.com/locations/"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure specific to the STACK Elk Grove building was found. No resident of Elk Grove Village is quoted in the source reached, and no objection to any of the projects listed appears there, so it is not known whether they have drawn local opposition."
+ },
+ {
+  "id": "developers2-stack-dallas-lancaster-tx",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "STACK's Dallas data center on Pinecrest Drive is six buildings in a county that holds 16 of them.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 0,
+    "t": "Digital Realty's DFW10 is about 11 kilometers away, DataBank's Dallas metro sites about 12 kilometers away and Equinix's Dallas Infomart hub about 13 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The generation nearby is large and gas fired: the 915 megawatt Lake Hubbard plant about 13 kilometers away, the 1,770 megawatt Forney Energy Center about 20 kilometers away and the 808 megawatt Mountain Creek plant about 26 kilometers away, inside an ERCOT control area that peaks at about 73,825 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "The area has started writing rules: zoning limits at Lewisville, a moratorium at Fort Worth, and the Texas state grid connection order of August 3, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.stackinfra.com/locations/"
+  ],
+  "unconfirmed": "Nothing was found about this site beyond its address and building count: no capacity, square footage, opening date, investment, water use, employment figure, city approval or local coverage. Our record names it Lancaster TX but gives a Dallas address, and that was not resolved."
+ },
+ {
+  "id": "developers2-stack-phoenix-avondale",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "STACK's Avondale data center is on West Roosevelt Street in the western Phoenix suburbs, in a Maricopa County that holds 40 of them.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Prime's 66.5 acre Avondale campus is about 5 kilometers away, the 64 megawatt Stream Phoenix and Vantage's Goodyear site about 8 kilometers away, and Microsoft's 202 megawatt Goodyear site and Stream's 230 acre Goodyear campus about 9 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Valley cities have begun setting terms. Chandler's ordinance, approved in 2022 and effective January 5, 2023, confines data centers to planned area development zoning and requires resident notification, a baseline sound study, mitigation, annual sound studies for five years and limits on generator testing.",
+    "src": "https://servercountry.org/policy/arizona/"
+   },
+   {
+    "para": 1,
+    "t": "Mesa adopted its own ordinance on July 8, 2025, allowing data centers in general and heavy industrial districts only through a council approved overlay. Phoenix followed on July 2, 2025 with a special permit framework and performance standards for siting, noise, design and public safety.",
+    "src": "https://servercountry.org/policy/arizona/"
+   },
+   {
+    "para": 1,
+    "t": "On December 12, 2025 Chandler's council voted unanimously to reject a roughly 400,000 square foot AI data center, after more than 200 public comments against it and fewer than a dozen in support.",
+    "src": "https://techstrong.it/featured/arizona-city-rejects-data-center-highlighting-local-pushback/"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generation is a 250 megawatt battery site at Sierra Estrella about 6 kilometers away and the 909 megawatt West Phoenix gas plant about 12 kilometers away, inside an Arizona Public Service control area that peaks at about 7,611 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://servercountry.org/policy/arizona/",
+   "https://techstrong.it/featured/arizona-city-rejects-data-center-highlighting-local-pushback/",
+   "https://www.stackinfra.com/locations/"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure specific to the STACK Avondale building was found, and no record of its approval. Avondale does not appear among the Arizona cities with data center rules in our record or in the sources reached, so what governs this site is unclear."
+ },
+ {
+  "id": "developers2-stack-johor-jhb01",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Fifty residents of Gelang Patah stood outside a data centre construction site in February 2026 and said the dust had made the air dangerously poor for about 1,000 people living less than a kilometre away.",
+    "src": "https://kontinentalist.com/stories/data-centres-in-johor-singapore-batam"
+   },
+   {
+    "para": 0,
+    "t": "STACK is building its 10.8 hectare campus at Senai, about 5 kilometres from the NTT site at Gelang Patah.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Johor got its data centres because Singapore stopped taking them. Singapore imposed a moratorium in 2019, and operators moved across the Causeway to cheaper land and power close enough to serve the same customers. By mid-2025 Johor had approved more than 53 billion Singapore dollars of data centre investment.",
+    "src": "https://kontinentalist.com/stories/data-centres-in-johor-singapore-batam"
+   },
+   {
+    "para": 1,
+    "t": "Live IT capacity in the state went from 10 megawatts in 2021 to more than 900 megawatts by the end of 2025.",
+    "src": "https://kontinentalist.com/stories/data-centres-in-johor-singapore-batam"
+   },
+   {
+    "para": 2,
+    "t": "For every megawatt of data centre capacity, the power involved could supply more than 76,000 homes a year and the water would fill more than 36,000 residential swimming pools a year.",
+    "src": "https://kontinentalist.com/stories/data-centres-in-johor-singapore-batam"
+   },
+   {
+    "para": 2,
+    "t": "Operators have asked for far more than they use: collectively 1.2 gigawatts requested against 600 megawatts actually drawn as of June 2025.",
+    "src": "https://kontinentalist.com/stories/data-centres-in-johor-singapore-batam"
+   },
+   {
+    "para": 3,
+    "t": "Weeks after the Gelang Patah protest, Prime Minister Anwar Ibrahim halted new data centre applications not related to AI. Operators must now use at least 85 percent of the power they declare within four years, or pay 2.74 Singapore dollars per kilowatt on the shortfall.",
+    "src": "https://kontinentalist.com/stories/data-centres-in-johor-singapore-batam"
+   },
+   {
+    "para": 3,
+    "t": "Vivian Wong, an analyst at DC Byte, said the momentum in Johor is \"still so strong\" despite the point at which markets usually slow.",
+    "src": "https://kontinentalist.com/stories/data-centres-in-johor-singapore-batam"
+   },
+   {
+    "para": 4,
+    "t": "DayOne's Kempas campus is about 10 kilometres away, Microsoft Kulai about 12 kilometres away, and YTL's 500 megawatt Green Data Center Park and an AWS site under construction each about 15 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://kontinentalist.com/stories/data-centres-in-johor-singapore-batam",
+   "https://baxtel.com/data-center/princeton-pdg-jh1-campus"
+  ],
+  "unconfirmed": "The Gelang Patah protest was directed at a Zdata Technologies site, not at STACK's, and no source reached records any objection to the Senai campus itself. No capacity, investment figure, timeline, water use or employment number for JHB01 was found, and one source dates the protest to February 2026 while placing the government's response weeks later in February 2025, which could not be reconciled."
+ },
+ {
+  "id": "developers2-stack-milan-siziano",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "STACK chose Siziano, south of Milan, for its Italian data centre campus in 2015, for easy access to motorways and railways, low seismic risk and the ability to run its own connectivity.",
+    "src": "https://www.stackinfra.com/locations/emea/milan/"
+   },
+   {
+    "para": 0,
+    "t": "The campus now covers 100,000 square metres with 40 megawatts of power, across five buildings, and the company holds more than 100,000 square metres of expansion land at Siziano that could carry another 80 megawatts.",
+    "src": "https://www.stackinfra.com/locations/emea/milan/"
+   },
+   {
+    "para": 0,
+    "t": "Across Italy its live capacity is 120,000 square metres and more than 50 megawatts, and it says all customers get certified green energy.",
+    "src": "https://www.stackinfra.com/locations/emea/milan/"
+   },
+   {
+    "para": 0,
+    "t": "In April 2025 STACK agreed to sell its European colocation data centres, including Milan, to the investment fund Apollo.",
+    "src": "https://datacentremagazine.com/data-centres/stack-infrastructure-opens-third-data-centre-in-milan"
+   },
+   {
+    "para": 1,
+    "t": "The city around it is now the densest data centre cluster in Italy, with 68 facilities.",
+    "src": "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+   },
+   {
+    "para": 1,
+    "t": "Lombardy alone has 166 new requests for grid connection totalling more than 44 gigawatts.",
+    "src": "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+   },
+   {
+    "para": 1,
+    "t": "Towns around Milan have begun organising: more than 2,200 people signed a petition against a data centre at San Bovio, and the first public demonstration against one in Lombardy was held at Lacchiarella on July 11, drawing committees from Magenta, Opera, Linate and elsewhere.",
+    "src": "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+   },
+   {
+    "para": 1,
+    "t": "Lacchiarella is about ten kilometres from Siziano.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.stackinfra.com/locations/emea/milan/",
+   "https://datacentremagazine.com/data-centres/stack-infrastructure-opens-third-data-centre-in-milan",
+   "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+  ],
+  "unconfirmed": "Searches on STACK with Siziano, on Milan with data centre residents, and on Siziano with data centre found no water figure, planning record, council decision or resident comment naming this campus. The Lacchiarella demonstration concerns a different project; the distance between the two towns is from our own mapping rather than from a source. Whether the Apollo sale completed was not established."
+ },
+ {
+  "id": "developers2-aligned-chicago-northlake",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Aligned's Northlake data center sits about a kilometer from Microsoft's, in a Cook County, Illinois that holds 27 of them.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "T5's Chicago III is about 2 kilometers away and Digital Realty's Franklin Park site about 5 kilometers away, with the Elk Grove Village cluster about 10 kilometers further out.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "What that cluster is waiting for is transmission. Elk Grove Village mayor Craig Johnson said in January that ComEd was \"dragging their feet\" building the substations the area needs, and met five ComEd officials on February 22 to press the point.",
+    "src": "https://www.journal-topics.com/articles/elk-grove-mayor-meets-with-comed-on-substations-for-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "Aligned itself has a five building campus planned on Northwest Point Boulevard in Elk Grove Village, one of several projects queued there alongside Prime's 175 megawatt campus, Stream's 2.1 million square foot campus and a $10 billion Microsoft development.",
+    "src": "https://www.journal-topics.com/articles/elk-grove-mayor-meets-with-comed-on-substations-for-data-centers/"
+   },
+   {
+    "para": 2,
+    "t": "Plainfield, southwest of Chicago, has a moratorium on data centers in force.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.journal-topics.com/articles/elk-grove-mayor-meets-with-comed-on-substations-for-data-centers/",
+   "https://aligneddc.com/"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure specific to the Northlake building was found, and no record of its approval or of local objection. The Elk Grove Village projects described here are about 10 kilometers away and are not this site."
+ },
+ {
+  "id": "developers2-aligned-ashburn-iad-01",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The street is called Uunet Drive, after an internet company that no longer exists, and there are now at least five data centers within a kilometer of it.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "PowerHouse Quantum Connect shares the address, with CloudHQ's LC2 and LC5, Digital Realty's ACC campus and its 98 acre Digital Loudoun campus all about a kilometer away, in a county holding 50 data centers.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Loudoun had 199 operating data centers with 117 more in development, according to Michael Turner, vice chair of the county board's transportation and land use committee.",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 1,
+    "t": "Delegate Irene Shin of Fairfax tried in the 2025 General Assembly session to put data centers in their own electricity rate class. Utilities and operators opposed it, and legislators replaced the requirement with a State Corporation Commission study of whether the current classes are fair.",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 1,
+    "t": "Shin said: \"It is up to industry to pay their fair share of what we know are the incredibly exorbitant costs to service data centers.\"",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 2,
+    "t": "Around Loudoun are a ban at Warrenton, a moratorium and zoning limits in Montgomery County, and zoning limits in Fairfax, Fauquier and Prince William counties.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/",
+   "https://aligneddc.com/"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure specific to IAD-01 was found, and no county approval record or objection about it."
+ },
+ {
+  "id": "developers2-edgecore-mesa",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "EdgeCore's first Mesa data center building, in Maricopa County, Arizona, came online at 26 megawatts in 2019, before Arizona cities had written rules for this.",
+    "src": "data:source_notes"
+   },
+   {
+    "para": 0,
+    "t": "They have since. Mesa adopted its ordinance on July 8, 2025, allowing data centers in general and heavy industrial districts only through a planned area development overlay approved by council, with standards for development, screening, parking and noise. Phoenix adopted a special permit framework on July 2, 2025.",
+    "src": "https://servercountry.org/policy/arizona/"
+   },
+   {
+    "para": 0,
+    "t": "Chandler had gone first, with an ordinance approved in 2022 and effective January 5, 2023 that requires resident notification, a baseline sound study, mitigation, annual sound studies for five years and limits on backup generator testing.",
+    "src": "https://servercountry.org/policy/arizona/"
+   },
+   {
+    "para": 1,
+    "t": "The building on South Everton Terrace now sits in a dense group. AWS's proposed Elliot Road site and Novva's 160 acre campus are about 2 kilometers away, and AWS's Pecos Road campus, Apple Mesa and NTT's 173 acre Phoenix campus each about 6 kilometers away, 40 data centers in Maricopa County in all.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The 1,286 megawatt Santan gas plant is about 12 kilometers away, inside an Arizona Public Service control area that peaks at about 7,611 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://servercountry.org/policy/arizona/",
+   "https://www.edgecore.com/"
+  ],
+  "unconfirmed": "No current capacity, square footage, water use or employment figure for the EdgeCore Mesa campus was found beyond the 26 megawatts of its first building, and no record of how many buildings it now has. No local objection or council decision about this site appears in any source reached."
+ }
+]

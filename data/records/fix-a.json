@@ -1,0 +1,434 @@
+{
+  "research-singapore-moratorium-2019-2022": {
+    "drop": true,
+    "why": "Not a project: the record is Singapore's 2019-2022 moratorium on new data centres (status 'moratorium', developer 'Singapore government'). It is a policy, not a site, and should not be drawn on the map as a data centre."
+  },
+  "aligned-aligned-caprock-abernathy": {
+    "status": "under construction",
+    "capacity_mw": 540,
+    "why": "Status field held '313 acres' (site size). Hale County article: 'Aligned Data Centers' Project Caprock, a planned 540MW campus on 313 acres' and 'Aligned broke ground in April 2026 ... the first, LBB-01, due in the first quarter of 2027.'"
+  },
+  "digitalrealty-digital-realty-melbourne-mel10-mel11-72-radnor": {
+    "status": "unknown",
+    "why": "Status field held '3 hectares', which is site area, not a status. Neither the Victoria nor the Australia article mentions Digital Realty or 72 Radnor Drive, and the record cites no source, so nothing settles a status."
+  },
+  "t5-t5-chicago-iv-grayslake": {
+    "status": "under construction",
+    "why": "Status field held '160 acres' (site size). Lake County article: 'Grayslake issued its first building permit in early September, for an 800,000-square-foot building, so construction has begun.' Capacity left null on purpose: the article gives three different figures ('a first 60MW building', 'up to 480MW eventually', and 'about 1.55 gigawatts' per the residents' lawsuit) and none is settled."
+  },
+  "ntt-ntt-gelang-patah-johor": {
+    "status": "unknown",
+    "why": "Status field held '68 5 acres', a garbled acreage, not a status. Neither the Johor nor the Malaysia article mentions NTT or Gelang Patah, and the record's notes ('Six buildings', '22 acres') have no source, so nothing settles a status."
+  },
+  "prime-prime-sacramento-smf01-mcclellan-park": {
+    "status": "unknown",
+    "why": "Status field held '38 acres' (site size). The Sacramento County article only says Prime broke ground on SMF02 'next to its SMF01 in McClellan Business Park' and that DCD and Abridged disagree on the campus size (26MW vs 44MW, 'neither explains the difference'). That does not settle SMF01's own status or capacity, so status is unknown and capacity stays null."
+  },
+  "novva-novva-north-las-vegas-nicco-way": {
+    "status": "unknown",
+    "why": "Status field held '205 acres' (site size). The Clark County article does not mention Novva or Nicco Way, and the record's only note is 'Land bank' with no source, so nothing settles a status."
+  },
+  "iren-iren-prince-george-bc": {
+    "status": "operating",
+    "capacity_mw": 50,
+    "why": "Status field held '12 acres' (site size). British Columbia article: 'the 50MW Prince George site began offering AI computing 18 months earlier' and Kent Draper: 'Today at our Prince George site, we literally have Bitcoin miners running in the very same data halls that we have AI servers running.'"
+  },
+  "research-seattle-proposed-campuses": {
+    "drop": true,
+    "why": "Not a project: 'Seattle proposed campuses', developer 'various', status 'moratorium'. The note describes an emergency moratorium and an aggregate of 'five campuses totaling 369MW'. It is a policy plus an aggregate, not a single site, and is printed on no page. The 369 MW is a sum of unnamed proposals and should not be drawn as one data centre."
+  },
+  "google-google-rumble-road-macon": {
+    "status": "approved",
+    "why": "Monroe County article: 'The project the county did approve, in 2024, sits at the Rumble Road exit of Interstate 75. WGXA reported that Google bought 950 acres there in October 2025.' Approved, with no report of construction starting, so 'approved', not 'unknown'."
+  },
+  "microsoft-microsoft-newport-cwl01": {
+    "duplicate_of": "research-vantage-newport-south-wales-agz",
+    "why": "Wales article: 'Vantage Data Centers owns the former Next Generation Data campus in Newport ... with Microsoft Azure as a major tenant'. This record's address (Imperial Park, Dyffryn Lane, Marshfield, Newport) is that same NGD/Vantage campus, so Microsoft's row plots the same site a second time as a separate 'unknown' project. Keep the Vantage Newport record."
+  },
+  "microsoft-microsoft-nova-caledonia": {
+    "status": "withdrawn",
+    "why": "Racine County article: 'In October 2025 Microsoft withdrew its rezoning request. \"It became clear that people didn't want any development on this site,\" a company spokesperson said.' The Caledonia site near the Oak Creek Power Plant is withdrawn, not 'unknown'."
+  },
+  "developers3-qts-suwanee-1": {
+    "status": "operating",
+    "why": "Status field held '53 acres' (site size). Gwinnett County article: 'QTS has run a campus in Suwanee since 2005 ... QTS later refitted a second building there ... Suwanee 1 DC2, for nearly 30 megawatts.' Capacity left null: the article gives only 'a planned capacity of more than 100 megawatts' for the campus and ~30MW for DC2, not a settled figure for this record."
+  },
+  "developers3-stack-hayward-svy03": {
+    "status": "approved",
+    "capacity_mw": 76.6,
+    "why": "Alameda County article: 'STACK Infrastructure's 76.6 MW campus near Eden Landing Road and Highway 92, approved by the planning commission in May 2025 without going to the City Council.' This is the only STACK record in Hayward on that page's table. No report that construction has started, so 'approved'."
+  },
+  "digitalrealty-buildings-digital-realty-371-gough-toronto": {
+    "name": "Digital Realty 371 Gough (Markham)",
+    "why": "The record's own address is '371 Gough Rd, Markham, ON' but the name says Toronto, so the Ontario page prints a Markham building as Toronto. The Ontario article does not mention this site; status and capacity are left as they are because nothing on the page contradicts them."
+  },
+  "digitalrealty-digital-realty-zurich-glattbrugg": {
+    "status": "operating (expanding)",
+    "why": "Zurich article: 'Digital Realty is building its fourth data center, ZUR4, on its campus in Glattbrugg by about mid-2028, taking the site above 60 megawatts.' A campus on its fourth building is running, and expanding. Capacity left null: 'above 60 megawatts' is the post-2028 total, not a current figure."
+  },
+  "digitalrealty-digital-realty-forest-park-atl15": {
+    "status": "approved",
+    "why": "Clayton County article: 'The moratorium came after two approvals ... The second approval is a Digital Realty campus inside Forest Park's city limits, on the former Fort Gillem site.' Approved, with no report of construction or operation."
+  },
+  "ntt-ntt-milan": {
+    "status": "unknown",
+    "why": "Status field held '53 acres', which is site size, not a status. Neither the Lombardy nor the Italy article mentions NTT or San Giuliano Milanese, and the record cites no source, so nothing settles a status."
+  },
+  "tract-tract-altoona": {
+    "status": "proposed",
+    "why": "Status field held '468 acres' (site size). Polk County article: 'Altoona's planning commission recommended rezoning about 370 acres north of Interstate 80 ... for the Denver developer Tract ... No site plan had been submitted.' A rezoning with no site plan is a proposal."
+  },
+  "coreweave-coreweave-sweden-ecodatacenter-falun": {
+    "status": "operating",
+    "why": "Dalarna article: 'EcoDataCenter opened its first Falun data center in 2019 ... In August 2024 CoreWeave announced it would install thousands of Nvidia Blackwell GPUs there'; its customers 'also include Mistral AI and DeepL'. Running since 2019. Capacity left null: 'the campus could reach 80MW' is a ceiling, not a current figure."
+  },
+  "corescientific-core-scientific-hunt-county-quinlan-shelved": {
+    "name": "Core Scientific Hunt County (Wieland)",
+    "status": "proposed",
+    "capacity_mw": 285,
+    "why": "The name says 'shelved' and the note says 'Early site option never built', but the Hunt County article says the opposite: 'On March 4 Core Scientific ... announced it had acquired a 265-acre site for a campus of 285 megawatts of leasable capacity, about 430 megawatts gross, energizing from 2027', in 'the Wieland community around County Roads 3506 to 3508' (this record's address is 4642 County Rd 3508), and 'ERCOT approved its interconnection in 2024'. The article also says the site is 'nowhere near Quinlan's city limits', so 'Quinlan' is dropped from the name. Capacity is the 285 MW leasable figure the company leads with; gross is about 430."
+  },
+  "stargate-stargate-korea-sk-group": {
+    "address": "Jeollanam-do, South Korea (site not confirmed)",
+    "why": "The record places it at 'Sepoong Industrial Park, Gwangyang', but the Jeollanam-do article says 'Seoul Economic Daily had named Solaseado as a leading candidate for the SK data center, but no site has been confirmed publicly', and by September 2026 'the project had stalled'. A specific park should not be printed as the site. Status stays unknown."
+  },
+  "tencent-tencent-chongqing-cloud-computing-shuitu": {
+    "status": "operating",
+    "why": "Chongqing article: 'Data Center Dynamics ... reported in 2018 that the first phase of Tencent's Chongqing cloud data center, in the Shuitu High-tech Industrial Park, was live with room for up to 100,000 servers.' Capacity left null: the article gives servers, not megawatts."
+  },
+  "chinatelecom-china-telecom-south-sichuan-yibin": {
+    "status": "under construction",
+    "why": "Sichuan article: 'China Telecom says on its US subsidiary's blog that it is building a 200,000-square-meter facility with 10,000 cabinets in the Yibin Lingang Economic and Technological Development Zone.' This is the company's own claim, the only source on the page, and it says building. Capacity left null (cabinets, not MW)."
+  },
+  "khazna-khazna-dxb1-meydan-dubai-flagship": {
+    "status": "operating",
+    "why": "Dubai article: 'Khazna, the G42-owned wholesale operator headquartered in Dubai, whose first sites were Abu Dhabi 1 in Masdar City and Dubai 1 in Maydan and which now runs 16 data centers across the two emirates'. Dubai 1 in Meydan is one of its first, running sites."
+  },
+  "stt-stt-fairview-quezon-city-manila": {
+    "status": "under construction",
+    "capacity_mw": 124,
+    "why": "Philippines article: 'The largest data centre project in the Philippines is rising beside a busy highway ... in Fairview ... the site is one of four data centres to be built there by STT GDC Philippines ... together they will draw up to 124MW', and Meralco 'has already built switching stations for ... STT Fairview'. Rising = under construction; 124MW is the stated maximum draw for the Fairview campus."
+  },
+  "atnorth-atnorth-den01-copenhagen": {
+    "capacity_mw": 22.5,
+    "why": "Capital Region of Denmark article: 'atNorth's DEN01, a 22.5MW metro data center announced in 2023 and expected to open in the first quarter of 2026'. Status left as unknown on purpose: the article says 'Whether DEN01 opened on schedule ... [was] not found publicly'."
+  },
+  "greenmountain-green-mountain-svg1-rennesoy-mountain-vault-stavanger": {
+    "name": "Green Mountain SVG1-RennesÃ¸y (mountain vault, Stavanger)",
+    "status": "operating",
+    "why": "Rogaland article: 'Green Mountain, which already runs a site at RennesÃ¸y'. The site is operating. The article spells the place RennesÃ¸y; the record drops the Ã¸, so the same place is spelled two ways on one page."
+  },
+  "developers-vantage-atlanta-fayetteville": {
+    "duplicate_of": "developers3-qts-fayetteville-atl2",
+    "why": "Fayette County article: 'Fayetteville has one data center campus, and it has decided that is enough. QTS is building ... on about 600 acres along Highway 54 West', and the city has since banned new data centers. This record puts a Vantage campus at '145 Hwy 54 W', which matches QTS Fayetteville's '1435 Highway 54 W' with one digit dropped. The article knows of no Vantage campus, and the page shows one campus twice under two developers. Note for the merge: 'Microsoft Fairwater Atlanta' (epoch-microsoft-fairwater-atlanta) also sits at 1435 Hwy 54 W."
+  },
+  "developers2-stack-dallas-lancaster-tx": {
+    "name": "STACK Dallas (Pinecrest Dr)",
+    "why": "The name says 'Lancaster TX' but the record's own address is '6653 Pinecrest Dr, Dallas, TX 75212', in west Dallas, not Lancaster. STACK's Lancaster site is a separate record ('STACK Dallas (DFW02 Belt Line)', E Belt Line Rd, Lancaster). The Dallas County article does not settle status, so only the name changes."
+  },
+  "gemini-microsoft-kilby": {
+    "developer": "Microsoft",
+    "capacity_mw": 2000,
+    "why": "Reeves County article: 'Microsoft announced a Pecos campus of about 2 gigawatts ... Chevron has signed a 20-year agreement to power it from a co-located natural gas plant ... that is to ... grow to about 2.67 gigawatts'. The 2700 MW in the row is the power plant, not the data center; the campus is about 2,000 MW. Chevron is the power supplier, not the developer. Also note: the record's only source is a morethanjustparks page for 'coreweave-dfw-data-center-tx', a different project, and should not be cited for this one."
+  },
+  "gemini-coreweave-phoenix": {
+    "status": "unknown",
+    "capacity_mw": null,
+    "why": "The Pinal County article does not mention CoreWeave at all; its story is the La Osa project the supervisors rejected and Casa Grande's rules. The record's 'operating' and '200 MW' come from gemini.csv, and its only source is a morethanjustparks page for 'coreweave-dfw-data-center-tx', a Texas project. Nothing on the page or in the source supports an operating 200 MW CoreWeave site in Pinal County, so status is unknown and capacity null."
+  },
+  "gemini-prince-william-digital-gateway": {
+    "address": "Prince William County, Virginia, United States",
+    "why": "This record is printed on the Prince Edward County page, whose article is about AVAIO's HIT Park near Farmville and never mentions the Digital Gateway. The Digital Gateway is in Prince William County, per the record's own name and its source ('virginiamercury.com/.../after-digital-gateway-project-fails-prince-william-supervisors-reject...'). The address was only 'Virginia, United States', which let it be filed under the wrong county. Status and capacity are left as they are; the Prince Edward page cannot settle them."
+  },
+  "gemini-atnorth-swe04": {
+    "address": "Hamre industrial park, LÃ¥ngsele, SollefteÃ¥, VÃ¤sternorrland, Sweden",
+    "why": "VÃ¤sternorrland article: 'The municipality sold about 50 hectares of the Hamre industrial park to atNorth ... in February 2026 the Nordic operator confirmed a 300-megawatt campus there, known as SWE04', in 'LÃ¥ngsele, a village in SollefteÃ¥ municipality'. The record's address 'Solleftea, Vasternorrland' drops the Swedish letters the article uses and omits the site. Status 'proposed' and 300 MW agree with the article and are left alone."
+  },
+  "research-neoix-new-administrative-capital-dc": {
+    "capacity_mw": null,
+    "why": "Neither the Cairo nor the Egypt article mentions NEOIX. The record's own note says '150-500MW', and the row printed the top of that range as if it were settled. A range with no source picking a figure is not a capacity, so null. Status 'proposed' is left as is."
+  },
+  "google-google-farciennes": {
+    "status": "under construction",
+    "why": "Belgium article: 'Construction of the second campus, at Farciennes near Charleroi, began in April 2024 ... the three-building campus on 53 hectares in the Ecopole business park'. Wallonia article: 'Its first and larger building, in Farciennes, is already built', while the second building's cooling permit was refused in August 2026. A campus mid-build, not 'unknown'. Capacity left null: Elia 'confirmed 200 to 300 MW of capacity for the site' is a grid range, and the article says 'Google does not disclose the power draw'."
+  },
+  "microsoft-microsoft-naas": {
+    "status": "proposed",
+    "why": "County Kildare article: 'on the other [site], next to housing at Jigginstown, Microsoft is planning a campus ... The second site is bigger and has no application yet ... Microsoft confirmed in 2023 that it was in the early stages of planning a campus near Jigginstown ... It has not said how large the campus would be.' Planned with no application: proposed. Capacity stays null."
+  },
+  "cyrusone-cyrusone-durham-dur1-dur2": {
+    "status": "operating",
+    "why": "Durham County article: 'CyrusOne runs a 242,000-square-foot facility near the park', among the county's 14 existing data centers 'all but one built before 2000'."
+  },
+  "vantage-vantage-dublin": {
+    "address": "Dublin, Ireland (exact site not disclosed)",
+    "why": "The record's own source note says 'Undisclosed location per Vantage', yet the address field names a specific unit, 'Unit 1 Profile Park, Nangor Rd, Clondalkin'. Nothing on the Dublin or Ireland pages mentions Vantage or Profile Park, so the specific address is unsupported and contradicts the record's own note."
+  },
+  "compass-compass-meridian": {
+    "status": "under construction",
+    "capacity_mw": 320,
+    "why": "Lauderdale County article: 'groundwork began in June 2025 and construction of the first building had begun in February', and Compass said 'eight buildings of about 250,000 square feet each, with 40 megawatts of IT capacity per building' (8 x 40 = 320 MW IT). Mississippi Power's 'around 500 megawatts' is the utility supply, not IT capacity."
+  },
+  "nextdc-nextdc-m4-melbourne": {
+    "status": "approved",
+    "why": "Victoria article: 'NextDC had a $1 billion data centre in Port Melbourne approved by the minister within 75 days' under the Development Facilitation Program. This record is NEXTDC M4 at 127 Todd Rd, Port Melbourne. Approved, with no report of construction or operation on the page."
+  },
+  "huawei-huawei-global-yun": {
+    "status": "operating",
+    "why": "Guizhou article: 'AFP visited Gui'an New Area outside Guiyang in July 2026 and described Huawei's largest data center there as a cluster of European-style buildings with a clock tower', and the provincial bureau lists Huawei's among Gui'an's 27 large data centers. It is running, not 'unknown'."
+  },
+  "ft-189": {
+    "developer": "Atlas Development",
+    "status": "approved",
+    "why": "The name is 'Project Gracie (Atlas Development)' and its own source is DCD's 'Atlas plans ... data center campus outside Rome, Georgia', but the developer field was blank. Floyd County article: Rome and Floyd County 'have both dealt with Atlas Development ... over data center sites': the city site (Battey Business Complex, which has its own row and whose deal 'was off' by August 2026) and the county site, where 'In May 2025 the Floyd County Commission gave final approval to rezone 178 acres near Coosa Middle and High Schools ... for an Atlas campus of seven server buildings'. Gracie is the county campus, so it is approved, not merely proposed. If the merge finds Gracie is in fact the Battey site, it should be 'cancelled' instead."
+  },
+  "epoch-microsoft-fairwater-atlanta": {
+    "duplicate_of": "developers3-qts-fayetteville-atl2",
+    "why": "Same address as QTS Fayetteville (ATL2): '1435 Hwy 54 W, Fayetteville'. The record's own source note says 'leased QTS shell'. Fayette County article: 'Fayetteville has one data center campus ... QTS is building ... on about 600 acres along Highway 54 West ... construction expected to run until about 2030.' Microsoft is a tenant inside that one campus, and the page prints it as a second site. The tenant field 'OpenAI (likely), Microsoft (likely)' is also a research note, not a fact. If the merge keeps this row's Epoch figures (operating, 636 MW), it should fold them into the QTS record rather than keep two dots."
+  },
+  "epoch-meta-qts-hillsboro-2": {
+    "name": "QTS Hillsboro 2",
+    "developer": "QTS",
+    "tenant": null,
+    "why": "The developer field reads 'Meta (likely)' and the tenant 'Meta (likely)'. These are guesses printed to the public, and the name 'Meta-QTS' bakes the guess in. The record's only source is QTS's own page (q.com/data-centers/hillsboro-2/), so the developer is QTS. Nothing on the Washington County page names a tenant, so tenant is null. Status and capacity are left as they are."
+  },
+  "epoch-aws-berwick": {
+    "tenant": null,
+    "why": "Tenant field reads 'Anthropic (speculative)', a guess printed as fact. The Luzerne County article says only that 'Amazon bought Talen Energy's existing nuclear-powered data center campus in March 2024' and names no tenant. Operating status agrees with the article and is left alone."
+  },
+  "epoch-coreweave-dalton-1-2": {
+    "developer": "Core Scientific",
+    "tenant": "CoreWeave",
+    "why": "Whitfield County article: 'Dalton and Whitfield County have been Core Scientific territory since November 2018 ... Its Dalton sites, including 2205 Industrial South Road, now serve the AI cloud company CoreWeave.' This record's address is 2205 Industrial South Rd and its own source is corescientific.com, so Core Scientific is the developer and CoreWeave the tenant. The old tenant 'OpenAI (speculative)' was a guess."
+  },
+  "gemini-stack-berry-hill": {
+    "status": "approved",
+    "why": "Pittsylvania County article: 'In May 2026 county and city leaders approved a different one. Stack Infrastructure is to build an AI data center campus at the Southern Virginia Megasite at Berry Hill.' Approved, not merely proposed; no construction reported."
+  },
+  "amazon-aws-richmond-county-nc": {
+    "status": "under construction",
+    "capacity_mw": 1000,
+    "why": "Richmond County article: 'a $10 billion Amazon data center near Hamlet, now under construction. It will have 21 buildings of 200,000 square feet each, 592 diesel emergency generators, and need about 1 gigawatt of power', and the state has approved the generator air permits. 'Proposed' is out of date. 1,000 MW is the article's 'about 1 gigawatt'."
+  },
+  "neoclouds-core-scientific-calvert-city": {
+    "capacity_mw": 150,
+    "why": "Marshall County article: Core Scientific 'converted the former Gerdau steel rolling mill on Shar-Cal Road into a data center, operating since 2019. The Kentucky Lantern lists it at 150 megawatts of electricity capacity.' The record's address is on Shar-Cal Rd; operating status agrees."
+  },
+  "blocked-olds-2026-03-06": {
+    "capacity_mw": null,
+    "why": "Alberta article: 'the Alberta Utilities Commission on August 17 denied Synapse Real Estate's 1.4-gigawatt gas plant for a 10-building data centre campus that would also have had 1.8 GW of diesel backup.' The 1,400 MW is the gas plant, not the data centre; no data centre IT capacity is given, so null. Status 'blocked' agrees with the article."
+  },
+  "ft-1779306105674-8821": {
+    "status": "proposed",
+    "capacity_mw": null,
+    "why": "North Slope article: 'Far North Digital has pitched a modular, gas-powered data center inside the oil field ... A University of Alaska Fairbanks energy blog describes it as proposed and dependent on undersea fiber links to Tokyo and Ireland that are still being built.' The row said 'operating' at 120 MW; nothing on the page gives a capacity or says it runs. The record's second source is DCD's story on Stak Energy's 3GW proposal, a different project."
+  },
+  "ft-1776267030921-7400": {
+    "status": "cancelled",
+    "developer": "Stronghold Power Systems (Coachella Valley Power Services LLC)",
+    "why": "Riverside County article: 'On June 4 the council adopted a 45-day moratorium ... and cancelled the Stronghold agreement. On Aug. 26 it voted unanimously to ban data centers permanently.' The project's utility agreement is cancelled and the city now bans the use, so 'proposed' is wrong. The developer field was blank; the article names 'Coachella Valley Power Services LLC, a subsidiary of Stronghold Power Systems'. The 600 MW (two ~300 MW phases) matches the article and is left."
+  },
+  "ft-1789530184395-3043": {
+    "name": "Global Stack Data Center (Solano County Fairgrounds)",
+    "developer": "Global Stack",
+    "status": "suspended",
+    "why": "Six records share the identical name 'Global Stack Data Center' (Calistoga, Daly City, Hanford, Tulare, Vallejo, Ventura), which is why this Vallejo/Solano record was printed on the Kings, Napa and San Mateo pages, none of which covers Solano County. A distinct name fixes that. The Napa County article says 'Solano County's fair association called it \"basically tabled.\"', so 'suspended' rather than 'proposed'. The developer was blank; the name and source identify Global Stack."
+  },
+  "ft-212": {
+    "status": "withdrawn",
+    "capacity_mw": null,
+    "why": "Jones County article: 'on October 20, less than a day before the zoning hearing, the developers withdrew by email. \"If they choose to reapply, we will provide the same public notice.\"' Withdrawn, not 'suspended'. The article gives '600 acres' and '1.8-million-square-foot' but no megawatts, and the record's own source is headlined '600-acre data center proposed', so the 900 MW has no support."
+  },
+  "ft-176": {
+    "status": "approved",
+    "capacity_mw": 910,
+    "why": "Coweta County article: the county 'approved one of the largest data center campuses proposed in Georgia on April 7, 2026, and was sued over it within a month ... It was expected to use 910 megawatts of power.' Rezoned and in litigation, with no report of construction, so 'approved', not 'under construction'. Capacity is the article's 910, not 936."
+  },
+  "ft-252": {
+    "address": "701 Congressional Blvd, Carmel, IN 46032",
+    "developer": "Expedient",
+    "why": "The address misspells the city as 'Carmell'; it is Carmel, Indiana (ZIP 46032). The developer was blank, but the record's only source is Expedient's own Indianapolis data center page (expedient.com/data-centers/indianapolis/), so the operator is Expedient. The Hamilton County page has no article to contradict status or capacity."
+  },
+  "ft-294": {
+    "developer": "Expedient",
+    "why": "The developer field was blank; the record's only source is Expedient's own Baltimore page (expedient.com/data-centers/baltimore/), and 1050 Hull Street is its Tide Point facility. Status and size are not addressed by the Baltimore article and are left."
+  },
+  "ft-1764303510176-1505": {
+    "developer": "Rocklocker (Reefworks)",
+    "why": "Developer was blank. Kalkaska County article: 'Matt Rine, a Traverse City geologist whose company Rocklocker is a subsidiary of the oil and gas firm Reefworks, proposed a gigawatt-scale campus ... Rocklocker will no longer be pursuing this project.' Status 'cancelled' agrees."
+  },
+  "ft-1768323532709-2448": {
+    "developer": "Nebius",
+    "capacity_mw": 800,
+    "why": "Jackson County article: 'The land was bought in December by Nebius, an Amsterdam-based company, for a campus of four buildings on nearly 400 acres', with the council giving 'Nebius a 90% tax abatement'. Patmos, in the developer field, is not mentioned. 'The city puts the campus's planned draw at about 800 megawatts at a time; a Nebius spokesperson said total capacity, including reserves, could reach 1.2 gigawatts', so 800, not 880. Note for the merge: a separate 'Patmos Data Center' record (ft-1782767669801-3250, 2500 Little Blue Parkway, Independence) may be the same site."
+  },
+  "ft-336": {
+    "developer": "DC Blox",
+    "capacity_mw": 18,
+    "why": "Guilford County article: 'DC Blox, an Atlanta company, bought 14 acres in High Point's Piedmont Centre business park ... for a data center of up to 54,000 square feet of data halls and 18 megawatts ... Years later nothing had been built, and DC Blox said it had \"no specific timeframe\"'. Capacity is 18, not 10, and the developer, blank in the row, is DC Blox (also the record's own source, dcblox.com). Status 'proposed' is kept: stalled but not withdrawn."
+  },
+  "ft-1782768174105-1140": {
+    "status": "withdrawn",
+    "developer": "American Tower",
+    "why": "Gloucester County article: 'East Greenwich Township banned data centers in all zoning districts after American Tower proposed a 16,000-square-foot, roughly 4-megawatt data storage building on 6.2 acres along Mantua Road ... The company withdrew in June.' The developer withdrew, so 'withdrawn' rather than 'cancelled'. The developer field was blank."
+  },
+  "ft-1777412785651-2157": {
+    "developer": "EKG Group / Guild Ventures",
+    "why": "Albany County article: 'his EKG Group and Guild Ventures now propose a technology campus anchored by a 500,000-square-foot data center', led by developer Michael-Henry Elghanian-Krayem. The row's developer 'Edge' does not appear anywhere on the page. Status 'proposed' and 100 MW ('the data center would use up to 100 MW') agree with the article."
+  },
+  "ft-1775186735797-5852": {
+    "capacity_mw": 800,
+    "why": "Pike County article: 'On March 20, 2026, cabinet members broke ground on the PORTS Technology Campus ... SB Energy, a SoftBank company, plans a campus that could reach 10 gigawatts, starting with an 800-megawatt first phase'. 10,000 MW is a ceiling ('could reach'); the committed first phase is 800 MW. Status 'under construction' is kept because the article reports the groundbreaking, though the power plant 'still needs Ohio Power Siting Board approval'. The record's note field holds a truncated research note ('Status and the 10,000 MW figure both nee...') that should not be printed."
+  },
+  "ft-1775786508153-1783": {
+    "developer": "LandBridge / PowerBridge",
+    "why": "The developer field was blank; the name and the record's only source (DCD, 'LandBridge, PowerBridge partner for 2GW data center campus in West Texas') identify the partners. The Reeves County article does not mention this project, so status and capacity are left as they are."
+  },
+  "ft-569": {
+    "developer": "Skybox Datacenters",
+    "why": "The developer field was blank, so the Collin County table prints 'Not reported' for a row literally named 'Skybox Atlantic Station'. The Travis County article on the same site refers to 'Skybox Datacenters' as the company. The Collin article does not address status or size, so those are left."
+  },
+  "ft-1772678185886-6099": {
+    "status": "blocked",
+    "why": "The record's own second source is headlined (DCD URL) 'city-council-of-provo-utah-votes-against-data-center-rezoning-proposal'. A council vote against the rezoning is a block, not a suspension. The Utah County article does not mention this project at all, which the seam review also flagged."
+  },
+  "ft-1784758801593-2123": {
+    "developer": "Menlo Digital (Menlo Equities)",
+    "why": "The developer field was blank. Petersburg article: 'Menlo Digital, whose project council rezoned in 2023, had submitted a site plan, not yet approved, for four buildings on 74 acres at 2255 Jamestown Drive', which is this record's address. Status 'proposed' agrees."
+  },
+  "epoch-coreweave-muskogee-ok": {
+    "developer": "Core Scientific",
+    "tenant": "CoreWeave",
+    "capacity_mw": 100,
+    "why": "Muskogee County article: 'Core Scientific's site at Port Muskogee's industrial park ... Core Scientific and CoreWeave broke ground there on a 100MW AI facility with about 70MW of IT load', and the record's own source is Core Scientific's press release 'Core Scientific and Port Muskogee break ground on 100 MW HPC data center'. Core Scientific is the developer, CoreWeave the tenant. The old tenant 'OpenAI (speculative)' was a guess. 100 MW is the facility figure (about 70 MW IT); the 1.5 GW is a later expansion plan."
+  },
+  "epoch-openai-stargate-uae": {
+    "developer": "Khazna Data Centers (G42)",
+    "capacity_mw": 1000,
+    "why": "Abu Dhabi article: 'The first building block is Stargate UAE, a 1-gigawatt cluster that Khazna is developing with OpenAI, Oracle, Nvidia, Cisco and SoftBank.' The developer is Khazna (owned by G42), not 'G42 (likely)', and the cluster is 1 GW. Its own source note also says '1GW cluster within 5GW campus'."
+  },
+  "blocked-citrus-county-holder-industrial-park-2026-06-23": {
+    "status": "withdrawn",
+    "why": "Citrus County article: the planning commission voted it down on June 18, and then 'the company sent the county a formal notice withdrawing both applications on Tuesday, June 23, 2026 ... the county canceled the July 14 hearings'. The final act was the developer's withdrawal, before the commission could decide, so 'withdrawn' rather than 'blocked'."
+  },
+  "ft-1783368725536-2775": {
+    "name": "Beacon Calvert Infrastructure Hub",
+    "why": "Two records share the name 'Beacon Data Center' (this one in Mount Vernon, AL and ft-1782348677413-3761 in Tupman, CA), so this Alabama project is also printed on the Kern County, California page. Mobile County article: 'Beacon Data Centers wants to build what it calls the Calvert Infrastructure Hub, a 95-acre complex between Calvert and Mt. Vernon.' Using its own name separates the two. Status 'proposed' agrees ('Neither project is approved')."
+  },
+  "ft-1787243731897-3645": {
+    "developer": "NorthPoint Development",
+    "why": "The developer field was blank. Stanislaus County article: 'NorthPoint Development, a Kansas City real estate company, controls the former FMC plant site at 1200 Graphics Drive' (this record's address). The article also says 'NorthPoint has not filed a data center application', so 'proposed' is generous but not contradicted; capacity stays null (only '25 to 50 megawatts' in private talks)."
+  },
+  "ft-1780879082497-8845": {
+    "capacity_mw": 100,
+    "why": "Polk County article: 'Project Swan, a 600,000 square foot data center in west Lakeland that officials said could take up to 100 megawatts.' Status is left 'proposed'; the city's moratorium pauses it but nothing on the page says it was withdrawn or denied."
+  },
+  "ft-1765217894086-3055": {
+    "name": "Forsyth Technology Campus (Trammell Crow)",
+    "developer": "Trammell Crow Company (CBRE)",
+    "status": "approved",
+    "why": "Monroe County article: 'H&H ... put a 1,632-acre tract between the Georgia Public Safety Training Center and Johnstonville Road under contract to Trammell Crow, the CBRE-owned developer. The filing for the Forsyth Technology Campus described 22 buildings ... On 2 February 2026 the Forsyth City Council approved it 5-1'. The record's own source is DCD's '1,600-acre data center approved by local authorities in Forsyth, Georgia'. Approved, not 'under construction'; no construction is reported."
+  },
+  "ft-149": {
+    "duplicate_of": "ft-212",
+    "why": "The same project twice. Both records cite the same 13WMAZ article ('600-acre data center proposed for Jones County faces early opposition'), both name Eagle Rock Partners and Thomas & Hutton, and both are on the Jones County page. Jones County article: 'Eagle Rock Partners and the engineering firm Thomas & Hutton filed to rezone more than 600 acres at Highway 18 and Bethlehem Church Road for the Crooked Creek Technology Park ... on October 20 ... the developers withdrew'. Keep ft-212 (corrected to 'withdrawn' in this file)."
+  },
+  "ft-184": {
+    "name": "T5 Palmetto (Palmetto Tyrone Rd)",
+    "developer": "T5 Data Centers",
+    "why": "The name was just 'T5' and the developer blank. A bare 'T5' name is what let the old page mapping print this Georgia record on the Alameda, Los Angeles and El Paso County pages. The record's own source is DCD's 'T5 requests permission for 3 million sq ft campus outside Atlanta, Georgia', and the address is Palmetto Tyrone Rd, Palmetto. The Coweta County article does not mention it, so status is left. Note for the merge: T5 Fairburn (Atlanta) (t5-t5-fairburn-atlanta) is also in Palmetto, on Gullatt Rd; it may or may not be the same campus."
+  },
+  "ft-1771618149523-4077": {
+    "developer": "Servpac",
+    "why": "The developer field was blank. Honolulu County article: 'The one on this page is Servpac's MTP Data Center in Mililani Technology Park ... In February 2026 the locally owned company broke ground on a second building'. 'Operating (expanding)' agrees and is kept."
+  },
+  "ft-1767322980321-2337": {
+    "status": "under construction",
+    "why": "Effingham County article: 'Gail Technology ... has begun building a data center and solar array on leased farmland at 15244 E. 1700th Avenue' (this record's address). Building has begun, so 'under construction', not 'proposed'."
+  },
+  "ft-265": {
+    "status": "approved",
+    "why": "Marion County article: 'DC Blox in Warren Township, Metrobloks in Martindale-Brightwood and Sabey in Decatur Township were already approved and are exempt' from the moratorium. The page says approved and reports no construction, and the record's own DCD source is headlined '$500m data center approved for construction'. 'Under construction' overstates what is on record."
+  },
+  "ft-1782766364343-7627": {
+    "developer": null,
+    "why": "The developer field reads 'Venerly LLC?', a guess with a question mark printed to the public. The record's own source is headlined 'Mystery tech firm looks to build 800-acre data center campus outside Grand Rapids', and the Kent County article names no developer for a Cedar Springs/Solon site. The developer is unknown, so null."
+  },
+  "ft-1776036204429-9677": {
+    "status": "approved",
+    "why": "Jefferson County (MO) article: the Festus council 'annexed about 240 acres on November 10, and on November 24 rezoned about 370 acres', and on March 30, 2026 'voted 6-2 for a development agreement' with CRG; Clayco says the approval gave CRG vested rights, but 'CRG had filed no construction or permit requests as of June'. Approved, not merely proposed; lawsuit pending."
+  },
+  "ft-343": {
+    "status": "withdrawn",
+    "capacity_mw": 600,
+    "why": "Mecklenburg County article: 'In Matthews, developers of \"Project Accelerate,\" five two-story buildings on 123 acres off East John Street that could have drawn up to 600 MW, withdrew their rezoning request on Oct. 7, 2025, days before a vote.' The developer withdrew, so 'withdrawn' rather than 'cancelled'. 600 MW is the article's stated size."
+  },
+  "ft-359": {
+    "name": "Comcast Data Center (Clinton)",
+    "developer": "Comcast",
+    "status": "approved",
+    "why": "Hunterdon County article: 'Comcast Cable is converting a vacant former TD Bank branch at 92 W. Main Street in the Town of Clinton ... the Clinton Town land use board had approved the conversion.' Approved, not proposed. Two records share the name 'Comcast Data Center' (this one and ft-361 in Moorestown), which is why this Clinton record is also printed on the Burlington County page; a distinct name fixes that. The developer was blank."
+  },
+  "ft-323": {
+    "developer": "Netrality Data Centers",
+    "why": "The developer field was blank; the record's own name is 'Netrality Data Centers St. Louis- 210 North Tucker'. The St. Louis article does not address this building, so status is left."
+  },
+  "ft-1768453625879-6878": {
+    "developer": "Tesla",
+    "why": "The developer field was blank. Erie County article: 'Tesla had planned a $500 million Dojo supercomputer at its RiverBend plant on South Park Avenue in Buffalo; the Buffalo News reported Tesla has since scrapped the Dojo effort'. 'Cancelled' agrees."
+  },
+  "ft-430": {
+    "name": "TierPoint Tulsa (State Farm Blvd)",
+    "developer": "TierPoint",
+    "why": "Two records share the exact name 'Tierpoint Data Center' (this one in Tulsa and ft-324 in St. Louis), so this Tulsa record is also printed on the St. Louis page. A distinct name separates them. The developer was blank; the record's own source is DCD's 'TierPoint completes fourth data center in Oklahoma'. The Tulsa County article does not address this building, so status is left."
+  },
+  "ft-1776918405079-1325": {
+    "status": "blocked",
+    "developer": "Popca LLC",
+    "why": "Lackawanna County article: proposals include one in 'Newton Township, where Popca LLC applied in January 2026 for two buildings on about 90 acres and was turned down by the zoning officer.' This record is at Newton Rd, Clarks Summit (Newton Township), and its own source is WVIA's 'Proposed Newton data center campus is 10th planned for Lackawanna County'. Turned down means blocked, not proposed. The developer was blank."
+  },
+  "ft-1770305022079-6376": {
+    "name": "Penn Forest Township Data Center (Maury Rd)",
+    "developer": "Mele Brothers Realty",
+    "address": "460 Maury Rd, Jim Thorpe, PA 18229",
+    "why": "Carbon County article: 'Mele Brothers Realty of Glenside, which paid more than $2 million for land near Route 903 and Maury Road', in Penn Forest Township, where 'No developer has yet filed a plan'. The site is in Penn Forest Township (Jim Thorpe is only the postal town), so the name 'Jim Thorpe Data Center' misleads, especially as Jim Thorpe borough is separately writing its own ordinance on the same page. The developer was blank, and the ZIP was truncated to '8229' (it is 18229). Status 'proposed' is kept."
+  },
+  "ft-1769139372684-6188": {
+    "status": "blocked",
+    "why": "The record's own source is headlined (DCD URL) 'zoning-amendment-rejected-for-data-center-in-ransom-township-pennsylvania'. A rejected zoning amendment is a block, not a suspension. The Lackawanna County article lists Ransom Township among the proposals but gives no detail that contradicts this."
+  },
+  "ft-1775616979269-7668": {
+    "status": "withdrawn",
+    "why": "Marion County (SC) article: 'In June 2026 Stream withdrew, saying \"utility power cannot be sourced on this site within the required timeframe.\"' The developer withdrew, so 'withdrawn' rather than 'cancelled'. The article adds that it is not reported whether the county's incentive agreement has been rescinded."
+  },
+  "ft-527": {
+    "developer": "Cawley Partners",
+    "why": "The developer field was blank while the name is 'Cawley Partners' and the only source is DCD's 'Cawley Partners acquires 5,200 acres outside Dallas, plans data center park'. The Ellis County article does not mention it, so status is left."
+  },
+  "ft-550": {
+    "developer": "Experian",
+    "why": "The developer field was blank, so the Collin County table prints 'Not reported' for a row named 'Experian McKinney Data Center'. The record's own sources (a TCEQ dataset and a news story on Experian's 'high-tech underground bunker') identify the operator. The Collin article does not address status."
+  },
+  "ft-628": {
+    "duplicate_of": "ft-629",
+    "why": "Millard County article: the Creekstone campus is 'the Delta Gigasite', 'nearly 1,200 acres southeast of the city', which Fibernet MercuryDelta asked to rezone; record ft-629 'Fibernet MercuryDelta Campus/Delta Gigasite' (developer Creekstone Energy) is that campus. This record repeats the Gigasite but carries the wrong address: '11000 McCornick Rd' is, per the same article, Joule Capital Partners' Triple C Farms site ('about 4,000 acres of the Triple C Farms at 11000 N. McCornick Road'), which has its own record (ft-1775655378279-3568). Keep ft-629; this row double-counts Creekstone at Joule's location."
+  },
+  "ft-645": {
+    "status": "withdrawn",
+    "developer": "Tract",
+    "why": "The record's own source is WRIC's 'Tract withdraws data center application after Chesterfield recommends against it'. The developer withdrew, so 'withdrawn' rather than 'suspended'. The developer field was blank; the name and source say Tract. The Chesterfield County article says the board has 'no appetite' for more data centers, which agrees."
+  },
+  "ft-1047": {
+    "status": "approved",
+    "why": "Surry County article: 'on Feb. 8, 2024 supervisors approved it 3-2', then 'Green Energy Partners filed for Chapter 11 on Sept. 29, 2024' and the land purchase 'had not been completed'; the county says 'from a zoning standpoint, this private project may proceed', and 'no construction or tenant was reported'. Rezoned and approved, with nothing built and the developer in reorganization. 'Approved' is the accurate stage; 'proposed' understates the approval."
+  },
+  "ft-1079": {
+    "status": "unknown",
+    "why": "The record has no source at all. The Snohomish County article says the county has 'only one small data center on record, a Ziply Fiber facility near Paine Field drawing about 1.1 megawatts'. That contradicts an operating 'Csquare Seattle Data Center' in Lynnwood, which is in Snohomish County. With no source and the page saying otherwise, 'operating' cannot be supported."
+  },
+  "ft-1107": {
+    "status": "unknown",
+    "developer": "Alpha Technologies (now Alpha Innovations)",
+    "why": "Cabell County article: 'nothing has been reported about it since it was announced' in October 2024; work 'was to start that November', and 'Whether the first phase opened in March 2025 ... [has] not been reported'. Nothing confirms construction, so 'under construction' is unsupported. The developer was blank; the article names Doug Tate's Alpha Technologies, since rebranded Alpha Innovations."
+  }
+}

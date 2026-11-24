@@ -1,0 +1,684 @@
+[
+ {
+  "id": "ft-892",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The park at Duffield carries a data center label without a data center in it.",
+    "src": "http://www.scottcountyva.gov/188/Sites-Buildings"
+   },
+   {
+    "para": 0,
+    "t": "Scott County describes a 65 acre tract with almost 55 developable acres, served by access roads, water, sewer and broadband, aimed at technology firms and promising bandwidth, redundant service and aggressive pricing to a degree the Virginia and Tennessee region had not been offered before.",
+    "src": "http://www.scottcountyva.gov/188/Sites-Buildings"
+   },
+   {
+    "para": 0,
+    "t": "The site is one of twelve places in the Tennessee Valley Authority region designated a Premier Data Center Site.",
+    "src": "http://www.scottcountyva.gov/188/Sites-Buildings"
+   },
+   {
+    "para": 0,
+    "t": "Two things operate in the park: the Crooked Road Tech Center and the Pioneer Center for Business Opportunity, a 46,000 square foot incubator for startups and small businesses.",
+    "src": "http://www.scottcountyva.gov/188/Sites-Buildings"
+   },
+   {
+    "para": 0,
+    "t": "The entry puts the site at 372 Technology Trail Lane on 55 acres, marks it proposed and holds no capacity figure.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The ring of rules around it has been tightening.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Bristol adopted a moratorium on data centers on October 7, 2025, Hawkins County in Tennessee a ban on September 22, 2025, Washington County moratoriums on March 26 and June 30, 2026, and Johnson City one on June 5, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Scott County itself has none.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Two data center sites are counted in Scott County, and the other, the Duffield Premier Data Center Site, shares these coordinates.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Mineral Gap at Wise is 38 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Generation is distant for a campus of any size: the 194 megawatt Tennessee Eastman plant 32 kilometres off, the 878 megawatt John Sevier gas plant 40, and the 610 megawatt Virginia City coal station 47.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "http://www.scottcountyva.gov/188/Sites-Buildings"
+  ],
+  "unconfirmed": "No data center company, application, building plan or megawatt figure is attached to this parcel in anything we found; the entry appears to record a marketed site rather than a project. Our record and the county give the same 55 developable acres out of 65. Whether the Duffield Premier Data Center Site entry in our own data is a second record of this same park was not resolved."
+ },
+ {
+  "id": "ft-651",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A data center is proposed inside the Mid-Atlantic Advanced Manufacturing Center, a 930 acre industrial park at 1781 Greensville County Circle in Emporia, Greensville County.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It is four buildings on about 121 acres, roughly 13 percent of the site, none taller than 40 feet, with parking and an electrical substation, and the existing trees left standing as screening from Interstate 95 and Otterdam Road.",
+    "src": "https://baxtel.com/data-center/mamac-rifa-data-center"
+   },
+   {
+    "para": 0,
+    "t": "The county planning commission recommended a special use permit for it unanimously on December 10, and the year planned is 2028.",
+    "src": "https://baxtel.com/data-center/mamac-rifa-data-center"
+   },
+   {
+    "para": 0,
+    "t": "The project is marked proposed, with no capacity figure.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The reason a megasite here draws this is sitting a few miles down the road.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "The 1,588 megawatt Greensville County Power Station is 12 kilometres away and the 1,376 megawatt Brunswick County Power Station 18, with the 100 megawatt Sadler solar farm seven kilometres off and an 80 megawatt solar plant twelve.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "That is close to three gigawatts of gas generation within twenty kilometres, which is a great deal more than most rural sites in Virginia can call on.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Greensville County and there is no other within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "No moratorium applies; the nearest is Northampton County's, from May 8, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/data-center/mamac-rifa-data-center"
+  ],
+  "unconfirmed": "The year of the December 10 planning commission vote is not stated in the record read, and whether the board of supervisors has since granted the permit could not be established. No megawatt figure, tenant or investment has been published. The Emporia Independent-Messenger article our record cites now redirects to an unrelated commercial site. Our record names Arup Americas as developer, which the record read does not confirm; it gives the operator as the manufacturing centre itself."
+ },
+ {
+  "id": "ft-745",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "An operating data center of 14 acres is recorded at 12902 Federal Systems Park Drive in Fairfax, in Fairfax County, under the name BIT Holdings Fifty-Four Inc.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The entry holds no capacity figure and one source, a county property assessment page for parcel 0552-01-0019.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "What is documented is the rulebook and the permits.",
+    "src": "https://www.fairfaxcounty.gov/planning-development/data-centers"
+   },
+   {
+    "para": 1,
+    "t": "Fairfax County's board of supervisors adopted a data center zoning amendment on September 10, 2024, effective the next day, revising where data centers are permitted and to what standard.",
+    "src": "https://www.fairfaxcounty.gov/planning-development/data-centers"
+   },
+   {
+    "para": 1,
+    "t": "The Public Evidence Project has indexed 29 state air permits for data center facilities in Fairfax County, issued by Virginia's Department of Environmental Quality, most of them held by Amazon Data Services, with CoreSite, Northrop Grumman, Equinix, Zayo Group and The Aerospace Corporation also on the list.",
+    "src": "https://publicevidence.org/virginia/data-centers/fairfax-county"
+   },
+   {
+    "para": 1,
+    "t": "An air permit defines the equipment, limits and operating conditions a site is authorised for, and the project says plainly that a facility may exist without appearing in the collection and that inclusion is not evidence of a violation.",
+    "src": "https://publicevidence.org/virginia/data-centers/fairfax-county"
+   },
+   {
+    "para": 2,
+    "t": "Sixteen data center sites are recorded in Fairfax County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "A proposal the record simply calls Data center is three kilometres away, T5 Ashburn six, AWS at Mallory Drive in Chantilly under construction seven, AWS Renaissance Technology Park nine and CoreSite's Reston campus ten.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The 98 megawatt Covanta Fairfax waste plant is 23 kilometres off and the 766 megawatt Potomac Energy Center 26.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Warrenton has banned data centers, Montgomery County has both zoning limits and a moratorium, and Prince George's County a moratorium.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.fairfaxcounty.gov/planning-development/data-centers",
+   "https://publicevidence.org/virginia/data-centers/fairfax-county"
+  ],
+  "unconfirmed": "No operator, floor area, power draw or age was established for this building. Searches on the street, on the company and on Fairfax County's data center records returned listings for 12900 Federal Systems Park Drive, one number off ours, and a Northrop Grumman Information Systems office at that address; no reporting on the building was found. BIT Holdings Fifty-Four Inc is the entity on the parcel record and who runs the computers in it is unknown."
+ },
+ {
+  "id": "ft-652",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The 38 acres at 6895 Wellington Road in Gainesville, in Prince William County, were bought for a data center in October 2025.",
+    "src": "https://commercialobserver.com/2025/10/blackchamber-nova-data-center-land/"
+   },
+   {
+    "para": 0,
+    "t": "The record used to put the site at 8132 US-29 in Falls Church, in Fairfax County, about fifty kilometres away.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Everything else on record matches: 38 acres, $160 million, Black Chamber.",
+    "src": "https://commercialobserver.com/2025/10/blackchamber-nova-data-center-land/"
+   },
+   {
+    "para": 0,
+    "t": "The mix-up is easy to see: the seller was Merrifield Garden Center, which keeps its Falls Church and Fairfax shops and sold its Gainesville nursery.",
+    "src": "https://www.princewilliamtimes.com/news/breaking-popular-merrifield-garden-center-to-close-after-selling-for-data-centers/article_38bbb8b7-f9d4-47d6-90b2-1cb26e9a81b8.html"
+   },
+   {
+    "para": 1,
+    "t": "BlackChamber Group, a Washington private equity firm, paid the $160 million in October 2025, about $4.2 million an acre.",
+    "src": "https://commercialobserver.com/2025/10/blackchamber-nova-data-center-land/"
+   },
+   {
+    "para": 1,
+    "t": "The Warhurst family had bought the land for $2.3 million in 2004, making the sale a return of 6,857 percent against a 2025 assessed value of $26.5 million.",
+    "src": "https://commercialobserver.com/2025/10/blackchamber-nova-data-center-land/"
+   },
+   {
+    "para": 1,
+    "t": "The parcel sits inside Prince William County's Data Center Opportunity Zone Overlay District, where data centers are permitted by right with no further approval needed.",
+    "src": "https://commercialobserver.com/2025/10/blackchamber-nova-data-center-land/"
+   },
+   {
+    "para": 1,
+    "t": "BlackChamber raised $1.2 billion of construction financing in 2024 for hyperscale development in the region, and in March 2025 paid $190 million for a 65 acre industrial site at Manassas earmarked for up to two million square feet, the two together expected to yield more than 740 megawatts.",
+    "src": "https://commercialobserver.com/2025/10/blackchamber-nova-data-center-land/"
+   },
+   {
+    "para": 2,
+    "t": "The garden centre had been open since November 2008, with a 12,000 square foot shop and a 37,000 square foot greenhouse, and closed on December 31, 2025, some staff moving to the Merrifield and Fairfax branches.",
+    "src": "https://www.princewilliamtimes.com/news/breaking-popular-merrifield-garden-center-to-close-after-selling-for-data-centers/article_38bbb8b7-f9d4-47d6-90b2-1cb26e9a81b8.html"
+   },
+   {
+    "para": 2,
+    "t": "Supervisor Tom Gordy said businesses in the data center zone are \"at risk as long as the overlay continues to exist\" and that \"this is a perfect example as to why the overlay needs to be removed.\"",
+    "src": "https://www.princewilliamtimes.com/news/breaking-popular-merrifield-garden-center-to-close-after-selling-for-data-centers/article_38bbb8b7-f9d4-47d6-90b2-1cb26e9a81b8.html"
+   },
+   {
+    "para": 2,
+    "t": "State Senator Danica Roem said losing \"a garden center, where the business model is about plants and making sure people have greenery in their yards\" so that another data center could come in and add to rising energy bills was \"beyond parody.\"",
+    "src": "https://www.princewilliamtimes.com/news/breaking-popular-merrifield-garden-center-to-close-after-selling-for-data-centers/article_38bbb8b7-f9d4-47d6-90b2-1cb26e9a81b8.html"
+   },
+   {
+    "para": 2,
+    "t": "Board chair Deshundra Jefferson called Merrifield unique and beloved: \"Merrifield is exactly the type of business that I hate to lose. I don't want to lose our local character.\"",
+    "src": "https://www.princewilliamtimes.com/news/breaking-popular-merrifield-garden-center-to-close-after-selling-for-data-centers/article_38bbb8b7-f9d4-47d6-90b2-1cb26e9a81b8.html"
+   },
+   {
+    "para": 2,
+    "t": "Katherine Conklin, an environmental educator, said \"every year there are loads of pollinators that come to Merrifield on their migration path, because the plants and the flowers are available to the insects,\" and that the loss of habitat is definitely a concern.",
+    "src": "https://www.princewilliamtimes.com/news/breaking-popular-merrifield-garden-center-to-close-after-selling-for-data-centers/article_38bbb8b7-f9d4-47d6-90b2-1cb26e9a81b8.html"
+   },
+   {
+    "para": 3,
+    "t": "Because the record places the site in Fairfax, the neighbours it lists are Fairfax ones and should be read with that in mind.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "It gives sixteen data center sites in Fairfax County, with BIT Holdings Fifty-Four three kilometres away and T5 Ashburn eight.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Prince William County, where the land actually is, wrote zoning limits on data centers on March 4, 2026, after this sale.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://commercialobserver.com/2025/10/blackchamber-nova-data-center-land/",
+   "https://www.princewilliamtimes.com/news/breaking-popular-merrifield-garden-center-to-close-after-selling-for-data-centers/article_38bbb8b7-f9d4-47d6-90b2-1cb26e9a81b8.html"
+  ],
+  "unconfirmed": "No building plan, square footage or megawatt figure has been published; the land was bought, not yet designed. Because the site is permitted by right inside the overlay district, there may be no public hearing to attend. Our record's address and county are wrong, so its list of nearby projects and power plants describes the wrong part of Virginia."
+ },
+ {
+  "id": "ft-987",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "An operating data center of twelve acres is recorded at 7555 Colshire Drive, Falls Church, in Fairfax County, under Northrop Grumman Systems Corp.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The entry holds no capacity figure for it and one source, a county property assessment page.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "It is one of four entries the record keeps within a couple of kilometres of each other here, and all four are named after whoever holds the deed.",
+    "src": "data:developer"
+   },
+   {
+    "para": 1,
+    "t": "The Roosevelt Building shares these coordinates, ELIAS DC ASSETS is a kilometre away, Valo Park two, and the second Northrop Grumman entry six.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Sixteen data center sites are counted in Fairfax County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "Fairfax County's board of supervisors adopted a data center zoning amendment on September 10, 2024, effective the next day, which governs anything new rather than anything standing.",
+    "src": "https://www.fairfaxcounty.gov/planning-development/data-centers"
+   },
+   {
+    "para": 2,
+    "t": "For what is already running, the Public Evidence Project's index of state air permits is a better register.",
+    "src": "https://publicevidence.org/virginia/data-centers/fairfax-county"
+   },
+   {
+    "para": 2,
+    "t": "The Public Evidence Project has indexed 29 state air permits for data center facilities in Fairfax County, issued by Virginia's Department of Environmental Quality, most of them held by Amazon Data Services, with CoreSite, Northrop Grumman, Equinix, Zayo Group and The Aerospace Corporation also on the list.",
+    "src": "https://publicevidence.org/virginia/data-centers/fairfax-county"
+   },
+   {
+    "para": 2,
+    "t": "An air permit defines the equipment, limits and operating conditions a site is authorised for, and the project says plainly that a facility may exist without appearing in the collection and that inclusion is not evidence of a violation.",
+    "src": "https://publicevidence.org/virginia/data-centers/fairfax-county"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generation of any size is the 766 megawatt Potomac Energy Center, 33 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Warrenton has banned data centers, Montgomery County has zoning limits from January 12, 2026 and a moratorium from June 12, and Prince George's County a moratorium from July 7.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.fairfaxcounty.gov/planning-development/data-centers",
+   "https://publicevidence.org/virginia/data-centers/fairfax-county"
+  ],
+  "unconfirmed": "No floor area, power draw, age or operator beyond the deed holder was established. Searches on the address return Northrop Grumman Information Systems at 7575 Colshire Drive in McLean, twenty numbers off ours, and a data center tracker listing the company at under ten megawatts; whether the two are the same building could not be confirmed. No local reporting on it was found."
+ },
+ {
+  "id": "ft-888",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "An operating data center of six acres is recorded at 2980 Fairview Park Drive, Falls Church, in Fairfax County, under Northrop Grumman Systems Corp.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The entry holds no capacity figure for it and one source, a county property assessment page.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "That is the pattern across this corner of the county: a computer room in a corporate building, recorded as a data center because the parcel is.",
+    "src": "data:developer"
+   },
+   {
+    "para": 1,
+    "t": "The air permits are the better register of what is actually running nearby.",
+    "src": "https://publicevidence.org/virginia/data-centers/fairfax-county"
+   },
+   {
+    "para": 1,
+    "t": "The Public Evidence Project has indexed 29 state air permits for data center facilities in Fairfax County, issued by Virginia's Department of Environmental Quality, most of them held by Amazon Data Services, with CoreSite, Northrop Grumman, Equinix, Zayo Group and The Aerospace Corporation also on the list.",
+    "src": "https://publicevidence.org/virginia/data-centers/fairfax-county"
+   },
+   {
+    "para": 1,
+    "t": "An air permit defines the equipment, limits and operating conditions a site is authorised for, and the project says plainly that a facility may exist without appearing in the collection and that inclusion is not evidence of a violation.",
+    "src": "https://publicevidence.org/virginia/data-centers/fairfax-county"
+   },
+   {
+    "para": 1,
+    "t": "Fairfax County adopted a data center zoning amendment on September 10, 2024, effective the next day, which governs what can be built next rather than what is there.",
+    "src": "https://www.fairfaxcounty.gov/planning-development/data-centers"
+   },
+   {
+    "para": 2,
+    "t": "The other Northrop Grumman entry, on Colshire Drive, is six kilometres from here, with the Roosevelt Building and ELIAS DC ASSETS the same distance and Valo Park seven.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Starwood Plaza 500, ten kilometres away, is the nearest thing the record marks proposed rather than operating.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Sixteen data center sites are counted in Fairfax County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The 98 megawatt Covanta Fairfax waste plant is 19 kilometres away and the 766 megawatt Potomac Energy Center 35.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Around it the rules have hardened: Warrenton has banned data centers, Montgomery County has zoning limits and a moratorium, and Prince George's County a moratorium from July 7, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://publicevidence.org/virginia/data-centers/fairfax-county",
+   "https://www.fairfaxcounty.gov/planning-development/data-centers"
+  ],
+  "unconfirmed": "Nothing describing a data center at this address was found. Three searches, on the address, on the company with the street, and on Fairfax County's data center records, returned Northrop Grumman's corporate headquarters here, a building of about 334,000 square feet occupied from 2011, which was not treated as a source because the company's own release timed out. Floor area, power draw and operator for any data hall inside it are unknown."
+ },
+ {
+  "id": "ft-1056",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The application here runs into an ironworks from the War of Independence.",
+    "src": "https://www.fxbgadvance.com/p/data-center-proposed-in-historic"
+   },
+   {
+    "para": 0,
+    "t": "TC Blaisdell of Delaware, part of the Trammell Crow real estate firm, applied in December for a data center on 181.3 acres along Olde Forge Drive in Stafford County's George Washington district, between U.S. 17 and the Rappahannock River.",
+    "src": "https://www.fxbgadvance.com/p/data-center-proposed-in-historic"
+   },
+   {
+    "para": 0,
+    "t": "The plan is 1.48 million square feet across eleven parcels of undeveloped wooded land near housing.",
+    "src": "https://www.fxbgadvance.com/p/data-center-proposed-in-historic"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 181 acres, marks it proposed and holds no capacity figure.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The ground beside it is Hunter's Iron Works, where James Hunter ran a forge through the War of Independence supplying the Continental army and navy with muskets, swords and other armaments and camp implements, a site Thomas Jefferson, then governor of Virginia, ordered troops to protect.",
+    "src": "https://www.fxbgadvance.com/p/data-center-proposed-in-historic"
+   },
+   {
+    "para": 1,
+    "t": "It also borders the Gari Melchers Home and Studio at Belmont.",
+    "src": "https://www.fxbgadvance.com/p/data-center-proposed-in-historic"
+   },
+   {
+    "para": 1,
+    "t": "Hunter Morin, president of the Fredericksburg firm GeMROI, wrote that \"Trammell Crow is in conversation with the newly formed Freedom Forge Foundation regarding the donation of the significant property\" beside the Rappahannock.",
+    "src": "https://www.fxbgadvance.com/p/data-center-proposed-in-historic"
+   },
+   {
+    "para": 2,
+    "t": "What is being asked for is a rezoning from urban commercial and agricultural to heavy industrial, a conditional use permit for public facilities and utilities, and a comprehensive plan amendment moving the area from residential to business and industry.",
+    "src": "https://www.fxbgadvance.com/p/data-center-proposed-in-historic"
+   },
+   {
+    "para": 2,
+    "t": "The applicant has undertaken to use reclaimed water as the sole primary water source for cooling rather than drinking water, and proposes daytime noise limits of 55 decibels in residential zones, 65 in commercial and office zones and 79 in industrial ones.",
+    "src": "https://www.fxbgadvance.com/p/data-center-proposed-in-historic"
+   },
+   {
+    "para": 2,
+    "t": "A public meeting was postponed by weather and was to be rescheduled within a fortnight.",
+    "src": "https://www.fxbgadvance.com/p/data-center-proposed-in-historic"
+   },
+   {
+    "para": 3,
+    "t": "Nine data center sites are counted in Stafford County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "STACK's Fredericksburg site is three kilometres away, the Enon Road park four, Penzance's refused Fredericksburg campus four, Cranes Corner five and Vantage's Fredericksburg site, under construction, seven.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "By June 2026 Stafford was carrying about eighteen data center proposals, running to tens of millions of square feet, and at the board of supervisors on June 2 resident J.W. Swain warned that tier 4 generators would put out \"37,000 pounds of PM 2.5 and PM 10 material\" a year, with schools a mile and a half to two miles away.",
+    "src": "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generation is three solar farms 28 kilometres off and the 814 megawatt Ladysmith gas plant 29.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.fxbgadvance.com/p/data-center-proposed-in-historic",
+   "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+  ],
+  "unconfirmed": "No megawatt figure has been published and our record holds none. The year of the December application is not stated in the page we read, and we could not establish whether the rescheduled public meeting happened or what the county has since decided. Whether the ironworks land was in fact donated is unresolved."
+ },
+ {
+  "id": "ft-1041",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Cranes Corner is the small one in a very long queue.",
+    "src": "https://www.fredericksburgfreepress.com/2025/01/22/biz-beat-roundup-more-data-centers-proposed-in-stafford/"
+   },
+   {
+    "para": 0,
+    "t": "Jacob Manevich of GAM 403 Mountain LLC applied for about 900,000 square feet of data center buildings on 46 acres east of U.S. 1 in Stafford County.",
+    "src": "https://www.fredericksburgfreepress.com/2025/01/22/biz-beat-roundup-more-data-centers-proposed-in-stafford/"
+   },
+   {
+    "para": 0,
+    "t": "The record places it about 1,400 feet north of the Centreport Parkway junction, carries 46 acres, marks it proposed and holds no capacity figure.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "It was one of five Stafford applications reported together in January 2025.",
+    "src": "https://www.fredericksburgfreepress.com/2025/01/22/biz-beat-roundup-more-data-centers-proposed-in-stafford/"
+   },
+   {
+    "para": 1,
+    "t": "The largest, GWV, would take 1,042 acres north of Ramoth Church Road for about 7.9 million square feet, from Andrew Garrett of The Garrett Companies.",
+    "src": "https://www.fredericksburgfreepress.com/2025/01/22/biz-beat-roundup-more-data-centers-proposed-in-stafford/"
+   },
+   {
+    "para": 1,
+    "t": "Enon Road Technology Park would take 162 acres south of Enon Road for up to two million square feet, from Jacob Manevich of GAM Stafford LLC, the same applicant as this one under a different company.",
+    "src": "https://www.fredericksburgfreepress.com/2025/01/22/biz-beat-roundup-more-data-centers-proposed-in-stafford/"
+   },
+   {
+    "para": 1,
+    "t": "Accokeek Center would put 520,000 square feet on 80 acres between U.S. 1 and Interstate 95, from Stephen W. DeFalco of Falmouth Tech LLC.",
+    "src": "https://www.fredericksburgfreepress.com/2025/01/22/biz-beat-roundup-more-data-centers-proposed-in-stafford/"
+   },
+   {
+    "para": 1,
+    "t": "Austin Ridge would put about 1.6 million square feet of data center on 183 acres at Hartwood, from Nathaniel Hagedorn of NP Austin Ridge LLC.",
+    "src": "https://www.fredericksburgfreepress.com/2025/01/22/biz-beat-roundup-more-data-centers-proposed-in-stafford/"
+   },
+   {
+    "para": 2,
+    "t": "By June 2026 the county was carrying about eighteen proposals, running to tens of millions of square feet, and residents were talking about air.",
+    "src": "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+   },
+   {
+    "para": 2,
+    "t": "At the board of supervisors on June 2, 2026 they raised air pollution and health risks from the generators these campuses would run.",
+    "src": "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+   },
+   {
+    "para": 3,
+    "t": "Enon Road is two kilometres from this parcel, STACK's 1,000 megawatt Stafford campus three, Vantage's Fredericksburg site under construction three, Blaisdell five and Austin Ridge five.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Nine data center sites are counted in Stafford County and the county has no moratorium of its own.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "U.S. 1 here is 24 kilometres from the 645 megawatt Possum Point gas plant, with three solar farms at 32.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.fredericksburgfreepress.com/2025/01/22/biz-beat-roundup-more-data-centers-proposed-in-stafford/",
+   "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+  ],
+  "unconfirmed": "No megawatt figure, water demand, hearing date or decision was found; our only reporting source dates from January 2025. Who is behind GAM 403 Mountain LLC beyond the named applicant is unknown. Whether the rezoning has been granted, refused or withdrawn is unresolved."
+ },
+ {
+  "id": "ft-1060",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Jacob Manevich of GAM Stafford LLC wants up to two million square feet of data center buildings on 162 acres south of Enon Road, near the Wyatt Lane junction in Stafford County.",
+    "src": "https://www.fredericksburgfreepress.com/2025/01/22/biz-beat-roundup-more-data-centers-proposed-in-stafford/"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 162 acres, marks it proposed and holds no capacity figure.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The same applicant has a second Stafford scheme two kilometres away, Cranes Corner, about 900,000 square feet on 46 acres east of U.S. 1, filed under a company called GAM 403 Mountain LLC.",
+    "src": "https://www.fredericksburgfreepress.com/2025/01/22/biz-beat-roundup-more-data-centers-proposed-in-stafford/"
+   },
+   {
+    "para": 1,
+    "t": "Five Stafford applications were reported together in January 2025: this one, Cranes Corner, GWV at 1,042 acres and about 7.9 million square feet, Accokeek Center at 520,000 square feet on 80 acres, and Austin Ridge at about 1.6 million square feet of data center on 183 acres.",
+    "src": "https://www.fredericksburgfreepress.com/2025/01/22/biz-beat-roundup-more-data-centers-proposed-in-stafford/"
+   },
+   {
+    "para": 1,
+    "t": "By the following June the county was carrying about eighteen, running to tens of millions of square feet.",
+    "src": "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+   },
+   {
+    "para": 2,
+    "t": "The objection that surfaced at the board of supervisors on June 2, 2026 was air quality.",
+    "src": "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+   },
+   {
+    "para": 2,
+    "t": "Residents put the case in terms of what the standby generators would emit, and of how close the schools and a park are to the sites: a mile and a half to two miles for the schools, about a thousand yards for the park.",
+    "src": "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+   },
+   {
+    "para": 3,
+    "t": "Cranes Corner is two kilometres from here, Vantage's Fredericksburg campus under construction three, Blaisdell four, STACK's 1,000 megawatt Stafford site five and Austin Ridge six.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Nine data center sites are counted in Stafford County, and the county has no moratorium; the nearest rules are Warrenton's ban and the zoning limits in Culpeper, Fairfax, Fauquier and Prince William counties.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "Enon Road is 25 kilometres from the 645 megawatt Possum Point gas plant, with three solar farms at 30.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.fredericksburgfreepress.com/2025/01/22/biz-beat-roundup-more-data-centers-proposed-in-stafford/",
+   "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+  ],
+  "unconfirmed": "No megawatt figure, building count, water demand or hearing date was found, and our record holds none. Our only reporting source on the application dates from January 2025, so the current status is unknown. Why the same applicant filed two Stafford schemes through two different companies was not established."
+ },
+ {
+  "id": "ft-659",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is the largest of Stafford's proposals and one of two the same developer has on the same road.",
+    "src": "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+   },
+   {
+    "para": 0,
+    "t": "Real Estate Pursuits 2 LC, an affiliate of Peterson Companies, is seeking to rezone 845 acres at the northeast corner of Kings Highway and Forest Lane, in the George Washington election district, from A-1 and M-1 to M-2 for data centers, with a conditional use permit for an electrical substation.",
+    "src": "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+   },
+   {
+    "para": 0,
+    "t": "The applications are RC25156546, CUP25156542 and COM25156545, and the scheme is about eleven million square feet.",
+    "src": "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+   },
+   {
+    "para": 0,
+    "t": "The record places it between Caisson Road and Kings Highway on 850 acres, marks it proposed, and holds no capacity figure.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Peterson's other scheme is Project Sisson, near Albion Lane on the banks of the Rappahannock, which the record holds a kilometre away under the name Sisson North.",
+    "src": "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+   },
+   {
+    "para": 1,
+    "t": "Between them they would take in a long stretch of the Kings Highway corridor.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Stafford is carrying about eighteen data center proposals, running to tens of millions of square feet.",
+    "src": "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+   },
+   {
+    "para": 2,
+    "t": "At the board of supervisors on June 2, 2026, residents spoke about air pollution and health risks, J.W. Swain putting the annual output of tier 4 generators at \"37,000 pounds of PM 2.5 and PM 10 material,\" with schools a mile and a half to two miles from the sites and a park roughly a thousand yards away.",
+    "src": "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+   },
+   {
+    "para": 3,
+    "t": "Sisson North is a kilometre from here, an AWS site at Birchwood in King George that the record marks on hold six, a Green Energy Ventures proposal eight, AWS Summit Crossing nine and PowerHouse 95 ten.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Nine data center sites are counted in Stafford County and no moratorium applies in it; the nearest are Culpeper County's zoning limits from September 2, 2025 and Prince William County's from March 4, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The 814 megawatt Ladysmith gas plant is 24 kilometres away and the 645 megawatt Possum Point station 31.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+  ],
+  "unconfirmed": "No megawatt figure, building count, water source or hearing date for Forest Lane was established, and our record holds none. Our 850 acres and the 845 in the application differ by five. The Data Center Dynamics report and the file-sharing link in our record could not be read."
+ }
+]

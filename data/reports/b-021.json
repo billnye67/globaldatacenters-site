@@ -1,0 +1,470 @@
+[
+ {
+  "id": "gemini-cdc-laverton-north",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CDC Data Centres is building its second Melbourne campus at Laverton North, in the city's western industrial belt, next to its existing Brooklyn site.",
+    "src": "https://cdc.com/locations/melbourne/"
+   },
+   {
+    "para": 0,
+    "t": "It would add more than 400 megawatts when complete, against more than 350 at Brooklyn, and the company puts its Melbourne investment at 2.7 billion Australian dollars, describing more than 4 billion across its Victorian operations.",
+    "src": "https://cdc.com/resources/news/cdc-brings-27bn-groundbreaking-opportunity-to-melbournes-south-west/"
+   },
+   {
+    "para": 0,
+    "t": "CDC says its closed loop cooling reaches a water usage effectiveness of 0.01 and consumes no water for primary cooling.",
+    "src": "https://cdc.com/locations/melbourne/"
+   },
+   {
+    "para": 1,
+    "t": "That claim matters more than usual here, because of what water applications around Melbourne now look like.",
+    "src": "https://www.abc.net.au/news/2025-08-26/hume-council-votes-on-data-centres-energy-water-management-plan/105694556"
+   },
+   {
+    "para": 1,
+    "t": "On August 25, 2025 Hume City Council became the first in Victoria to vote for a framework for assessing data centre applications.",
+    "src": "https://www.abc.net.au/news/2025-08-26/hume-council-votes-on-data-centres-energy-water-management-plan/105694556"
+   },
+   {
+    "para": 1,
+    "t": "Five data centres already inside Yarra Valley Water's catchment used 47.6 megalitres between them last year; the utility then received seven applications, one already approved near Mickleham for 3,940 megalitres a year, as much as 66,000 Melburnians use.",
+    "src": "https://www.abc.net.au/news/2025-08-26/hume-council-votes-on-data-centres-energy-water-management-plan/105694556"
+   },
+   {
+    "para": 1,
+    "t": "Greater Western Water is assessing 19 applications asking for 20 gigalitres between them, about what 330,000 people use.",
+    "src": "https://www.abc.net.au/news/2025-08-26/hume-council-votes-on-data-centres-energy-water-management-plan/105694556"
+   },
+   {
+    "para": 1,
+    "t": "Deputy mayor Naim Kurt called it \"a tidal wave or tsunami that is going to hit us in the next five years.\"",
+    "src": "https://www.abc.net.au/news/2025-08-26/hume-council-votes-on-data-centres-energy-water-management-plan/105694556"
+   },
+   {
+    "para": 2,
+    "t": "At least ten other data centre developments sit within 13 kilometres, including AirTrunk's and STACK's.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://cdc.com/locations/melbourne/",
+   "https://cdc.com/resources/news/cdc-brings-27bn-groundbreaking-opportunity-to-melbournes-south-west/",
+   "https://www.abc.net.au/news/2025-08-26/hume-council-votes-on-data-centres-energy-water-management-plan/105694556"
+  ],
+  "unconfirmed": "None of the Hume water applications has been tied to CDC in anything we could read."
+ },
+ {
+  "id": "gemini-cielo-des-moines",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Cielo Digital Infrastructure has proposed a 150 megawatt data center in Story County, Iowa, near Ames.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "Story County already has at least four other data center projects, including an operating Oracle campus and a 1,000 megawatt project from COPT Defense Properties, though that COPT project's coordinates appear to be misfiled and the reporting places it at Van Meter in Dallas County instead.",
+    "src": "https://www.businessrecord.com/breaking-maryland-data-center-developer-buys-farmland-in-van-meter/"
+   },
+   {
+    "para": 1,
+    "t": "Iowa is where the water arguments have been sharpest in the Midwest.",
+    "src": "https://www.iaagwater.org/data-centers-and-water-economic-growth-or-environmental-threat/"
+   },
+   {
+    "para": 1,
+    "t": "Meta's Altoona campus withdrew 64 million gallons in 2024 and can take up to 300,000 gallons on a hot day, which Altoona's utilities director Dan Scott puts at 15 to 20 percent of the city's supply at peak.",
+    "src": "https://www.iaagwater.org/data-centers-and-water-economic-growth-or-environmental-threat/"
+   },
+   {
+    "para": 1,
+    "t": "Google's Cedar Rapids project is estimated at just over 4 million gallons a day, against an industry average nearer 300,000.",
+    "src": "https://dailyiowan.com/2025/12/09/cedar-rapids-data-centers-ignite-concern-from-energy-advocates-excitement-from-officials/"
+   },
+   {
+    "para": 1,
+    "t": "Wally Taylor, legal chair of the Sierra Club in Iowa, said of the build out: \"There are a lot of unknowns that really need to be determined before we just jump blindly into thinking these data centers are a great thing.\"",
+    "src": "https://dailyiowan.com/2025/12/09/cedar-rapids-data-centers-ignite-concern-from-energy-advocates-excitement-from-officials/"
+   }
+  ],
+  "sources": [
+   "https://www.businessrecord.com/breaking-maryland-data-center-developer-buys-farmland-in-van-meter/",
+   "https://www.iaagwater.org/data-centers-and-water-economic-growth-or-environmental-threat/",
+   "https://dailyiowan.com/2025/12/09/cedar-rapids-data-centers-ignite-concern-from-energy-advocates-excitement-from-officials/"
+  ],
+  "unconfirmed": "Nothing comparable to the Altoona and Cedar Rapids water figures has been published about this project; the Iowa reporting above is context for where it would sit, not an account of it."
+ },
+ {
+  "id": "gemini-applied-digital-adair",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Applied Digital has proposed a 200 megawatt data center at 1247 Fallow Avenue in Greenfield, Adair County, Iowa.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The site sits among wind farms, with the 175 megawatt Adair Wind Farm about seven kilometers away and the 200 megawatt Eclipse Wind Farm about twelve.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "Applied Digital's pattern elsewhere is to build beside stranded wind power, as it does at Ellendale in North Dakota.",
+    "src": "https://www.jamestownsun.com/news/fargo/will-data-centers-increase-electrical-bills-water-use-and-noise-levels-in-north-dakota"
+   },
+   {
+    "para": 1,
+    "t": "Where it has drawn complaints, the issue has been noise.",
+    "src": "https://www.jamestownsun.com/news/fargo/will-data-centers-increase-electrical-bills-water-use-and-noise-levels-in-north-dakota"
+   },
+   {
+    "para": 1,
+    "t": "In Williston, North Dakota a different operator, Atlas Power, built 800 feet from occupied houses and left neighbors with a continuous 50 to 55 decibels against a rural night time background of 30 to 35; residents there have sued.",
+    "src": "https://www.jamestownsun.com/news/fargo/will-data-centers-increase-electrical-bills-water-use-and-noise-levels-in-north-dakota"
+   },
+   {
+    "para": 1,
+    "t": "Applied Digital has put a wall round its Ellendale site and uses silencing equipment and sound barriers, and at its Harwood site the nearest house is half a mile away, the distance at which the sound falls to about 40 decibels.",
+    "src": "https://www.jamestownsun.com/news/fargo/will-data-centers-increase-electrical-bills-water-use-and-noise-levels-in-north-dakota"
+   },
+   {
+    "para": 1,
+    "t": "The company's closed loop cooling is said, in a guide written for the state of North Dakota, to use less water than a single family home.",
+    "src": "https://www.jamestownsun.com/news/fargo/will-data-centers-increase-electrical-bills-water-use-and-noise-levels-in-north-dakota"
+   },
+   {
+    "para": 1,
+    "t": "None of that has been established for the Greenfield site, which has drawn no coverage at all.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://www.jamestownsun.com/news/fargo/will-data-centers-increase-electrical-bills-water-use-and-noise-levels-in-north-dakota"
+  ],
+  "unconfirmed": "Searches on Applied Digital with Adair County, on Greenfield Iowa with data center, and on Applied Digital with Iowa found no announcement, application, hearing record, timeline or resident comment for this project, and no confirmation of the 200 megawatt figure. The noise and water material above describes the company's North Dakota sites, not this one."
+ },
+ {
+  "id": "gemini-edged-energy-pottawattamie",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A 200 megawatt Edged Energy data center project is carried under the name Edged Energy Pottawattamie.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "The name points to Pottawattamie County in western Iowa, but the county field and the coordinates both place it in Story County, near Ames, about 250 kilometers away.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "It is the second entry in this county with that problem: COPT Defense Properties' 1,000 megawatt Van Meter project was filed under Story County too, where the reporting places it at Van Meter in Dallas County.",
+    "src": "https://www.businessrecord.com/breaking-maryland-data-center-developer-buys-farmland-in-van-meter/"
+   },
+   {
+    "para": 1,
+    "t": "Iowa passed a law in 2026 requiring data center developments to report their annual water use and energy demand to the state, which should in time make projects like this one easier to check.",
+    "src": "https://dailyiowan.com/2025/12/09/cedar-rapids-data-centers-ignite-concern-from-energy-advocates-excitement-from-officials/"
+   }
+  ],
+  "sources": [
+   "https://www.businessrecord.com/breaking-maryland-data-center-developer-buys-farmland-in-van-meter/",
+   "https://dailyiowan.com/2025/12/09/cedar-rapids-data-centers-ignite-concern-from-energy-advocates-excitement-from-officials/"
+  ],
+  "unconfirmed": "Three searches found nothing that settles which county is right, and no coverage of an Edged Energy project in either one."
+ },
+ {
+  "id": "research-wilderness-crossing",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "An undisclosed developer has proposed a 1,500 megawatt data center campus at VA-3 and VA-20 in Locust Grove, Orange County, Virginia, announced in 2025.",
+    "src": "data:developer"
+   },
+   {
+    "para": 0,
+    "t": "The project is planned within a 2,600 acre master plan, with about 732 acres set aside for data center buildings, and the first phase is expected to begin operating around 2027.",
+    "src": "https://www.blackridgeresearch.com/blog/upcoming-largest-data-center-projects-in-united-states-usa"
+   },
+   {
+    "para": 0,
+    "t": "At full build out the campus could hold up to 21 million square feet of data center space.",
+    "src": "https://www.blackridgeresearch.com/blog/upcoming-largest-data-center-projects-in-united-states-usa"
+   },
+   {
+    "para": 0,
+    "t": "Who is actually behind the project has not been made public.",
+    "src": "data:developer"
+   },
+   {
+    "para": 1,
+    "t": "The 1,500 megawatts the campus would draw is more than a tenth of the headroom left on the regional grid: PJM Interconnection, which serves Virginia and twelve other states, has 163,030 megawatts of capacity against a peak load of 144,530 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 1,
+    "t": "Orange County sits amid a wave of new data center restrictions in Virginia's Piedmont region: Warrenton banned data centers outright on July 1, 2025, and Culpeper, Fauquier and Prince William counties have all tightened zoning rules since 2023.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.blackridgeresearch.com/blog/upcoming-largest-data-center-projects-in-united-states-usa"
+  ],
+  "unconfirmed": "Could not find news coverage of a public hearing, vote or resident reaction specific to this project. The developer's identity is not disclosed in any source found."
+ },
+ {
+  "id": "research-starwood-plaza-500",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Starwood Capital Group's Plaza 500 data center is proposed for 6295 Edsall Road in the Bren Mar Park section of Fairfax County, just outside Alexandria.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Neighbors calling themselves Save Bren Mar got the project deferred indefinitely in November 2022, but Starwood resubmitted in February 2024 and the county board of supervisors granted initial approval that September.",
+    "src": "https://www.datacenterwatch.org/report"
+   },
+   {
+    "para": 0,
+    "t": "The fight now centers on power rather than the buildings themselves: Dominion Energy needs a new substation and transmission lines near the residential area to serve the site, and the Virginia State Corporation Commission held a hearing on that infrastructure on December 5, 2024, with further hearings set for January 2025.",
+    "src": "https://www.datacenterwatch.org/report"
+   },
+   {
+    "para": 0,
+    "t": "The project is estimated to cost $165 million.",
+    "src": "https://www.datacenterwatch.org/report"
+   },
+   {
+    "para": 1,
+    "t": "Building plans for the site were filed in July 2026, and as of the site's own record, residents are still fighting the substation.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Fairfax County already has at least 16 other data center projects.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterwatch.org/report"
+  ],
+  "unconfirmed": "Could not confirm whether the State Corporation Commission has ruled on the substation, or the project's status after July 2026."
+ },
+ {
+  "id": "research-amazon-warrenton",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon Web Services wants to build a 220,000 square foot data center campus on Blackwell Road in Warrenton, Fauquier County, on a 42-acre property it bought for $39 million.",
+    "src": "https://www.datacenterwatch.org/report"
+   },
+   {
+    "para": 0,
+    "t": "Fauquier County approved the project with 27 conditions, but Citizens for Fauquier County, a resident group, has filed lawsuits challenging the special use permit, alleging withheld emails, and contesting the appeals process.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "More than 500 residents packed a 2023 town council meeting, and nearly 130 people spoke against the project, including the actor Robert Duvall.",
+    "src": "https://www.datacenterwatch.org/report"
+   },
+   {
+    "para": 1,
+    "t": "Every council member who supported the project has since lost re-election, and by November 2024 voters had removed the last of them, leaving a council opposed to the development.",
+    "src": "https://www.datacenterwatch.org/report"
+   },
+   {
+    "para": 1,
+    "t": "A court has ordered at least a one-year delay in the case.",
+    "src": "https://www.datacenterwatch.org/report"
+   },
+   {
+    "para": 1,
+    "t": "The town of Warrenton has since gone further: on July 1, 2025, its council voted to ban data centers outright.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterwatch.org/report"
+  ],
+  "unconfirmed": "Could not confirm the current status of the three lawsuits or whether the court-ordered delay has run out as of September 2026."
+ },
+ {
+  "id": "research-blakely",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Jim Marzolino and Alpesh Patel asked to rezone 209 acres near Terrace Drive and Business Route 6 in Blakely, Lackawanna County, Pennsylvania, for four data center buildings, each about 70 feet tall and roughly 150,000 square feet.",
+    "src": "https://www.wnep.com/article/news/local/lackawanna-county/data-center-lackawanna-county-archbald-blakely-jessup-council-votes/523-627d1d15-f8e2-436e-be39-732ec3ee3b26"
+   },
+   {
+    "para": 0,
+    "t": "The campus would have needed an estimated 1.5 gigawatts, about what the nearby gas fired Lackawanna Energy Center produces in total, and up to 300,000 gallons of the town's water a day.",
+    "src": "https://www.bayjournal.com/pennsylvania-localities-feel-data-center-push-and-some-are-pushing-back/article_09db2a10-f46f-48d9-b03c-fd38fff2062c.html"
+   },
+   {
+    "para": 1,
+    "t": "Residents went door to door.",
+    "src": "https://www.wnep.com/article/news/local/lackawanna-county/data-center-lackawanna-county-archbald-blakely-jessup-council-votes/523-627d1d15-f8e2-436e-be39-732ec3ee3b26"
+   },
+   {
+    "para": 1,
+    "t": "They took a petition to all 30 homes that would have been affected and got every one but a single house to sign, and the petition gathered roughly 800 signatures in all.",
+    "src": "https://www.wnep.com/article/news/local/lackawanna-county/data-center-lackawanna-county-archbald-blakely-jessup-council-votes/523-627d1d15-f8e2-436e-be39-732ec3ee3b26"
+   },
+   {
+    "para": 1,
+    "t": "What they raised was noise, their health, the drain on local resources and what it would do to property values.",
+    "src": "https://www.wnep.com/article/news/local/lackawanna-county/data-center-lackawanna-county-archbald-blakely-jessup-council-votes/523-627d1d15-f8e2-436e-be39-732ec3ee3b26"
+   },
+   {
+    "para": 2,
+    "t": "On September 12, 2025, three days before the borough council was due to consider the rezoning, the developers' lawyer Michael Mey said the request was withdrawn, after borough officials declined to schedule another public information meeting at which revised options could be put.",
+    "src": "https://fox56.com/news/local/blakely-borough-data-center-plans-scrapped-amid-community-pushback-borough-responds"
+   },
+   {
+    "para": 2,
+    "t": "Borough manager Christopher Paone gave the residents the credit: \"They've been very active with signs and signatures. I give them a ton of credit.\"",
+    "src": "https://fox56.com/news/local/blakely-borough-data-center-plans-scrapped-amid-community-pushback-borough-responds"
+   },
+   {
+    "para": 3,
+    "t": "The developers said they would go ahead anyway with clearing trees and building a materials storage pad under existing permissions.",
+    "src": "https://fox56.com/news/local/blakely-borough-data-center-plans-scrapped-amid-community-pushback-borough-responds"
+   },
+   {
+    "para": 3,
+    "t": "Paone disputes that it is allowed: \"Clearing the land to store materials and equipment on is not a contractor's yard.\"",
+    "src": "https://fox56.com/news/local/blakely-borough-data-center-plans-scrapped-amid-community-pushback-borough-responds"
+   },
+   {
+    "para": 3,
+    "t": "Blakely Borough council later approved a zoning overlay for data centers after months of debate.",
+    "src": "https://fox56.com/news/local/blakely-borough-council-approves-zoning-overlay-for-data-centers-after-months-of-debate"
+   }
+  ],
+  "sources": [
+   "https://www.wnep.com/article/news/local/lackawanna-county/data-center-lackawanna-county-archbald-blakely-jessup-council-votes/523-627d1d15-f8e2-436e-be39-732ec3ee3b26",
+   "https://www.bayjournal.com/pennsylvania-localities-feel-data-center-push-and-some-are-pushing-back/article_09db2a10-f46f-48d9-b03c-fd38fff2062c.html",
+   "https://fox56.com/news/local/blakely-borough-data-center-plans-scrapped-amid-community-pushback-borough-responds",
+   "https://fox56.com/news/local/blakely-borough-council-approves-zoning-overlay-for-data-centers-after-months-of-debate"
+  ],
+  "unconfirmed": "No resident is quoted by name in the coverage we could read, and the date the zoning overlay was approved was not established. The WNEP and Bay Journal reports were read through search summaries rather than directly. This is Blakely in Pennsylvania, not the Blakely in Early County, Georgia, where QTS is planning a campus of up to 12 million square feet."
+ },
+ {
+  "id": "research-chandler-active-infrastructure",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Active Infrastructure wanted 40 acres near Queen Creek and Dobson roads in south Chandler, in Maricopa County, Arizona, for a five building tech park including a nine acre AI data center, at a cost of $2.5 billion.",
+    "src": "https://www.azfamily.com/2025/12/12/chandler-unanimously-votes-against-proposed-ai-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The area already has several data centers.",
+    "src": "https://www.azfamily.com/2025/12/12/chandler-unanimously-votes-against-proposed-ai-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The project was projected to use about 48,631 gallons of water a day, 17.75 million a year, in a state whose groundwater is falling and whose Colorado River allocation has been cut by about 30 percent.",
+    "src": "https://www.azfamily.com/2025/12/12/chandler-unanimously-votes-against-proposed-ai-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Opponents raised noise and energy use alongside the water.",
+    "src": "https://www.azfamily.com/2025/12/12/chandler-unanimously-votes-against-proposed-ai-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "At a planning and zoning commission meeting on October 15, former United States senator Kyrsten Sinema spoke in support, saying she was there on behalf of Active Infrastructure and was co-chair of the AI Infrastructure Coalition.",
+    "src": "https://www.calonews.com/arizona/article_c89b16b4-1b48-450b-936f-4704f32ce8e9.html"
+   },
+   {
+    "para": 2,
+    "t": "On December 11, 2025, after hours of public opposition, the city council voted 7 to 0 to deny the rezoning.",
+    "src": "https://www.azfamily.com/2025/12/12/chandler-unanimously-votes-against-proposed-ai-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Chandler has had a data center zoning ordinance since January 5, 2023, which confines them to planned area development zoning, requires residents to be notified and a baseline sound study taken, mandates annual sound monitoring for five years and restricts generator testing.",
+    "src": "https://servercountry.org/policy/arizona/"
+   },
+   {
+    "para": 3,
+    "t": "Maricopa County has at least 40 other data center projects.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "On August 31, 2026 Arizona's attorney general Kris Mayes asked the legislature and the governor to stop approving new data centers altogether: \"Data centers are power- and water-intensive, and Arizona is challenged on both fronts right now.\"",
+    "src": "https://www.azfamily.com/2026/08/31/ag-mayes-calls-statewide-pause-new-data-center-construction/"
+   }
+  ],
+  "sources": [
+   "https://www.azfamily.com/2025/12/12/chandler-unanimously-votes-against-proposed-ai-data-center/",
+   "https://www.calonews.com/arizona/article_c89b16b4-1b48-450b-936f-4704f32ce8e9.html",
+   "https://servercountry.org/policy/arizona/",
+   "https://www.azfamily.com/2026/08/31/ag-mayes-calls-statewide-pause-new-data-center-construction/"
+  ],
+  "unconfirmed": "Our record gives the site as South Price Road and West Dobson Road; the local coverage gives Queen Creek and Dobson roads, and the two were not reconciled. No resident is quoted by name in the reports we could read, and the year of the October 15 planning commission meeting is not stated in the source, though the December 11, 2025 council vote places it in 2025."
+ },
+ {
+  "id": "research-google-franklin-township",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google wanted 468 acres of farmland in Franklin Township, in Marion County on the southeast side of Indianapolis, near the Interstate 74 and South Post Road interchange, for a data center of up to four server buildings, a project costed at about $1 billion.",
+    "src": "https://mirrorindy.org/google-data-center-indianapolis-protect-franklin-township-council-vote-september-2025/"
+   },
+   {
+    "para": 0,
+    "t": "It would have created about 50 jobs, at minimum salaries around $100,000.",
+    "src": "https://mirrorindy.org/google-data-center-indianapolis-protect-franklin-township-council-vote-september-2025/"
+   },
+   {
+    "para": 1,
+    "t": "Residents organized as Protect Franklin Township, put signs up across the area and protested outside the City-County Building for months.",
+    "src": "https://mirrorindy.org/google-data-center-indianapolis-protect-franklin-township-council-vote-september-2025/"
+   },
+   {
+    "para": 1,
+    "t": "What they raised was the effect on everyone's utility bills, the water the campus would use, tax abatements for a trillion dollar company, too few jobs, and how little Google had told them.",
+    "src": "https://mirrorindy.org/google-data-center-indianapolis-protect-franklin-township-council-vote-september-2025/"
+   },
+   {
+    "para": 1,
+    "t": "Brittany York, one of the group's leaders, said after a mediation meeting on September 17, 2025: \"They want to make this work, but I don't think they're willing to do the major things that would be needed to get anywhere.\"",
+    "src": "https://mirrorindy.org/google-data-center-indianapolis-protect-franklin-township-council-vote-september-2025/"
+   },
+   {
+    "para": 2,
+    "t": "The school board changed its mind, and the council did not follow.",
+    "src": "https://www.wfyi.org/news/articles/indianapolis-google-data-center-franklin-township-school"
+   },
+   {
+    "para": 2,
+    "t": "Franklin Township Community School Corporation had opposed the project in early August; days before the vote it reversed, its superintendent Chase Huotari saying an agreement with the city and Google would send fair property tax revenue to the schools.",
+    "src": "https://www.wfyi.org/news/articles/indianapolis-google-data-center-franklin-township-school"
+   },
+   {
+    "para": 2,
+    "t": "Republican councillor Michael-Paul Hart, who represents the area, was among the first to oppose it publicly, and by the time of the vote 17 councillors from both parties were against.",
+    "src": "https://mirrorindy.org/google-data-center-indianapolis-protect-franklin-township-council-vote-september-2025/"
+   },
+   {
+    "para": 2,
+    "t": "On September 22, 2025, minutes before the City-County Council was due to vote, Google withdrew the rezoning proposal.",
+    "src": "https://fox59.com/news/google-withdraws-franklin-township-rezoning-proposal-future-of-potential-data-center-uncertain/"
+   }
+  ],
+  "sources": [
+   "https://mirrorindy.org/google-data-center-indianapolis-protect-franklin-township-council-vote-september-2025/",
+   "https://www.wfyi.org/news/articles/indianapolis-google-data-center-franklin-township-school",
+   "https://fox59.com/news/google-withdraws-franklin-township-rezoning-proposal-future-of-potential-data-center-uncertain/"
+  ],
+  "unconfirmed": "Our record used to say the council approved the rezoning. It did not: Google withdrew it minutes before the vote, and the future of the site is uncertain."
+ }
+]

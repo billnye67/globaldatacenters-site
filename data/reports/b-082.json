@@ -1,0 +1,622 @@
+[
+ {
+  "id": "ft-1780317709189-8508",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A township meeting ended with police carrying a speaker out, and days later the township banned data centers outright.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The site is about 97 acres at 248 Stickles Pond Road in Sussex County, the old Newton airport, which closed in 2013.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Andover Township announced it would ban all data centers after that meeting, and when the ban passed the room gave it a standing ovation.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The record dates the Andover ban to May 28, 2026 and marks it as litigated.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Six more bans followed within reach of this site: Green Township on June 10, Warren Township on June 19, Roselle Park on June 24, Sparta Township on June 29 and Hardyston Township on July 6, after Phillipsburg had gone first on April 14.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "All seven are bans rather than pauses.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "What residents objected to was the ordinary list.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Across New Jersey the complaints have been electricity, water for cooling and constant noise, and Sussex County was no different.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded as cancelled on 97 acres, with no developer, no capacity and no cost.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "No megawatt figure was ever published.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 4,
+    "t": "This is the only data center site recorded in Sussex County, and the nearest others are across the Delaware in Pennsylvania, 31 and 33 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generator is the 416 megawatt Yards Creek pumped storage plant 23 kilometres off, with the 1,700 megawatt Martins Creek gas plant at 39.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "All three of our record's sources returned errors or could not be fetched, including the NJ.com account and the MSN syndication, so no source url is listed and each sentence is attributed to our record's source list. As a result no resident or township official is quoted, and the developer is never named. The exact date of the meeting at which police removed a speaker, and the date the ban was adopted as against our record's May 28, could not be pinned down. The site is described in different accounts as Newton Airport, Jump Airport and Aeroflex-Andover Airport; our record gives the address as Newton, while the township that acted is Andover."
+ },
+ {
+  "id": "ft-363",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The alternative to this one was a truck depot.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Prism Capital Partners has approval for a data center on an 11 acre parcel at Kingsland Street and Cathedral Avenue in Nutley, in Essex County, inside its ON3 campus, after withdrawing an earlier plan for a truck depot on the same land following community objection.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "ON3 is 116 acres of the former Hoffmann-La Roche pharmaceutical complex, straddling Nutley and Clifton, already occupied by the Hackensack Meridian School of Medicine, Ralph Lauren and Quest Diagnostics, and served by a 10 megawatt combined heat and power plant.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The data center approval came as one of three redevelopment approvals, alongside up to 1,074 flats, 90,000 square feet of shops and restaurants and a 150,000 square foot life sciences building.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded as proposed on 11 acres, with no capacity, no cost and no developer field filled in.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "No megawatt figure has been published, which for a building going into an existing campus with its own generation is the number that would tell you whether it is an edge site or something larger.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "It would go into the densest interconnection cluster in the country.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Ten other recorded data center sites sit within 18 kilometres, including Digital Realty's Clifton buildings two kilometres away, Equinix's Secaucus campus at nine, and the Manhattan carrier hotels at 60 Hudson Street and 375 Pearl Street at 17 and 18.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "Nine New Jersey municipalities within reach have banned data centers outright on record, from Andover Township on May 28, 2026 through to Bayonne on August 14.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "Nutley is not among them.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The 1,255 megawatt Bergen generating station is 11 kilometres away and the 705 megawatt Newark Energy Center 14.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Everything found came from the developer's own press release, trade press and real estate outlets; the Data Center Dynamics report in our record is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. The date of the approval is not established. No resident or township official is quoted, and what the community objection to the truck depot was, or whether the same residents have views on a data center, could not be established. No power or water figure exists."
+ },
+ {
+  "id": "ft-365",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "bigbyte.cc Corp runs a data center at 123 Central Avenue Northwest in downtown Albuquerque, in Bernalillo County, and the record holds it with no source at all.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Directory listings give it about 62,000 square feet with 15,000 square feet of raised floor and around three megawatts of power, with UPS in 2N+1 and generators and cooling in N+1.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The company was founded in 2001, is based in Albuquerque and describes itself as a New Mexican woman-owned small business.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Three data center buildings sit within a kilometre of each other in downtown Albuquerque, and the record holds all three with no sources.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The others are Centersquare's building at 400 Tijeras Avenue Northwest, formerly Cyxtera, and H5's carrier hotel at 505 Marquette Avenue Northwest.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Meta's operating Los Lunas campus, at 87 megawatts, is 31 kilometres south.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The number that matters here is the size of the grid.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 2,
+    "t": "The Public Service Company of New Mexico control area peaks at 2,665 megawatts, which is a fiftieth of PJM on the east coast.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generators are the 141 megawatt Rio Bravo and 146 megawatt Reeves gas plants, seven and 11 kilometres away, with a 300 megawatt solar farm and a 300 megawatt battery installation at Atrisco, 22 and 27 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "No jurisdiction anywhere near here has adopted a data center moratorium, ban or zoning limit on record.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "For a building with a published square footage and a published megawatt figure, the record holds remarkably little: operating, and nothing else.",
+    "src": "data:status"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Our record carries no source for this entry at all, which is itself worth recording. Everything above about the building comes from directory listings and the operator's own pages surfaced in search, so no source url is listed and each sentence is attributed to our record's source list. No water figure is published and how much of the three megawatts is in use is not clear. No local reporting about this building was found, and no objection to it."
+ },
+ {
+  "id": "ft-366",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This building has changed hands and changed names, and the record holds it with no source at all.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The data center at 400 Tijeras Avenue Northwest in downtown Albuquerque, in Bernalillo County, was Cyxtera's ABQ1 until the company was acquired and rebranded as Centersquare in April 2024.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Directory listings give it six megawatts of both utility and generator power, with Energy Star certification.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "It stands within a kilometre of the other two downtown buildings on record, bigbyte.cc at 123 Central Avenue Northwest and H5's carrier hotel at 505 Marquette Avenue Northwest.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "All three are recorded as operating, and all three carry no source.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "What makes New Mexico different from the places most of this record covers is the size of the system.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 2,
+    "t": "The Public Service Company of New Mexico control area peaks at 2,665 megawatts on record.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 2,
+    "t": "Two projects elsewhere in the state that the record holds, the 7 gigawatt New Era proposal in Lea County and Zenith's 1.24 gigawatt scheme near Roswell, are each larger than that whole system, which is why both plan to generate their own power.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "Nothing of that scale is proposed downtown.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generators are the 141 megawatt Rio Bravo gas plant seven kilometres away and the 146 megawatt Reeves plant at ten, with Atrisco's 300 megawatt solar farm and 300 megawatt battery installation at 22 and 27 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "No jurisdiction near here carries a data center moratorium, ban or zoning limit on record, and the record lists this building as operating with no capacity, acreage, cost or developer.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Our record carries no source for this entry. The six megawatt figure and the Cyxtera history come from directory listings and market summaries surfaced in search, not from reporting, so no source url is listed. No water figure exists, and the building's tenants are not known. No local reporting about it was found. The Roswell and Lea County comparison is drawn from other entries in our own record rather than from a source about this building."
+ },
+ {
+  "id": "ft-367",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is the one the others connect to.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "505 Marquette Avenue Northwest is a carrier hotel and office building of about 225,000 square feet in downtown Albuquerque, in Bernalillo County, bought by H5 Data Centers in June 2022.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "H5 describes an Albuquerque campus of 225,000 square feet of Tier III carrier-neutral colocation across two buildings, with 25 carriers on net, 2N uninterruptible power and 48 hours of diesel backup.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "A carrier hotel is where networks meet rather than where large-scale computing happens, which is why no megawatt figure appears on record or in the company's public material.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The record holds three downtown Albuquerque buildings within a kilometre of each other, and none of them has a source attached.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The others are Centersquare at 400 Tijeras Avenue Northwest and bigbyte.cc at 123 Central Avenue Northwest.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Meta's operating campus at Los Lunas, 87 megawatts, is 31 kilometres south, and is the only large computing site on record anywhere near the city.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The state has no local rules on any of this.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "No jurisdiction within reach of Albuquerque has adopted a data center moratorium, ban or zoning limit on record, and nor has anywhere else in New Mexico that the record holds.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The grid is small: the Public Service Company of New Mexico control area peaks at 2,665 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generators are the 141 megawatt Rio Bravo and 146 megawatt Reeves gas plants at seven and ten kilometres, then the 300 megawatt Atrisco solar farm at 22 and a 300 megawatt battery installation at 27.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "A carrier hotel is the one kind of entry for which a blank capacity field is the honest answer, and that is what the record has here.",
+    "src": "data:status"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Our record carries no source for this entry. The square footage, the June 2022 acquisition, the carrier count and the power arrangements come from H5's own pages and directory listings surfaced in search, so no source url is listed and each sentence is attributed to our record's source list. No load figure or water figure is published. No local reporting about the building was found, and no objection to it. H5 describes a campus of two buildings in Albuquerque; which second building it means, and whether it is one of the other two entries in our record, could not be established."
+ },
+ {
+  "id": "ft-368",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The entry at 320 North Shipp Street in Hobbs, in Lea County, is an operating data center recorded on the strength of an estate agent's listing and nothing else.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The listing is a JLL page advertising an eight asset Switch portfolio, which points to a building being sold rather than a project being built.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Searches for that address return a Windstream data center, not a Switch one, and nothing that confirms who operates it now.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "What is happening in Lea County is happening elsewhere in the county, not at this address.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "New Era Energy and Digital has taken an option on 3,500 acres 34 kilometres away for a campus of up to seven gigawatts, to be powered by more than two gigawatts of gas and a planned five gigawatts or more of nuclear, with first power targeted for 2028.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Google has also been reported as considering a site about five miles west of Hobbs.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The oil country around Hobbs already generates heavily.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The 188 megawatt Maddox plant is 15 kilometres away, the 578 megawatt Hobbs generating station 16 kilometres, the 390 megawatt Cunningham plant 20, and the 161 megawatt Jumbo Hill wind farm 39.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "This corner of the state sits in the Southwest Power Pool rather than on New Mexico's own small grid, which is part of why the very large proposals have landed here.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 3,
+    "t": "No jurisdiction anywhere near Hobbs has adopted a data center moratorium, ban or zoning limit on record.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "Operating is all the record will commit to, and on this evidence even that is a guess.",
+    "src": "data:status"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Nothing found confirms a Switch data center at 320 North Shipp Street; the address returns a Windstream facility in listings, and the JLL portfolio page in our record was not opened. The building's size, power, age and current operator are all unknown. The Google report is a local television item found in search and not read, and is described as a report rather than as fact. Whether the eight asset Switch portfolio includes this building at all could not be established."
+ },
+ {
+  "id": "ft-1116",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Seven gigawatts is more than twice the peak load of the whole Public Service Company of New Mexico system, which is why this one proposes to build its own nuclear plant.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "New Era Energy and Digital has taken an option to buy about 3,500 acres in Lea County, New Mexico, for a data center campus of up to seven gigawatts, expecting to support more than two gigawatts of natural gas generation alongside a planned five gigawatts or more of nuclear.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Gas supply is confirmed; the nuclear technology has not been chosen, and it is not clear whether the company means small modular reactors or conventional ones.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "First power is targeted for 2028.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The company says it picked Lea County for its gas transmission lines, existing power infrastructure, water, skilled labour and fibre, and plans to offer powered shell buildings and powered land leases rather than operate the computing itself.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "It describes this as its first wholly owned project, separate from its Texas Critical Data Centers joint venture.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "A land option is not land, and a plan for five gigawatts of nuclear with no reactor chosen is not a nuclear plant.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The record marks the entry at low confidence, and gives the location only as \"near powerlines and energy sources, Lea County\".",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "The coordinates should not be read as a parcel.",
+    "src": "data:address"
+   },
+   {
+    "para": 3,
+    "t": "The country around it already generates.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The 390 megawatt Cunningham plant is 20 kilometres away, the 578 megawatt Hobbs generating station the same distance, the 188 megawatt Maddox plant 22 kilometres and the 250 megawatt Oso Grande wind farm 23.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Together those four make about 1.4 gigawatts, a fifth of what this campus would draw.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "No jurisdiction anywhere near here has adopted a data center moratorium, ban or zoning limit on record.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The operating building at Hobbs, 34 kilometres away, is the only other data center site the record holds within 40.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Everything found came from the company's own announcement, wire copy and trade press; the Data Center Dynamics report in our record is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. No county filing, zoning application or environmental review has been found. No water figure has been published, which for a campus of this size in this part of New Mexico is the most serious gap. No local resident or official has been quoted anywhere, and our record marks pushback as unknown. Whether the option has been exercised is unknown."
+ },
+ {
+  "id": "ft-370",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Chaves County approved this one, and the approval came with a power plan attached.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Zenith Volts obtained approval from the Chaves County Commission for a 300 acre data center about 20 miles south of Roswell, designed to support 1.24 gigawatts or more.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The wider site is described as 8,500 acres, to include on-site solar, natural gas generators for backup, modular solar-thermal hybrid systems, a battery storage installation covering 250 acres and geothermal cooling.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The company says it will be fully operational by November 2027, with 140 permanent high technology jobs and up to 900 construction jobs.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The scale is the thing to hold onto.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 2,
+    "t": "The Public Service Company of New Mexico control area peaks at 2,665 megawatts on record, so this one campus at 1.24 gigawatts would be nearly half of it.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generators are two 70 megawatt solar farms ten kilometres away, then nothing until a 120 megawatt wind farm at 90 kilometres and the 250 megawatt Oso Grande wind farm at 96.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "There is no existing generation anywhere near the site remotely equal to the load, which is why the plan carries its own.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded at 1,240 megawatts on 300 acres, proposed, at medium confidence, with the location given only as Roswell and no street address.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "No jurisdiction anywhere near here has adopted a data center moratorium, ban or zoning limit on record, and there is no other data center site within 40 kilometres.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "Pushback is marked as unknown.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 4,
+    "t": "No published account describes any resident objection, and none describes a public hearing either.",
+    "src": "data:sources"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Everything found came from the company's own press release, wire copy and trade press, plus an Albuquerque Journal item and a county announcement that were not read; the Data Center Dynamics report in our record is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. The date of the county commission's approval is not established. The acreage figures do not sit together easily: 300 acres for the data center within an 8,500 acre site, with 250 acres of that given to batteries. No water figure has been published, and geothermal cooling is asserted without detail. Whether the company has the finance or the equipment to build 1.24 gigawatts by November 2027 is not addressed anywhere that was found."
+ },
+ {
+  "id": "ft-1775096275548-3508",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The developer stopped asking Boulder City and went to the federal government instead.",
+    "src": "https://www.bcnv.org/1174/TS2-Data-Center-Proposal-Withdrawn-76202"
+   },
+   {
+    "para": 0,
+    "t": "Townsite Solar 2 had an option on about 88.5 acres of city-owned desert south of I-11 and west of US 95 at Boulder City, in Clark County, for a data center in two warehouse-type buildings of servers drawing a peak of 167 megawatts.",
+    "src": "https://www.bcnv.org/1174/TS2-Data-Center-Proposal-Withdrawn-76202"
+   },
+   {
+    "para": 0,
+    "t": "The city put the gain at about $1.46 million a year in additional lease revenue against $611,000 for solar and battery storage on the same land, with 200 to 300 jobs during construction and testing and 25 to 40 permanent technical posts paying over $100,000 with benefits.",
+    "src": "https://www.bcnv.org/1174/TS2-Data-Center-Proposal-Withdrawn-76202"
+   },
+   {
+    "para": 0,
+    "t": "Land lease revenue makes up more than 35 percent of Boulder City's operating budget, paying for the fire service, police and parks.",
+    "src": "https://www.bcnv.org/1174/TS2-Data-Center-Proposal-Withdrawn-76202"
+   },
+   {
+    "para": 1,
+    "t": "The proposal was withdrawn on July 6, 2026.",
+    "src": "https://www.bcnv.org/1174/TS2-Data-Center-Proposal-Withdrawn-76202"
+   },
+   {
+    "para": 1,
+    "t": "The city framed the question as whether it should keep local control and lease its own land, noting that several other landowners had expressed interest, and even intent, in building in the Eldorado Valley on ground it does not own, including federal parcels and land Henderson annexed in 2023 and zoned general industrial.",
+    "src": "https://www.bcnv.org/1174/TS2-Data-Center-Proposal-Withdrawn-76202"
+   },
+   {
+    "para": 2,
+    "t": "That is what happened next.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "On June 26, 2026 the Bureau of Land Management approved a data center on 88.5 acres of federal land in the Eldorado Valley, the first commercial AI data center approved on public land in the United States.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "It did so without a new environmental assessment and without taking public comment, relying instead on the earlier analysis done for Townsite Solar 2, the solar and battery project the same Houston company had proposed on the same ground.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "Boulder City voted unanimously to appeal.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The Center for Biological Diversity and the Sierra Club filed an appeal to the Interior Board of Land Appeals asking for a stay, arguing the bureau had breached the National Environmental Policy Act, the Federal Land Policy and Management Act and the Endangered Species Act.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The land is habitat for the threatened Mojave desert tortoise, and for the southwestern willow flycatcher, the yellow-billed cuckoo and Ridgway's rail.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "The entry stands at 170 megawatts on 88 acres, suspended, and holds a change.org petition against data centers in Boulder City.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "It also carries a second entry, Townsite Solar 2 at Boulder City and Eldorado Valley, marked blocked at 70 megawatts, 19 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 5,
+    "t": "The land around it is already covered in solar.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 5,
+    "t": "The 250 megawatt Townsite solar hybrid project is three kilometres away, Techren Solar V at 50 megawatts six kilometres, Copper Mountain Solar 3 at 255 megawatts eight kilometres, and Techren Solar II at 200 megawatts ten.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 5,
+    "t": "Google has an operating campus at Henderson 15 kilometres away and Switch two Las Vegas campuses nearby; five other data center sites on record sit within 38 kilometres of this desert parcel.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.bcnv.org/1174/TS2-Data-Center-Proposal-Withdrawn-76202"
+  ],
+  "unconfirmed": "The page had the lease revenue at about $2.6 million a year; the city's own notice gives approximately $1.46 million in additional revenue, against $611,000 for solar and battery storage, and the $2.6 million could not be traced. The Bureau of Land Management approval of June 26, 2026, the absence of a new environmental assessment and the city's unanimous vote to appeal come from our record's other sources, which were not fetched. No resident or council member is quoted. No water figure has been published. What became of the appeal is unknown."
+ }
+]

@@ -1,0 +1,233 @@
+{
+  "samples": [
+    {
+      "pass": 0,
+      "level": 1,
+      "ms": 11
+    },
+    {
+      "pass": 0,
+      "level": 2,
+      "ms": 3.3
+    },
+    {
+      "pass": 0,
+      "level": 3,
+      "ms": 1.6
+    },
+    {
+      "pass": 0,
+      "level": 4,
+      "ms": 3.1
+    },
+    {
+      "pass": 0,
+      "level": 5,
+      "ms": 14.9
+    },
+    {
+      "pass": 0,
+      "level": 6,
+      "ms": 7.8
+    },
+    {
+      "pass": 0,
+      "level": 7,
+      "ms": 7.2
+    },
+    {
+      "pass": 0,
+      "level": 8,
+      "ms": 6.8
+    },
+    {
+      "pass": 0,
+      "level": 9,
+      "ms": 4.1
+    },
+    {
+      "pass": 0,
+      "level": 10,
+      "ms": 3.5
+    },
+    {
+      "pass": 0,
+      "level": 11,
+      "ms": 3.1
+    },
+    {
+      "pass": 0,
+      "level": 12,
+      "ms": 2.9
+    },
+    {
+      "pass": 0,
+      "level": 13,
+      "ms": 4.3
+    },
+    {
+      "pass": 1,
+      "level": 1,
+      "ms": 3.2
+    },
+    {
+      "pass": 1,
+      "level": 2,
+      "ms": 1.4
+    },
+    {
+      "pass": 1,
+      "level": 3,
+      "ms": 2.2
+    },
+    {
+      "pass": 1,
+      "level": 4,
+      "ms": 6.9
+    },
+    {
+      "pass": 1,
+      "level": 5,
+      "ms": 11.5
+    },
+    {
+      "pass": 1,
+      "level": 6,
+      "ms": 4
+    },
+    {
+      "pass": 1,
+      "level": 7,
+      "ms": 3.2
+    },
+    {
+      "pass": 1,
+      "level": 8,
+      "ms": 2.7
+    },
+    {
+      "pass": 1,
+      "level": 9,
+      "ms": 2.7
+    },
+    {
+      "pass": 1,
+      "level": 10,
+      "ms": 2.5
+    },
+    {
+      "pass": 1,
+      "level": 11,
+      "ms": 2.2
+    },
+    {
+      "pass": 1,
+      "level": 12,
+      "ms": 2.2
+    },
+    {
+      "pass": 1,
+      "level": 13,
+      "ms": 1.6
+    }
+  ],
+  "top": [
+    {
+      "ms": 4683.2,
+      "name": "(idle)",
+      "file": ""
+    },
+    {
+      "ms": 1208.6,
+      "name": "(program)",
+      "file": ""
+    },
+    {
+      "ms": 20,
+      "name": "wa",
+      "file": "globe.gl.js"
+    },
+    {
+      "ms": 16.3,
+      "name": "createElementNS",
+      "file": ""
+    },
+    {
+      "ms": 16.1,
+      "name": "_i",
+      "file": "globe.gl.js"
+    },
+    {
+      "ms": 15.6,
+      "name": "(garbage collector)",
+      "file": ""
+    },
+    {
+      "ms": 14.5,
+      "name": "h",
+      "file": "globe.gl.js"
+    },
+    {
+      "ms": 14.1,
+      "name": "buildTile",
+      "file": "globe.gl.js"
+    },
+    {
+      "ms": 12.4,
+      "name": "selectTiles",
+      "file": "risk-render-budget.js"
+    },
+    {
+      "ms": 10.9,
+      "name": "flush",
+      "file": "risk-render-budget.js"
+    },
+    {
+      "ms": 10.9,
+      "name": "RA.h.domain",
+      "file": "globe.gl.js"
+    },
+    {
+      "ms": 9.4,
+      "name": "",
+      "file": "globe.gl.js"
+    },
+    {
+      "ms": 9.3,
+      "name": "Ua",
+      "file": "globe.gl.js"
+    },
+    {
+      "ms": 8,
+      "name": "Zr",
+      "file": "globe.gl.js"
+    },
+    {
+      "ms": 6.8,
+      "name": "",
+      "file": "globe.gl.js"
+    },
+    {
+      "ms": 6.3,
+      "name": "selectTiles",
+      "file": "risk-render-budget.js"
+    },
+    {
+      "ms": 6.3,
+      "name": "_m",
+      "file": "globe.gl.js"
+    },
+    {
+      "ms": 6.2,
+      "name": "gr",
+      "file": "globe.gl.js"
+    }
+  ],
+  "budget": {
+    "built": 520,
+    "uploaded": 0,
+    "cancelled": 66,
+    "maxBatchMs": 11.199999928474426,
+    "batches": 142
+  }
+}

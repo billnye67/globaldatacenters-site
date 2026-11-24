@@ -1,0 +1,515 @@
+[
+ {
+  "id": "gemini-google-london",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's London data centre is at Waltham Cross in Hertfordshire, on a 33 acre site just north of the M25, and was formally opened in September 2025 by the chancellor Rachel Reeves as part of a two year £5 billion investment in the UK.",
+    "src": "https://www.newcivilengineer.com/latest/google-opens-waltham-cross-data-centre-as-part-of-5bn-uk-investment-17-09-2025/"
+   },
+   {
+    "para": 0,
+    "t": "It is expected to provide up to 77 megawatts of IT capacity.",
+    "src": "https://www.newcivilengineer.com/latest/google-opens-waltham-cross-data-centre-as-part-of-5bn-uk-investment-17-09-2025/"
+   },
+   {
+    "para": 1,
+    "t": "The people living next to it are not happy with it.",
+    "src": "https://www.thecooldown.com/green-tech/google-datacenter-waltham-cross-backlash/"
+   },
+   {
+    "para": 1,
+    "t": "At a meeting at the local council offices where Google invited neighbours to ask questions, residents described a distinct low hum from the site, particularly in the evening, and lighting shining into bedrooms through the night.",
+    "src": "https://www.thecooldown.com/green-tech/google-datacenter-waltham-cross-backlash/"
+   },
+   {
+    "para": 1,
+    "t": "They raised the heat these buildings give off, the water they use, and house prices; one resident said the facility was already damaging local house prices and asked whether Google would buy his home.",
+    "src": "https://www.thecooldown.com/green-tech/google-datacenter-waltham-cross-backlash/"
+   },
+   {
+    "para": 1,
+    "t": "They said communication had been poor and that the consultation before approval was not good enough.",
+    "src": "https://www.thecooldown.com/green-tech/google-datacenter-waltham-cross-backlash/"
+   },
+   {
+    "para": 2,
+    "t": "Google's answer on water was that consumption is \"not a concern,\" because the building uses a closed loop chiller system and air cooling that hold water use down to domestic levels.",
+    "src": "https://www.thecooldown.com/green-tech/google-datacenter-waltham-cross-backlash/"
+   },
+   {
+    "para": 2,
+    "t": "It said its UK operations would run close to 95 percent carbon free in 2026 and pointed to a carbon deal with Shell.",
+    "src": "https://www.thecooldown.com/green-tech/google-datacenter-waltham-cross-backlash/"
+   },
+   {
+    "para": 2,
+    "t": "The site is equipped for off site heat recovery, so waste heat can be sent free of charge to warm homes, schools or businesses nearby.",
+    "src": "https://www.googlecloudpresscorner.com/2025-09-16-Google-Opens-Waltham-Cross-Data-Centre-as-Part-of-Two-year-GBP5-Billion-Investment-in-the-UK-to-Help-Power-its-AI-Economy"
+   }
+  ],
+  "sources": [
+   "https://www.newcivilengineer.com/latest/google-opens-waltham-cross-data-centre-as-part-of-5bn-uk-investment-17-09-2025/",
+   "https://www.thecooldown.com/green-tech/google-datacenter-waltham-cross-backlash/",
+   "https://www.googlecloudpresscorner.com/2025-09-16-Google-Opens-Waltham-Cross-Data-Centre-as-Part-of-Two-year-GBP5-Billion-Investment-in-the-UK-to-Help-Power-its-AI-Economy"
+  ],
+  "unconfirmed": "No resident or Google representative at the public meeting is named in the account we could read, and the date of that meeting is not given; the report carrying it is dated July 28, 2026. No water withdrawal figure, planning application reference or council decision was found, and it is not established whether the off site heat recovery scheme has actually started."
+ },
+ {
+  "id": "gemini-google-los-angeles",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google Cloud's Los Angeles region, us-west2, opened in July 2018 across three data centres, aimed at the area's film and television industry and promising latency improvements of up to 80 percent for users in northern California and the south west against the nearest previous region at The Dalles, Oregon.",
+    "src": "https://cloud.google.com/blog/products/infrastructure/our-los-angeles-cloud-region-open-for-business"
+   },
+   {
+    "para": 0,
+    "t": "Google has not published the location, capacity, water use or power draw of the buildings themselves.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "The argument about data centres in Los Angeles County is happening around newer proposals, not this one.",
+    "src": "https://lapublicpress.org/2026/01/a-data-center-boom-is-coming-to-the-san-gabriel-valley-residents-had-no-idea/"
+   },
+   {
+    "para": 1,
+    "t": "In January 2026 the LA Public Press reported a wave of applications across the San Gabriel Valley that residents had not been told about, including a single facility in Monterey Park that would use more electricity than the whole city.",
+    "src": "https://lapublicpress.org/2026/01/a-data-center-boom-is-coming-to-the-san-gabriel-valley-residents-had-no-idea/"
+   },
+   {
+    "para": 1,
+    "t": "Those are other companies' projects, and nothing ties them to Google's region.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://cloud.google.com/blog/products/infrastructure/our-los-angeles-cloud-region-open-for-business",
+   "https://lapublicpress.org/2026/01/a-data-center-boom-is-coming-to-the-san-gabriel-valley-residents-had-no-idea/"
+  ],
+  "unconfirmed": "Searches on Los Angeles with Google data center, on Los Angeles County with data center water, and on the San Gabriel Valley with data centers found no address, acreage, capacity, water figure or employment number for Google's Los Angeles buildings, and no hearing record or resident comment naming them. The LA Public Press report could not be fetched directly and is summarised here from search results, so no quote from it is used."
+ },
+ {
+  "id": "gemini-google-madrid",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google opened its Madrid cloud data centre region in 2022.",
+    "src": "https://amwaj-alliance.com/tayyarat/data-centres-spains-digital-boom-meets-environmental-limits/"
+   },
+   {
+    "para": 0,
+    "t": "Since then Spain has become one of Europe's preferred places to build, on the strength of its position, fibre and renewable generation, and demand has concentrated in a few nodes: Madrid, Aragon and Valencia.",
+    "src": "https://amwaj-alliance.com/tayyarat/data-centres-spains-digital-boom-meets-environmental-limits/"
+   },
+   {
+    "para": 0,
+    "t": "More than 80 percent of those nodes are saturated, and grid reinforcements take years.",
+    "src": "https://amwaj-alliance.com/tayyarat/data-centres-spains-digital-boom-meets-environmental-limits/"
+   },
+   {
+    "para": 1,
+    "t": "Water is the other constraint.",
+    "src": "https://amwaj-alliance.com/tayyarat/data-centres-spains-digital-boom-meets-environmental-limits/"
+   },
+   {
+    "para": 1,
+    "t": "Madrid and central Spain account for about 57 percent of the country's data centre water consumption, and scarcity surcharges have turned water efficiency from an option into a requirement.",
+    "src": "https://www.mordorintelligence.com/industry-reports/spain-data-center-water-consumption-market"
+   },
+   {
+    "para": 1,
+    "t": "Spain is processing a royal decree that would require any centre with demand above 500 kilowatts to report its energy and water consumption.",
+    "src": "https://amwaj-alliance.com/tayyarat/data-centres-spains-digital-boom-meets-environmental-limits/"
+   },
+   {
+    "para": 1,
+    "t": "Until that is in force, no figure exists for this site.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://amwaj-alliance.com/tayyarat/data-centres-spains-digital-boom-meets-environmental-limits/",
+   "https://www.mordorintelligence.com/industry-reports/spain-data-center-water-consumption-market"
+  ],
+  "unconfirmed": "Searches on Madrid with Google data centre, on Spain with data centre water, and on the Comunidad de Madrid with data centres found no address, capacity, water or power figure for this facility, and no local reporting, hearing record or resident comment naming it. Everything above describes Spain and the Madrid region rather than this site."
+ },
+ {
+  "id": "gemini-google-melbourne",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Melbourne data centre sits in a state where the water applications have started to alarm the councils that receive them.",
+    "src": "https://www.abc.net.au/news/2025-08-26/hume-council-votes-on-data-centres-energy-water-management-plan/105694556"
+   },
+   {
+    "para": 0,
+    "t": "On Monday August 25, 2025 Hume City Council, in Melbourne's outer north, voted to build a framework for assessing data centre applications, the first council in Victoria to do so.",
+    "src": "https://www.abc.net.au/news/2025-08-26/hume-council-votes-on-data-centres-energy-water-management-plan/105694556"
+   },
+   {
+    "para": 0,
+    "t": "Deputy mayor Naim Kurt said: \"This is a tidal wave or tsunami that is going to hit us in the next five years, and it's really important that the government gets on the front foot.\"",
+    "src": "https://www.abc.net.au/news/2025-08-26/hume-council-votes-on-data-centres-energy-water-management-plan/105694556"
+   },
+   {
+    "para": 1,
+    "t": "The numbers behind that are worth setting out.",
+    "src": "https://www.abc.net.au/news/2025-08-26/hume-council-votes-on-data-centres-energy-water-management-plan/105694556"
+   },
+   {
+    "para": 1,
+    "t": "Five data centres already inside Yarra Valley Water's catchment used 47.6 megalitres between them last year.",
+    "src": "https://www.abc.net.au/news/2025-08-26/hume-council-votes-on-data-centres-energy-water-management-plan/105694556"
+   },
+   {
+    "para": 1,
+    "t": "The utility has since received seven applications, all in the City of Hume, and one already approved near Mickleham is for 3,940 megalitres a year, as much as 66,000 Melburnians use.",
+    "src": "https://www.abc.net.au/news/2025-08-26/hume-council-votes-on-data-centres-energy-water-management-plan/105694556"
+   },
+   {
+    "para": 1,
+    "t": "Greater Western Water is assessing 19 applications asking for 20 gigalitres a year between them, the usage of about 330,000 people.",
+    "src": "https://www.abc.net.au/news/2025-08-26/hume-council-votes-on-data-centres-energy-water-management-plan/105694556"
+   },
+   {
+    "para": 2,
+    "t": "The deputy mayor's warning was that water on that scale could get in the way of new housing and the population growth the area is planning for.",
+    "src": "https://www.abc.net.au/news/2025-08-26/hume-council-votes-on-data-centres-energy-water-management-plan/105694556"
+   },
+   {
+    "para": 2,
+    "t": "Melbourne's lord mayor has separately called on governments to manage the environmental consequences of the build out.",
+    "src": "https://www.abc.net.au/news/2026-02-04/melbourne-lord-mayor-ai-data-centres-environmental-impact/106300650"
+   },
+   {
+    "para": 2,
+    "t": "Water applications on that scale are being weighed across Melbourne's north, where Google's own site sits.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://www.abc.net.au/news/2025-08-26/hume-council-votes-on-data-centres-energy-water-management-plan/105694556",
+   "https://www.abc.net.au/news/2026-02-04/melbourne-lord-mayor-ai-data-centres-environmental-impact/106300650"
+  ],
+  "unconfirmed": "None of the seven Hume applications, nor the one approved near Mickleham, has been tied to Google's Melbourne site in anything we could read; the council's framework and the utilities' caseload are the context this site sits in rather than a fight about this site."
+ },
+ {
+  "id": "gemini-google-middenmeer",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Middenmeer facility sits at Tussenweg 8, on the Agriport industrial estate in the municipality of Hollands Kroon, an hour north of Amsterdam, on land that was farmland before it became one of the country's biggest data center clusters.",
+    "src": "https://baxtel.com/data-center/google-middenmeer-netherlands"
+   },
+   {
+    "para": 0,
+    "t": "Sources disagree on where the project stands. Wikipedia and a data center directory carry it as proposed since it was first announced in 2019, while Google's own site and the directory Baxtel both describe a working data center there that opened in 2020, in a building leased from the Yondr Group.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Google says it has invested more than 500 million euros in the Middenmeer site.",
+    "src": "https://datacenters.google/locations/middenmeer-netherlands/"
+   },
+   {
+    "para": 1,
+    "t": "The company says it runs an apprenticeship program with local schools, has given 6.1 million euros in grants to the area between 2017 and 2022, and pays a nonprofit called Agrotheek to farm a demonstration plot next to the data center.",
+    "src": "https://datacenters.google/locations/middenmeer-netherlands/"
+   },
+   {
+    "para": 1,
+    "t": "Baxtel reports the site's power draw has not grown since 2022.",
+    "src": "https://baxtel.com/data-center/google-middenmeer-netherlands"
+   },
+   {
+    "para": 2,
+    "t": "A Microsoft data center 3 kilometers away, also at Middenmeer, is already operating.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Google_data_centers",
+   "https://www.datacentermap.com/c/google/datacenters",
+   "https://baxtel.com/data-center/google-middenmeer-netherlands",
+   "https://datacenters.google/locations/middenmeer-netherlands/",
+   "https://nltimes.nl/2026/07/14/microsoft-data-center-uses-1-dutch-electricity"
+  ],
+  "unconfirmed": "Whether the Google Middenmeer facility is proposed or already operating is unresolved between our own record and outside sources. Exact power capacity is not disclosed anywhere found. A 2026 Dutch news report on Microsoft's water and power use in Middenmeer did not, on inspection, address Google's facility directly or confirm organized local opposition to it, so that could not be used."
+ },
+ {
+  "id": "gemini-google-milan",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Milan data centre sits in the densest cluster in Italy: the city has 68 data centre facilities.",
+    "src": "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+   },
+   {
+    "para": 0,
+    "t": "Lombardy alone has 166 new requests for grid connection totalling more than 44 gigawatts, and across Italy the grid operator Terna has 529 requests for roughly 95 gigawatts.",
+    "src": "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+   },
+   {
+    "para": 1,
+    "t": "Around Milan people have begun organising against them.",
+    "src": "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+   },
+   {
+    "para": 1,
+    "t": "More than 2,200 people signed a petition against a data centre at San Bovio, in Peschiera Borromeo, on the former Postalmarket site, a building 19 metres tall with 25 metre chimneys.",
+    "src": "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+   },
+   {
+    "para": 1,
+    "t": "What they object to is the energy and water it would take, the noise, how close it sits to houses and to the Gambarone spring, groundwater drawn from shallow aquifers, and the carbon dioxide from burning diesel.",
+    "src": "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+   },
+   {
+    "para": 1,
+    "t": "A separate group, the Comitato ciarlasco per la tutela del territorio, has organised against a project at Lacchiarella and Zibido San Giacomo over land take and strain on the electricity network.",
+    "src": "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+   },
+   {
+    "para": 1,
+    "t": "The first public demonstration against a data centre in Lombardy was held at Lacchiarella on July 11, drawing committees from Magenta, Opera, Linate and other towns, and a national protest was called for October 10 in Milan.",
+    "src": "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku"
+   },
+   {
+    "para": 2,
+    "t": "Italian data centres used somewhere between 5 and 7 terawatt hours in 2024, about 1.9 percent of national electricity, and estimates put that between 7 and 13 percent by 2035.",
+    "src": "https://www.valigiablu.it/data-center-italia-consumo-acqua-energia-rischi/"
+   },
+   {
+    "para": 2,
+    "t": "None of the contested projects above is Google's.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://www.ilgiorno.it/milano/cronaca/data-center-c7098xku",
+   "https://www.valigiablu.it/data-center-italia-consumo-acqua-energia-rischi/"
+  ],
+  "unconfirmed": "Searches on Milan with Google data centre, on Milan with data centre water and energy, and on Lombardy with data centre residents found no address, capacity, water or power figure for Google's own Milan facility, and no local reporting naming it. The opposition described above concerns other operators' projects at San Bovio and Lacchiarella."
+ },
+ {
+  "id": "gemini-google-moncks-corner",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Moncks Corner is the seat of Berkeley County, South Carolina, a town of about 13,300 people in the Charleston area, known before this as a hub for outdoor recreation around Lake Moultrie.",
+    "src": "https://en.wikipedia.org/wiki/Moncks_Corner,_South_Carolina"
+   },
+   {
+    "para": 0,
+    "t": "Google announced the project in 2007. It was one of the company's first data centers in the United States, and Google expanded it in 2013.",
+    "src": "https://en.wikipedia.org/wiki/Google_data_centers"
+   },
+   {
+    "para": 1,
+    "t": "Google says it has invested more than 13 billion dollars in South Carolina since the Berkeley County site was built, and in 2025 the company says its tools generated 7.2 billion dollars of economic activity for businesses in the state.",
+    "src": "https://datacenters.google/locations/south-carolina/"
+   },
+   {
+    "para": 1,
+    "t": "Google says the facility is cooled in part by a rainwater retention pond, and that it has published a fact sheet on its groundwater use, though the figures in it were not available in this reporting.",
+    "src": "https://datacenters.google/locations/south-carolina/"
+   },
+   {
+    "para": 1,
+    "t": "The company says it runs a skilled-trades training program with Trident Technical College and that employees have logged more than 10,000 volunteer hours in the area since 2013.",
+    "src": "https://datacenters.google/locations/south-carolina/"
+   },
+   {
+    "para": 2,
+    "t": "A trade group covering the state's data center policy reports Google has committed 3.3 billion dollars to two new campuses in neighboring Dorchester County plus an expansion of the Berkeley County site, and 9 billion dollars statewide through 2027, with hundreds of new jobs expected including 200 in Dorchester County.",
+    "src": "https://servercountry.org/policy/south-carolina/"
+   },
+   {
+    "para": 2,
+    "t": "The nearest large power plant is a 605 megawatt coal-fired unit 12 kilometers away, and the site draws on a grid area with a peak load of about 4,586 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Google has a separate, unconfirmed-status project called Project Dawson near Charleston, 27 kilometers away, and another developer, DC Blox, has proposed a 45 megawatt facility 22 kilometers away at Camp Hall.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Google_data_centers",
+   "https://www.datacentermap.com/c/google/datacenters",
+   "https://en.wikipedia.org/wiki/Moncks_Corner,_South_Carolina",
+   "https://datacenters.google/locations/south-carolina/",
+   "https://servercountry.org/policy/south-carolina/"
+  ],
+  "unconfirmed": "Local South Carolina newspaper coverage of the Google Berkeley County facility, including a 2018 Post and Courier story on an expansion approval and opinion pieces on data center water use and tax breaks, could not be accessed; the paper's site returned access errors on every attempt. A separately reported claim that Google sought permission to draw 1.5 million gallons of water a day from beneath Berkeley County could not be traced to a specific readable source and was left out."
+ },
+ {
+  "id": "gemini-google-montreal",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Quebec data centre is at Beauharnois, south west of Montreal in the Montérégie, on land that was zoned agricultural and belonged to Hydro-Québec.",
+    "src": "https://globalnews.ca/news/7849110/google-canada-expansion-quebec-beauharnois/"
+   },
+   {
+    "para": 0,
+    "t": "The company put the investment at about US$600 million, or C$735 million.",
+    "src": "https://globalnews.ca/news/7849110/google-canada-expansion-quebec-beauharnois/"
+   },
+   {
+    "para": 1,
+    "t": "Getting it built meant taking farmland out of protection.",
+    "src": "https://globalnews.ca/news/7849110/google-canada-expansion-quebec-beauharnois/"
+   },
+   {
+    "para": 1,
+    "t": "The Quebec government rezoned 62.4 hectares of Hydro-Québec land out of the agricultural zone for the project.",
+    "src": "https://globalnews.ca/news/7849110/google-canada-expansion-quebec-beauharnois/"
+   },
+   {
+    "para": 1,
+    "t": "In compensation an equivalent area of Hydro-Québec land next door was brought into the agricultural zone and handed to the UPA-Fondaction agricultural trust, which is meant to keep it in farming.",
+    "src": "https://globalnews.ca/news/7849110/google-canada-expansion-quebec-beauharnois/"
+   },
+   {
+    "para": 2,
+    "t": "The jobs figure is small for the money.",
+    "src": "https://globalnews.ca/news/7849110/google-canada-expansion-quebec-beauharnois/"
+   },
+   {
+    "para": 2,
+    "t": "Google expects about 30 specialist permanent posts once the centre is running, against 300 to 500 people on site at peak construction.",
+    "src": "https://globalnews.ca/news/7849110/google-canada-expansion-quebec-beauharnois/"
+   },
+   {
+    "para": 2,
+    "t": "Quebec's draw for this industry is cheap hydroelectric power, and Beauharnois has a generating station on the St Lawrence.",
+    "src": "https://news.hydroquebec.com/news/press-releases/all-quebec/future-data-center-in-beauharnois.html"
+   }
+  ],
+  "sources": [
+   "https://globalnews.ca/news/7849110/google-canada-expansion-quebec-beauharnois/",
+   "https://news.hydroquebec.com/news/press-releases/all-quebec/future-data-center-in-beauharnois.html"
+  ],
+  "unconfirmed": "Searches on Montreal with Google data centre, on Beauharnois with Google, and on Quebec with data centre agricultural land found no capacity figure, water figure or opening date, no record of a decision by the Commission de protection du territoire agricole, and no resident or farmer quoted about the rezoning. Whether this Beauharnois project is the same as our record's Google Montreal entry was not established."
+ },
+ {
+  "id": "gemini-google-mumbai",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google leased a 381,000 square foot data centre in Navi Mumbai in 2023, on a term running beyond 28 years.",
+    "src": "https://baxtel.com/data-center/google-navi-mumbai"
+   },
+   {
+    "para": 0,
+    "t": "Mumbai is India's busiest data centre market and one of three, with Hyderabad and Chennai, where water stress is a recognised problem.",
+    "src": "https://m.thewire.in/article/caste/how-data-centres-are-displacing-dalit-communities-from-their-land"
+   },
+   {
+    "para": 1,
+    "t": "The pattern reporters in India have documented is that these buildings get guaranteed power and water while the people living near them do not.",
+    "src": "https://m.thewire.in/article/caste/how-data-centres-are-displacing-dalit-communities-from-their-land"
+   },
+   {
+    "para": 1,
+    "t": "In June 2024 bulldozers cleared Jai Bhim Nagar in Mumbai during the monsoon, about 650 Dalit households, on land where the Hiranandani Group is developing a data centre inside its township.",
+    "src": "https://m.thewire.in/article/caste/how-data-centres-are-displacing-dalit-communities-from-their-land"
+   },
+   {
+    "para": 1,
+    "t": "More than 200 residents were charged and at least 57 arrested.",
+    "src": "https://m.thewire.in/article/caste/how-data-centres-are-displacing-dalit-communities-from-their-land"
+   },
+   {
+    "para": 1,
+    "t": "Shrimati Chauhan, who had lived there more than 30 years and was beaten, arrested and jailed during the eviction, said: \"I will not leave my land even if they kill me.\"",
+    "src": "https://m.thewire.in/article/caste/how-data-centres-are-displacing-dalit-communities-from-their-land"
+   },
+   {
+    "para": 1,
+    "t": "That development is not Google's.",
+    "src": "data:note"
+   },
+   {
+    "para": 2,
+    "t": "Where Google does appear in that reporting is Andhra Pradesh.",
+    "src": "https://m.thewire.in/article/caste/how-data-centres-are-displacing-dalit-communities-from-their-land"
+   },
+   {
+    "para": 2,
+    "t": "The company announced a 1 gigawatt campus near Visakhapatnam in the autumn of 2024, part of $15 billion over five years, and 200 acres at Tarluvada earmarked for it belong to Dalit families, out of 480 acres across three locations.",
+    "src": "https://m.thewire.in/article/caste/how-data-centres-are-displacing-dalit-communities-from-their-land"
+   },
+   {
+    "para": 2,
+    "t": "Pyla Kondamma, a farmer and former village council head at Tarluvada, said: \"They are not touching land owned by dominant castes. Only Dalit land.\"",
+    "src": "https://m.thewire.in/article/caste/how-data-centres-are-displacing-dalit-communities-from-their-land"
+   },
+   {
+    "para": 2,
+    "t": "Much of that land was granted to landless Dalit families under a state programme in the 1970s.",
+    "src": "https://m.thewire.in/article/caste/how-data-centres-are-displacing-dalit-communities-from-their-land"
+   },
+   {
+    "para": 3,
+    "t": "Google says it will use advanced air cooling in India to protect local water.",
+    "src": "https://m.thewire.in/article/caste/how-data-centres-are-displacing-dalit-communities-from-their-land"
+   },
+   {
+    "para": 3,
+    "t": "Iron Mountain Mumbai sits about six kilometres from Google's site, AdaniConneX at Ghansoli about seven, Equinix's Mumbai hub about nine, and NTT's Chandivali campus about fifteen.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/data-center/google-navi-mumbai",
+   "https://m.thewire.in/article/caste/how-data-centres-are-displacing-dalit-communities-from-their-land"
+  ],
+  "unconfirmed": "The Wire puts the Visakhapatnam campus at 480 acres across three locations; Land Conflict Watch, cited on our separate Visakhapatnam page, puts it at 601.4 acres. The two could not be reconciled. A second sentence attributed to Shrimati Chauhan, about the community losing everything if it disperses, could not be found in the report and was removed."
+ },
+ {
+  "id": "gemini-google-osaka",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Osaka data centre presence is a cloud region rather than a building the company owns.",
+    "src": "https://www.datacenterdynamics.com/en/news/google-cloud-opens-osaka-japan-region/"
+   },
+   {
+    "para": 0,
+    "t": "It colocates in Equinix's OS1 and in NTT's Telepark Dojima Building 2, and the region runs on three availability zones, as Google's regions normally do.",
+    "src": "https://www.datacenterdynamics.com/en/news/google-cloud-opens-osaka-japan-region/"
+   },
+   {
+    "para": 0,
+    "t": "It was Google Cloud's second region in Japan and its twentieth overall.",
+    "src": "https://www.cloudcomputing-news.net/news/google-cloud-launches-osaka-data-centre-region-cites-strategic-importance-japan/"
+   },
+   {
+    "para": 1,
+    "t": "That distinction matters for anyone living nearby.",
+    "src": "https://datacenters.google/locations/inzai-japan/"
+   },
+   {
+    "para": 1,
+    "t": "Google's own Japanese data centre, the first it built in the country, is at Inzai in Chiba prefecture and opened in 2023; the Osaka region is space rented inside other companies' buildings in the city.",
+    "src": "https://datacenters.google/locations/inzai-japan/"
+   },
+   {
+    "para": 1,
+    "t": "No capacity, water use or employment figure for Google's share of those buildings has been published.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/google-cloud-opens-osaka-japan-region/",
+   "https://www.cloudcomputing-news.net/news/google-cloud-launches-osaka-data-centre-region-cites-strategic-importance-japan/",
+   "https://datacenters.google/locations/inzai-japan/"
+  ],
+  "unconfirmed": "Searches on Google with Osaka data centre, on Osaka with data centre residents, and on Google with Japan found no address for a Google owned building in Osaka, no capacity or water figure, and no local coverage. The opening date of the Osaka region was not established from the sources we could read."
+ }
+]

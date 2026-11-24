@@ -1,0 +1,11 @@
+{
+  "source": "WRI Aqueduct 4.0 baseline annual water risk",
+  "url": "https://www.wri.org/data/aqueduct-global-maps-40-data",
+  "license": "CC BY 4.0; attribution required",
+  "accessed": "2026-09-25",
+  "indicator": "bws_score (baseline water stress, 0-5)",
+  "tileDegrees": 10,
+  "geometrySimplificationDegrees": 0.001,
+  "sourceFeatures": 68494,
+  "tiles": 463
+}

@@ -1,0 +1,630 @@
+[
+ {
+  "id": "ft-569",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "An operating 100 megawatt data center is recorded at 2300 West Plano Parkway in Plano, Collin County, under the name Skybox Atlantic Station.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The entry holds no sources at all for it.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Nothing is being decided here and no objection has been recorded.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 1,
+    "t": "What can be established is the density around it and the rules closing in.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Nine data center sites are counted in Collin County, and five sit within seven kilometres of this one: CoreWeave's Plano building at two, Equinix's Dallas suburban campus at four, Digital Realty's Richardson site at five, Aligned's Plano campus at six and NTT's Garland campus at seven.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Lewisville wrote zoning limits on data centers on June 23, 2026, the City of Sanger on May 18, 2026, and Fort Worth adopted a moratorium on August 13, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Plano itself has none on record.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The generation is some way off for a cluster this size: the 915 megawatt Lake Hubbard plant 26 kilometres away, the 395 megawatt Ray Olinger station 28, a 120 megawatt battery plant 36 and the 808 megawatt Mountain Creek plant 36.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "All of it hangs on the ERCOT grid, whose peak load the record puts at 73,825 megawatts.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Our record carries no sources for this entry. Three searches, on the name with the city, on the street with data center, and on the operator with Plano, returned marketing material for a build-to-suit campus and no reporting. Those listings describe a 64 acre campus able to hold a million square feet with an on-site substation and 25 megawatts available, on land a Prologis affiliate bought at the end of 2021 after part of the former Perot Systems and NTT Data campus was demolished; they were not treated as sources. The operator, the floor area actually built and the power in use are unestablished."
+ },
+ {
+  "id": "ft-574",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Genesis Digital Assets describes its Pyote data center as scalable to 300 megawatts, with what it calls high efficiency and a low carbon footprint.",
+    "src": "https://genesisdigitalassets.com/our-work-and-impact/"
+   },
+   {
+    "para": 0,
+    "t": "That is the figure the record carries, and it marks the site operating, near the junction of Interstate 20 and Farm to Market 1927 in Ward County.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The company's page does not say where the power comes from, how many people work there, or when it was built.",
+    "src": "https://genesisdigitalassets.com/our-work-and-impact/"
+   },
+   {
+    "para": 1,
+    "t": "Pyote is one of six Texas sites the company lists.",
+    "src": "https://genesisdigitalassets.com/our-work-and-impact/"
+   },
+   {
+    "para": 1,
+    "t": "The others are Long Draw at 400 megawatts and Leon Creek at 200, both described as secured, Cholla scalable to 300, Carterville with four medium buildings and Ringo as a medium twin project; the Harris site on the same page is in North Carolina.",
+    "src": "https://genesisdigitalassets.com/our-work-and-impact/"
+   },
+   {
+    "para": 1,
+    "t": "The same company owns the Rowdy site at Vernon, on the old Oklaunion power station, which appears elsewhere on record.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "West Texas around Pyote is oil country turning into battery and solar country.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The 320 megawatt Permian Basin plant is 16 kilometres away, a 101 megawatt battery installation 25, the 300 megawatt Rodeo Ranch storage plant 27 and a 204 megawatt solar project 38.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Cipher Mining's Black Pearl site is 19 kilometres off and a 2,000 megawatt PowerBridge proposal 23.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The statewide measure the record attaches, dated August 3, 2026, is Governor Greg Abbott's direction to the Public Utility Commission of Texas and ERCOT to review data centers seeking to connect to the grid, looking at their electricity and water demands, infrastructure, tax incentives, ownership and effect on communities.",
+    "src": "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+   }
+  ],
+  "sources": [
+   "https://genesisdigitalassets.com/our-work-and-impact/",
+   "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+  ],
+  "unconfirmed": "Everything here comes from the operator's own page, which gives a scalable ceiling rather than an installed capacity, no build date, no employment figure and no water or power detail, and which does not mention the Rowdy site at all. No local reporting on the Pyote site was found and no objection has been recorded."
+ },
+ {
+  "id": "ft-583",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "An operating data center is recorded at 931 Litsey Road in Roanoke, in Denton County, Texas, under the name Cornerstone Southwest Data Center.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "That name does not appear to be right: the address returns a Citigroup facility, the Citi Southwest Data Center, and the Cornerstone companies at that name are construction and project management firms rather than operators.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The only source on record is a Texas Commission on Environmental Quality mapping layer.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Roanoke straddles the Denton and Tarrant county line, and the record holds no capacity figure for the site.",
+    "src": "data:county"
+   },
+   {
+    "para": 1,
+    "t": "The cluster around it is one of the densest in north Texas.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "QTS's 52 acre Fort Worth site is two kilometres away, T5's 400 acre AllianceTexas campus four, PowerHouse's Circle T site at Westlake five, CyrusOne's Fort Worth building 18 and its Lewisville site 23.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Five data center sites are counted in Denton County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The rules nearby have tightened around, rather than onto, buildings like this one.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The City of Sanger wrote zoning limits on data centers on May 18, 2026, Lewisville on June 23, 2026, and Fort Worth adopted a moratorium on August 13, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The generation nearby is modest: a 100 megawatt battery plant 17 kilometres away, the 226 megawatt Denton Energy Center 23 and the 122 megawatt Spencer plant 25.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "We could not establish who operates this building, its floor area, its power draw or its age. The name in our record does not match anything we found at the address; searches point to Citigroup. Whether the site is in Denton or Tarrant County is also unclear, since Roanoke spans both. The environmental agency mapping layer our record cites was not opened."
+ },
+ {
+  "id": "ft-1788613407895-5221",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Bitdeer paid about $100 million in cash for 200 acres of greenfield land in Milam County, Texas, next to its existing Rockdale data center, on ground that was once part of an Alcoa aluminium smelter.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The record carries the 200 acres, the $100 million and 563 megawatts, and marks the project proposed.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "That 563 megawatts is the grid capacity already interconnected across the company's Milam County sites, with plans to scale to 742.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Rockdale is where the smelter used to be, and the power that served it is why the crypto and AI industry went there.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Riot Platforms' 700 megawatt Rockdale campus is a kilometre from this parcel and operating and expanding, and an OpenAI Stargate site is under construction 23 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Five data center sites are counted in Milam County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "Further out, the Blueprint campus at Taylor is 30 kilometres off and KDC's 360 megawatt Project Comal 36.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The generation nearby is small and renewable: a 50 megawatt solar plant eight kilometres away, two 50 megawatt battery plants at 32 and a 144 megawatt solar farm at 41.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The statewide measure the record attaches, dated August 3, 2026, is Governor Greg Abbott's direction to the Public Utility Commission of Texas and ERCOT to review data centers seeking to connect to the grid, looking at their electricity and water demands, infrastructure, tax incentives, ownership and effect on communities.",
+    "src": "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+   },
+   {
+    "para": 2,
+    "t": "No local objection to the purchase has been recorded.",
+    "src": "data:fractracker"
+   }
+  ],
+  "sources": [
+   "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+  ],
+  "unconfirmed": "The Data Center Dynamics report our record cites refuses our requests, and the company announcement was read only in search summaries, so the figures above are carried from our own record and are not independently verified here. No building plan, square footage, water demand or construction date has been published for the new parcel, and no hearing or local reaction was found."
+ },
+ {
+  "id": "ft-1783830765394-1466",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The state construction register is the clearest account of this one.",
+    "src": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2026023619"
+   },
+   {
+    "para": 0,
+    "t": "The state register names the owner as Giga AFM LLC, of Buna, and the facility as the BT Gateway Data Center, new construction of 100,000 square feet at 4989 County Road 2656, Royse City, in Hunt County, at an estimated $384 million.",
+    "src": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2026023619"
+   },
+   {
+    "para": 0,
+    "t": "The registration is dated June 23, 2026, with a start of August 1, 2026 and completion on February 12, 2027, and the record's status is review complete.",
+    "src": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2026023619"
+   },
+   {
+    "para": 0,
+    "t": "It is privately funded, on private land, for private use.",
+    "src": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2026023619"
+   },
+   {
+    "para": 0,
+    "t": "The record carries the $384 million and marks the project proposed, with no capacity figure.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Eighteen months from filing to finish is fast for a building of that cost, which suggests a dense fit-out rather than a large shed.",
+    "src": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2026023619"
+   },
+   {
+    "para": 1,
+    "t": "The register does not give a megawatt figure, a cooling method or a water demand, and no public hearing is recorded anywhere.",
+    "src": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2026023619"
+   },
+   {
+    "para": 2,
+    "t": "Two data center sites are counted in Hunt County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "A Core Scientific site at Quinlan that the record marks shelved is 20 kilometres away, and a cluster at Garland and Plano sits 34 kilometres off, including Lambda's Plano building, Digital Realty's and Prime's Garland sites and Stream's 23 acre campus.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The 120 megawatt Wigeon Whistle battery plant is six kilometres from the site, the 395 megawatt Ray Olinger station 16, a 50 megawatt solar farm 19 and a 190 megawatt storage plant 20.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Hunt County has written no moratorium on data centers, and the register records no public hearing on this one.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2026023619"
+  ],
+  "unconfirmed": "No megawatt figure, tenant, cooling method or water demand is in the state record and our own record holds none. Our record names the owner as BT Gateway Data Center LLC of Farmers Branch; the register names Giga AFM LLC of Buna, which fits reporting that could not be opened saying a company called GIGA took over the development. That reporting also says BT Gateway Data Center LLC shares an address with the renewable developer Belltown Power, which is not carried above."
+ },
+ {
+  "id": "ft-1767733844424-8213",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "San Angelo, in Tom Green County, is being asked to sell 343 to 374 acres of city-owned land north east of town, near U.S. Highway 67 and City Farm Road, for a data center campus of up to six buildings.",
+    "src": "https://sanangelolive.com/news/business/2025-12-31/skybox-datacenter-controversy"
+   },
+   {
+    "para": 0,
+    "t": "The developer is Skybox Datacenters, of Dallas, with Emergent named alongside it on record, which carries 350 acres and marks the project proposed with emerging concern recorded.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The buildout would be phased, starting 12 to 18 months after groundbreaking and running to 2030.",
+    "src": "https://sanangelolive.com/news/business/2025-12-31/skybox-datacenter-controversy"
+   },
+   {
+    "para": 1,
+    "t": "The numbers put to the city are large.",
+    "src": "https://sanangelolive.com/news/business/2025-12-31/skybox-datacenter-controversy"
+   },
+   {
+    "para": 1,
+    "t": "Michael Looney, the chamber of commerce's vice president for economic development, said the campus could generate $27 million a year in franchise fees, and that at an estimated valuation of $21 to $22 billion it could nearly triple the city's $7.9 billion property tax base, without city incentives.",
+    "src": "https://sanangelolive.com/news/business/2025-12-31/skybox-datacenter-controversy"
+   },
+   {
+    "para": 1,
+    "t": "It would draw up to 600 megawatts from the AEP Red Creek substation, which runs at 345 kilovolts with a 250 megavolt-ampere transformer and which Looney said the city currently uses only about a tenth of, so the campus would not take power meant for San Angelo.",
+    "src": "https://sanangelolive.com/news/business/2025-12-31/skybox-datacenter-controversy"
+   },
+   {
+    "para": 2,
+    "t": "The water figures are the ones residents will want.",
+    "src": "https://sanangelolive.com/news/business/2025-12-31/skybox-datacenter-controversy"
+   },
+   {
+    "para": 2,
+    "t": "Filling the systems needs about 1.5 million gallons per building, nine million in total, staggered across the phases, after which daily use would be about 15,000 gallons for staff facilities, which the account compares to a Walmart or a Home Depot.",
+    "src": "https://sanangelolive.com/news/business/2025-12-31/skybox-datacenter-controversy"
+   },
+   {
+    "para": 3,
+    "t": "The land was rezoned from Ranch and Estate to Light Manufacturing on December 2, 2025, with a second reading set for January 13, 2026.",
+    "src": "https://sanangelolive.com/news/business/2025-12-31/skybox-datacenter-controversy"
+   },
+   {
+    "para": 3,
+    "t": "Opposition came together at a citizens' meeting at the Stephens Central Library on December 29, 2025, over power, water, noise and how little had been said.",
+    "src": "https://sanangelolive.com/news/business/2025-12-31/skybox-datacenter-controversy"
+   },
+   {
+    "para": 3,
+    "t": "San Angelo went on to write zoning limits on data centers on May 19, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "This is the only data center site recorded in Tom Green County and there is no other within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The generation around it is solar and batteries: a 195 megawatt solar plant and a 100 megawatt battery plant both 24 kilometres away, a 200 megawatt solar farm 25 and a 160 megawatt one 36.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://sanangelolive.com/news/business/2025-12-31/skybox-datacenter-controversy"
+  ],
+  "unconfirmed": "Whether the sale and the second reading went through, and what the May 2026 zoning limits require of this project, were not established; the city's own data center page and the local broadcaster's report both refused our requests. The acreage is given as a range and our 350 sits inside it. The six buildings are reported elsewhere as 248,000 square feet each at a sale price near $17.4 million, which we could not confirm."
+ },
+ {
+  "id": "ft-607",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The meeting began at six in the evening and the vote came at 2.14 in the morning.",
+    "src": "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center"
+   },
+   {
+    "para": 0,
+    "t": "On Wednesday, February 18, 2026 the San Marcos city council voted 5 to 2 to refuse the land use change for a $1.5 billion data center on 200 acres at Francis Harris Lane, between San Marcos and New Braunfels, next to the Hays Energy power station.",
+    "src": "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center"
+   },
+   {
+    "para": 0,
+    "t": "The developer was Highlander SM One LLC, of Fort Worth.",
+    "src": "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 180 acres and $1.5 billion and marks the project cancelled.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Hundreds came.",
+    "src": "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center"
+   },
+   {
+    "para": 1,
+    "t": "A hundred and twenty-five people signed up to speak in the comment period and 57 for the public hearing.",
+    "src": "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Torrie Martin told the council: \"You are either going to greatly harm your relationship with your community or you're going to buckle down and work with us.\"",
+    "src": "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Melanie Babot asked whether this was a city that values natural resources for people rather than for AI.",
+    "src": "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center"
+   },
+   {
+    "para": 2,
+    "t": "The argument underneath was water.",
+    "src": "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center"
+   },
+   {
+    "para": 2,
+    "t": "Hays County was in drought, with a stage four emergency response in prospect if the dry weather held, and a local water manager described the Edwards Aquifer as not in a great place; the day before the vote, County Judge Ruben Becerra had proposed a moratorium on building permits needing substantial amounts of water.",
+    "src": "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center"
+   },
+   {
+    "para": 2,
+    "t": "Union construction workers spoke for the project, and Matthew Gonzales, president of Laborers' International Union Local 1095, said the work could last up to five years, though what permanent employment would follow was not clear.",
+    "src": "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center"
+   },
+   {
+    "para": 2,
+    "t": "The developer could come back after six months.",
+    "src": "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center"
+   },
+   {
+    "para": 3,
+    "t": "San Marcos banned data centers the same day, February 18, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "Six data center sites are counted in Hays County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "CloudBurst's 1,200 megawatt campus is three kilometres away and under construction, Palomino Alpha five, and a second Highlander entry that the record marks blocked twelve.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 916 megawatt Hays Energy Project is one kilometre from the site.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center"
+  ],
+  "unconfirmed": "No megawatt figure was published and our record holds none. Our 180 acres and the reported 200 differ. Whether Highlander resubmitted after the six month wait is unknown, and how our separate blocked Highlander entry twelve kilometres away relates to this one was not resolved."
+ },
+ {
+  "id": "ft-608",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Soluna builds where the wind is already being wasted.",
+    "src": "https://www.solunacomputing.com/blog/kati-faqs/"
+   },
+   {
+    "para": 0,
+    "t": "Project Kati is a 166 megawatt wind-powered data center campus in Willacy County, Texas, designed to use stranded or curtailed wind power near the source, and the company says it does not draw from the local residential grid.",
+    "src": "https://www.solunacomputing.com/blog/kati-faqs/"
+   },
+   {
+    "para": 0,
+    "t": "The entry puts it at County Line Road and Farm to Market 1420 at Santa Monica, on 50 acres, at 166 megawatts, under construction.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The answer to the question most people ask is short.",
+    "src": "https://www.solunacomputing.com/blog/kati-faqs/"
+   },
+   {
+    "para": 1,
+    "t": "Soluna says it does not use water to cool its machines, because they are air-cooled.",
+    "src": "https://www.solunacomputing.com/blog/kati-faqs/"
+   },
+   {
+    "para": 1,
+    "t": "Noise, it says, will be construction noise for now, and afterwards minimal because of a diamond-shaped design.",
+    "src": "https://www.solunacomputing.com/blog/kati-faqs/"
+   },
+   {
+    "para": 1,
+    "t": "Ground was broken on September 18, 2025, with the first 83 megawatt phase due early in 2026.",
+    "src": "https://www.solunacomputing.com/blog/kati-faqs/"
+   },
+   {
+    "para": 1,
+    "t": "Construction was to generate up to about 75 temporary jobs across the skilled trades, and the finished site is expected to support more than 18 permanent roles in operations, maintenance, security and administration.",
+    "src": "https://www.solunacomputing.com/blog/kati-faqs/"
+   },
+   {
+    "para": 2,
+    "t": "Eighteen permanent jobs for 166 megawatts is the trade this part of Texas is making, and it is being made repeatedly.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Project Hedy at 120 megawatts is six kilometres away and under construction, Fluidstack's 1,100 acre Cameron County site 16, a 2,000 megawatt Eneus Energy proposal 17, the 100 megawatt Project Ellen 17 and the 187 megawatt Project Rosa 28.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The wind around it: the 273 megawatt Las Majadas farm four kilometres off, Los Vientos 1A at 200 megawatts five, Los Vientos 1B at 202 megawatts nine and the 143 megawatt Palmas farm 13.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Willacy County has written no moratorium on data centers, and the campuses keep arriving beside the wind farms.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.solunacomputing.com/blog/kati-faqs/"
+  ],
+  "unconfirmed": "Everything above comes from the developer's own FAQ, which gives no acreage and does not name the wind farm it buys from; reporting elsewhere describes a behind-the-meter purchase of up to 166 megawatts from the Las Majadas project and says ERCOT has conditionally classified the campus as base load, neither of which we could confirm from a page we could open. Tax figures are promised but not quantified."
+ },
+ {
+  "id": "ft-560",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Silverton, in Briscoe County, is where Soluna built the model it now repeats across Texas.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "Project Dorothy 1A and 1B at Silverton, in Briscoe County, are two data centers with a combined 50 megawatts, which is the figure the record carries, and it marks them operating.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "A third, Dorothy 2, sits at the same coordinates at 48 megawatts.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The company's approach is the same one it uses at Willacy County, three hundred miles south.",
+    "src": "https://www.solunacomputing.com/blog/kati-faqs/"
+   },
+   {
+    "para": 1,
+    "t": "It sites computing next to wind farms to use power that would otherwise be curtailed, says it does not draw from the local residential grid, and cools its machines with air rather than water.",
+    "src": "https://www.solunacomputing.com/blog/kati-faqs/"
+   },
+   {
+    "para": 2,
+    "t": "The wind here is dense.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The 150 megawatt Briscoe wind farm is nine kilometres away, the 200 megawatt Longhorn farm 11, South Plains II at 300 megawatts 22 and a 500 megawatt solar plant 26.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Two data center sites are counted in Briscoe County and they are the two halves of this one campus.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "Briscoe County has no moratorium; what reaches Silverton instead is Governor Abbott's direction of August 3, 2026 to the Public Utility Commission of Texas and ERCOT to review the electricity and water demands, infrastructure, tax incentives, ownership and community effects of data centers seeking to connect to the grid.",
+    "src": "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+   }
+  ],
+  "sources": [
+   "https://www.solunacomputing.com/blog/kati-faqs/",
+   "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+  ],
+  "unconfirmed": "The Data Center Dynamics article our record cites refuses our requests, so the buildout dates, the ownership structure and the jobs at Dorothy are not carried here. Reporting we could not open says Soluna bought the 150 megawatt Briscoe wind farm for $53 million and then took full ownership of Dorothy 1A for $16.5 million in April 2026, and that a further 300 megawatt facility is planned on the site. No local reaction was found."
+ },
+ {
+  "id": "ft-561",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Dorothy 2 is the 48 megawatt expansion of the Silverton data center campus, at 9981 County Road F in Briscoe County, Texas, and the record marks it under construction.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "Dorothy 1A and 1B, operating at a combined 50 megawatts, are at the same coordinates.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "Between them the two entries are the only data center sites the record counts in Briscoe County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "The reason for building here is the same as at the company's other Texas sites.",
+    "src": "https://www.solunacomputing.com/blog/kati-faqs/"
+   },
+   {
+    "para": 1,
+    "t": "Soluna puts computing next to wind farms to use power that would otherwise be curtailed, says the machines are air-cooled so no water is used to cool them, and designs the buildings to keep fan noise down.",
+    "src": "https://www.solunacomputing.com/blog/kati-faqs/"
+   },
+   {
+    "para": 1,
+    "t": "At its Willacy County campus that model produced about 75 construction jobs and more than 18 permanent posts for 166 megawatts, which is the scale of employment to expect from a site like this one.",
+    "src": "https://www.solunacomputing.com/blog/kati-faqs/"
+   },
+   {
+    "para": 2,
+    "t": "The generation around Silverton is wind and sun and little else: the 150 megawatt Briscoe farm eight kilometres away, the 200 megawatt Longhorn farm 11, South Plains II at 300 megawatts 22 and a 500 megawatt solar plant 26.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Nothing at Silverton is covered by a moratorium, and no objection to the expansion has been recorded.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.solunacomputing.com/blog/kati-faqs/"
+  ],
+  "unconfirmed": "Our two Dorothy entries share coordinates and differ only by street number, and we could not establish from a page we could read whether Dorothy 2 is complete; reporting we could not open says the 48 megawatt expansion was finished. No jobs, water or tax figures specific to this phase were found, and the employment figures above are from the company's Willacy County site, not this one."
+ }
+]

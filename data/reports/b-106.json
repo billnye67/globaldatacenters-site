@@ -1,0 +1,708 @@
+[
+ {
+  "id": "ft-618",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is land bought and waiting.",
+    "src": "https://baxtel.com/data-center/logistic-land-investments-venus-tx"
+   },
+   {
+    "para": 0,
+    "t": "Logistics Land Investment LLC, a Delaware company, has filed plans for a data center on about 217 acres at 900 East County Road 109 in Venus, Johnson County, Texas, and the record and the tracker agree on the acreage.",
+    "src": "https://baxtel.com/data-center/logistic-land-investments-venus-tx"
+   },
+   {
+    "para": 0,
+    "t": "The tracker files it as a land bank, land secured for future development, with no buildings, no square footage, no megawatt figure and no dates.",
+    "src": "https://baxtel.com/data-center/logistic-land-investments-venus-tx"
+   },
+   {
+    "para": 0,
+    "t": "The record's only source is a City of Venus meeting document.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "What tells you why the land is worth having is what is already next to it.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Google's operating Midlothian campus, at 103 megawatts, is three kilometres away; PowerHouse's 810 acre Grand Prairie site five; Aligned's DFW-01 and DFW-03 sixteen; and Compass's approved 830 megawatt Red Oak campus 29.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The 1,620 megawatt Midlothian Energy Facility is three kilometres off and an 80 megawatt solar plant five.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "This is the only data center site recorded in Johnson County itself.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The rules around it are changing.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Fort Worth adopted a moratorium on data centers on August 13, 2026, and the record notes a statewide Texas measure dated August 3, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Neither applies to Venus, which sits in the Electric Reliability Council of Texas grid, a system whose peak load the record puts at 73,825 megawatts.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/data-center/logistic-land-investments-venus-tx"
+  ],
+  "unconfirmed": "No building count, square footage, megawatt figure, water demand or timetable has been published for this site, and no public hearing or opposition was found. The City of Venus document our record cites was not read. What the statewide Texas measure of August 3, 2026 in our data actually is was not established."
+ },
+ {
+  "id": "ft-625",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Oklaunion Power Station closed in 2020, and the computers moved in.",
+    "src": "https://baxtel.com/data-center/gda-rowdy-data-center"
+   },
+   {
+    "para": 0,
+    "t": "Genesis Digital Assets built the Rowdy data center on the old station's site at Vernon, in Wilbarger County, first in 2024, with expansions running through 2029.",
+    "src": "https://baxtel.com/data-center/gda-rowdy-data-center"
+   },
+   {
+    "para": 0,
+    "t": "It benefits from substantial local wind power, with AEP Texas as the utility, and the company says it is creating dozens of jobs in the area following the plant's closure.",
+    "src": "https://baxtel.com/data-center/gda-rowdy-data-center"
+   },
+   {
+    "para": 0,
+    "t": "The entry marks it operating and carries 400 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Ownership changed in June 2026, when AiOnX bought a 77 percent stake in Genesis Digital Assets for $500 million, taking in fifteen data centers across the United States and Sweden with 1.3 gigawatts between them.",
+    "src": "https://baxtel.com/data-center/gda-rowdy-data-center"
+   },
+   {
+    "para": 1,
+    "t": "The stated intention is to convert them from cryptomining to AI and high performance computing.",
+    "src": "https://baxtel.com/data-center/gda-rowdy-data-center"
+   },
+   {
+    "para": 2,
+    "t": "The wind is the whole reason the site works.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The 230 megawatt Electra wind farm is six kilometres away, the 184 megawatt Lockett farm eight, Western Trail at 367 megawatts 28 and Blue Summit at 135 megawatts 29.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "There is no thermal generation of any size on record within reach.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Two data center sites are counted in Wilbarger County, the other being Project Rise, five kilometres away and marked proposed.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "No local moratorium applies, and the only rule the record attaches is the statewide Texas measure of August 3, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/data-center/gda-rowdy-data-center"
+  ],
+  "unconfirmed": "Our 400 megawatts is the stated expansion target rather than a confirmed operating figure; the tracker we read gives no current capacity. The Data Center Dynamics article our record cites is about Soluna, a different company, and appears to be attached in error. Water use and the number of permanent jobs were not established."
+ },
+ {
+  "id": "ft-1765215828092-6669",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The plan at the Port of Victoria is to run an AI data center on a nuclear plant that does not exist yet, and to burn gas until it does.",
+    "src": "https://www.crusoe.ai/resources/newsroom/blue-energy-and-crusoe-partner-to-develop-nuclear-powered-ai-data-center"
+   },
+   {
+    "para": 0,
+    "t": "Crusoe is developing a 1,600 acre campus in Calhoun County, Texas, and Blue Energy will design and operate a nuclear plant of up to 1.5 gigawatts on a secured site next to it.",
+    "src": "https://www.crusoe.ai/resources/newsroom/blue-energy-and-crusoe-partner-to-develop-nuclear-powered-ai-data-center"
+   },
+   {
+    "para": 0,
+    "t": "Power is to come first from a natural gas bridge, as early as 2028, with nuclear generation expected by 2031.",
+    "src": "https://www.crusoe.ai/resources/newsroom/blue-energy-and-crusoe-partner-to-develop-nuclear-powered-ai-data-center"
+   },
+   {
+    "para": 0,
+    "t": "The companies call it the world's first gas to nuclear conversion project.",
+    "src": "https://www.crusoe.ai/resources/newsroom/blue-energy-and-crusoe-partner-to-develop-nuclear-powered-ai-data-center"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 1,600 acres and 1,500 megawatts and marks the project proposed.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Blue Energy's approach is borrowed from offshore oil and gas, liquefied natural gas and offshore wind.",
+    "src": "https://www.crusoe.ai/resources/newsroom/blue-energy-and-crusoe-partner-to-develop-nuclear-powered-ai-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Its design is reactor agnostic, and it prefabricates plants in shipyards for modular installation, which it says cuts construction time by 80 percent and brings time to power to 36 months or less with a gas bridge.",
+    "src": "https://www.crusoe.ai/resources/newsroom/blue-energy-and-crusoe-partner-to-develop-nuclear-powered-ai-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Jake Jurewicz, Blue Energy's co-founder and chief executive, said the partnership \"marks a key milestone for Blue Energy as we work to meet rising global energy demand and, for the first time in the nuclear industry's history, build a plant with cost and schedule certainty.\"",
+    "src": "https://www.crusoe.ai/resources/newsroom/blue-energy-and-crusoe-partner-to-develop-nuclear-powered-ai-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Andrew Likens, Crusoe's vice president of energy infrastructure and development, said: \"Powering the AI revolution requires us to rethink energy, and Crusoe is dedicated to building the infrastructure to make it happen.\"",
+    "src": "https://www.crusoe.ai/resources/newsroom/blue-energy-and-crusoe-partner-to-develop-nuclear-powered-ai-data-center"
+   },
+   {
+    "para": 2,
+    "t": "The record files this in Victoria County, which is where the company first put it too.",
+    "src": "data:county"
+   },
+   {
+    "para": 2,
+    "t": "The release carries a correction saying an earlier draft had the campus in Victoria County and that it is in Calhoun County.",
+    "src": "https://www.crusoe.ai/resources/newsroom/blue-energy-and-crusoe-partner-to-develop-nuclear-powered-ai-data-center"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in the county either way, and there is no other within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The generation around the port is small and close: a 75 megawatt gas plant two kilometres away and two 86 megawatt units the same distance.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Calhoun County has no moratorium of its own; the only rule the record attaches to the site is the statewide Texas measure of August 3, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.crusoe.ai/resources/newsroom/blue-energy-and-crusoe-partner-to-develop-nuclear-powered-ai-data-center"
+  ],
+  "unconfirmed": "No reactor has been selected, licensed or sited, and the Nuclear Regulatory Commission process for it was not established. The gas bridge plant, its size and its permits are not described. No county approval, hearing or local reaction was found. Our county field follows the corrected release's superseded draft rather than its correction. The release page carries two dates, October 30, 2025 above the title and August 18, 2026 below it, and which is the announcement date was not resolved."
+ },
+ {
+  "id": "ft-627",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is a very small building for the label it carries.",
+    "src": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2024025831"
+   },
+   {
+    "para": 0,
+    "t": "Comcast of Houston is building a 5,200 square foot data center at 606 State Highway 75 in Willis, Montgomery County, Texas, at an estimated $7.5 million.",
+    "src": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2024025831"
+   },
+   {
+    "para": 0,
+    "t": "The Texas Department of Licensing and Regulation record, project TABS2024025831, describes the interior as a power room, a headend room, a technician control room, a restroom and a vestibule.",
+    "src": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2024025831"
+   },
+   {
+    "para": 0,
+    "t": "It was registered on August 20, 2024, started on November 1, 2024 and was due to finish on December 15, 2025.",
+    "src": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2024025831"
+   },
+   {
+    "para": 0,
+    "t": "The design firm is HDA, of St Louis, Missouri, and the building will not have public access.",
+    "src": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2024025831"
+   },
+   {
+    "para": 1,
+    "t": "A headend room is the giveaway.",
+    "src": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2024025831"
+   },
+   {
+    "para": 1,
+    "t": "This is cable television and broadband plant, the kind of building a network operator puts up to serve a town, not a campus serving a cloud.",
+    "src": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2024025831"
+   },
+   {
+    "para": 1,
+    "t": "The entry marks it proposed and holds no capacity figure.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "It is one of two data center sites recorded in Montgomery County, the other being a Stream facility at The Woodlands 28 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The generation nearby is large by comparison with the building: the 500 megawatt Lewis Creek plant four kilometres off and the 1,000 megawatt Montgomery County plant five.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Willis and Montgomery County have written no moratorium on data centers, though nothing here is on the scale that usually prompts one.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2024025831"
+  ],
+  "unconfirmed": "Whether the building was finished on schedule in December 2025 was not established. No megawatt figure exists. One of the two sources in our record is a Data Center Dynamics article about Comcast converting a bank in New Jersey, which has nothing to do with this project and appears to be attached in error."
+ },
+ {
+  "id": "ft-1784923186601-9665",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The county judge owns land inside the site.",
+    "src": "https://www.ksat.com/news/local/2026/07/24/data-centers-draw-backlash-lawsuit-in-guadalupe-county-as-residents-raise-transparency-concerns/"
+   },
+   {
+    "para": 0,
+    "t": "Bobby Levinski, an attorney with the Save Our Springs Alliance, sued the Guadalupe County Commissioners Court over how its meetings on the Palomino Alpha and CloudBurst data centers were run: \"What was happening in Guadalupe County was a pattern of meetings that didn't quite meet the standards that are required under state law under the Texas Open Meetings Act and the Texas Tax Code.\"",
+    "src": "https://www.ksat.com/news/local/2026/07/24/data-centers-draw-backlash-lawsuit-in-guadalupe-county-as-residents-raise-transparency-concerns/"
+   },
+   {
+    "para": 0,
+    "t": "He also raised County Judge Kyle Kutscher's ownership, individually or with family, of more than a hundred acres on the Palomino Alpha site.",
+    "src": "https://www.ksat.com/news/local/2026/07/24/data-centers-draw-backlash-lawsuit-in-guadalupe-county-as-residents-raise-transparency-concerns/"
+   },
+   {
+    "para": 0,
+    "t": "The county attorney's office would not comment, citing the pending litigation, and neither data center answered the broadcaster's questions.",
+    "src": "https://www.ksat.com/news/local/2026/07/24/data-centers-draw-backlash-lawsuit-in-guadalupe-county-as-residents-raise-transparency-concerns/"
+   },
+   {
+    "para": 1,
+    "t": "The entry puts Palomino Alpha on 438 acres off Highway 123 near Zorn, at 360 megawatts and $600 million, and attaches organised opposition, a petition and a leaks site to it.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Residents at the public meetings raised the backup generators, air quality and utility costs, and one Seguin resident put the water plainly: \"The water bills, I don't want them to go up any higher. But if the data centers start draining the waters from the homeowners, what do we do?\"",
+    "src": "https://www.ksat.com/news/local/2026/07/24/data-centers-draw-backlash-lawsuit-in-guadalupe-county-as-residents-raise-transparency-concerns/"
+   },
+   {
+    "para": 1,
+    "t": "Al Green, a Guadalupe County homeowner, said of the process: \"I feel like they're rotten. They're taking advantage of most people.\"",
+    "src": "https://www.ksat.com/news/local/2026/07/24/data-centers-draw-backlash-lawsuit-in-guadalupe-county-as-residents-raise-transparency-concerns/"
+   },
+   {
+    "para": 2,
+    "t": "The neighbours are the other half of the problem.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "CloudBurst's 1,200 megawatt campus is two kilometres away and under construction, a cancelled San Marcos project five, a blocked Highlander site sixteen, and Tract's 3,000 acre Caldwell Valley site and Prime's Uhland campus 29.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "San Marcos banned data centers on February 18, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The 916 megawatt Hays Energy Project is four kilometres from this parcel, the 792 megawatt Rio Nogales plant 17 and the 1,005 megawatt Guadalupe station 20.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.ksat.com/news/local/2026/07/24/data-centers-draw-backlash-lawsuit-in-guadalupe-county-as-residents-raise-transparency-concerns/"
+  ],
+  "unconfirmed": "Reporting we could not open says the county commissioners declined to approve a development agreement with Palomino Alpha LLC on 25 March after questioning about water and electricity, that the site is about 365 acres adjacent to the LCRA's largest regional substation, and that the developer asked the Crystal Clear Special Utility District for 500,000 gallons of water a day; none of that is carried above. The outcome of the lawsuit is unknown, and the wastewater permit application listed in our sources was not read."
+ },
+ {
+  "id": "ft-1776265119432-8534",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Iron County paused new AI data center applications and then approved this one anyway, because its application was already in.",
+    "src": "https://www.ksl.com/article/51507699/iron-county-planning-commission-approves-conditional-use-permit-for-antelope-data-campus"
+   },
+   {
+    "para": 0,
+    "t": "The planning commission voted unanimously on a Thursday to grant a conditional use permit to Pronghorn Development LLC for the Antelope Data Campus, on 640 acres about eight miles west of Cedar City on Antelope Springs Road.",
+    "src": "https://www.ksl.com/article/51507699/iron-county-planning-commission-approves-conditional-use-permit-for-antelope-data-campus"
+   },
+   {
+    "para": 0,
+    "t": "The campus could run to five data center buildings, put up in phases over eight to ten years.",
+    "src": "https://www.ksl.com/article/51507699/iron-county-planning-commission-approves-conditional-use-permit-for-antelope-data-campus"
+   },
+   {
+    "para": 0,
+    "t": "The approval came despite local objections about water and air quality.",
+    "src": "https://www.ksl.com/article/51507699/iron-county-planning-commission-approves-conditional-use-permit-for-antelope-data-campus"
+   },
+   {
+    "para": 0,
+    "t": "Pronghorn's response was about relationships rather than numbers: \"Securing this permit validates the trust we've built with our neighbors in Iron County. We are incredibly grateful for the open dialogue and collaborative spirit.\"",
+    "src": "https://www.ksl.com/article/51507699/iron-county-planning-commission-approves-conditional-use-permit-for-antelope-data-campus"
+   },
+   {
+    "para": 1,
+    "t": "The commission had recently imposed a 180 day moratorium on new applications for AI data centers, which planner Brett Hamilton said was to gather more information about the larger hyperscale facilities being proposed, and this application was exempt from it.",
+    "src": "https://www.ksl.com/article/51507699/iron-county-planning-commission-approves-conditional-use-permit-for-antelope-data-campus"
+   },
+   {
+    "para": 1,
+    "t": "The record dates the Iron County moratorium to May 26, 2026 and marks this project at 1,500 megawatts on 640 acres, with pushback recorded; the status now reads approved rather than under construction.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "Two data center sites are counted in Iron County, the other being a Switch facility 25 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "What is around it is solar: a 50 megawatt plant four kilometres off, an 80 megawatt plant thirteen, and two more 80 megawatt plants at 21 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "There is no large thermal generation nearby, which matters for a campus the record puts at 1,500 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.ksl.com/article/51507699/iron-county-planning-commission-approves-conditional-use-permit-for-antelope-data-campus"
+  ],
+  "unconfirmed": "The report gives no square footage, no megawatt figure, no on-site generation detail, no job numbers, no water figures and no named commissioners or residents. Reporting elsewhere describes five buildings of up to 6.75 million square feet with an on-site gas plant of up to 1.5 gigawatts and 672 on-site jobs, which could not be opened. The report dates the vote only as a Thursday, so no calendar date is given here, and whether construction has started, as our status claims, was not established."
+ },
+ {
+  "id": "ft-630",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The record holds BluSky AI as a proposed 50 megawatt data center on 25 acres near the Intermountain Power Plant at Delta, in Millard County.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "It is the smallest of the four entries the county carries, and the only one already running anything: Creekstone Energy has a 50 megawatt agreement with BluSky AI in operation.",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 0,
+    "t": "The 1,800 megawatt Intermountain Power Project is two kilometres away, which is why anything is here at all.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 0,
+    "t": "The 1,800 megawatt Intermountain Power Project is two kilometres away, which is why anything is here at all.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "Around it, Millard County has agreed to two of the largest campuses anywhere.",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 1,
+    "t": "Creekstone Energy and Joule Capital Partners are building campuses that together would cover about eight square miles of a county of 6,572 square miles and 13,437 people.",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 1,
+    "t": "Both would run off the grid, on generators fed by natural gas lines.",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 1,
+    "t": "Joule expects launch capacity in 2026, using Caterpillar G3520K generators and 1.1 gigawatt hours of grid-forming battery storage with backup from several fuels.",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 1,
+    "t": "Creekstone's campus is expected to generate up to $40 billion of economic activity for the region.",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 2,
+    "t": "The county is not worried, at least publicly.",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 2,
+    "t": "Commissioner Bill Wright said no other county in the United States \"has the potential to produce power from six different resources,\" listing geothermal, solar, a little wind, coal, gas and nuclear on the horizon, and added: \"If we're going to change, I love data centers compared to everything else.\" He also argued the form suits the county: data centers are \"probably the best way for us to get development, rather than a business that brings 500 people [for whom] we will have to build houses, schools and everything else.\"",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 2,
+    "t": "Commissioner Vicki Lyman said fears about resource scarcity could be put to rest.",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 2,
+    "t": "Neither developer was given special incentives, and the commissioners expect tax revenue as the main long term benefit.",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 3,
+    "t": "Four data center sites are counted in Millard County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The Fibernet campus is 27 kilometres from this parcel, Joule's 39 and Creekstone's 40.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Millard County has no moratorium, which is part of why three campuses of this size are being built in it at once.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+  ],
+  "unconfirmed": "Our record describes BluSky AI as a 25 acre proposed site near the Intermountain Power Plant, while the reporting describes it as a 50 megawatt offtake agreement with Creekstone, and we could not establish whether these are the same thing. No building, planning application or construction date for a BluSky site was found. The Data Center Dynamics report our record cites, about a letter of intent for 25 acres, could not be fetched."
+ },
+ {
+  "id": "ft-628",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Creekstone Energy's data center campus at Delta is master-planned for more than 10 gigawatts, on land the record puts at 4,000 acres at 11000 McCornick Road in Millard County.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The Millard County commission approved rezonings for Creekstone and for Joule Capital Partners, allowing both to start building once conditional use permits are finalised.",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 0,
+    "t": "Between them the two campuses would take about eight square miles of a county of 6,572 square miles, with 13,437 residents.",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 0,
+    "t": "No capacity figure is attached to this entry.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The power plan is to leave the grid out of it.",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 1,
+    "t": "Both campuses would run on generators fed by natural gas lines rather than the local electricity network.",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 1,
+    "t": "Creekstone is already operating a 50 megawatt agreement with BluSky AI, and its campus is expected to produce up to $40 billion of economic activity for the region.",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 1,
+    "t": "Joule's launch capacity is expected in 2026, using Caterpillar generators and 1.1 gigawatt hours of grid-forming battery storage.",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 2,
+    "t": "The commissioners are enthusiastic and say they gave nothing away.",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 2,
+    "t": "No special incentives went to either developer, tax revenue is the expected benefit, and the commission expects little disruption to how the county runs.",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 2,
+    "t": "Commissioner Bill Wright said no other county in the United States \"has the potential to produce power from six different resources,\" listing geothermal, solar, a little wind, coal, gas and nuclear on the horizon, and added: \"If we're going to change, I love data centers compared to everything else.\"",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 2,
+    "t": "Vicki Lyman said worries about running out of resources could be put to rest.",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 3,
+    "t": "Four data center sites are counted in Millard County, and three of them are within thirteen kilometres of this one: Joule's campus at one kilometre, Fibernet's at thirteen and BluSky's forty.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "A 50 megawatt solar plant is four kilometres away and the 1,800 megawatt Intermountain Power Project 39.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Nothing in Millard County limits data centers by moratorium or by zoning.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+  ],
+  "unconfirmed": "The date of the Millard County rezoning vote is not given in the page we read, and our 4,000 acres does not match the figures reported elsewhere for Creekstone, which range from about 1,100 acres for the campus to 13,000 acres of state trust land leased separately for solar. No water figure has been published. Our record holds no capacity although the campus is planned for more than 10 gigawatts."
+ },
+ {
+  "id": "ft-629",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The claim made for this one is that it would be the largest data center campus in the world.",
+    "src": "https://www.sltrib.com/news/2025/06/22/largest-data-center-campus-world/"
+   },
+   {
+    "para": 0,
+    "t": "The Salt Lake Tribune reported a $40 billion proposal from an Orem company for Millard County, and a public hearing on May 28 before the county planning commission, attended by dozens of residents, on a zone change covering 1,143 acres.",
+    "src": "https://www.sltrib.com/news/2025/06/22/largest-data-center-campus-world/"
+   },
+   {
+    "para": 0,
+    "t": "The record names the developer Fibernet MercuryDelta, puts the site on Highway 50 at Delta, carries 1,200 acres and 10,000 megawatts, and marks it proposed.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Ten gigawatts in a county of 13,437 people is the part worth sitting with.",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 1,
+    "t": "Millard County's commissioners have approved campuses for Creekstone Energy and Joule Capital Partners that together would cover about eight square miles, both running off the grid on gas-fired generators.",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 1,
+    "t": "Commissioner Bill Wright listed the county's geothermal, solar, wind, coal and gas, with nuclear on the horizon, and said: \"If we're going to change, I love data centers compared to everything else.\"",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 1,
+    "t": "Commissioner Vicki Lyman said fears about resource scarcity could be put to rest, and the county gave no special incentives to either developer.",
+    "src": "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+   },
+   {
+    "para": 2,
+    "t": "The reason all of this is at Delta is a coal plant.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The 1,800 megawatt Intermountain Power Project is 26 kilometres from this site, and the rest of the generation nearby is solar at 50 and 80 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Four data center sites are counted in Millard County, with Creekstone's and Joule's both thirteen kilometres from here and BluSky's twenty-seven.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Millard County has written no moratorium and no zoning limit on data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.sltrib.com/news/2025/06/22/largest-data-center-campus-world/",
+   "https://www.utahbusiness.com/industry/2025/11/05/data-center-creekstone-energy-joule-capital-partners-millard-county-fillmore/"
+  ],
+  "unconfirmed": "The Salt Lake Tribune page we could reach carries only a headline and caption, so the developer's name, the gigawatt figure, the water plan and any quotes are not carried from it. Reporting elsewhere says Fibernet MercuryDelta rezoned 1,143.8 acres and is targeting about 2 gigawatts initially with a concept reaching 10, which we could not open. The name Delta Gigasite is used in different sources for both this project and Creekstone's, and we could not tell them apart with confidence."
+ },
+ {
+  "id": "ft-1768321516004-3014",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Army picked this site for a data center, and the tribe next to it has objected.",
+    "src": "https://www.ksl.com/article/51617458/goshute-indian-tribe-voices-opposition-to-us-army-data-center-proposal-in-tooele-county"
+   },
+   {
+    "para": 0,
+    "t": "CyrusOne, of Dallas, would build on 1,201 acres at Dugway Proving Ground in Tooele County, under a project announced in March 2026 and scheduled for completion in 2029.",
+    "src": "https://www.ksl.com/article/51617458/goshute-indian-tribe-voices-opposition-to-us-army-data-center-proposal-in-tooele-county"
+   },
+   {
+    "para": 0,
+    "t": "The facility would use 500 megawatts of electricity and discharge up to 250,000 gallons a day of salt-heavy wastewater into wetlands and elsewhere.",
+    "src": "https://www.ksl.com/article/51617458/goshute-indian-tribe-voices-opposition-to-us-army-data-center-proposal-in-tooele-county"
+   },
+   {
+    "para": 0,
+    "t": "The entry has no sources at all, no developer and no capacity figure, and puts the site at 3,466 acres near Starks Road.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The Skull Valley Band of Goshute Indians, 134 members on about 28 square miles, based at Grantsville, formally opposes it.",
+    "src": "https://www.ksl.com/article/51617458/goshute-indian-tribe-voices-opposition-to-us-army-data-center-proposal-in-tooele-county"
+   },
+   {
+    "para": 1,
+    "t": "Its objection is water: \"Tooele County's groundwater is already over-allocated and there is no alternative source of water for the tribe.\"",
+    "src": "https://www.ksl.com/article/51617458/goshute-indian-tribe-voices-opposition-to-us-army-data-center-proposal-in-tooele-county"
+   },
+   {
+    "para": 1,
+    "t": "The band says the facility \"would have an extreme impact on the quality and quantity of groundwater available to ensure the tribe's survival, potentially contaminating the tribe's sole source of water.\"",
+    "src": "https://www.ksl.com/article/51617458/goshute-indian-tribe-voices-opposition-to-us-army-data-center-proposal-in-tooele-county"
+   },
+   {
+    "para": 1,
+    "t": "Tribal leaders wrote to Governor Spencer Cox and got no reply.",
+    "src": "https://www.ksl.com/article/51617458/goshute-indian-tribe-voices-opposition-to-us-army-data-center-proposal-in-tooele-county"
+   },
+   {
+    "para": 1,
+    "t": "They have asked Tooele County to refuse the zoning and land use requests, and to impose strict conditions if it approves them.",
+    "src": "https://www.ksl.com/article/51617458/goshute-indian-tribe-voices-opposition-to-us-army-data-center-proposal-in-tooele-county"
+   },
+   {
+    "para": 2,
+    "t": "The band is fighting on a second front at the same time, opposing a separate EnergySolutions proposal to bring 1.31 million cubic yards of low-level radioactive waste from Canada to the county's Clive facility.",
+    "src": "https://www.ksl.com/article/51617458/goshute-indian-tribe-voices-opposition-to-us-army-data-center-proposal-in-tooele-county"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Tooele County and there is no other within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "There is almost no generation out here either: a 75 megawatt solar plant 56 kilometres away, an 80 megawatt plant 72, and the 1,800 megawatt Intermountain Power Project 80.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Tooele County has written no moratorium and no zoning limit on data centers, and the zoning request is still before it.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.ksl.com/article/51617458/goshute-indian-tribe-voices-opposition-to-us-army-data-center-proposal-in-tooele-county"
+  ],
+  "unconfirmed": "Our record carries 3,466 acres against the 1,201 acres reported, holds no developer although CyrusOne is named in the reporting, and cites no sources whatsoever. Reporting we could not open describes a 1,000 megawatt capacity and an initial operating date in the 2029 financial year, against the 500 megawatts in the page we read. No lease has been signed, the environmental studies are not complete, and Tooele County had not ruled on zoning."
+ }
+]

@@ -1,0 +1,346 @@
+[
+ {
+  "id": "blocked-citrus-county-holder-industrial-park-2026-06-23",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Citrus County had already voted for a one year moratorium on data centers in May. In June the developer stopped trying.",
+    "src": "https://www.fox13news.com/news/citrus-county-data-center-proposal-withdrawn-resident-backlash-hearings-canceled"
+   },
+   {
+    "para": 0,
+    "t": "The Deltona Corporation withdrew its comprehensive plan amendment and zoning applications for the Holder Industrial Park project on June 24, 2026. The site was about 800 acres near the junction of US 41 and North Lecanto Highway at Holder.",
+    "src": "https://www.fox13news.com/news/citrus-county-data-center-proposal-withdrawn-resident-backlash-hearings-canceled"
+   },
+   {
+    "para": 0,
+    "t": "Public hearings set for the county commission meeting on July 14 were cancelled as a result.",
+    "src": "https://www.fox13news.com/news/citrus-county-data-center-proposal-withdrawn-resident-backlash-hearings-canceled"
+   },
+   {
+    "para": 1,
+    "t": "Commission chambers had been packed for earlier meetings, with residents raising the effect on homes and businesses, the county's water supply, the electrical grid and the area's long term environmental health.",
+    "src": "https://www.fox13news.com/news/citrus-county-data-center-proposal-withdrawn-resident-backlash-hearings-canceled"
+   },
+   {
+    "para": 1,
+    "t": "County officials thanked residents for turning out and said they would carry on writing rules for any future data center proposal.",
+    "src": "https://www.fox13news.com/news/citrus-county-data-center-proposal-withdrawn-resident-backlash-hearings-canceled"
+   },
+   {
+    "para": 2,
+    "t": "Moratoriums are in force in both Citrus County and neighbouring Hernando County, where a Deltona data center about 13 kilometers away has been cancelled.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The 3,039 megawatt Crystal River plant is about 20 kilometers away, inside a Duke Energy Florida control area that peaks at about 11,121 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.fox13news.com/news/citrus-county-data-center-proposal-withdrawn-resident-backlash-hearings-canceled"
+  ],
+  "unconfirmed": "The source gives the site as about 800 acres where our record has about 1,400, and dates the withdrawal to June 24 where our record has June 23. No resident or official is named or quoted, no investment figure or capacity was published, and it is not known whether Deltona intends to return once the moratorium lapses."
+ },
+ {
+  "id": "blocked-hoffman-estates-higgins-rd-and-route-59-2026-06-30",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The village manager had signed a letter promising staff support for the data center before the developer bought the land. Residents found out afterwards.",
+    "src": "https://capitolnewsillinois.com/news/developer-withdraws-rezoning-request-for-controversial-data-center-in-hoffman-estates/"
+   },
+   {
+    "para": 0,
+    "t": "Karis Critical withdrew its rezoning request on July 1, 2026 for 186 acres at Higgins Road and Route 59 in Hoffman Estates, on the edge of South Barrington and Barrington Hills. The plan commission had voted 4 to 2 on June 3 to recommend against rezoning the land from mixed use to manufacturing.",
+    "src": "https://capitolnewsillinois.com/news/developer-withdraws-rezoning-request-for-controversial-data-center-in-hoffman-estates/"
+   },
+   {
+    "para": 1,
+    "t": "Village Manager Eric Palm had signed a comfort letter pledging staff support for the project before Karis bought the property for $45 million in January 2025.",
+    "src": "https://capitolnewsillinois.com/news/developer-withdraws-rezoning-request-for-controversial-data-center-in-hoffman-estates/"
+   },
+   {
+    "para": 1,
+    "t": "Amanda Pollard, a Barrington Hills resident who organised the opposition, said the rezoning process felt like \"political theater\" once she learned staff had been discussing the project with Karis 18 months earlier.",
+    "src": "https://capitolnewsillinois.com/news/developer-withdraws-rezoning-request-for-controversial-data-center-in-hoffman-estates/"
+   },
+   {
+    "para": 2,
+    "t": "Karen Daulton Lange, a former Lake Barrington village administrator, argued the village should have been open about it: \"I personally think it is more transparent, if you're going to rezone because you have a developer in mind who's come to your door, that you would make that widely available to the public, and ask for the details, which would be the plans, the environmental studies, the water usage.\"",
+    "src": "https://capitolnewsillinois.com/news/developer-withdraws-rezoning-request-for-controversial-data-center-in-hoffman-estates/"
+   },
+   {
+    "para": 2,
+    "t": "Michael and Christine Irizarry, from Barrington Hills, wrote to board members that \"None of what you'd need to weigh those impacts is in the record,\" and that \"We're asking you to expect what a decision this size deserves: a real plan, real studies and a use that fits where it's going.\"",
+    "src": "https://capitolnewsillinois.com/news/developer-withdraws-rezoning-request-for-controversial-data-center-in-hoffman-estates/"
+   },
+   {
+    "para": 3,
+    "t": "The industry is already settled around Hoffman Estates. A Compass site is about 2 kilometers away, a cancelled Barrington Hills data center about 4 kilometers away, a Microsoft site about 5 kilometers away and a proposed 48 megawatt project about 10 kilometers away, 27 data centers in Cook County in all.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://capitolnewsillinois.com/news/developer-withdraws-rezoning-request-for-controversial-data-center-in-hoffman-estates/"
+  ],
+  "unconfirmed": "No capacity in megawatts, building count or investment figure for the proposed data center was published, and Karis Critical is not quoted explaining the withdrawal. Whether Eric Palm or the village board responded to the criticism of the comfort letter is not established."
+ },
+ {
+  "id": "blocked-babenhausen-former-continental-aumovio-site-2026-07",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Babenhausen's council majority set its price for a three billion euro data centre, and the investor walked away.",
+    "src": "https://www.hessenschau.de/suedhessen/investor-zieht-sich-zurueck-plaene-fuer-rechenzentrum-in-babenhausen-geplatzt-v1,rechenzentrum-babenhausen-106.html"
+   },
+   {
+    "para": 0,
+    "t": "STACK Infrastructure withdrew from the former Continental site, now owned by Aumovio, on July 8, 2026. Aumovio confirmed the cancellation, and STACK cited a lengthy and uncertain process that prevented reliable implementation.",
+    "src": "https://www.hessenschau.de/suedhessen/investor-zieht-sich-zurueck-plaene-fuer-rechenzentrum-in-babenhausen-geplatzt-v1,rechenzentrum-babenhausen-106.html"
+   },
+   {
+    "para": 1,
+    "t": "The CDU and Free Voters majority had required alternative water cooling concepts, renewable energy, waste heat reuse, limits on noise, contributions to municipal infrastructure, and a 250 million euro guarantee from the investor.",
+    "src": "https://www.hessenschau.de/suedhessen/investor-zieht-sich-zurueck-plaene-fuer-rechenzentrum-in-babenhausen-geplatzt-v1,rechenzentrum-babenhausen-106.html"
+   },
+   {
+    "para": 1,
+    "t": "Mayor Dominik Stadler, an independent, called the guarantee demand unjustified and unlawful, and said the investor had come to see the town's political climate as unwelcoming.",
+    "src": "https://www.hessenschau.de/suedhessen/investor-zieht-sich-zurueck-plaene-fuer-rechenzentrum-in-babenhausen-geplatzt-v1,rechenzentrum-babenhausen-106.html"
+   },
+   {
+    "para": 1,
+    "t": "The CDU answered that clarity was the point, arguing that only once concrete added value for Babenhausen had been established could a modern data centre count as an opportunity. The party had also complained in mid-June that the town hall was telling councillors too little about the negotiations.",
+    "src": "https://www.hessenschau.de/suedhessen/investor-zieht-sich-zurueck-plaene-fuer-rechenzentrum-in-babenhausen-geplatzt-v1,rechenzentrum-babenhausen-106.html"
+   },
+   {
+    "para": 2,
+    "t": "Aumovio is now looking for other investors and intends to file urban development applications so the site can be built on later.",
+    "src": "https://www.hessenschau.de/suedhessen/investor-zieht-sich-zurueck-plaene-fuer-rechenzentrum-in-babenhausen-geplatzt-v1,rechenzentrum-babenhausen-106.html"
+   },
+   {
+    "para": 3,
+    "t": "A proposed Google site at Dietzenbach is about 13 kilometres away, Google's Frankfurt and Hanau sites about 18 kilometres away and the proposed AWS Maintal-West site about 20 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.hessenschau.de/suedhessen/investor-zieht-sich-zurueck-plaene-fuer-rechenzentrum-in-babenhausen-geplatzt-v1,rechenzentrum-babenhausen-106.html",
+   "https://www.datacenterdynamics.com/en/news/data-center-project-in-hesse-germany-canceled/"
+  ],
+  "unconfirmed": "The source does not give the site area, so the 270,000 square metre figure comes from our own record, and it does not state the investment, which other reporting puts at up to three billion euro. Mayor Stadler spoke in German and his words are given here in summary rather than as a quotation. No capacity in megawatts was published, and no Babenhausen resident is quoted."
+ },
+ {
+  "id": "blocked-eisenach-stockhausen-2026-07-02",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The project was called Blue Future, a data centre park on farmland outside Eisenach in Thuringia. The city council stopped it in July 2026 after residents petitioned against it.",
+    "src": "https://www.datacenter-insider.de/stadtrat-stoppt-rechenzentrumsprojekt-bei-eisenach-a-918da80acfb13c3633f84e0edcbc85f2/"
+   },
+   {
+    "para": 0,
+    "t": "The technology area was planned on about 86 hectares of farmland between Stockhausen and Hoetzelsroda. The Leipzig land developer FAB intended to prepare the site and sell it to an investor, with the investment put at around one billion euro.",
+    "src": "https://www.datacenter-insider.de/stadtrat-stoppt-rechenzentrumsprojekt-bei-eisenach-a-918da80acfb13c3633f84e0edcbc85f2/"
+   },
+   {
+    "para": 1,
+    "t": "The council upheld the residents' objection, and Mayor Christoph Ihling then withdrew his own proposal.",
+    "src": "https://www.datacenter-insider.de/stadtrat-stoppt-rechenzentrumsprojekt-bei-eisenach-a-918da80acfb13c3633f84e0edcbc85f2/"
+   },
+   {
+    "para": 1,
+    "t": "Two residents' meetings, at Stockhausen and Neukirchen, had concentrated on water consumption for cooling and on noise. Speakers repeatedly argued for using existing industrial and conversion sites rather than sealing over new land.",
+    "src": "https://www.datacenter-insider.de/stadtrat-stoppt-rechenzentrumsprojekt-bei-eisenach-a-918da80acfb13c3633f84e0edcbc85f2/"
+   },
+   {
+    "para": 2,
+    "t": "Nothing comparable is recorded anywhere within 40 kilometres of Eisenach.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.datacenter-insider.de/stadtrat-stoppt-rechenzentrumsprojekt-bei-eisenach-a-918da80acfb13c3633f84e0edcbc85f2/",
+   "https://www.mdr.de/nachrichten/thueringen/west-thueringen/wartburgkreis/stopp-stadtrat-abstimmung-eisenach-,rechenzentrum-stockhausen-100.html"
+  ],
+  "unconfirmed": "The source gives the site as about 86 hectares where our record has 80, and no vote count or exact date for the council decision was established. No resident, councillor or FAB representative is quoted directly, no capacity in megawatts was published, and it is not known whether the land will be brought forward again."
+ },
+ {
+  "id": "blocked-douglas-county-i-20-at-liberty-rd-2026-07-07",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The county's own planning staff said the data center campus would sit on the edge of the reservoir that supplies its drinking water.",
+    "src": "https://www.douglascountysentinel.com/douglasville_sentinel/county-rejects-plans-for-700-acre-data-center-campus/article_a5761e68-bcdb-5537-a954-b2a948460ea3.html"
+   },
+   {
+    "para": 0,
+    "t": "On July 8, 2026 Douglas County commissioners voted 4 to 1 to deny EdgeConneX's proposal for a 700 acre campus of six buildings totalling 4.4 million square feet, plus a substation, near Interstate 20 and Liberty Road. District 1 Commissioner Henry Mitchell was the only vote against the denial. It was the second refusal on the site in seven months.",
+    "src": "https://www.douglascountysentinel.com/douglasville_sentinel/county-rejects-plans-for-700-acre-data-center-campus/article_a5761e68-bcdb-5537-a954-b2a948460ea3.html"
+   },
+   {
+    "para": 1,
+    "t": "Planning and zoning manager Allison Duncan recommended refusal, saying the proposal conflicted with the county's long term growth plan and risked harming traffic, public safety, fire protection and water quality. The site borders the Dog River Reservoir, the county's main water source. \"We do not feel that Commerce Center is compatible with the Dog River Basin character area,\" she said.",
+    "src": "https://www.douglascountysentinel.com/douglasville_sentinel/county-rejects-plans-for-700-acre-data-center-campus/article_a5761e68-bcdb-5537-a954-b2a948460ea3.html"
+   },
+   {
+    "para": 1,
+    "t": "Staff also pointed to how much the county already has: 2.5 million square feet of data center space built, another 3.3 million under construction and 3.1 million under review.",
+    "src": "https://www.douglascountysentinel.com/douglasville_sentinel/county-rejects-plans-for-700-acre-data-center-campus/article_a5761e68-bcdb-5537-a954-b2a948460ea3.html"
+   },
+   {
+    "para": 2,
+    "t": "Resident Eileen Roberts played the commissioners a recording of an industrial whirring: \"That's what a data center sounds like ... That's 365 days a year, 24/7.\" Ashley Rencher asked: \"At what point do we stop saying yes to every proposal and decide that preserving our community is more important than continuing to industrialize it for outsider profit?\"",
+    "src": "https://www.douglascountysentinel.com/douglasville_sentinel/county-rejects-plans-for-700-acre-data-center-campus/article_a5761e68-bcdb-5537-a954-b2a948460ea3.html"
+   },
+   {
+    "para": 2,
+    "t": "EdgeConneX's Todd Workman argued the tax case: \"Yeah, we're going to generate a lot of tax revenue.\" A supporter estimated $50 million in new revenue.",
+    "src": "https://www.douglascountysentinel.com/douglasville_sentinel/county-rejects-plans-for-700-acre-data-center-campus/article_a5761e68-bcdb-5537-a954-b2a948460ea3.html"
+   },
+   {
+    "para": 3,
+    "t": "A suspended EdgeConneX project sits about 5 kilometers away, a proposed Avemore site about 6 kilometers away, a project called Atlas about 7 kilometers away and CoreWeave's Douglasville site about 17 kilometers away, 12 data centers in Douglas County in all. Atlanta has an outright ban, and Marietta and Carroll County have moratoriums.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.douglascountysentinel.com/douglasville_sentinel/county-rejects-plans-for-700-acre-data-center-campus/article_a5761e68-bcdb-5537-a954-b2a948460ea3.html"
+  ],
+  "unconfirmed": "The source names the project East Dothan Village, which does not match the Douglas County location, and that was not resolved. Our record dates the vote to July 7 where the source has July 8. No capacity in megawatts or investment figure was published, and it is not known whether EdgeConneX will return a third time."
+ },
+ {
+  "id": "blocked-prince-william-county-dulles-cloud-south-sanders-lane-2026-0",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Eight supervisors, no dissent, after five hours and about 95 speakers.",
+    "src": "https://www.insidenova.com/news/prince_william/prince-william-supervisors-deny-2-000-acre-dulles-south-data-center-plans/article_95c2e20c-e6aa-4933-bfab-bdcd7df22d84.html"
+   },
+   {
+    "para": 0,
+    "t": "On July 7, 2026 the Prince William Board of County Supervisors voted 8 to 0 to deny the comprehensive plan amendment for the Dulles South Innovation Center, also called Dulles Cloud South: roughly 1,940 acres and about 43 million square feet of data centers in the Gainesville District, near Sanders Lane on the Loudoun County line.",
+    "src": "https://www.insidenova.com/news/prince_william/prince-william-supervisors-deny-2-000-acre-dulles-south-data-center-plans/article_95c2e20c-e6aa-4933-bfab-bdcd7df22d84.html"
+   },
+   {
+    "para": 1,
+    "t": "County staff had recommended refusal because the land lay outside the county's Data Center Opportunity Zone Overlay District. The board cited its comprehensive plan and a wish to avoid piecemeal development.",
+    "src": "https://www.insidenova.com/news/prince_william/prince-william-supervisors-deny-2-000-acre-dulles-south-data-center-plans/article_95c2e20c-e6aa-4933-bfab-bdcd7df22d84.html"
+   },
+   {
+    "para": 1,
+    "t": "Gainesville District Supervisor George Stewart put it in terms of water: \"Prince William County is not a Formula 1 vehicle, and this board is not a pit crew. We cannot pave over the headwaters for the Occoquan. 8 million people depend on that.\"",
+    "src": "https://www.insidenova.com/news/prince_william/prince-william-supervisors-deny-2-000-acre-dulles-south-data-center-plans/article_95c2e20c-e6aa-4933-bfab-bdcd7df22d84.html"
+   },
+   {
+    "para": 1,
+    "t": "Board Chair Deshundra Jefferson said: \"Planning for the county's future is too important to be a political issue.\" Coles Supervisor Yesli Vega added: \"We can have a difference of ideas and opinions, but we have an opportunity to voice those opinions while still loving our neighbors and respecting each other.\"",
+    "src": "https://www.insidenova.com/news/prince_william/prince-william-supervisors-deny-2-000-acre-dulles-south-data-center-plans/article_95c2e20c-e6aa-4933-bfab-bdcd7df22d84.html"
+   },
+   {
+    "para": 2,
+    "t": "The refusal did not stop what is already there. Digital Realty VA4 at Bristow is about a kilometer away, NTT's 104 acre Gainesville campus about 2 kilometers away, Google's 238 megawatt Bristow site about 3 kilometers away and a proposed AWS park about 4 kilometers away, 18 data centers in the county in all.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Around it are an outright ban at Warrenton, a moratorium and zoning limits in Montgomery County, and zoning limits in Culpeper County.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.insidenova.com/news/prince_william/prince-william-supervisors-deny-2-000-acre-dulles-south-data-center-plans/article_95c2e20c-e6aa-4933-bfab-bdcd7df22d84.html"
+  ],
+  "unconfirmed": "No resident is quoted by name in the source, despite about 95 speaking. No investment figure or capacity in megawatts was published, and it is not known whether Sanders Lane Assemblage I intends to reapply or to seek a change to the overlay district boundary."
+ },
+ {
+  "id": "blocked-alixan-rovaltain-2026-07-10",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The judge stopped this one because nobody had studied what it would do.",
+    "src": "https://grenoble.tribunal-administratif.fr/decisions-de-justice/dernieres-decisions/suspension-du-projet-de-datacenter-a-alixan"
+   },
+   {
+    "para": 0,
+    "t": "On July 10, 2026 the emergency judge of the Grenoble administrative court suspended the building permit for the Sesterce Group's AI data centre in the Rovaltain business park at Alixan, near the Valence TGV station.",
+    "src": "https://grenoble.tribunal-administratif.fr/decisions-de-justice/dernieres-decisions/suspension-du-projet-de-datacenter-a-alixan"
+   },
+   {
+    "para": 0,
+    "t": "The case was brought by the environmental association Les Amis de la Terre France.",
+    "src": "https://grenoble.tribunal-administratif.fr/decisions-de-justice/dernieres-decisions/suspension-du-projet-de-datacenter-a-alixan"
+   },
+   {
+    "para": 1,
+    "t": "The judge gave two grounds. Given the scale of the project and its likely effects, an environmental impact assessment was legally required and had not been done. The court noted such a study identifies effects on natural environments, resources, nuisances, emissions and risks.",
+    "src": "https://grenoble.tribunal-administratif.fr/decisions-de-justice/dernieres-decisions/suspension-du-projet-de-datacenter-a-alixan"
+   },
+   {
+    "para": 1,
+    "t": "Second, the classified environmental protection installations the site needed conflicted with what the local urban plan allows on that parcel, raising serious doubt about whether the permit was valid at all.",
+    "src": "https://grenoble.tribunal-administratif.fr/decisions-de-justice/dernieres-decisions/suspension-du-projet-de-datacenter-a-alixan"
+   },
+   {
+    "para": 2,
+    "t": "The court recorded that the site needed a power supply of more than 60 megawatts, with backup generators of substantially higher thermal capacity. The project is carried at 40 megawatts and 1.5 billion euro.",
+    "src": "data:blocked.size"
+   },
+   {
+    "para": 2,
+    "t": "The suspension holds while the court decides the full challenge to annul the permit. No other data centre project is recorded within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://grenoble.tribunal-administratif.fr/decisions-de-justice/dernieres-decisions/suspension-du-projet-de-datacenter-a-alixan"
+  ],
+  "unconfirmed": "The court records a power requirement of more than 60 megawatts where our record has 40, and the investment figure of 1.5 billion euro comes from our record rather than the ruling. Sesterce is not quoted in reply, no local resident appears in the decision, and the final judgment on annulment had not been given."
+ },
+ {
+  "id": "blocked-le-bourget-2026-07-28",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The outgoing mayor signed the permit two days before the election. The incoming mayor tore it up, and the court said he was right to.",
+    "src": "https://citoyens.com/2026/la-justice-donne-raison-au-nouveau-maire-du-bourget-pour-retoquer-le-projet-de-data-center,28-07-2026.html"
+   },
+   {
+    "para": 0,
+    "t": "Jean-Baptiste Borsali granted Segro its building permit for a data centre at Le Bourget on March 13, 2026, two days before the first round of the municipal elections. The newly elected mayor, Mehdi Nezzar, who stood as an independent, annulled it on June 12.",
+    "src": "https://citoyens.com/2026/la-justice-donne-raison-au-nouveau-maire-du-bourget-pour-retoquer-le-projet-de-data-center,28-07-2026.html"
+   },
+   {
+    "para": 0,
+    "t": "On Tuesday, July 28, 2026 the Montreuil administrative court upheld the withdrawal, finding the project did not comply with the height rules in the local urban plan and that the mayor was obliged to revoke the permit.",
+    "src": "https://citoyens.com/2026/la-justice-donne-raison-au-nouveau-maire-du-bourget-pour-retoquer-le-projet-de-data-center,28-07-2026.html"
+   },
+   {
+    "para": 1,
+    "t": "The 35,000 square metre site sits in a mixed area of housing, public buildings and industry, less than 500 metres from two nurseries, two preschools, three primary schools, a middle school, a mosque and a retirement home.",
+    "src": "https://citoyens.com/2026/la-justice-donne-raison-au-nouveau-maire-du-bourget-pour-retoquer-le-projet-de-data-center,28-07-2026.html"
+   },
+   {
+    "para": 1,
+    "t": "More than 18,000 people signed a petition against it, in a commune of about 16,000 residents. A public meeting in June between residents and Segro ended with the company's representatives walking out to jeers.",
+    "src": "https://citoyens.com/2026/la-justice-donne-raison-au-nouveau-maire-du-bourget-pour-retoquer-le-projet-de-data-center,28-07-2026.html"
+   },
+   {
+    "para": 2,
+    "t": "Segro said it was taking note of the decision and remained convinced the project would bring economic benefit to Le Bourget, but declined to say more. The emergency ruling does not end the dispute.",
+    "src": "https://citoyens.com/2026/la-justice-donne-raison-au-nouveau-maire-du-bourget-pour-retoquer-le-projet-de-data-center,28-07-2026.html"
+   },
+   {
+    "para": 3,
+    "t": "Digital Realty's Dugny Digital Hub is about 2 kilometres away, Equinix's xScale Saint-Denis campus about 5 kilometres away, its Pantin campus about 6 kilometres away and the 76 megawatt Digital Realty PAR8 about 10 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://citoyens.com/2026/la-justice-donne-raison-au-nouveau-maire-du-bourget-pour-retoquer-le-projet-de-data-center,28-07-2026.html"
+  ],
+  "unconfirmed": "No capacity in megawatts or investment figure for the Le Bourget project was published, and neither mayor is quoted directly in the account reached. Whether Segro will pursue the substantive case, appeal, or submit a lower building is not established."
+ }
+]

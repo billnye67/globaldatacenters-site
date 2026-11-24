@@ -1,0 +1,606 @@
+[
+ {
+  "id": "gemini-meta-dekalb",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's data center campus in DeKalb, Illinois, sits in a county that already has two other data centers.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 0,
+    "t": "Meta announced the DeKalb data center in June 2020 and by 2022 was adding three more buildings, expanding the campus toward 2.4 million square feet.",
+    "src": "https://www.datacenterfrontier.com/featured/article/11427420/metaverse-building-boom-meta-adds-3-data-centers-at-illinois-cloud-campus"
+   },
+   {
+    "para": 0,
+    "t": "Meta says it has invested more than $1 billion in the DeKalb campus and put as many as 1,200 construction workers on site at peak building, with more than 200 permanent jobs once the campus is fully running.",
+    "src": "https://datacenters.atmeta.com/us-locations/"
+   },
+   {
+    "para": 1,
+    "t": "Paul Borek, executive director of the DeKalb County Economic Development Corporation, said the project had been \"a boon to Illinois and a great benefit to the City of DeKalb and DeKalb County.\"",
+    "src": "https://www.datacenterfrontier.com/featured/article/11427420/metaverse-building-boom-meta-adds-3-data-centers-at-illinois-cloud-campus"
+   },
+   {
+    "para": 1,
+    "t": "DeKalb Mayor Cohen Barnes said Meta was working to \"make a larger impact on DeKalb\" beyond the economic investment.",
+    "src": "https://www.datacenterfrontier.com/featured/article/11427420/metaverse-building-boom-meta-adds-3-data-centers-at-illinois-cloud-campus"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterfrontier.com/featured/article/11427420/metaverse-building-boom-meta-adds-3-data-centers-at-illinois-cloud-campus",
+   "https://datacenters.atmeta.com/us-locations/"
+  ],
+  "unconfirmed": "Could not confirm whether the full five-building expansion is now complete, or find any local reporting on opposition to the DeKalb campus. itamg.com, one of the two cited sources, returned a 403 error and could not be fetched."
+ },
+ {
+  "id": "gemini-meta-lebanon",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta broke ground on a data center campus in Lebanon, in Boone County, Indiana, on February 11, 2026, inside the state's LEAP Innovation and Research District, where Eli Lilly is also building a manufacturing campus.",
+    "src": "https://lebanon.in.gov/2026/02/11/meta-makes-lebanon-data-center-announcement-official/"
+   },
+   {
+    "para": 0,
+    "t": "The finished campus is planned to need 1,000 megawatts, among the largest of any project Meta has announced.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The company put the investment at more than $10 billion, including $45 million for public road work and more than $75 million for water infrastructure.",
+    "src": "https://lebanon.in.gov/2026/02/11/meta-makes-lebanon-data-center-announcement-official/"
+   },
+   {
+    "para": 0,
+    "t": "Governor Mike Braun called it proof of Indiana's \"business-first environment.\"",
+    "src": "https://lebanon.in.gov/2026/02/11/meta-makes-lebanon-data-center-announcement-official/"
+   },
+   {
+    "para": 0,
+    "t": "Meta vice president of data centers Rachel Peterson said, \"At Meta, we're building the infrastructure that will power the next generation of AI technology, and Lebanon is now at the heart of that effort.\"",
+    "src": "https://lebanon.in.gov/2026/02/11/meta-makes-lebanon-data-center-announcement-official/"
+   },
+   {
+    "para": 0,
+    "t": "Lebanon Mayor Matt Gentry said the investment \"positions Lebanon as a key player in a vital national industry.\"",
+    "src": "https://lebanon.in.gov/2026/02/11/meta-makes-lebanon-data-center-announcement-official/"
+   },
+   {
+    "para": 1,
+    "t": "The company says construction will employ as many as 4,000 workers at peak, and the finished campus will support about 300 permanent jobs.",
+    "src": "https://lebanon.in.gov/2026/02/11/meta-makes-lebanon-data-center-announcement-official/"
+   },
+   {
+    "para": 1,
+    "t": "Meta says it will pay the full cost of the campus's energy and water use and will put $1 million a year for 20 years into a Boone REMC fund that helps residents with energy bills.",
+    "src": "https://lebanon.in.gov/2026/02/11/meta-makes-lebanon-data-center-announcement-official/"
+   },
+   {
+    "para": 1,
+    "t": "The company has also pledged to back more than 400 megawatts of new renewable power and to restore 200 million gallons of water a year through a partnership with local farmers on irrigation.",
+    "src": "https://lebanon.in.gov/2026/02/11/meta-makes-lebanon-data-center-announcement-official/"
+   },
+   {
+    "para": 2,
+    "t": "Not everyone welcomed the news.",
+    "src": "https://mirrorindy.org/indiana-data-center-protest-lebanon-meta/"
+   },
+   {
+    "para": 2,
+    "t": "On February 24, 2026, residents gathered at the Indiana State Library to press Governor Braun and state lawmakers to regulate the data center industry, with Meta's Lebanon campus cited as the project Braun was celebrating as an economic win.",
+    "src": "https://mirrorindy.org/indiana-data-center-protest-lebanon-meta/"
+   },
+   {
+    "para": 2,
+    "t": "Danielle Doepke, of Fort Wayne, told the crowd that \"a title of senator or Congress person, representative, or mayor will not protect you from the future that is coming if we all don't stand together and fight back.\"",
+    "src": "https://mirrorindy.org/indiana-data-center-protest-lebanon-meta/"
+   },
+   {
+    "para": 2,
+    "t": "Lisa Vallee, organizing director for Just Transition Northwest Indiana, said, \"It is not inevitable. It is a choice, and we have the power.\"",
+    "src": "https://mirrorindy.org/indiana-data-center-protest-lebanon-meta/"
+   },
+   {
+    "para": 2,
+    "t": "Residents near Lebanon and near the Eagle Creek Reservoir in Indianapolis have raised concerns about how much water the LEAP district's data centers will draw and how the wastewater will be treated.",
+    "src": "https://mirrorindy.org/indiana-data-center-protest-lebanon-meta/"
+   },
+   {
+    "para": 3,
+    "t": "Four months after the groundbreaking, Boone County commissioners adopted a one-year moratorium on new data center projects, running from June 15, 2026 to June 15, 2027.",
+    "src": "https://boonecounty.in.gov/2026/06/15/19190/"
+   }
+  ],
+  "sources": [
+   "https://lebanon.in.gov/2026/02/11/meta-makes-lebanon-data-center-announcement-official/",
+   "https://mirrorindy.org/indiana-data-center-protest-lebanon-meta/",
+   "https://boonecounty.in.gov/2026/06/15/19190/"
+  ],
+  "unconfirmed": "Could not fetch dailyjournal.net's account of the groundbreaking (403 error) to independently confirm site acreage. Could not confirm whether the June 2026 Boone County moratorium was a direct response to the Meta project or a separate policy move."
+ },
+ {
+  "id": "gemini-meta-forest-city",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta broke ground on its Forest City data center in Rutherford County, North Carolina, in 2010.",
+    "src": "https://datacenters.atmeta.com/asset/forest-city-data-center-info-sheet/"
+   },
+   {
+    "para": 0,
+    "t": "The company says it has put more than $750 million into North Carolina through the site and that the campus supports more than 275 operational jobs.",
+    "src": "https://datacenters.atmeta.com/asset/forest-city-data-center-info-sheet/"
+   },
+   {
+    "para": 0,
+    "t": "It says it has given more than $6.4 million to Rutherford County schools and nonprofits since 2011, and that it has funded roads, energy, water, wastewater and conservation work with the town and local partners.",
+    "src": "https://datacenters.atmeta.com/asset/forest-city-data-center-info-sheet/"
+   },
+   {
+    "para": 0,
+    "t": "Meta says projects it supports are adding 310 megawatts of new renewable generation in North Carolina, and that it aims to restore more water than it consumes by 2030.",
+    "src": "https://datacenters.atmeta.com/asset/forest-city-data-center-info-sheet/"
+   },
+   {
+    "para": 1,
+    "t": "A third Forest City building was announced by the county's economic development body.",
+    "src": "https://rutherfordncedc.com/newsdetail_T9_R7.php"
+   }
+  ],
+  "sources": [
+   "https://datacenters.atmeta.com/asset/forest-city-data-center-info-sheet/",
+   "https://rutherfordncedc.com/newsdetail_T9_R7.php"
+  ],
+  "unconfirmed": "Almost everything on this page comes from Meta's own information sheet. Three searches found no local reporting on the campus at all: no zoning dispute, no hearing, no water figure and nobody in Rutherford County quoted about living beside it. The county economic development body's announcement of a third building is the only other account of the site we could find, so none of the investment, jobs or renewable figures above is independently verified."
+ },
+ {
+  "id": "gemini-meta-bowling-green",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta is building an $800 million data center on more than 280 acres in Middleton Township, north of Bowling Green in Wood County, Ohio, its second in the state.",
+    "src": "https://bgindependentmedia.org/meta-data-center-how-it-went-from-economic-development-coup-to-project-local-residents-rue/"
+   },
+   {
+    "para": 0,
+    "t": "It has its own permitted natural gas plant behind the meter, built with Williams and fed from lines off the Nexus and Rover pipelines.",
+    "src": "https://bgindependentmedia.org/meta-data-center-how-it-went-from-economic-development-coup-to-project-local-residents-rue/"
+   },
+   {
+    "para": 0,
+    "t": "Meta puts construction at more than 1,000 workers and the running campus at about 100 permanent jobs.",
+    "src": "https://bgindependentmedia.org/meta-data-center-how-it-went-from-economic-development-coup-to-project-local-residents-rue/"
+   },
+   {
+    "para": 1,
+    "t": "County commissioners approved a tax abatement in September 2023, 75 percent for 15 years, and Meta was only named as the developer in the summer of 2024.",
+    "src": "https://bgindependentmedia.org/meta-data-center-how-it-went-from-economic-development-coup-to-project-local-residents-rue/"
+   },
+   {
+    "para": 1,
+    "t": "The Eastwood and Otsego school districts are each estimated to receive about $900,000 a year.",
+    "src": "https://bgindependentmedia.org/meta-data-center-how-it-went-from-economic-development-coup-to-project-local-residents-rue/"
+   },
+   {
+    "para": 2,
+    "t": "On January 6, 2026 about 150 residents filled the Wood County Planning Commission room past capacity and questioned the commission for more than two and a half hours.",
+    "src": "https://bgindependentmedia.org/tempers-flare-as-citizens-seek-moratorium-on-any-more-data-centers-in-wood-county/"
+   },
+   {
+    "para": 2,
+    "t": "Mark Patton, who lives on Devil's Hole Road a mile from the site, said: \"We can't leave. We can't sell our properties.\"",
+    "src": "https://bgindependentmedia.org/tempers-flare-as-citizens-seek-moratorium-on-any-more-data-centers-in-wood-county/"
+   },
+   {
+    "para": 2,
+    "t": "Joe DeMare of Bowling Green said: \"Data centers can suck up all the resources.\"",
+    "src": "https://bgindependentmedia.org/tempers-flare-as-citizens-seek-moratorium-on-any-more-data-centers-in-wood-county/"
+   },
+   {
+    "para": 2,
+    "t": "Brittney Klockowski, of Weston village council, said of this kind of development: \"It's a different beast.\"",
+    "src": "https://bgindependentmedia.org/tempers-flare-as-citizens-seek-moratorium-on-any-more-data-centers-in-wood-county/"
+   },
+   {
+    "para": 2,
+    "t": "They asked for a moratorium on new data centers, for transparency in rezoning, and for the end user of a project to be disclosed before approval.",
+    "src": "https://bgindependentmedia.org/tempers-flare-as-citizens-seek-moratorium-on-any-more-data-centers-in-wood-county/"
+   },
+   {
+    "para": 3,
+    "t": "The commission's answer was that it could not help.",
+    "src": "https://bgindependentmedia.org/tempers-flare-as-citizens-seek-moratorium-on-any-more-data-centers-in-wood-county/"
+   },
+   {
+    "para": 3,
+    "t": "Commissioner Craig LaHote said: \"We can be sympathetic. But we have no authority.\"",
+    "src": "https://bgindependentmedia.org/tempers-flare-as-citizens-seek-moratorium-on-any-more-data-centers-in-wood-county/"
+   },
+   {
+    "para": 3,
+    "t": "Planning director Dave Steiner said of rezoning applications: \"If it's 1,000 acres, it's probably a data center. If it's 50-100 acres, we don't know.\"",
+    "src": "https://bgindependentmedia.org/tempers-flare-as-citizens-seek-moratorium-on-any-more-data-centers-in-wood-county/"
+   },
+   {
+    "para": 3,
+    "t": "Commission chair and county engineer John Musteric asked the room: \"Do you want us to lie to you?\"",
+    "src": "https://bgindependentmedia.org/tempers-flare-as-citizens-seek-moratorium-on-any-more-data-centers-in-wood-county/"
+   },
+   {
+    "para": 3,
+    "t": "LaHote later said he understood the frustration, and that had officials known the potential downsides they might have been able to warn people.",
+    "src": "https://bgindependentmedia.org/meta-data-center-how-it-went-from-economic-development-coup-to-project-local-residents-rue/"
+   },
+   {
+    "para": 3,
+    "t": "Economic development director Wade Gottschalk said that in 2023 \"there was no 'anti data center' movement\" and that data centers were sought after nationally.",
+    "src": "https://bgindependentmedia.org/meta-data-center-how-it-went-from-economic-development-coup-to-project-local-residents-rue/"
+   },
+   {
+    "para": 3,
+    "t": "Port authority president Rex Huffman said, \"What they were was never hidden. There were a lot of hearings along the way.\"",
+    "src": "https://bgindependentmedia.org/meta-data-center-how-it-went-from-economic-development-coup-to-project-local-residents-rue/"
+   },
+   {
+    "para": 4,
+    "t": "On water the two sides do not even agree on the order of magnitude.",
+    "src": "https://bgindependentmedia.org/meta-data-center-how-it-went-from-economic-development-coup-to-project-local-residents-rue/"
+   },
+   {
+    "para": 4,
+    "t": "Meta says the running campus is liquid cooled in a closed loop with dry coolers and needs no water to operate, using less in a year than two full service restaurants, and that it pays the full cost of its water and sewer.",
+    "src": "https://bgindependentmedia.org/meta-data-center-how-it-went-from-economic-development-coup-to-project-local-residents-rue/"
+   },
+   {
+    "para": 4,
+    "t": "Opponents have cited a figure of up to 600,000 gallons a day, served by the Northwestern Water and Sewer District from Bowling Green's supply.",
+    "src": "https://bgindependentmedia.org/tempers-flare-as-citizens-seek-moratorium-on-any-more-data-centers-in-wood-county/"
+   },
+   {
+    "para": 5,
+    "t": "Findlay and Tiffin both passed data center moratoriums on April 22, 2026, and Maumee, Monclova, Waterville Township and Lake Township passed their own earlier in the year.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://bgindependentmedia.org/meta-data-center-how-it-went-from-economic-development-coup-to-project-local-residents-rue/",
+   "https://bgindependentmedia.org/tempers-flare-as-citizens-seek-moratorium-on-any-more-data-centers-in-wood-county/"
+  ],
+  "unconfirmed": "Whether Wood County adopted a moratorium after the January 2026 meeting was not established. The gap between Meta's water claim and the 600,000 gallons a day figure opponents cite could not be reconciled from anything we could read; the two may describe construction against operation, or the gas plant against the data halls. No power capacity figure for the campus was found."
+ },
+ {
+  "id": "gemini-meta-altoona",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's Altoona campus is the company's largest single city presence, anchored by four data center buildings east of Des Moines.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "Meta broke ground in 2013 and says it has invested more than $2.5 billion in Iowa, employed 1,300 at peak construction and supports more than 400 permanent jobs, with more than $5.6 million given to Polk County schools and nonprofits since 2015.",
+    "src": "https://datacenters.atmeta.com/asset/altoona-data-center-info-sheet/"
+   },
+   {
+    "para": 1,
+    "t": "The campus withdrew 64 million gallons of water in 2024 and can take up to 300,000 gallons on a hot summer day.",
+    "src": "https://www.iaagwater.org/data-centers-and-water-economic-growth-or-environmental-threat/"
+   },
+   {
+    "para": 1,
+    "t": "Altoona utilities director Dan Scott puts that at 15 to 20 percent of the city's supply on the heaviest days.",
+    "src": "https://www.iaagwater.org/data-centers-and-water-economic-growth-or-environmental-threat/"
+   },
+   {
+    "para": 1,
+    "t": "Mayor Dean O'Connor said of the aquifer the town draws on: \"It's great that we have access to this great aquifer, but we do have to be judicious about it.\"",
+    "src": "https://www.iaagwater.org/data-centers-and-water-economic-growth-or-environmental-threat/"
+   },
+   {
+    "para": 1,
+    "t": "Of visitors who come to look at the campus he said: \"They've come down to see it and to see that there's no noise, there's no light, no pollution.\"",
+    "src": "https://www.iaagwater.org/data-centers-and-water-economic-growth-or-environmental-threat/"
+   },
+   {
+    "para": 1,
+    "t": "Matt Sexton, Meta's regional community development manager, said the company has put $600,000 into central Iowa water projects over five years.",
+    "src": "https://www.iaagwater.org/data-centers-and-water-economic-growth-or-environmental-threat/"
+   },
+   {
+    "para": 2,
+    "t": "Scott expects more of them: the city fields about one inquiry a month from companies looking to build.",
+    "src": "https://www.iaagwater.org/data-centers-and-water-economic-growth-or-environmental-threat/"
+   },
+   {
+    "para": 2,
+    "t": "\"I'm fairly certain there will be more data centers coming to the city, just because of the interest there is in data centers,\" he said.",
+    "src": "https://www.iaagwater.org/data-centers-and-water-economic-growth-or-environmental-threat/"
+   },
+   {
+    "para": 2,
+    "t": "Polk County already has six, and two more are proposed nearby: a 468 acre Tract campus five kilometres away and a 1,000 megawatt COPT Defense Properties project about 34 kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://datacenters.atmeta.com/asset/altoona-data-center-info-sheet/",
+   "https://www.iaagwater.org/data-centers-and-water-economic-growth-or-environmental-threat/"
+  ],
+  "unconfirmed": "Searches on Altoona with Meta water, on Altoona Iowa with data center, and on Meta with Polk County found no organised opposition to this campus and no resident, as opposed to official, quoted about it. Water figures differ between accounts: one puts peak use at 300,000 gallons a day and 15 to 20 percent of city supply, another at up to a million gallons a day and a fifth of what the city can produce; the discrepancy was not resolved. No power capacity figure for the campus was found and the itamg.com source in our record returns a 403."
+ },
+ {
+  "id": "gemini-meta-social-circle",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's Stanton Springs data center campus at 240 Shire Parkway near Social Circle, Georgia, sits where Walton, Newton and Morgan counties meet.",
+    "src": "https://choosewalton.com/company/facebook-newton-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "Construction began in 2018.",
+    "src": "https://greyjournal.net/hustle/work-tech/meta-data-center-georgia-water-crisis/"
+   },
+   {
+    "para": 1,
+    "t": "Residents living near it say their tap water turned brown and undrinkable.",
+    "src": "https://greyjournal.net/hustle/work-tech/meta-data-center-georgia-water-crisis/"
+   },
+   {
+    "para": 1,
+    "t": "They report falling water pressure, sediment wrecking appliances, and families buying bottled water to drink and cook with.",
+    "src": "https://greyjournal.net/hustle/work-tech/meta-data-center-georgia-water-crisis/"
+   },
+   {
+    "para": 1,
+    "t": "On May 20, 2026 Representative Alexandria Ocasio-Cortez carried two jars of brown tap water into a hearing of the House Energy and Commerce oversight and investigations subcommittee, saying families cannot use their tap water to drink or prepare meals.",
+    "src": "https://greyjournal.net/hustle/work-tech/meta-data-center-georgia-water-crisis/"
+   },
+   {
+    "para": 1,
+    "t": "EPA assistant administrator for water Jessica Kramer pledged to investigate immediately after the hearing, saying that meeting EPA water quality standards remains a priority.",
+    "src": "https://greyjournal.net/hustle/work-tech/meta-data-center-georgia-water-crisis/"
+   },
+   {
+    "para": 2,
+    "t": "The campus uses between one and five million gallons a day, comparable to 30,000 to 50,000 households.",
+    "src": "https://greyjournal.net/hustle/work-tech/meta-data-center-georgia-water-crisis/"
+   },
+   {
+    "para": 2,
+    "t": "Mike Hopkins, executive director of the Newton County Water and Sewerage Authority, puts it at about 10 percent of the county's daily supply.",
+    "src": "https://greyjournal.net/hustle/work-tech/meta-data-center-georgia-water-crisis/"
+   },
+   {
+    "para": 2,
+    "t": "Water rates in the county are set to rise 33 percent, and a 2025 report put Newton County on course for a water deficit by 2030 at current consumption.",
+    "src": "https://greyjournal.net/hustle/work-tech/meta-data-center-georgia-water-crisis/"
+   },
+   {
+    "para": 3,
+    "t": "Meta rejects the connection.",
+    "src": "https://greyjournal.net/hustle/work-tech/meta-data-center-georgia-water-crisis/"
+   },
+   {
+    "para": 3,
+    "t": "Spokesperson Ryan Daniels says the company works closely with local utilities and that all the campus's water comes from the municipal supply rather than groundwater.",
+    "src": "https://greyjournal.net/hustle/work-tech/meta-data-center-georgia-water-crisis/"
+   },
+   {
+    "para": 4,
+    "t": "Covington enacted a data center permit moratorium running from January 6 to October 20, 2026, and Newton County extended its own into October 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://choosewalton.com/company/facebook-newton-data-center/",
+   "https://greyjournal.net/hustle/work-tech/meta-data-center-georgia-water-crisis/"
+  ],
+  "unconfirmed": "A claim that families have sued Meta and county development officials in Gwinnett County over the water was removed: it is not in the report it was credited to, and no source we could read supports it. A claim that a third-party study Meta commissioned found no link between its operations and residents' well water was removed for the same reason."
+ },
+ {
+  "id": "meta-meta-henrico",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's Henrico County data center campus is on a 130 acre site at 5900 Elko Tract Road in Sandston, Virginia, inside White Oak Technology Park, and construction began in October 2017.",
+    "src": "https://www.dpr.com/projects/meta-henrico-data-center"
+   },
+   {
+    "para": 0,
+    "t": "It is laid out in an H configuration of five buildings, about 2.4 to 2.5 million square feet at full build.",
+    "src": "https://www.dpr.com/projects/meta-henrico-data-center"
+   },
+   {
+    "para": 0,
+    "t": "Meta says it has invested more than $1 billion, put up to 1,500 workers on site at peak, and supports more than 200 permanent jobs, with more than $4.2 million given to Henrico schools and nonprofits since 2019.",
+    "src": "https://datacenters.atmeta.com/asset/henrico-data-center-info-sheet/"
+   },
+   {
+    "para": 1,
+    "t": "Meta has bought room to grow.",
+    "src": "https://richmondbizsense.com/2022/11/28/facebook-parent-meta-adding-to-henrico-footprint-with-code-named-project-tropical-data-center-development/"
+   },
+   {
+    "para": 1,
+    "t": "At the end of October 2022 the county's Economic Development Authority sold a 475 acre plot for $35.2 million to Scout Development, the company Meta used for its 2017 White Oak land, under the code name Project Tropical, and two data centers have since been filed for 3951 Portugee Road, across the road from this campus.",
+    "src": "https://richmondbizsense.com/2022/11/28/facebook-parent-meta-adding-to-henrico-footprint-with-code-named-project-tropical-data-center-development/"
+   },
+   {
+    "para": 2,
+    "t": "Whatever is built on that land will be built under rules that changed in the meantime.",
+    "src": "https://www.datacenterfrontier.com/hyperscale/article/55296394/henrico-county-virginia-moves-to-slow-data-center-growth"
+   },
+   {
+    "para": 2,
+    "t": "On June 10, 2025 the Board of Supervisors ended by right development of hyperscale data centers, requiring a provisional use permit with public hearings, a 500 foot tree buffer from homes, limits on generator testing, screening of noise making equipment and closed loop water cooling, applied retroactively to rezoned projects that had not yet had final site plan approval or begun construction.",
+    "src": "https://www.datacenterfrontier.com/hyperscale/article/55296394/henrico-county-virginia-moves-to-slow-data-center-growth"
+   },
+   {
+    "para": 2,
+    "t": "Varina District supervisor Tyrone Nelson, whose district this is, said of the county's earlier enthusiasm: \"I didn't understand everything that went with data centers. I didn't. But I was excited that they were coming to our community in 2017. I own that, and I own voting last year for the rezoning of the property that QTS purchased.\"",
+    "src": "https://www.datacenterfrontier.com/hyperscale/article/55296394/henrico-county-virginia-moves-to-slow-data-center-growth"
+   },
+   {
+    "para": 3,
+    "t": "Henrico County now has at least 11 data centers, including Meta's second campus six kilometres away, three QTS buildings within two, and Iron Mountain's site in White Oak Technology Park.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://www.dpr.com/projects/meta-henrico-data-center",
+   "https://datacenters.atmeta.com/asset/henrico-data-center-info-sheet/",
+   "https://richmondbizsense.com/2022/11/28/facebook-parent-meta-adding-to-henrico-footprint-with-code-named-project-tropical-data-center-development/",
+   "https://www.datacenterfrontier.com/hyperscale/article/55296394/henrico-county-virginia-moves-to-slow-data-center-growth"
+  ],
+  "unconfirmed": "Our record carried a second Meta entry at Sandston with no size, investment, capacity or jobs figure, and nothing found distinguished it from this campus; both cite the same Meta information sheet, and they have been merged. Whether the Project Tropical filings at 3951 Portugee Road are a second campus or part of this one could not be established. No power capacity or water figure for the campus was found, and no resident is quoted about it specifically; the Henrico pushback documented in local coverage concerns QTS’s proposed expansion nearby."
+ },
+ {
+  "id": "gemini-meta-fort-worth",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta calls its north Fort Worth campus, in Tarrant County, Texas, its first data center in the state, and broke ground there in 2015.",
+    "src": "https://datacenters.atmeta.com/asset/fort-worth-data-center-info-sheet/"
+   },
+   {
+    "para": 0,
+    "t": "The company says it has invested more than $1.5 billion, brought as many as 1,200 workers on site at peak construction, and now supports more than 175 permanent jobs.",
+    "src": "https://datacenters.atmeta.com/asset/fort-worth-data-center-info-sheet/"
+   },
+   {
+    "para": 1,
+    "t": "The Meta campus predates a citywide reckoning over data centers. On August 11, 2026, Fort Worth's city council voted unanimously to start the process for a 90-day moratorium on new data center construction, set to run from February 16 to May 17, 2027.",
+    "src": "https://www.keranews.org/news/2026-08-12/data-center-moratorium-takes-first-steps-after-fort-worth-city-councils-unanimous-vote"
+   },
+   {
+    "para": 1,
+    "t": "Council members said the pause would let city staff study noise, water use and how the facilities fit alongside homes and other development.",
+    "src": "https://www.keranews.org/news/2026-08-12/data-center-moratorium-takes-first-steps-after-fort-worth-city-councils-unanimous-vote"
+   },
+   {
+    "para": 1,
+    "t": "Councilmember Elizabeth Beck told residents, \"We are here to work with you on this. We aren't your enemy in this fight.\"",
+    "src": "https://www.keranews.org/news/2026-08-12/data-center-moratorium-takes-first-steps-after-fort-worth-city-councils-unanimous-vote"
+   },
+   {
+    "para": 1,
+    "t": "The council also voted 10-1 to create a data center and infrastructure committee.",
+    "src": "https://www.keranews.org/news/2026-08-12/data-center-moratorium-takes-first-steps-after-fort-worth-city-councils-unanimous-vote"
+   },
+   {
+    "para": 2,
+    "t": "Fort Worth's move followed a state-level one: on August 3, 2026, Texas Governor Greg Abbott ordered state regulators to audit data centers waiting to connect to the grid, freezing those approvals while the reviews run.",
+    "src": "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/"
+   }
+  ],
+  "sources": [
+   "https://datacenters.atmeta.com/asset/fort-worth-data-center-info-sheet/",
+   "https://www.keranews.org/news/2026-08-12/data-center-moratorium-takes-first-steps-after-fort-worth-city-councils-unanimous-vote",
+   "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/"
+  ],
+  "unconfirmed": "Our own background record dates a Fort Worth data center moratorium to August 13, 2026 and has it running to November 11, 2026. KERA's account of the August 11 council vote, used here, describes a 90-day moratorium running from February 16 to May 17, 2027. The two could not be reconciled and the newsroom account is the one reported above."
+ },
+ {
+  "id": "gemini-meta-prineville",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's Prineville campus in Crook County was the company's first data center, broken ground in 2010 when the town was losing its mills.",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 0,
+    "t": "Meta says it has invested more than $2 billion in Oregon, employed up to 1,000 workers at peak construction and now supports more than 400 permanent jobs, and has given more than $5.7 million to Crook County schools and nonprofits since 2011.",
+    "src": "https://datacenters.atmeta.com/asset/prineville-data-center-info-sheet/"
+   },
+   {
+    "para": 1,
+    "t": "The deal that brought it was a full property tax exemption under Oregon's Long-Term Rural Enterprise Zone programme, created in 1985.",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 1,
+    "t": "Crook County assessor Jon Soliz puts the exempted value at more than $130 million a year.",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 1,
+    "t": "Exemptions at the Crook County School District rose from $10 million to $29 million as more data centers came online, and Good Jobs First put the cost of corporate tax breaks to Oregon schools at $275 million in 2024.",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 1,
+    "t": "What the city does collect is utility fees, which went from about $430,000 in 2011 to about $11 million in 2026.",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 2,
+    "t": "Prineville has started saying it wants a different bargain next time.",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 2,
+    "t": "City manager Steve Forrester told a state advisory committee on June 26, 2026 that the city expects roughly to double its property tax revenue once the exemptions run out, the first of Meta's expiring in 2027.",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 2,
+    "t": "City leaders have indicated they will probably not grant a full abatement to the next data center that asks.",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 2,
+    "t": "In early June 2026 the Oregon legislature imposed a one year pause on the exemption programme.",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 2,
+    "t": "On June 28, 2026, 66 Meta workers were laid off.",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 3,
+    "t": "Karl Wilkerson, who owns Dad's Place, said of the build out: \"To me it hurts the economy, it doesn't help the economy. It's not like it's benefitting us from having that up there.\"",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 3,
+    "t": "Mickey Killingsworth, treasurer of the county Farm Bureau, said: \"We're not like Prineville. We don't support data centers.\"",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 3,
+    "t": "Julie Thompson, running for county commissioner, said: \"Everybody I've talked to, they don't want more data centers.\"",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 4,
+    "t": "Meta's campus used 70 million gallons of water in 2024, about what 420 Prineville households used in 2021, or the water for 64 acres of Central Oregon alfalfa.",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 4,
+    "t": "Google's facility at The Dalles, a quarter of the size, used five times as much.",
+    "src": "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/"
+   },
+   {
+    "para": 4,
+    "t": "Meta says it aims to restore 200 percent of the water the campus consumes to local watersheds, working with the Crooked River Watershed Council and the Deschutes River Conservancy.",
+    "src": "https://datacenters.atmeta.com/asset/prineville-data-center-info-sheet/"
+   },
+   {
+    "para": 4,
+    "t": "Apple operates its own data center about a kilometre away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.bendsource.com/news/localnews/prineville-wants-more-out-of-its-next-data-center-deal/",
+   "https://datacenters.atmeta.com/asset/prineville-data-center-info-sheet/"
+  ],
+  "unconfirmed": "No power capacity figure for the campus was found, and no response from Meta to the criticism of the tax deal appears in the coverage we could read. Whether the 66 layoffs in June 2026 were at this campus or across Meta's wider operations is not stated. Former mayor Jason Beebe resigned in June 2026, and the reporting does not say whether that was connected."
+ }
+]

@@ -1,0 +1,473 @@
+[
+ {
+  "id": "ft-1109",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Adams Fork data center would be built at 2002 Twisted Gun Road in Wharncliffe, Mingo County, West Virginia.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "TransGas Development Systems wants two data center campuses there, on the former Twisted Gun Golf Course close to the Mingo and Logan county line, with its own power plants to feed them.",
+    "src": "https://www.wvhighlands.org/article/despite-public-pushback-west-virginia-approves-air-quality-permits-for-data-center-energy-campus-in-mingo-county/"
+   },
+   {
+    "para": 0,
+    "t": "TransGas is a New York company that has been trying to build on this ground since 2008, when it proposed a plant to turn coal into liquid fuel.",
+    "src": "https://ohiorivervalleyinstitute.org/adams-fork-energy-whats-happening-with-the-worlds-largest-proposed-ammonia-plant/"
+   },
+   {
+    "para": 0,
+    "t": "That plant was never built.",
+    "src": "https://ohiorivervalleyinstitute.org/adams-fork-energy-whats-happening-with-the-worlds-largest-proposed-ammonia-plant/"
+   },
+   {
+    "para": 0,
+    "t": "In 2023 the company announced an ammonia plant instead, which it said would be the biggest in the world at 2.16 million tons a year, and the state Department of Environmental Protection issued it a construction permit in 2024.",
+    "src": "https://ohiorivervalleyinstitute.org/adams-fork-energy-whats-happening-with-the-worlds-largest-proposed-ammonia-plant/"
+   },
+   {
+    "para": 0,
+    "t": "The data center is the third proposal for the same ground.",
+    "src": "https://ohiorivervalleyinstitute.org/adams-fork-energy-whats-happening-with-the-worlds-largest-proposed-ammonia-plant/"
+   },
+   {
+    "para": 1,
+    "t": "The power is the story here.",
+    "src": "https://ohiorivervalleyinstitute.org/adams-fork-is-a-giant-waste-of-energy/"
+   },
+   {
+    "para": 1,
+    "t": "The generating plants would be off grid, built for the campus alone, and would not supply electricity to anyone else in West Virginia.",
+    "src": "https://ohiorivervalleyinstitute.org/adams-fork-is-a-giant-waste-of-energy/"
+   },
+   {
+    "para": 1,
+    "t": "The Ohio River Valley Institute reads the filings as two identical data center campuses able to draw 2,457 megawatts each, together consuming more than 29.4 million megawatt hours of electricity a year.",
+    "src": "https://ohiorivervalleyinstitute.org/adams-fork-is-a-giant-waste-of-energy/"
+   },
+   {
+    "para": 1,
+    "t": "West Virginia as a whole uses about 33 million.",
+    "src": "https://ohiorivervalleyinstitute.org/adams-fork-is-a-giant-waste-of-energy/"
+   },
+   {
+    "para": 1,
+    "t": "The gas plants would burn 218 billion cubic feet of gas a year, and TransGas has said it wants to take data center capacity to 9.8 gigawatts, which would roughly double that.",
+    "src": "https://ohiorivervalleyinstitute.org/adams-fork-is-a-giant-waste-of-energy/"
+   },
+   {
+    "para": 1,
+    "t": "The record carries the Wharncliffe site at 2,398 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Accounts of the machinery differ: the West Virginia Highlands Conservancy reported 117 gas engines at each of the two sites, generating over 2,400 megawatts.",
+    "src": "https://www.wvhighlands.org/article/despite-public-pushback-west-virginia-approves-air-quality-permits-for-data-center-energy-campus-in-mingo-county/"
+   },
+   {
+    "para": 1,
+    "t": "The Williamson Daily News put it at 114 dual fuel gas and diesel engines, each over 28,000 horsepower.",
+    "src": "https://www.williamsondailynews.com/news/local-residents-file-federal-lawsuit-to-block-major-data-center-project-near-wharncliffe/article_93e229fc-9ed9-4634-a1d8-05068fb2b8ae.html"
+   },
+   {
+    "para": 2,
+    "t": "The Division of Air Quality took public comment at hearings in August and September 2025 and approved the air permits for both plants on October 2, 2025.",
+    "src": "https://www.wvhighlands.org/article/despite-public-pushback-west-virginia-approves-air-quality-permits-for-data-center-energy-campus-in-mingo-county/"
+   },
+   {
+    "para": 2,
+    "t": "Dozens of residents had spoken against them.",
+    "src": "https://www.wvhighlands.org/article/despite-public-pushback-west-virginia-approves-air-quality-permits-for-data-center-energy-campus-in-mingo-county/"
+   },
+   {
+    "para": 2,
+    "t": "The agency wrote that both facilities \"will meet all applicable state and federal air quality rules and regulations.\"",
+    "src": "https://www.wvhighlands.org/article/despite-public-pushback-west-virginia-approves-air-quality-permits-for-data-center-energy-campus-in-mingo-county/"
+   },
+   {
+    "para": 2,
+    "t": "The Twisted Gun Road application had its own online meeting in August 2025, with written comments closing on August 22, and it gave January 1, 2027 as the expected start of operation.",
+    "src": "https://www.wvgazettemail.com/news/energy_and_environment/dep-to-hold-meeting-on-permit-requests-for-gas-powered-mingo-county-data-center-sites/article_ec86d7dc-bda9-4543-bf11-8eb621592b9a.html"
+   },
+   {
+    "para": 2,
+    "t": "The paperwork put potential annual emissions at 206 tons of carbon monoxide, 194 tons of nitrogen oxides, 118 tons of volatile organic compounds, and 188 tons of fine particulate matter at one plant and 187 at the other.",
+    "src": "https://www.wvgazettemail.com/news/energy_and_environment/dep-to-hold-meeting-on-permit-requests-for-gas-powered-mingo-county-data-center-sites/article_ec86d7dc-bda9-4543-bf11-8eb621592b9a.html"
+   },
+   {
+    "para": 2,
+    "t": "Tyler Cannon, coordinator of the West Virginia Climate Alliance, wrote that \"the public will bear the cost of living with air emissions, without any benefit to the public grid, and may face increased electric bills.\"",
+    "src": "https://www.wvgazettemail.com/news/energy_and_environment/dep-to-hold-meeting-on-permit-requests-for-gas-powered-mingo-county-data-center-sites/article_ec86d7dc-bda9-4543-bf11-8eb621592b9a.html"
+   },
+   {
+    "para": 3,
+    "t": "On December 3, 2025, ten Mingo County residents sued in the U.S. District Court for the Southern District of West Virginia, case 3:25-cv-1013.",
+    "src": "https://www.williamsondailynews.com/news/local-residents-file-federal-lawsuit-to-block-major-data-center-project-near-wharncliffe/article_93e229fc-9ed9-4634-a1d8-05068fb2b8ae.html"
+   },
+   {
+    "para": 3,
+    "t": "They are Danny Hatfield, Martha Browning, Bonnie Breeding Runyon, Sheila Miller, Chris Cohenour, Tina Cohenour, Jared Calloway, Stewart Johnson, Joshua Vance and Bill Gilkerson.",
+    "src": "https://www.williamsondailynews.com/news/local-residents-file-federal-lawsuit-to-block-major-data-center-project-near-wharncliffe/article_93e229fc-9ed9-4634-a1d8-05068fb2b8ae.html"
+   },
+   {
+    "para": 3,
+    "t": "They named TransGas, the Huntington District of the Army Corps of Engineers, the U.S. Fish and Wildlife Service and the Federal Energy Regulatory Commission, and alleged breaches of the Endangered Species Act, the Clean Water Act, the National Environmental Policy Act and the Natural Gas Act.",
+    "src": "https://www.williamsondailynews.com/news/local-residents-file-federal-lawsuit-to-block-major-data-center-project-near-wharncliffe/article_93e229fc-9ed9-4634-a1d8-05068fb2b8ae.html"
+   },
+   {
+    "para": 3,
+    "t": "The endangered animals at issue are the Guyandotte crayfish and the Big Sandy crayfish, which live in the watershed where the residents live and fish.",
+    "src": "https://www.williamsondailynews.com/news/local-residents-file-federal-lawsuit-to-block-major-data-center-project-near-wharncliffe/article_93e229fc-9ed9-4634-a1d8-05068fb2b8ae.html"
+   },
+   {
+    "para": 3,
+    "t": "Their lawyer, Steve New, said he looked forward to \"judicial review of the allegations of the people in the Gilbert area raising concerns about this data center project.\"",
+    "src": "https://www.williamsondailynews.com/news/local-residents-file-federal-lawsuit-to-block-major-data-center-project-near-wharncliffe/article_93e229fc-9ed9-4634-a1d8-05068fb2b8ae.html"
+   },
+   {
+    "para": 3,
+    "t": "On December 23, 2025, U.S. District Judge Robert C. Chambers refused their request for a temporary restraining order and a preliminary injunction, finding they had not notified the defendants and had not shown they were likely to win or to suffer irreparable harm.",
+    "src": "https://www.mingomessenger.com/news/article_6eeb9092-1e73-4b20-8e3e-36f17af3e0e9.html"
+   },
+   {
+    "para": 3,
+    "t": "The case goes on, and the project can proceed while it does.",
+    "src": "https://www.mingomessenger.com/news/article_6eeb9092-1e73-4b20-8e3e-36f17af3e0e9.html"
+   },
+   {
+    "para": 4,
+    "t": "The second TransGas campus, the same size again, is 22 kilometres away at the Harless Industrial Park.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "Nothing at this scale generates power in the area now: the closest plants the record holds are the 84 megawatt Buchanan Generation gas plant 47 kilometres off and the 460 megawatt Clinch River gas plant 77 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "No moratorium or zoning limit on data centers applies anywhere near the site.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The organised opposition runs through the West Virginia Citizen Action Group, the statewide group that campaigned for a public hearing on the permits and that Tyler Cannon writes for.",
+    "src": "data:fractracker.group"
+   }
+  ],
+  "sources": [
+   "https://ohiorivervalleyinstitute.org/adams-fork-energy-whats-happening-with-the-worlds-largest-proposed-ammonia-plant/",
+   "https://ohiorivervalleyinstitute.org/adams-fork-is-a-giant-waste-of-energy/",
+   "https://www.wvhighlands.org/article/despite-public-pushback-west-virginia-approves-air-quality-permits-for-data-center-energy-campus-in-mingo-county/",
+   "https://www.wvgazettemail.com/news/energy_and_environment/dep-to-hold-meeting-on-permit-requests-for-gas-powered-mingo-county-data-center-sites/article_ec86d7dc-bda9-4543-bf11-8eb621592b9a.html",
+   "https://www.williamsondailynews.com/news/local-residents-file-federal-lawsuit-to-block-major-data-center-project-near-wharncliffe/article_93e229fc-9ed9-4634-a1d8-05068fb2b8ae.html",
+   "https://www.mingomessenger.com/news/article_6eeb9092-1e73-4b20-8e3e-36f17af3e0e9.html"
+  ],
+  "unconfirmed": "No tenant is named in any source, and no source says who would occupy the data center or buy its compute. Water supply and cooling for the data center itself were not established. The Ohio River Valley Institute reports that no construction has begun. Sources disagree on whether the engine count is 114 or 117, and that has not been resolved here. The Charleston Gazette-Mail dates the online meeting on the Twisted Gun Road application only by weekday, so no calendar date for it is given above."
+ },
+ {
+  "id": "ft-1782349093239-6541",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Silicon Foundation Energy LLC wants to put a data center on 15 acres at 74 Warwood Avenue in Wheeling, in Ohio County, West Virginia, the old Centre Foundry and Machine Company site on the Ohio River.",
+    "src": "https://www.theintelligencer.net/news/top-headlines/2026/06/from-foundry-to-future-warwood-site-eyed-for-100-megawatt-data-center-campus/"
+   },
+   {
+    "para": 0,
+    "t": "It bought the brownfield for $1.5 million in the spring of 2026, said it would keep the 60,000 square foot foundry building, and hired Stokes Energy Inc., an engineering firm from South Carolina, as the engineering, procurement and construction contractor.",
+    "src": "https://www.theintelligencer.net/news/top-headlines/2026/06/from-foundry-to-future-warwood-site-eyed-for-100-megawatt-data-center-campus/"
+   },
+   {
+    "para": 0,
+    "t": "It is the contractor's name, not the owner's, that the project is filed under here.",
+    "src": "data:developer"
+   },
+   {
+    "para": 1,
+    "t": "Silicon Foundation describes a site that already has a live 10 megawatt connection at 69 kilovolts, which it says reduces its exposure to the multi-year interconnection queues that hold up new sites, and says the campus would grow to 20 to 30 megawatts with upgraded power and cooling.",
+    "src": "https://silicon.foundation/datacenter.html"
+   },
+   {
+    "para": 1,
+    "t": "The first phase is a 10 megawatt modular data center with a 6 megawatt, 12 megawatt hour battery system, and the company puts about three months between a commercial agreement and the first rack going live.",
+    "src": "https://silicon.foundation/datacenter.html"
+   },
+   {
+    "para": 1,
+    "t": "The Intelligencer reported a third phase at 100 megawatts, a regional compute hub, which is the figure the record carries.",
+    "src": "https://www.theintelligencer.net/news/top-headlines/2026/06/from-foundry-to-future-warwood-site-eyed-for-100-megawatt-data-center-campus/"
+   },
+   {
+    "para": 1,
+    "t": "The two accounts of what is being built do not sit easily together: a later Intelligencer report has the primary purpose as manufacturing modular components used to build AI data centers, with a computing and energy campus on or next to the property only something the company is exploring.",
+    "src": "https://www.theintelligencer.net/news/top-headlines/2026/06/after-a-week-of-data-center-discussion-in-the-ohio-valley-heres-what-we-know/"
+   },
+   {
+    "para": 1,
+    "t": "West Virginia's deputy commerce secretary told the paper that \"the project in question is not a high impact data center\" but a mixed use manufacturing and technology facility.",
+    "src": "https://www.theintelligencer.net/news/top-headlines/2026/06/after-a-week-of-data-center-discussion-in-the-ohio-valley-heres-what-we-know/"
+   },
+   {
+    "para": 2,
+    "t": "The city has not been asked to approve anything.",
+    "src": "https://www.theintelligencer.net/news/top-headlines/2026/06/after-a-week-of-data-center-discussion-in-the-ohio-valley-heres-what-we-know/"
+   },
+   {
+    "para": 2,
+    "t": "City manager Robert Herron said he and others had met a Silicon Foundation representative for a preliminary discussion, but that no project was officially in the works.",
+    "src": "https://www.theintelligencer.net/news/top-headlines/2026/06/after-a-week-of-data-center-discussion-in-the-ohio-valley-heres-what-we-know/"
+   },
+   {
+    "para": 2,
+    "t": "Herron said the Warwood site suits the use because it has energised high voltage service, industrial zoning, gas infrastructure and the river for cooling.",
+    "src": "https://www.theintelligencer.net/news/top-headlines/2026/06/from-foundry-to-future-warwood-site-eyed-for-100-megawatt-data-center-campus/"
+   },
+   {
+    "para": 2,
+    "t": "State Senator Laura Wakim Chapman, a Republican from Ohio County, said she was hoping to get the owners to hold a community event, and that \"in the grand scheme of things, it's not a huge data center.\"",
+    "src": "https://www.theintelligencer.net/news/top-headlines/2026/06/from-foundry-to-future-warwood-site-eyed-for-100-megawatt-data-center-campus/"
+   },
+   {
+    "para": 2,
+    "t": "Delegate Shawn Fluharty, a Democrat from Ohio County, said there had been \"nothing as far as any public hearings, local input, concerns and questions being answered,\" and that under House Bill 2014, the state's new data center law, \"most of the tax revenue it generates will flow back to Charleston and will not stay in Ohio County.\"",
+    "src": "https://www.theintelligencer.net/news/top-headlines/2026/06/from-foundry-to-future-warwood-site-eyed-for-100-megawatt-data-center-campus/"
+   },
+   {
+    "para": 3,
+    "t": "Warwood organised faster than the paperwork moved.",
+    "src": "https://www.msmpaperwv.com/news/demandingduediligence"
+   },
+   {
+    "para": 3,
+    "t": "A strategy meeting after the first town hall drew at least a hundred people, and sixteen people signed up to speak at a Wheeling city council meeting where one or two is normal.",
+    "src": "https://www.msmpaperwv.com/news/demandingduediligence"
+   },
+   {
+    "para": 3,
+    "t": "Polly Barks, who had twenty to twenty-five residents in her living room the day after the town hall, said the valley has seen this before: \"We've had coal, we've had all this mining, we've had fracking.\"",
+    "src": "https://www.msmpaperwv.com/news/demandingduediligence"
+   },
+   {
+    "para": 3,
+    "t": "Companies like this, she said, \"overpromise, they underdeliver, they strip all the natural resources and all the good things out of a community, and then dip out when the money's gone.\"",
+    "src": "https://www.msmpaperwv.com/news/demandingduediligence"
+   },
+   {
+    "para": 3,
+    "t": "Fluharty had told residents at the outset that there was nothing they could do to push back, which is what set the organising going.",
+    "src": "https://www.msmpaperwv.com/news/demandingduediligence"
+   },
+   {
+    "para": 4,
+    "t": "On July 24, 2026, twelve Warwood residents sued Silicon Foundry Energy LLC, trading as Silicon Foundation, in Ohio County Circuit Court before Judge David Sims.",
+    "src": "https://www.timesleaderonline.com/news/local-news/2026/07/warwood-residents-file-civil-suit-to-stop-data-center-development/"
+   },
+   {
+    "para": 4,
+    "t": "They are Polly Barks, Joe DePaulis, Owen Dobreynski Hines, Savannah Fedczak, Elizabeth Hannah, Albert \"Marc\" Hannah, Heather Hines, Heidi Kossuth, Betinna Makley, Natalie Miniard, Liz Stephens and Randy Stephens, represented by J. Anthony Edmond Jr. of Edmond and Baum PLLC.",
+    "src": "https://www.timesleaderonline.com/news/local-news/2026/07/warwood-residents-file-civil-suit-to-stop-data-center-development/"
+   },
+   {
+    "para": 4,
+    "t": "They ask for an injunction, saying the data center would \"create substantial and unreasonable interference with the plaintiffs' use and enjoyment of their property\" through noise, fumes, odours, vibration, storm water runoff, flooding, light trespass, fire risk, reduced property value and potential utility cost shifting, and they allege House Bill 2014 is unconstitutional.",
+    "src": "https://www.timesleaderonline.com/news/local-news/2026/07/warwood-residents-file-civil-suit-to-stop-data-center-development/"
+   },
+   {
+    "para": 4,
+    "t": "David Croft, the lawyer for Silicon Foundation, said: \"We will review the nature of the claims set forth and will respond to them accordingly.\"",
+    "src": "https://www.timesleaderonline.com/news/local-news/2026/07/warwood-residents-file-civil-suit-to-stop-data-center-development/"
+   },
+   {
+    "para": 5,
+    "t": "This is the only data center site recorded in Ohio County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 5,
+    "t": "The 1,790 megawatt Cardinal coal plant is 17 kilometres away and the 1,560 megawatt Mitchell coal plant 32 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 5,
+    "t": "Wheeling has no zoning limit on data centers, but over the state line Smith Township and South Strabane in Pennsylvania have both written one, South Strabane's dated February 4, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.theintelligencer.net/news/top-headlines/2026/06/from-foundry-to-future-warwood-site-eyed-for-100-megawatt-data-center-campus/",
+   "https://www.theintelligencer.net/news/top-headlines/2026/06/after-a-week-of-data-center-discussion-in-the-ohio-valley-heres-what-we-know/",
+   "https://www.timesleaderonline.com/news/local-news/2026/07/warwood-residents-file-civil-suit-to-stop-data-center-development/",
+   "https://www.msmpaperwv.com/news/demandingduediligence",
+   "https://silicon.foundation/datacenter.html"
+  ],
+  "unconfirmed": "No filing has been made to the city or the county, so there is no hearing date, no site plan and no confirmed build schedule. Water withdrawal from the Ohio River is raised as a possibility by the city manager but no volume is given anywhere. The named tenant or customer for the compute is unknown. The Intelligencer gives the buyer as Silicon Foundation Energy LLC while the Times Leader gives the defendant in the residents' suit as Silicon Foundry Energy LLC, trading as Silicon Foundation; both spellings are left as their sources have them. Our record leaves the developer field blank, so the project is filed under the contractor Stokes Energy rather than the owner. The date and attendance of the first Warwood town hall are not given in the report that describes it. The Data Center Dynamics report our record cites could not be fetched."
+ },
+ {
+  "id": "ft-1782186948504-7033",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Prometheus Hyperscale wants a data center campus on 506 acres of ranchland 12 miles east of Evanston, in Uinta County, Wyoming, on the south side of Interstate 80.",
+    "src": "https://www.kpcw.org/state-regional/2026-06-19/1-25gw-data-center-approved-on-ranchland-near-evanston-wyoming"
+   },
+   {
+    "para": 0,
+    "t": "The ground is a ranch Trenton Thornock's family has worked for six generations, and the campus he wants on it would draw 1.25 gigawatts, more electricity than all the homes in Wyoming use.",
+    "src": "https://www.kpcw.org/state-regional/2026-06-19/1-25gw-data-center-approved-on-ranchland-near-evanston-wyoming"
+   },
+   {
+    "para": 0,
+    "t": "Thornock founded the company as Wyoming Hyperscale White Box, the name this project still carries, and renamed it Prometheus Hyperscale in September 2024 when he announced four more sites in Arizona and Colorado.",
+    "src": "https://www.prometheushyperscale.com/news/wyoming-hyperscale-becomes-prometheus-hyperscale,-reveals-pipeline-of-four-additional-sites"
+   },
+   {
+    "para": 0,
+    "t": "The company puts the initial 1.25 gigawatts on a development path to 5 gigawatts.",
+    "src": "https://www.prometheushyperscale.com/news/prometheus-hyperscale-secures-unanimous-conditional-use-permit-approval-from-uinta-county-commissioners"
+   },
+   {
+    "para": 1,
+    "t": "On May 26, 2026, Thornock took the plan to a packed room at the Roundhouse in Evanston.",
+    "src": "https://cowboystatedaily.com/2026/05/26/prometheus-faces-skeptical-crowd-in-evanston-over-huge-1-2gw-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "He argued the industry is wasteful and his design is not, saying of other operators that \"they're using way too much power for the amount of compute that they're getting out and they're using way too much water for cooling.\"",
+    "src": "https://cowboystatedaily.com/2026/05/26/prometheus-faces-skeptical-crowd-in-evanston-over-huge-1-2gw-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Asked about the grid, he said the campus would run off grid on natural gas from the Kern River pipeline, burned in engines on site, so there is \"zero impact on your rates, because we are not connecting to Rocky Mountain Power.\"",
+    "src": "https://cowboystatedaily.com/2026/05/26/prometheus-faces-skeptical-crowd-in-evanston-over-huge-1-2gw-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The company describes a fully islanded microgrid of high efficiency natural gas engines and turbines with no draw on the public utility grid.",
+    "src": "https://www.prometheushyperscale.com/news/prometheus-hyperscale-secures-unanimous-conditional-use-permit-approval-from-uinta-county-commissioners"
+   },
+   {
+    "para": 1,
+    "t": "Cooling would be a closed loop of water and propylene glycol, trucked in and replaced about every six years, which the company says means no draw on groundwater or surface water.",
+    "src": "https://www.kpcw.org/state-regional/2026-06-19/1-25gw-data-center-approved-on-ranchland-near-evanston-wyoming"
+   },
+   {
+    "para": 1,
+    "t": "For the engines themselves Thornock put the water use at \"a couple of Yeti cups per day\" each, with a well on site only for employee washrooms.",
+    "src": "https://cowboystatedaily.com/2026/05/26/prometheus-faces-skeptical-crowd-in-evanston-over-huge-1-2gw-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Eric Schlidt of the Build Wyoming initiative said the campus would not use water from the nearby Bear River.",
+    "src": "https://www.kpcw.org/state-regional/2026-06-19/1-25gw-data-center-approved-on-ranchland-near-evanston-wyoming"
+   },
+   {
+    "para": 1,
+    "t": "County Commissioner Mark Anderson asked whether the 200 permanent jobs would be real local jobs or remote ones, and was told they would not be remote, at wages from about $75,000 a year on the low end to about $150,000 on the high end.",
+    "src": "https://cowboystatedaily.com/2026/05/26/prometheus-faces-skeptical-crowd-in-evanston-over-huge-1-2gw-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Pressed on who the tenants would be, Thornock said he had turned down a contract with the Chinese owned company ByteDance, and that the final agreement bars certain owners, with at least five Chinese names on the list.",
+    "src": "https://cowboystatedaily.com/2026/05/26/prometheus-faces-skeptical-crowd-in-evanston-over-huge-1-2gw-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "He said repeatedly that he had asked for no tax abatements and was taking no government money, and that the equity and debt behind the campus were raised from private investors through a Morgan Stanley bond offering.",
+    "src": "https://cowboystatedaily.com/2026/05/26/prometheus-faces-skeptical-crowd-in-evanston-over-huge-1-2gw-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "The University of Wyoming Center for Business and Economic Analysis put the figures at a $3.1 billion economic impact through 2032, $184 million in state tax revenue during construction and $53 million a year once the campus runs.",
+    "src": "https://www.prometheushyperscale.com/news/prometheus-hyperscale-secures-unanimous-conditional-use-permit-approval-from-uinta-county-commissioners"
+   },
+   {
+    "para": 2,
+    "t": "Cowboy State Daily read the same analysis differently, as $3.1 billion in Uinta County through 2032 and $184 million statewide through 2029, with the $53 million a year coming largely from severance taxes on the gas burned on site.",
+    "src": "https://cowboystatedaily.com/2026/05/26/prometheus-faces-skeptical-crowd-in-evanston-over-huge-1-2gw-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "Uinta County commissioners granted the conditional use permit unanimously on June 17, 2026.",
+    "src": "https://www.prometheushyperscale.com/news/prometheus-hyperscale-secures-unanimous-conditional-use-permit-approval-from-uinta-county-commissioners"
+   },
+   {
+    "para": 3,
+    "t": "Three residents, Christy Katzl, Wilhelm Katzl and Marijke Rossi, filed a petition for administrative review on July 16, 2026.",
+    "src": "https://cowboystatedaily.com/2026/08/25/prometheus-pushes-ahead-on-32b-wyoming-data-centers-as-legal-challenge-fades/"
+   },
+   {
+    "para": 3,
+    "t": "They said meetings with the developers had gone unadvertised, that possible family connections between county officials and the developers had not been disclosed, which county officials denied, and that no environmental study of the closed loop water system was done before the permits were issued.",
+    "src": "https://cowboystatedaily.com/2026/08/25/prometheus-pushes-ahead-on-32b-wyoming-data-centers-as-legal-challenge-fades/"
+   },
+   {
+    "para": 3,
+    "t": "Judge James Kaste ruled against them on August 17, 2026, finding they had not answered a motion to dismiss in time and had not shown how the data center would harm them personally.",
+    "src": "https://cowboystatedaily.com/2026/08/25/prometheus-pushes-ahead-on-32b-wyoming-data-centers-as-legal-challenge-fades/"
+   },
+   {
+    "para": 3,
+    "t": "That ended the review and left the permits standing.",
+    "src": "https://cowboystatedaily.com/2026/08/25/prometheus-pushes-ahead-on-32b-wyoming-data-centers-as-legal-challenge-fades/"
+   },
+   {
+    "para": 3,
+    "t": "Christy Katzl, stepping back because of cancer surgery, said: \"I stand firmly behind the concerns we raised regarding the Prometheus Hyperscale data center, but it is now up to the citizens of Uinta County to take up the banner and drive this forward.\"",
+    "src": "https://cowboystatedaily.com/2026/08/25/prometheus-pushes-ahead-on-32b-wyoming-data-centers-as-legal-challenge-fades/"
+   },
+   {
+    "para": 4,
+    "t": "Cowboy State Daily reported on August 25, 2026 that ground had not been broken and that a county commission meeting that week was one of the last steps before construction could start.",
+    "src": "https://cowboystatedaily.com/2026/08/25/prometheus-pushes-ahead-on-32b-wyoming-data-centers-as-legal-challenge-fades/"
+   },
+   {
+    "para": 4,
+    "t": "The company expects to begin within six months of final permitting and to build the full 1.25 gigawatts in phases over 48 to 60 months.",
+    "src": "https://www.prometheushyperscale.com/news/prometheus-hyperscale-secures-unanimous-conditional-use-permit-approval-from-uinta-county-commissioners"
+   },
+   {
+    "para": 4,
+    "t": "The plan has changed shape over the years.",
+    "src": "https://www.datacenterfrontier.com/hyperscale/article/21437203/wyoming-hyperscale-the-future-of-the-data-center"
+   },
+   {
+    "para": 4,
+    "t": "When Data Center Frontier wrote about Wyoming Hyperscale in November 2022 it was a build on 120 megawatts contracted from Rocky Mountain Power with a 138 kilovolt substation, cooled by dunking servers in fluid, with waste heat warming a 30 acre indoor farm.",
+    "src": "https://www.datacenterfrontier.com/hyperscale/article/21437203/wyoming-hyperscale-the-future-of-the-data-center"
+   },
+   {
+    "para": 4,
+    "t": "The power figure is now ten times that and the utility connection is gone.",
+    "src": "https://cowboystatedaily.com/2026/05/26/prometheus-faces-skeptical-crowd-in-evanston-over-huge-1-2gw-data-center/"
+   },
+   {
+    "para": 5,
+    "t": "This is the only data center site recorded in Uinta County, and there is no other within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 5,
+    "t": "The generation nearby is wind: the 142 megawatt TransAlta Wyoming Wind farm and the 80 megawatt Mountain Wind Power II are both 21 kilometres off, and the nearest large thermal plant is the 604 megawatt Naughton coal station, 65 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 5,
+    "t": "The whole PacifiCorp East control area the record assigns the site peaks at 9,078 megawatts, so a campus of this size would be a substantial share of it if it were connected, which the company says it will not be.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [
+   "https://www.kpcw.org/state-regional/2026-06-19/1-25gw-data-center-approved-on-ranchland-near-evanston-wyoming",
+   "https://cowboystatedaily.com/2026/05/26/prometheus-faces-skeptical-crowd-in-evanston-over-huge-1-2gw-data-center/",
+   "https://cowboystatedaily.com/2026/08/25/prometheus-pushes-ahead-on-32b-wyoming-data-centers-as-legal-challenge-fades/",
+   "https://www.datacenterfrontier.com/hyperscale/article/21437203/wyoming-hyperscale-the-future-of-the-data-center",
+   "https://www.prometheushyperscale.com/news/prometheus-hyperscale-secures-unanimous-conditional-use-permit-approval-from-uinta-county-commissioners",
+   "https://www.prometheushyperscale.com/news/wyoming-hyperscale-becomes-prometheus-hyperscale,-reveals-pipeline-of-four-additional-sites"
+  ],
+  "unconfirmed": "No tenant is named. The gas supply arrangement and the emissions permitting for on-site generation were not established, and no air permit was found. Whether the coolant is trucked out as waste at the end of its six years, and where it goes, is not stated. Our record puts the address on the north face of Aspen Mountain, which is where Data Center Frontier placed the 2022 build, while the reporting on the approved campus puts it 12 miles east of Evanston on the south side of Interstate 80; whether that is the same ground is not established. The company's release and Cowboy State Daily describe the University of Wyoming's $184 million differently, as state tax revenue during construction and as statewide economic impact through 2029, and both readings are given above. The company dates the commissioners' vote to June 17, 2026, while KPCW's report of June 19 has it on the Tuesday of that week."
+ }
+]

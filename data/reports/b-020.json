@@ -1,0 +1,527 @@
+[
+ {
+  "id": "gemini-rowan-bauxite-iii",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Rowan Bauxite III is a data center under construction on Manor Woods Road in Frederick County, Maryland, built by Rowan Digital Infrastructure as part of the Quantum Frederick campus.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Reporting on the wider campus describes a plan for three buildings with an expected electricity demand of at least 100 megawatts.",
+    "src": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+   },
+   {
+    "para": 1,
+    "t": "Nature Forward, a Maryland conservation group, has documented environmental problems on the Quantum Frederick campus during construction.",
+    "src": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+   },
+   {
+    "para": 1,
+    "t": "In April 2024, fiber route construction on the campus caused a frac-out, an unreported release of bentonite drilling fluid, into a local stream.",
+    "src": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+   },
+   {
+    "para": 1,
+    "t": "The group counted at least 67 site inspections by the Maryland Department of the Environment that found violations, including illegal sediment discharge into waterways and construction without required permits.",
+    "src": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+   },
+   {
+    "para": 1,
+    "t": "In 2026 the group reported a further incident in which construction crews illegally pumped concrete wash water on the site.",
+    "src": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+   },
+   {
+    "para": 2,
+    "t": "Frederick County residents organized through the Data Center Referendum Committee and the group Citizens for Responsible Growth to try to force a public vote on the county's data center boom, but courts blocked the referendum in June 2026.",
+    "src": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+   },
+   {
+    "para": 2,
+    "t": "This project in particular has drawn severe community scrutiny since the drilling fluid contamination in local waterways.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+  ],
+  "unconfirmed": "Coverage discusses environmental violations across the broader Quantum Frederick campus; we could not confirm which specific incidents occurred on the Rowan Bauxite III parcel itself. A second listed source, datacentermap.com, returned a server error on every fetch attempt and could not be read."
+ },
+ {
+  "id": "gemini-percheron",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Percheron is a proposed 300 megawatt data center campus from Rowan Digital Infrastructure, part of Quinbrook Infrastructure Partners, about 11 miles southwest of Boardman in Morrow County, Oregon.",
+    "src": "https://www.datacenterdynamics.com/en/news/quinbrooks-rowan-planning-1-million-sq-ft-data-center-campus-in-morrow-county-oregon/"
+   },
+   {
+    "para": 0,
+    "t": "The plan is up to 1.125 million square feet across four buildings on 190 of 274 acres bought from Threemile Canyon Farms, with the rest set aside for conservation, and it sits 3.1 miles from the Umatilla National Wildlife Refuge.",
+    "src": "https://www.datacenterdynamics.com/en/news/quinbrooks-rowan-planning-1-million-sq-ft-data-center-campus-in-morrow-county-oregon/"
+   },
+   {
+    "para": 0,
+    "t": "At full load it would draw about as much electricity as 225,000 homes.",
+    "src": "https://www.datacenterdynamics.com/en/news/quinbrooks-rowan-planning-1-million-sq-ft-data-center-campus-in-morrow-county-oregon/"
+   },
+   {
+    "para": 1,
+    "t": "On September 6, 2023 the Morrow County commissioners voted 3 to 0 to rezone the land from agricultural to industrial.",
+    "src": "https://eastoregonian.com/2023/09/14/percheron-data-center-receives-approval/"
+   },
+   {
+    "para": 1,
+    "t": "Commissioner David Sykes said the test was whether the applicant met the findings on the evidence put forward.",
+    "src": "https://eastoregonian.com/2023/09/14/percheron-data-center-receives-approval/"
+   },
+   {
+    "para": 1,
+    "t": "Bobby Hollis, Rowan's chief commercial officer, said the company had been confident from the outset that the site met the legal standard.",
+    "src": "https://eastoregonian.com/2023/09/14/percheron-data-center-receives-approval/"
+   },
+   {
+    "para": 1,
+    "t": "Threemile Canyon Farms said the land had not been farmed in the 70 years for which it holds records.",
+    "src": "https://eastoregonian.com/2023/09/14/percheron-data-center-receives-approval/"
+   },
+   {
+    "para": 2,
+    "t": "Two bodies objected, and neither was a neighbour.",
+    "src": "https://eastoregonian.com/2023/09/14/percheron-data-center-receives-approval/"
+   },
+   {
+    "para": 2,
+    "t": "Oregon's Department of Land Conservation and Development said the zoning change was unwarranted and cut against the state's agricultural conservation goals.",
+    "src": "https://eastoregonian.com/2023/09/14/percheron-data-center-receives-approval/"
+   },
+   {
+    "para": 2,
+    "t": "The group 1,000 Friends of Oregon said the assessment of whether there was enough water had not been adequate.",
+    "src": "https://eastoregonian.com/2023/09/14/percheron-data-center-receives-approval/"
+   },
+   {
+    "para": 3,
+    "t": "Due diligence began in late 2022, the land closed in 2024, and a phased build is aimed at completion by 2030.",
+    "src": "https://www.datacenterdynamics.com/en/news/quinbrooks-rowan-planning-1-million-sq-ft-data-center-campus-in-morrow-county-oregon/"
+   },
+   {
+    "para": 3,
+    "t": "This is the county where more than 600 domestic wells across a 562 square mile area test above the safe nitrate limit and where Amazon agreed on March 31, 2026 to pay $20.5 million toward well and water infrastructure work, denying wrongdoing.",
+    "src": "https://www.rainintelligence.com/blog/data-center-water-pollution-litigation"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/quinbrooks-rowan-planning-1-million-sq-ft-data-center-campus-in-morrow-county-oregon/",
+   "https://eastoregonian.com/2023/09/14/percheron-data-center-receives-approval/",
+   "https://www.rainintelligence.com/blog/data-center-water-pollution-litigation"
+  ],
+  "unconfirmed": "No water withdrawal figure for the campus was found, which is the point 1,000 Friends of Oregon raised, and no resident of Morrow County is quoted about it. Building count is given as four in trade coverage and as two to five in the county reporting, depending on the end user, who has not been named. Square footage is given as 1 million and as 1.125 million in different accounts."
+ },
+ {
+  "id": "gemini-sabey-umatilla",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Sabey Data Centers is building a campus at Umatilla, in eastern Oregon, on a 60 acre lot it acquired in 2023, with a formal groundbreaking in July 2026 and vertical construction under way by August.",
+    "src": "https://news.constructconnect.com/sabey-data-centers-breaks-ground-on-714540-square-foot-umatilla-campus"
+   },
+   {
+    "para": 0,
+    "t": "The plan is two buildings totalling about 714,540 square feet, developed for around $950 million, designed to support more than 150 megawatts against an initially announced 100, with the first data hall due online in April 2028.",
+    "src": "https://www.commercialsearch.com/news/sabey-data-centers-picks-oregon-for-950m-project/"
+   },
+   {
+    "para": 0,
+    "t": "Site work has involved blasting and stockpiling rock to be reused in construction.",
+    "src": "https://news.constructconnect.com/sabey-data-centers-breaks-ground-on-714540-square-foot-umatilla-campus"
+   },
+   {
+    "para": 1,
+    "t": "The land was rezoned from agricultural to industrial.",
+    "src": "https://www.datacenterfrontier.com/energy/article/33011494/sabey-data-centers-plans-100-mw-multi-tenant-campus-in-gathering-eastern-oregon"
+   },
+   {
+    "para": 1,
+    "t": "Sabey gives its reasons for the location as the mild climate, available land, stable geology, access to renewable hydropower and a growing technical workforce.",
+    "src": "https://www.datacenterfrontier.com/energy/article/33011494/sabey-data-centers-plans-100-mw-multi-tenant-campus-in-gathering-eastern-oregon"
+   },
+   {
+    "para": 2,
+    "t": "It is arriving into the part of Oregon where this industry is already most concentrated and most contested.",
+    "src": "https://waterwatch.org/how-oregons-data-center-boom-is-supercharging-a-water-crisis/"
+   },
+   {
+    "para": 2,
+    "t": "Dozens of buildings are operating or under development across ten campuses in neighbouring Morrow County, roughly 20 miles west, where Amazon secured about $1 billion in tax incentives for five facilities at the Port of Morrow.",
+    "src": "https://www.commercialsearch.com/news/sabey-data-centers-picks-oregon-for-950m-project/"
+   },
+   {
+    "para": 2,
+    "t": "That is the county where more than 600 domestic wells across a 562 square mile area now test above the safe nitrate limit, and where Amazon agreed on March 31, 2026 to pay $20.5 million toward well and water infrastructure work while denying wrongdoing.",
+    "src": "https://www.rainintelligence.com/blog/data-center-water-pollution-litigation"
+   },
+   {
+    "para": 2,
+    "t": "Nothing in the coverage of Sabey's project addresses how much water it will use.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://www.commercialsearch.com/news/sabey-data-centers-picks-oregon-for-950m-project/",
+   "https://news.constructconnect.com/sabey-data-centers-breaks-ground-on-714540-square-foot-umatilla-campus",
+   "https://www.datacenterfrontier.com/energy/article/33011494/sabey-data-centers-plans-100-mw-multi-tenant-campus-in-gathering-eastern-oregon",
+   "https://www.rainintelligence.com/blog/data-center-water-pollution-litigation"
+  ],
+  "unconfirmed": "Searches on Sabey with Umatilla, on Umatilla Oregon with data center, and on Morrow County with Sabey found no water figure, no hearing record and no resident comment on this project. Capacity is given variously as 100 megawatts and more than 150; the rezoning date and the identity of any tenant were not established. The Morrow County water material describes the neighbouring county and is not attributed to this site."
+ },
+ {
+  "id": "gemini-crane-pdx01",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Crane Data Centers is building PDX01 at 3975 Heather Street in Forest Grove, in Washington County west of Portland, on a campus of about 35 acres with two buildings.",
+    "src": "https://www.datacentermap.com/usa/oregon/hillsboro/crane-portland/"
+   },
+   {
+    "para": 0,
+    "t": "Construction began in 2024, broke ground formally in 2025, and the first building is due in service in 2026 ahead of a phased build out.",
+    "src": "https://fortisconstruction.com/project/crane-pdx01-data-center-campus/"
+   },
+   {
+    "para": 0,
+    "t": "The design uses air cooling, rainwater harvesting and backup biodiesel generators, and is aiming at LEED certification.",
+    "src": "https://www.cranedc.com/data-centers/oregon-data-center"
+   },
+   {
+    "para": 1,
+    "t": "It was not welcomed.",
+    "src": "https://www.datacenterdynamics.com/en/news/planning-commission-greenlights-crane-dcs-forest-grove-data-center-in-northwest-oregon-again/"
+   },
+   {
+    "para": 1,
+    "t": "Residents appealed the approval to the Planning Commission, which denied the appeal, and then to the City Council, which denied it too.",
+    "src": "https://www.datacenterdynamics.com/en/news/planning-commission-greenlights-crane-dcs-forest-grove-data-center-in-northwest-oregon-again/"
+   },
+   {
+    "para": 1,
+    "t": "What they argued was the scale of the buildings, the shadow they would cast over houses, the effect on wetlands and habitat, and the strain on the grid.",
+    "src": "https://www.datacenterdynamics.com/en/news/planning-commission-greenlights-crane-dcs-forest-grove-data-center-in-northwest-oregon-again/"
+   },
+   {
+    "para": 1,
+    "t": "The commission then approved the project a second time.",
+    "src": "https://www.datacenterdynamics.com/en/news/planning-commission-greenlights-crane-dcs-forest-grove-data-center-in-northwest-oregon-again/"
+   },
+   {
+    "para": 2,
+    "t": "Crane has a second Forest Grove project, PDX02, behind this one.",
+    "src": "https://www.compute-atlas.com/facilities/crane-pdx02-forest-grove-or"
+   }
+  ],
+  "sources": [
+   "https://www.datacentermap.com/usa/oregon/hillsboro/crane-portland/",
+   "https://fortisconstruction.com/project/crane-pdx01-data-center-campus/",
+   "https://www.cranedc.com/data-centers/oregon-data-center",
+   "https://www.datacenterdynamics.com/en/news/planning-commission-greenlights-crane-dcs-forest-grove-data-center-in-northwest-oregon-again/"
+  ],
+  "unconfirmed": "No power capacity or water figure was found, and no resident or official is quoted by name; the Data Center Dynamics account of the appeals refused our requests and is summarised here from search results. The dates of the Planning Commission and City Council decisions were not established. Directories disagree on whether the address is in Forest Grove or Hillsboro; the company and the planning coverage both say Forest Grove."
+ },
+ {
+  "id": "gemini-atnorth-swe04",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "atNorth SWE04 is a proposed 300 megawatt data centre site at Solleftea, in Sweden's Vasternorrland region.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It was announced in 2026 as part of a roughly $4 billion acquisition of atNorth led by Equinix and the Canada Pension Plan Investment Board, alongside a smaller site in Stockholm and an expanded campus in Finland.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "The company's pattern in the Nordics is to build where hydroelectric power is and to look for somewhere to put the heat.",
+    "src": "https://www.atnorth.com/news/atnorth-expands-to-norway-with-new-mega-site-in-haugaland/"
+   },
+   {
+    "para": 1,
+    "t": "At its Norwegian site at Haugaland, announced in June 2026, it bought 36 hectares for a campus starting at 120 megawatts and reaching 350, on about 11 billion Norwegian kroner for the first phase, with power availability projected for 2028 and dependent on two new substations built by Statnett and the regional grid company Fagne.",
+    "src": "https://www.datacenterdynamics.com/en/news/atnorth-plans-350mw-data-center-campus-in-norway/"
+   },
+   {
+    "para": 1,
+    "t": "It says it is exploring heat reuse with local partners there.",
+    "src": "https://www.atnorth.com/nordic-data-centers/norway-data-centers/haugaland-nor01/"
+   },
+   {
+    "para": 2,
+    "t": "Nothing comparable has been published about Solleftea: no site area, no timetable, no grid arrangement and no municipal decision.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://www.atnorth.com/news/atnorth-expands-to-norway-with-new-mega-site-in-haugaland/",
+   "https://www.datacenterdynamics.com/en/news/atnorth-plans-350mw-data-center-campus-in-norway/",
+   "https://www.atnorth.com/nordic-data-centers/norway-data-centers/haugaland-nor01/"
+  ],
+  "unconfirmed": "Searches on atNorth with Solleftea, on Vasternorrland with datacenter, and on atNorth with Sweden found no site area, timetable, grid arrangement, water figure, municipal decision or resident comment for this project. The material above describes the company's Norwegian site instead, and is included only to show how it builds."
+ },
+ {
+  "id": "gemini-nsa-utah",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The NSA's data center at Camp Williams near Bluffdale, in Salt Lake County, Utah, finished construction in May 2014 at a reported cost of $1.5 billion.",
+    "src": "https://en.wikipedia.org/wiki/Utah_Data_Center"
+   },
+   {
+    "para": 0,
+    "t": "The 1 to 1.5 million square foot facility opened about a year late after power surges damaged equipment during construction in 2013.",
+    "src": "https://en.wikipedia.org/wiki/Utah_Data_Center"
+   },
+   {
+    "para": 0,
+    "t": "Forbes estimated in 2013 that it could store between 3 and 12 exabytes of data.",
+    "src": "https://en.wikipedia.org/wiki/Utah_Data_Center"
+   },
+   {
+    "para": 1,
+    "t": "Its exact mission is classified, and the NSA has never disclosed how much electricity it uses.",
+    "src": "https://en.wikipedia.org/wiki/Utah_Data_Center"
+   },
+   {
+    "para": 1,
+    "t": "The center became a symbol of post-9/11 domestic surveillance; former NSA analyst William Binney has said it was built to store communications gathered without warrants.",
+    "src": "https://en.wikipedia.org/wiki/Utah_Data_Center"
+   },
+   {
+    "para": 2,
+    "t": "A public dashboard tracking Utah data center water use reports the facility drew more than 126 million gallons of water between October 2024 and September 2025, citing local utility records.",
+    "src": "https://state.datacenterstress.com/"
+   },
+   {
+    "para": 2,
+    "t": "Unlike newer commercial projects in the state, such as the Stratos data center in Box Elder County, the dashboard found no organized local opposition to the Bluffdale facility.",
+    "src": "https://state.datacenterstress.com/"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Utah_Data_Center",
+   "https://state.datacenterstress.com/"
+  ],
+  "unconfirmed": "Current power draw is classified and not published anywhere we found."
+ },
+ {
+  "id": "gemini-yotta-greater-noida",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Yotta's data centre park at Greater Noida, in Uttar Pradesh, opened on about 20 acres in 2022, inaugurated by the chief minister Yogi Adityanath.",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 0,
+    "t": "The first building, D1, is live at 40 megawatts and a second, D4, is under construction at 120 megawatts for AI work, with six buildings planned in all, as part of an investment the company puts above $2 billion to deploy 20,000 Nvidia Blackwell chips.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Gautam Buddh Nagar, the district, is now one of India's busiest data centre corridors, with 17 facilities operating or coming, among them AdaniConneX, Yotta, Nxtra, CtrlS and STT.",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 1,
+    "t": "By June 2025 proposed capacity in the district had reached 644 megawatts.",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 1,
+    "t": "Groundwater extraction across the district runs at 104.79 percent of what is naturally replenished each year, according to the Central Ground Water Board's 2023 assessment.",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 2,
+    "t": "At Tusiana, beside Yotta's park, people now drill 80 to 100 feet for water where two decades ago it sat at 20 to 30.",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 2,
+    "t": "In Khora Colony, 1.2 kilometres from an AdaniConneX facility, the water table has fallen from 120 feet in the early 2000s to about 600 today.",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 2,
+    "t": "Ram Chauhan, a vegetable vendor who has lived there 15 years, said: \"We don't get any government water supply. We depend entirely on groundwater, which is fast depleting.\"",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 2,
+    "t": "Yogita Chauhan said: \"Our submersible pumps fail again and again as water levels drop. Repairs cost a lot. We also call for tankers every two or three days, paying Rs 1,500 for just 500 litres.\"",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 2,
+    "t": "Rohit Rathore, a food vendor on Galli No. 25, said: \"I've seen the building, but I don't know what a data centre is.\"",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 3,
+    "t": "Uttar Pradesh's data centre policy, unveiled in 2021, promises operators uninterrupted water supply around the clock and sets out to attract Rs 30,000 crore and 900 megawatts across eight private parks.",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 3,
+    "t": "It says nothing about sustainable use, and officials acknowledge they do not know how much water these facilities take or where it comes from.",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 3,
+    "t": "Vishwajeet Singh, an executive engineer in the ground water department, said: \"We grant no-objection certificates only if companies commit to recharging two litres of groundwater for every one litre extracted.\"",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   }
+  ],
+  "sources": [
+   "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+  ],
+  "unconfirmed": "No water withdrawal figure for Yotta's park itself has been published; the reporting gives estimates for AdaniConneX at about 3.9 billion litres a year and Sify at about 3.64 billion if water cooled, but none for Yotta. Whether Yotta's cooling is water based was not established, and the company is not quoted. Reports that Yotta is planning a further $1.2 billion investment could not be confirmed."
+ },
+ {
+  "id": "gemini-yotta-navi-mumbai",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Yotta's Navi Mumbai data centre campus in Maharashtra has been live since 2020 with NM1, a 16 storey Tier IV building, and a second, NM2, is in core and shell construction with space reserved for three more.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "The company calls it, with its Greater Noida park, one of Asia's largest AI superclusters.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "What that phrase costs locally is documented at the company's other campus.",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 1,
+    "t": "At Tusiana, beside Yotta's Greater Noida park, people now drill 80 to 100 feet for water where two decades ago it sat at 20 to 30, and groundwater extraction across that district runs at 104.79 percent of annual replenishment.",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 1,
+    "t": "Mumbai is one of three Indian data centre markets, with Hyderabad and Chennai, where water stress is a recognised problem.",
+    "src": "https://m.thewire.in/article/caste/how-data-centres-are-displacing-dalit-communities-from-their-land"
+   },
+   {
+    "para": 1,
+    "t": "Reporters in India have documented a pattern of these buildings receiving guaranteed power and water while the people living near them do not.",
+    "src": "https://m.thewire.in/article/caste/how-data-centres-are-displacing-dalit-communities-from-their-land"
+   },
+   {
+    "para": 2,
+    "t": "No water figure for the Navi Mumbai campus has been published, and no resident there is quoted anywhere we could read.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells",
+   "https://m.thewire.in/article/caste/how-data-centres-are-displacing-dalit-communities-from-their-land"
+  ],
+  "unconfirmed": "Searches on Yotta with Navi Mumbai, on Navi Mumbai with data centre water, and on Maharashtra with data centre residents found no capacity figure, land area, investment total, water figure or local reporting naming this campus. The water material above describes Yotta's Greater Noida park and the Indian picture generally, not this site."
+ },
+ {
+  "id": "gemini-adani-noida",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Adani has proposed a data centre at Noida, in Uttar Pradesh, with Google listed as the tenant.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "It falls under a $100 billion plan Adani announced in 2026 to build 5 gigawatts of AI data centre capacity across India by 2035, including campuses developed with Google at Visakhapatnam and with Microsoft at Hyderabad and Pune.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Gautam Buddh Nagar, the district Noida sits in, has 17 data centres operating or coming and had 644 megawatts of proposed capacity by June 2025.",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 1,
+    "t": "Groundwater extraction there runs at 104.79 percent of annual replenishment.",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 2,
+    "t": "AdaniConneX, the company's joint venture with EdgeConneX, already runs a facility 1.2 kilometres from Khora Colony, with an IT load of 150 megawatts that would need roughly 3.9 billion litres of water a year if water cooled.",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 2,
+    "t": "In Khora Colony the water table has fallen from 120 feet in the early 2000s to about 600 today, and residents of industrial colonies near the Adani and Sify facilities pay for tanker water.",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 2,
+    "t": "Yogita Chauhan, who lives there, said: \"We also call for tankers every two or three days, paying Rs 1,500 for just 500 litres.\"",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 3,
+    "t": "Uttar Pradesh's 2021 data centre policy promises operators uninterrupted water supply around the clock and says nothing about sustainable use, and officials say they do not know how much these facilities actually take.",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   }
+  ],
+  "sources": [
+   "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+  ],
+  "unconfirmed": "Searches on Adani with Noida data centre, on Greater Noida with data centre water, and on Uttar Pradesh with data centre residents found no address, capacity, timetable or application for this specific proposal, and Adani's own release names Noida only as one of several candidate locations. The water figures above concern the existing AdaniConneX facility in the district, not this proposal, and Google's role as tenant comes from our record rather than from any source we could read."
+ },
+ {
+  "id": "gemini-cdc-brooklyn",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CDC Data Centres opened its first Melbourne campus at Brooklyn, in Victoria, with the BK1 building operating since 2024 and the campus designed to reach more than 350 megawatts when finished.",
+    "src": "https://cdc.com/resources/news/cdc-opens-its-first-melbourne-data-centre-campus-expanding-australia-s-sovereign-digital-infrastructure/"
+   },
+   {
+    "para": 0,
+    "t": "A second campus at Laverton North is under construction and would add more than 400 megawatts, part of what the company puts at 2.7 billion Australian dollars for Melbourne's south west.",
+    "src": "https://cdc.com/resources/news/cdc-brings-27bn-groundbreaking-opportunity-to-melbournes-south-west/"
+   },
+   {
+    "para": 1,
+    "t": "CDC says its closed loop cooling system reaches a water usage effectiveness of 0.01 and that no water is consumed for primary cooling, and that customers can buy entirely renewable power through its Progress Energy programme.",
+    "src": "https://cdc.com/locations/melbourne/"
+   },
+   {
+    "para": 2,
+    "t": "That matters because of what is happening to water applications around Melbourne.",
+    "src": "https://www.abc.net.au/news/2025-08-26/hume-council-votes-on-data-centres-energy-water-management-plan/105694556"
+   },
+   {
+    "para": 2,
+    "t": "On August 25, 2025 Hume City Council became the first in Victoria to vote for a framework for assessing data centre applications, after Yarra Valley Water received seven applications, one already approved near Mickleham for 3,940 megalitres a year, and Greater Western Water began assessing 19 asking for 20 gigalitres between them.",
+    "src": "https://www.abc.net.au/news/2025-08-26/hume-council-votes-on-data-centres-energy-water-management-plan/105694556"
+   },
+   {
+    "para": 2,
+    "t": "Deputy mayor Naim Kurt called it \"a tidal wave or tsunami that is going to hit us in the next five years.\"",
+    "src": "https://www.abc.net.au/news/2025-08-26/hume-council-votes-on-data-centres-energy-water-management-plan/105694556"
+   }
+  ],
+  "sources": [
+   "https://cdc.com/resources/news/cdc-opens-its-first-melbourne-data-centre-campus-expanding-australia-s-sovereign-digital-infrastructure/",
+   "https://cdc.com/resources/news/cdc-brings-27bn-groundbreaking-opportunity-to-melbournes-south-west/",
+   "https://cdc.com/locations/melbourne/",
+   "https://www.abc.net.au/news/2025-08-26/hume-council-votes-on-data-centres-energy-water-management-plan/105694556"
+  ],
+  "unconfirmed": "None of the seven Hume applications, nor the one approved near Mickleham, has been tied to CDC in anything we could read."
+ }
+]

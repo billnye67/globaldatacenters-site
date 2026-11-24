@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /defense-kit-success
+Disallow: /take-action-success
+Disallow: /shop-success
+Disallow: /api/
+
+Sitemap: https://globaldatacenters.net/sitemap.xml

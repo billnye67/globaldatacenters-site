@@ -1,0 +1,6 @@
+const {webkit}=require('playwright');
+(async()=>{const b=await webkit.launch();const p=await b.newPage({viewport:{width:390,height:745},deviceScaleFactor:3,isMobile:true,hasTouch:true});
+ await p.addInitScript(()=>{window.__layout=[];const sample=()=>{const h=document.querySelector('#hero-sec'),w=document.querySelector('#wins'),m=document.querySelector('.masthead');if(h&&w&&m)window.__layout.push({t:Math.round(performance.now()),y:scrollY,vh:innerHeight,hero:Math.round(h.getBoundingClientRect().height),wins:Math.round(w.getBoundingClientRect().top),header:Math.round(m.getBoundingClientRect().height),font:document.fonts.status});if(performance.now()<1800)requestAnimationFrame(sample)};requestAnimationFrame(sample)});
+ await p.goto('http://localhost:8787/#main',{waitUntil:'domcontentloaded'});await p.waitForTimeout(2100);
+ let a=await p.evaluate(()=>window.__layout);console.log('first',a.filter((x,i)=>i===0||x.hero!==a[i-1].hero||x.wins!==a[i-1].wins||x.header!==a[i-1].header||i===a.length-1));
+ await p.reload({waitUntil:'domcontentloaded'});await p.waitForTimeout(2100);a=await p.evaluate(()=>window.__layout);console.log('reload',a.filter((x,i)=>i===0||x.hero!==a[i-1].hero||x.wins!==a[i-1].wins||x.header!==a[i-1].header||i===a.length-1));await b.close();})().catch(e=>{console.error(e);process.exitCode=1});

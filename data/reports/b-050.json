@@ -1,0 +1,574 @@
+[
+ {
+  "id": "blocked-killala-2026-09-17",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Ireland's planning appeals body, An Coimisiun Pleanala, refused permission for a data centre at Killala, County Mayo, on September 15, 2026.",
+    "src": "https://www.rte.ie/news/regional/2026/0917/1591963-mayo-data-centre/"
+   },
+   {
+    "para": 0,
+    "t": "The site lay at Mullafarry and Tawnaghmore Upper, 1.8 kilometres south of Killala and 10.5 kilometres north of Ballina, and the applicant was Mayo Data Hub Limited, part of the American company Avaio Digital.",
+    "src": "https://www.rte.ie/news/regional/2026/0917/1591963-mayo-data-centre/"
+   },
+   {
+    "para": 0,
+    "t": "The development was put at 1.5 billion euro and would have needed 50 megawatts of average electrical power.",
+    "src": "https://www.rte.ie/news/regional/2026/0917/1591963-mayo-data-centre/"
+   },
+   {
+    "para": 1,
+    "t": "Mayo County Council had granted it in April 2025.",
+    "src": "https://www.rte.ie/news/regional/2026/0917/1591963-mayo-data-centre/"
+   },
+   {
+    "para": 1,
+    "t": "One man overturned that.",
+    "src": "https://www.westernpeople.ie/news/planning-permission-for-mayo-data-centre-overturned-after-appeal_arid-111262.html"
+   },
+   {
+    "para": 1,
+    "t": "Colin Doyle, from Ennis in County Clare, appealed the decision and took an active part in the case, which had been lodged on May 21, 2025 and had required an Environmental Impact Assessment Report and a Natura Impact Statement, both submitted.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "He said afterwards that he hoped the ruling represented a change in thinking.",
+    "src": "https://www.westernpeople.ie/news/planning-permission-for-mayo-data-centre-overturned-after-appeal_arid-111262.html"
+   },
+   {
+    "para": 2,
+    "t": "The refusal turned on electricity, not on the building.",
+    "src": "https://www.thejournal.ie/data-centre-mayo-sally-rooney-7165952-Sep2026/"
+   },
+   {
+    "para": 2,
+    "t": "The commission found the applicant had not shown there was existing capacity in the grid to carry the load, had no fixed connection agreement, and had not demonstrated the development could be served, and it weighed the effect on Ireland's climate targets.",
+    "src": "https://www.rte.ie/news/regional/2026/0917/1591963-mayo-data-centre/"
+   },
+   {
+    "para": 3,
+    "t": "The author Sally Rooney had opposed the plans, warning of wasteful consumption of electricity that would push energy prices higher.",
+    "src": "https://www.thejournal.ie/data-centre-mayo-sally-rooney-7165952-Sep2026/"
+   },
+   {
+    "para": 3,
+    "t": "The Green Party leader called the ruling an important decision.",
+    "src": "https://www.midwestradio.ie/news/killala-data-centre-ruling-an-important-decision-says-green-party-leader/"
+   },
+   {
+    "para": 3,
+    "t": "Campaigners against a separate data centre in Waterford described it as a boost to their case.",
+    "src": "https://www.waterfordlive.ie/news/massive-boost-for-campaign-against-development-of-new-data-centre-in-waterford-9091824"
+   },
+   {
+    "para": 4,
+    "t": "County Mayo holds no other data centre project within 40 kilometres of Killala.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.rte.ie/news/regional/2026/0917/1591963-mayo-data-centre/",
+   "https://www.thejournal.ie/data-centre-mayo-sally-rooney-7165952-Sep2026/",
+   "https://www.westernpeople.ie/news/planning-permission-for-mayo-data-centre-overturned-after-appeal_arid-111262.html",
+   "https://www.midwestradio.ie/news/killala-data-centre-ruling-an-important-decision-says-green-party-leader/",
+   "https://www.waterfordlive.ie/news/massive-boost-for-campaign-against-development-of-new-data-centre-in-waterford-9091824"
+  ],
+  "unconfirmed": "No direct quotation from Colin Doyle, Sally Rooney or the Green Party leader could be read: every report carrying their words was reached through search summaries rather than fetched, so all three are paraphrased. No water figure for the proposal was found, and whether Mayo Data Hub intends to appeal further or reapply was not established. The refusal date is given as September 15 in our record and reported on September 17."
+ },
+ {
+  "id": "ft-1779306105674-8821",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "There is a lot of natural gas under Prudhoe Bay that has never been sold. For decades it has been pumped back into the ground to keep reservoir pressure up, or burned on site. Data centres are the proposed use for it.",
+    "src": "https://www.datacenterdynamics.com/en/news/stak-energy-proposes-3gw-natural-gas-powered-data-center-in-alaskas-north-slope/"
+   },
+   {
+    "para": 0,
+    "t": "Far North Digital's Prudhoe Bay data center sits on a 43 acre site inside a secure, access controlled oil field, expandable to 100 acres. The company says it uses the North Slope's stranded gas through fuel cells with carbon capture.",
+    "src": "https://www.fn-digital.com/data-center"
+   },
+   {
+    "para": 0,
+    "t": "The site is carried at 120 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "A far larger project is proposed nearby. Stak Energy has put forward a campus of up to 3 gigawatts beside the Dalton Highway, about 26 miles south of Deadhorse, powered by on-site natural gas generation with new pipelines to be built.",
+    "src": "https://www.datacenterdynamics.com/en/news/stak-energy-proposes-3gw-natural-gas-powered-data-center-in-alaskas-north-slope/"
+   },
+   {
+    "para": 1,
+    "t": "Gas would come by one or more dedicated pipelines from fields or prospects between about 25 and 90 miles away. Construction was scheduled to start in summer 2026, with first operations expected by late 2028, built in phases. The Prudhoe Bay field is estimated to hold up to 26 trillion cubic feet of recoverable gas.",
+    "src": "https://www.datacenterdynamics.com/en/news/stak-energy-proposes-3gw-natural-gas-powered-data-center-in-alaskas-north-slope/"
+   },
+   {
+    "para": 2,
+    "t": "The Stak Energy project, at 3,000 megawatts, sits about 35 kilometers away, two data centers in the North Slope Borough in all.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "There is no grid here in the ordinary sense. The nearest plants are at North Pole, about 608 kilometers away, and Healy, about 704 kilometers away, which is why the gas is burned where it sits.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.fn-digital.com/data-center",
+   "https://www.datacenterdynamics.com/en/news/stak-energy-proposes-3gw-natural-gas-powered-data-center-in-alaskas-north-slope/"
+  ],
+  "unconfirmed": "The carbon-neutral claim for the fuel cell and capture arrangement is Far North Digital's own and was not independently checked. No water figure, employment number, investment figure or opening date for the 120 megawatt site was found. Reporting exists on state approval for the larger Stak project and on Indigenous and environmental objections to it, but those pages could not be retrieved, so neither is set out here."
+ },
+ {
+  "id": "ft-1771618379668-1750",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The nearest homes are about 900 feet away.",
+    "src": "https://abc3340.com/news/local/birmingham-city-council-meeting-protest-data-center-development-nebius-ai-factory-proposal-concerns-benefits-oxmoor-valley-continuing-coverage"
+   },
+   {
+    "para": 0,
+    "t": "Nebius plans an AI data center on Lakeshore Parkway in Birmingham's Oxmoor Valley, in Jefferson County, Alabama. It would use natural gas generators for three months during construction and keep permanent diesel generators for backup.",
+    "src": "https://abc3340.com/news/local/birmingham-city-council-meeting-protest-data-center-development-nebius-ai-factory-proposal-concerns-benefits-oxmoor-valley-continuing-coverage"
+   },
+   {
+    "para": 0,
+    "t": "The proposal is carried at 300 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Birmingham City Council imposed a six month pause on new large scale data center applications in March 2026, to write stricter zoning standards. The Nebius project was exempt, because its permitting had already begun.",
+    "src": "https://abc3340.com/news/local/birmingham-city-council-meeting-protest-data-center-development-nebius-ai-factory-proposal-concerns-benefits-oxmoor-valley-continuing-coverage"
+   },
+   {
+    "para": 1,
+    "t": "Mayor Randall Woodfin said Alabama law prevented the city blocking a project already in permitting. He said residents' concerns were valid and that the city would hold Nebius to its commitments.",
+    "src": "https://abc3340.com/news/local/birmingham-city-council-meeting-protest-data-center-development-nebius-ai-factory-proposal-concerns-benefits-oxmoor-valley-continuing-coverage"
+   },
+   {
+    "para": 2,
+    "t": "Residents protested at the council meeting on Tuesday, April 28, 2026. John Hilley described how it had arrived: \"It comes in secretly, fast paced and they try to find lax laws.\"",
+    "src": "https://abc3340.com/news/local/birmingham-city-council-meeting-protest-data-center-development-nebius-ai-factory-proposal-concerns-benefits-oxmoor-valley-continuing-coverage"
+   },
+   {
+    "para": 2,
+    "t": "Liz Lane worried about her two children and asked for more clarity. Elizabeth Castro said the facility would \"impact animals, people, properties.\" Not everyone objected: David Craig said \"Welcome Nebius, come on in, set up camp, I want to bring my children.\"",
+    "src": "https://abc3340.com/news/local/birmingham-city-council-meeting-protest-data-center-development-nebius-ai-factory-proposal-concerns-benefits-oxmoor-valley-continuing-coverage"
+   },
+   {
+    "para": 3,
+    "t": "The 2,778 megawatt James H Miller Jr coal plant is about 28 kilometers away and the 1,868 megawatt E C Gaston plant about 44 kilometers away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "QTS Bessemer is about 16 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Leeds, Springville, Homewood and Pinson have all adopted moratoriums.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://abc3340.com/news/local/birmingham-city-council-meeting-protest-data-center-development-nebius-ai-factory-proposal-concerns-benefits-oxmoor-valley-continuing-coverage",
+   "https://www.datacenterdynamics.com/en/news/nebius-targets-data-center-development-in-birmingham-alabama/"
+  ],
+  "unconfirmed": "The source does not give the capacity, so the 300 megawatts comes from our own record. No water figure, investment figure, employment number or construction timeline was found, and it is not established whether the project has since received its permits."
+ },
+ {
+  "id": "ft-1769466294729-7743",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The industrial park at Childersburg was part of the Manhattan Project, and the groundwater there is still being tested.",
+    "src": "https://abc3340.com/news/local/concerns-grow-in-childersburg-over-possible-data-center-at-industrial-park"
+   },
+   {
+    "para": 0,
+    "t": "A data center has been under discussion for the site, in Talladega County, Alabama, for nearly ten months as of April 9, 2026.",
+    "src": "https://abc3340.com/news/local/concerns-grow-in-childersburg-over-possible-data-center-at-industrial-park"
+   },
+   {
+    "para": 0,
+    "t": "The proposal is carried at 500 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Resident Noah Beckham raised the water first: \"the excessive amount of water that is used,\" noting that some facilities take hundreds of thousands to millions of gallons a day, and what that would mean in a drought and for the Coosa River.",
+    "src": "https://abc3340.com/news/local/concerns-grow-in-childersburg-over-possible-data-center-at-industrial-park"
+   },
+   {
+    "para": 1,
+    "t": "He also expected bills to rise: \"it's very common in certain communities near a data center for their power bill to go up.\" What he asked for was simpler than a refusal: \"Mainly we just want them to listen and be transparent with us about the process.\"",
+    "src": "https://abc3340.com/news/local/concerns-grow-in-childersburg-over-possible-data-center-at-industrial-park"
+   },
+   {
+    "para": 2,
+    "t": "Mayor Ken Wesson said no land had changed hands: \"We tell everyone as of now we haven't sold any property to anyone. As soon as we get the information, we're going to share it with the community.\" He said different cooling methods make a large difference and that without knowing which, \"we don't have any specific numbers that we could really talk about.\"",
+    "src": "https://abc3340.com/news/local/concerns-grow-in-childersburg-over-possible-data-center-at-industrial-park"
+   },
+   {
+    "para": 3,
+    "t": "The local grid is small: PowerSouth Energy Cooperative's control area peaks at about 2,022 megawatts, against a proposal of 500.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 3,
+    "t": "The 1,868 megawatt E C Gaston plant is about 16 kilometers away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The proposed 1,008 megawatt Wilsonville data center is about 17 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Four towns to the north, Leeds, Springville, Homewood and Pinson, have paused data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://abc3340.com/news/local/concerns-grow-in-childersburg-over-possible-data-center-at-industrial-park",
+   "https://www.childersburg.org/childersburg-industrial-park"
+  ],
+  "unconfirmed": "The source does not name the developer, so Western Hospitality Partners comes from our own record, and it gives no capacity, acreage or investment figure. Whether the sale or the project has since gone ahead is not established."
+ },
+ {
+  "id": "ft-4",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "DC Blox operates a data center on a five acre plot at 333 Diamond Drive NW in Huntsville, in Madison County, Alabama, near the Redstone Arsenal.",
+    "src": "https://www.datacentermap.com/usa/alabama/huntsville/dc-blox-hsv-1/"
+   },
+   {
+    "para": 0,
+    "t": "It opened with a ribbon cutting on October 3, 2018, built in 22 weeks using precast concrete, and at full build offers 46,000 square feet of data hall and up to 15 megawatts of IT power.",
+    "src": "https://www.dcblox.com/dc-blox-announces-opening-of-huntsville-al-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "It was designed for executive branch agencies, defense contractors and organisations handling controlled unclassified information, with the ability to move to higher classification levels.",
+    "src": "https://www.dcblox.com/data-centers/huntsville/"
+   },
+   {
+    "para": 1,
+    "t": "That is a different kind of building from the ones drawing fights elsewhere in Alabama, and it has drawn none.",
+    "src": "data:note"
+   },
+   {
+    "para": 2,
+    "t": "Meta's 146 megawatt Huntsville campus is about 16 kilometers away and a suspended bitcoin mine about 30.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The site draws from the Tennessee Valley Authority, whose control area peaks at about 28,930 megawatts, with the 3,662 megawatt Browns Ferry nuclear plant about 39 kilometers off and the 800 megawatt Decatur Energy Center about 31.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.datacentermap.com/usa/alabama/huntsville/dc-blox-hsv-1/",
+   "https://www.dcblox.com/dc-blox-announces-opening-of-huntsville-al-data-center/",
+   "https://www.dcblox.com/data-centers/huntsville/"
+  ],
+  "unconfirmed": "Searches on DC Blox with Huntsville, on Diamond Drive with data center, and on Madison County with data center residents found no water figure, no local news coverage of the facility, no hearing record, no objection and no resident comment in eight years of operation. Our record gives the address as Diamond Drive NW without a number; the company and directories give 333. Its current power draw, as against the 15 megawatt design figure, is unknown."
+ },
+ {
+  "id": "ft-1783368725536-2775",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Canadian company Beacon Data Centers wants to put a $6 billion campus on 95 acres between Calvert and Mount Vernon, in northern Mobile County, Alabama, and calls it the Calvert Infrastructure Hub.",
+    "src": "https://www.lagniappemobile.com/news/mobile_county/calvert-data-center-would-transform-county/article_92c4cdf6-8c63-473d-bcba-3adf1f0b5fec.html"
+   },
+   {
+    "para": 0,
+    "t": "The plan is two data center buildings plus supporting infrastructure, with 220 permanent jobs, some of them paying more than $110,000 a year.",
+    "src": "https://www.lagniappemobile.com/news/mobile_county/calvert-data-center-would-transform-county/article_92c4cdf6-8c63-473d-bcba-3adf1f0b5fec.html"
+   },
+   {
+    "para": 0,
+    "t": "The county expects about $30 million a year in tax revenue from it, $10 million of that to Mobile County Public Schools.",
+    "src": "https://www.lagniappemobile.com/news/mobile_county/calvert-data-center-would-transform-county/article_92c4cdf6-8c63-473d-bcba-3adf1f0b5fec.html"
+   },
+   {
+    "para": 1,
+    "t": "On July 28, 2026 residents brought their questions to the Mobile County Commission.",
+    "src": "https://www.lagniappemobile.com/news/mobile_county/calvert-data-center-would-transform-county/article_92c4cdf6-8c63-473d-bcba-3adf1f0b5fec.html"
+   },
+   {
+    "para": 1,
+    "t": "Terry Williams, from Mount Vernon, raised the power and water the campus would take, whether it would raise temperatures within five miles of it, and what that might do to livestock fertility.",
+    "src": "https://www.lagniappemobile.com/news/mobile_county/calvert-data-center-would-transform-county/article_92c4cdf6-8c63-473d-bcba-3adf1f0b5fec.html"
+   },
+   {
+    "para": 1,
+    "t": "Gina Daniels, also of Mount Vernon, argued that if this is coming the county needs to put money into ambulances and full time fire crews to match it.",
+    "src": "https://www.lagniappemobile.com/news/mobile_county/calvert-data-center-would-transform-county/article_92c4cdf6-8c63-473d-bcba-3adf1f0b5fec.html"
+   },
+   {
+    "para": 1,
+    "t": "Cathy Odom asked whether the commissioners would put residents' interests first.",
+    "src": "https://www.lagniappemobile.com/news/mobile_county/calvert-data-center-would-transform-county/article_92c4cdf6-8c63-473d-bcba-3adf1f0b5fec.html"
+   },
+   {
+    "para": 2,
+    "t": "The utilities gave the commission their assurances.",
+    "src": "https://www.lagniappemobile.com/news/mobile_county/calvert-data-center-would-transform-county/article_92c4cdf6-8c63-473d-bcba-3adf1f0b5fec.html"
+   },
+   {
+    "para": 2,
+    "t": "Donnie Cunningham of South Alabama Utilities put the campus's water use at about 6,400 gallons a day, with only modest sewer upgrades, paid for by the developer.",
+    "src": "https://www.lagniappemobile.com/news/mobile_county/calvert-data-center-would-transform-county/article_92c4cdf6-8c63-473d-bcba-3adf1f0b5fec.html"
+   },
+   {
+    "para": 2,
+    "t": "Erin Delaport of Alabama Power said large customers must pay their own infrastructure costs and that charges would not be shifted onto households.",
+    "src": "https://www.lagniappemobile.com/news/mobile_county/calvert-data-center-would-transform-county/article_92c4cdf6-8c63-473d-bcba-3adf1f0b5fec.html"
+   },
+   {
+    "para": 2,
+    "t": "Beacon says the campus will not use evaporative cooling and will run a closed loop water system instead.",
+    "src": "https://mynbc15.com/news/local/proposed-6b-data-center-campus-in-calvert-draws-questions-over-growth-utilities-impact"
+   },
+   {
+    "para": 2,
+    "t": "About 50 residents came to a community meeting on the project.",
+    "src": "https://www.thecooldown.com/green-business/data-center-accountability-mobile-county-residents-meeting/"
+   },
+   {
+    "para": 3,
+    "t": "The site sits beside heavy generation: the 3,100 megawatt Barry gas plant about 13 kilometers away, the 580 megawatt McIntosh plant about 15, and a 100 megawatt cogeneration facility about 16, inside a Southern Company control area peaking at about 43,535 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Mobile County holds two data centers, and no other project is recorded within 40 kilometers.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://www.lagniappemobile.com/news/mobile_county/calvert-data-center-would-transform-county/article_92c4cdf6-8c63-473d-bcba-3adf1f0b5fec.html",
+   "https://mynbc15.com/news/local/proposed-6b-data-center-campus-in-calvert-draws-questions-over-growth-utilities-impact",
+   "https://www.thecooldown.com/green-business/data-center-accountability-mobile-county-residents-meeting/"
+  ],
+  "unconfirmed": "No power capacity figure for the campus was found, and no planning decision or vote. Water use is given as about 6,400 gallons a day by the utility and about 7,500 in other coverage; neither figure was independently checked, and both are low enough to depend entirely on the closed loop claim holding. Our record places the site between Highway 43 and Shepard House Road at Mount Vernon, while the reporting describes it as between Calvert and Mount Vernon; job figures differ between 220 and about 250."
+ },
+ {
+  "id": "ft-1782768008253-2482",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Morgan County banned it, the town banned it, and the bitcoin mine is being built anyway.",
+    "src": "https://www.datacenterdynamics.com/en/news/morgan-county-alabama-passes-data-center-moratorium-blocking-cryptomine-proposal/"
+   },
+   {
+    "para": 0,
+    "t": "VoltCore proposed a 50 megawatt bitcoin mine on 15 acres on Union Road near Somerville. More than 450 people signed petitions against it, over noise, the environment and the effect on the community. Morgan County officials approved a one year moratorium on data center cryptomining in June 2026.",
+    "src": "https://www.datacenterdynamics.com/en/news/morgan-county-alabama-passes-data-center-moratorium-blocking-cryptomine-proposal/"
+   },
+   {
+    "para": 1,
+    "t": "The moratorium does not reach it. Alabama counties have no zoning power until they pass 600,000 residents, and Morgan County is well short of that, so there are no county zoning rules for the moratorium to enforce.",
+    "src": "https://www.tomshardware.com/tech-industry/data-centers/alabama-residents-left-powerless-to-stop-massive-bitcoin-mining-data-center-despite-county-and-town-moratoriums-hole-in-state-zoning-laws-lets-facility-through"
+   },
+   {
+    "para": 1,
+    "t": "In August 2026 utility work began at the site, with flags along Union Road marking routes for water, gas and AT&T lines, while the county moratorium remained in force.",
+    "src": "https://www.tomshardware.com/tech-industry/data-centers/alabama-residents-left-powerless-to-stop-massive-bitcoin-mining-data-center-despite-county-and-town-moratoriums-hole-in-state-zoning-laws-lets-facility-through"
+   },
+   {
+    "para": 2,
+    "t": "VoltCore had offered nearby residents cash payments, a year of free internet, a natural gas line and land restoration in exchange for their cooperation. According to local reporting, none of the homeowners accepted.",
+    "src": "https://www.tomshardware.com/tech-industry/data-centers/alabama-residents-left-powerless-to-stop-massive-bitcoin-mining-data-center-despite-county-and-town-moratoriums-hole-in-state-zoning-laws-lets-facility-through"
+   },
+   {
+    "para": 3,
+    "t": "The project is carried as suspended, which the construction work does not support.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "DC Blox is about 30 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "A moratorium is in force at Cullman.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/morgan-county-alabama-passes-data-center-moratorium-blocking-cryptomine-proposal/",
+   "https://www.tomshardware.com/tech-industry/data-centers/alabama-residents-left-powerless-to-stop-massive-bitcoin-mining-data-center-despite-county-and-town-moratoriums-hole-in-state-zoning-laws-lets-facility-through"
+  ],
+  "unconfirmed": "Neither source page could be retrieved in full, so the account above rests on search summaries of them rather than the articles themselves, and no resident, county commissioner or VoltCore representative is quoted directly. The exact date and vote of the moratorium were not established, and it is not known whether the mine is now operating."
+ },
+ {
+  "id": "ft-1777852614752-9350",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "More than 100 people came to the town council meeting in Wilsonville, in Shelby County, Alabama, on August 18, and 50 of them carried red signs reading \"No Wilsonville Data Center.\"",
+    "src": "https://insideclimatenews.org/news/20082025/wilsonville-alabama-residents-against-massive-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "NorthPoint Development, a Kansas City firm, took a two year option on about 687 acres from the Birmingham steel magnate Richard Cashio on February 27. The plan covers 664 acres and 14 buildings of 219,000 square feet each.",
+    "src": "https://insideclimatenews.org/news/20082025/wilsonville-alabama-residents-against-massive-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The number that alarmed people is the power. Peak demand is projected at 1,008 megawatts, more than half the maximum output of the Ernest C. Gaston plant about 4 kilometers away, which produces 1,880 megawatts. Run continuously, the campus would use 8.8 million megawatt hours a year, roughly half what all 1.3 million of Alabama Power's residential customers used in 2023.",
+    "src": "https://insideclimatenews.org/news/20082025/wilsonville-alabama-residents-against-massive-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "The fight is partly about who decides. Part of the land is inside Wilsonville and part in unincorporated Shelby County. Annexing it would put the whole footprint under the town's zoning control rather than the county's. As of the August 18 meeting, no formal annexation application had been filed.",
+    "src": "https://insideclimatenews.org/news/20082025/wilsonville-alabama-residents-against-massive-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Former mayor Lee McCarty called the project \"extremely detrimental to the community.\" Resident Renny Stanhope said of those behind it: \"that's going to be their legacy, to potentially destroy a small town.\"",
+    "src": "https://insideclimatenews.org/news/20082025/wilsonville-alabama-residents-against-massive-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Mayor Ricky Morris told the meeting: \"When we have something to discuss, it will be on the agenda.\"",
+    "src": "https://insideclimatenews.org/news/20082025/wilsonville-alabama-residents-against-massive-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "The proposed 500 megawatt Childersburg data center is about 17 kilometers away, one data center in Shelby County in all.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The moratoriums nearest to it are at Leeds, Springville, Homewood and Pinson.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://insideclimatenews.org/news/20082025/wilsonville-alabama-residents-against-massive-data-center/",
+   "https://alabamareflector.com/2025/08/24/wilsonville-residents-seek-preemptive-strike-against-massive-data-center-project/"
+  ],
+  "unconfirmed": "No water figure, investment figure, employment number or timeline was published, and NorthPoint Development is not quoted. Whether the annexation has since been sought, and whether the option has been exercised, are not established."
+ },
+ {
+  "id": "ft-1764304493710-2258",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Serverfarm, a California company, is building a data center campus on 135 acres north of Interstate 40 at Clarksville, in Johnson County, Arkansas, near Johnson Regional Medical Center.",
+    "src": "https://www.arkansasonline.com/news/2026/jul/30/clarksville-city-council-to-consider-tax-break/"
+   },
+   {
+    "para": 0,
+    "t": "The plan is six buildings of 360,000 square feet each, worked up with the Vaughn Property Group, and the site was secured in early 2025 through an affiliate, SF ARK1 LLC.",
+    "src": "https://www.datacenterdynamics.com/en/news/serverfarm-targets-135-acre-data-center-campus-in-arkansas/"
+   },
+   {
+    "para": 0,
+    "t": "The figure attached to it has grown: trade coverage put it at $1 billion in November 2025 and the city council was considering a $6.6 billion project by July 2026.",
+    "src": "https://www.arkansasonline.com/news/2026/jul/30/clarksville-city-council-to-consider-tax-break/"
+   },
+   {
+    "para": 1,
+    "t": "On July 30, 2026 the council held a special meeting at 5pm at City Hall to consider a tax abatement agreement and a community development grant agreement for it.",
+    "src": "https://www.arkansasonline.com/news/2026/jul/30/clarksville-city-council-to-consider-tax-break/"
+   },
+   {
+    "para": 1,
+    "t": "Serverfarm says the campus will return about $558 million in local public benefit through 2060, $548 million of that as payments in lieu of taxes, and has proposed a $6 million community development center.",
+    "src": "https://www.arkansasonline.com/news/2026/jul/30/clarksville-city-council-to-consider-tax-break/"
+   },
+   {
+    "para": 1,
+    "t": "The company says cooling will be closed loop, that residents will not pay for the electrical infrastructure upgrades and that utility rates will not rise because of it.",
+    "src": "https://www.serverfarmllc.com/arkansas/"
+   },
+   {
+    "para": 2,
+    "t": "Not everyone in Clarksville wants it.",
+    "src": "https://www.change.org/p/stop-the-mega-data-center-in-clarksville-arkansas"
+   },
+   {
+    "para": 2,
+    "t": "A petition headed \"Stop the Mega Data Center in Clarksville, Arkansas\" has been circulating.",
+    "src": "https://www.change.org/p/stop-the-mega-data-center-in-clarksville-arkansas"
+   },
+   {
+    "para": 2,
+    "t": "The planning and zoning commission has approved the first of three phases and construction is under way.",
+    "src": "https://www.datacenterdynamics.com/en/news/serverfarm-targets-135-acre-data-center-campus-in-arkansas/"
+   },
+   {
+    "para": 3,
+    "t": "The site sits close to the state's only nuclear plant: the 1,821 megawatt Arkansas Nuclear One is about 25 kilometers away, inside a Southwest Power Pool control area peaking at about 48,687 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Clarksville itself has zoning limits on data centers, and Russellville, about 34 kilometers away toward the nuclear plant, has a moratorium in force.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.arkansasonline.com/news/2026/jul/30/clarksville-city-council-to-consider-tax-break/",
+   "https://www.datacenterdynamics.com/en/news/serverfarm-targets-135-acre-data-center-campus-in-arkansas/",
+   "https://www.serverfarmllc.com/arkansas/",
+   "https://www.change.org/p/stop-the-mega-data-center-in-clarksville-arkansas"
+  ],
+  "unconfirmed": "No power capacity or water figure was found, and no resident, council member or petition organiser is quoted by name anywhere we could read. The outcome of the July 30, 2026 council meeting was not established, nor the number of signatures on the petition, nor the terms of the abatement. The Johnson County Graphic's reporting on the land sale and the site plan review refused our requests. Investment figures of $1 billion, $6.6 billion and $8 billion all appear in different accounts and were not reconciled."
+ },
+ {
+  "id": "ft-1779972865110-6579",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Residents in Conway, in Faulkner County, Arkansas, have been protesting every other Saturday morning, and say they will keep going until they feel heard.",
+    "src": "https://katv.com/news/local/conway-residents-protest-proposed-1b-data-center-citing-tax-water-and-power-concerns-ai-lollie-road-city-citizens-fortune-100-investment-drain-resources"
+   },
+   {
+    "para": 0,
+    "t": "The proposal is a 300,000 square foot data center campus on Lollie Road, an estimated $1 billion investment tied to a Fortune 100 company that has not been named.",
+    "src": "https://katv.com/news/local/conway-residents-protest-proposed-1b-data-center-citing-tax-water-and-power-concerns-ai-lollie-road-city-citizens-fortune-100-investment-drain-resources"
+   },
+   {
+    "para": 1,
+    "t": "One such protest was held on Saturday, May 16, 2026. The objections were the tax incentives, the water and the power, and above all the lack of information about any of them.",
+    "src": "https://katv.com/news/local/conway-residents-protest-proposed-1b-data-center-citing-tax-water-and-power-concerns-ai-lollie-road-city-citizens-fortune-100-investment-drain-resources"
+   },
+   {
+    "para": 1,
+    "t": "Kris Mallory, who organised it, said AI data centers have been shown to drain local resources heavily and to weigh on environments and communities, and that the council had \"passed this without the consent of citizens.\"",
+    "src": "https://katv.com/news/local/conway-residents-protest-proposed-1b-data-center-citing-tax-water-and-power-concerns-ai-lollie-road-city-citizens-fortune-100-investment-drain-resources"
+   },
+   {
+    "para": 2,
+    "t": "The developer is named as ForgeLight Ventures, LLC. Faulkner County holds one data center, and no other project is recorded within 40 kilometers.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Little Rock, downriver, has zoning limits in force.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://katv.com/news/local/conway-residents-protest-proposed-1b-data-center-citing-tax-water-and-power-concerns-ai-lollie-road-city-citizens-fortune-100-investment-drain-resources",
+   "https://www.datacenterdynamics.com/en/news/plans-for-300000-sq-ft-data-center-put-forward-in-conway-arkansas/"
+  ],
+  "unconfirmed": "No capacity in megawatts, water figure, employment number or timeline was published, the Fortune 100 tenant has not been identified, and no Conway council member or city official is quoted in the source reached. What exactly the council passed, and when, is not established. Mallory's description of the drain on resources is paraphrased here rather than quoted, because the wording would not pass this site's check on promotional language. The date of the first protest is not established; the source reports a protest on May 16, 2026 and says they have been held every other Saturday."
+ }
+]

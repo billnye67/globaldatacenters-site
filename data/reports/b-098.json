@@ -1,0 +1,687 @@
+[
+ {
+  "id": "ft-1787746738289-7125",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "TeraFab is a semiconductor plant SpaceX is building on the site of the former Gibbons Creek coal station in Grimes County, Texas, about 20 miles east of Bryan and College Station.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "It is not a data center, and the record's own name for the entry says so.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "The entry is recorded as proposed on 2,500 acres at $119 billion, with SpaceX as developer, at medium confidence, and marks pushback as unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "The published figures are larger and stranger than that.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "SpaceX and Tesla confirmed the location on August 6, 2026 with an initial commitment of $16.8 billion and 3,000 jobs, with later phases said to take the total to $119 billion; the plant itself is described as about 6,000 acres, inside a reinvestment zone of more than 22,000 acres around a reservoir that is itself nearly 4,000 acres.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The building is described as more than 100 million square feet under one roof, two and a half miles long, about ten times the footprint of Tesla's Giga Texas.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The part that belongs on record is the power and the water.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "SpaceX intends to run its own natural gas plants and take water from the Gibbons Creek reservoir, and says it will not connect to the ERCOT grid at all.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The described scope includes chip design, photomasks, wafer fabrication, packaging, system integration, supporting power generation and a space compute test facility.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "Grimes County holds two data center sites on record.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "A Cipher Digital site at Milsing is eight kilometres away and a cancelled 600 megawatt Project Aggie from Priority Power Management 22; the 860 megawatt Tenaska Frontier gas plant is 12 kilometres off, with 100 and 52 megawatts of batteries at eight and 11.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "Texas has a grid connection moratorium recorded on record from August 3, 2026, three days before the announcement.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "A plant that powers itself and does not connect is not touched by it.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The MSN and soaratlas pages, the county's released agreement documents and the WTAW report were not fetched, so no source url is listed and each sentence is attributed to our record's source list. The acreage in our record, 2,500, matches neither the roughly 6,000 acre plant nor the 22,000 acre reinvestment zone, and the $119 billion is a projected total across future phases rather than a committed figure. No water volume or megawatt figure for the self generation has been published. No resident, county official or company representative is quoted, and no account of local opposition was found. This entry sits in a data center record and our own record says it is not one."
+ },
+ {
+  "id": "ft-508",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Giga Texas data center is recorded as operating at 1 Tesla Road in Austin, in Travis County, Texas.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The entry holds no source at all for it, and no capacity, acreage, cost or developer.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "No megawatt figure, square footage, water figure or employment figure has been published for the data center part of the factory, as distinct from the factory itself.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The power is on site.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "A 125 megawatt battery installation is recorded at zero kilometres, the 596 megawatt Sand Hill gas plant is two kilometres away, the 208 megawatt Decker Creek plant nine and the 575 megawatt Bastrop Energy Center 11.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Austin is one of the denser data center markets in the country and this building sits in the middle of it.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Travis County holds six sites on record, and ten sit within 31 kilometres: Core Scientific's operating 70 megawatt site at seven kilometres, a Digital Realty building at seven, a Switch site leased to Lambda at seven, CyrusOne at eight, another Switch site at nine, an Amazon proposal in Bastrop County at 19, Switch and Sabey sites at Round Rock at 29, another Switch site at 30 and EdgeConneX's 240 megawatt AUS02 at 31.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "San Marcos, 40 minutes down the interstate, banned data centers outright on February 18, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "Texas has a grid connection moratorium recorded from August 3, 2026, and the grid is ERCOT, peaking at 73,825 megawatts on record.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 3,
+    "t": "Neither reaches an existing building inside a car factory.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Our record carries no source for this entry and no page about it was fetched, so no source url is listed and each sentence is attributed to our record's source list. What the Giga Texas data center actually is, when it was built, what it runs, its power draw and whether it is a separate facility or part of the factory's own systems are all unestablished. No municipal filing and no account of any local response was found, which is what would be expected for a building inside an existing industrial site."
+ },
+ {
+  "id": "ft-1768501881634-3585",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "They came in tractors.",
+    "src": "https://www.click2houston.com/news/local/2026/08/15/austin-county-residents-protest-cleanspark-data-center-in-sealy/"
+   },
+   {
+    "para": 0,
+    "t": "On the evening of Friday, August 14, 2026, dozens of Austin County residents gathered near Trenckmann Road and FM 949 outside Sealy with tractors, trailers and trucks, then drove in convoy to the Millheim Harmonie Verein hall to object to a data center.",
+    "src": "https://www.click2houston.com/news/local/2026/08/15/austin-county-residents-protest-cleanspark-data-center-in-sealy/"
+   },
+   {
+    "para": 0,
+    "t": "Lisa Hicks said: \"We are not going to lay down and take it. We are here to fight.\"",
+    "src": "https://www.click2houston.com/news/local/2026/08/15/austin-county-residents-protest-cleanspark-data-center-in-sealy/"
+   },
+   {
+    "para": 1,
+    "t": "CleanSpark proposes a 285 megawatt data center on about 270 acres, of which only ten acres would hold the building itself.",
+    "src": "https://www.click2houston.com/news/local/2026/08/15/austin-county-residents-protest-cleanspark-data-center-in-sealy/"
+   },
+   {
+    "para": 1,
+    "t": "Harry Sudocks, the company's chief business officer, said CleanSpark would build its own substation and pay the utility for the upgrades it needs: \"The way that we work with the grid is that we pay our own way.\"",
+    "src": "https://www.click2houston.com/news/local/2026/08/15/austin-county-residents-protest-cleanspark-data-center-in-sealy/"
+   },
+   {
+    "para": 2,
+    "t": "The company says the cooling is closed loop, using less water a day than ten houses, and that the project would generate millions for the county and the school district.",
+    "src": "https://www.click2houston.com/news/local/2026/08/15/austin-county-residents-protest-cleanspark-data-center-in-sealy/"
+   },
+   {
+    "para": 2,
+    "t": "Residents also raised a battery storage installation nearby, which CleanSpark says is separately owned and was already there before it bought its land.",
+    "src": "https://www.click2houston.com/news/local/2026/08/15/austin-county-residents-protest-cleanspark-data-center-in-sealy/"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded as proposed at 285 megawatts on 271 acres with CleanSpark as developer, pushback confirmed, but at low confidence.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Its sources include a LinkedIn post and a campaign site called sealyforward.com, which was not opened.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "Austin County holds one data center site on record, this one.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 4,
+    "t": "The only other within 40 kilometres is the contested Viridien proposal at Brenham, 34 kilometres away; the nearest generation is solar, 240 megawatts at Fort Bend 43 kilometres off and 230 at Bernard Creek 49, with the 1,615 megawatt Fayette coal plant at 51.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.click2houston.com/news/local/2026/08/15/austin-county-residents-protest-cleanspark-data-center-in-sealy/"
+  ],
+  "unconfirmed": "The Data Center Dynamics report in our record is not fetchable and the LinkedIn post and sealyforward.com were not opened. The acreage is given as about 270 in the reporting and 271 in our record. The company's water claim, that operations would use less than ten households' worth a day, is its own and was not verified; no figure in gallons has been published. No county official is quoted, no application or hearing date is established, and whether the project has been approved by anyone is unknown. Whether the battery storage installation is in fact separately owned was not established beyond the company's assertion."
+ },
+ {
+  "id": "ft-1775786508153-1783",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The grid here could not take it.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 0,
+    "t": "The record carries a PowerBridge and LandBridge data center campus proposed at 2,000 megawatts on 3,400 acres near the Waha gas hub between Odessa and Pecos, in Reeves County, Texas, at low confidence, with no cost and no developer field filled in.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "The control area is El Paso Electric, whose peak demand the record puts at 2,147 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 1,
+    "t": "A single campus at 2,000 megawatts would be almost the whole of that utility's peak load, which is why the siting is next to the gas hub rather than next to the wires.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Waha is where Permian basin gas collects before it goes anywhere, and where it has repeatedly sold at negative prices for want of a pipeline.",
+    "src": "data:address"
+   },
+   {
+    "para": 2,
+    "t": "The record's only source is a trade report headlined that LandBridge and PowerBridge have partnered for a 2 gigawatt campus in west Texas.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "No cost, building count, water figure, timetable or tenant has been published, and low confidence is the right reading.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "Reeves County holds two data center sites on record.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "An operating 300 megawatt site at Pyote is 23 kilometres away and Amazon's GW Ranch campus in Pecos County, under construction, 36.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "What is actually built nearby is solar and batteries: 204 megawatts of solar at Taygete II 15 kilometres off, 255 at Taygete 17, 300 megawatts of batteries at Rodeo Ranch 22 and 101 at Flower Valley II 27.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Texas has a grid connection moratorium recorded from August 3, 2026, which is the kind of measure a project like this is designed to sidestep.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The Data Center Dynamics report in our record is not fetchable, so no source url is listed and each sentence is attributed to our record's source list, and no further search on LandBridge and PowerBridge specifically could be run. The description of Waha as a constrained gas hub with a history of negative prices is general knowledge, not a finding about this project. Nothing is established about the companies involved, whether land has been acquired, or whether any permit or interconnection has been sought. No official, resident or company representative is quoted."
+ },
+ {
+  "id": "ft-555",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The wind farm is on the site.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 0,
+    "t": "Project Gladys is a Soluna development at Bishop, in Nueces County, which the company's own projects page lists as a 150 megawatt wind powered data center in Texas, in development.",
+    "src": "https://www.solunacomputing.com/projects/"
+   },
+   {
+    "para": 0,
+    "t": "The 226 megawatt Patriot Wind Farm is recorded at zero kilometres from the site and the 249 megawatt Chapman Ranch Wind I at 14.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "Soluna's model is to put computing next to wind and solar farms that cannot always sell what they make.",
+    "src": "https://www.solunacomputing.com/projects/"
+   },
+   {
+    "para": 1,
+    "t": "Its projects page lists 13 sites: Dorothy 1A and 1B at 50 megawatts, Dorothy 2 at 48, Sophie at 25 in Kentucky and Kati 1 at 83, all operating; Dorothy 3 at 300, Kati 2 at between 100 and more than 300, and Grace at 2, under construction; and Rosa at 187, Hedy at 120, Ellen at 100, Annie at 75, Fei at 100 and Gladys at 150, in development.",
+    "src": "https://www.solunacomputing.com/projects/"
+   },
+   {
+    "para": 1,
+    "t": "Almost all of it is in Texas.",
+    "src": "https://www.solunacomputing.com/projects/"
+   },
+   {
+    "para": 2,
+    "t": "The record carries Project Gladys as proposed at 150 megawatts with no acreage, no cost and no developer field filled in, at low confidence, and marks pushback as unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "The company's own page does not name Bishop, does not say which wind farm it pairs with, and gives no date for completion or energisation.",
+    "src": "https://www.solunacomputing.com/projects/"
+   },
+   {
+    "para": 3,
+    "t": "The record's other sources are a trade report on two new Texas data centers totalling 350 megawatts, a Soluna announcement about reaching a gigawatt, and an Avangrid fact sheet for the Patriot wind farm.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The last of those is presumably why the site is placed at the wind farm.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "Nueces County holds two data center sites on record; a Hut 8 site at Corpus Christi leased to Lambda is 17 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 925 megawatt Barney M Davis gas plant is 32 kilometres off and a 65 megawatt refinery generator at Valero 31; no water figure, cost or timetable has been published for Gladys at all.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.solunacomputing.com/projects/"
+  ],
+  "unconfirmed": "The company's own projects page is the only source we read, so the list of sites and their capacities is Soluna's account of itself and none of it is independently verified. The Data Center Dynamics report in our record is not fetchable and the Avangrid fact sheet and the gigawatt announcement were not opened. That Project Gladys is at Bishop, and that it is paired with the Patriot wind farm, are inferences from our record's address and source list rather than statements we found. No acreage, building count, water figure, cost, timetable or tenant is established. No resident, county official or company representative is quoted, and we found no account of any local response."
+ },
+ {
+  "id": "ft-1768501547279-8324",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A CleanSpark data center is recorded as proposed at 600 megawatts on 44 acres somewhere in Brazoria County, Texas, at low confidence.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "The acreage is off by a factor of ten: the only source the record gives is a trade report headlined that CleanSpark has acquired 447 acres for a second Texas AI data center site.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The address field says Unknown.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "The address field says Unknown.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "No cost, building count, water figure, timetable or tenant has been published, and where in the county the land sits is not established.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "Six hundred megawatts is more than twice what the company proposes at Sealy, where hundreds of people have been protesting.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "Nobody appears to be protesting here, and Brazoria County holds only this one data center site on record, with no other within 40 kilometres.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The town of Alvin passed something in June 2026 that the record classes as other rather than a moratorium, noting it is a resolution which does not establish a permanent prohibition or a regulatory ban.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "That is the only local measure within reach, alongside the Texas grid connection moratorium recorded from August 3, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The power around it is gas, batteries and solar: 100 megawatts of storage at Gambit three kilometres away, the 357 megawatt Mark One station at seven, 200 megawatts of solar at Brazoria West at 18 and 50 megawatts of storage at Roughneck at 18.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Nothing within reach approaches 600 megawatts, and the grid is ERCOT.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The Data Center Dynamics report in our record is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. The 44 acres in our record cannot be reconciled with the 447 acres in its own source's headline and is most likely a transcription error. The site's location, the date of the acquisition, the planning status and whether any county approval has been sought are all unknown. No resident, county official or company representative is quoted. Our record's low confidence rating is appropriate."
+ },
+ {
+  "id": "ft-1772136190912-7319",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "More than a hundred people packed the Brenham council chamber over a data center, and the vote went against it.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "On January 8, 2026 Brenham City Council refused to create a reinvestment zone for Viridien, the French technology company formerly called CGG, denying a tax phase-in for a $100 million project on 21 acres at 2602 Longwood Drive in Washington County.",
+    "src": "https://www.kbtx.com/2026/01/09/brenham-city-council-rejects-reinvestment-zone-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The plan is one 40,000 square foot building at first, potentially three by 2028, reaching 45 megawatts, with 26 jobs per building.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The hearing was long and tense.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Residents questioned what it would do to the city's utilities, how the approval had been handled and whether the incentive was justified at all.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "One resident asked: \"They're headquartered in France. I don't understand why we are benefiting a French company, I don't understand.\"",
+    "src": "https://www.kbtx.com/2026/01/09/brenham-city-council-rejects-reinvestment-zone-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Taylor Farmer, an environmental consultant who grew up in Brenham, said: \"The lack of transparency just seems like something is wrong. I also don't think that they knew what they were getting into when they got started because it started between 2020 and 2022, and that was before the AI revolution.\"",
+    "src": "https://www.kbtx.com/2026/01/09/brenham-city-council-rejects-reinvestment-zone-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "The company said the cooling would be closed loop, that the building would handle neither AI nor cryptocurrency, and that it would pay for its own electrical infrastructure; Bluebonnet Electric Cooperative confirmed that residents' rates would not rise because of it.",
+    "src": "https://www.kbtx.com/2026/01/09/brenham-city-council-rejects-reinvestment-zone-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Viridien says it will build it with or without the tax abatement.",
+    "src": "https://www.kbtx.com/2026/01/09/brenham-city-council-rejects-reinvestment-zone-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded as proposed at 45 megawatts on 21 acres at $100 million, with Viridien as developer, pushback confirmed at high confidence, and a change.org petition headed to protect Brenham and stop the industrial data center being built in the community.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "That petition had more than 1,000 signatures when the trade press wrote about it.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "Washington County holds one data center site on record, this one; the contested CleanSpark proposal at Sealy is 34 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 1,615 megawatt Fayette coal plant is 41 kilometres off and the 176 megawatt Winchester Power Park 58.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.kbtx.com/2026/01/09/brenham-city-council-rejects-reinvestment-zone-data-center/"
+  ],
+  "unconfirmed": "The Data Center Dynamics report in our record is not fetchable and the Brenham Banner and KWHI reports were not fetched, so the attendance, the petition count, the three building expansion and the buildout timetable are attributed to our record's source list. The vote count is described as unanimous in one account and simply as against in another; no council member is named. No water figure in gallons has been published. Whether Viridien has since built anything, and whether the county or the school district took a different view from the city, are unknown. The company's assurance that the building will handle neither AI nor cryptocurrency is its own and was not verified."
+ },
+ {
+  "id": "ft-1786570153211-1394",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The applicant pulled out the day before Brownsville, in Cameron County, discussed banning data centers.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "A request for a special use permit to put a data center in a vacant building at 7480 Padre Island Highway in Brownsville, a former Walmart later used by Southwest Key, was due before the planning and zoning commission on Thursday, August 6, 2026.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The company withdrew on the Wednesday, according to the city manager Alan Guard, and later reporting named it as Randr Ventures.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The identity of the applicant and the reason for the withdrawal were not given at the time.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The city then met to consider a 90 day moratorium on new data center projects and stricter permitting, with two public hearings on the ordinance set for its regular meetings on September 1 and October 6.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded as cancelled with no acreage, no capacity, no cost and no developer field filled in, at high confidence, and pushback marked unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "A city that opened a moratorium discussion the same week is not a city where nobody objected, and a South Texas Environmental Justice Network page was running live updates on it.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "Cameron County holds five data center sites on record.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "A 100 megawatt Project Ellen is under construction 35 kilometres away, a Fluidstack site on 1,100 acres at Harlingen 37 and a 2,000 megawatt Eneus Energy proposal 38.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The generation here is wind and one small gas plant: 112 megawatts at Silas Ray ten kilometres off, 95 at San Roman 21, 181 at Cameron Wind 28 and 199 at La Chalupa 35.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "The grid is ERCOT, and Texas has a grid connection moratorium recorded from August 3, 2026, three days before the hearing this application was withdrawn from.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The Data Center Dynamics report in our record is not fetchable, the city's own newsflash page returned HTTP 403, and the MyRGV, KRGV and Rio Grande Guardian reports were not fetched, so no source url is listed and each sentence is attributed to our record's source list. The megawatts, cost, tenant and building plans were never published. Whether Brownsville adopted the moratorium after its September 1 and October 6 hearings is unknown, and so is whether Randr Ventures has applied again. No resident, commissioner or company representative is quoted."
+ },
+ {
+  "id": "ft-511",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A 62 year old conservative left the Republican party over the data center campus at Burlington, in Milam County, Texas.",
+    "src": "https://www.texastribune.org/2026/05/07/texas-republicans-data-centers-rural/"
+   },
+   {
+    "para": 0,
+    "t": "Rena Schroeder, who lives at Lott, learned that OpenAI's $500 billion Stargate project was being built south of her property and concluded that her party had been corrupted by industry lobbyists; at a Republican precinct meeting in Falls County in late March she proposed a state convention resolution banning data centers, was told to revise it to regulations instead, and registered as an independent.",
+    "src": "https://www.texastribune.org/2026/05/07/texas-republicans-data-centers-rural/"
+   },
+   {
+    "para": 1,
+    "t": "Project Freebird is SB Energy's campus at 2700 County Road 133, Burlington, in Milam County: the record puts it at 1,200 megawatts on 595 acres costing $3 billion, under construction, with OpenAI as tenant and pushback confirmed as organised advocacy.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "One of the sources gives the first phase as 548,950 square feet.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The group named on record is the Texas Data Center Reform Coalition.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "The politics around it are not what anyone expected.",
+    "src": "https://www.texastribune.org/2026/05/07/texas-republicans-data-centers-rural/"
+   },
+   {
+    "para": 2,
+    "t": "At least 82 data centers, nearly 60 per cent of those planned or under construction in Texas, are in state House districts that voted for Trump and elected Republicans in 2024, and a March Quinnipiac poll found 65 per cent of Americans opposed to AI data centers being built in their own community.",
+    "src": "https://www.texastribune.org/2026/05/07/texas-republicans-data-centers-rural/"
+   },
+   {
+    "para": 3,
+    "t": "State Representative Helen Kerwin of Glen Rose wrote in March 2026 calling for an \"IMMEDIATE PAUSE\" on new large-scale data center developments to study water and grid effects.",
+    "src": "https://www.texastribune.org/2026/05/07/texas-republicans-data-centers-rural/"
+   },
+   {
+    "para": 3,
+    "t": "State Representative Cody Vasut of Angleton filed House Bill 878 to give counties regulatory authority over developments affecting health, safety or noise, and State Representative Wes Virdell of Brady wrote that \"I left with the impression that our concerns fell on deaf ears.\"",
+    "src": "https://www.texastribune.org/2026/05/07/texas-republicans-data-centers-rural/"
+   },
+   {
+    "para": 3,
+    "t": "State Senator Paul Bettencourt of Houston took the other side: \"These should be statewide, top-down guidelines. You can't have 254 different counties and 1,000 cities all coming up with different answers. Stuff would never get built.\"",
+    "src": "https://www.texastribune.org/2026/05/07/texas-republicans-data-centers-rural/"
+   },
+   {
+    "para": 4,
+    "t": "The money moved too.",
+    "src": "https://www.texastribune.org/2026/05/07/texas-republicans-data-centers-rural/"
+   },
+   {
+    "para": 4,
+    "t": "Governor Abbott has received more than $2 million from technology and AI industries since 2024, and Meta's super political action committee, Forge the Future, spent nearly $174,000 supporting State Representative David Cook, who easily beat Schroeder when she ran in the Republican primary for an open Senate seat.",
+    "src": "https://www.texastribune.org/2026/05/07/texas-republicans-data-centers-rural/"
+   },
+   {
+    "para": 5,
+    "t": "A Google project sits two kilometres from Freebird, OpenAI's Stargate Milam 27, a 300 megawatt Rowan campus 27 and Meta's operating 152 megawatt Temple site 36.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 5,
+    "t": "The power beside it is solar: 200 megawatts at Orion I a kilometre away, 250 at Orion II, 250 at Orion III and 579 at Five Wells.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.texastribune.org/2026/05/07/texas-republicans-data-centers-rural/"
+  ],
+  "unconfirmed": "The report read is about Texas politics rather than about this campus, and it places Schroeder at Lott while the precinct meeting she spoke at was in Falls County; whether the project south of her property is Freebird itself or the neighbouring Stargate Milam is not established. The 1,200 megawatts, 595 acres, $3 billion, the OpenAI tenancy and the 548,950 square foot first phase come from our record and from the Data Center Dynamics, SB Energy, DPR and Texas licensing sources, none of which were fetched. No water figure has been published. What the Texas Data Center Reform Coalition has done about this specific site, and whether any hearing or permit was contested, are unknown. No SB Energy or OpenAI representative is quoted."
+ },
+ {
+  "id": "ft-1787771173835-1270",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "There are three EdgeConneX data center campuses at Cedar Creek, not one, and together they cover nearly 1,500 acres.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/development/town-halls-set-for-3-cedar-creek-data-centers-spanning-nearly-1500-acres/"
+   },
+   {
+    "para": 0,
+    "t": "All three are in Bastrop County, Texas.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/development/town-halls-set-for-3-cedar-creek-data-centers-spanning-nearly-1500-acres/"
+   },
+   {
+    "para": 0,
+    "t": "The first, at 6682 FM 535, is 112 acres, $440 million, a single two storey building of about 578,000 square feet, under construction with completion expected in summer 2026, and the county approved its tax abatement in December 2024.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/development/town-halls-set-for-3-cedar-creek-data-centers-spanning-nearly-1500-acres/"
+   },
+   {
+    "para": 1,
+    "t": "The second is the one on record.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/development/town-halls-set-for-3-cedar-creek-data-centers-spanning-nearly-1500-acres/"
+   },
+   {
+    "para": 1,
+    "t": "It covers 6682 and 6402 FM 535, 951 acres, $1.4 billion, two buildings proposed with seven more anticipated in later phases, in development and review, with no tax abatement requested yet.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/development/town-halls-set-for-3-cedar-creek-data-centers-spanning-nearly-1500-acres/"
+   },
+   {
+    "para": 1,
+    "t": "The third, at 6543 FM 535 and an adjacent lot, is 400 acres with nine buildings proposed, and has so far asked only for excavation and grading permits, with no building permits filed.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/development/town-halls-set-for-3-cedar-creek-data-centers-spanning-nearly-1500-acres/"
+   },
+   {
+    "para": 2,
+    "t": "The county commissioner David Glass asked EdgeConneX to hold public meetings.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/development/town-halls-set-for-3-cedar-creek-data-centers-spanning-nearly-1500-acres/"
+   },
+   {
+    "para": 2,
+    "t": "Three were arranged for June 2026: Elgin on the 16th at the North Bastrop County Community Annex, Smithville on the 17th at the recreation centre and Bastrop on the 18th at the county community centre, each from six to eight in the evening, to cover water use, infrastructure planning and potential community impacts.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/development/town-halls-set-for-3-cedar-creek-data-centers-spanning-nearly-1500-acres/"
+   },
+   {
+    "para": 2,
+    "t": "No resident is quoted in that report.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/development/town-halls-set-for-3-cedar-creek-data-centers-spanning-nearly-1500-acres/"
+   },
+   {
+    "para": 3,
+    "t": "The entry stands as proposed at 240 megawatts on 951 acres at $1.4 billion, with EdgeConneX as developer, at medium confidence, and marks pushback as unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Its seven sources include trade reports on CoreWeave leasing capacity here, on applications for four more buildings and on two filings of 730,000 square feet each.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "Bastrop County holds two data center sites on record; an Amazon proposal at Cedar Creek is 12 kilometres away and Tesla's Giga Texas 31.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "Further out, at 35 kilometres, sit three of the largest land holdings in the Austin market: Tract's 3,000 acres at Uhland, PowerHouse's 500 and Prime's 206.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 5,
+    "t": "The 575 megawatt Bastrop Energy Center is 20 kilometres off, the 607 megawatt Sim Gideon plant 22 and the 510 megawatt Lost Pines project 22.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 5,
+    "t": "San Marcos, 40 kilometres away, banned data centers outright on February 18, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://communityimpact.com/bastrop-cedar-creek/development/town-halls-set-for-3-cedar-creek-data-centers-spanning-nearly-1500-acres/"
+  ],
+  "unconfirmed": "The report we read gives no megawatt figure for any of the three campuses; our record's 240 megawatts comes from elsewhere and its source is not established. The five Data Center Dynamics reports in our record are not fetchable, the EdgeConneX data sheet was not opened and the San Antonio Express-News report was not fetched, so the CoreWeave lease, the 180 acre parcel acquisition and the two 730,000 square foot filings are attributed to our record's source list. No water figure has been published, which was the first item on the town hall agendas. What was said at the June 2026 town halls, and what the county has approved since, are unknown."
+ }
+]

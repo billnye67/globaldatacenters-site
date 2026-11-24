@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <title>Order Confirmed — Global Data Centers</title>
+    <meta name="robots" content="noindex">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css">
+    <style>
+        .success-section { padding: 80px 0 100px; max-width: 640px; margin: 0 auto; padding-left: 20px; padding-right: 20px; }
+        .success-check { font-size: 3rem; margin-bottom: 20px; }
+        .success-section h1 {
+            font-family: 'Fraunces', serif; font-size: 2.2rem; font-weight: 500;
+            line-height: 1.1; margin-bottom: 20px; letter-spacing: -0.02em;
+        }
+        .success-section h1 em { font-style: italic; color: var(--red); }
+        .success-section p { font-size: 1rem; color: var(--ink-soft); line-height: 1.65; margin-bottom: 16px; }
+        .success-section p strong { color: var(--ink); }
+        .success-box {
+            background: var(--paper-dark); border-left: 4px solid var(--forest);
+            padding: 24px 28px; margin: 28px 0;
+        }
+        .success-box-title { font-family: 'Fraunces', serif; font-size: 1.1rem; font-weight: 600; margin-bottom: 12px; color: var(--forest); }
+        .success-box p { font-size: 0.92rem; margin-bottom: 8px; }
+        .order-id-box {
+            background: var(--paper-dark); border: 1px dashed var(--rule);
+            padding: 14px 18px; margin: 22px 0;
+            font-family: 'Work Sans', monospace, sans-serif; font-size: 0.85rem;
+            color: var(--ink); word-break: break-all;
+        }
+        .order-id-box span { color: var(--ink-fade); display: block; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 4px; }
+        .success-cta {
+            display: inline-block; margin-top: 28px; padding: 14px 28px; background: var(--ink);
+            color: var(--paper); font-size: 0.85rem; font-weight: 600; text-transform: uppercase;
+            letter-spacing: 0.1em; text-decoration: none; transition: background 0.2s;
+        }
+        .success-cta:hover { background: #2a2821; }
+        .success-cta.secondary { background: transparent; color: var(--ink); border: 1px solid var(--ink); margin-left: 10px; }
+    </style>
+<script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "whyg2fbg7c");</script>
+</head>
+<body>
+<header class="masthead">
+    <div class="wrap">
+        <div class="masthead-inner">
+            <div class="mast-meta js-date-full"></div>
+            <div class="mast-title"><a href="/">Global Data Centers<span class="dot">.</span></a></div>
+            <div class="mast-meta mast-meta-right">Est. 2026 · Independent</div>
+        </div>
+    </div>
+</header>
+<div class="tagline-bar"><div class="wrap">Tracking proposed hyperscale and AI data centers worldwide, from public records and local news.</div></div>
+
+<section class="success-section">
+    <div class="success-check">✅</div>
+    <h1>Order <em>confirmed.</em></h1>
+    <p><strong>Payment went through and your gear is headed to the printer.</strong> A receipt is on its way to your email right now, and you'll get a second email with tracking as soon as it ships.</p>
+
+    <div class="order-id-box" id="orderIdBox" style="display:none;">
+        <span>Order reference</span>
+        <div id="orderIdText"></div>
+    </div>
+
+    <div class="success-box">
+        <div class="success-box-title">What happens next</div>
+        <p>1. Your order goes into production within 24 hours.</p>
+        <p>2. Printing and fulfillment typically take 2–5 business days.</p>
+        <p>3. Tracking hits your inbox the moment it ships.</p>
+        <p>Questions or a problem with your order? Reply to your receipt email or use the <a href="/contact">contact page</a> — include your order reference above.</p>
+    </div>
+
+    <p>Every shirt, hat, and flag puts money back into the fight against unchecked data center development.</p>
+
+    <a class="success-cta" href="/shop">Back to the shop</a>
+    <a class="success-cta secondary" href="/">Home</a>
+</section>
+
+<footer class="footer">
+    <div class="wrap">
+        <div class="footer-legal">
+            <div>© <span class="js-year"></span> globaldatacenters.net · Independent reporting.</div>
+        </div>
+    </div>
+</footer>
+
+<script>
+    const today = new Date();
+    document.querySelectorAll('.js-date-full').forEach(el => el.textContent = today.toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }));
+    document.querySelectorAll('.js-year').forEach(el => el.textContent = today.getFullYear());
+
+    // Show the order reference from the success_url query string
+    const params = new URLSearchParams(location.search);
+    const orderId = params.get('order_id');
+    if (orderId && /^merch_[0-9]+_[a-z0-9]+$/i.test(orderId)) {
+        document.getElementById('orderIdText').textContent = orderId;
+        document.getElementById('orderIdBox').style.display = 'block';
+    }
+
+    // Payment is complete — clear the cart so it doesn't linger
+    try { sessionStorage.removeItem('fdc_cart'); } catch (e) {}
+</script>
+<script>
+    // Meta Pixel — merch purchase conversion
+    if (window.fbq) { fbq('track', 'Purchase', { currency: 'USD' }); }
+</script>
+</body>
+</html>

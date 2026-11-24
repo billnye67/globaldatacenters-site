@@ -1,0 +1,478 @@
+[
+ {
+  "id": "developers-vantage-berlin-i",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Vantage's first Berlin data centre is in Brandenburg Park at Ludwigsfelde, south of the city, and is operating.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "NTT Berlin 1 stands about 13 kilometres away, Vantage Berlin II about 19 kilometres away, an AWS European Sovereign Cloud site under construction about 20 kilometres away and a proposed AWS site at Baruth/Mark about 36 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The largest planned project in the area never happened. Google abandoned its own Berlin data centre at Mittenwalde, about 30 kilometres south of the city, announcing the decision on July 15, 2025.",
+    "src": "https://themunicheye.com/google-abandons-berlin-brandenburg-data-center-plans-24424"
+   },
+   {
+    "para": 1,
+    "t": "Google spokesperson Ralf Bremer said the withdrawal followed \"a thorough evaluation of various factors influencing the feasibility of the project, including market trends and the company's evolving business priorities.\"",
+    "src": "https://themunicheye.com/google-abandons-berlin-brandenburg-data-center-plans-24424"
+   },
+   {
+    "para": 1,
+    "t": "Google said it would keep leasing space from other providers in the capital region instead, alongside its own data centre at Hanau near Frankfurt, which opened in 2023 with only one of three phases built.",
+    "src": "https://themunicheye.com/google-abandons-berlin-brandenburg-data-center-plans-24424"
+   }
+  ],
+  "sources": [
+   "https://themunicheye.com/google-abandons-berlin-brandenburg-data-center-plans-24424",
+   "https://vantage-dc.com/data-centers"
+  ],
+  "unconfirmed": "Nothing specific to Vantage Berlin I was found: no capacity, square footage, opening date, investment, water use, employment or planning history, and no local objection or council decision. The Google cancellation described here is a different company's project nearby."
+ },
+ {
+  "id": "developers-vantage-berlin-ii",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Vantage is building a data centre at Mittenwalde, on the ground where Google decided not to build.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "Google had signed preliminary contracts in 2022 for a 30 hectare plot in the Schenkendorf district of Mittenwalde, about 30 kilometres south of Berlin. On July 15, 2025 it announced it was withdrawing.",
+    "src": "https://themunicheye.com/google-abandons-berlin-brandenburg-data-center-plans-24424"
+   },
+   {
+    "para": 0,
+    "t": "Spokesperson Ralf Bremer attributed the decision to \"a thorough evaluation of various factors influencing the feasibility of the project, including market trends and the company's evolving business priorities.\" Reporting at the time also pointed to the power available in the area not suiting AI computing.",
+    "src": "https://themunicheye.com/google-abandons-berlin-brandenburg-data-center-plans-24424"
+   },
+   {
+    "para": 1,
+    "t": "The cancelled Google project sat at the same location as this Vantage site, with Vantage Berlin I about 19 kilometres away and NTT Berlin 1 about 25 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://themunicheye.com/google-abandons-berlin-brandenburg-data-center-plans-24424",
+   "https://vantage-dc.com/data-centers"
+  ],
+  "unconfirmed": "Our record places the cancelled Google project at zero distance from this Vantage site, but no source reached confirms that Vantage took on Google's land or that the two projects are on the same parcel, so the connection drawn here rests on our own coordinates. No capacity, size, investment, timeline or planning decision for Vantage Berlin II was found."
+ },
+ {
+  "id": "developers-vantage-frankfurt-ii-raunheim",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Vantage's Raunheim data centre operates in the Frankfurt cluster. About 10 kilometres away, at Gross-Gerau, the company was told no.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Vantage had spent more than a year on a campus in the Lausboehl industrial park at Gross-Gerau, on 14 hectares of brownfield land once used by the vehicle logistics company ARS Altmann. The project, reported as FRA5, carried an investment of about 2.5 billion euro and would have made its waste heat available for reuse.",
+    "src": "https://www.datacenterdynamics.com/en/news/vantage-denied-permission-for-data-center-outside-frankfurt/"
+   },
+   {
+    "para": 1,
+    "t": "On February 4, 2026 the town council voted 18 to 14 against even entering contract negotiations.",
+    "src": "https://www.hessenschau.de/politik/kommunalwahlen/internetknoten-rhein-main-gross-gerau-sagt-nein-zu-diesem-xxl-rechenzentrum--v1,kom26-gross-gerau-rechenzentrum-100.html"
+   },
+   {
+    "para": 2,
+    "t": "The reasons were unusual. The town cited the risk of terrorism, cyberattacks and hybrid threats, and feared added heat stress in the town from blocks up to 30 metres high. It also doubted the business tax revenue would be reliable and objected to how few direct jobs the site would create.",
+    "src": "https://www.datacenterdynamics.com/en/news/vantage-denied-permission-for-data-center-outside-frankfurt/"
+   },
+   {
+    "para": 2,
+    "t": "Susanne Theisen-Canibol, leader of the SPD group that led the opposition, told the council the town would not sell Gross-Gerau to a billionaire investor, and questioned whether the tax arrangement would benefit the town at all.",
+    "src": "https://www.hessenschau.de/politik/kommunalwahlen/internetknoten-rhein-main-gross-gerau-sagt-nein-zu-diesem-xxl-rechenzentrum--v1,kom26-gross-gerau-rechenzentrum-100.html"
+   },
+   {
+    "para": 2,
+    "t": "Peter Lohmer, the Greens' deputy group leader, described the mismatch as people standing smaller than David against a giant Goliath, doubting whether even specialist lawyers could handle the complexity.",
+    "src": "https://www.hessenschau.de/politik/kommunalwahlen/internetknoten-rhein-main-gross-gerau-sagt-nein-zu-diesem-xxl-rechenzentrum--v1,kom26-gross-gerau-rechenzentrum-100.html"
+   },
+   {
+    "para": 2,
+    "t": "Wolfgang Zwer, of the Lausboehl residents' initiative, objected to the size of the building and to its position in a fresh air corridor, though residents said they were not against data centres in principle.",
+    "src": "https://www.hessenschau.de/politik/kommunalwahlen/internetknoten-rhein-main-gross-gerau-sagt-nein-zu-diesem-xxl-rechenzentrum--v1,kom26-gross-gerau-rechenzentrum-100.html"
+   },
+   {
+    "para": 2,
+    "t": "Thomas Hlubek of the CDU called it a fatal decision and warned the town had lost millions in tax.",
+    "src": "https://www.hessenschau.de/politik/kommunalwahlen/internetknoten-rhein-main-gross-gerau-sagt-nein-zu-diesem-xxl-rechenzentrum--v1,kom26-gross-gerau-rechenzentrum-100.html"
+   },
+   {
+    "para": 3,
+    "t": "Around the Raunheim site, CloudHQ Frankfurt and Digital Realty Hattersheim stand about 5 kilometres away, an AWS Frankfurt region site about 7 kilometres away and China Mobile International about 9 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.hessenschau.de/politik/kommunalwahlen/internetknoten-rhein-main-gross-gerau-sagt-nein-zu-diesem-xxl-rechenzentrum--v1,kom26-gross-gerau-rechenzentrum-100.html",
+   "https://www.datacenterdynamics.com/en/news/vantage-denied-permission-for-data-center-outside-frankfurt/",
+   "https://vantage-dc.com/data-centers"
+  ],
+  "unconfirmed": "The Hessenschau report of the Gross-Gerau council debate is in German, so the councillors' remarks are paraphrased rather than quoted."
+ },
+ {
+  "id": "developers-vantage-warsaw",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Vantage's Warsaw campus stands on more than 12 acres at Zgrupowania AK Kampinos 42D, in the Bielany district, about half an hour from Chopin airport.",
+    "src": "https://vantage-dc.com/data-center-locations/emea/warsaw-poland/"
+   },
+   {
+    "para": 0,
+    "t": "Built out, it will be two four storey data centres totalling 390,000 square feet and 48 megawatts of IT load.",
+    "src": "https://vantage-dc.com/data-center-locations/emea/warsaw-poland/"
+   },
+   {
+    "para": 0,
+    "t": "The first phase was delivered in 2021 and the campus opened to customers in June 2022, alongside Vantage's Berlin campus.",
+    "src": "https://www.datacenterdynamics.com/en/news/vantage-opens-data-center-campuses-in-warsaw-and-berlin/"
+   },
+   {
+    "para": 1,
+    "t": "The district welcomed it.",
+    "src": "https://www.property-forum.eu/news/vantage-data-centers-opens-warsaw-campus-to-customers/12597"
+   },
+   {
+    "para": 1,
+    "t": "Grzegorz Pietruczuk, the mayor of Bielany, said: \"I'm very happy that a campus with data centres has been built in the Bielany district.\"",
+    "src": "https://www.property-forum.eu/news/vantage-data-centers-opens-warsaw-campus-to-customers/12597"
+   },
+   {
+    "para": 1,
+    "t": "Vantage says the campus offers renewable energy options and cools with outside air economisation, using minimal water.",
+    "src": "https://vantage-dc.com/data-center-locations/emea/warsaw-poland/"
+   },
+   {
+    "para": 2,
+    "t": "Poland's data centre market is thin next to Germany's.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Only two other projects stand within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://vantage-dc.com/data-center-locations/emea/warsaw-poland/",
+   "https://www.datacenterdynamics.com/en/news/vantage-opens-data-center-campuses-in-warsaw-and-berlin/",
+   "https://www.property-forum.eu/news/vantage-data-centers-opens-warsaw-campus-to-customers/12597"
+  ],
+  "unconfirmed": "Searches on Vantage with Warsaw, on Warsaw with data centre, and on Bielany with data centre found no water figure, planning record or resident comment; the only local voice in the coverage is the district mayor, who is not named in the report. The claim about minimal water use is the company's own."
+ },
+ {
+  "id": "developers-vantage-tokyo-sagamihara",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Vantage is building its first Japanese data centre campus at Sagamihara, in Kanagawa prefecture southwest of Tokyo: three multi storey buildings across about 300,000 square feet, or 28,000 square metres.",
+    "src": "https://telecomtalk.info/vantage-breaks-ground-on-first-campus-japan/977070/"
+   },
+   {
+    "para": 0,
+    "t": "They are built to resist earthquakes, on seismic isolation foundations.",
+    "src": "https://telecomtalk.info/vantage-breaks-ground-on-first-campus-japan/977070/"
+   },
+   {
+    "para": 0,
+    "t": "That is not a formality: Sagamihara records about 548 earthquakes a year.",
+    "src": "https://www.volcanodiscovery.com/earthquakes/japan/kanagawa/sagamihara-shi.html"
+   },
+   {
+    "para": 1,
+    "t": "The city is becoming a data centre location in its own right.",
+    "src": "https://www.datacenterdynamics.com/en/news/goodman-eyes-new-data-center-development-outside-tokyo-japan/"
+   },
+   {
+    "para": 1,
+    "t": "Goodman has been chosen as lead development partner by an association of local landowners and stakeholders working up another campus there, which is an unusual arrangement: the landowners organised first and picked the developer.",
+    "src": "https://www.datacenterdynamics.com/en/news/goodman-eyes-new-data-center-development-outside-tokyo-japan/"
+   },
+   {
+    "para": 1,
+    "t": "NEC also has a data centre at Sagamihara.",
+    "src": "https://baxtel.com/data-center/nec-sagamihara-kanagawa"
+   },
+   {
+    "para": 2,
+    "t": "DayOne's Fuchu park stands about 18 kilometres away, NTT Yokohama 1 about 20, and an MC Digital Realty site nearby.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://telecomtalk.info/vantage-breaks-ground-on-first-campus-japan/977070/",
+   "https://www.volcanodiscovery.com/earthquakes/japan/kanagawa/sagamihara-shi.html",
+   "https://www.datacenterdynamics.com/en/news/goodman-eyes-new-data-center-development-outside-tokyo-japan/",
+   "https://baxtel.com/data-center/nec-sagamihara-kanagawa"
+  ],
+  "unconfirmed": "Searches on Vantage with Sagamihara, on Kanagawa with data centre, and on Sagamihara with data centre residents found no capacity figure, water figure, planning record or resident comment on this campus, and no Japanese local reporting on it. The groundbreaking date was not established."
+ },
+ {
+  "id": "developers-vantage-cyberjaya-kul2",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Vantage runs a data centre at Cyber 8 in Cyberjaya, in Selangor, though the company does not publish the location itself.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It sits in the middle of the Malaysian cluster, with NTT's Cyberjaya campus, DayOne's Greater Kuala Lumpur site and Keppel's Basis campus nearby.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Whether any more get built in this state now turns on water.",
+    "src": "https://mediaselangor.com/en/2026/09/394552"
+   },
+   {
+    "para": 1,
+    "t": "On September 8, 2026 Selangor's Menteri Besar, Amirudin Shari, said plainly that \"without sufficient water supply, data centres certainly cannot be approved in Selangor,\" and that projects need clearance from the water and electricity suppliers as well as the federal data centre task force.",
+    "src": "https://mediaselangor.com/en/2026/09/394552"
+   },
+   {
+    "para": 1,
+    "t": "The state is counting on the Rasau water supply scheme to add 350 million litres a day, and will require recycling systems inside the facilities and cooling technologies that use less water.",
+    "src": "https://mediaselangor.com/en/2026/09/394552"
+   },
+   {
+    "para": 1,
+    "t": "Selangor approved 39 data centre projects between 2021 and 2025.",
+    "src": "https://mediaselangor.com/en/2026/09/394552"
+   },
+   {
+    "para": 2,
+    "t": "The national numbers explain the caution.",
+    "src": "https://aliran.com/civil-society-voices/why-malaysia-must-pause-its-data-centre-boom"
+   },
+   {
+    "para": 2,
+    "t": "Between 2021 and June 2025 the federal government approved 143 data centre projects worth RM144.4 billion, and by early 2026 Malaysia had 34 operating with 33 more being built.",
+    "src": "https://aliran.com/civil-society-voices/why-malaysia-must-pause-its-data-centre-boom"
+   },
+   {
+    "para": 2,
+    "t": "By the end of 2024, 38 projects had secured 5.9 gigawatts of electricity supply, roughly 43 percent of the national utility's contracted capacity.",
+    "src": "https://aliran.com/civil-society-voices/why-malaysia-must-pause-its-data-centre-boom"
+   },
+   {
+    "para": 2,
+    "t": "The National Water Services Commission estimates that 104 data centres would need about 876 million litres a day for cooling.",
+    "src": "https://aliran.com/civil-society-voices/why-malaysia-must-pause-its-data-centre-boom"
+   },
+   {
+    "para": 3,
+    "t": "Kua Kia Soong has argued for suspending approvals until governments can guarantee the power and water independently, give households priority, recover environmental costs from operators and hold public hearings before major approvals.",
+    "src": "https://aliran.com/civil-society-voices/why-malaysia-must-pause-its-data-centre-boom"
+   },
+   {
+    "para": 3,
+    "t": "\"The digital economy can wait,\" he wrote. \"The basic needs of the people cannot.\"",
+    "src": "https://aliran.com/civil-society-voices/why-malaysia-must-pause-its-data-centre-boom"
+   }
+  ],
+  "sources": [
+   "https://mediaselangor.com/en/2026/09/394552",
+   "https://aliran.com/civil-society-voices/why-malaysia-must-pause-its-data-centre-boom"
+  ],
+  "unconfirmed": "Searches on Vantage with Cyberjaya, on Selangor with data centre water, and on Cyberjaya with data centre residents found no capacity figure, water figure, planning record or resident comment naming this facility. Vantage does not publish the site's location, which is why our record gives it as Cyber 8. Reports of residents protesting outside a data centre construction site at Gelang Patah in Johor in February 2026 appear in search results but the pages carrying them refused our requests, so that protest is not described here."
+ },
+ {
+  "id": "developers-vantage-atlanta-fayetteville",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The fight in Fayette County is not about the buildings. It is about the poles needed to power them.",
+    "src": "https://www.wsbtv.com/news/local/fayette-county/new-data-center-is-coming-fayette-county-neighbors-dont-want-power-poles-it-needs/FTMLDK6URNEJRDFRK2EWB7G6IA/"
+   },
+   {
+    "para": 0,
+    "t": "Georgia Power is running new lines to serve the data center development on Highway 54 west of Fayetteville, on poles nearly 200 feet tall, across land in front of people's houses.",
+    "src": "https://www.wsbtv.com/news/local/fayette-county/new-data-center-is-coming-fayette-county-neighbors-dont-want-power-poles-it-needs/FTMLDK6URNEJRDFRK2EWB7G6IA/"
+   },
+   {
+    "para": 1,
+    "t": "Judy Drohn, who lives along the route, said: \"I can't live next to those power lines.\"",
+    "src": "https://www.wsbtv.com/news/local/fayette-county/new-data-center-is-coming-fayette-county-neighbors-dont-want-power-poles-it-needs/FTMLDK6URNEJRDFRK2EWB7G6IA/"
+   },
+   {
+    "para": 1,
+    "t": "They keep their land but give up easement rights, and can plant only low growing vegetation in the strip. Some were offered around $3,000 for several feet of property, and say they had no say in the decision.",
+    "src": "https://www.wsbtv.com/news/local/fayette-county/new-data-center-is-coming-fayette-county-neighbors-dont-want-power-poles-it-needs/FTMLDK6URNEJRDFRK2EWB7G6IA/"
+   },
+   {
+    "para": 1,
+    "t": "Georgia Power said its experts spent months choosing the route, weighing safety, reliability, construction timing and community impact, that the alternative would have displaced people entirely, and that it is still negotiating terms with affected owners. The account is dated July 8, 2024.",
+    "src": "https://www.wsbtv.com/news/local/fayette-county/new-data-center-is-coming-fayette-county-neighbors-dont-want-power-poles-it-needs/FTMLDK6URNEJRDFRK2EWB7G6IA/"
+   },
+   {
+    "para": 2,
+    "t": "Vantage's campus, at 1.7 million square feet, is one of several on the same stretch of road. Microsoft's 636 megawatt Fairwater Atlanta site and a QTS campus are each about 1 kilometer away, with the 96 megawatt Project Rita about 9 kilometers away and Microsoft Palmetto about 12 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Metro Atlanta has been closing off, with an outright ban on data centers in the city of Atlanta, moratoriums at Marietta and Chamblee, zoning limits at Hampton, and two moratoriums in Carroll County.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The area draws from Southern Company, whose control area peaks at about 43,535 megawatts. The 714 megawatt Yates plant is about 34 kilometers away.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [
+   "https://www.wsbtv.com/news/local/fayette-county/new-data-center-is-coming-fayette-county-neighbors-dont-want-power-poles-it-needs/FTMLDK6URNEJRDFRK2EWB7G6IA/",
+   "https://baxtel.com/data-centers/vantage-data-centers"
+  ],
+  "unconfirmed": "The power pole dispute reported here concerns the QTS campus on the same highway, and no source reached establishes whether the same lines serve Vantage's site. No capacity, timeline, investment figure, water use, employment number or city approval record for the Vantage campus itself was found."
+ },
+ {
+  "id": "developers2-cyrusone-chandler-phoenix",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Chandler, in Maricopa County, Arizona, wrote rules about data centers before most American cities had thought about it, and it has since used them to turn one down.",
+    "src": "https://servercountry.org/policy/arizona/"
+   },
+   {
+    "para": 0,
+    "t": "The city's ordinance was approved in 2022 and took effect on January 5, 2023. It confines primary data center use to planned area development zoning and requires resident notification, a baseline sound study, mitigation, annual sound studies for five years and limits on testing backup generators.",
+    "src": "https://servercountry.org/policy/arizona/"
+   },
+   {
+    "para": 1,
+    "t": "On December 12, 2025 the city council voted unanimously to reject a roughly 400,000 square foot AI data center campus proposed for the site of an abandoned office building. More than 200 public comments opposed the rezoning and fewer than a dozen supported it.",
+    "src": "https://techstrong.it/featured/arizona-city-rejects-data-center-highlighting-local-pushback/"
+   },
+   {
+    "para": 1,
+    "t": "Former United States Senator Kyrsten Sinema appeared at meetings for the AI Infrastructure Coalition, urging officials to weigh the national importance of AI infrastructure and warning that federal authority could eventually override local zoning.",
+    "src": "https://techstrong.it/featured/arizona-city-rejects-data-center-highlighting-local-pushback/"
+   },
+   {
+    "para": 1,
+    "t": "Vice Mayor Christine Ellis said she had repeatedly asked the project's supporters how it would benefit Chandler residents, and got no clear answer.",
+    "src": "https://techstrong.it/featured/arizona-city-rejects-data-center-highlighting-local-pushback/"
+   },
+   {
+    "para": 2,
+    "t": "CyrusOne's own Chandler campus, eight buildings on South Ellis Street in Maricopa County, Arizona, predates that fight. Aligned PHX-06 and Digital Realty's Chandler site sit at the same location, Oracle's Phoenix region about 1 kilometer away, and the blocked Chandler AI Campus about 2 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Mesa and Phoenix followed with their own rules in July 2025, and zoning limits are now in force at Chandler, Phoenix, Mesa, Tempe and across Maricopa County, which holds 40 data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://servercountry.org/policy/arizona/",
+   "https://techstrong.it/featured/arizona-city-rejects-data-center-highlighting-local-pushback/",
+   "https://www.datacentermap.com/c/cyrusone/datacenters"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure for the CyrusOne Chandler campus was found, and no record of its own approval or of objections to it. The developer behind the rejected AI campus is described only as New York based and was not named in the sources reached."
+ },
+ {
+  "id": "developers2-cyrusone-yorkville",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Yorkville, in Kendall County, Illinois, has three data center projects going at once, and the argument has moved from whether to build to how loud it will be.",
+    "src": "https://www.shawlocal.com/kendall-county-now/2026/07/17/sound-limits-placed-on-cyrusone-data-center-in-yorkville-residents-still-worried-about-construction-noise/"
+   },
+   {
+    "para": 0,
+    "t": "CyrusOne's campus covers 228 acres east of Eldamain Road, north of the railroad and Faxon Road. The plan is eight single-story warehouses totaling 1,854,805 square feet, no taller than 50 feet 10 inches.",
+    "src": "https://www.shawlocal.com/kendall-county-now/2026/07/17/sound-limits-placed-on-cyrusone-data-center-in-yorkville-residents-still-worried-about-construction-noise/"
+   },
+   {
+    "para": 0,
+    "t": "The city approved amendments to the plans on July 14, 2026 that cut building area by about 300,000 square feet, dropped the buildings from two stories to one, and increased setbacks from houses on Eldamain and Faxon Roads.",
+    "src": "https://www.shawlocal.com/kendall-county-now/2026/07/17/sound-limits-placed-on-cyrusone-data-center-in-yorkville-residents-still-worried-about-construction-noise/"
+   },
+   {
+    "para": 1,
+    "t": "Yorkville limits noise in residential areas to 60 decibels by day and 50 at night. Highway traffic runs at 70 to 80. City Administrator Bart Olson said developers must now predict their noise output before a permit is granted, and comply afterwards.",
+    "src": "https://www.shawlocal.com/kendall-county-now/2026/07/17/sound-limits-placed-on-cyrusone-data-center-in-yorkville-residents-still-worried-about-construction-noise/"
+   },
+   {
+    "para": 1,
+    "t": "Alderman Craig Soling said he and the residents he had spoken to remain skeptical about the estimates CyrusOne will supply.",
+    "src": "https://www.shawlocal.com/kendall-county-now/2026/07/17/sound-limits-placed-on-cyrusone-data-center-in-yorkville-residents-still-worried-about-construction-noise/"
+   },
+   {
+    "para": 1,
+    "t": "Resident Lees Poss told the council the three buildouts would run 10 to 20 years, \"that's a significant amount of construction noise, dust and pollution,\" and added: \"We need a little bit more checks and balances here. You guys seem to be very trusting of whatever these magic men say to you. I'm not that trusting.\"",
+    "src": "https://www.shawlocal.com/kendall-county-now/2026/07/17/sound-limits-placed-on-cyrusone-data-center-in-yorkville-residents-still-worried-about-construction-noise/"
+   },
+   {
+    "para": 2,
+    "t": "Each building takes 18 months. The first should be running in the first quarter of 2028, and the whole campus is estimated at 10 to 20 years of construction.",
+    "src": "https://www.shawlocal.com/kendall-county-now/2026/07/17/sound-limits-placed-on-cyrusone-data-center-in-yorkville-residents-still-worried-about-construction-noise/"
+   },
+   {
+    "para": 3,
+    "t": "A Microsoft site at Plano, Illinois stands about 2 kilometers away, CyrusOne's own Aurora campus about 24 kilometers away, a proposed 500 megawatt Cielo project about 30 kilometers away and Tract's 344 acre Morris technology park about 31 kilometers away. Plainfield has a moratorium in force.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.shawlocal.com/kendall-county-now/2026/07/17/sound-limits-placed-on-cyrusone-data-center-in-yorkville-residents-still-worried-about-construction-noise/",
+   "https://www.datacentermap.com/c/cyrusone/datacenters"
+  ],
+  "unconfirmed": "Residents filed a lawsuit against the city in April 2026 to halt a separate 1,034 acre project called Project Cardinal, and a settlement was reported as likely, but those pages were not retrieved so the case is not set out here. No capacity in megawatts, water use figure, employment number or investment figure for the CyrusOne campus was found. Our record describes nine buildings where the city's approved plan now has eight."
+ },
+ {
+  "id": "developers2-cyrusone-talkington-township-sangamon",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "More than sixty people asked to speak. The board allowed about a dozen, capping public comment at an hour, and then voted.",
+    "src": "https://broadbandbreakfast.com/sangamon-county-illinois-approves-500m-data-center-after-heated-debate/"
+   },
+   {
+    "para": 0,
+    "t": "On April 7, 2026 the Sangamon County Board approved conditional permitted use for CyrusOne, of Dallas, to build a $500 million data center campus on about 280 acres of farmland in Talkington Township, near Waverly. The vote was 17 to 10 with one abstention, after the board had tabled the proposal in March.",
+    "src": "https://broadbandbreakfast.com/sangamon-county-illinois-approves-500m-data-center-after-heated-debate/"
+   },
+   {
+    "para": 1,
+    "t": "District 9 board member Tom Madonia argued for it on jobs and money for local services: \"They bring a lot of jobs,\" along with funding for \"school districts, the water plant, the Apple Creek water plant.\" Labor representative Josh Summers put it more bluntly: \"We have to have work, we have to have jobs. We have to grow or we stay stale.\"",
+    "src": "https://broadbandbreakfast.com/sangamon-county-illinois-approves-500m-data-center-after-heated-debate/"
+   },
+   {
+    "para": 1,
+    "t": "Resident Maribel Cruz-Hine asked the board to slow down: \"Listen to the community. Take more time for research.\" Board member Tracy Sheppard, who voted against, said \"Decisions of this magnitude must be made with full clarity and careful consideration.\" Dr. Ashraf Tamizuddin told the board there is \"no environmentally friendly way of having a data center.\"",
+    "src": "https://broadbandbreakfast.com/sangamon-county-illinois-approves-500m-data-center-after-heated-debate/"
+   },
+   {
+    "para": 2,
+    "t": "An earlier attempt to impose a county moratorium had been killed before the approval, and opponents went to the Sangamon Circuit Court in July 2026 seeking to void the conditional use approval and stop the project. Construction permits were still outstanding.",
+    "src": "https://servercountry.org/data/projects/cyrusone-sangamon-county-waverly-data-center-il/"
+   },
+   {
+    "para": 3,
+    "t": "The land around it is farm and generation. The 593 megawatt Double Back Diamond solar plant is about 6 kilometers away, the 302 megawatt Lincoln Land Wind about 32 kilometers away and the 1,112 megawatt Kincaid coal plant about 33 kilometers away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://broadbandbreakfast.com/sangamon-county-illinois-approves-500m-data-center-after-heated-debate/",
+   "https://servercountry.org/data/projects/cyrusone-sangamon-county-waverly-data-center-il/",
+   "https://baxtel.com/data-center/cyrusone-cincinnati-blue-ash"
+  ],
+  "unconfirmed": "One account puts the campus at 600 megawatts, but that figure did not appear in the reporting of the vote and was not confirmed. The number of buildings is given as four in our record but was not stated in the sources read. How the site would be supplied with power, and the outcome of the July 2026 lawsuit, are both unknown."
+ }
+]

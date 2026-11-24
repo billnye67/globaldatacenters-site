@@ -1,0 +1,623 @@
+[
+ {
+  "id": "research-open-access-dc-lagos-lekki",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "OADC, the data centre arm of the West Indian Ocean Cable Company, has its main Nigerian building on a four hectare campus in the Lekki area of Lagos.",
+    "src": "https://leadership.ng/oadc-announces-240m-investment-in-24mw-lagos-data-centre/"
+   },
+   {
+    "para": 0,
+    "t": "The address is on Lekki Peninsula II, where Google's Equiano subsea cable comes ashore in Nigeria.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Most of the data centres in Lagos State are in the Victoria Island and Lekki area, which is also among the most expensive parts of the city to buy or lease land.",
+    "src": "https://www.connectingafrica.com/data-centers/nigeria-s-data-center-growth-prospects-amid-power-constraints"
+   },
+   {
+    "para": 1,
+    "t": "OADC announced a US$240 million investment in March 2025 to build 24 megawatts of capacity, replacing a first building of 1.5 MW that had filled up.",
+    "src": "https://www.thisdaylive.com/2025/03/24/oadc-to-invest-240m-in-24mw-data-centre-facility-in-lagos/"
+   },
+   {
+    "para": 1,
+    "t": "The work is split into two phases of 12 MW, the first meant to be finished within 18 months.",
+    "src": "https://www.thisdaylive.com/2025/03/24/oadc-to-invest-240m-in-24mw-data-centre-facility-in-lagos/"
+   },
+   {
+    "para": 1,
+    "t": "Ayotunde Coker, the chief executive, put the cost of building a tier three data centre at about US$10 million for each megawatt.",
+    "src": "https://www.thisdaylive.com/2025/03/24/oadc-to-invest-240m-in-24mw-data-centre-facility-in-lagos/"
+   },
+   {
+    "para": 1,
+    "t": "OADC says the money is a mix of equity and debt raised with the International Finance Corporation and Proparco.",
+    "src": "https://leadership.ng/oadc-announces-240m-investment-in-24mw-lagos-data-centre/"
+   },
+   {
+    "para": 2,
+    "t": "Power is the hard part in Nigeria.",
+    "src": "https://www.connectingafrica.com/data-centers/nigeria-s-data-center-growth-prospects-amid-power-constraints"
+   },
+   {
+    "para": 2,
+    "t": "The national grid can produce about 6,000 megawatts against annual demand of roughly 100,000, outages are frequent, and data centres do not lean on it.",
+    "src": "https://www.connectingafrica.com/data-centers/nigeria-s-data-center-growth-prospects-amid-power-constraints"
+   },
+   {
+    "para": 2,
+    "t": "Most run on gas generators instead, which MTN Nigeria says saves about 40 percent against diesel at some of its sites.",
+    "src": "https://www.connectingafrica.com/data-centers/nigeria-s-data-center-growth-prospects-amid-power-constraints"
+   },
+   {
+    "para": 2,
+    "t": "OADC says the Lagos building takes dedicated lines from the Jakande transmission hub with a backup feed from Ajah and a further link planned from a substation, and that it is weighing independent gas generation and the wheeling of hydro and solar power to the site.",
+    "src": "https://leadership.ng/oadc-announces-240m-investment-in-24mw-lagos-data-centre/"
+   },
+   {
+    "para": 3,
+    "t": "Lagos is described in the same coverage as Africa's second largest data centre market after Johannesburg.",
+    "src": "https://leadership.ng/oadc-announces-240m-investment-in-24mw-lagos-data-centre/"
+   },
+   {
+    "para": 3,
+    "t": "Four other data centre projects sit within about 12 kilometres, including a proposed 100 MW building by Kasi Cloud roughly 3 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.thisdaylive.com/2025/03/24/oadc-to-invest-240m-in-24mw-data-centre-facility-in-lagos/",
+   "https://leadership.ng/oadc-announces-240m-investment-in-24mw-lagos-data-centre/",
+   "https://www.connectingafrica.com/data-centers/nigeria-s-data-center-growth-prospects-amid-power-constraints",
+   "https://www.datacentermap.com/nigeria/lagos/open-access-lagos/"
+  ],
+  "unconfirmed": "No planning file, environmental condition or local objection to the Lekki campus was found, and no construction progress has been reported since the March 2025 announcement. Searched: Open Access Data Centres OADC Lagos Lekki LOS02 WIOCC 24MW; Lekki Lagos data centre power grid diesel residents Nigeria; WIOCC Nigeria data centre investment Lagos Equiano cable landing. WIOCC's own material describes the Lekki campus as supporting up to 20 MW and scalable to 40 MW, which is not reconciled with the 24 MW announcement."
+ },
+ {
+  "id": "research-khazna-benya-maadi",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Khazna Data Centers of Abu Dhabi and the Egyptian infrastructure company Benya Group announced on May 8, 2023 that they would build Egypt's first hyperscale data centre at Maadi Technology Park in Cairo.",
+    "src": "https://khaznadatacenters.com/press-release/khazna-data-centers-plans-to-enter-egypt-with-benya-group-to-set-up-the-countrys-first-hyper-scale-data-center-in-maadi-technology-park-with-a-total-investment-of-usd-250m/"
+   },
+   {
+    "para": 0,
+    "t": "The investment is US$250 million and the plant is designed for 25 megawatts of IT load across 40,000 square metres.",
+    "src": "https://www.worldconstructionnetwork.com/news/benya-khazna-data-centre/"
+   },
+   {
+    "para": 1,
+    "t": "Hassan Alnaqbi, Khazna's chief executive, said the partnership marked a significant step in the company's regional expansion, and told The National that to become regional and global the company had to step outside the United Arab Emirates.",
+    "src": "https://www.thenationalnews.com/business/technology/2023/05/08/abu-dhabis-khazna-to-open-250m-data-centre-in-egypt-amid-global-acquisition-plan/"
+   },
+   {
+    "para": 1,
+    "t": "Ahmed Mekky, chairman and chief executive of Benya Group, said the agreement would give his company a way into building hyperscale data centres.",
+    "src": "https://www.worldconstructionnetwork.com/news/benya-khazna-data-centre/"
+   },
+   {
+    "para": 1,
+    "t": "Hossam Heiba of Egypt's General Authority for Investment and Free Zones said the project sat within a national plan to bring information technology and data centre industries into the country.",
+    "src": "https://www.worldconstructionnetwork.com/news/benya-khazna-data-centre/"
+   },
+   {
+    "para": 1,
+    "t": "Amr Aboualam, who chairs Maadi Technology Park, was also named in the announcement.",
+    "src": "https://khaznadatacenters.com/press-release/khazna-data-centers-plans-to-enter-egypt-with-benya-group-to-set-up-the-countrys-first-hyper-scale-data-center-in-maadi-technology-park-with-a-total-investment-of-usd-250m/"
+   },
+   {
+    "para": 2,
+    "t": "Khazna was put together in 2021 out of the data centre arms of Etisalat Group and the Abu Dhabi artificial intelligence company G42, and at the time of the Cairo announcement it ran 12 data centres in the United Arab Emirates and was looking at Saudi Arabia, Kuwait, Morocco, the Philippines and Indonesia.",
+    "src": "https://www.thenationalnews.com/business/technology/2023/05/08/abu-dhabis-khazna-to-open-250m-data-centre-in-egypt-amid-global-acquisition-plan/"
+   },
+   {
+    "para": 2,
+    "t": "Construction was expected to start later in 2023 and to take about three years.",
+    "src": "https://khaznadatacenters.com/press-release/khazna-data-centers-plans-to-enter-egypt-with-benya-group-to-set-up-the-countrys-first-hyper-scale-data-center-in-maadi-technology-park-with-a-total-investment-of-usd-250m/"
+   },
+   {
+    "para": 2,
+    "t": "One other data centre stands nearby, a Huawei Cloud site about nine kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://khaznadatacenters.com/press-release/khazna-data-centers-plans-to-enter-egypt-with-benya-group-to-set-up-the-countrys-first-hyper-scale-data-center-in-maadi-technology-park-with-a-total-investment-of-usd-250m/",
+   "https://www.worldconstructionnetwork.com/news/benya-khazna-data-centre/",
+   "https://www.thenationalnews.com/business/technology/2023/05/08/abu-dhabis-khazna-to-open-250m-data-centre-in-egypt-amid-global-acquisition-plan/",
+   "https://www.datacenterdynamics.com/en/news/khazna-to-build-first-data-center-outside-the-uae-in-cairo-egypt/"
+  ],
+  "unconfirmed": "Our own record carries the same 25 megawatt capacity and dates the announcement to 2023, with the project under construction, but no source we could read gives a construction milestone later than the 2023 announcement."
+ },
+ {
+  "id": "meta-meta-singapore",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's Singapore data centre stands on about 12 acres in the Tanjong Kling data centre park.",
+    "src": "https://engineering.fb.com/2019/01/14/data-center-engineering/singapore-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The company broke ground in September 2018 and the building opened in 2022.",
+    "src": "https://baxtel.com/data-center/meta-singapore-tajong-kling"
+   },
+   {
+    "para": 0,
+    "t": "Meta says it has put more than S$1.4 billion into it.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "It has 11 storeys and about 170,000 square metres of floor space, which Meta called a candidate for the largest data centre under one roof anywhere.",
+    "src": "https://engineering.fb.com/2019/01/14/data-center-engineering/singapore-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "It was built upward rather than outward because land in Singapore is short.",
+    "src": "https://engineering.fb.com/2019/01/14/data-center-engineering/singapore-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Meta expects a power usage effectiveness of 1.19 and says the site runs on renewable electricity, including a contract for 50 megawatts of solar.",
+    "src": "https://engineering.fb.com/2019/01/14/data-center-engineering/singapore-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Cooling uses a system Meta calls StatePoint Liquid Cooling, which draws outside air across water to evaporate some of it, and which the company says cuts peak water use by more than a fifth in Singapore's climate against the alternative.",
+    "src": "https://engineering.fb.com/2019/01/14/data-center-engineering/singapore-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Those numbers are the price of admission here.",
+    "src": "https://www.morganlewis.com/pubs/2026/03/singapore-announces-data-center-capacity-allocation-call"
+   },
+   {
+    "para": 2,
+    "t": "Singapore stopped approving new data centres in 2019 and only began letting them through again in July 2022, through a pilot call that handed 80 megawatts between four operators in 2023.",
+    "src": "https://www.morganlewis.com/pubs/2026/03/singapore-announces-data-center-capacity-allocation-call"
+   },
+   {
+    "para": 2,
+    "t": "A green data centre roadmap now sets a power usage effectiveness target below 1.3 for anything new.",
+    "src": "https://www.morganlewis.com/pubs/2026/03/singapore-announces-data-center-capacity-allocation-call"
+   },
+   {
+    "para": 2,
+    "t": "On December 1, 2025 the Economic Development Board and the Infocomm Media Development Authority opened a second call for at least 200 megawatts, closing on March 31, 2026, on condition that at least half the power comes from green sources such as biomethane, low carbon ammonia, hydrogen, fuel cells with carbon capture or solar panels on the roof.",
+    "src": "https://www.morganlewis.com/pubs/2026/03/singapore-announces-data-center-capacity-allocation-call"
+   },
+   {
+    "para": 3,
+    "t": "Six other data centre sites stand within eight kilometres, three of them within one.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://engineering.fb.com/2019/01/14/data-center-engineering/singapore-data-center/",
+   "https://baxtel.com/data-center/meta-singapore-tajong-kling",
+   "https://www.morganlewis.com/pubs/2026/03/singapore-announces-data-center-capacity-allocation-call",
+   "https://datacenters.atmeta.com/asset/singapore-data-center-info-sheet/"
+  ],
+  "unconfirmed": "Meta has not published a power rating for the site. Trade listings give 150 MW when full, added in stages of 30, but that figure could not be traced to Meta or to a Singapore authority, and Baxtel keeps its capacity and floor area behind a paywall. Searched: Meta Singapore data centre Tanjong Kling capacity expansion; Singapore data centre moratorium electricity allocation 2024 2025; Facebook Meta Singapore data centre investment S$1.4 billion opening. No local objection to this site was found; Singapore does not hold public planning hearings of the kind that produce one."
+ },
+ {
+  "id": "meta-meta-odense",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's Danish data centre is in Tietgenbyen, an industrial district on the eastern edge of Odense.",
+    "src": "https://investindk.com/cases/facebook-expands-its-data-centre-in-odense-ensures-district-heating-for-11-000-households"
+   },
+   {
+    "para": 0,
+    "t": "The company picked Denmark for its third European site in 2017, the first two server halls and the offices started up in September 2019, and Meta says it has put more than 10 billion Danish kroner into the campus.",
+    "src": "https://investindk.com/cases/facebook-expands-its-data-centre-in-odense-ensures-district-heating-for-11-000-households"
+   },
+   {
+    "para": 0,
+    "t": "A third hall of about 30,000 square metres was announced on October 15, 2020 and was reckoned to account for about 900 Danish jobs while it was being built.",
+    "src": "https://investindk.com/cases/facebook-expands-its-data-centre-in-odense-ensures-district-heating-for-11-000-households"
+   },
+   {
+    "para": 1,
+    "t": "The part of this that reaches ordinary houses is the heat.",
+    "src": "https://www.ramboll.com/en-us/projects/energy/meta-surplus-heat-to-district-heating"
+   },
+   {
+    "para": 1,
+    "t": "Warm air off the servers is pushed into Odense's district heating network through the Tietgenbyen Energy Center, finished in late 2019, where electrically driven ammonia heat pumps lift it to between 70 and 75 degrees, about 45 megawatts of heat in all.",
+    "src": "https://www.ramboll.com/en-us/projects/energy/meta-surplus-heat-to-district-heating"
+   },
+   {
+    "para": 1,
+    "t": "Ramboll, which designed it for the district heating company Fjernvarme Fyn, calls it the largest installation of its kind in Denmark and puts the recovered energy at 215,000 megawatt hours, enough for more than 12,000 homes as of 2023.",
+    "src": "https://www.ramboll.com/en-us/projects/energy/meta-surplus-heat-to-district-heating"
+   },
+   {
+    "para": 1,
+    "t": "Before the third hall the heat covered about 7,000 households.",
+    "src": "https://investindk.com/cases/facebook-expands-its-data-centre-in-odense-ensures-district-heating-for-11-000-households"
+   },
+   {
+    "para": 2,
+    "t": "Denmark's welcome for the industry has since turned.",
+    "src": "https://thenextweb.com/news/denmark-data-centre-grid-pause-ai-energy"
+   },
+   {
+    "para": 2,
+    "t": "In March 2026 the grid operator Energinet stopped signing new large connection agreements after requests from data centres reached 60 gigawatts, about nine times the country's peak demand of roughly 7.",
+    "src": "https://thenextweb.com/news/denmark-data-centre-grid-pause-ai-energy"
+   },
+   {
+    "para": 2,
+    "t": "Energinet's chief operating officer Soren Dupont Kristensen called the pause a window of opportunity to rethink the rules.",
+    "src": "https://thenextweb.com/news/denmark-data-centre-grid-pause-ai-energy"
+   }
+  ],
+  "sources": [
+   "https://investindk.com/cases/facebook-expands-its-data-centre-in-odense-ensures-district-heating-for-11-000-households",
+   "https://www.ramboll.com/en-us/projects/energy/meta-surplus-heat-to-district-heating",
+   "https://thenextweb.com/news/denmark-data-centre-grid-pause-ai-energy",
+   "https://datacenters.atmeta.com/asset/odense-data-center-info-sheet/"
+  ],
+  "unconfirmed": "Our record holds no capacity figure for the Odense campus and lists no other data centre project within 40 kilometres of it."
+ },
+ {
+  "id": "meta-meta-clonee",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's Clonee data centre campus is in County Meath, just past the western edge of Dublin.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Planning permission for the first 300 million euro building was granted in 2015, construction began in April 2016 and it opened in 2018.",
+    "src": "https://meathsoutheast.ie/news/facebook-set-to-double-size-of-meath-data-centre/"
+   },
+   {
+    "para": 0,
+    "t": "On March 6, 2019 Meta said it had permission for two more halls, taking the campus from 86,000 square metres to almost 150,000.",
+    "src": "https://meathsoutheast.ie/news/facebook-set-to-double-size-of-meath-data-centre/"
+   },
+   {
+    "para": 0,
+    "t": "About 300 people work there and the site runs on renewable electricity.",
+    "src": "https://meathsoutheast.ie/news/facebook-set-to-double-size-of-meath-data-centre/"
+   },
+   {
+    "para": 0,
+    "t": "Meta says it has invested more than 1.4 billion euros in Clonee.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Clonee sits inside the densest cluster of data centres in Europe.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Sites run by Amazon, Digital Realty, Keppel, Microsoft, CyrusOne and Vantage stand within about ten kilometres of it.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "That concentration is why nothing new could be plugged in for four years.",
+    "src": "https://www.pinsentmasons.com/out-law/news/irish-data-centres-power-national-grid-regulator"
+   },
+   {
+    "para": 1,
+    "t": "A moratorium on connecting new data centres took effect in 2021 over the strain on the electricity supply, and the Commission for Regulation of Utilities only lifted it with a decision in December 2025.",
+    "src": "https://www.pinsentmasons.com/out-law/news/irish-data-centres-power-national-grid-regulator"
+   },
+   {
+    "para": 1,
+    "t": "Under the new rules a data centre has to hold generators or batteries matching the power it draws, has to get 80 percent of its yearly demand from renewable sources within six years, and has to be able to sell power back into the wholesale market, with EirGrid and ESB Networks free to refuse a site.",
+    "src": "https://www.pinsentmasons.com/out-law/news/irish-data-centres-power-national-grid-regulator"
+   },
+   {
+    "para": 1,
+    "t": "The regulator recorded that data centres went from 5 percent of Irish electricity use in 2015 to 22 percent in 2024, and could pass 30 percent within a decade.",
+    "src": "https://www.pinsentmasons.com/out-law/news/irish-data-centres-power-national-grid-regulator"
+   },
+   {
+    "para": 2,
+    "t": "On March 20, 2025 Meta told 14 staff at Clonee their jobs were at risk, saying it was proposing to make a small number of roles redundant as part of efforts to streamline its operations and that it would follow the collective consultation process required by Irish law.",
+    "src": "https://www.rte.ie/news/business/2025/0320/1503183-14-jobs-at-risk-at-meta-data-centre-in-co-meath/"
+   },
+   {
+    "para": 2,
+    "t": "The company employs about 2,000 people across Ireland.",
+    "src": "https://www.rte.ie/news/business/2025/0320/1503183-14-jobs-at-risk-at-meta-data-centre-in-co-meath/"
+   }
+  ],
+  "sources": [
+   "https://meathsoutheast.ie/news/facebook-set-to-double-size-of-meath-data-centre/",
+   "https://www.pinsentmasons.com/out-law/news/irish-data-centres-power-national-grid-regulator",
+   "https://www.rte.ie/news/business/2025/0320/1503183-14-jobs-at-risk-at-meta-data-centre-in-co-meath/",
+   "https://datacenters.atmeta.com/asset/clonee-data-center-info-sheet/"
+  ],
+  "unconfirmed": "No megawatt rating, electricity use or water use specific to Clonee was found, and no planning objection, judicial review or residents' group tied to this site. Searched: Meta Clonee data centre County Meath planning permission expansion; Meath Clonee data centre electricity grid EirGrid connection moratorium Ireland; Meta Clonee data centre Meath jobs water local community 2025. Accounts differ on when the first building opened, between December 2017 and 2018."
+ },
+ {
+  "id": "meta-meta-lulea",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Luleå is a coastal town in Norrbotten, just south of the Arctic Circle, and Meta's campus there was the company's first data centre outside the United States.",
+    "src": "https://www.dpr.com/projects/facebook-sweden-data-center"
+   },
+   {
+    "para": 0,
+    "t": "The decision was taken in 2011, the first hall opened in 2013 and a second followed in 2014, with a third announced in 2018 that roughly doubled the campus.",
+    "src": "https://www.dpr.com/projects/facebook-sweden-data-center"
+   },
+   {
+    "para": 0,
+    "t": "Meta says it has invested more than 8.7 billion Swedish kronor in the site.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "The power comes from the Lule river, whose hydroelectric stations produce around 13.6 million megawatt hours a year, about a tenth of Sweden's electricity, and Meta says the supply is steady enough that it cut its backup generators by more than 70 percent.",
+    "src": "https://www.dpr.com/projects/facebook-sweden-data-center"
+   },
+   {
+    "para": 1,
+    "t": "What brought the campus north was the promise of work.",
+    "src": "https://yle.fi/a/7-1493739"
+   },
+   {
+    "para": 1,
+    "t": "In October 2020 the Finnish broadcaster Yle went back over what had actually arrived.",
+    "src": "https://yle.fi/a/7-1493739"
+   },
+   {
+    "para": 1,
+    "t": "Early projections had run to 30,000 jobs; the server halls employed 56 people, on maintenance and service work.",
+    "src": "https://yle.fi/a/7-1493739"
+   },
+   {
+    "para": 1,
+    "t": "Thomas Lövgren, an editor at the Swedish paper NSD who had followed the site for years, said it had turned out differently from what was promised at the start and that those jobs had cost a good deal, counting the 8.7 billion kronor of company money and the state support alongside it.",
+    "src": "https://yle.fi/a/7-1493739"
+   },
+   {
+    "para": 1,
+    "t": "Specialist staff were flown in and paid their taxes elsewhere.",
+    "src": "https://yle.fi/a/7-1493739"
+   },
+   {
+    "para": 1,
+    "t": "Aftonbladet had worked out that the halls used the electricity of half a nuclear power station.",
+    "src": "https://yle.fi/a/7-1493739"
+   },
+   {
+    "para": 2,
+    "t": "A Swedish government evaluation published on October 31, 2017 put the wider effect at about 240 new jobs in the region, with more work every third year when equipment is replaced.",
+    "src": "https://www.mynewsdesk.com/se/tillvaextverket/news/datacenter-i-luleaa-skapar-jobb-och-staerker-regionalt-naeringsliv-271590"
+   },
+   {
+    "para": 2,
+    "t": "It recorded state investment support awarded in 2011 and 2014 against a total investment of nearly 11 billion kronor.",
+    "src": "https://www.mynewsdesk.com/se/tillvaextverket/news/datacenter-i-luleaa-skapar-jobb-och-staerker-regionalt-naeringsliv-271590"
+   },
+   {
+    "para": 2,
+    "t": "Göran Lättman of the agency Tillväxtverket said the support was granted while the company was weighing several locations, and that the site had since made the region and Sweden more attractive for similar investments.",
+    "src": "https://www.mynewsdesk.com/se/tillvaextverket/news/datacenter-i-luleaa-skapar-jobb-och-staerker-regionalt-naeringsliv-271590"
+   },
+   {
+    "para": 2,
+    "t": "The evaluation also credits the campus with the Node Pole network, the RISE SICS North research centre and a rise in applications to the technical university in Luleå.",
+    "src": "https://www.mynewsdesk.com/se/tillvaextverket/news/datacenter-i-luleaa-skapar-jobb-och-staerker-regionalt-naeringsliv-271590"
+   }
+  ],
+  "sources": [
+   "https://www.dpr.com/projects/facebook-sweden-data-center",
+   "https://yle.fi/a/7-1493739",
+   "https://www.mynewsdesk.com/se/tillvaextverket/news/datacenter-i-luleaa-skapar-jobb-och-staerker-regionalt-naeringsliv-271590",
+   "https://datacenters.atmeta.com/asset/lulea-data-center-info-sheet/"
+  ],
+  "unconfirmed": "No megawatt rating or measured electricity use for the campus was found, only Aftonbladet's comparison as reported by Yle, and no water figure. Searched: Meta Lulea data center Sweden Node Pole hydropower expansion; Lulea Norrbotten datacenter el kraft Facebook invigning jobb; Meta Norrbotten third data center hall Lulea investment 2020 2024. The employment figures do not agree: Yle counted 56 people in the halls in 2020, the 2017 government evaluation claims about 240 jobs in the region, and Meta's own information sheet is quoted elsewhere as 300 or more operational jobs supported. The 30,000 figure is reported by Yle as an early projection and no original document for it was traced."
+ },
+ {
+  "id": "gemini-google-leesburg",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google operates a data center at 950 Sycolin Road SE in Leesburg, in Loudoun County, Virginia, part of the company's Northern Virginia (us-east4) cloud region.",
+    "src": "https://en.wikipedia.org/wiki/Google_data_centers"
+   },
+   {
+    "para": 0,
+    "t": "The project was announced in 2017.",
+    "src": "https://en.wikipedia.org/wiki/Google_data_centers"
+   },
+   {
+    "para": 0,
+    "t": "Google has cited a $600 million investment across its Loudoun County sites, which include both this Leesburg facility and its Arcola location.",
+    "src": "https://en.wikipedia.org/wiki/Google_data_centers"
+   },
+   {
+    "para": 1,
+    "t": "About 50 data centers operate in Loudoun County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "The area sits inside PJM Interconnection, the regional grid operator, which had a peak load of about 144,530 megawatts against 163,030 megawatts of capacity.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 1,
+    "t": "Nearby jurisdictions have moved to limit new projects: Fairfax County tightened zoning in September 2024, Fauquier County set new guidelines in December 2023, Prince William County added zoning limits in March 2026, and the town of Warrenton banned data centers outright starting July 1, 2025.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Google_data_centers"
+  ],
+  "unconfirmed": "This facility's capacity, employment figures and any Leesburg-specific opposition were not established. The cited Wikipedia page has little detail on this site, and a broader search was not available in this pass."
+ },
+ {
+  "id": "gemini-xai-macrohardrr-colossus-3",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "xAI acquired a site at 2400 Stateline Road West in Southaven, in DeSoto County, Mississippi, in 2025, for a data center project sometimes called Macrohardrr or Colossus 3.",
+    "src": "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+   },
+   {
+    "para": 0,
+    "t": "It is the third data center xAI has built in the Memphis-Southaven area, after Colossus 1 and Colossus 2.",
+    "src": "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+   },
+   {
+    "para": 0,
+    "t": "Combined, the Memphis-Southaven cluster has been described as approaching or exceeding 1 gigawatt of AI computing power.",
+    "src": "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+   },
+   {
+    "para": 0,
+    "t": "The project is a $20 billion investment, described as the largest private investment in Mississippi history, on the site of a former GXO warehouse.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "The site draws power from gas turbines in Southaven run by MZX Tech, an xAI affiliate.",
+    "src": "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+   },
+   {
+    "para": 1,
+    "t": "A permanent version of that plant, planned at about 1.2 gigawatts across 41 turbines, received a Mississippi Prevention of Significant Deterioration air permit in March 2026.",
+    "src": "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+   },
+   {
+    "para": 1,
+    "t": "A 780-megawatt gas plant, the TVA Southaven Combined Cycle station, stands immediately next to the site.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "In April 2026, the NAACP sued xAI and MZX Tech in federal court in Mississippi, represented by the Southern Environmental Law Center and Earthjustice.",
+    "src": "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+   },
+   {
+    "para": 2,
+    "t": "The suit alleges the companies ran the turbines without required Clean Air Act permits and that the resulting pollution falls disproportionately on nearby Black communities.",
+    "src": "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+   },
+   {
+    "para": 2,
+    "t": "It cites nitrogen oxide and formaldehyde emissions and smog, water demand described as millions of gallons a day, and strain on the local power grid.",
+    "src": "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+   },
+   {
+    "para": 3,
+    "t": "The site sits at the center of a fast-growing xAI campus: Colossus 1, at 340 megawatts, and Colossus 2, at 946 megawatts, are both already operating within a kilometer, alongside a further xAI Colossus 2 building at 210 megawatts and the under-construction xAI Minihard site next door.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "DeSoto County had two data centers before this one.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The regional grid operator, the Midcontinent Independent System Operator, had a peak load of about 111,551 megawatts against 156,331 megawatts of capacity.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+  ],
+  "unconfirmed": "We could not confirm a specific capacity or operating date for Colossus 3 itself, or the current status of the NAACP lawsuit beyond its April 2026 filing. A broader search for Southaven or DeSoto County council reaction was not available in this pass."
+ },
+ {
+  "id": "gemini-meta-kansas-city",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta operates a data center at 14300 N Horizon Circle in Kansas City, Missouri, in Platte County.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Platte County had four data centers by the time this facility came online.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "The city of Kansas City has since added zoning restrictions on where new data centers can be built, effective January 16, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Jackson County, on the other side of the metro, banned new data centers outright on June 24, 2026, two days after passing a shorter moratorium.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Nearby Lawrence, Kansas and Independence, Missouri have also passed temporary moratoriums on new data center applications in 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The pushback has come alongside a wave of new proposals in the region: a 600-megawatt project from Red Wolf Properties, a 500-megawatt proposal from Cielo Digital Infrastructure, and an early-stage 1,200-megawatt plan called Project Bluestem, all within 40 kilometers of Meta's site.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Meta's facility draws power through a grid area run by Associated Electric Cooperative, which had a peak load of about 4,770 megawatts against 6,259 megawatts of capacity.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "We could not establish Meta's capacity, investment, announcement date or job count for the Kansas City site; the cited itamg.com page returned an access error. No news coverage of this facility specifically, as opposed to the region's broader moratorium wave, was found in this pass."
+ },
+ {
+  "id": "gemini-aws-threemile-exascale",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon Web Services is planning a data center campus called Threemile Exascale on former farmland near Boardman, in Morrow County, Oregon.",
+    "src": "https://www.blackridgeresearch.com/blog/list-of-upcoming-new-data-center-projects-oregon"
+   },
+   {
+    "para": 0,
+    "t": "The roughly 1,300-acre site was previously farmed by Threemile Canyon Farms and has been rezoned for industrial use.",
+    "src": "https://www.blackridgeresearch.com/blog/list-of-upcoming-new-data-center-projects-oregon"
+   },
+   {
+    "para": 1,
+    "t": "AWS has proposed up to 1,000 megawatts of capacity across 16 to 20 buildings, built in phases rather than as one project.",
+    "src": "https://www.blackridgeresearch.com/blog/list-of-upcoming-new-data-center-projects-oregon"
+   },
+   {
+    "para": 1,
+    "t": "As of August 2026 the project remained in early planning, with site work underway but no construction timeline announced.",
+    "src": "https://www.blackridgeresearch.com/blog/list-of-upcoming-new-data-center-projects-oregon"
+   },
+   {
+    "para": 1,
+    "t": "The area is served by the Bonneville Power Administration, which had a peak load of about 9,418 megawatts against 22,081 megawatts of capacity.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 1,
+    "t": "Two other proposed data centers sit within 40 kilometers: a 300-megawatt project called Percheron from Rowan Digital Infrastructure, and a 100-megawatt project called Crane PDX01.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.blackridgeresearch.com/blog/list-of-upcoming-new-data-center-projects-oregon"
+  ],
+  "unconfirmed": "No investment figure, employment estimate or community reaction was found. The second cited source, an Oregon DEQ permit assessment, could not be confirmed to cover this specific project and was not used. Our own listing files the project under Deschutes County; the site itself, and the reporting we found, place it in Morrow County."
+ }
+]

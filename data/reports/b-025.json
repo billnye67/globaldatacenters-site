@@ -1,0 +1,659 @@
+[
+ {
+  "id": "research-china-telecom-inner-mongolia-information-park",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "China Telecom's Inner Mongolia Information Park is in Horinger New Area, on the southern edge of Hohhot.",
+    "src": "http://regional.chinadaily.com.cn/hohhot/2022-06/08/c_793607.htm"
+   },
+   {
+    "para": 0,
+    "t": "The plan is for 42 data centres and 19 supporting buildings at a cost of 17.3 billion yuan, about US$2.59 billion, holding more than 100,000 racks and over a million servers when it is finished.",
+    "src": "http://regional.chinadaily.com.cn/hohhot/2022-06/08/c_793607.htm"
+   },
+   {
+    "para": 0,
+    "t": "Each building is meant to hold 2,700 racks and close to 36,000 servers.",
+    "src": "https://regional.chinadaily.com.cn/hohhot/2023-02/14/c_858287.htm"
+   },
+   {
+    "para": 0,
+    "t": "By June 2022 eight data centres, one multipurpose building, two power centres and other support buildings had gone up, and more than 70 companies had taken space, among them internet firms, financial traders and government cloud operators.",
+    "src": "http://regional.chinadaily.com.cn/hohhot/2022-06/08/c_793607.htm"
+   },
+   {
+    "para": 0,
+    "t": "The park is put at 150 megawatts and has been operating since 2012.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The park is one piece of a cluster the Chinese government has been assembling since 2022, when the national planning commission named Inner Mongolia one of eight computing hubs under a policy of moving processing west to where land and power are cheap.",
+    "src": "https://thenextweb.com/news/china-inner-mongolia-green-computing-ai-export-grassland"
+   },
+   {
+    "para": 1,
+    "t": "The Horinger area around Hohhot now holds 150,000 petaflops of computing capacity, 143,000 of it built for artificial intelligence, and takes more than 80 percent of its electricity from wind and solar.",
+    "src": "https://thenextweb.com/news/china-inner-mongolia-green-computing-ai-export-grassland"
+   },
+   {
+    "para": 1,
+    "t": "Inner Mongolia signed another 186.46 billion yuan, about US$27.49 billion, of green computing projects on a single day in August 2026.",
+    "src": "https://thenextweb.com/news/china-inner-mongolia-green-computing-ai-export-grassland"
+   },
+   {
+    "para": 2,
+    "t": "The financial sector has followed the telecoms operators in.",
+    "src": "https://regional.chinadaily.com.cn/hohhot/2023-02/14/c_858287.htm"
+   },
+   {
+    "para": 2,
+    "t": "The Bank of Communications is building the fourth very large financial data centre in Horinger New District, on about 22 hectares at a cost of roughly 5 billion yuan, to carry real-time computing for the Yangtze River Delta.",
+    "src": "https://regional.chinadaily.com.cn/hohhot/2023-02/14/c_858287.htm"
+   },
+   {
+    "para": 2,
+    "t": "A China Mobile campus stands about 7 kilometres away and a Huawei site of 241.8 megawatts about 13 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "http://regional.chinadaily.com.cn/hohhot/2022-06/08/c_793607.htm",
+   "https://regional.chinadaily.com.cn/hohhot/2023-02/14/c_858287.htm",
+   "https://thenextweb.com/news/china-inner-mongolia-green-computing-ai-export-grassland",
+   "https://datacentermap.com/china/hohhot/china-telecom-inner-mongolia"
+  ],
+  "unconfirmed": "The two accounts of the park's start do not agree: our record says 2012, trade listings say 2013. No water use figure, no employment figure and no local comment of any kind was found, and Chinese state media is the only source available on the park itself. Searched: China Telecom Inner Mongolia Information Park Horinger Hohhot data center; Hohhot Horinger New District data center cluster water electricity coal; China Telecom Hohhot data center racks servers capacity Inner Mongolia."
+ },
+ {
+  "id": "research-china-mobile-hohhot-horinger",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "China Mobile's Hohhot data centre and computing hub went into service in April 2024 in Horinger New Area, south of the city.",
+    "src": "https://www.yicaiglobal.com/news/china-mobile-opens-worlds-biggest-super-computing-hub-run-by-global-carrier"
+   },
+   {
+    "para": 0,
+    "t": "The company says it delivers 6.7 exaflops of artificial intelligence computing, which it calls the largest of any single such centre run by a telecoms operator anywhere.",
+    "src": "https://www.yicaiglobal.com/news/china-mobile-opens-worlds-biggest-super-computing-hub-run-by-global-carrier"
+   },
+   {
+    "para": 0,
+    "t": "It holds about 20,000 accelerator cards, some 85 percent of them made in China.",
+    "src": "https://www.yicaiglobal.com/news/china-mobile-opens-worlds-biggest-super-computing-hub-run-by-global-carrier"
+   },
+   {
+    "para": 0,
+    "t": "Yang Jie, China Mobile's chairman, and Zhang Pengfei of its planning and construction department were named at the opening.",
+    "src": "https://www.yicaiglobal.com/news/china-mobile-opens-worlds-biggest-super-computing-hub-run-by-global-carrier"
+   },
+   {
+    "para": 1,
+    "t": "The cabinets are cooled with liquid rather than air, which the equipment supplier says cuts the energy each node uses by about 30 percent and holds power usage effectiveness at 1.15.",
+    "src": "https://www.chintglobal.com/global/en/solutions/case-center/china-mobile-data-center-hohhot.html"
+   },
+   {
+    "para": 1,
+    "t": "The site sits about 3,000 metres up, is built to take a strong earthquake, and works in temperatures down to 33 degrees below zero.",
+    "src": "https://www.chintglobal.com/global/en/solutions/case-center/china-mobile-data-center-hohhot.html"
+   },
+   {
+    "para": 1,
+    "t": "More than 80 percent of its electricity is described as clean.",
+    "src": "https://www.chintglobal.com/global/en/solutions/case-center/china-mobile-data-center-hohhot.html"
+   },
+   {
+    "para": 2,
+    "t": "What that costs is public.",
+    "src": "https://thenextweb.com/news/china-inner-mongolia-green-computing-ai-export-grassland"
+   },
+   {
+    "para": 2,
+    "t": "China Mobile paid about 290 million yuan for electricity at the Hohhot centre in 2025.",
+    "src": "https://thenextweb.com/news/china-inner-mongolia-green-computing-ai-export-grassland"
+   },
+   {
+    "para": 2,
+    "t": "Across Inner Mongolia, electricity is 60 to 70 percent of what it costs to run a data centre, which is the reason these buildings are here rather than nearer their users.",
+    "src": "https://thenextweb.com/news/china-inner-mongolia-green-computing-ai-export-grassland"
+   },
+   {
+    "para": 2,
+    "t": "Li Xixiu, who lives in the area, told reporters that all the villagers in her neighbourhood now find work nearby, which they did not before.",
+    "src": "https://thenextweb.com/news/china-inner-mongolia-green-computing-ai-export-grassland"
+   },
+   {
+    "para": 3,
+    "t": "No megawatt figure for the site has been published, and a China Telecom park and a Huawei site each stand about 7 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.yicaiglobal.com/news/china-mobile-opens-worlds-biggest-super-computing-hub-run-by-global-carrier",
+   "https://www.chintglobal.com/global/en/solutions/case-center/china-mobile-data-center-hohhot.html",
+   "https://thenextweb.com/news/china-inner-mongolia-green-computing-ai-export-grassland",
+   "https://datacentermap.com/china/hohhot/china-mobile-hohhot"
+  ],
+  "unconfirmed": "No power capacity in megawatts, no water figure and no independent reporting on the site were found; the technical account comes from China Mobile and its equipment supplier, and the Li Xixiu quote comes from a wire report on the region rather than on this building. Searched: China Mobile Hohhot intelligent computing center liquid cooled 6.7 EFLOPS; Hohhot data center cluster green power renewable 2026 computing hub Inner Mongolia; China Mobile Inner Mongolia data centre electricity price green power cost 2026. The investment figure of 4.66 billion yuan appears in supplier material but could not be confirmed against China Mobile or a filing."
+ },
+ {
+  "id": "research-alibaba-cloud-ulanqab",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Alibaba Cloud's Ulanqab data centre campus sits in the Chahar Economic and Technological Development Zone, part of what Alibaba calls its Cloud Valley.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The first building, a 114,000 square meter, two-floor structure with individual rooms exceeding 20,000 square meters each, went into service in 2020, one of three hyperscale sites Alibaba added to its Chinese network that year.",
+    "src": "https://baxtel.com/data-center/alibaba-ulanqab-campus"
+   },
+   {
+    "para": 0,
+    "t": "That building runs roughly 924 server racks at 15 kilowatts each, with a power usage effectiveness rating of 1.0, according to data center listing site Baxtel.",
+    "src": "https://baxtel.com/data-center/alibaba-ulanqab-campus"
+   },
+   {
+    "para": 1,
+    "t": "The campus has since grown to include four more buildings, labeled B through E.",
+    "src": "https://baxtel.com/data-center/alibaba-ulanqab-campus"
+   },
+   {
+    "para": 1,
+    "t": "It sits next to a China Mobile hub under construction that is targeting 500 to 600 megawatts, and about a kilometer from an Apple data center.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Ulanqab has drawn hyperscale computing companies with a cold climate that allows free-air cooling for more than 8,000 hours a year and electricity costs roughly half those near Beijing.",
+    "src": "https://aiweekly.co/alerts/ulanqab-becomes-chinas-ai-data-center-capital-125-gw-planned"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/data-center/alibaba-ulanqab-campus",
+   "https://aiweekly.co/alerts/ulanqab-becomes-chinas-ai-data-center-capital-125-gw-planned"
+  ],
+  "unconfirmed": "Total campus capacity in megawatts, tenants beyond Alibaba's own use, and any documented community or environmental impact were not found; Baxtel restricts full technical specifications behind a data request form."
+ },
+ {
+  "id": "research-china-mobile-ulanqab-hub",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Ulanqab is a city of fewer than two million people about 350 kilometres northwest of Beijing, known before this for grassland, yurts, horse riding and trips out to dormant volcanoes.",
+    "src": "https://finance.yahoo.com/technology/ai/articles/china-building-ai-future-far-000719265.html"
+   },
+   {
+    "para": 0,
+    "t": "China Mobile is building a data centre hub there in the Chahar high-tech zone, aiming at 500 to 600 megawatts when it is fully built.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The announcement dates to 2020 and no completion date has been given.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "The city was named in February 2022 as part of one of eight national computing hubs, under a plan to process data where power and land are cheap rather than where the data is made.",
+    "src": "https://thenextweb.com/news/china-inner-mongolia-green-computing-ai-export-grassland"
+   },
+   {
+    "para": 1,
+    "t": "Ulanqab now runs 172,000 petaflops, more than 95 percent of it built for artificial intelligence.",
+    "src": "https://thenextweb.com/news/china-inner-mongolia-green-computing-ai-export-grassland"
+   },
+   {
+    "para": 1,
+    "t": "Alibaba, Huawei, Apple and Kuaishou already have buildings there, and ByteDance's cloud arm, Cambricon and China Telecom are among the companies in the latest round of projects.",
+    "src": "https://thenextweb.com/news/china-inner-mongolia-green-computing-ai-export-grassland"
+   },
+   {
+    "para": 1,
+    "t": "New data centres in the region have to take more than 80 percent of their yearly electricity from renewable sources, either through a direct connection or through green certificates.",
+    "src": "https://finance.yahoo.com/technology/ai/articles/china-building-ai-future-far-000719265.html"
+   },
+   {
+    "para": 2,
+    "t": "On the ground it looks like building work that does not stop.",
+    "src": "https://finance.yahoo.com/technology/ai/articles/china-building-ai-future-far-000719265.html"
+   },
+   {
+    "para": 2,
+    "t": "A stallholder surnamed Yin, who sells chicken, egg and tofu skin dishes for 10 yuan at a junction on the eastern edge of town, said there are hundreds of workers every day and it never stops, and asked, take a look around, how can this not be good.",
+    "src": "https://finance.yahoo.com/technology/ai/articles/china-building-ai-future-far-000719265.html"
+   },
+   {
+    "para": 2,
+    "t": "By 2028 the north and northwest are expected to pass Beijing and Shanghai as China's largest source of computing capacity, and by 2030 to hold about a third of the national total.",
+    "src": "https://finance.yahoo.com/technology/ai/articles/china-building-ai-future-far-000719265.html"
+   },
+   {
+    "para": 3,
+    "t": "An Alibaba Cloud campus sits on the same spot, an Apple data centre about a kilometre away and a Huawei Cloud site about five.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://thenextweb.com/news/china-inner-mongolia-green-computing-ai-export-grassland",
+   "https://finance.yahoo.com/technology/ai/articles/china-building-ai-future-far-000719265.html",
+   "https://www.nationthailand.com/business/tech/40070832",
+   "https://www.datacentermap.com/china/ulanqab/"
+  ],
+  "unconfirmed": "No completion date, investment figure or water arrangement specific to China Mobile's Ulanqab hub was found, and no source separates China Mobile's spending from the rest of the regional build. Searched: China Mobile Ulanqab data center hub Chahar high-tech zone capacity; Ulanqab Inner Mongolia data centers East Data West Computing electricity water farmers; China Mobile Inner Mongolia data centre electricity price green power cost 2026. The 500 to 600 megawatt target comes from our record and one trade report, and was not confirmed by China Mobile."
+ },
+ {
+  "id": "research-deepseek-ulanqab",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "DeepSeek, the Hangzhou artificial intelligence company, is putting about a gigawatt of data centre computing capacity into Ulanqab in Inner Mongolia, some of it in a building of its own and some leased from other operators.",
+    "src": "https://aiweekly.co/alerts/ulanqab-becomes-chinas-ai-data-center-capital-125-gw-planned"
+   },
+   {
+    "para": 0,
+    "t": "At least part of it is meant to be running by the end of 2027 or early 2028.",
+    "src": "https://aiweekly.co/alerts/ulanqab-becomes-chinas-ai-data-center-capital-125-gw-planned"
+   },
+   {
+    "para": 0,
+    "t": "The project is proposed at 1,000 megawatts, was announced in 2025, and its coordinates are unconfirmed.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Ulanqab sits about 350 kilometres northwest of Beijing in a city of fewer than two million people, better known until recently as somewhere people from the capital went to escape the summer heat.",
+    "src": "https://finance.yahoo.com/technology/ai/articles/china-building-ai-future-far-000719265.html"
+   },
+   {
+    "para": 1,
+    "t": "The average temperature is low enough that outside air can do much of the cooling, which removes one of the largest electricity costs a data centre carries.",
+    "src": "https://aiweekly.co/alerts/ulanqab-becomes-chinas-ai-data-center-capital-125-gw-planned"
+   },
+   {
+    "para": 1,
+    "t": "Electricity there costs roughly half what it does around Beijing, and the network delay back to the capital is about 4.2 milliseconds.",
+    "src": "https://aiweekly.co/alerts/ulanqab-becomes-chinas-ai-data-center-capital-125-gw-planned"
+   },
+   {
+    "para": 1,
+    "t": "Nearly 100 data centres have come to the city since 2016, with Chinese companies committing a combined 12.5 gigawatts.",
+    "src": "https://aiweekly.co/alerts/ulanqab-becomes-chinas-ai-data-center-capital-125-gw-planned"
+   },
+   {
+    "para": 2,
+    "t": "DeepSeek is not the only one building at that scale here.",
+    "src": "https://finance.yahoo.com/technology/ai/articles/china-building-ai-future-far-000719265.html"
+   },
+   {
+    "para": 2,
+    "t": "Z.AI is reported to be doing the same, and Envision Group's Galaxy campus next door, which opened on August 6, 2026, is designed for up to a million accelerator cards and more than two gigawatts.",
+    "src": "https://thenextweb.com/news/china-inner-mongolia-green-computing-ai-export-grassland"
+   },
+   {
+    "para": 2,
+    "t": "Ulanqab already runs 172,000 petaflops, more than 95 percent of it built for artificial intelligence.",
+    "src": "https://thenextweb.com/news/china-inner-mongolia-green-computing-ai-export-grassland"
+   },
+   {
+    "para": 2,
+    "t": "New sites in the region must take more than 80 percent of their annual electricity from renewable sources.",
+    "src": "https://finance.yahoo.com/technology/ai/articles/china-building-ai-future-far-000719265.html"
+   },
+   {
+    "para": 3,
+    "t": "The DeepSeek site sits in the same industrial zone as the Envision campus and a Huawei Cloud campus.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://aiweekly.co/alerts/ulanqab-becomes-chinas-ai-data-center-capital-125-gw-planned",
+   "https://finance.yahoo.com/technology/ai/articles/china-building-ai-future-far-000719265.html",
+   "https://thenextweb.com/news/china-inner-mongolia-green-computing-ai-export-grassland"
+  ],
+  "unconfirmed": "The gigawatt figure comes from press reporting and not from DeepSeek, a construction filing or a grid disclosure, and it is not clear whether it means IT load, total site consumption or a power allocation covering more than one building. No address, investment figure or completion date has been published, and the chips the site will run on have not been identified. Searched: DeepSeek data center Ulanqab Inner Mongolia gigawatt self-built compute; Ulanqab Inner Mongolia data centers East Data West Computing electricity water farmers; DeepSeek Inner Mongolia compute expansion Hangzhou chips leasing capacity."
+ },
+ {
+  "id": "research-vantage-jnb1-waterfall-city",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Vantage Data Centers' first African campus is at Waterfall City in Midrand, between Johannesburg and Pretoria, on land held by the listed property company Attacq.",
+    "src": "https://vantage-dc.com/news/vantage-data-centers-announces-second-campus-in-johannesburg/"
+   },
+   {
+    "para": 0,
+    "t": "The address is 1 Howick Lane in the Waterfall Logistics Precinct, and the full build is 80 megawatts.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The first building was finished in July 2022, ten months early, with 16 megawatts of critical capacity across 12,000 square metres.",
+    "src": "https://techcentral.co.za/vantage-data-centre-in-midrand-completed-ahead-of-schedule/213530/"
+   },
+   {
+    "para": 0,
+    "t": "The company has said the whole campus, three buildings and 60,000 square metres, will cost more than a billion US dollars.",
+    "src": "https://techcentral.co.za/vantage-data-centre-in-midrand-completed-ahead-of-schedule/213530/"
+   },
+   {
+    "para": 1,
+    "t": "The interesting part is the electricity.",
+    "src": "https://ai.uct.ac.za/articles/2026-02-13-wheeling-and-dealing-behind-south-africas-ai-factories"
+   },
+   {
+    "para": 1,
+    "t": "The campus takes grid power from Eskom through its own high voltage substation, and signed a 20 year agreement with SolarAfrica for 87 megawatts peak of solar built at De Aar in the Northern Cape, more than 700 kilometres away, which is wheeled to Midrand across Eskom's own lines.",
+    "src": "https://techcentral.co.za/vantage-data-centre-in-midrand-completed-ahead-of-schedule/213530/"
+   },
+   {
+    "para": 1,
+    "t": "Researchers at the University of Cape Town argue that this practice, which Teraco and Africa Data Centres also use, amounts to data centres building private power stations and booking scarce transmission capacity so that they sit outside the load shedding the rest of the country lives with.",
+    "src": "https://ai.uct.ac.za/articles/2026-02-13-wheeling-and-dealing-behind-south-africas-ai-factories"
+   },
+   {
+    "para": 1,
+    "t": "Vantage's own figure for the solar contract is that it covers about a third of what it expects the campus to use.",
+    "src": "https://ai.uct.ac.za/articles/2026-02-13-wheeling-and-dealing-behind-south-africas-ai-factories"
+   },
+   {
+    "para": 2,
+    "t": "National load shedding has largely stopped, but Eskom still cuts power to particular Gauteng suburbs twice a day, from 5am to 9am and 5pm to 10pm, in places such as Diepsloot, Cosmo City, Orlando East and Diepkloof, which it says is because of illegal connections and old equipment rather than a shortage of generation.",
+    "src": "https://www.citizen.co.za/news/south-africa/load-reduction-continues-across-gauteng-this-week-as-eskom-pushes-to-end-cuts-by-2027/"
+   },
+   {
+    "para": 2,
+    "t": "The utility aims to end those cuts by 2027.",
+    "src": "https://www.citizen.co.za/news/south-africa/load-reduction-continues-across-gauteng-this-week-as-eskom-pushes-to-end-cuts-by-2027/"
+   },
+   {
+    "para": 3,
+    "t": "Africa Data Centres at Samrand is about 10 kilometres away and Teraco's Johannesburg sites about 12.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://techcentral.co.za/vantage-data-centre-in-midrand-completed-ahead-of-schedule/213530/",
+   "https://ai.uct.ac.za/articles/2026-02-13-wheeling-and-dealing-behind-south-africas-ai-factories",
+   "https://vantage-dc.com/news/vantage-data-centers-announces-second-campus-in-johannesburg/",
+   "https://www.citizen.co.za/news/south-africa/load-reduction-continues-across-gauteng-this-week-as-eskom-pushes-to-end-cuts-by-2027/",
+   "https://vantage-dc.com/data-centers"
+  ],
+  "unconfirmed": "No water figure for the Midrand campus was found, no planning objection and no comment from anyone living near it. Our record gives the site as 80 MW opening in 2026; the first 16 MW building was in fact finished in July 2022, and the accounts of the campus land differ between 12 hectares and 30 acres. Searched: Vantage Data Centers JNB1 Waterfall City Attacq Midrand Johannesburg; Johannesburg data centre Eskom load shedding water crisis electricity supply Gauteng; Vantage Data Centers South Africa Gauteng campus SolarAfrica Eskom wheeling."
+ },
+ {
+  "id": "research-vantage-jnb2-isando",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Vantage announced its second Johannesburg data centre campus on December 13, 2022, at Isando in Ekurhuleni, near OR Tambo airport and about 17 kilometres from its Midrand site.",
+    "src": "https://vantage-dc.com/news/vantage-data-centers-announces-second-campus-in-johannesburg/"
+   },
+   {
+    "para": 0,
+    "t": "The first building is 20 megawatts over two storeys and 33,000 square metres, and the company said it would be running by the middle of 2024.",
+    "src": "https://vantage-dc.com/news/vantage-data-centers-announces-second-campus-in-johannesburg/"
+   },
+   {
+    "para": 0,
+    "t": "Part of an existing warehouse is being reused rather than demolished, which Vantage says lowers the carbon built into the project.",
+    "src": "https://vantage-dc.com/news/vantage-data-centers-announces-second-campus-in-johannesburg/"
+   },
+   {
+    "para": 0,
+    "t": "Cooling is a closed loop chilled water system with air cooled chillers, so the water stays in the circuit.",
+    "src": "https://vantage-dc.com/news/vantage-data-centers-announces-second-campus-in-johannesburg/"
+   },
+   {
+    "para": 0,
+    "t": "Antoine Boniface, who runs Vantage in Europe, the Middle East and Africa, said South Africa remained a cornerstone of the company's growth outside continental Europe.",
+    "src": "https://vantage-dc.com/news/vantage-data-centers-announces-second-campus-in-johannesburg/"
+   },
+   {
+    "para": 1,
+    "t": "The site is less than two kilometres from NAPAfrica, the exchange most South African internet traffic passes through, which is why this particular industrial suburb keeps attracting these buildings.",
+    "src": "https://vantage-dc.com/news/vantage-data-centers-announces-second-campus-in-johannesburg/"
+   },
+   {
+    "para": 1,
+    "t": "An Oracle cloud region, a Huawei Cloud site and a second Vantage entry sit at effectively the same place, with Teraco's Bredell campus about 11 kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Power here comes with the same arrangement as the Midrand campus: Eskom supply topped up by solar wheeled from a farm in the Northern Cape under a purchase agreement with SolarAfrica.",
+    "src": "https://ai.uct.ac.za/articles/2026-02-13-wheeling-and-dealing-behind-south-africas-ai-factories"
+   },
+   {
+    "para": 2,
+    "t": "Researchers at the University of Cape Town describe the practice as data centres building their own generation and taking up scarce transmission capacity to put themselves beyond load shedding.",
+    "src": "https://ai.uct.ac.za/articles/2026-02-13-wheeling-and-dealing-behind-south-africas-ai-factories"
+   }
+  ],
+  "sources": [
+   "https://vantage-dc.com/news/vantage-data-centers-announces-second-campus-in-johannesburg/",
+   "https://ai.uct.ac.za/articles/2026-02-13-wheeling-and-dealing-behind-south-africas-ai-factories",
+   "https://baxtel.com/data-center/teraco-jb5"
+  ],
+  "unconfirmed": "Nothing has been published on whether the first building actually opened in mid 2024, and no water or electricity figure for the site was found, nor any local objection. The source cited in our record describes a neighbouring Teraco building rather than this one. Searched: Vantage JNB2 Isando Johannesburg data center 20MW construction; Johannesburg data centre Eskom load shedding water crisis electricity supply Gauteng; Vantage Data Centers South Africa Gauteng campus SolarAfrica Eskom wheeling."
+ },
+ {
+  "id": "research-africa-data-centres-samrand",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Africa Data Centres, part of the pan-African group Cassava Technologies, broke ground on August 30, 2022 on an expansion of its Samrand building from 10 megawatts to 40.",
+    "src": "https://www.africadatacentres.com/africa-data-centres-breaks-ground-for-samrand-facility-expansion/"
+   },
+   {
+    "para": 0,
+    "t": "The site is at 17 Waterloo Road in Samrand Business Park, Centurion, in the City of Tshwane at the N1 and N14 interchange, on the northern edge of the Johannesburg built-up area.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The company's then chief executive, Tesh Durvasula, said the first phase would deliver 20 megawatts across eight data halls by 2023, with another 10 megawatts to follow by the end of 2025.",
+    "src": "https://www.africadatacentres.com/africa-data-centres-breaks-ground-for-samrand-facility-expansion/"
+   },
+   {
+    "para": 0,
+    "t": "The plant rooms are prefabricated off site and the design is modular.",
+    "src": "https://www.africadatacentres.com/africa-data-centres-breaks-ground-for-samrand-facility-expansion/"
+   },
+   {
+    "para": 0,
+    "t": "Africa Data Centres says that once Samrand is finished its capacity across the continent will pass 100 megawatts.",
+    "src": "https://www.africadatacentres.com/africa-data-centres-breaks-ground-for-samrand-facility-expansion/"
+   },
+   {
+    "para": 1,
+    "t": "Like its competitors in Gauteng, the company has gone around the national grid where it can.",
+    "src": "https://ai.uct.ac.za/articles/2026-02-13-wheeling-and-dealing-behind-south-africas-ai-factories"
+   },
+   {
+    "para": 1,
+    "t": "Researchers at the University of Cape Town record Africa Data Centres building a 12 megawatt solar farm near Bloemfontein with Distributed Power Africa to feed its Cape Town expansion and later Johannesburg sites, one of several such arrangements that let data centres sit outside the power cuts the rest of the country takes.",
+    "src": "https://ai.uct.ac.za/articles/2026-02-13-wheeling-and-dealing-behind-south-africas-ai-factories"
+   },
+   {
+    "para": 2,
+    "t": "Those cuts are still real in Gauteng.",
+    "src": "https://www.citizen.co.za/news/south-africa/load-reduction-continues-across-gauteng-this-week-as-eskom-pushes-to-end-cuts-by-2027/"
+   },
+   {
+    "para": 2,
+    "t": "Eskom switches off named suburbs from 5am to 9am and again from 5pm to 10pm under what it calls load reduction, a programme covering 971 feeders and about 1.69 million customers nationally, which it blames on illegal connections and ageing equipment rather than on a shortage of generation.",
+    "src": "https://www.citizen.co.za/news/south-africa/load-reduction-continues-across-gauteng-this-week-as-eskom-pushes-to-end-cuts-by-2027/"
+   },
+   {
+    "para": 2,
+    "t": "It says it took more than 342,000 customers off the peak-period list by April 17, 2026 and wants the practice gone by 2027.",
+    "src": "https://www.citizen.co.za/news/south-africa/load-reduction-continues-across-gauteng-this-week-as-eskom-pushes-to-end-cuts-by-2027/"
+   },
+   {
+    "para": 3,
+    "t": "Vantage's Waterfall City campus is about 10 kilometres away and Teraco's Johannesburg buildings about 22.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.africadatacentres.com/africa-data-centres-breaks-ground-for-samrand-facility-expansion/",
+   "https://ai.uct.ac.za/articles/2026-02-13-wheeling-and-dealing-behind-south-africas-ai-factories",
+   "https://www.citizen.co.za/news/south-africa/load-reduction-continues-across-gauteng-this-week-as-eskom-pushes-to-end-cuts-by-2027/",
+   "https://www.africadatacentres.com/category/johannesburg/"
+  ],
+  "unconfirmed": "No confirmation was found that the 2023 or the end-of-2025 phase was actually delivered, and no water figure, no municipal planning record and no comment from anyone living nearby. Our record dates the expansion to 2025 with operation in 2026; the company's own announcement of it is dated August 2022. Searched: Africa Data Centres Samrand Centurion expansion 40MW Cassava; Samrand Centurion data centre Tshwane power water residents; Johannesburg data centre Eskom load shedding water crisis electricity supply Gauteng. A colocation listing gives the building 35 MW of available power, which does not match either the 10 MW starting point or the 40 MW target."
+ },
+ {
+  "id": "research-kasi-cloud-los1",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Kasi Cloud's data centre campus is on about four hectares at Maiyegun in Lekki, on the Lagos-Calabar Coastal Road, next to the landing points of six subsea cables including Google's Equiano and Meta's 2Africa.",
+    "src": "https://www.globenewswire.com/news-release/2026/05/19/3297917/0/en/kasi-cloud-datacenters-commissions-west-africa-s-first-hyperscale-ready-ai-capable-data-centre-campus-in-lagos.html"
+   },
+   {
+    "para": 0,
+    "t": "The first building, LOS1, was commissioned on May 19, 2026, and the campus is designed to reach about 100 megawatts of critical capacity if it is built out in full.",
+    "src": "https://www.globenewswire.com/news-release/2026/05/19/3297917/0/en/kasi-cloud-datacenters-commissions-west-africa-s-first-hyperscale-ready-ai-capable-data-centre-campus-in-lagos.html"
+   },
+   {
+    "para": 0,
+    "t": "The project, once carried as proposed, has been operating since 2026, at a reported cost of US$250 million.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "The Nigerian Sovereign Investment Authority, the country's sovereign wealth fund, is a founding investor.",
+    "src": "https://www.globenewswire.com/news-release/2026/05/19/3297917/0/en/kasi-cloud-datacenters-commissions-west-africa-s-first-hyperscale-ready-ai-capable-data-centre-campus-in-lagos.html"
+   },
+   {
+    "para": 1,
+    "t": "Its managing director Aminu Umar-Sadiq, the Lagos State governor Babajide Sanwo-Olu and the finance minister Taiwo Oyedele attended the opening.",
+    "src": "https://www.globenewswire.com/news-release/2026/05/19/3297917/0/en/kasi-cloud-datacenters-commissions-west-africa-s-first-hyperscale-ready-ai-capable-data-centre-campus-in-lagos.html"
+   },
+   {
+    "para": 1,
+    "t": "Kasi's founder and chief executive Johnson Agogbua said that for too long Africa's data had powered someone else's economy and that this changed with the opening.",
+    "src": "https://www.globenewswire.com/news-release/2026/05/19/3297917/0/en/kasi-cloud-datacenters-commissions-west-africa-s-first-hyperscale-ready-ai-capable-data-centre-campus-in-lagos.html"
+   },
+   {
+    "para": 1,
+    "t": "The fund's stated purpose is to cut the foreign currency Nigerian banks, government agencies and online retailers spend on hosting their data abroad.",
+    "src": "https://businessday.ng/technology/article/nsia-bets-on-100mw-ai-data-centre-to-power-nigerias-digital-economy/"
+   },
+   {
+    "para": 2,
+    "t": "Power is the question that hangs over every data centre in Nigeria.",
+    "src": "https://techmoonshot.com/2026/02/26/lagos-is-getting-a-250-million-hyperscale-data-center-heres-why-nigeria-still-cant-power-the-cloud/"
+   },
+   {
+    "para": 2,
+    "t": "The national grid has never delivered more than about 6 gigawatts for 230 million people, against 48 gigawatts for South Africa's 63 million, and is available about 41 percent of the time.",
+    "src": "https://techmoonshot.com/2026/02/26/lagos-is-getting-a-250-million-hyperscale-data-center-heres-why-nigeria-still-cant-power-the-cloud/"
+   },
+   {
+    "para": 2,
+    "t": "A megawatt run on diesel burns 250 to 300 litres an hour, which at Nigerian pump prices works out at two to two and a half million dollars a year, five to ten times what the same megawatt costs in Johannesburg, Nairobi or Cairo.",
+    "src": "https://techmoonshot.com/2026/02/26/lagos-is-getting-a-250-million-hyperscale-data-center-heres-why-nigeria-still-cant-power-the-cloud/"
+   },
+   {
+    "para": 2,
+    "t": "Kasi's answer is a direct 132kV connection to the transmission company plus gas, solar and battery storage on site, with a target power usage effectiveness of 1.6 or better.",
+    "src": "https://www.globenewswire.com/news-release/2026/05/19/3297917/0/en/kasi-cloud-datacenters-commissions-west-africa-s-first-hyperscale-ready-ai-capable-data-centre-campus-in-lagos.html"
+   },
+   {
+    "para": 3,
+    "t": "More than 320 megawatts of data centre capacity is under construction in Lagos, about four times what the city already has.",
+    "src": "https://techmoonshot.com/2026/02/26/lagos-is-getting-a-250-million-hyperscale-data-center-heres-why-nigeria-still-cant-power-the-cloud/"
+   },
+   {
+    "para": 3,
+    "t": "OADC's Lekki campus is about 3 kilometres from this one.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.globenewswire.com/news-release/2026/05/19/3297917/0/en/kasi-cloud-datacenters-commissions-west-africa-s-first-hyperscale-ready-ai-capable-data-centre-campus-in-lagos.html",
+   "https://businessday.ng/technology/article/nsia-bets-on-100mw-ai-data-centre-to-power-nigerias-digital-economy/",
+   "https://techmoonshot.com/2026/02/26/lagos-is-getting-a-250-million-hyperscale-data-center-heres-why-nigeria-still-cant-power-the-cloud/",
+   "https://www.datacentermap.com/nigeria/lagos/"
+  ],
+  "unconfirmed": "How many megawatts LOS1 itself carries was not stated at the opening, only the 100 MW figure for the finished campus. No planning file, environmental condition or comment from anyone living in Maiyegun was found. Searched: Kasi Cloud LOS1 Lagos NSIA 100MW AI data centre Maiyegun Lekki; Nigeria sovereign wealth fund NSIA data centre investment AI campus Lagos; Kasi Cloud Datacenters Nigeria power gas solar battery hybrid Lekki campus."
+ },
+ {
+  "id": "research-nxtra-by-airtel-lagos",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Nxtra, the data centre arm of Airtel Africa, broke ground on March 12, 2024 on a 38 megawatt building in Eko Atlantic City, off Victoria Island in Lagos.",
+    "src": "https://www.connectingafrica.com/data-centers/airtel-africa-breaks-ground-on-first-nxtra-data-center-in-nigeria"
+   },
+   {
+    "para": 0,
+    "t": "It is planned for more than 3,000 racks over six floors, up to 25 kilowatts a rack, with a target power usage effectiveness of 1.3, and was expected to be live in the first quarter of 2026.",
+    "src": "https://www.connectingafrica.com/data-centers/airtel-africa-breaks-ground-on-first-nxtra-data-center-in-nigeria"
+   },
+   {
+    "para": 0,
+    "t": "Segun Ogunsanya, then group chief executive of Airtel Africa, said the project would provide over 1,000 jobs during construction and more than 250 permanent ones once it was running.",
+    "src": "https://www.connectingafrica.com/data-centers/airtel-africa-breaks-ground-on-first-nxtra-data-center-in-nigeria"
+   },
+   {
+    "para": 0,
+    "t": "His successor Sunil Taldar, Airtel Nigeria's chief executive Carl Cruz and the communications minister Bosun Tijani were also there.",
+    "src": "https://www.connectingafrica.com/data-centers/airtel-africa-breaks-ground-on-first-nxtra-data-center-in-nigeria"
+   },
+   {
+    "para": 0,
+    "t": "It is the first of five such buildings Airtel plans across Africa, with Nairobi next.",
+    "src": "https://www.connectingafrica.com/data-centers/airtel-africa-breaks-ground-on-first-nxtra-data-center-in-nigeria"
+   },
+   {
+    "para": 1,
+    "t": "The ground it stands on did not exist twenty years ago.",
+    "src": "https://theconversation.com/lagos-city-planning-has-a-history-of-excluding-residents-its-happening-again-217291"
+   },
+   {
+    "para": 1,
+    "t": "Eko Atlantic City is about 10 million square metres reclaimed from the Atlantic, launched by Lagos State in 2013, and about 80,000 people were removed from the Victoria Island and Bar Beach area to make room for it.",
+    "src": "https://theconversation.com/lagos-city-planning-has-a-history-of-excluding-residents-its-happening-again-217291"
+   },
+   {
+    "para": 1,
+    "t": "A historian of Lagos planning, Halimat Somotan, sets the project in a line of city plans that have left existing residents out of the decision.",
+    "src": "https://theconversation.com/lagos-city-planning-has-a-history-of-excluding-residents-its-happening-again-217291"
+   },
+   {
+    "para": 2,
+    "t": "Power will be the constraint, as it is for every data centre in the country.",
+    "src": "https://techmoonshot.com/2026/02/26/lagos-is-getting-a-250-million-hyperscale-data-center-heres-why-nigeria-still-cant-power-the-cloud/"
+   },
+   {
+    "para": 2,
+    "t": "Nigeria's grid has never delivered more than about 6 gigawatts for 230 million people and is available roughly 41 percent of the time, so operators run on generators, and a megawatt on diesel costs two to two and a half million dollars a year in fuel alone.",
+    "src": "https://techmoonshot.com/2026/02/26/lagos-is-getting-a-250-million-hyperscale-data-center-heres-why-nigeria-still-cant-power-the-cloud/"
+   },
+   {
+    "para": 2,
+    "t": "More than 320 megawatts of data centre capacity is under construction in Lagos, about four times what the city already has.",
+    "src": "https://techmoonshot.com/2026/02/26/lagos-is-getting-a-250-million-hyperscale-data-center-heres-why-nigeria-still-cant-power-the-cloud/"
+   },
+   {
+    "para": 3,
+    "t": "A Digital Realty site sits at effectively the same address and the Kasi Cloud campus about 9 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.connectingafrica.com/data-centers/airtel-africa-breaks-ground-on-first-nxtra-data-center-in-nigeria",
+   "https://theconversation.com/lagos-city-planning-has-a-history-of-excluding-residents-its-happening-again-217291",
+   "https://techmoonshot.com/2026/02/26/lagos-is-getting-a-250-million-hyperscale-data-center-heres-why-nigeria-still-cant-power-the-cloud/",
+   "https://www.datacentermap.com/nigeria/lagos/nxtra-lagos-data-center-park/"
+  ],
+  "unconfirmed": "No investment figure was given at the groundbreaking, no water arrangement has been described, and nothing was found confirming whether the building opened in the first quarter of 2026 as planned. How the site will be powered, and whether it uses gas or diesel, was not stated. Searched: Nxtra Airtel Lagos data centre Eko Atlantic 38MW groundbreaking; Eko Atlantic City Lagos land reclamation flooding residents criticism; Airtel Africa Nxtra Nigeria data centre investment jobs Victoria Island 2026."
+ }
+]

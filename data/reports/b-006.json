@@ -1,0 +1,475 @@
+[
+ {
+  "id": "epoch-oracle-batam",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Oracle has been in talks with the Indonesian government about building a data center on Batam Island, in the Riau Islands, according to a report citing people familiar with the discussions.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "The company is reported to favour Nongsa Digital Park, a 166 hectare technology zone with free trade zone status, close to Singapore and Malaysia.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "No investment figure or completion date has been made public, and nothing published confirms Oracle has built anything on Batam.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "A $530 million loan for a 72 megawatt campus at Nongsa Digital Park belongs to DayOne and Indonesia's sovereign wealth fund, not to Oracle.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Searches on Oracle with Batam, on Batam with data center, and on Nongsa Digital Park with Oracle produced no construction status, investment figure or timeline, and no Indonesian local coverage of any kind. Our own record listed this as an operating Oracle project with an estimated 72 megawatts of capacity; the reporting describes only a potential investment still under discussion, and the 72 megawatt figure matches the DayOne campus at the same park, which is the likeliest explanation for the conflict. That could not be confirmed, so the entry is left as it stands rather than merged or deleted."
+ },
+ {
+  "id": "epoch-aws-berwick",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Amazon Web Services data center campus in Berwick sits in Salem Township, Luzerne County, about a kilometer from the Susquehanna Steam Electric Station, a 2,494 megawatt nuclear plant.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 0,
+    "t": "Amazon bought the site, an existing nuclear-powered data center project, from Talen Energy in March 2024.",
+    "src": "https://www.phillyvoice.com/amazon-pennsylvania-data-center-salem-luzerne-county/"
+   },
+   {
+    "para": 0,
+    "t": "Salem Township supervisors approved rezoning roughly 1,600 acres for industrial use on May 30, 2024, clearing the way for as many as 15 new data center buildings over the coming decade.",
+    "src": "https://www.phillyvoice.com/amazon-pennsylvania-data-center-salem-luzerne-county/"
+   },
+   {
+    "para": 0,
+    "t": "The township expects up to 600 jobs from the project.",
+    "src": "https://www.phillyvoice.com/amazon-pennsylvania-data-center-salem-luzerne-county/"
+   },
+   {
+    "para": 0,
+    "t": "Amazon received a 10-year tax break worth a 70 percent discount; the township expects about 7 million dollars a year in local tax revenue once that break expires.",
+    "src": "https://www.phillyvoice.com/amazon-pennsylvania-data-center-salem-luzerne-county/"
+   },
+   {
+    "para": 1,
+    "t": "At the public hearing, some residents said rezoning farmland for industrial use would devalue their land, and some said Amazon had approached them with offers to buy their property so the campus could expand.",
+    "src": "https://www.phillyvoice.com/amazon-pennsylvania-data-center-salem-luzerne-county/"
+   },
+   {
+    "para": 1,
+    "t": "Salem Township resident Sharon Wickham welcomed the project, telling WNEP the number of jobs would be good for the community.",
+    "src": "https://www.wnep.com/article/news/local/columbia-county/new-data-centers-impact-on-berwick-columbia-county-amazon-salem-township-ai-assisted/523-105e32ad-0007-469c-9619-181fdd74cd5d"
+   },
+   {
+    "para": 1,
+    "t": "Amazon has said the Berwick campus is part of a statewide plan to invest at least 20 billion dollars in Pennsylvania, which the company says would create at least 1,250 high-skilled jobs.",
+    "src": "https://dced.pa.gov/newsroom/governor-josh-shapiro-announces-amazon-plans-to-invest-20-billion-in-pennsylvania-for-ai-infrastructure-in-largest-capital-investment-in-commonwealth-history/"
+   },
+   {
+    "para": 2,
+    "t": "The site sits in a part of Pennsylvania where opposition to data centers has been building: Madison Township, Muncy Township, Black Creek Township, Hazle Township, Nescopeck Borough and Butler Township have all passed moratoriums or zoning limits since mid-2025, and Columbia County has adopted its own zoning limits.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.phillyvoice.com/amazon-pennsylvania-data-center-salem-luzerne-county/",
+   "https://www.wnep.com/article/news/local/columbia-county/new-data-centers-impact-on-berwick-columbia-county-amazon-salem-township-ai-assisted/523-105e32ad-0007-469c-9619-181fdd74cd5d",
+   "https://dced.pa.gov/newsroom/governor-josh-shapiro-announces-amazon-plans-to-invest-20-billion-in-pennsylvania-for-ai-infrastructure-in-largest-capital-investment-in-commonwealth-history/"
+  ],
+  "unconfirmed": "Could not independently confirm the original purchase price Amazon paid Talen Energy; different outlets give different figures and dates, so it was left out. The WNEP report carrying Sharon Wickham's comment returned a 403 error on this pass, so her words are paraphrased rather than quoted."
+ },
+ {
+  "id": "epoch-coreweave-marble-nc",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Marble is a small community in Cherokee County, North Carolina, where Core Scientific converted a cryptocurrency mine into an AI data center on the site of the American Thread Company mill, which closed in 2015.",
+    "src": "https://grist.org/politics/first-crypto-now-data-centers-how-tech-is-reshaping-this-north-carolina-community/"
+   },
+   {
+    "para": 0,
+    "t": "The facility is 250,000 square feet on 70 acres, with a total power capacity of about 117 megawatts.",
+    "src": "https://corescientific.com/high-density-data-centers/marble-nc/"
+   },
+   {
+    "para": 1,
+    "t": "Rebecca and Tom Lash moved to the area eight years ago hoping to retire in the Blue Ridge Mountains; they say they have dealt with the fallout from crypto mining since 2021 and worry about what an AI data center will bring.",
+    "src": "https://www.wunc.org/2026-04-10/cherokee-county-residents-were-upset-about-crypto-mines-then-came-ai"
+   },
+   {
+    "para": 1,
+    "t": "Rebecca Lash said she asked county commissioners what the facility was and was told, \"We don't know.\"",
+    "src": "https://www.wunc.org/2026-04-10/cherokee-county-residents-were-upset-about-crypto-mines-then-came-ai"
+   },
+   {
+    "para": 1,
+    "t": "Tom Lash said: \"The big AI centers and the big data centers, there's some horror stories about people that live near those.\"",
+    "src": "https://www.wunc.org/2026-04-10/cherokee-county-residents-were-upset-about-crypto-mines-then-came-ai"
+   },
+   {
+    "para": 1,
+    "t": "The facility runs on more than 170 diesel generators, according to Marble Community Water System board president C.B. McKinnon.",
+    "src": "https://www.wunc.org/2026-04-10/cherokee-county-residents-were-upset-about-crypto-mines-then-came-ai"
+   },
+   {
+    "para": 1,
+    "t": "It draws municipal water and also pumps from three onsite wells, which state regulations limit to 12 hours of pumping a day.",
+    "src": "https://www.wunc.org/2026-04-10/cherokee-county-residents-were-upset-about-crypto-mines-then-came-ai"
+   },
+   {
+    "para": 2,
+    "t": "Andrews Mayor James Reid refused to connect the facility to the town's wastewater system because it lacked an environmental plan, forcing it onto septic tanks; Reid said: \"I wouldn't wish this on any county or entity ever. It's absolutely destroyed Marble.\"",
+    "src": "https://www.wunc.org/2026-04-10/cherokee-county-residents-were-upset-about-crypto-mines-then-came-ai"
+   },
+   {
+    "para": 2,
+    "t": "Cherokee County commissioner Ben Adams, who did not seek re-election, tried in January 2026 to renew the county's crypto-mining moratorium and extend it to AI data centers, saying growth is inevitable but \"I hope that we can maintain it and keep it more of a peaceful community.\"",
+    "src": "https://www.wunc.org/2026-04-10/cherokee-county-residents-were-upset-about-crypto-mines-then-came-ai"
+   },
+   {
+    "para": 2,
+    "t": "The county received 268,000 dollars in tax revenue from the facility in 2024, though revenue fell in 2025 during construction.",
+    "src": "https://www.wunc.org/2026-04-10/cherokee-county-residents-were-upset-about-crypto-mines-then-came-ai"
+   },
+   {
+    "para": 3,
+    "t": "Neighboring counties have moved faster: Clay County and Swain County both passed one-year data center moratoriums in 2026, and the city of Franklin passed its own moratorium on July 9, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.wunc.org/2026-04-10/cherokee-county-residents-were-upset-about-crypto-mines-then-came-ai",
+   "https://corescientific.com/high-density-data-centers/marble-nc/",
+   "https://grist.org/politics/first-crypto-now-data-centers-how-tech-is-reshaping-this-north-carolina-community/"
+  ],
+  "unconfirmed": "No confirmation found of whether CoreWeave itself, rather than Core Scientific, currently operates or leases the site; the CoreWeave-Core Scientific merger referenced in coverage fell through."
+ },
+ {
+  "id": "epoch-core42-lake-mariner",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The TeraWulf Lake Mariner data center campus in Barker, in Niagara County, New York, sits on the site of the Kintigh coal plant, which TeraWulf bought in 2016 and retired in 2020.",
+    "src": "https://www.datacenterfrontier.com/site-selection/article/55379784/terawulfs-lake-mariner-campus-how-a-retired-coal-plant-became-an-ai-factory-prototype"
+   },
+   {
+    "para": 0,
+    "t": "At its peak, the coal plant generated about 20 million dollars a year in tax revenue for Barker and its school district; by the time it closed, the plant's workforce had shrunk to 55 employees.",
+    "src": "https://datacenterrichness.substack.com/p/inside-an-accelerated-ai-data-center"
+   },
+   {
+    "para": 0,
+    "t": "Core42, a unit of Abu Dhabi's G42, signed a ten-year lease with TeraWulf for more than 70 megawatts of turnkey data center capacity at the site, delivered in phases between the first and third quarters of 2025.",
+    "src": "https://investors.terawulf.com/news-events/press-releases/detail/99/terawulf-to-deliver-over-70-mw-of-data-center"
+   },
+   {
+    "para": 0,
+    "t": "The lease includes two five-year renewal options and room to expand by another 135 megawatts.",
+    "src": "https://investors.terawulf.com/news-events/press-releases/detail/99/terawulf-to-deliver-over-70-mw-of-data-center"
+   },
+   {
+    "para": 1,
+    "t": "TeraWulf says it now employs 120 people at the site, including 20 former coal plant workers, while contractor Fluidstack has about 180 staff on site.",
+    "src": "https://datacenterrichness.substack.com/p/inside-an-accelerated-ai-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Sean Farrell, TeraWulf's chief operating officer, said of the work at Lake Mariner: \"This is the fastest ongoing data center build in the US right now.\"",
+    "src": "https://datacenterrichness.substack.com/p/inside-an-accelerated-ai-data-center"
+   },
+   {
+    "para": 2,
+    "t": "New York lawmakers passed a statewide data center moratorium on June 4, 2026, covering the year that followed.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterfrontier.com/site-selection/article/55379784/terawulfs-lake-mariner-campus-how-a-retired-coal-plant-became-an-ai-factory-prototype",
+   "https://datacenterrichness.substack.com/p/inside-an-accelerated-ai-data-center",
+   "https://investors.terawulf.com/news-events/press-releases/detail/99/terawulf-to-deliver-over-70-mw-of-data-center"
+  ],
+  "unconfirmed": "No named local resident or official reaction specific to the Core42 lease was found, only company and industry-press accounts."
+ },
+ {
+  "id": "epoch-microsoft-sat40",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Microsoft's SAT40 data center sits on about 70 acres at 15000 Lambda Drive, in Texas Research Park near State Highway 211 on the far west side of San Antonio.",
+    "src": "https://sanantonioreport.org/microsoft-data-centers-san-antonio-region/"
+   },
+   {
+    "para": 0,
+    "t": "It is one of eight Microsoft properties across Bexar and Medina counties, more than $1.2 billion of investment since the company's first two San Antonio data centers went up in 2015 at $90 million each.",
+    "src": "https://sanantonioreport.org/microsoft-data-centers-san-antonio-region/"
+   },
+   {
+    "para": 0,
+    "t": "The building was registered with Texas accessibility regulators on March 3, 2023 as a shell of 153,227 square feet, at an estimated cost of $175.9 million.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "What nobody outside the utility can find out is how much water any of them use.",
+    "src": "https://www.ksat.com/news/ksat-investigates/2026/07/28/texas-law-shields-san-antonio-area-data-center-water-usage-from-public-records-requests/"
+   },
+   {
+    "para": 1,
+    "t": "KSAT asked the San Antonio Water System for three years of water records covering 36 Bexar County data centers and was refused under Section 552.1331 of the Texas Government Code, which SAWS reads as shielding smart meter data on commercial accounts.",
+    "src": "https://www.ksat.com/news/ksat-investigates/2026/07/28/texas-law-shields-san-antonio-area-data-center-water-usage-from-public-records-requests/"
+   },
+   {
+    "para": 1,
+    "t": "The provision was written about six years earlier by State Representative Diego Bernal to stop payday lenders getting at household water use.",
+    "src": "https://www.ksat.com/news/ksat-investigates/2026/07/28/texas-law-shields-san-antonio-area-data-center-water-usage-from-public-records-requests/"
+   },
+   {
+    "para": 1,
+    "t": "Asked whether the utility had read his bill correctly, Bernal said: \"Absolutely not. At this point, especially because of your request, I think there's fair warning that something has to be fixed.\"",
+    "src": "https://www.ksat.com/news/ksat-investigates/2026/07/28/texas-law-shields-san-antonio-area-data-center-water-usage-from-public-records-requests/"
+   },
+   {
+    "para": 1,
+    "t": "He added: \"Data centers are doing tremendous damage to Texas, to our water supply, to air quality.\"",
+    "src": "https://www.ksat.com/news/ksat-investigates/2026/07/28/texas-law-shields-san-antonio-area-data-center-water-usage-from-public-records-requests/"
+   },
+   {
+    "para": 1,
+    "t": "SAWS spokesperson Anne Hayden said the utility \"is correctly interpreting and applying the law,\" and State Representative Cody Harris said \"the transparency of utilization of resources shouldn't be optional.\"",
+    "src": "https://www.ksat.com/news/ksat-investigates/2026/07/28/texas-law-shields-san-antonio-area-data-center-water-usage-from-public-records-requests/"
+   },
+   {
+    "para": 2,
+    "t": "Davin Hicks, a Cibolo resident opposing a data center near him, said: \"People are outraged because nobody knows and they just pop up.\"",
+    "src": "https://www.ksat.com/news/ksat-investigates/2026/07/28/texas-law-shields-san-antonio-area-data-center-water-usage-from-public-records-requests/"
+   },
+   {
+    "para": 3,
+    "t": "Microsoft's other holdings in the two counties include Westover Link on State Highway 151 at an estimated $216 million, a site on the Bexar and Medina county line at $230 million, and SAT80-1 and SAT80-2 on 206 rural acres at Potranco Road and FM 471 near Castroville.",
+    "src": "https://sanantonioreport.org/microsoft-data-centers-san-antonio-region/"
+   },
+   {
+    "para": 3,
+    "t": "Fourteen other data centers stand in Bexar County, and since August 3, 2026 Texas has stopped clearing new ones onto the grid while it audits their demand.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://sanantonioreport.org/microsoft-data-centers-san-antonio-region/",
+   "https://www.ksat.com/news/ksat-investigates/2026/07/28/texas-law-shields-san-antonio-area-data-center-water-usage-from-public-records-requests/"
+  ],
+  "unconfirmed": "Our record carried this address twice, as Microsoft SAT40 and as Microsoft Texas Research Park, with identical coordinates; the one local report on Microsoft's San Antonio holdings describes a single site at 15000 Lambda Drive, and the two have been merged. Searches on the address with San Antonio, on San Antonio with data center water, and on Microsoft with Bexar County found no hearing record, capacity figure or resident comment naming this building. The water reporting covers Bexar County data centers as a group and cannot be broken out to this site, which is the point the reporting makes. A figure of about 31 billion gallons of drinking water and 151 million gallons of recycled water bought by 19 data centers in the SAWS service area in 2023 was removed: it is not in the KSAT report it was credited to."
+ },
+ {
+  "id": "epoch-microsoft-sat14",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Microsoft's SAT14 data center stands on Wiseman Boulevard in northwest San Antonio, in Bexar County.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It was registered with Texas regulators on July 6, 2021 for two building shells totalling 259,000 square feet at an estimated $154.9 million, and listed as complete on December 1, 2022.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "The San Antonio Report described the campus as 411,000 square feet across four planned phases running through 2024, so the permit record and the reporting are measuring different things.",
+    "src": "https://sanantonioreport.org/microsoft-data-centers-san-antonio-region/"
+   },
+   {
+    "para": 0,
+    "t": "Microsoft has eight properties across Bexar and Medina counties and has put more than $1.2 billion into them since 2015.",
+    "src": "https://sanantonioreport.org/microsoft-data-centers-san-antonio-region/"
+   },
+   {
+    "para": 1,
+    "t": "Sarah Carabias Rush, chief economic development officer at Greater: SATX, described the appeal from the region's side: \"Data centers are capital-intensive facilities that create significant and long-term new taxable value.\"",
+    "src": "https://sanantonioreport.org/microsoft-data-centers-san-antonio-region/"
+   },
+   {
+    "para": 1,
+    "t": "She also said the region is not actively positioning San Antonio for data center operations, and is focused instead on having large shovel ready sites available.",
+    "src": "https://sanantonioreport.org/microsoft-data-centers-san-antonio-region/"
+   },
+   {
+    "para": 2,
+    "t": "How much water these buildings draw is not a matter of public record in Texas.",
+    "src": "https://www.ksat.com/news/ksat-investigates/2026/07/28/texas-law-shields-san-antonio-area-data-center-water-usage-from-public-records-requests/"
+   },
+   {
+    "para": 2,
+    "t": "When KSAT asked the San Antonio Water System for three years of usage covering 36 Bexar County data centers, the utility refused under Section 552.1331 of the Texas Government Code, a provision written to keep payday lenders away from household water data.",
+    "src": "https://www.ksat.com/news/ksat-investigates/2026/07/28/texas-law-shields-san-antonio-area-data-center-water-usage-from-public-records-requests/"
+   },
+   {
+    "para": 2,
+    "t": "State Representative Diego Bernal, who wrote the provision, said the utility had not read it correctly and that \"something has to be fixed.\"",
+    "src": "https://www.ksat.com/news/ksat-investigates/2026/07/28/texas-law-shields-san-antonio-area-data-center-water-usage-from-public-records-requests/"
+   },
+   {
+    "para": 3,
+    "t": "This is one of fifteen data centers in Bexar County, in a state that stopped approving new grid connections for them in August 2026.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://sanantonioreport.org/microsoft-data-centers-san-antonio-region/",
+   "https://www.ksat.com/news/ksat-investigates/2026/07/28/texas-law-shields-san-antonio-area-data-center-water-usage-from-public-records-requests/"
+  ],
+  "unconfirmed": "Searches on Wiseman Boulevard with San Antonio, on San Antonio with data center water, and on Microsoft with Bexar County found no hearing, no power capacity figure and no resident comment naming this building. Square footage differs between the state permit record and the local reporting and the discrepancy was not resolved. A 2023 figure of about 31 billion gallons of drinking water bought by 19 data centers in the SAWS service area was removed: it is not in the KSAT report it was credited to. Sarah Carabias Rush's second comment is paraphrased rather than quoted, because the wording could not be confirmed in the story."
+ },
+ {
+  "id": "epoch-stack-infrastructure-nva02",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "STACK Infrastructure's NVA02 campus in Manassas, Prince William County is planned for up to ten buildings across 200 acres, with 420 megawatts of capacity fed by two dedicated 300 megawatt substations built by Northern Virginia Electric Cooperative.",
+    "src": "https://www.stackinfra.com/locations/americas/northern-virginia/nva02/"
+   },
+   {
+    "para": 1,
+    "t": "In 2026, Prince William County's Board of County Supervisors voted 4-2 to reject a STACK rezoning application to expand the NVA02 campus by about 58 acres along Nokesville Road in the Bristow district, a plan for two more data centers totaling about 540,000 square feet.",
+    "src": "https://www.datacenterdynamics.com/en/news/prince-william-county-rejects-rezoning-application-from-stack-infrastructure/"
+   },
+   {
+    "para": 1,
+    "t": "The board had already delayed the application three times, most recently on June 24.",
+    "src": "https://www.datacenterdynamics.com/en/news/prince-william-county-rejects-rezoning-application-from-stack-infrastructure/"
+   },
+   {
+    "para": 2,
+    "t": "Prince William County already has 18 other data centers.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The county's supervisors adopted new zoning limits on data centers on March 4, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Neighboring jurisdictions have gone further still: Fairfax County tightened its data center rules on September 13, 2024, Fauquier County set new guidelines in December 2023, and the town of Warrenton banned data centers outright starting July 1, 2025.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.stackinfra.com/locations/americas/northern-virginia/nva02/",
+   "https://www.datacenterdynamics.com/en/news/prince-william-county-rejects-rezoning-application-from-stack-infrastructure/"
+  ],
+  "unconfirmed": "Could not confirm whether the rejected Nokesville Road expansion and the operating NVA02 campus at 9590 Hornbaker Road are the same legal parcel; sources describe the rejected acreage only as an expansion of the NVA02 campus."
+ },
+ {
+  "id": "epoch-anthropic-lake-mariner",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Anthropic's tenancy at the Lake Mariner data center campus in Barker, in Niagara County, New York, is part of a $50 billion investment the company announced on November 12, 2025 to build American computing infrastructure with contractor Fluidstack, at sites in Texas and New York.",
+    "src": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure"
+   },
+   {
+    "para": 0,
+    "t": "Anthropic CEO Dario Amodei said: \"These sites will help us build more capable AI systems that can drive those breakthroughs, while creating American jobs.\"",
+    "src": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure"
+   },
+   {
+    "para": 0,
+    "t": "Fluidstack says the deal will bring about 800 permanent jobs and 2,400 construction jobs, with sites coming online through 2026.",
+    "src": "https://fluidstack.io/blog/fluidstack-selected-by-anthropic-to-deliver-custom-data-centers-in-the-us"
+   },
+   {
+    "para": 1,
+    "t": "The site is the same former Kintigh coal plant campus partly leased to Core42, a unit of Abu Dhabi's G42; TeraWulf, which owns the land, bought the coal plant in 2016 and retired it in 2020.",
+    "src": "https://www.datacenterfrontier.com/site-selection/article/55379784/terawulfs-lake-mariner-campus-how-a-retired-coal-plant-became-an-ai-factory-prototype"
+   },
+   {
+    "para": 1,
+    "t": "TeraWulf says it now employs 120 people at the site, including 20 former coal plant workers, while Fluidstack has about 180 staff on site.",
+    "src": "https://datacenterrichness.substack.com/p/inside-an-accelerated-ai-data-center"
+   },
+   {
+    "para": 2,
+    "t": "Whatever is built here next falls under the statewide moratorium New York lawmakers passed on June 4, 2026, which runs for a year.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure",
+   "https://fluidstack.io/blog/fluidstack-selected-by-anthropic-to-deliver-custom-data-centers-in-the-us",
+   "https://www.datacenterfrontier.com/site-selection/article/55379784/terawulfs-lake-mariner-campus-how-a-retired-coal-plant-became-an-ai-factory-prototype",
+   "https://datacenterrichness.substack.com/p/inside-an-accelerated-ai-data-center"
+  ],
+  "unconfirmed": "No named local resident reaction specific to Anthropic's lease, as opposed to Core42's, was found."
+ },
+ {
+  "id": "epoch-microsoft-nebius-new-jersey",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Nebius's data center campus in Vineland, Cumberland County is being built by DataOne, which first announced the project in March 2025.",
+    "src": "https://sjclimate.news/7428/news/data-centers-are-booming-in-the-garden-state-are-local-communities-ready/"
+   },
+   {
+    "para": 0,
+    "t": "The company says the campus is designed for up to 350 megawatts, which it says is nearly double the electrical capacity of the entire city of Vineland.",
+    "src": "https://sjclimate.news/7428/news/data-centers-are-booming-in-the-garden-state-are-local-communities-ready/"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI's dataset estimates the site's current IT power at a much smaller 50 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The campus sits over the Kirkwood-Cohansey aquifer and is designed to span 2.6 million square feet.",
+    "src": "https://pinelandsalliance.org/dataone-vineland-town-hall/"
+   },
+   {
+    "para": 1,
+    "t": "Construction drew little local news coverage or public response through most of 2025.",
+    "src": "https://sjclimate.news/7428/news/data-centers-are-booming-in-the-garden-state-are-local-communities-ready/"
+   },
+   {
+    "para": 1,
+    "t": "Opposition grew late in the year after Vineland's mayor and council proposed a 6.2 million dollar loan to the company, which residents said should not go to a private project.",
+    "src": "https://sjclimate.news/7428/news/data-centers-are-booming-in-the-garden-state-are-local-communities-ready/"
+   },
+   {
+    "para": 1,
+    "t": "DataOne then cancelled the loan, which would have paid the city about 450,000 dollars in interest.",
+    "src": "https://pinelandsalliance.org/dataone-vineland-town-hall/"
+   },
+   {
+    "para": 1,
+    "t": "More than 100 residents packed a standing-room-only town hall at a local theater on January 21, 2026, to confront DataOne chief executive Charles-Antoine Beyney about construction noise, air quality, property values and whether the project's contractors would be union labor.",
+    "src": "https://pinelandsalliance.org/dataone-vineland-town-hall/"
+   },
+   {
+    "para": 2,
+    "t": "Beyney told the crowd the facility would run natural gas engines for 85 percent of its operations and capture almost 95 percent of most pollutants, not including carbon dioxide, and would need outside water only when temperatures topped 104 degrees Fahrenheit.",
+    "src": "https://pinelandsalliance.org/dataone-vineland-town-hall/"
+   },
+   {
+    "para": 2,
+    "t": "That differs from DataOne's own Vineland webpage, which says the plant runs on Bloom Energy fuel cells and uses a closed-loop water system needing about a million gallons for an initial fill, then roughly the equivalent of seven Olympic pools a year after that.",
+    "src": "https://nebius.com/vinelandnj"
+   },
+   {
+    "para": 3,
+    "t": "DataOne says the project will create about 1,000 construction jobs, most hired locally, and about 200 permanent positions, and expects to begin operating by 2027.",
+    "src": "https://nebius.com/vinelandnj"
+   }
+  ],
+  "sources": [
+   "https://sjclimate.news/7428/news/data-centers-are-booming-in-the-garden-state-are-local-communities-ready/",
+   "https://pinelandsalliance.org/dataone-vineland-town-hall/",
+   "https://nebius.com/vinelandnj"
+  ],
+  "unconfirmed": "Could not confirm a PILOT (payment in lieu of taxes) agreement referenced in some secondary coverage; it was not found in the sources read directly, so it was left out."
+ }
+]

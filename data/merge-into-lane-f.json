@@ -1,0 +1,50 @@
+{
+ "/company/keppel-keppel-dc-reit/": {
+  "paragraphs": [
+   "Keppel is a Singapore group that develops data centers and holds many of them through its listed trust, Keppel DC REIT. The trust's income is anchored in Singapore, which provides about 60% of its rent. Keppel's own campus there is at Genting Lane: KDC SGP 7, of seven storeys and 186,610 sq ft, and the eight-storey KDC SGP 8, at 290,040 sq ft, were both completed in early 2025. Keppel said it aimed to start a third building, KDC SGP 9, in mid-2026 after securing an extended land use for it.",
+   "Its most unusual project is a floating data center. Keppel began exploring the idea in 2019, won regulatory approval in 2023 and, in its first-quarter 2026 update, said construction had begun. The project is at 25 Loyang Crescent. According to its 2025 annual report it is a 25 MW facility funded by Keppel Data Centre Fund II, committed to a global hyperscaler and due to go live in 2028. Its environment report describes a four-storey, 19.2 MW waterborne module cooled by seawater, on about 7,580 sq m of sea and 9,870 sq m of land. Keppel pitches it as a way round the land, energy and water constraints that limit data center building in Singapore.",
+   "Abroad, the trust is buying into Japan. In September 2026 Keppel DC REIT and Keppel agreed to acquire a 90% interest in Tokyo Data Centres 4 and 5 in Inzai City, one of Greater Tokyo's main hyperscale clusters, for ¥190 billion (about $1.19 billion), with the existing operator keeping 10%. Both buildings are fully leased to four clients. The deal, expected to close in the fourth quarter of 2026, would raise Japan's share of the trust's rent from about 9% to about 23%. \"This acquisition demonstrates our disciplined approach to acquiring quality assets,\" said Loh Hwee Long, CEO of the trust's manager."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/keppel-starts-work-on-floating-data-center-in-singapore/",
+   "https://www.lightreading.com/data-centers/keppel-dc-reit-expands-japan-assets-as-singtel-kkr-close-5-2b-stt-gdc-deal"
+  ],
+  "unconfirmed": "The floating data center specifications come from Keppel's own annual and environment reports, as quoted by DCD, and are attributed to the company. The Tech Capital returned a script shell. Older deals (Guangdong Bluesea in Jiangmen, the Mitsui Fudosan forward purchase of Tokyo 2) came only from search summaries and were dropped. No local dispute over a Keppel project turned up."
+ },
+ "/company/khazna-data-centers-g42/": {
+  "paragraphs": [
+   "Khazna is the UAE's dominant data center company. It controls more than 70% of the country's capacity and rents space to Google, Amazon and Microsoft, according to Rest of World. It began in 2014 with just 2 MW, grew out of a government mandate to build national digital infrastructure, and belongs to G42, which is chaired by the UAE's national security adviser, Tahnoun bin Zayed Al Nahyan. Recent builds include a 32 MW facility in Abu Dhabi's Masdar City and a 100 MW campus for GPUs in Ajman, cooled with closed-loop liquid systems.",
+   "Its flagship is Stargate UAE, a 1 GW campus it is building with OpenAI, Oracle, Nvidia, Cisco and SoftBank inside the planned 5 GW UAE-US AI Campus in Abu Dhabi. In December 2025 Mubadala chief Khaldoon Al Mubarak said more than 5,000 workers were on site and 100,000 cubic metres of concrete had been poured. He said the first 200 MW phase \"will be in place and ready at some point in the third quarter of next year,\" and G42 put full build-out at three years. The US had just authorised exports to G42 of the equivalent of up to 35,000 Nvidia Blackwell chips.",
+   "Abroad, Khazna said at Gitex in October 2025 that it would add more than 1 GW by 2030, including over 400 MW outside the UAE. It had started construction in Saudi Arabia, was working on projects in France and Italy, and was exploring Turkey, Kenya and Southeast Asia. Its business chief, Tinboat Arslanouk, said a substantial share of its UAE power comes from nuclear and solar, and that \"limitations on energy or local regulations can prevent us from pursuing a project.\" Analysts quoted by Rest of World pointed to the heat and water demands of cooling in the Gulf climate as an operating challenge."
+  ],
+  "sources": [
+   "https://restofworld.org/2025/khazna-data-center-uae/",
+   "https://www.thenationalnews.com/business/2025/12/05/stargate-uaes-first-phase-to-be-completed-in-third-quarter-of-2026/",
+   "https://www.computerweekly.com/news/366632703/Khazna-leads-UAEs-global-AI-push-with-massive-datacentre-expansion"
+  ],
+  "unconfirmed": "Whether Stargate UAE's first 200 MW actually came online in Q3 2026 was not established by anything read. The Dammam 200 MW land parcel, the Eni partnership near Milan and the $2.6 billion financing came only from search summaries (IDCNova, press releases) and were dropped. The Gitex date is inferred from Computer Weekly's reference to 'Gitex Global 2025'."
+ },
+ "/company/scala-data-centers-digitalbridge/": {
+  "paragraphs": [
+   "Scala Data Centers is best known for Scala AI City, a gigawatt-scale campus planned at Eldorado do Sul, in the Porto Alegre metropolitan area of Rio Grande do Sul. In May 2025 Brazil's Ministry of Mines and Energy authorised a connection of up to about 5 GW, one of the largest it has issued, for a 10-million-square-metre site next to the Guaíba 3 substation. Scala says it bought half the land and holds an option on the rest. The first phase is 54 MW and a $500 million investment. Scala promises liquid cooling that uses no water, long-term wind and hydro contracts, and more than 3,000 jobs. Vice Governor Gabriel Souza credited a new state law with paving the way, and Governor Eduardo Leite called it Latin America's first \"data-centre city.\" Senior vice president Luciano Fialho has said total investment could reach $300 billion if the full capacity is taken up.",
+   "The approvals have drawn criticism. A protocol of intentions signed in September 2024 by Leite, four state secretaries and Scala commits the environment department to deliver licences \"in the shortest possible time.\" Under the simplified licensing route, reported by Ambiental Media, the company is not required to do a full environmental impact study or hold public hearings. The consumer group IDEC warned that reserving 1.8 GW, the amount the ministry initially made available, about 40% more than the state's average residential demand, would strain transmission and pass grid costs on to consumers. Eldorado do Sul residents say they already suffer frequent power cuts. Fialho himself has said transmission reinforcements take five to seven years, against 18 to 24 months to build a data center."
+  ],
+  "sources": [
+   "https://datacentremagazine.com/data-centres/scala-data-centers-ai-city-secures-5-gw-approval-in-brazil",
+   "https://telesintese.com.br/data-centers-eldorado-do-sul-pode-atrair-us-300-bilhoes-estima-scala/",
+   "https://www.ihu.unisinos.br/categorias/663945-maior-data-center-da-america-do-sul-tera-licenciamento-simplificado-no-rs-2"
+  ],
+  "unconfirmed": "Portuguese sources, paraphrased in translation. The IHU Unisinos page republishes and summarises reporting from Ambiental Media, Matinal and IDEC; those claims are attributed to them. Scala's Tamboré campus near São Paulo, its projects in Chile, Mexico and Colombia, and its DigitalBridge ownership appeared only in press releases or search summaries and are not described."
+ },
+ "/company/princeton-digital-group-warburg-pincus/": {
+  "paragraphs": [
+   "Princeton Digital Group is a Singapore-headquartered, Warburg Pincus-backed data center operator that has grown fast across Asia. In February 2023 it had over 600 MW across 20 data centers in China, India, Indonesia, Japan and Singapore. By March 2026 it said its portfolio exceeded 1.8 GW in seven Asian markets. That month it announced plans to raise as much as $5 billion in debt that year. More than $4 billion was to be loans tied to individual data centers in Mumbai, Jakarta, Johor and Tokyo, with banks including Barclays, BNP Paribas, Deutsche Bank and Standard Chartered taking part. \"We have rock solid contracts with hyperscalers averaging 10 to 12 years,\" chief executive Rangu Salgame said, and those contracts are what the company borrows against.",
+   "Much of its growth has come from land close to Singapore, where space and power are scarce. Its 2023 \"SG+\" plan put an initial $1 billion into a 96 MW campus of four 24 MW buildings on 15 acres in the Nongsa Digital Park on Batam, Indonesia, about 20 km from Singapore, with further development planned in Johor, Malaysia. PDG said power for Batam was already fully secured and that it was exploring \"tropical data center\" designs toward a 2030 net-zero goal, without giving details. No local dispute over a PDG site turned up in these searches."
+  ],
+  "sources": [
+   "https://sg.finance.yahoo.com/news/princeton-digital-group-raise-us-175456197.html",
+   "https://www.datacenterdynamics.com/en/news/princeton-digital-group-to-spend-1bn-expanding-into-malaysia-and-indonesia/"
+  ],
+  "unconfirmed": "The March 2026 financing story is The Edge Singapore's (Yahoo provider id the_edge), published March 10, 2026, read through Yahoo syndication. The April 2026 JC4 Jakarta site (240 MW) and the Bekasi JC3 campus came only from PDG's own newsroom and search summaries and were dropped. The Princeton, Texas water story that searches returned is unrelated to PDG."
+ }
+}

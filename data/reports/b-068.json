@@ -1,0 +1,563 @@
+[
+ {
+  "id": "ft-1768319342629-2737",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Two data center entries sit at these coordinates in De Soto, in Johnson County, Kansas, and this is the one with a code name.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "Project Pilot is listed as 290 acres on Edgerton Road south of Highway 10, developed by Beale Infrastructure and under construction, and both trade reports attached to it returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Their headlines say Beale bought the land parcel for Project Pilot and was targeting two campuses outside Kansas City.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The second is presumably the Mount Sunflower entry at the same coordinates, the $700 million scheme at the Flint Commerce Center that De Soto backed with up to $50 billion of industrial revenue bonds and whose water and sewer requirements were redacted from the public papers.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Beale Infrastructure is the same developer behind Project Blue at Marana in Arizona and the Pima County campus that Tucson refused to annex.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Six data center sites are recorded in Johnson County, with a Digital Realty campus 2 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Lawrence, 22 kilometres away and home to the 488 megawatt Lawrence Energy Center, adopted a two year data center moratorium on 14 July 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Both sources in our record returned 403, so the megawatts, the investment, the date of the land purchase and what stage the construction has reached are all unknown. Whether Project Pilot and the Mount Sunflower entry at the same coordinates are one scheme recorded twice, or the two campuses the second headline refers to, is unresolved. No water figure exists and our record logs pushback as unknown."
+ },
+ {
+  "id": "ft-1784674300198-1510",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Edgerton's planning commission said no to this data center, and the city council, in Johnson County, Kansas, unanimously overruled it.",
+    "src": "https://www.kshb.com/news/local-news/data-centers/edgerton-city-council-overrides-data-center-development-denial-pushing-project-forward"
+   },
+   {
+    "para": 0,
+    "t": "The commission had first put off the decision and then refused it, after the company's representatives could not answer its questions about noise levels and about future expansion.",
+    "src": "https://www.kshb.com/news/local-news/data-centers/edgerton-city-council-overrides-data-center-development-denial-pushing-project-forward"
+   },
+   {
+    "para": 0,
+    "t": "The council then held a special meeting on a Thursday night and voted to override the refusal.",
+    "src": "https://www.kshb.com/news/local-news/data-centers/edgerton-city-council-overrides-data-center-development-denial-pushing-project-forward"
+   },
+   {
+    "para": 1,
+    "t": "The developer is DAMAC, a Dubai company, and the plan is to turn a warehouse it already owns on its own land into a data center.",
+    "src": "https://www.kshb.com/news/local-news/data-centers/edgerton-city-council-overrides-data-center-development-denial-pushing-project-forward"
+   },
+   {
+    "para": 1,
+    "t": "A city spokesperson said DAMAC can now proceed and that the final site plan is approved.",
+    "src": "https://www.kshb.com/news/local-news/data-centers/edgerton-city-council-overrides-data-center-development-denial-pushing-project-forward"
+   },
+   {
+    "para": 2,
+    "t": "Neighbours had raised the effect on water and on the land.",
+    "src": "https://www.kshb.com/news/local-news/data-centers/edgerton-city-council-overrides-data-center-development-denial-pushing-project-forward"
+   },
+   {
+    "para": 2,
+    "t": "Residents of Edgerton now plan to put in a petition asking that data center developments be put to a community vote.",
+    "src": "https://www.kshb.com/news/local-news/data-centers/edgerton-city-council-overrides-data-center-development-denial-pushing-project-forward"
+   },
+   {
+    "para": 3,
+    "t": "The 315 megawatt West Gardner gas plant is 2 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The Colossus proposal at Spring Hill, 16 kilometres off, was withdrawn by its developer, and four moratoriums and zoning limits are in force in the surrounding cities and counties.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.kshb.com/news/local-news/data-centers/edgerton-city-council-overrides-data-center-development-denial-pushing-project-forward"
+  ],
+  "unconfirmed": "The date of the special council meeting is given only as a Thursday, and no council member or resident is named or quoted. No acreage, megawatt figure, investment total or water demand was published, which is notable given that the refusal turned on unanswered questions about noise and expansion. Whether the petition for community votes was filed, and what became of it, is not known. The developer's own site at heartlanddatacenter.com was not fetched, and the Data Center Dynamics article in our record returned 403."
+ },
+ {
+  "id": "ft-1782187847377-5528",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A gigawatt is proposed here, and almost nothing else is recorded about it.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The entry is the Flint Hills Digital Campus on Highway 150 at Emporia, in Lyon County, Kansas, listed at 1,000 megawatts, and the single source, headed \"Gigawatt-scale data center campus proposed in Kansas\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "No developer, acreage, investment figure or date is attached to it.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "The 654 megawatt Emporia Energy Center gas plant is 17 kilometres away, a 200 megawatt wind farm 26, and the 1,177 megawatt Wolf Creek nuclear station 53.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Taken together that is roughly two gigawatts of generation within about 50 kilometres, for a campus that would want half of it.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Lyon County, with no other project within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the developer, the acreage, the investment, the filing date, any county process and the current status are all unknown. No water figure exists and no local reaction was found; our record logs pushback as unknown and marks its confidence in the entry as medium. No Emporia or Lyon County reporting was sought."
+ },
+ {
+  "id": "ft-285",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Residents beat this data center on a technicality that the law gave them: a protest petition.",
+    "src": "https://www.kcur.org/environment-agriculture/2025-11-09/data-center-kansas-city-wyandotte-county"
+   },
+   {
+    "para": 0,
+    "t": "Red Wolf DCD Properties proposed six buildings totalling 1.8 million square feet on land north and south of Parallel Parkway in western Kansas City, Kansas, which would have been the largest development in Wyandotte County's history.",
+    "src": "https://www.kcur.org/environment-agriculture/2025-11-09/data-center-kansas-city-wyandotte-county"
+   },
+   {
+    "para": 1,
+    "t": "In May 2025 the Unified Government approved the initial zoning.",
+    "src": "https://www.kcur.org/environment-agriculture/2025-11-09/data-center-kansas-city-wyandotte-county"
+   },
+   {
+    "para": 1,
+    "t": "Community members then filed protest petitions, which raised the threshold to a supermajority, and on 31 July the rezoning of the north side failed on a 7 to 3 vote.",
+    "src": "https://www.kcur.org/environment-agriculture/2025-11-09/data-center-kansas-city-wyandotte-county"
+   },
+   {
+    "para": 2,
+    "t": "There is also a lawsuit.",
+    "src": "https://www.kcur.org/environment-agriculture/2025-11-09/data-center-kansas-city-wyandotte-county"
+   },
+   {
+    "para": 2,
+    "t": "Neal Palmer and Haskell Farms LLC sued, alleging the developer's applications contained \"numerous errors and insufficiencies\" and broke the municipal code, and that the commission \"rushed review processes without sufficient study\".",
+    "src": "https://www.kcur.org/environment-agriculture/2025-11-09/data-center-kansas-city-wyandotte-county"
+   },
+   {
+    "para": 2,
+    "t": "On 29 October a district judge refused the Unified Government's motion to have the case thrown out.",
+    "src": "https://www.kcur.org/environment-agriculture/2025-11-09/data-center-kansas-city-wyandotte-county"
+   },
+   {
+    "para": 3,
+    "t": "The numbers on offer were modest for the scale.",
+    "src": "https://www.kcur.org/environment-agriculture/2025-11-09/data-center-kansas-city-wyandotte-county"
+   },
+   {
+    "para": 3,
+    "t": "Supporters put the jobs at 40 to 60 confirmed, possibly up to 100, at about $100,000 a year.",
+    "src": "https://www.kcur.org/environment-agriculture/2025-11-09/data-center-kansas-city-wyandotte-county"
+   },
+   {
+    "para": 3,
+    "t": "The water requirement is not known, because it depends on a tenant who has not been found.",
+    "src": "https://www.kcur.org/environment-agriculture/2025-11-09/data-center-kansas-city-wyandotte-county"
+   },
+   {
+    "para": 4,
+    "t": "Zack Pistora, the Sierra Club's director in Kansas, framed the question: \"We're trying to figure out, if we're going to welcome data centers to Kansas, how we can make sure that we're not doing any harm to the communities, to the ecosystems and the environment.\"",
+    "src": "https://www.kcur.org/environment-agriculture/2025-11-09/data-center-kansas-city-wyandotte-county"
+   },
+   {
+    "para": 4,
+    "t": "Ty Gorman put it harder: \"The risk to our health and the risk to our bills of just inviting this kind of real estate flipper style of data center from Red Wolf is great.\"",
+    "src": "https://www.kcur.org/environment-agriculture/2025-11-09/data-center-kansas-city-wyandotte-county"
+   },
+   {
+    "para": 5,
+    "t": "The project is put at 600 megawatts on 540 acres for $12 billion.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 5,
+    "t": "The same developer name, Red Wolf, appears on a proposal at Hampton in Georgia and a $6 billion campus at Cordele.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 5,
+    "t": "The 315 megawatt Nearman Creek coal plant is 16 kilometres away, and five moratoriums, bans and zoning limits are in force across the metropolitan area, including a Jackson County ban from 24 June 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.kcur.org/environment-agriculture/2025-11-09/data-center-kansas-city-wyandotte-county"
+  ],
+  "unconfirmed": "The tax figures in the report do not reconcile: more than $2 million a year per building across six buildings, but $2.4 million a year overall. No megawatt figure appears in the report, so our record's 600 megawatts is uncorroborated, as is the $12 billion. What has happened to the south side rezoning, and how the lawsuit has progressed since October 2025, are not established. No commissioner who voted is named or quoted."
+ },
+ {
+  "id": "ft-1772687054523-4633",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A $1.1 billion data center is recorded on 115 acres at Osawatomie, in Miami County, Kansas, at 50 megawatts, and the single source could not be read.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 0,
+    "t": "That source is headed \"115-acre data center could come to Osawatomie, Kansas, says local government\", which suggests the announcement came from the town rather than the developer.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The 77 megawatt Osawatomie gas plant is 3 kilometres away, and the 1,426 megawatt La Cygne coal plant 31.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Miami County adopted a data center moratorium on 4 May 2026, and Peculiar across the state line in Missouri has had a ban since October 2024.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Miami County; the DAMAC site at Edgerton is 30 kilometres away and the withdrawn Colossus proposal at Spring Hill 32.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the developer beyond the name Alcove Development, the square footage, the water demand, the filing date and the current status are all unknown, as is whether the Miami County moratorium adopted in May 2026 affects it. No local reaction was found and our record logs pushback as unknown."
+ },
+ {
+  "id": "ft-1783827632129-9082",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Twenty megawatts on twenty acres makes this one of the smallest data center proposals on the map.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "HyperDataGrid, a Texas company, wants to buy about 20 acres in the Tolen Creek Industrial Park at Parsons, a city of 9,600 people in Labette County, Kansas, east of Highway 59.",
+    "src": "https://www.parsonschamber.org/2026/06/26/30993/parsons-city-commission-to-consider-land-purchase-option-for-planned-micro-data-center"
+   },
+   {
+    "para": 0,
+    "t": "The company calls it a micro data center and says it can bring a 20 megawatt facility online within twelve months.",
+    "src": "https://www.datacenterdynamics.com/en/news/20mw-data-center-eyed-in-parsons-kansas/"
+   },
+   {
+    "para": 1,
+    "t": "The city commission approved a purchase option in June 2026, running six months with an option to extend another six, which gives the company time to do its due diligence.",
+    "src": "https://www.fourstateshomepage.com/news/local/parsons-approves-option-for-micro-data-center-project/"
+   },
+   {
+    "para": 1,
+    "t": "Nothing is committed yet.",
+    "src": "https://www.fourstateshomepage.com/news/local/parsons-approves-option-for-micro-data-center-project/"
+   },
+   {
+    "para": 2,
+    "t": "What Parsons stands to get is utility revenue rather than tax revenue.",
+    "src": "https://www.parsonschamber.org/2026/06/26/30993/parsons-city-commission-to-consider-land-purchase-option-for-planned-micro-data-center"
+   },
+   {
+    "para": 2,
+    "t": "Depending on which water arrangement is chosen, the city could see as much as $150,000 a year in additional water sales, and utility franchise fees potentially reaching another $150,000 a year at peak.",
+    "src": "https://www.parsonschamber.org/2026/06/26/30993/parsons-city-commission-to-consider-land-purchase-option-for-planned-micro-data-center"
+   },
+   {
+    "para": 3,
+    "t": "The generation nearby is wind: the 294 megawatt Neosho Ridge wind farm 16 kilometers away and a 197 megawatt one at 41.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Labette County, with no other project within 40 kilometers.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://www.parsonschamber.org/2026/06/26/30993/parsons-city-commission-to-consider-land-purchase-option-for-planned-micro-data-center",
+   "https://www.datacenterdynamics.com/en/news/20mw-data-center-eyed-in-parsons-kansas/",
+   "https://www.fourstateshomepage.com/news/local/parsons-approves-option-for-micro-data-center-project/"
+  ],
+  "unconfirmed": "Searches on HyperDataGrid with Parsons, on Parsons Kansas with data center, and on Labette County with data center found no objection, no resident comment and no named official quoted. The exact date of the June 2026 commission vote, the price of the land option and how much water the facility would actually use were not established; the $150,000 water sales figure is the city's estimate of its own revenue, not a consumption figure."
+ },
+ {
+  "id": "ft-1775094586984-7529",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This project is filed under a Kansas postal abbreviation, but the town is Rochelle, Illinois, in Ogle County, which is where the county field also points.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "The proposal was for a data center on Steward Drive, brought by Midwest Power Investors LLC with the New York real estate company LFF Industrial, on 124 acres of farmland south of Interstate 88 against the railway tracks, with the buildings themselves taking 5 to 10 acres.",
+    "src": "https://www.shawlocal.com/ogle-county-news/2025/11/19/rochelle-works-to-overcome-residents-objections-to-potential-data-center-project/"
+   },
+   {
+    "para": 0,
+    "t": "The first phase was at least 48 megawatts, with the possibility of growing to 150, which the local station put at the consumption of about 150,000 homes.",
+    "src": "https://www.rockfordnewsfirst.com/2026/04/28/rochelle-city-council-unanimously-rejects-data-center-proposal/"
+   },
+   {
+    "para": 1,
+    "t": "The town said no.",
+    "src": "https://www.rockfordnewsfirst.com/2026/04/28/rochelle-city-council-unanimously-rejects-data-center-proposal/"
+   },
+   {
+    "para": 1,
+    "t": "By March 24, 2026 a petition headed \"Reject plans for a data center in Rochelle, Illinois\" had 830 signatures.",
+    "src": "https://www.shawlocal.com/ogle-county-news/2026/03/26/rochelle-city-council-tables-development-agreement-for-potential-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Resident Megan Sneyd questioned how many permanent and temporary jobs it would actually bring, what it would consume, and the fact that the developers were not local.",
+    "src": "https://www.shawlocal.com/ogle-county-news/2026/03/26/rochelle-city-council-tables-development-agreement-for-potential-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The council tabled the development agreement in March, saying it needed more time and citing concerns about the effect on local utilities and the number of jobs.",
+    "src": "https://www.shawlocal.com/ogle-county-news/2026/03/26/rochelle-city-council-tables-development-agreement-for-potential-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "On April 27, 2026 the council rejected it 0 to 7.",
+    "src": "https://www.rockfordnewsfirst.com/2026/04/28/rochelle-city-council-unanimously-rejects-data-center-proposal/"
+   },
+   {
+    "para": 2,
+    "t": "Mayor John Bearrows told the chamber: \"I can not support this project and I won't. And I ask council to join me in voting this contract down.\"",
+    "src": "https://www.rockfordnewsfirst.com/2026/04/28/rochelle-city-council-unanimously-rejects-data-center-proposal/"
+   },
+   {
+    "para": 2,
+    "t": "The room applauded.",
+    "src": "https://www.rockfordnewsfirst.com/2026/04/28/rochelle-city-council-unanimously-rejects-data-center-proposal/"
+   },
+   {
+    "para": 2,
+    "t": "The developer had offered to pay all $6.9 million of the infrastructure work for electricity, water, sewer, fibre and roads, and promised 15 to 25 permanent jobs and 500 to 800 construction jobs. It also offered to drop future expansion phases and cap the size.",
+    "src": "https://www.shawlocal.com/ogle-county-news/2026/04/28/rochelle-city-council-unanimously-denies-data-center-development-agreement/"
+   },
+   {
+    "para": 2,
+    "t": "The objection was scale against a small municipal utility. Rochelle Municipal Utilities' largest existing customer uses 10 megawatts. This would have used 48.",
+    "src": "https://www.shawlocal.com/ogle-county-news/2026/04/28/rochelle-city-council-unanimously-denies-data-center-development-agreement/"
+   },
+   {
+    "para": 3,
+    "t": "The entry had the project as suspended, which was out of date: it was refused outright, and it now reads blocked.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Another Rochelle data center sits three kilometers away, Meta's DeKalb campus 23 and the Karis Critical campus at DeKalb 27, with four wind farms totalling about 530 megawatts between 20 and 26 kilometers off.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Mayor John Bearrows pointed to Illinois projecting a power capacity shortage in early 2029 and to the city's own limits: \"Every new project we consider must be weighed against the current financial burden and limited electricity availability.\" He noted Rochelle has only two transmission lines.",
+    "src": "https://www.shawlocal.com/ogle-county-news/2026/04/28/rochelle-city-council-unanimously-denies-data-center-development-agreement/"
+   }
+  ],
+  "sources": [
+   "https://www.shawlocal.com/ogle-county-news/2025/11/19/rochelle-works-to-overcome-residents-objections-to-potential-data-center-project/",
+   "https://www.rockfordnewsfirst.com/2026/04/28/rochelle-city-council-unanimously-rejects-data-center-proposal/",
+   "https://www.shawlocal.com/ogle-county-news/2026/03/26/rochelle-city-council-tables-development-agreement-for-potential-data-center/",
+   "https://www.shawlocal.com/ogle-county-news/2026/04/28/rochelle-city-council-unanimously-denies-data-center-development-agreement/"
+  ],
+  "unconfirmed": "Our record held this proposal twice, once as a blocked-list entry for Project Crossroads and once as LFF Industrial on Steward Road; they have been merged, and the record was also filed under a Kansas postal abbreviation for an Illinois town. Accounts differ on the acreage, 124 in the reporting against 75 in our record, and on the capacity, 48 megawatts rising to 150 against our flat 48."
+ },
+ {
+  "id": "ft-1773459882465-1893",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The developer walked away from this one.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "A 316 acre data center at 191st Street and Renner Road in Spring Hill, in Johnson County, Kansas, is listed as cancelled, and the single source is headed \"Developer withdraws plan to build 316-acre data center in Spring Hill, Kansas\".",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "It returned 403, so the date, the developer and the reason are not recorded.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "This corner of the Kansas City metropolitan area has been busy writing rules.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Seven moratoriums, bans and zoning limits are in force within reach: bans in Peculiar and Jackson County, moratoriums in Lawrence, Independence, Miami County and Jackson County, and zoning limits in Kansas City.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The DAMAC site at Edgerton, where the council overrode its own planning commission, is 16 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The 315 megawatt West Gardner gas plant is 18 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the developer, the megawatts, the investment, the date of the withdrawal and whether residents played any part in it are all unknown. Our record logs pushback as unknown, which the withdrawal may or may not contradict. No Spring Hill local reporting was sought."
+ },
+ {
+  "id": "ft-1784063102452-6016",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The developer's website says this Leavenworth County data center would use about as much water as an office building. The county commission was told millions of gallons a day.",
+    "src": "https://www.kshb.com/news/local-news/kansas/leavenworth-county/hyperscale-data-center-proposed-in-tonganoxie-county-commissioners-discuss-project-with-developer"
+   },
+   {
+    "para": 0,
+    "t": "Both accounts describe closed loop cooling; they do not describe the same quantity of water, and nothing read reconciles them.",
+    "src": "https://bluestemdatacenter.com/"
+   },
+   {
+    "para": 1,
+    "t": "Project Bluestem is a data center proposed on about 1,000 acres south of Tonganoxie, on the former Tailgate Ranch property in Leavenworth County, Kansas, by Cloverleaf, a Houston real estate company.",
+    "src": "https://www.kshb.com/news/local-news/kansas/leavenworth-county/hyperscale-data-center-proposed-in-tonganoxie-county-commissioners-discuss-project-with-developer"
+   },
+   {
+    "para": 1,
+    "t": "It would be the Kansas City area's tenth hyperscale data center proposal.",
+    "src": "https://www.kshb.com/news/local-news/kansas/leavenworth-county/hyperscale-data-center-proposed-in-tonganoxie-county-commissioners-discuss-project-with-developer"
+   },
+   {
+    "para": 2,
+    "t": "The county commissioners spent nearly six hours on it in a work session on 18 March.",
+    "src": "https://www.kshb.com/news/local-news/kansas/leavenworth-county/hyperscale-data-center-proposed-in-tonganoxie-county-commissioners-discuss-project-with-developer"
+   },
+   {
+    "para": 2,
+    "t": "Commissioner Mike Stieben said the project was well beyond its preliminary phases, though no official filings had been submitted.",
+    "src": "https://www.kshb.com/news/local-news/kansas/leavenworth-county/hyperscale-data-center-proposed-in-tonganoxie-county-commissioners-discuss-project-with-developer"
+   },
+   {
+    "para": 2,
+    "t": "The developer's own site, at the time it was read, also said the development was conceptual and that no formal requests had been submitted.",
+    "src": "https://bluestemdatacenter.com/"
+   },
+   {
+    "para": 3,
+    "t": "Cloverleaf would not say which technology company is behind the proposal, and the commissioners were left to guess between Microsoft, Meta, Amazon, Google and OpenAI.",
+    "src": "https://www.kshb.com/news/local-news/kansas/leavenworth-county/hyperscale-data-center-proposed-in-tonganoxie-county-commissioners-discuss-project-with-developer"
+   },
+   {
+    "para": 3,
+    "t": "The project would qualify for a full sales and use tax abatement for 20 years, plus other local and state incentives.",
+    "src": "https://www.kshb.com/news/local-news/kansas/leavenworth-county/hyperscale-data-center-proposed-in-tonganoxie-county-commissioners-discuss-project-with-developer"
+   },
+   {
+    "para": 3,
+    "t": "The power was put at upwards of 75 megawatts, which the report compared to about 25,000 homes.",
+    "src": "https://www.kshb.com/news/local-news/kansas/leavenworth-county/hyperscale-data-center-proposed-in-tonganoxie-county-commissioners-discuss-project-with-developer"
+   },
+   {
+    "para": 4,
+    "t": "Cloverleaf's site promises to fund the power and transmission upgrades the campus needs, more than 1,000 construction jobs over two years or more, 50 or more full time jobs at the start and 200 or more at full build out, and millions of dollars in tax revenue for schools, services and infrastructure.",
+    "src": "https://bluestemdatacenter.com/"
+   },
+   {
+    "para": 4,
+    "t": "It describes the investment only as multi-billion-dollar and gives no acreage and no megawatt figure.",
+    "src": "https://bluestemdatacenter.com/"
+   },
+   {
+    "para": 5,
+    "t": "The campus is put at 1,200 megawatts on 2,000 acres for $14 billion, with organised local advocacy logged against it.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 5,
+    "t": "Cloverleaf also appears on the Troy campus in Illinois and the Pumpkin Tech Campus in Columbia County, Georgia.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 6,
+    "t": "The 488 megawatt Lawrence Energy Center coal plant is 17 kilometres away, in a city that paused data centers for two years on 14 July 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.kshb.com/news/local-news/kansas/leavenworth-county/hyperscale-data-center-proposed-in-tonganoxie-county-commissioners-discuss-project-with-developer",
+   "https://bluestemdatacenter.com/"
+  ],
+  "unconfirmed": "The figures do not agree across sources. The acreage is about 1,000 in the reporting and 2,000 in our record; the power is upwards of 75 megawatts in the reporting and 1,200 in our record, and the phrase \"75 megawatts daily\" as reported is not a coherent unit; the water is millions of gallons a day in the reporting and roughly an office building's use on the developer's site. None of these could be reconciled and the discrepancies are large enough that the entry needs checking at source. The year of the 18 March work session is not given. No resident is named or quoted, and no tenant is identified."
+ },
+ {
+  "id": "ft-1785191559906-1126",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "There is about five gigawatts of coal-fired generation within thirty kilometres of this data center site at Carrollton, in Carroll County, Kentucky.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 0,
+    "t": "The 1,919 megawatt Ghent plant is 15 kilometres away, the 2,179 megawatt Trimble County plant 25 and the 1,173 megawatt Clifty Creek plant 28, with a 54 megawatt hydroelectric dam at Markland in between.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "A PowerHouse data center campus is recorded on 550 acres at Green Bottom Road in Carrollton, at a cost of $9.6 billion, and the single source, headed \"PowerHouse and POE target another 550-acre data center campus outside Louisville, Kentucky\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The word \"another\" in that headline is the part nothing else explains.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Carroll County, though two entries for a Project Lincoln sit 32 and 36 kilometres away and the Jefferson Proving Ground site 34.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Dearborn County, across the river in Indiana, adopted a data center moratorium on 25 February 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "No grid control area is recorded for this site, so the peak load the campus would sit inside is not established.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the megawatts, the timeline, the identity of POE, the filing date, any county process and the current status are all unknown. No water figure exists. No Carroll County or Kentucky local reporting was sought and our record logs pushback as unknown. The concentration of coal plants nearby is drawn from our own layer and no source read connects it to this project's power plans."
+ }
+]

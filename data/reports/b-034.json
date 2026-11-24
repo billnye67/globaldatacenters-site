@@ -1,0 +1,650 @@
+[
+ {
+  "id": "amazon-aws-gw-ranch-pecos-county",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The story at this site is not the data centers. It is the power plant being built to run them.",
+    "src": "https://www.sacurrent.com/news/texas-news/amazons-new-texas-data-center-campus-could-become-nations-largest-polluter/"
+   },
+   {
+    "para": 0,
+    "t": "Amazon's campus sits on GW Ranch, 8,400 acres along Highway 18 about 17 miles north of Fort Stockton in Pecos County, West Texas.",
+    "src": "https://www.sacurrent.com/news/texas-news/amazons-new-texas-data-center-campus-could-become-nations-largest-polluter/"
+   },
+   {
+    "para": 0,
+    "t": "Amazon has filed three buildings there, A, B and C, each 189,060 square feet at a stated cost of $300 million, with construction running from August to December 2026.",
+    "src": "https://usdatacenterprojects.com/texas/amazon-files-plans-for-new-data-center-buildings-in-texas-across-three-sites"
+   },
+   {
+    "para": 1,
+    "t": "Pacifico Energy is building a 7.65 gigawatt natural gas plant on the ranch to run the campus off the grid.",
+    "src": "https://www.sacurrent.com/news/texas-news/amazons-new-texas-data-center-campus-could-become-nations-largest-polluter/"
+   },
+   {
+    "para": 1,
+    "t": "The plant would use 35 turbines, roughly double the output of the largest coal plant in the United States, a 3.5 gigawatt station in rural Georgia.",
+    "src": "https://www.sacurrent.com/news/texas-news/amazons-new-texas-data-center-campus-could-become-nations-largest-polluter/"
+   },
+   {
+    "para": 1,
+    "t": "In January 2026 Texas issued the plant an air permit allowing it to release 33 million tons of carbon dioxide. At that rate it would be the single largest source of pollution in the country.",
+    "src": "https://www.distilled.earth/p/scoop-amazon-is-behind-one-of-the"
+   },
+   {
+    "para": 1,
+    "t": "Because the plant is treated as a separate entity from the data centers, the data centers themselves qualify for minor air permits as a low level polluter.",
+    "src": "https://www.sacurrent.com/news/texas-news/amazons-new-texas-data-center-campus-could-become-nations-largest-polluter/"
+   },
+   {
+    "para": 2,
+    "t": "The local grid gives a sense of the scale. The site falls inside El Paso Electric's control area, which has a peak load of about 2,147 megawatts, less than a third of what the plant on the ranch is permitted to generate.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 2,
+    "t": "Amazon's ownership of the gas plant came to light when it filed three construction permits with Texas authorities, and the analysis group Cleanview confirmed the link with satellite images showing land clearing had begun in August 2026.",
+    "src": "https://www.distilled.earth/p/scoop-amazon-is-behind-one-of-the"
+   },
+   {
+    "para": 3,
+    "t": "Amazon says the campus will be \"powered by new on-site generation that won't raise electricity costs for Texas families\" and is designed to move to grid supply once interconnection allows.",
+    "src": "https://www.aboutamazon.com/news/company-news/amazon-pecos-county-texas-data-center-clean-energy-jobs"
+   },
+   {
+    "para": 3,
+    "t": "The company says it will use non-potable water, cooling designed to limit water use, and that it is exploring solar and battery storage on site.",
+    "src": "https://www.aboutamazon.com/news/company-news/amazon-pecos-county-texas-data-center-clean-energy-jobs"
+   },
+   {
+    "para": 3,
+    "t": "Pacifico Energy has said it plans up to 750 megawatts of solar and 1.8 gigawatts of battery storage at GW Ranch.",
+    "src": "https://www.distilled.earth/p/scoop-amazon-is-behind-one-of-the"
+   },
+   {
+    "para": 3,
+    "t": "An Amazon spokesperson said the company \"believes in paying the full costs of powering our operations.\"",
+    "src": "https://www.distilled.earth/p/scoop-amazon-is-behind-one-of-the"
+   },
+   {
+    "para": 3,
+    "t": "Amazon has pledged to reach net zero emissions by 2040 under its Climate Pledge, and its reported emissions are rising.",
+    "src": "https://www.distilled.earth/p/scoop-amazon-is-behind-one-of-the"
+   },
+   {
+    "para": 4,
+    "t": "Amazon is not the only company doing this in Pecos County. Microsoft announced a data center about 30 miles west in partnership with Chevron, also running on off grid natural gas.",
+    "src": "https://www.sacurrent.com/news/texas-news/amazons-new-texas-data-center-campus-could-become-nations-largest-polluter/"
+   },
+   {
+    "para": 4,
+    "t": "A separate proposed project, PowerBridge/LandBridge, is planned at 2,000 megawatts about 36 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "Texas imposed a grid connection moratorium at state level on August 3, 2026, though a plant built behind the meter does not need a grid connection.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.sacurrent.com/news/texas-news/amazons-new-texas-data-center-campus-could-become-nations-largest-polluter/",
+   "https://www.distilled.earth/p/scoop-amazon-is-behind-one-of-the",
+   "https://usdatacenterprojects.com/texas/amazon-files-plans-for-new-data-center-buildings-in-texas-across-three-sites",
+   "https://www.aboutamazon.com/news/company-news/amazon-pecos-county-texas-data-center-clean-energy-jobs",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "A Pecos County meeting where residents raised concerns was reported by NewsWest 9 but the page could not be retrieved, so no resident is named or quoted here. No figure for the data center campus's own electrical capacity has been published, and the water source for cooling has not been specified beyond Amazon's statement that it will be non-potable."
+ },
+ {
+  "id": "amazon-aws-horizon-junction-floydada",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon has filed to build three data center buildings, designated B, C and D, on County Road 241 outside Floydada, Texas, under the name Horizon Junction.",
+    "src": "https://usdatacenterprojects.com/texas/amazon-files-plans-for-new-data-center-buildings-in-texas-across-three-sites"
+   },
+   {
+    "para": 0,
+    "t": "Each building is 189,060 square feet at a stated cost of $300 million, with construction running from August 2026 to April 2027.",
+    "src": "https://usdatacenterprojects.com/texas/amazon-files-plans-for-new-data-center-buildings-in-texas-across-three-sites"
+   },
+   {
+    "para": 0,
+    "t": "The land is currently the Floydada County Club, a nine hole semi-private golf course.",
+    "src": "https://usdatacenterprojects.com/texas/amazon-files-plans-for-new-data-center-buildings-in-texas-across-three-sites"
+   },
+   {
+    "para": 1,
+    "t": "Floydada sits in Floyd County, which is where the permit filings place the site.",
+    "src": "https://usdatacenterprojects.com/texas/amazon-files-plans-for-new-data-center-buildings-in-texas-across-three-sites"
+   },
+   {
+    "para": 1,
+    "t": "The generation nearest the site is wind. The 257 megawatt Wake Wind Energy Center is about 6 kilometres away and the 150 megawatt McAdoo Wind Energy about 11 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "CoreWeave's Helios site, operating at about 132 megawatts, is about 20 kilometres away, and these are the only data center sites we count in Floyd County. Floydada itself is about 45 miles north east of Lubbock.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "No moratorium of its own applies in Floyd County, and no objection to the project has been recorded; the only measure covering it is the statewide Texas grid-connection order of August 3, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://usdatacenterprojects.com/texas/amazon-files-plans-for-new-data-center-buildings-in-texas-across-three-sites",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "Our own record used to file this site in Crosby County; the permit filings and the town itself are in Floyd County, and the entry now carries that."
+ },
+ {
+  "id": "amazon-aws-san-antonio-bitter-blue",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon bought the property at 12807 Donop Road in Elmendorf, in Bexar County southeast of San Antonio, in October 2020, and has filed the data center campus under the name Bitter Blue.",
+    "src": "https://cleanview.co/data-centers/texas/2181/aws-bitter-blue"
+   },
+   {
+    "para": 0,
+    "t": "Building B is a two storey data center of about 119,400 square feet costing around $65 million, with construction scheduled to start on December 3, 2026 and finish on February 9, 2029.",
+    "src": "https://cleanview.co/data-centers/texas/2181/aws-bitter-blue"
+   },
+   {
+    "para": 1,
+    "t": "The site sits inside a cluster of power stations. The 1,050 megawatt V H Braunig and 518 megawatt Arthur Von Rosenberg gas plants are about 4 kilometres away, and the 1,345 megawatt J K Spruce coal plant about 7 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "Fourteen other data centers sit in Bexar County, ten of them within 40 kilometres of this site.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://cleanview.co/data-centers/texas/2181/aws-bitter-blue",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "Searches on Donop Road with Elmendorf, on Elmendorf with data center, and on Amazon with Bexar County returned only trade directories and permit aggregators. No rezoning vote, public hearing, resident comment or organised opposition was found, and no local outlet has covered the site. The campus's electrical capacity and water arrangements have not been published and it is unclear how many buildings Bitter Blue is meant to hold. Coverage of data center water use in rural Texas exists but none of it names this project."
+ },
+ {
+  "id": "amazon-aws-mesa-pecos-road-phx065",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon's Pecos Road data center campus covers 71.3 acres at 9848 to 10464 East Pecos Road in Mesa, in Maricopa County, Arizona, east of the Legacy Park sports complex.",
+    "src": "https://www.datacentermap.com/usa/arizona/phoenix/amazon-aws-phx-pecos-road-campus/"
+   },
+   {
+    "para": 0,
+    "t": "Amazon paid just over $18 million for the land in December 2021. The site had first been looked at for a 700,000 square foot logistics building before Amazon turned it to data center use.",
+    "src": "https://85209.com/mesanews/amazon-to-launch-two-new-data-centers-in-mesa/"
+   },
+   {
+    "para": 0,
+    "t": "The plan covers two data center buildings of about 227,000 square feet each.",
+    "src": "https://www.datacentermap.com/usa/arizona/phoenix/amazon-aws-phx-pecos-road-campus/"
+   },
+   {
+    "para": 1,
+    "t": "The campus draws from Arizona Public Service, whose control area has a peak load of about 7,611 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 1,
+    "t": "Maricopa County holds 40 data centers, with NTT's Mesa campus about 2 kilometres from this one and Novva's about 5 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Mesa, Chandler, Phoenix and Tempe have all adopted zoning limits on data centers, as has Maricopa County.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.datacentermap.com/usa/arizona/phoenix/amazon-aws-phx-pecos-road-campus/",
+   "https://85209.com/mesanews/amazon-to-launch-two-new-data-centers-in-mesa/",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "No electrical capacity has been published for the Pecos Road campus and no water figure was found. The zoning limits our record lists for Mesa are not dated in the sources reached, so it is unclear whether they predate or follow this campus."
+ },
+ {
+  "id": "amazon-aws-mesa-elliot-road",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon owns 42.9 acres on Elliot Road in Mesa, in Maricopa County, Arizona, immediately next to Apple's data center.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It paid $16.9 million for the land in December 2021, the same month it bought its larger Pecos Road site about six kilometres away for just over $18 million.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "Nothing has been built there.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "What has changed since is the rules and the water.",
+    "src": "https://servercountry.org/policy/arizona/"
+   },
+   {
+    "para": 1,
+    "t": "On July 8, 2025 Mesa adopted Ordinance 5957, which defines what a data center is, confines them to general and heavy industrial zoning, requires council approval through a Planned Area Development overlay, and sets standards for screening, parking and noise.",
+    "src": "https://servercountry.org/policy/arizona/"
+   },
+   {
+    "para": 1,
+    "t": "Chandler had gone first, with an ordinance effective January 5, 2023 that limits data centers to planned area development zoning, requires residents to be notified and a baseline sound study taken, mandates annual sound monitoring for five years, and restricts when backup generators can be tested.",
+    "src": "https://servercountry.org/policy/arizona/"
+   },
+   {
+    "para": 1,
+    "t": "Phoenix followed with Ordinance G-7396 on July 2, 2025.",
+    "src": "https://servercountry.org/policy/arizona/"
+   },
+   {
+    "para": 1,
+    "t": "Maricopa County, which holds 40 data centers, has no countywide ordinance and handles them case by case.",
+    "src": "https://servercountry.org/policy/arizona/"
+   },
+   {
+    "para": 2,
+    "t": "On August 31, 2026 Arizona's attorney general, Kris Mayes, asked the legislature and Governor Katie Hobbs to stop approving new data centers altogether.",
+    "src": "https://www.azfamily.com/2026/08/31/ag-mayes-calls-statewide-pause-new-data-center-construction/"
+   },
+   {
+    "para": 2,
+    "t": "\"The only sane thing to do is to pause the approval of new data centers,\" she said.",
+    "src": "https://www.azfamily.com/2026/08/31/ag-mayes-calls-statewide-pause-new-data-center-construction/"
+   },
+   {
+    "para": 2,
+    "t": "\"Data centers are power- and water-intensive, and Arizona is challenged on both fronts right now.\"",
+    "src": "https://www.azfamily.com/2026/08/31/ag-mayes-calls-statewide-pause-new-data-center-construction/"
+   },
+   {
+    "para": 2,
+    "t": "The federal government had cut Arizona's Colorado River allocation by close to 30 percent, and a 2025 analysis by Ceres projected data center water demand across greater Phoenix rising by 450 percent.",
+    "src": "https://www.azfamily.com/2026/08/31/ag-mayes-calls-statewide-pause-new-data-center-construction/"
+   },
+   {
+    "para": 2,
+    "t": "Arizona State University research found that even air cooled facilities raise nearby temperatures by up to four degrees.",
+    "src": "https://www.azfamily.com/2026/08/31/ag-mayes-calls-statewide-pause-new-data-center-construction/"
+   },
+   {
+    "para": 2,
+    "t": "Andrea Clinton of the Arizona Data Center Alliance rejected the idea: \"There's just too much going on in the industry to pause.\"",
+    "src": "https://www.azfamily.com/2026/08/31/ag-mayes-calls-statewide-pause-new-data-center-construction/"
+   },
+   {
+    "para": 3,
+    "t": "Around the same time Pinal County supervisors rejected a large data center rezoning, and residents of Ahwatukee organized against a planned building of a million square feet.",
+    "src": "https://www.azfamily.com/2026/08/31/ag-mayes-calls-statewide-pause-new-data-center-construction/"
+   },
+   {
+    "para": 3,
+    "t": "Amazon has not said publicly what it intends to build on Elliot Road, or when.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://servercountry.org/policy/arizona/",
+   "https://www.azfamily.com/2026/08/31/ag-mayes-calls-statewide-pause-new-data-center-construction/"
+  ],
+  "unconfirmed": "Our record still lists the Elliot Road project as proposed. No capacity figure, building count or timetable for it has been published."
+ },
+ {
+  "id": "amazon-aws-laveen-phoenix",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon Data Services paid $277 million in cash for 220 acres near Loop 202 and Dobbins Road in Laveen, in Maricopa County about 20 minutes west of downtown Phoenix, for a possible data center campus. That works out at more than $1.2 million an acre.",
+    "src": "https://www.abc15.com/news/business/amazon-buys-massive-valley-site-for-potential-data-center"
+   },
+   {
+    "para": 0,
+    "t": "The land sits in an industrial corridor the city wants to build up as a technology hub, and was one of two Phoenix sites Taiwan Semiconductor Manufacturing Company first considered for its factory.",
+    "src": "https://www.abc15.com/news/business/amazon-buys-massive-valley-site-for-potential-data-center"
+   },
+   {
+    "para": 0,
+    "t": "An AWS spokesperson confirmed the purchase and said the company is \"constantly evaluating new locations based on customer demand.\"",
+    "src": "https://www.abc15.com/news/business/amazon-buys-massive-valley-site-for-potential-data-center"
+   },
+   {
+    "para": 1,
+    "t": "The nearest large generator is the 909 megawatt West Phoenix gas plant, about 11 kilometres away, with a 250 megawatt battery site at Sierra Estrella about 14 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "Phoenix is one of four Valley cities, with Chandler, Mesa and Tempe, that have adopted zoning limits on data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.abc15.com/news/business/amazon-buys-massive-valley-site-for-potential-data-center",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "Amazon has confirmed the land purchase but not a data center. No planning application, capacity figure, timeline or city hearing was found, and the coverage of the sale quoted no Phoenix official and no Laveen resident."
+ },
+ {
+  "id": "amazon-aws-gilroy",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Most people in Gilroy found out about the data center when the cranes went up.",
+    "src": "https://padailypost.com/2026/08/11/2-billion-amazon-data-center-approved-without-public-meetings-or-votes/"
+   },
+   {
+    "para": 0,
+    "t": "Amazon is building a $2 billion data center on 56 acres of former farmland beside Highway 101, between Leavesley Road and Gilman Road, in a south Santa Clara County city known for growing garlic.",
+    "src": "https://padailypost.com/2026/08/11/2-billion-amazon-data-center-approved-without-public-meetings-or-votes/"
+   },
+   {
+    "para": 0,
+    "t": "The approval came on July 3, 2023, when the city's community development director, Sharon Goei, signed the project off. There was no public hearing, no Planning Commission review and no City Council vote.",
+    "src": "https://padailypost.com/2026/08/11/2-billion-amazon-data-center-approved-without-public-meetings-or-votes/"
+   },
+   {
+    "para": 0,
+    "t": "The land had been zoned heavy industrial since 1981, so the application qualified for a staff level approval that bypassed the city's public notice framework.",
+    "src": "https://padailypost.com/2026/08/11/2-billion-amazon-data-center-approved-without-public-meetings-or-votes/"
+   },
+   {
+    "para": 0,
+    "t": "Environmental notices went out in 2020 and the public comment window closed quietly in September 2024. Construction cranes appeared in April 2026.",
+    "src": "https://padailypost.com/2026/08/11/2-billion-amazon-data-center-approved-without-public-meetings-or-votes/"
+   },
+   {
+    "para": 1,
+    "t": "The complex will total 438,500 square feet across two buildings and draw 98 megawatts of electricity, which the city puts at enough for 58,800 to 81,760 homes.",
+    "src": "https://padailypost.com/2026/08/11/2-billion-amazon-data-center-approved-without-public-meetings-or-votes/"
+   },
+   {
+    "para": 1,
+    "t": "Amazon says the site will use water for cooling about 3 percent of the year, around 4 million gallons annually, which it compares to the use of 36 households, and says it will recycle all its water by 2030.",
+    "src": "https://padailypost.com/2026/08/11/2-billion-amazon-data-center-approved-without-public-meetings-or-votes/"
+   },
+   {
+    "para": 2,
+    "t": "Resident Ricardo Rangel said of the project: \"I hope we have the necessary resources, like enough electricity and water to supply it.\"",
+    "src": "https://www.nbcbayarea.com/news/local/gilroy-amazon-data-center/4091984/"
+   },
+   {
+    "para": 2,
+    "t": "Landon Sepulveda of the group Silicon Valley Resistance said Amazon had \"not given any confirmation on or denial\" of whether the site would run AI workloads, and raised the water use.",
+    "src": "https://www.nbcbayarea.com/news/local/gilroy-amazon-data-center/4091984/"
+   },
+   {
+    "para": 2,
+    "t": "He said that once there is one, \"there's going to be more, and that's really when the strain on utility bills will just skyrocket.\"",
+    "src": "https://www.nbcbayarea.com/news/local/gilroy-amazon-data-center/4091984/"
+   },
+   {
+    "para": 2,
+    "t": "Amazon says it will use far less water than critics claim, draw on reclaimed water, build its own substation and match the site with carbon free energy for its lifetime.",
+    "src": "https://www.nbcbayarea.com/news/local/gilroy-amazon-data-center/4091984/"
+   },
+   {
+    "para": 3,
+    "t": "Construction began in early May 2026. The city held a community meeting at Gilroy High School on June 3 and the City Council took up its own approval process on June 15.",
+    "src": "https://www.nbcbayarea.com/news/local/gilroy-amazon-data-center/4091984/"
+   },
+   {
+    "para": 3,
+    "t": "On September 14, 2026, the City Council voted unanimously for a citywide moratorium on new data centers, an interim urgency ordinance effective immediately for 45 days and extendable in stages to two years.",
+    "src": "https://www.cityofgilroy.org/m/newsflash/Home/Detail/1331"
+   },
+   {
+    "para": 3,
+    "t": "Mayor Greg Bozzo said: \"Our residents have asked for a greater voice in decisions about major development in Gilroy, and we are listening.\"",
+    "src": "https://www.cityofgilroy.org/m/newsflash/Home/Detail/1331"
+   },
+   {
+    "para": 3,
+    "t": "The moratorium does not touch the Amazon site already under construction. Amazon has filed a pre-application for a second Gilroy facility but no formal application, and any it files now would fall under the moratorium.",
+    "src": "https://www.cityofgilroy.org/m/newsflash/Home/Detail/1331"
+   },
+   {
+    "para": 3,
+    "t": "The Community Development Department and Planning Commission are to review zoning changes covering water use, noise, electrical demand and generator emissions.",
+    "src": "https://www.cityofgilroy.org/m/newsflash/Home/Detail/1331"
+   }
+  ],
+  "sources": [
+   "https://padailypost.com/2026/08/11/2-billion-amazon-data-center-approved-without-public-meetings-or-votes/",
+   "https://www.nbcbayarea.com/news/local/gilroy-amazon-data-center/4091984/",
+   "https://www.cityofgilroy.org/m/newsflash/Home/Detail/1331",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "Our own record lists no moratorium near this site, but Gilroy passed one on September 14, 2026, so the record is out of date. The number of diesel backup generators was reported but could not be confirmed from a source that was reachable. No council member is on record voting against the project, because no vote was ever held."
+ },
+ {
+  "id": "amazon-aws-santa-clara-mission-college",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon is replacing an office building with two data centers at 2305 Mission College Boulevard in Santa Clara.",
+    "src": "https://www.energy.ca.gov/powerplant/backup-generating-system/mission-college-data-center"
+   },
+   {
+    "para": 0,
+    "t": "The two three storey buildings total about 490,000 square feet, built in two phases on the site of a two storey, 358,000 square foot office and research building.",
+    "src": "https://www.energy.ca.gov/powerplant/backup-generating-system/mission-college-data-center"
+   },
+   {
+    "para": 0,
+    "t": "The project was filed with the California Energy Commission on November 25, 2019 and exempted from its jurisdiction under the Small Power Plant Exemption process.",
+    "src": "https://www.energy.ca.gov/powerplant/backup-generating-system/mission-college-data-center"
+   },
+   {
+    "para": 1,
+    "t": "The backup generating system is 78.1 megawatts, made up of 43 diesel generators of 2.5 megawatts each arranged in two yards, plus two 600 kilowatt house generators.",
+    "src": "https://www.energy.ca.gov/powerplant/backup-generating-system/mission-college-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Day to day electricity comes from Silicon Valley Power, the city owned utility, through a new distribution substation built for the site.",
+    "src": "https://www.energy.ca.gov/powerplant/backup-generating-system/mission-college-data-center"
+   },
+   {
+    "para": 2,
+    "t": "The site is dense with data centers already: ten other sites stand within 2 kilometres, including QTS Santa Clara, EdgeCore Santa Clara and Vantage Santa Clara I and III, and there are 25 in the county.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The 148 megawatt Donald Von Raesfeld gas plant is about 2 kilometres away and the 300 megawatt Los Esteros Critical Energy Center about 5 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.energy.ca.gov/powerplant/backup-generating-system/mission-college-data-center",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "The Energy Commission filing names Oppidan, a developer, as the applicant rather than Amazon, and the point at which Amazon took the site on could not be established from a reachable source. No IT capacity figure, water figure, community meeting or opposition was found for this project."
+ },
+ {
+  "id": "amazon-aws-green-new-florence",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Two data center campuses are going up side by side along Interstate 70 between New Florence and High Hill, and they have split Montgomery County.",
+    "src": "https://www.columbiamissourian.com/news/state_news/two-huge-data-center-projects-in-montgomery-county-are-dividing-the-community/article_cce0a3c1-97f9-4ccc-abb4-b7287a32ad1d.html"
+   },
+   {
+    "para": 0,
+    "t": "Amazon's Project Green sits north of the interstate and Google's Project Spade to the south, together covering about 1,900 acres. Project Spade replaced Hoette Farms and Nursery, which moved to Jonesburg.",
+    "src": "https://www.columbiamissourian.com/news/state_news/two-huge-data-center-projects-in-montgomery-county-are-dividing-the-community/article_cce0a3c1-97f9-4ccc-abb4-b7287a32ad1d.html"
+   },
+   {
+    "para": 0,
+    "t": "Both projects were announced in mid-2024. Amazon's administrative review finished in November 2024, the project was presented and approved at a Montgomery County Commission meeting in December 2024, construction permits went in that February and ground was broken on April 1, 2025.",
+    "src": "https://www.columbiamissourian.com/news/state_news/two-huge-data-center-projects-in-montgomery-county-are-dividing-the-community/article_cce0a3c1-97f9-4ccc-abb4-b7287a32ad1d.html"
+   },
+   {
+    "para": 1,
+    "t": "Residents formed a group called Preserve Montgomery County after the announcement and later sued to halt Amazon's project, saying the public notice was insufficient and the consequences were never properly weighed.",
+    "src": "https://www.columbiamissourian.com/news/state_news/two-huge-data-center-projects-in-montgomery-county-are-dividing-the-community/article_cce0a3c1-97f9-4ccc-abb4-b7287a32ad1d.html"
+   },
+   {
+    "para": 1,
+    "t": "Sylvia Kueny, who organises for the group, said that \"when we first heard about [the data center plans], we put a lot of public pressure on the county commissioners.\" Co-founder Tom Westhoff said the commissioners \"were not paying attention to us. They basically ignored us.\"",
+    "src": "https://www.columbiamissourian.com/news/state_news/two-huge-data-center-projects-in-montgomery-county-are-dividing-the-community/article_cce0a3c1-97f9-4ccc-abb4-b7287a32ad1d.html"
+   },
+   {
+    "para": 1,
+    "t": "Co-founder Sabrina Cope said the water study \"was conducted by Amazon in 2020, before data centers had reached the scale of these projects,\" and that no study had been done by an independent source.",
+    "src": "https://www.columbiamissourian.com/news/state_news/two-huge-data-center-projects-in-montgomery-county-are-dividing-the-community/article_cce0a3c1-97f9-4ccc-abb4-b7287a32ad1d.html"
+   },
+   {
+    "para": 1,
+    "t": "Montgomery County resident Brenda Buechele said: \"I feel like we win little battles every day, all day long.\"",
+    "src": "https://www.columbiamissourian.com/news/state_news/two-huge-data-center-projects-in-montgomery-county-are-dividing-the-community/article_cce0a3c1-97f9-4ccc-abb4-b7287a32ad1d.html"
+   },
+   {
+    "para": 2,
+    "t": "The county commission heard public comment on the Amazon project on Monday, January 12, 2026, with Presiding Commissioner Ryan Poston and commissioners Dave Teeter and Doug Lensing present.",
+    "src": "https://www.komu.com/news/midmissourinews/montgomery-county-hears-public-comment-on-amazon-data-center-process/article_d43107d7-3b24-4a17-870c-e760059ea0f8.html"
+   },
+   {
+    "para": 2,
+    "t": "Resident Janette Seper told the commission: \"I have a lot of personal concern with noise, pollution, water usage, electrical usage, and I'm concerned about the data center coming in.\"",
+    "src": "https://www.komu.com/news/midmissourinews/montgomery-county-hears-public-comment-on-amazon-data-center-process/article_d43107d7-3b24-4a17-870c-e760059ea0f8.html"
+   },
+   {
+    "para": 2,
+    "t": "J. Hardin, from High Hill, was more cautious than opposed: \"I think it's reasonable to be concerned about anything new that comes in that a community is not used to. I'm concerned and watching, that's why I'm here.\"",
+    "src": "https://www.komu.com/news/midmissourinews/montgomery-county-hears-public-comment-on-amazon-data-center-process/article_d43107d7-3b24-4a17-870c-e760059ea0f8.html"
+   },
+   {
+    "para": 2,
+    "t": "Commissioner Teeter said of the delay in answering residents: \"We couldn't answer some of the questions until we received accurate information.\"",
+    "src": "https://www.komu.com/news/midmissourinews/montgomery-county-hears-public-comment-on-amazon-data-center-process/article_d43107d7-3b24-4a17-870c-e760059ea0f8.html"
+   },
+   {
+    "para": 3,
+    "t": "Amazon has committed to pay all of its real estate property taxes plus fire and ambulance taxes for the life of the project, and the county's estimate of tax revenue over 25 years ranges from $601 million to $1.9 billion.",
+    "src": "https://www.columbiamissourian.com/news/state_news/two-huge-data-center-projects-in-montgomery-county-are-dividing-the-community/article_cce0a3c1-97f9-4ccc-abb4-b7287a32ad1d.html"
+   },
+   {
+    "para": 3,
+    "t": "On water, Amazon says cooling will draw on water about 6 percent of the time, with air cooling the rest, and that the effect on aquifer recharge will be small.",
+    "src": "https://www.columbiamissourian.com/news/state_news/two-huge-data-center-projects-in-montgomery-county-are-dividing-the-community/article_cce0a3c1-97f9-4ccc-abb4-b7287a32ad1d.html"
+   },
+   {
+    "para": 4,
+    "t": "The grid here is smaller than in most data center country. The site sits in the Associated Electric Cooperative control area, which has a peak load of about 4,770 megawatts, and the 1,190 megawatt Callaway nuclear plant is about 36 kilometres away.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 4,
+    "t": "Google's Project Spade, planned at 1,200 megawatts, is about 4 kilometres away, and a Crusoe data center is under construction about 22 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.columbiamissourian.com/news/state_news/two-huge-data-center-projects-in-montgomery-county-are-dividing-the-community/article_cce0a3c1-97f9-4ccc-abb4-b7287a32ad1d.html",
+   "https://www.komu.com/news/midmissourinews/montgomery-county-hears-public-comment-on-amazon-data-center-process/article_d43107d7-3b24-4a17-870c-e760059ea0f8.html",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "Published figures for the campus size and water use vary and could not be reconciled: reports put the Amazon site at about 1,000 acres with up to 21 buildings and investment of up to $35 billion, and annual water use has been given both as 2.9 million gallons and as up to 50 million gallons. The outcome of the Preserve Montgomery County lawsuit was not established, and no electrical capacity figure for Project Green has been published."
+ },
+ {
+  "id": "amazon-aws-becker-minnesota",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Becker was counting on this one. The city sits beside the Sherco coal plant, which is closing, and the Amazon data center was meant to replace the tax base going with it.",
+    "src": "https://www.americanexperiment.org/amazon-leaves-becker-in-the-lurch-with-loss-of-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "Sherco currently provides about $5 million of the school district's $12 million annual budget.",
+    "src": "https://www.americanexperiment.org/amazon-leaves-becker-in-the-lurch-with-loss-of-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "Amazon owns 348 acres in Becker and had considered up to 600 megawatts of standby generation for the site.",
+    "src": "https://www.stcloudlive.com/news/minnesota/as-hyper-scale-data-centers-boom-minnesotas-projects-are-confronting-regulatory-and-environmental-realities"
+   },
+   {
+    "para": 1,
+    "t": "In May 2025 Amazon suspended the project, saying its timeline for permits and utility agreements had become more uncertain than originally projected.",
+    "src": "https://www.americanexperiment.org/amazon-leaves-becker-in-the-lurch-with-loss-of-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Two things had changed. Minnesota's Public Utilities Commission turned down Amazon's request over backup diesel generation, and in the 2025 legislative session lawmakers repealed the sales tax exemption on electricity for data centers.",
+    "src": "https://www.americanexperiment.org/amazon-leaves-becker-in-the-lurch-with-loss-of-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The same session extended the exemption on hardware and software to 2042 or 35 years, whichever is later, in place of the previous 2042 or 20 years, whichever came first.",
+    "src": "https://www.stcloudlive.com/news/minnesota/as-hyper-scale-data-centers-boom-minnesotas-projects-are-confronting-regulatory-and-environmental-realities"
+   },
+   {
+    "para": 1,
+    "t": "Shortly afterwards Amazon announced data center plans in North Carolina and Pennsylvania instead.",
+    "src": "https://www.americanexperiment.org/amazon-leaves-becker-in-the-lurch-with-loss-of-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "City Administrator Greg Lerud said: \"Amazon did tell the city that they are suspending their activities in Minnesota, which includes the property they own in Becker.\" He added: \"We are certainly disappointed in their decision to not proceed at this time, and hope the company reconsiders their decision as they continue to evaluate future development sites.\"",
+    "src": "https://www.stcloudlive.com/news/minnesota/as-hyper-scale-data-centers-boom-minnesotas-projects-are-confronting-regulatory-and-environmental-realities"
+   },
+   {
+    "para": 2,
+    "t": "Lerud had said the data center's tax income would have nearly filled the hole left by Sherco.",
+    "src": "https://www.americanexperiment.org/amazon-leaves-becker-in-the-lurch-with-loss-of-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Mayor Mark Kolbinger called the cancellation a gut punch, and said the eight year construction period could have brought new residents to the city. He compared the scale to Xcel Energy's arrival in the 1970s, which he said remade the community.",
+    "src": "https://www.americanexperiment.org/amazon-leaves-becker-in-the-lurch-with-loss-of-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "School Superintendent Jeremy Schmidt and city officials had made repeated trips to the Legislature to argue for data center development in Becker.",
+    "src": "https://www.americanexperiment.org/amazon-leaves-becker-in-the-lurch-with-loss-of-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Representative Shane Mekeland, of Clear Lake, estimated the project would have meant 6,000 to 8,000 union construction jobs over a decade, and about 1,900 permanent jobs counting Microsoft's nearby plans.",
+    "src": "https://www.stcloudlive.com/news/minnesota/as-hyper-scale-data-centers-boom-minnesotas-projects-are-confronting-regulatory-and-environmental-realities"
+   },
+   {
+    "para": 2,
+    "t": "Senator Andrew Mathews, of Princeton, said the Sherco closure and the loss of the data center projects together create economic hardship for the area.",
+    "src": "https://www.stcloudlive.com/news/minnesota/as-hyper-scale-data-centers-boom-minnesotas-projects-are-confronting-regulatory-and-environmental-realities"
+   },
+   {
+    "para": 3,
+    "t": "The 1,556 megawatt Sherburne County coal plant sits about 2 kilometres from the site and the 617 megawatt Monticello nuclear plant about 7 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Two other data center projects nearby have also stalled: a Swervo development at Elk River, about 24 kilometres away, is recorded as blocked, and the Irongate project as suspended. Wright County has a moratorium in force.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.americanexperiment.org/amazon-leaves-becker-in-the-lurch-with-loss-of-data-center/",
+   "https://www.stcloudlive.com/news/minnesota/as-hyper-scale-data-centers-boom-minnesotas-projects-are-confronting-regulatory-and-environmental-realities",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "The Center of the American Experiment report carrying Amazon's explanation for the suspension could not be opened on this pass, so the company's wording is paraphrased rather than quoted."
+ }
+]

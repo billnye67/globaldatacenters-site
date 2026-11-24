@@ -1,0 +1,744 @@
+[
+ {
+  "id": "ft-1077",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Equinix runs an operating data center at 6906 South 204th Street in Kent, in King County, Washington.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The record holds it as a colocation site with no capacity figure, no acreage, no date and no sources at all.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Nobody is fighting it and nothing is being decided about it.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 1,
+    "t": "What has changed is the ground around it.",
+    "src": "https://council.seattle.gov/2026/06/09/city-council-passes-emergency-data-center-moratorium-and-policy-framework/"
+   },
+   {
+    "para": 1,
+    "t": "On June 9, 2026 the Seattle city council voted unanimously for an emergency moratorium on new data centers drawing more than 20 megavolt-amperes, extendable by six months, with a policy framework directing city departments to study the effects on grid capacity, water, utility rates, land use, jobs and public health.",
+    "src": "https://council.seattle.gov/2026/06/09/city-council-passes-emergency-data-center-moratorium-and-policy-framework/"
+   },
+   {
+    "para": 1,
+    "t": "Councilmember Eddie Lin, who led it, said: \"Large AI data centers are popping up across the country, driving up utility costs for residents and small businesses while creating air, water, and noise pollution.\"",
+    "src": "https://council.seattle.gov/2026/06/09/city-council-passes-emergency-data-center-moratorium-and-policy-framework/"
+   },
+   {
+    "para": 1,
+    "t": "Councilmember Debora Juarez put the limits of it plainly: \"The passing of today's moratorium does not stop AI or data centers. It does, however, pause to hold those accountable.\"",
+    "src": "https://council.seattle.gov/2026/06/09/city-council-passes-emergency-data-center-moratorium-and-policy-framework/"
+   },
+   {
+    "para": 1,
+    "t": "On July 7, 2026 Federal Way followed with a twelve month moratorium of its own, set much lower, at one megawatt or 4,000 square feet.",
+    "src": "https://www.auburn-reporter.com/2026/07/08/federal-way-passes-1-year-moratorium-on-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "Council President Susan Honda said the point was time: \"We're doing this the right way by giving staff 12 months and the city council 12 months to study this and come up with the right answer for the city.\"",
+    "src": "https://www.auburn-reporter.com/2026/07/08/federal-way-passes-1-year-moratorium-on-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "Burien has done the same.",
+    "src": "https://www.auburn-reporter.com/2026/07/08/federal-way-passes-1-year-moratorium-on-data-centers/"
+   },
+   {
+    "para": 2,
+    "t": "The record holds those three moratoriums as in force near this site, Burien's dated June 30, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Kent itself has not adopted one.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Four data center sites are counted in King County, and the nearest others are Sabey's Intergate campus 8 kilometres away, the proposed 20 megawatt Starbucks site 19 kilometres and the Westin Building 22 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Generation is distant and small: the nearest plants on record are two gas units at Frederickson, 246 and 134 megawatts, 38 and 39 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://council.seattle.gov/2026/06/09/city-council-passes-emergency-data-center-moratorium-and-policy-framework/",
+   "https://www.auburn-reporter.com/2026/07/08/federal-way-passes-1-year-moratorium-on-data-centers/"
+  ],
+  "unconfirmed": "Our record carries no capacity, size, opening date, tenant or source for this facility. Searches on the address return it as Equinix SE4, but Equinix's own site page and its published technical sheet both refused requests, so nothing about its size or power draw is carried here. No local reporting on this building was found. The Seattle release does not give the length of the emergency moratorium, only that it can be extended by six months, so no length is stated above."
+ },
+ {
+  "id": "ft-1078",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "TierPoint runs a colocation data center at 23017 East Mission Avenue in Liberty Lake, east of Spokane in Spokane County, which it calls SPO03.",
+    "src": "https://www.tierpoint.com/data-centers/washington/spokane/"
+   },
+   {
+    "para": 0,
+    "t": "It is small: a little over 16,500 square feet in total with about 9,900 square feet of raised floor, backed by two 2.5 megawatt generators carrying at least 48 hours of fuel.",
+    "src": "https://www.tierpoint.com/data-centers/washington/spokane/"
+   },
+   {
+    "para": 0,
+    "t": "It is carrier neutral and sells colocation, private cloud, disaster recovery and remote hands to businesses.",
+    "src": "https://www.tierpoint.com/data-centers/washington/spokane/"
+   },
+   {
+    "para": 0,
+    "t": "The entry marks it operating and holds no capacity figure, no date and no sources.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Nothing is proposed here and nobody is objecting.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 1,
+    "t": "The reason a resident might land on this page is the rule change around it.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Spokane adopted a moratorium on data centers on June 23, 2026, and Kootenai County across the Idaho line brought in zoning limits on March 2, 2025.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Neither applies to a building already standing, and this is the only data center site recorded in Spokane County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The generation near it is gas: the 210 megawatt Rathdrum Power plant is 18 kilometres away and a second Rathdrum unit of 132 megawatts 23 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The Bonneville Power Administration control area this site sits in peaks at 9,418 megawatts, which is worth holding in mind when reading about gigawatt proposals elsewhere in the state.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [
+   "https://www.tierpoint.com/data-centers/washington/spokane/"
+  ],
+  "unconfirmed": "The power capacity, the year it was built and the number of customers are not published; the generator rating above is backup, not load. TierPoint also runs a second, larger Liberty Lake site at 23403 East Mission Avenue, SPO01/02, at over 32,000 square feet, and our record holds only this one. No local reporting on either building was found."
+ },
+ {
+  "id": "ft-1079",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The building at 17300 Highway 99 in Lynnwood, in Snohomish County, is an operating colocation data center run by Csquare, which calls it SEA3.",
+    "src": "https://www.csquare.com/data-centers/seattle"
+   },
+   {
+    "para": 0,
+    "t": "The company puts it at 21,371 square feet of raised floor with 17.3 megawatts of utility power and nine service providers on site, and says the location is strategic for aviation and manufacturing because Boeing's Everett plant and other aerospace companies are close.",
+    "src": "https://www.csquare.com/data-centers/seattle"
+   },
+   {
+    "para": 0,
+    "t": "The entry marks it operating and carries no capacity figure, no date and no sources.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "This is an old building in a county that has turned against new ones.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Arlington banned data centers outright on June 15, 2026 and Marysville adopted a moratorium on July 13.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "South of here, Seattle's council passed an emergency moratorium on June 9, 2026 covering anything over 20 megavolt-amperes, extendable by six months, and directed departments to study grid capacity, water, rates, land use, jobs and health before deciding anything permanent.",
+    "src": "https://council.seattle.gov/2026/06/09/city-council-passes-emergency-data-center-moratorium-and-policy-framework/"
+   },
+   {
+    "para": 1,
+    "t": "Federal Way followed on July 7 and Burien on June 30.",
+    "src": "https://www.auburn-reporter.com/2026/07/08/federal-way-passes-1-year-moratorium-on-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "A 17.3 megawatt building would sit just under Seattle's threshold and well over Federal Way's.",
+    "src": "https://www.auburn-reporter.com/2026/07/08/federal-way-passes-1-year-moratorium-on-data-centers/"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Snohomish County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The nearest others are the Westin Building 25 kilometres south, the proposed Starbucks site 29 kilometres and Sabey's Intergate campus 39 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The closest generation is the 96 megawatt H M Jackson hydroelectric plant, 37 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.csquare.com/data-centers/seattle",
+   "https://council.seattle.gov/2026/06/09/city-council-passes-emergency-data-center-moratorium-and-policy-framework/",
+   "https://www.auburn-reporter.com/2026/07/08/federal-way-passes-1-year-moratorium-on-data-centers/"
+  ],
+  "unconfirmed": "The figures here come from the operator's own marketing page, which is the only description of the building we could find; there is no independent account of its load, its water use or its age. Our record holds no sources for it. The site trades under several names, Csquare, Centersquare and formerly Evoque, and our record uses only the first."
+ },
+ {
+  "id": "ft-1763416807013-1905",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The site at 7906 Randolph Road NE in Moses Lake, in Grant County, used to mine bitcoin.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Keel Infrastructure, which was called BitFarms until it renamed itself, shut the cryptocurrency operation there in April 2026 and is rebuilding it as the Grant Node Data Center for high performance computing and AI.",
+    "src": "https://www.yoursourceone.com/columbia_basin/keel-advances-moses-lake-data-center-as-aws-speculation-grows/article_357f67e7-3724-4bcb-87af-7d64150875de.html"
+   },
+   {
+    "para": 0,
+    "t": "The plan on file is demolition of the old site and a new single storey data center with utility yards, parking and stormwater works.",
+    "src": "https://www.yoursourceone.com/columbia_basin/keel-advances-moses-lake-data-center-as-aws-speculation-grows/article_357f67e7-3724-4bcb-87af-7d64150875de.html"
+   },
+   {
+    "para": 0,
+    "t": "Keel puts the capacity at 18 megawatts, built for high density equipment with advanced liquid cooling, which is the figure the record carries.",
+    "src": "https://www.yoursourceone.com/columbia_basin/keel-advances-moses-lake-data-center-as-aws-speculation-grows/article_357f67e7-3724-4bcb-87af-7d64150875de.html"
+   },
+   {
+    "para": 1,
+    "t": "The paperwork is the ordinary kind.",
+    "src": "https://www.yoursourceone.com/columbia_basin/keel-advances-moses-lake-data-center-as-aws-speculation-grows/article_357f67e7-3724-4bcb-87af-7d64150875de.html"
+   },
+   {
+    "para": 1,
+    "t": "The Washington Department of Ecology covered the work under its construction stormwater general permit from June 1, 2026, over six disturbed acres, with monthly monitoring reports while building goes on.",
+    "src": "https://www.yoursourceone.com/columbia_basin/keel-advances-moses-lake-data-center-as-aws-speculation-grows/article_357f67e7-3724-4bcb-87af-7d64150875de.html"
+   },
+   {
+    "para": 1,
+    "t": "The record also carries six acres.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "The open question is who will use it.",
+    "src": "https://www.yoursourceone.com/columbia_basin/keel-advances-moses-lake-data-center-as-aws-speculation-grows/article_357f67e7-3724-4bcb-87af-7d64150875de.html"
+   },
+   {
+    "para": 2,
+    "t": "In June 2026 an Amazon Data Services advertisement appeared for a data center manager job based in Moses Lake, and Keel acknowledged only that the listing existed.",
+    "src": "https://www.yoursourceone.com/columbia_basin/keel-advances-moses-lake-data-center-as-aws-speculation-grows/article_357f67e7-3724-4bcb-87af-7d64150875de.html"
+   },
+   {
+    "para": 2,
+    "t": "No partnership has been announced.",
+    "src": "https://www.yoursourceone.com/columbia_basin/keel-advances-moses-lake-data-center-as-aws-speculation-grows/article_357f67e7-3724-4bcb-87af-7d64150875de.html"
+   },
+   {
+    "para": 2,
+    "t": "As of August 2026 Keel said environmental permits were still progressing at Moses Lake and two other priority sites, and that prospective tenants were in negotiation, without naming one for this building.",
+    "src": "https://www.yoursourceone.com/columbia_basin/keel-advances-moses-lake-data-center-as-aws-speculation-grows/article_357f67e7-3724-4bcb-87af-7d64150875de.html"
+   },
+   {
+    "para": 3,
+    "t": "Grant County already holds six data center sites, more than any other county here.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "Vantage and Sabey both have campuses at Quincy, 40 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The power here is water: the 1,220 megawatt Wanapum dam and the 503 megawatt Rock Island dam are both about 62 kilometres off, and the 92 megawatt Summer Falls plant 34 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "No moratorium applies to this site on record.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.yoursourceone.com/columbia_basin/keel-advances-moses-lake-data-center-as-aws-speculation-grows/article_357f67e7-3724-4bcb-87af-7d64150875de.html"
+  ],
+  "unconfirmed": "No tenant is confirmed and the AWS connection rests on a job advertisement. The report gives its months without years, so April, June 1 and June are read against its own August 2026 dateline. Completion dates reported elsewhere, variously December 2026 and commissioning in 2027, appear in trade press that would not open and are not carried here. Water use for the rebuilt site was not established, and no local objection to the conversion was found."
+ },
+ {
+  "id": "ft-1082",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The state's own data center is inside 1500 Jefferson, on the east side of the Capitol Campus in Olympia, in Thurston County.",
+    "src": "https://wrightrunstad.com/properties/1500-jefferson/"
+   },
+   {
+    "para": 0,
+    "t": "The building opened in July 2011, runs to 245,000 square feet, and houses several state agencies along with Washington Technology Solutions, which manages the data center within it.",
+    "src": "https://wrightrunstad.com/properties/1500-jefferson/"
+   },
+   {
+    "para": 0,
+    "t": "The office shell was certified LEED Platinum in 2014.",
+    "src": "https://wrightrunstad.com/properties/1500-jefferson/"
+   },
+   {
+    "para": 0,
+    "t": "The site is marked operating, with no capacity figure, no acreage and no sources.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "It is government computing for government agencies, and no opposition to it has been reported.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 1,
+    "t": "It is the only data center site recorded in Thurston County, and there is no other within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Nothing is proposed here, but the rules around the state have moved.",
+    "src": "https://council.seattle.gov/2026/06/09/city-council-passes-emergency-data-center-moratorium-and-policy-framework/"
+   },
+   {
+    "para": 2,
+    "t": "Seattle's council passed an emergency moratorium on new data centers over 20 megavolt-amperes on June 9, 2026, and ordered a study of grid capacity, water, utility rates, land use, jobs and public health before deciding what to allow.",
+    "src": "https://council.seattle.gov/2026/06/09/city-council-passes-emergency-data-center-moratorium-and-policy-framework/"
+   },
+   {
+    "para": 2,
+    "t": "Federal Way, the nearest place to Olympia with a rule of its own, passed a twelve month moratorium on July 7, 2026 covering anything over one megawatt or 4,000 square feet.",
+    "src": "https://www.auburn-reporter.com/2026/07/08/federal-way-passes-1-year-moratorium-on-data-centers/"
+   },
+   {
+    "para": 2,
+    "t": "Councilmember Martin Moore said there were \"a lot of questionable aspects relating to data centers that I'm personally not comfortable with.\"",
+    "src": "https://www.auburn-reporter.com/2026/07/08/federal-way-passes-1-year-moratorium-on-data-centers/"
+   },
+   {
+    "para": 3,
+    "t": "The generation nearest Olympia is the 670 megawatt Transalta Centralia coal plant, 31 kilometres away, and the 137 megawatt Skookumchuck wind farm at 27 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://wrightrunstad.com/properties/1500-jefferson/",
+   "https://council.seattle.gov/2026/06/09/city-council-passes-emergency-data-center-moratorium-and-policy-framework/",
+   "https://www.auburn-reporter.com/2026/07/08/federal-way-passes-1-year-moratorium-on-data-centers/"
+  ],
+  "unconfirmed": "No power capacity, floor area or water figure for the data center itself has been published, only for the building around it. Our record holds no sources. Whether the state is expanding the facility, and what it spends running it, were not established."
+ },
+ {
+  "id": "ft-1083",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "North Olympic Peninsula Data Centers is an internet service provider in Port Hadlock, in Jefferson County, and the name is a good deal bigger than the thing.",
+    "src": "https://www.kpud.org/resource-dir/nop-data-centers/"
+   },
+   {
+    "para": 0,
+    "t": "The Kitsap Public Utility District lists it at 216 West Patison Street, under both its business and its residential internet service provider directories.",
+    "src": "https://www.kpud.org/resource-dir/nop-data-centers/"
+   },
+   {
+    "para": 0,
+    "t": "The entry puts it three doors along, at 213 West Patison Street.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The entry marks it operating and carries no capacity, no acreage, no date and no sources.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Nothing is proposed here, nobody is objecting, and the utility's directory entry gives no infrastructure detail at all.",
+    "src": "https://www.kpud.org/resource-dir/nop-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "A resident searching for a data center in Jefferson County will find a company selling connections, not a campus.",
+    "src": "https://www.kpud.org/resource-dir/nop-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "It is the only entry recorded in the county and there is no other within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The rules going up nearby are for other places.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Across the water, Marysville adopted a moratorium on July 13, 2026, La Conner on July 29 and Mount Vernon on August 14.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generation is the 120 megawatt plant at the HF Sinclair Puget Sound refinery, 51 kilometres away, and the 280 megawatt Fredonia gas plant 53 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.kpud.org/resource-dir/nop-data-centers/"
+  ],
+  "unconfirmed": "We could not establish the size of the facility, its power draw, how many racks it holds or whether it has a building of its own rather than space in one. Company listings put its staff at about three people, but those are directory aggregators we did not treat as sources. Our record's street number differs from the utility district's by three."
+ },
+ {
+  "id": "ft-1765226206392-3158",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Atlas Agro, a fertilizer company, wants to build a data center beside the nitrate plant it is planning at Richland, in Benton County.",
+    "src": "https://www.tricitiesbusinessnews.com/articles/atlas-agro-fertilizer-plant-data-center"
+   },
+   {
+    "para": 0,
+    "t": "Atlas Agro is proposing to buy about 275 acres in the Northwest Advanced Clean Energy Park at Richland, north of Horn Rapids Road and across from Framatome, for just under $24 million.",
+    "src": "https://www.tricitiesbusinessnews.com/articles/atlas-agro-fertilizer-plant-data-center"
+   },
+   {
+    "para": 0,
+    "t": "It would put five buildings of 500,000 square feet each on the land at a cost of $500 million, employing more than 100 people, with construction starting in 2027.",
+    "src": "https://www.tricitiesbusinessnews.com/articles/atlas-agro-fertilizer-plant-data-center"
+   },
+   {
+    "para": 0,
+    "t": "The record carries the 275 acres and the $24 million, and no capacity figure.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The fertilizer plant is the bigger half.",
+    "src": "https://www.tricitiesbusinessnews.com/articles/atlas-agro-fertilizer-plant-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Atlas Agro's $1 billion nitrate plant on 150 acres at the Horn Rapids Industrial Park would make 700,000 tons a year and need 320 megawatts, and it is meant to employ 200 people.",
+    "src": "https://www.tricitiesbusinessnews.com/articles/atlas-agro-fertilizer-plant-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Chief executive Petter Ostbo named the constraint on both: \"It's the power that's the limiting factor, both for the fertilizer plant and for the potential data center.\"",
+    "src": "https://www.tricitiesbusinessnews.com/articles/atlas-agro-fertilizer-plant-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Both wait on Bonneville Power Administration grid upgrades expected within three years.",
+    "src": "https://www.tricitiesbusinessnews.com/articles/atlas-agro-fertilizer-plant-data-center"
+   },
+   {
+    "para": 2,
+    "t": "Seven of the eight members present at the Richland economic development committee's October 20 meeting voted to support a recommendation to the council, and the agreement goes to the full council later.",
+    "src": "https://www.tricitiesbusinessnews.com/articles/atlas-agro-fertilizer-plant-data-center"
+   },
+   {
+    "para": 3,
+    "t": "The 1,151 megawatt Columbia Generating Station, the state's only nuclear plant, is 13 kilometres away, and the 513 megawatt Ice Harbor dam 35 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "A proposed AWS site at Wallula Gap is 38 kilometres off, and Pasco adopted a moratorium on data centers on July 21, 2026.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Benton County.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://www.tricitiesbusinessnews.com/articles/atlas-agro-fertilizer-plant-data-center"
+  ],
+  "unconfirmed": "The data center's own power draw is not published, which matters because power is what the company says limits it; our record holds no figure. No tenant is named. Water and cooling arrangements were not established. The report gives no year for the October 20 committee meeting, and its sentence on the vote, that seven of the eight members present voted unanimously, does not make clear whether the eighth abstained or was counted as absent. Atlas Agro has not built anything before, which local commentary has raised, but no company response to that point was found."
+ },
+ {
+  "id": "ft-1782349490474-2867",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Plans filed with the Seattle Department of Construction and Inspections would turn about 45,600 square feet of the Starbucks Center at 2401 Utah Avenue South, in Sodo, in King County, into a data center.",
+    "src": "https://www.connectcre.com/stories/small-data-center-proposed-at-sodo-starbucks-hq-building/"
+   },
+   {
+    "para": 0,
+    "t": "The project would be developed by Colossus Data Center Advisors, spanning parts of two buildings on the campus and holding servers, storage and networking equipment.",
+    "src": "https://www.connectcre.com/stories/small-data-center-proposed-at-sodo-starbucks-hq-building/"
+   },
+   {
+    "para": 0,
+    "t": "Power and cooling plant would go in a parking area on the west side, removing about 29 surface spaces.",
+    "src": "https://www.connectcre.com/stories/small-data-center-proposed-at-sodo-starbucks-hq-building/"
+   },
+   {
+    "para": 0,
+    "t": "It would operate below the 20 megavolt-ampere threshold of Seattle's new restrictions on large data centers.",
+    "src": "https://www.connectcre.com/stories/small-data-center-proposed-at-sodo-starbucks-hq-building/"
+   },
+   {
+    "para": 1,
+    "t": "That threshold was set in June 2026.",
+    "src": "https://council.seattle.gov/2026/06/09/city-council-passes-emergency-data-center-moratorium-and-policy-framework/"
+   },
+   {
+    "para": 1,
+    "t": "On June 9, 2026 the city council voted unanimously for an emergency moratorium, extendable by six months, on data centers over 20 megavolt-amperes, and told departments to study the effects on grid capacity, water, utility rates, land use, jobs and public health.",
+    "src": "https://council.seattle.gov/2026/06/09/city-council-passes-emergency-data-center-moratorium-and-policy-framework/"
+   },
+   {
+    "para": 1,
+    "t": "Councilmember Eddie Lin said the concern was cost: \"Large AI data centers are popping up across the country, driving up utility costs for residents and small businesses while creating air, water, and noise pollution.\"",
+    "src": "https://council.seattle.gov/2026/06/09/city-council-passes-emergency-data-center-moratorium-and-policy-framework/"
+   },
+   {
+    "para": 1,
+    "t": "Council President Joy Hollingsworth said the passage \"is about doing our homework before making long-term decisions that could impact Seattle's infrastructure.\"",
+    "src": "https://council.seattle.gov/2026/06/09/city-council-passes-emergency-data-center-moratorium-and-policy-framework/"
+   },
+   {
+    "para": 1,
+    "t": "A proposal under the line can proceed while the study runs.",
+    "src": "https://council.seattle.gov/2026/06/09/city-council-passes-emergency-data-center-moratorium-and-policy-framework/"
+   },
+   {
+    "para": 2,
+    "t": "The record carries the project at 20 megawatts and marks it proposed.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "The Westin Building is 4 kilometres away, Sabey's Intergate campus 11 kilometres and the operating Equinix site at Kent 19 kilometres; four data center sites are counted in King County.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Around the city, Burien adopted a moratorium on June 30, 2026, Federal Way on July 7 and Marysville on July 13.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generation of any size is 53 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.connectcre.com/stories/small-data-center-proposed-at-sodo-starbucks-hq-building/",
+   "https://council.seattle.gov/2026/06/09/city-council-passes-emergency-data-center-moratorium-and-policy-framework/"
+  ],
+  "unconfirmed": "No tenant has been named and Colossus is an advisory firm rather than an announced operator. The report names no filing date and no applicant, so neither is given above. The space is reported as a former Amazon Fresh store and distribution area, which could not be confirmed in a source that would open. No hearing date, decision or opposition has been reported, and water use is not stated."
+ },
+ {
+  "id": "ft-1772675606659-3393",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Beaver Dam, in Dodge County, has two data centers coming, and this is the small one.",
+    "src": "https://wiscnews.com/news/community/bdc/article_c8f9d650-e768-4311-9fb0-e2ce709c7147.html"
+   },
+   {
+    "para": 0,
+    "t": "On Monday, April 6, 2026 the common council voted 11 to 3 to sell city land at the corner of Highway 151 and Hemlock Road to Oppidan at $40,000 an acre.",
+    "src": "https://wiscnews.com/news/community/bdc/article_c8f9d650-e768-4311-9fb0-e2ce709c7147.html"
+   },
+   {
+    "para": 0,
+    "t": "Aldermen Frank Ferree, Elwood Flaherty and Jeff Bierman voted against.",
+    "src": "https://wiscnews.com/news/community/bdc/article_c8f9d650-e768-4311-9fb0-e2ce709c7147.html"
+   },
+   {
+    "para": 0,
+    "t": "Oppidan's site would include a 90,000 square foot building, between the Generac and Meta sites.",
+    "src": "https://wiscnews.com/news/community/bdc/article_c8f9d650-e768-4311-9fb0-e2ce709c7147.html"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 13 acres, no capacity figure, and files the project under the name Edge Data Center.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "For scale, Meta is building a far larger campus north of Beaver Dam, between Highway A and Hemlock Road, about five kilometres from this site.",
+    "src": "https://wiscnews.com/news/community/bdc/article_c8f9d650-e768-4311-9fb0-e2ce709c7147.html"
+   },
+   {
+    "para": 2,
+    "t": "The chamber filled up for the vote.",
+    "src": "https://wiscnews.com/news/community/bdc/article_c8f9d650-e768-4311-9fb0-e2ce709c7147.html"
+   },
+   {
+    "para": 2,
+    "t": "Alderman Zach Zopp said about half the people who came had no concern about the data centers and wanted to talk about the middle school, lowering taxes or the new fire station, and that the other half were supportive.",
+    "src": "https://wiscnews.com/news/community/bdc/article_c8f9d650-e768-4311-9fb0-e2ce709c7147.html"
+   },
+   {
+    "para": 2,
+    "t": "Residents raised water, power and land.",
+    "src": "https://wiscnews.com/news/community/bdc/article_c8f9d650-e768-4311-9fb0-e2ce709c7147.html"
+   },
+   {
+    "para": 2,
+    "t": "Former alderman Kara Nelson said facilities like these need their effects managed carefully once approved.",
+    "src": "https://wiscnews.com/news/community/bdc/article_c8f9d650-e768-4311-9fb0-e2ce709c7147.html"
+   },
+   {
+    "para": 3,
+    "t": "Dodge County adopted a moratorium on data centers on June 19, 2026, two months after the council sold the land.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "Jefferson County adopted one on May 19 and another on August 11, Hampden on May 26, Cottage Grove on July 20 and Madison back on January 13.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The 50 megawatt Beaver Dam Solar plant is two kilometres away, and the wind farms at Glacier Hills, Forward and Butler Ridge are all about 28 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://wiscnews.com/news/community/bdc/article_c8f9d650-e768-4311-9fb0-e2ce709c7147.html"
+  ],
+  "unconfirmed": "No megawatt figure, water demand or tenant has been published for the Oppidan building and our record holds none. The Beaver Dam Daily Citizen report behind this page would not return consistent text on repeated requests, giving a different acreage and sale price each time, so the total price, the exact acreage sold and Meta's cost and footprint are not carried here; our record's 13 acres is given as our record's. The spelling of the three aldermen who voted against is left as our record had it and was not confirmed. \"Edge data center\" is our record's name for the project, not a phrase the report uses. Construction and opening dates reported in trade press, summer 2026 and 2028, could not be confirmed. Whether the city attached conditions to the land sale was not established."
+ },
+ {
+  "id": "ft-1773463314386-4370",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Cornmaze is the internal name for a data center campus of four buildings on more than 430 acres straddling the towns of Turtle and Beloit in Rock County, over 2 million square feet in all, which the developer compared to Soldier Field and Wrigley Field put together.",
+    "src": "https://www.rockfordnewsfirst.com/2026/06/23/data-center-developer-sheds-light-1-billion-beloit-project-raising-community-concern/"
+   },
+   {
+    "para": 0,
+    "t": "The developer is Panattoni, of Irvine, California, and the cost is put at $1 billion.",
+    "src": "https://www.rockfordnewsfirst.com/2026/06/23/data-center-developer-sheds-light-1-billion-beloit-project-raising-community-concern/"
+   },
+   {
+    "para": 0,
+    "t": "At its presentation on June 22, 2026 Panattoni said only that the end user will be an American company, and that specifics were not yet shareable.",
+    "src": "https://www.rockfordnewsfirst.com/2026/06/23/data-center-developer-sheds-light-1-billion-beloit-project-raising-community-concern/"
+   },
+   {
+    "para": 1,
+    "t": "The Town of Beloit signed a pre-development agreement dated July 15, 2025 with Cambrin LLC, a Delaware company registered in Wisconsin the year before, whose president is listed as Pamela Gregorski.",
+    "src": "https://www.wpr.org/news/town-of-beloit-pre-development-agreement-develop-data-center"
+   },
+   {
+    "para": 1,
+    "t": "The land is an existing gravel pit on the northeast side of town.",
+    "src": "https://www.wpr.org/news/town-of-beloit-pre-development-agreement-develop-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Filings Cambrin made with the Department of Natural Resources list a name and email address also used in documents filed by Degas, Meta's initial operating entity for its Beaver Dam data center, which is why Meta's name is attached, but Meta has not confirmed it.",
+    "src": "https://www.wpr.org/news/town-of-beloit-pre-development-agreement-develop-data-center"
+   },
+   {
+    "para": 2,
+    "t": "The agreement commits very little.",
+    "src": "https://www.wpr.org/news/town-of-beloit-pre-development-agreement-develop-data-center"
+   },
+   {
+    "para": 2,
+    "t": "It lets the developer apply to rezone, negotiate a development agreement and explore a tax increment financing district, and it requires Cambrin to reimburse the town up to $175,000 in costs so the town is not out of pocket if nothing happens.",
+    "src": "https://www.wpr.org/news/town-of-beloit-pre-development-agreement-develop-data-center"
+   },
+   {
+    "para": 2,
+    "t": "Town administrator John Malizio said the developer is in discussions with a land owner to buy the property and that in the meantime \"there isn't anything going on besides a sewer and water study.\"",
+    "src": "https://www.wpr.org/news/town-of-beloit-pre-development-agreement-develop-data-center"
+   },
+   {
+    "para": 2,
+    "t": "No application, site plan or proposal had been put to town staff or elected officials, and the land purchase was not complete.",
+    "src": "https://www.wpr.org/news/town-of-beloit-pre-development-agreement-develop-data-center"
+   },
+   {
+    "para": 2,
+    "t": "If it advances there will be public hearings where residents can have their say.",
+    "src": "https://www.wpr.org/news/town-of-beloit-pre-development-agreement-develop-data-center"
+   },
+   {
+    "para": 3,
+    "t": "The project is marked proposed across 430 acres, with no capacity figure and Meta named as the developer flatly, which is further than the reporting goes.",
+    "src": "data:developer"
+   },
+   {
+    "para": 3,
+    "t": "The Town of Beloit adopted a moratorium on data centers on August 18, 2026, Green County on July 15 and Jefferson County on May 19 and again on August 11.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The Janesville proposal at the former GM plant is nine kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The Riverside and West Riverside gas plants, 530 and 697 megawatts, are three and four kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The numbers Panattoni did give were economic ones.",
+    "src": "https://www.rockfordnewsfirst.com/2026/06/23/data-center-developer-sheds-light-1-billion-beloit-project-raising-community-concern/"
+   },
+   {
+    "para": 3,
+    "t": "Applied Analysis, working for the developer, put economic output at $636.7 million over a construction period of five to seven years and property taxes at $6.5 million a year, which would make the campus Rock County's largest principal taxpayer, ahead of Amazon by nearly double.",
+    "src": "https://www.rockfordnewsfirst.com/2026/06/23/data-center-developer-sheds-light-1-billion-beloit-project-raising-community-concern/"
+   },
+   {
+    "para": 3,
+    "t": "On power it said demand could run to the hundreds of megawatts, and on water that a closed loop cooling system could need half as much as current facilities, without saying what that half would be.",
+    "src": "https://www.rockfordnewsfirst.com/2026/06/23/data-center-developer-sheds-light-1-billion-beloit-project-raising-community-concern/"
+   },
+   {
+    "para": 4,
+    "t": "About fifty people protested outside.",
+    "src": "https://www.rockfordnewsfirst.com/2026/06/23/data-center-developer-sheds-light-1-billion-beloit-project-raising-community-concern/"
+   },
+   {
+    "para": 4,
+    "t": "Philip Gorman questioned whether the private lunch meeting had breached Wisconsin's open meetings law, and said that whether you are invited \"is really more of a sign of not whether you're a community leader, but whether you're supportive of data centers.\"",
+    "src": "https://www.rockfordnewsfirst.com/2026/06/23/data-center-developer-sheds-light-1-billion-beloit-project-raising-community-concern/"
+   }
+  ],
+  "sources": [
+   "https://www.wpr.org/news/town-of-beloit-pre-development-agreement-develop-data-center",
+   "https://www.rockfordnewsfirst.com/2026/06/23/data-center-developer-sheds-light-1-billion-beloit-project-raising-community-concern/"
+  ],
+  "unconfirmed": "Our record held this ground twice, once filed under Meta and once as Project Cornmaze, at the same coordinates; they have been merged. The two name different developers, Cambrin LLC and Panattoni, and neither has been shown to be wrong: Cambrin signed the pre-development agreement and Panattoni gave the June 2026 presentation. Whether Meta is the end user is not confirmed by anyone on the record; the link is a shared name and email address in Department of Natural Resources filings, and Panattoni will not name the customer. No megawatt figure, water withdrawal or interconnection request has been published. The Data Center Dynamics report our record cites, on Panattoni seeking to claw back money from the town of Turtle, could not be fetched."
+ }
+]

@@ -1,0 +1,579 @@
+[
+ {
+  "id": "gemini-google-fredericia",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Danish data centre stands at Prinsessens Kvarter 10 in Fredericia.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The company announced it in 2018 and started running it in 2020, at a building cost put at about 600 million euro, and it has used renewable power since it opened, backed by Danish solar parks totalling 160 megawatts.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "The question people in Fredericia keep asking is why none of the heat reaches their homes.",
+    "src": "https://frdb.dk/erhverv/laeser-undrer-sig-hvorfor-faar-vi-ingen-varme-fra-googles-datacenter"
+   },
+   {
+    "para": 1,
+    "t": "On July 3, 2022 the local paper Fredericia Dagblad put that to Google on behalf of a reader who could not understand why a planned hydrogen plant at the refinery would be able to supply the area's roughly 1,300 district heating customers and the data centre could not.",
+    "src": "https://frdb.dk/erhverv/laeser-undrer-sig-hvorfor-faar-vi-ingen-varme-fra-googles-datacenter"
+   },
+   {
+    "para": 1,
+    "t": "Google's answer was that the waste heat from its servers is already reused to warm the offices and other buildings on its own site, so there is no surplus to give away.",
+    "src": "https://frdb.dk/erhverv/laeser-undrer-sig-hvorfor-faar-vi-ingen-varme-fra-googles-datacenter"
+   },
+   {
+    "para": 1,
+    "t": "The campus is not connected to the town's district heating network.",
+    "src": "https://frdb.dk/erhverv/laeser-undrer-sig-hvorfor-faar-vi-ingen-varme-fra-googles-datacenter"
+   },
+   {
+    "para": 2,
+    "t": "That sits oddly beside what Google does in Finland, where from 2025 it has been piping waste heat from its Hamina data centre into the local network free of charge, enough for 80 percent of the network's annual demand.",
+    "src": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/our-first-offsite-heat-recovery-project-lands-in-finland/"
+   },
+   {
+    "para": 3,
+    "t": "Google is roughly doubling the Fredericia campus.",
+    "src": "data:note"
+   },
+   {
+    "para": 3,
+    "t": "Local reporting puts the build at up to 1,200 construction workers and about 100 additional permanent jobs, and says the expansion will increase both the electricity and the water the site needs for cooling.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://frdb.dk/erhverv/laeser-undrer-sig-hvorfor-faar-vi-ingen-varme-fra-googles-datacenter",
+   "https://blog.google/company-news/inside-google/around-the-globe/google-europe/our-first-offsite-heat-recovery-project-lands-in-finland/"
+  ],
+  "unconfirmed": "No power capacity or water withdrawal figure for the Fredericia campus was found, and no date for the expansion. The Fredericia Dagblad report on the expansion returned a 503 and could not be read directly, so its figures are carried from the search summary and are marked here as local reporting rather than quoted. No council decision or organised objection was found."
+ },
+ {
+  "id": "gemini-google-ghlin",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's data centre at Saint-Ghislain, in the Belgian province of Hainaut, was announced in 2007 and has been running since 2010.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "It cools by evaporation, drawing grey water from the Nimy-Blaton canal on the north side of the site rather than using drinking water, and needs about a million cubic metres of water a year.",
+    "src": "https://www.google.com/about/datacenters/locations/st-ghislain/"
+   },
+   {
+    "para": 1,
+    "t": "The site employs far more people than the figure carried against it suggests.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Google puts it at about 600 people in full time and contractor roles, where Wikipedia's tally lists about a dozen on site.",
+    "src": "https://www.google.com/about/datacenters/locations/st-ghislain/"
+   },
+   {
+    "para": 2,
+    "t": "On October 7, 2025 Google announced a further 5 billion euro for Belgium across 2026 and 2027, expanding this campus and adding 300 jobs across its Wallonian sites, taking the direct total past 900.",
+    "src": "https://www.googlecloudpresscorner.com/2025-10-07-Google-Announces-New-EUR5-Billion-AI-Infrastructure-Investment-in-Belgium-through-2027"
+   },
+   {
+    "para": 2,
+    "t": "Google says it aims to replenish 120 percent of the water it consumes on average by 2030, and in Belgium is funding Shayp's leak detection system in 240 non residential buildings near this campus.",
+    "src": "https://www.google.com/about/datacenters/locations/st-ghislain/"
+   }
+  ],
+  "sources": [
+   "https://www.google.com/about/datacenters/locations/st-ghislain/",
+   "https://www.googlecloudpresscorner.com/2025-10-07-Google-Announces-New-EUR5-Billion-AI-Infrastructure-Investment-in-Belgium-through-2027"
+  ],
+  "unconfirmed": "Searches on Saint-Ghislain with Google, on Belgium with data centre water, and on Hainaut with datacenter found no local objection, council debate or resident comment on a site that has been running since 2010, and no power capacity figure. Almost every figure here comes from Google. Employment is given as about a dozen in our record's Wikipedia source and about 600 by Google, a gap large enough that one of the two is measuring something different."
+ },
+ {
+  "id": "gemini-google-hamina",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's data centre at Hamina occupies the Summa paper mill on the Gulf of Finland, which the company bought from Stora Enso for 40 million euro in February 2009 after the mill shut.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "It draws seawater from the gulf to cool the servers instead of using conventional air conditioning.",
+    "src": "https://datacenters.google/locations/hamina-finland/"
+   },
+   {
+    "para": 0,
+    "t": "The first phase opened in 2011 on an initial 200 million euro investment, another 150 million followed in 2012, and the campus was expanded again in 2022, when Google also bought 50 acres next door.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "The campus runs on 97 percent carbon free energy.",
+    "src": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/our-first-offsite-heat-recovery-project-lands-in-finland/"
+   },
+   {
+    "para": 1,
+    "t": "What makes Hamina unusual is what it does with the heat.",
+    "src": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/our-first-offsite-heat-recovery-project-lands-in-finland/"
+   },
+   {
+    "para": 1,
+    "t": "On May 20, 2024 Google announced its first offsite heat recovery project anywhere, piping waste heat from the servers into the district heating network run by the city owned utility Haminan Energia, starting the following year.",
+    "src": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/our-first-offsite-heat-recovery-project-lands-in-finland/"
+   },
+   {
+    "para": 1,
+    "t": "It is meant to cover 80 percent of the network's annual heat demand, warming homes, schools and public buildings.",
+    "src": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/our-first-offsite-heat-recovery-project-lands-in-finland/"
+   },
+   {
+    "para": 1,
+    "t": "Google supplies it free, apart from a nominal administrative fee of one euro a year plus VAT.",
+    "src": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/our-first-offsite-heat-recovery-project-lands-in-finland/"
+   },
+   {
+    "para": 1,
+    "t": "Hamina's mayor Ilari Soosalu said Google and the city \"have a long and flourishing history together.\"",
+    "src": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/our-first-offsite-heat-recovery-project-lands-in-finland/"
+   },
+   {
+    "para": 2,
+    "t": "On September 9, 2026 Google said it would put 13 billion euro into Finland across 2027 and 2028, its largest single investment in Europe, covering Hamina along with Kajaani, Muhos and Vaala.",
+    "src": "https://www.googlecloudpresscorner.com/2026-09-09-Google-Deepens-Commitment-to-Finland-with-Two-Year-EUR13-Billion-investment-in-AI-Infrastructure"
+   },
+   {
+    "para": 2,
+    "t": "The power behind it includes a 22 year agreement with Fortum tied to extending the life of the Loviisa nuclear plant, onshore wind contracts totalling 629 megawatts, and a 94 megawatt battery near Kajaani due late in 2027.",
+    "src": "https://www.googlecloudpresscorner.com/2026-09-09-Google-Deepens-Commitment-to-Finland-with-Two-Year-EUR13-Billion-investment-in-AI-Infrastructure"
+   },
+   {
+    "para": 2,
+    "t": "Google puts the construction phase at 37,000 jobs across Finland and the operating phase at 7,000.",
+    "src": "https://www.googlecloudpresscorner.com/2026-09-09-Google-Deepens-Commitment-to-Finland-with-Two-Year-EUR13-Billion-investment-in-AI-Infrastructure"
+   }
+  ],
+  "sources": [
+   "https://datacenters.google/locations/hamina-finland/",
+   "https://blog.google/company-news/inside-google/around-the-globe/google-europe/our-first-offsite-heat-recovery-project-lands-in-finland/",
+   "https://www.googlecloudpresscorner.com/2026-09-09-Google-Deepens-Commitment-to-Finland-with-Two-Year-EUR13-Billion-investment-in-AI-Infrastructure"
+  ],
+  "unconfirmed": "Searches on Hamina with Google, on Finland with data centre heat recovery, and on Hamina with district heating found no objection, council debate or resident comment, and no power capacity or seawater withdrawal figure. The jobs and investment numbers come from Google's own announcements rather than an independent count. Staff at the site are given as about 400 in our record and as growing to 500 in trade coverage of a one billion euro expansion; the two were not reconciled."
+ },
+ {
+  "id": "gemini-google-henderson",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's data center in Henderson, Nevada, in Clark County, sits at 560 West Warm Springs Road, on a 64-acre site.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Google broke ground on the project in July 2019 and opened it in 2020.",
+    "src": "https://www.reviewjournal.com/business/google-building-600m-data-center-in-henderson-1528054/"
+   },
+   {
+    "para": 0,
+    "t": "The company put up $600 million for the initial building, the Las Vegas Review-Journal reported, and later committed a further $400 million for its Nevada data centers.",
+    "src": "https://www.reviewjournal.com/business/google-to-invest-400m-in-nevada-data-centers-3148797/"
+   },
+   {
+    "para": 1,
+    "t": "The state gave more than $25 million in tax incentives for the project, and Google said the roughly 50 jobs on-site would pay an average of $65,000 a year.",
+    "src": "https://www.reviewjournal.com/business/google-building-600m-data-center-in-henderson-1528054/"
+   },
+   {
+    "para": 1,
+    "t": "Google says it has given more than $1 million to Nevada nonprofits since 2019.",
+    "src": "https://www.reviewjournal.com/business/google-building-600m-data-center-in-henderson-1528054/"
+   },
+   {
+    "para": 2,
+    "t": "The facility is one of eight data centers in Clark County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The area's grid operator, Nevada Power Company, has 9,377 megawatts of generating capacity against a summer peak load of 9,058 megawatts, a margin of less than 4 percent.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 2,
+    "t": "A 101-megawatt gas plant, Saguaro Power, sits about 2 kilometers away, and the 1,141-megawatt Clark gas plant is about 5 kilometers off.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.reviewjournal.com/business/google-building-600m-data-center-in-henderson-1528054/",
+   "https://www.reviewjournal.com/business/google-to-invest-400m-in-nevada-data-centers-3148797/"
+  ],
+  "unconfirmed": "Our own record, drawn from Wikipedia's tally of Google facilities, puts total building costs at $1.2 billion, which we could not reconcile with the $600 million and $400 million figures the Las Vegas Review-Journal reported. No Henderson hearing record, water figure or resident comment about this site was found."
+ },
+ {
+  "id": "gemini-google-inzai",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's data centre at Inzai, in Chiba prefecture north east of Tokyo, opened on April 13, 2023, part of a 100 billion yen investment in Japanese facilities.",
+    "src": "https://note.kk-denso.co.jp/n/nfc411a2a02b3?hl=en&gs=293d3e30339f"
+   },
+   {
+    "para": 0,
+    "t": "Google has a 15 megawatt virtual power purchase agreement with Jera for it.",
+    "src": "https://www.datacenterdynamics.com/en/news/google-signs-15mw-virtual-ppa-with-jera-for-data-center-in-inzai-japan/"
+   },
+   {
+    "para": 0,
+    "t": "Inzai is sometimes called the Ginza of data centres, and Google sits there alongside Daiwa House Industry, Colt Technology Services and MC Digital Realty, with AirTrunk, STACK Infrastructure and NTT Global Data Centers in the wider cluster.",
+    "src": "https://note.kk-denso.co.jp/n/nfc411a2a02b3?hl=en&gs=293d3e30339f"
+   },
+   {
+    "para": 1,
+    "t": "The constraint here is electricity rather than water.",
+    "src": "https://note.kk-denso.co.jp/n/nfc411a2a02b3?hl=en&gs=293d3e30339f"
+   },
+   {
+    "para": 1,
+    "t": "A ten kilometre tunnel was dug to connect the Shin-Keiyo substation at Funabashi to the Inzai substation, and by 2024 the area was being supplied with 1.2 million kilowatts, with plans to reach 2.3 million by 2027.",
+    "src": "https://note.kk-denso.co.jp/n/nfc411a2a02b3?hl=en&gs=293d3e30339f"
+   },
+   {
+    "para": 1,
+    "t": "That is roughly twice the demand of a whole prefecture such as Yamanashi.",
+    "src": "https://note.kk-denso.co.jp/n/nfc411a2a02b3?hl=en&gs=293d3e30339f"
+   },
+   {
+    "para": 2,
+    "t": "Inzai has not had the fights other places have.",
+    "src": "https://note.kk-denso.co.jp/n/nfc411a2a02b3?hl=en&gs=293d3e30339f"
+   },
+   {
+    "para": 2,
+    "t": "Residents describe them as mysterious buildings and some worry about shops being replaced by more of them, but no major conflict has arisen, which local accounts attribute to the tax revenue being widely understood: 11.6 billion yen in the 2021 financial year.",
+    "src": "https://note.kk-denso.co.jp/n/nfc411a2a02b3?hl=en&gs=293d3e30339f"
+   },
+   {
+    "para": 2,
+    "t": "The organised opposition to a data centre tower in this part of Japan was at Nagareyama, over a 28 metre building, not here.",
+    "src": "https://note.kk-denso.co.jp/n/nfc411a2a02b3?hl=en&gs=293d3e30339f"
+   },
+   {
+    "para": 3,
+    "t": "Google also runs a separate data centre in Tokyo's Koto ward, about 36 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://note.kk-denso.co.jp/n/nfc411a2a02b3?hl=en&gs=293d3e30339f",
+   "https://www.datacenterdynamics.com/en/news/google-signs-15mw-virtual-ppa-with-jera-for-data-center-in-inzai-japan/"
+  ],
+  "unconfirmed": "No capacity figure, site area or water figure for Google's own Inzai building was found, and no resident of Inzai is quoted by name. The electricity and tax figures describe the city and its whole cluster rather than this site. A search summary suggested residents opposed a 50 metre data centre tower at Chiba New Town Chuo station in April, but the underlying source places that dispute in Nagareyama and over a 28 metre building, so it is not carried as an Inzai story."
+ },
+ {
+  "id": "gemini-google-spade",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Project Spade data center is planned off Interstate 70 near New Florence and High Hill in Montgomery County, Missouri.",
+    "src": "https://abc17news.com/top-story/2026/05/20/kehoe-google-tout-15-billion-investment-to-accompany-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "County permits for the roughly 900-acre site were filed in February 2026 under the name Kinetic Site Ventures LLC.",
+    "src": "https://abc17news.com/top-story/2026/05/20/kehoe-google-tout-15-billion-investment-to-accompany-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The trade publication Baxtel puts the site at 934 acres, with two buildings of about 800,000 square feet each, and names Related Digital as Google's development partner.",
+    "src": "https://baxtel.com/data-center/google-project-spade-campus"
+   },
+   {
+    "para": 1,
+    "t": "Missouri Governor Mike Kehoe and Google executives promoted the project on May 20, 2026, as part of a $15 billion Google investment in the state.",
+    "src": "https://abc17news.com/top-story/2026/05/20/kehoe-google-tout-15-billion-investment-to-accompany-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Google president and chief investment officer Ruth Porat said the project would create thousands of construction jobs; the company says it expects more than 2,000 construction workers and hundreds of permanent employees, plus a $20 million fund meant to hold down local household energy bills.",
+    "src": "https://abc17news.com/top-story/2026/05/20/kehoe-google-tout-15-billion-investment-to-accompany-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Google says the buildings will be air-cooled in a closed loop, limiting water use to bathrooms and kitchens, after Montgomery County residents had raised concerns about data centers' power and water draw.",
+    "src": "https://abc17news.com/top-story/2026/05/20/kehoe-google-tout-15-billion-investment-to-accompany-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "The campus is designed for 1.2 gigawatts of capacity.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "The fight over data centers is playing out across mid-Missouri: in April 2026 the city of Columbia approved a one-year moratorium on new data center permits.",
+    "src": "https://www.columbiamissourian.com/news/local/city-council-approves-data-center-definition-requests-moratorium/article_064eadce-c84e-4bfc-8f9c-b930741b94af.html"
+   }
+  ],
+  "sources": [
+   "https://abc17news.com/top-story/2026/05/20/kehoe-google-tout-15-billion-investment-to-accompany-data-center/",
+   "https://baxtel.com/data-center/google-project-spade-campus",
+   "https://www.columbiamissourian.com/news/local/city-council-approves-data-center-definition-requests-moratorium/article_064eadce-c84e-4bfc-8f9c-b930741b94af.html"
+  ],
+  "unconfirmed": "Our own location record places this project in Moniteau County, but every named news source (ABC 17 News, Baxtel) identifies Project Spade as a Montgomery County site near New Florence and High Hill, roughly 60 miles away. We have followed the named sources rather than our record and flag the conflict rather than resolve it. No direct quotes from Montgomery County residents were found, only a state official's characterization of their concerns."
+ },
+ {
+  "id": "gemini-google-mica",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Project Mica data center is under construction at 12701 N Arrowhead Trafficway in Kansas City's Northland, in Clay County, Missouri, northeast of Interstate 435 and U.S. 169.",
+    "src": "https://www.kctv5.com/2026/02/12/google-confirms-new-data-center-development-kansas-citys-northland/"
+   },
+   {
+    "para": 0,
+    "t": "It is Google's second data center campus in the Kansas City area; the company broke ground on its first Missouri site in 2024, and that project was still under construction as of February 2026.",
+    "src": "https://www.kctv5.com/2026/02/12/google-confirms-new-data-center-development-kansas-citys-northland/"
+   },
+   {
+    "para": 1,
+    "t": "Baxtel puts the site at about 493 acres, with five buildings totaling 1.56 million square feet, developed in phases under names including Hub Max, Prime Campus and Central Plaza, in the Rocky Branch Creek Technology Park.",
+    "src": "https://baxtel.com/data-center/google-project-mica"
+   },
+   {
+    "para": 1,
+    "t": "Google began acquiring the roughly 500-acre site in late 2023, and construction started in 2025, with the campus largely planned to be complete by 2027.",
+    "src": "https://baxtel.com/data-center/google-project-mica"
+   },
+   {
+    "para": 2,
+    "t": "The Port Authority of Kansas City recommended up to $10 billion in taxable revenue bonds for the project, along with a 75 percent property tax abatement for 25 years and a full sales tax exemption.",
+    "src": "https://www.kshb.com/news/local-news/missouri/kansas-city/google-announces-construction-underway-for-second-data-center-campus-in-kansas-city"
+   },
+   {
+    "para": 2,
+    "t": "Google said it will cover the full cost of powering the campus under a new contract arrangement with the utility Evergy, rather than passing those costs to other ratepayers.",
+    "src": "https://www.kctv5.com/2026/02/12/google-confirms-new-data-center-development-kansas-citys-northland/"
+   },
+   {
+    "para": 2,
+    "t": "\"We're thrilled to confirm we are continuing our growth with another data center campus in Kansas City,\" Google's regional head of data center public affairs, Trystine Payfer, said.",
+    "src": "https://www.kctv5.com/2026/02/12/google-confirms-new-data-center-development-kansas-citys-northland/"
+   }
+  ],
+  "sources": [
+   "https://www.kctv5.com/2026/02/12/google-confirms-new-data-center-development-kansas-citys-northland/",
+   "https://baxtel.com/data-center/google-project-mica",
+   "https://www.kshb.com/news/local-news/missouri/kansas-city/google-announces-construction-underway-for-second-data-center-campus-in-kansas-city"
+  ],
+  "unconfirmed": "Our own location record places this project in Moniteau County, roughly 60 miles from Kansas City, but every named news source (KCTV5, Baxtel, KSHB) identifies Project Mica as a Clay County site in Kansas City's Northland. We have followed the named sources rather than our record and flag the conflict rather than resolve it. No resident opposition or local pushback specific to this site turned up in search."
+ },
+ {
+  "id": "gemini-google-detroit-edge",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A 1,000 megawatt Google data center is listed as proposed for Isabella County, Michigan, near Mount Pleasant, under the name Detroit Edge.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "No trace of it has been published.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "The tracker page cited for it returns no site specific content, and no Michigan news outlet, county record or trade listing describes a Google project in Isabella County.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "There is a 1,000 megawatt data center at a Mount Pleasant, but it is in Wisconsin, not Michigan.",
+    "src": "https://dailyreporter.com/2025/09/18/microsoft-4b-ai-data-center-wisconsin-mount-pleasant/"
+   },
+   {
+    "para": 1,
+    "t": "That project belongs to Microsoft, which announced a $4 billion addition to its campus at Mount Pleasant in Racine County on September 18, 2025.",
+    "src": "https://dailyreporter.com/2025/09/18/microsoft-4b-ai-data-center-wisconsin-mount-pleasant/"
+   },
+   {
+    "para": 1,
+    "t": "The matching capacity and the shared town name make a confusion between the two the likeliest explanation for this entry, though that could not be confirmed.",
+    "src": "data:note"
+   },
+   {
+    "para": 2,
+    "t": "The only data center our searches placed in Mount Pleasant, Michigan is a small colocation facility run by CMS Internet at 131 South Main Street.",
+    "src": "https://www.datacenters.com/cms-internet-llc-mount-pleasant"
+   },
+   {
+    "para": 2,
+    "t": "A second 1,000 megawatt data center is listed about five kilometres away with no developer named.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://dailyreporter.com/2025/09/18/microsoft-4b-ai-data-center-wisconsin-mount-pleasant/",
+   "https://www.datacenters.com/cms-internet-llc-mount-pleasant"
+  ],
+  "unconfirmed": "Three searches found no trace of a Google project called Detroit Edge in Isabella County: the tracker page cited for it returns no site-specific content, and no Michigan news outlet, county record or trade listing describes one. The second 1,000 megawatt entry five kilometres away could not be verified either."
+ },
+ {
+  "id": "gemini-google-visakhapatnam",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "In Tarluvada, a village outside Visakhapatnam in the Indian state of Andhra Pradesh, 51 households, most of them Dalit farming families who had worked the land for more than 50 years, were asked to give it up for a Google data center campus.",
+    "src": "https://www.landconflictwatch.org/conflicts/concerns-around-acquisition-process-of-dalit-farmers-land-in-the-google-adani-data-centre-project-in-visakhapatnam"
+   },
+   {
+    "para": 0,
+    "t": "\"We were never told about any data centre,\" one resident said, according to Land Conflict Watch.",
+    "src": "https://www.landconflictwatch.org/conflicts/concerns-around-acquisition-process-of-dalit-farmers-land-in-the-google-adani-data-centre-project-in-visakhapatnam"
+   },
+   {
+    "para": 0,
+    "t": "Farmer Relli Ramakrishnan told the same outlet his family had cleared the land themselves: \"We had to clear the jungle ourselves; it took us 15 years, 15 long years. We worked hard, shed our blood for this land.\"",
+    "src": "https://www.landconflictwatch.org/conflicts/concerns-around-acquisition-process-of-dalit-farmers-land-in-the-google-adani-data-centre-project-in-visakhapatnam"
+   },
+   {
+    "para": 1,
+    "t": "The campus, backed by Google, the Indian conglomerate Adani and Bharti Airtel, is planned across three sites totaling more than 600 acres in the Visakhapatnam and Anakapalli districts: Tarluvada, Adavivaram-Mudasarlova and Rambilli.",
+    "src": "https://www.landconflictwatch.org/conflicts/concerns-around-acquisition-process-of-dalit-farmers-land-in-the-google-adani-data-centre-project-in-visakhapatnam"
+   },
+   {
+    "para": 1,
+    "t": "Google and Adani say they will invest about $15 billion in the campus between 2026 and 2030, building nearly a gigawatt of capacity they describe as Asia's largest facility of its kind.",
+    "src": "https://www.emirates247.com/business/google-adani-15b-india-data-centre-project-faces-protests-over-water-and-wildlife-concerns-in-visakhapatnam/4295"
+   },
+   {
+    "para": 1,
+    "t": "Officials including Union IT Minister Ashwini Vaishnaw and Andhra Pradesh Chief Minister N. Chandrababu Naidu attended a groundbreaking ceremony on April 28, 2026.",
+    "src": "https://www.adani.com/newsroom/media-releases/google-breaks-ground-on-india-ai-hub-launching-a-national-industrial-ecosystem"
+   },
+   {
+    "para": 1,
+    "t": "Google Cloud chief executive Thomas Kurian called it \"a powerful realization of our shared vision with the Indian government.\"",
+    "src": "https://www.adani.com/newsroom/media-releases/google-breaks-ground-on-india-ai-hub-launching-a-national-industrial-ecosystem"
+   },
+   {
+    "para": 2,
+    "t": "After farmers pushed back, the state raised compensation to 20 lakh rupees an acre for recorded land and 10 lakh rupees an acre for unrecorded land, up from initial offers of 17 lakh and 8.5 lakh, and added house-site land, shares of developed land and promises of jobs or shop allocations for 520 farmers.",
+    "src": "https://www.landconflictwatch.org/conflicts/concerns-around-acquisition-process-of-dalit-farmers-land-in-the-google-adani-data-centre-project-in-visakhapatnam"
+   },
+   {
+    "para": 3,
+    "t": "The project's environmental clearance was granted on April 18, 2026, nine days after Adani's subsidiary applied for it and ten days before the groundbreaking, the news outlet The News Minute reported.",
+    "src": "https://www.thenewsminute.com/andhra-pradesh/vizag-google-adani-ai-data-centre-state-govt-rushed-environmental-clearance-activists-allege"
+   },
+   {
+    "para": 3,
+    "t": "It was classified in a lower-scrutiny category that let it skip a public hearing and a full environmental impact assessment, even though the site is 1.53 kilometers from the Kambalakonda Wildlife Sanctuary and nearly 90 percent of the Tarluvada parcel overlaps a reserve forest, The News Minute reported.",
+    "src": "https://www.thenewsminute.com/andhra-pradesh/vizag-google-adani-ai-data-centre-state-govt-rushed-environmental-clearance-activists-allege"
+   },
+   {
+    "para": 3,
+    "t": "Retired civil servant E.A.S. Sarma wrote to the federal environment ministry asking for the clearance to be reclassified and reviewed.",
+    "src": "https://www.thenewsminute.com/andhra-pradesh/vizag-google-adani-ai-data-centre-state-govt-rushed-environmental-clearance-activists-allege"
+   },
+   {
+    "para": 4,
+    "t": "The Human Rights Forum, a rights group, said putting \"a high-energy, heat-intensive complex of this magnitude in such a terrain is ecologically reckless\" given Visakhapatnam's existing water stress and the coast's exposure to cyclones, and called the promise of 100 percent renewable operation technically untenable and a false assertion.",
+    "src": "https://thesouthfirst.com/andhrapradesh/environmental-and-economic-disaster-hrf-urges-andhra-to-halt-google-adani-ai-data-centre/"
+   },
+   {
+    "para": 4,
+    "t": "The group urged the state and federal governments to halt land acquisition and clearance until a transparent, public review is done.",
+    "src": "https://thesouthfirst.com/andhrapradesh/environmental-and-economic-disaster-hrf-urges-andhra-to-halt-google-adani-ai-data-centre/"
+   },
+   {
+    "para": 4,
+    "t": "It said Andhra Pradesh had offered incentives worth 22,002 crore rupees over 20 years and argued the money would be better spent on health and education.",
+    "src": "https://thesouthfirst.com/andhrapradesh/environmental-and-economic-disaster-hrf-urges-andhra-to-halt-google-adani-ai-data-centre/"
+   },
+   {
+    "para": 5,
+    "t": "Land acquisition was largely complete by February 19, 2026, and construction has moved ahead despite the pending litigation.",
+    "src": "https://www.landconflictwatch.org/conflicts/concerns-around-acquisition-process-of-dalit-farmers-land-in-the-google-adani-data-centre-project-in-visakhapatnam"
+   },
+   {
+    "para": 5,
+    "t": "The dispute remains before the Andhra Pradesh High Court and the National Green Tribunal.",
+    "src": "https://www.landconflictwatch.org/conflicts/concerns-around-acquisition-process-of-dalit-farmers-land-in-the-google-adani-data-centre-project-in-visakhapatnam"
+   },
+   {
+    "para": 5,
+    "t": "Residents and activists demonstrated again on July 19, 2026, according to Breakthrough News.",
+    "src": "https://breakthroughnews.org/2026/08/14/ai-data-centers-in-indias-visakhapatnam-city-face-popular-resistance/"
+   }
+  ],
+  "sources": [
+   "https://www.landconflictwatch.org/conflicts/concerns-around-acquisition-process-of-dalit-farmers-land-in-the-google-adani-data-centre-project-in-visakhapatnam",
+   "https://www.thenewsminute.com/andhra-pradesh/vizag-google-adani-ai-data-centre-state-govt-rushed-environmental-clearance-activists-allege",
+   "https://thesouthfirst.com/andhrapradesh/environmental-and-economic-disaster-hrf-urges-andhra-to-halt-google-adani-ai-data-centre/",
+   "https://www.adani.com/newsroom/media-releases/google-breaks-ground-on-india-ai-hub-launching-a-national-industrial-ecosystem",
+   "https://www.emirates247.com/business/google-adani-15b-india-data-centre-project-faces-protests-over-water-and-wildlife-concerns-in-visakhapatnam/4295",
+   "https://breakthroughnews.org/2026/08/14/ai-data-centers-in-indias-visakhapatnam-city-face-popular-resistance/"
+  ],
+  "unconfirmed": "The original cited source (Google Cloud press corner) returned a 404 and could not be read; the Adani partner press release and groundbreaking release were used instead. Google's subsidiary in the deal is named Raiden Infotech India in land records, matching our developer field. We could not verify current court outcomes; both cases were described as pending as of the most recent coverage found."
+ },
+ {
+  "id": "gemini-google-clarksville",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's data center at 1000 Boolean Drive in Clarksville, Montgomery County, Tennessee, opened with a ribbon cutting on November 6, 2019, a $600 million investment announced in 2016.",
+    "src": "https://clarksvillenow.com/local/google-officially-opens-clarksville-montgomery-county-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "It stands on the former Hemlock Semiconductor site, about 1,300 acres, and Google matches its power use with renewable energy through an arrangement with the Tennessee Valley Authority.",
+    "src": "https://datacenters.google/locations/montgomery-county-tennessee/"
+   },
+   {
+    "para": 0,
+    "t": "The company said it would create about 70 jobs: computer technicians, engineers and maintenance staff.",
+    "src": "https://datacenters.google/locations/montgomery-county-tennessee/"
+   },
+   {
+    "para": 1,
+    "t": "Officials were pleased with it.",
+    "src": "https://clarksvillenow.com/local/google-officially-opens-clarksville-montgomery-county-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Montgomery County mayor Jim Durrett said that between sponsoring community events, awarding grants to local nonprofits and investing in STEM programs in local schools, Google \"has quickly become a staple in our community.\"",
+    "src": "https://clarksvillenow.com/local/google-officially-opens-clarksville-montgomery-county-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Enoch Moeller, the site lead, said Google was \"grateful to Clarksville and Montgomery County for welcoming us into this great community, and that is why we have made a concentrated effort to give back.\"",
+    "src": "https://clarksvillenow.com/local/google-officially-opens-clarksville-montgomery-county-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Google has since given more than $450,000 to local schools and nonprofits and works with Austin Peay State University on the Southeastern Grasslands Initiative.",
+    "src": "https://clarksvillenow.com/local/google-officially-opens-clarksville-montgomery-county-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "It is one of two data centers in the county, in an area served by the Tennessee Valley Authority, which has 38,961 megawatts of generating capacity against a peak load of 28,930.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 2,
+    "t": "About 60 kilometres away, in Robertson County, the town of Cedar Hill passed a two year moratorium on new data centers on June 4, 2026 over rural preservation; that is a separate town's decision and does not affect this site.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://clarksvillenow.com/local/google-officially-opens-clarksville-montgomery-county-data-center/",
+   "https://datacenters.google/locations/montgomery-county-tennessee/"
+  ],
+  "unconfirmed": "No organised opposition to this site was found in anything we could read, and no Clarksville or Montgomery County resident is quoted about living beside it; a line saying residents have been mixed about the trade-off between economic gain and rural character was removed because it was credited to Google's own location page, which does not say it. A remark attributed to Clarksville mayor Joe Pitts about Google discovering what residents already knew could not be found in the report it was credited to and was also removed."
+ }
+]

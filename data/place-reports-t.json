@@ -1,0 +1,40 @@
+{
+  "/data-centers/united-states/ohio/guernsey-county/": {
+    "paragraphs": [
+      "Guernsey County's commissioners have said no to a data center they have no legal power to stop. On June 9, 2026, local real estate agent Jason Miller and Rich Stokey, chief executive of Smart Energy Partners, which coordinates site and power acquisition for data centers, gave commissioners a \"general description\" of a possible project. Miller has 425 acres in the county he might develop. According to the meeting minutes, Stokey described closed-loop cooling needing little water and power from natural gas generated on site, and mentioned potential \"airport area development\"; the Cambridge Muni Airport is three miles south of the city. No site has been announced. Stokey, who is also strategic energy adviser for Ohio CAT, told WOUB there is no formal plan and that talk so far covered \"threshold questions\" such as fiber, gas and power.",
+      "Guernsey has no countywide zoning, so a landowner can sell to a data center developer without any county land-use approval. The one lever commissioners hold is tax abatements. They said they would offer none, nor infrastructure help. \"If a developer wants a data center in Guernsey County, they'll have to do it without tax abatements and through a private land sale,\" said commission president Jack Marlin. \"I would say the people have spoken,\" he told WOUB. \"They're against data centers.\" WOUB reported this sets Guernsey apart from neighboring southeast Ohio counties, where officials have generally backed data centers; it counted Guernsey as the 11th county in the region to see a proposal.",
+      "On June 19 more than 50 residents met at the Red Roof Inn in Cambridge and formed Guernsey County & Ohio: Data Center Developments, led by Amy Kissinger and Geno Riley. It says commissioners' hands are \"legally tied\" and worries about farmland, water, reclaimed strip-mine habitat and The Wilds conservation center. The commissioners and the county Farm Bureau have announced a public town hall on data centers, and any project would still face municipal zoning if it sits inside a village or city."
+    ],
+    "sources": [
+      "https://woub.org/2026/06/23/guernsey-county-proposal-data-center/",
+      "https://www.datacenterdynamics.com/en/news/proposed-data-center-in-guernsey-county-ohio-could-go-ahead-despite-local-government-opposition/",
+      "https://guernseycounty.gov/upcoming-town-hall-data-centers/"
+    ]
+  },
+  "/data-centers/united-states/south-carolina/kershaw-county/": {
+    "paragraphs": [
+      "A data center proposal near Camden, in rural northeastern Kershaw County, lasted about a month. In September 2025, Charlotte-based Terra Nexus Ventures, founded by Hemal Badiani and Brandon Maxwell, asked the county to rezone about 162 acres at 771 Park Road, across from the county landfill and about 30 miles northeast of Columbia. It wanted the land moved from a rural residential district to general development, the county's broadest classification. Its partners described \"a couple of warehouse-type buildings that look nice, almost look like office buildings,\" with up to 15 permanent jobs, power from Black River Electric Cooperative or Santee Cooper, and a large tax bill. Planning commission chairman Ned Towell said that \"even if it doesn't employ that many people, it's going to have a huge tax bill\"; his commission recommended the rezoning unanimously on Sept. 8.",
+      "At the county council's crowded Sept. 23 meeting, 11 speakers, most from the area, asked council to say no. Zakiya Mickle, environmental justice chair of the South Carolina NAACP, warned of diesel generator emissions, strain on water and the grid, and a site about 10 minutes from Jackson Elementary School. \"Trust is not a substitute for due diligence,\" she said. Councilman Derek Shoemake worried about the zoning itself: \"if anything falls through, then now you have 100 acres that can be used for anything.\" Councilman Brant Tomlinson, whose district includes the site, said he had told the developers privately that he opposed it over water use.",
+      "Before council could vote, Terra Nexus's attorney requested an \"official withdrawal,\" and the company did not say why. \"The community concerns are heard,\" Tomlinson said. Andrew Yablonski, who lives less than a mile away, called it \"great news.\" The land stays zoned as it was, and Shoemake said a data center could still be considered \"in the right zoning districts\" if water and power can be managed."
+    ],
+    "sources": [
+      "https://www.datacenterdynamics.com/en/news/plans-filed-for-data-center-site-outside-columbia-south-carolina/",
+      "https://www.postandcourier.com/columbia/business/kershaw-county-data-center-developers-rezone/article_875da030-6032-4280-bf01-9202ee53c0a0.html",
+      "https://www.wistv.com/2025/09/24/questions-concerns-raised-about-planned-kershaw-county-data-center/"
+    ]
+  },
+  "/data-centers/united-states/new-york/rockland-county/": {
+    "paragraphs": [
+      "Rockland County's data centers are clustered in Orangeburg, in the Town of Orangetown, where Bloomberg, JPMorganChase, DataBank and 1547 Critical Systems Realty run facilities. The fight is over DataBank's plan to add a second building to its campus at 2000 Corporate Drive, near Lake Tappan and the New Jersey line. In September 2026 the state Department of Environmental Conservation ruled that the expansion falls under Gov. Kathy Hochul's one-year pause on large data centers, so its state application will stay incomplete until the state finishes a statewide environmental study.",
+      "DataBank, a Dallas company, opened a 145,000-square-foot data center there in May 2025, drawing about 20 megawatts of power. Phase 2 would add a 77,862-square-foot building and a 22,571-square-foot backup power yard; together the two would use enough electricity for about 34,000 homes, more than all the homes in Orangetown. DataBank says the campus's substation caps it at 45 megawatts, below the 50-megawatt line in the governor's order, and disputes the state's ruling. \"We take no water out of the reservoir,\" said DataBank's JP Laqueur.",
+      "Opponents worry most about the reservoir. \"The biggest issue that we have is that these are next to residential areas and, most importantly, Lake Tappan,\" said Dave Rosen of the Bi-State Datacenter Crisis Coalition. The Orangetown Planning Board voted unanimously on July 8 to require a full environmental impact statement, and the county planning department and the state Attorney General's office both said the review was too narrow.",
+      "In late August 2026 the Orangetown Town Board adopted a six-month moratorium on new data centers and battery storage while it rewrites its zoning, but exempted DataBank's pending application, to residents' anger. Phase 2 still needs site plan approval from the Planning Board and two variances from the Zoning Board of Appeals."
+    ],
+    "sources": [
+      "https://rcbizjournal.com/2026/09/22/databanks-expansion-subject-to-statewide-moratorium-clarkstown-moratorium-includes-sain-building-affordable-housing-conversion-chair-factory-site-subject-to-brownfield-review/",
+      "https://westfaironline.com/computers/orangetown-imposes-data-center-moratorium-that-wont-affect-databank-expansion/",
+      "https://ny1.com/nyc/all-boroughs/politics/2026/08/27/a-data-center-battle-unfolds-30-miles-north-of-manhattan",
+      "https://rocklandnews.com/ny-data-center-moratorium-2026/"
+    ]
+  }
+}

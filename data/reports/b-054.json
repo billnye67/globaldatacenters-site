@@ -1,0 +1,641 @@
+[
+ {
+  "id": "ft-1786763855689-3289",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The county's own file for this site does not mention a data center.",
+    "src": "https://www3.newcastlede.gov/Project/Details/Default.aspx?ProjectKey=793134"
+   },
+   {
+    "para": 0,
+    "t": "New Castle County project 20240215, filed by Parkway Gravel Inc and received on 9 April 2024, covers 312.73 acres at Port Penn Road and Dupont Parkway and proposes about 2.56 million square feet of warehouse alongside 365 homes: 155 single family lots, 96 semi detached units and 164 townhouses.",
+    "src": "https://www3.newcastlede.gov/Project/Details/Default.aspx?ProjectKey=793134"
+   },
+   {
+    "para": 0,
+    "t": "The file is active, with submissions logged to 19 November 2025 and affidavits in December, and several reviews still incomplete, including zoning, environmental impact and the planning department's exploratory review.",
+    "src": "https://www3.newcastlede.gov/Project/Details/Default.aspx?ProjectKey=793134"
+   },
+   {
+    "para": 1,
+    "t": "The site is listed elsewhere as the Frightland Data Center at 1,362 acres, more than four times the acreage in the county file, and the only other source attached to it is a Sierra Club list of proposed Delaware data center projects that could not be retrieved.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "What is certain is the company the site would keep.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Two nuclear stations sit 12 kilometres away across the river, Salem at 2,323 megawatts and Hope Creek at 1,172, with the 265 megawatt Delaware City gas plant at 7 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Two other tracked data center sites, both Starwood projects, lie 7 and 9 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The region has been busy writing rules.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "New Castle County adopted data center zoning limits on 11 March 2026 and Kent County on 23 July 2026, and five towns and townships within reach, four of them across the line in New Jersey, have passed outright bans since April 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www3.newcastlede.gov/Project/Details/Default.aspx?ProjectKey=793134"
+  ],
+  "unconfirmed": "Whether this site is a data center proposal at all is unresolved. The county record describes a warehouse and housing development by a gravel company; our record and a Sierra Club listing call it a data center. The acreage in our record and in the county file differ by a factor of four. No applicant matching a data center developer, no megawatt figure, no hearing date and no local reaction were found, and the Sierra Club page returned no content. This entry needs checking against the county file before the page is trusted."
+ },
+ {
+  "id": "ft-1786764095148-3335",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one the county file does name.",
+    "src": "https://www3.newcastlede.gov/Project/Details/Default.aspx?ProjectKey=840522"
+   },
+   {
+    "para": 0,
+    "t": "New Castle County project 20250716, the White Clay Center Drive Redevelopment, is filed by SWC 700 LLC and gives the proposed use as a data center.",
+    "src": "https://www3.newcastlede.gov/Project/Details/Default.aspx?ProjectKey=840522"
+   },
+   {
+    "para": 0,
+    "t": "It would consolidate seven parcels into two across 44.08 acres at the end of White Clay Center Drive in Newark, and build about 847,450 square feet of light industrial floor space.",
+    "src": "https://www3.newcastlede.gov/Project/Details/Default.aspx?ProjectKey=840522"
+   },
+   {
+    "para": 0,
+    "t": "Of the site, 12.75 acres would be paved and 19.93 left open.",
+    "src": "https://www3.newcastlede.gov/Project/Details/Default.aspx?ProjectKey=840522"
+   },
+   {
+    "para": 1,
+    "t": "The application was lodged as a pre-application on 19 November 2025 and formally received on 19 January 2026.",
+    "src": "https://www3.newcastlede.gov/Project/Details/Default.aspx?ProjectKey=840522"
+   },
+   {
+    "para": 1,
+    "t": "It is filed as a redevelopment plan, which requires a planning board public hearing, and no date for that had been set in the record.",
+    "src": "https://www3.newcastlede.gov/Project/Details/Default.aspx?ProjectKey=840522"
+   },
+   {
+    "para": 1,
+    "t": "The planning department's exploratory review was still incomplete, with several engineering and environmental assessments conditionally approved.",
+    "src": "https://www3.newcastlede.gov/Project/Details/Default.aspx?ProjectKey=840522"
+   },
+   {
+    "para": 2,
+    "t": "The 44 acre figure matches the county file, and no capacity figure is attached to it.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "New Castle County adopted data center zoning limits on 11 March 2026, before this application was received.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The 1,128 megawatt Hay Road and 707 megawatt Edge Moor gas plants are both 20 kilometres away, and three other tracked data center sites lie within 20 kilometres, the nearest being Starwood's Project Washington at 11.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www3.newcastlede.gov/Project/Details/Default.aspx?ProjectKey=840522"
+  ],
+  "unconfirmed": "Who is behind SWC 700 LLC is not established, and no tenant is named. There is no megawatt figure, no water figure and no construction timeline in the county file. No public hearing has been scheduled and no local reporting or resident reaction was found. The Sierra Club listing cited in our record returned no content."
+ },
+ {
+  "id": "ft-52",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The thing that killed this project was not the data halls. It was 516 diesel generators.",
+    "src": "https://whyy.org/articles/delaware-city-data-center-setback-environment"
+   },
+   {
+    "para": 0,
+    "t": "Starwood Digital Ventures proposed Project Washington, a data center at Delaware City, in New Castle County: 11 two storey buildings, 6 million square feet, 1.2 gigawatts.",
+    "src": "https://whyy.org/articles/delaware-city-data-center-setback-environment"
+   },
+   {
+    "para": 0,
+    "t": "The backup power was to be 516 generators, against a maximum of eight used by any single entity in the state at the time, served by a fuel tank farm of more than 5 acres holding 2.5 million gallons.",
+    "src": "https://whyy.org/articles/delaware-city-data-center-setback-environment"
+   },
+   {
+    "para": 1,
+    "t": "Delaware's Department of Natural Resources and Environmental Control refused the permit, citing the Coastal Zone Act, a 1971 law that keeps heavy industry off the state's shoreline.",
+    "src": "https://whyy.org/articles/delaware-city-data-center-setback-environment"
+   },
+   {
+    "para": 1,
+    "t": "The department said the smokestacks serving the diesel generators would be \"the largest source of nitrogen oxide emissions in the entire state, with the sole exception of the Delaware City refinery\".",
+    "src": "https://whyy.org/articles/delaware-city-data-center-setback-environment"
+   },
+   {
+    "para": 1,
+    "t": "Dustyn Thompson of the Sierra Club said \"The Coastal Zone Act is a recognition that our coastal ecologies, and the tourism and benefits of resiliency that they provide to the state, is well worth protecting and preserving.\"",
+    "src": "https://whyy.org/articles/delaware-city-data-center-setback-environment"
+   },
+   {
+    "para": 1,
+    "t": "County Councilman Kevin Caneco called the decision a victory for his constituents and the environment.",
+    "src": "https://whyy.org/articles/delaware-city-data-center-setback-environment"
+   },
+   {
+    "para": 1,
+    "t": "Starwood said the project \"is proud to have the support of the Delaware unions and trades, the business community, and hundreds of New Castle County residents\".",
+    "src": "https://whyy.org/articles/delaware-city-data-center-setback-environment"
+   },
+   {
+    "para": 2,
+    "t": "Starwood appealed, and lost again.",
+    "src": "https://spotlightdelaware.org/2026/03/26/delaware-city-data-center-environmental-denial-upheld-by-state-board/"
+   },
+   {
+    "para": 2,
+    "t": "On 26 March 2026 the Delaware Coastal Zone Industrial Control Board unanimously upheld the secretary's refusal.",
+    "src": "https://spotlightdelaware.org/2026/03/26/delaware-city-data-center-environmental-denial-upheld-by-state-board/"
+   },
+   {
+    "para": 2,
+    "t": "Board member Willie Scott said the generators were emission points collectively large enough to count as a major source of pollution.",
+    "src": "https://spotlightdelaware.org/2026/03/26/delaware-city-data-center-environmental-denial-upheld-by-state-board/"
+   },
+   {
+    "para": 2,
+    "t": "Starwood's attorney Katharine Mowery argued that \"The Secretary has distorted what Project Washington is, and ignored binding case law in order to find a way to prohibit this project.\"",
+    "src": "https://spotlightdelaware.org/2026/03/26/delaware-city-data-center-environmental-denial-upheld-by-state-board/"
+   },
+   {
+    "para": 3,
+    "t": "Lawyers following the case expect appeals to the Delaware Superior Court and then the state Supreme Court, which could take between 18 months and three years to work through.",
+    "src": "https://spotlightdelaware.org/2026/03/26/delaware-city-data-center-environmental-denial-upheld-by-state-board/"
+   },
+   {
+    "para": 3,
+    "t": "The company could also redesign the project to comply.",
+    "src": "https://whyy.org/articles/delaware-city-data-center-setback-environment"
+   },
+   {
+    "para": 4,
+    "t": "The site is put at 570 acres and 1,200 megawatts, and listed as suspended.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 4,
+    "t": "The 265 megawatt Delaware City gas plant is 2 kilometres away, and the Salem and Hope Creek nuclear stations, 3,495 megawatts between them, are 18.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://whyy.org/articles/delaware-city-data-center-setback-environment",
+   "https://spotlightdelaware.org/2026/03/26/delaware-city-data-center-environmental-denial-upheld-by-state-board/"
+  ],
+  "unconfirmed": "The date DNREC first refused the permit is not established from the sources read, which describe it only as that week. Whether Starwood has in fact filed a Superior Court appeal, or begun a redesign, is not established. No acreage appears in either report, so our record's 570 acre figure is uncorroborated. The two Data Center Dynamics articles and the Delaware Online report cited in our record could not be read."
+ },
+ {
+  "id": "ft-53",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "On 15 April 2026 the Fort Meade city commissioners, in Polk County, Florida, voted unanimously to approve a development agreement with Stonebridge, a Maryland company, for a data center campus on former phosphate mine land.",
+    "src": "https://baynews9.com/fl/tampa/news/2026/04/15/fort-meade-data-center-approved-despite-residents-concerns"
+   },
+   {
+    "para": 1,
+    "t": "Vice Mayor Petrina McCutchen acknowledged what the commission did not know before voting for it.",
+    "src": "https://baynews9.com/fl/tampa/news/2026/04/15/fort-meade-data-center-approved-despite-residents-concerns"
+   },
+   {
+    "para": 1,
+    "t": "\"Unfortunately, there are some questions that will go unanswered that I don't even have, that you don't even have,\" she said. \"But does that mean I don't take a leap because I'm gripped by fear?\"",
+    "src": "https://baynews9.com/fl/tampa/news/2026/04/15/fort-meade-data-center-approved-despite-residents-concerns"
+   },
+   {
+    "para": 2,
+    "t": "Water was one of the unanswered questions.",
+    "src": "https://baynews9.com/fl/tampa/news/2026/04/15/fort-meade-data-center-approved-despite-residents-concerns"
+   },
+   {
+    "para": 2,
+    "t": "Stonebridge principal Douglas Firstenberg told the meeting: \"If we need 51,(000 gallons of water), that's up to the city to decide, but we only get 50.\"",
+    "src": "https://baynews9.com/fl/tampa/news/2026/04/15/fort-meade-data-center-approved-despite-residents-concerns"
+   },
+   {
+    "para": 2,
+    "t": "The company offered high paying jobs and $10 million of infrastructure investment.",
+    "src": "https://baynews9.com/fl/tampa/news/2026/04/15/fort-meade-data-center-approved-despite-residents-concerns"
+   },
+   {
+    "para": 3,
+    "t": "Resident Verna Moyer spoke against it: \"I'm going to cry. I'll be honest, I don't know what I'm going to do.\" She went on: \"I want to retire here. I raised my children here. My house is paid for, but I don't want to live near a data center.\"",
+    "src": "https://baynews9.com/fl/tampa/news/2026/04/15/fort-meade-data-center-approved-despite-residents-concerns"
+   },
+   {
+    "para": 4,
+    "t": "The campus is put at 1,163 acres and listed as under construction, and an organised local group, the Watchdogs of Fort Meade, has formed against it.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 4,
+    "t": "The 2,100 megawatt Hines Energy Complex is 5 kilometres away, with three more gas plants within 9 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Two other data center sites sit in Polk County, at Lakeland 32 kilometres away and Haines City at 40.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://baynews9.com/fl/tampa/news/2026/04/15/fort-meade-data-center-approved-despite-residents-concerns"
+  ],
+  "unconfirmed": "The report read gives no acreage, square footage, cost, megawatt figure or count of public speakers, and no vote tally beyond unanimous. Other reports describe a $2.6 billion campus of up to 4.4 million square feet on about 1,300 acres, with 40 of 41 public commenters against, and subsequent lawsuits and a recall effort aimed at three commissioners; none of those pages could be read at source and none of those claims is used above. Both Data Center Dynamics articles cited in our record returned 403. Our record's status of under construction was not confirmed."
+ },
+ {
+  "id": "ft-1763321276591-6787",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one was pulled before anyone had to vote on it, and the reason was a bill in Tallahassee.",
+    "src": "https://www.wptv.com/wptv-investigates/scrapped-developer-of-st-lucie-county-data-center-project-may-withdraw-plan-amid-new-ai-legislation"
+   },
+   {
+    "para": 0,
+    "t": "Sentinel Grove Technology Park, a data center campus on Orange Avenue near Fort Pierce, in St. Lucie County, Florida, was to be 15 million square feet across about 1,200 acres, in buildings around 60 feet tall.",
+    "src": "https://www.wptv.com/wptv-investigates/scrapped-developer-of-st-lucie-county-data-center-project-may-withdraw-plan-amid-new-ai-legislation"
+   },
+   {
+    "para": 0,
+    "t": "The company behind it has never been publicly identified.",
+    "src": "https://www.wptv.com/wptv-investigates/scrapped-developer-of-st-lucie-county-data-center-project-may-withdraw-plan-amid-new-ai-legislation"
+   },
+   {
+    "para": 1,
+    "t": "St. Lucie County Commissioner Cathy Townsend said the developer \"pulled because they knew that there was going to be legislation coming out in Tallahassee\".",
+    "src": "https://www.wptv.com/wptv-investigates/scrapped-developer-of-st-lucie-county-data-center-project-may-withdraw-plan-amid-new-ai-legislation"
+   },
+   {
+    "para": 2,
+    "t": "Two bills were moving.",
+    "src": "https://www.wptv.com/wptv-investigates/scrapped-developer-of-st-lucie-county-data-center-project-may-withdraw-plan-amid-new-ai-legislation"
+   },
+   {
+    "para": 2,
+    "t": "Senate Bill 482, styled an Artificial Intelligence Bill of Rights, would widen land use restrictions blocking data centers on agricultural land and require large facilities to pay the full cost of the utilities they use.",
+    "src": "https://www.wptv.com/wptv-investigates/scrapped-developer-of-st-lucie-county-data-center-project-may-withdraw-plan-amid-new-ai-legislation"
+   },
+   {
+    "para": 2,
+    "t": "Senate Bill 484 would ban non disclosure agreements for data center developers and require the companies behind projects to be named publicly.",
+    "src": "https://www.wptv.com/wptv-investigates/scrapped-developer-of-st-lucie-county-data-center-project-may-withdraw-plan-amid-new-ai-legislation"
+   },
+   {
+    "para": 2,
+    "t": "Governor Ron DeSantis said: \"The incentives of big tech are not the same as what's in the interest of the people and the public.\"",
+    "src": "https://www.wptv.com/wptv-investigates/scrapped-developer-of-st-lucie-county-data-center-project-may-withdraw-plan-amid-new-ai-legislation"
+   },
+   {
+    "para": 2,
+    "t": "Asked what the bills would mean for future projects, Townsend said: \"I don't really think you'll see any.\"",
+    "src": "https://www.wptv.com/wptv-investigates/scrapped-developer-of-st-lucie-county-data-center-project-may-withdraw-plan-amid-new-ai-legislation"
+   },
+   {
+    "para": 3,
+    "t": "The site is put at 1,218 acres and 1,000 megawatts and listed as suspended.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "Another tracked data center site, a Timberline Real Estate Partners project, sits 3 kilometres away on the same road.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generation is solar: four plants of 75 megawatts each, between 8 and 15 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.wptv.com/wptv-investigates/scrapped-developer-of-st-lucie-county-data-center-project-may-withdraw-plan-amid-new-ai-legislation"
+  ],
+  "unconfirmed": "The exact date of withdrawal is not established from the source read, which describes the pullback as anticipated rather than completed; reports elsewhere put it at 26 February 2026 and describe a $13.5 billion project and a 4 to 2 planning commission vote against the comprehensive plan amendment in late 2025, but those pages were not read and none of those figures is used above. Whether either Senate bill passed, and whether the developer has refiled, are not established. The developer's identity remains undisclosed. The two Data Center Dynamics articles and the TCPalm report in our record could not be fetched."
+ },
+ {
+  "id": "ft-54",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "What is recorded about this site is mostly a headline, and the headline is about water.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The entry is for a Cielo data center campus of 300 megawatts on about 74 acres on Marion Road in Haines City, in Polk County, Florida, and one of the two sources attached to it is a trade report headed \"Planned data center in Florida held back by lack of available water from city\".",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The other source is a report about a different Cielo project in South Carolina and does not concern Florida at all.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The project is listed as suspended.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "Three data center sites sit in Polk County, the nearest being the Fort Meade campus 40 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The nearest generation is a 75 megawatt solar and battery plant at Lake Mabel, 12 kilometres away, with the 940 megawatt Intercession City gas plant at 21.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Neither source in our record could be read: one returned 403 and the other is about a South Carolina project. So the water problem the headline points to, which is the only thing that makes this site interesting, could not be described: how much water was sought, who refused it, when, and whether the position has changed are all unknown. No developer beyond the name Cielo, no application, no hearing and no local reaction were found, and no local Haines City reporting was sought."
+ },
+ {
+  "id": "ft-1782754581724-6170",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Deltona Corporation gave up on 24 June 2026, and the public hearings booked for July were cancelled.",
+    "src": "https://www.fox13news.com/news/citrus-county-data-center-proposal-withdrawn-resident-backlash-hearings-canceled"
+   },
+   {
+    "para": 0,
+    "t": "The company withdrew its comprehensive plan amendment and its zoning change applications for the Holder Industrial Park data center, about 800 acres near US 41 and North Lecanto Highway in Citrus County.",
+    "src": "https://www.fox13news.com/news/citrus-county-data-center-proposal-withdrawn-resident-backlash-hearings-canceled"
+   },
+   {
+    "para": 0,
+    "t": "The hearings that would have gone to the Board of County Commissioners on 14 July were taken off the calendar.",
+    "src": "https://www.fox13news.com/news/citrus-county-data-center-proposal-withdrawn-resident-backlash-hearings-canceled"
+   },
+   {
+    "para": 1,
+    "t": "Residents had filled the commission chambers to object.",
+    "src": "https://www.fox13news.com/news/citrus-county-data-center-proposal-withdrawn-resident-backlash-hearings-canceled"
+   },
+   {
+    "para": 1,
+    "t": "They raised the effect on nearby homes and businesses, on water resources and infrastructure, and questioned what it would do to the county's water supply, its electrical grid and its long term environmental health.",
+    "src": "https://www.fox13news.com/news/citrus-county-data-center-proposal-withdrawn-resident-backlash-hearings-canceled"
+   },
+   {
+    "para": 2,
+    "t": "The county had already acted.",
+    "src": "https://www.fox13news.com/news/citrus-county-data-center-proposal-withdrawn-resident-backlash-hearings-canceled"
+   },
+   {
+    "para": 2,
+    "t": "In May 2026 Citrus County commissioners enacted a one year moratorium on data centers and on the zoning changes that would enable them, to give staff time to study the question and write rules.",
+    "src": "https://www.fox13news.com/news/citrus-county-data-center-proposal-withdrawn-resident-backlash-hearings-canceled"
+   },
+   {
+    "para": 2,
+    "t": "That moratorium runs from 26 May 2026 to 26 May 2027, and a second one in neighbouring Hernando County runs from 26 June 2026 for a year.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The site is put at 1,400 acres, the project is listed as cancelled, and a petition and a campaign group at nodatacentercitrus.org had formed against it.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "Another Deltona Corporation site in Citrus County sits 13 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 3,039 megawatt Crystal River plant is 29 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.fox13news.com/news/citrus-county-data-center-proposal-withdrawn-resident-backlash-hearings-canceled"
+  ],
+  "unconfirmed": "No resident or official is named or quoted in the report read. The acreage differs between our record at 1,400 acres and the reporting at about 800, and the county's planning commission recommendation against the proposal, reported elsewhere as following a June hearing attended by more than 200 people, was not read at source and is not used above. No megawatt figure exists for the project, and no tenant or data center operator was ever named. Whether Deltona intends to refile after the moratorium expires is not established."
+ },
+ {
+  "id": "ft-1780879082497-8845",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Project Swan is a proposed data center of about 600,000 square feet on 60.5 acres at 923 Wilkinson Road, near Old Tampa Highway in Lakeland, in Polk County, Florida.",
+    "src": "https://www.lkldnow.com/hyperscale-data-center-proposed-for-lakeland/"
+   },
+   {
+    "para": 0,
+    "t": "The plan shows three data center buildings, mechanical yards, stormwater ponds and a 3.8 acre electrical substation.",
+    "src": "https://www.lkldnow.com/hyperscale-data-center-proposed-for-lakeland/"
+   },
+   {
+    "para": 0,
+    "t": "Kimley-Horn filed for concept plan review on May 5, 2026 on behalf of Ryan Companies US, with the land held by Joel Schachter through Holmes Beach Family Tides LLC.",
+    "src": "https://www.lkldnow.com/hyperscale-data-center-proposed-for-lakeland/"
+   },
+   {
+    "para": 1,
+    "t": "Lakeland's code does not have a category for this.",
+    "src": "https://www.lkldnow.com/hyperscale-data-center-proposed-for-lakeland/"
+   },
+   {
+    "para": 1,
+    "t": "Brian Rewis, the city's community and economic development director, put it plainly: \"To our reading of our own code, there is no comparable use to a data center,\" which means it is prohibited unless the applicant shows otherwise or the code is changed.",
+    "src": "https://www.lkldnow.com/hyperscale-data-center-proposed-for-lakeland/"
+   },
+   {
+    "para": 1,
+    "t": "Getting it built would need a determination on code compliance, possible zoning or code amendments, annexation of parcels currently in unincorporated Polk County, and an engineered site plan.",
+    "src": "https://www.lkldnow.com/hyperscale-data-center-proposed-for-lakeland/"
+   },
+   {
+    "para": 1,
+    "t": "Chief planner Matt Lyons noted that the largest parcel is zoned for biosolids fertiliser processing, approved but never built.",
+    "src": "https://www.lkldnow.com/hyperscale-data-center-proposed-for-lakeland/"
+   },
+   {
+    "para": 2,
+    "t": "Residents have not waited for the paperwork.",
+    "src": "https://www.lkldnow.com/hyperscale-data-center-proposed-for-lakeland/"
+   },
+   {
+    "para": 2,
+    "t": "Michael Hillman asked where the water would come from during restrictions, said developers often misrepresent how many jobs these places create, and pressed for proper environmental studies.",
+    "src": "https://www.lkldnow.com/hyperscale-data-center-proposed-for-lakeland/"
+   },
+   {
+    "para": 2,
+    "t": "Kathryn Goodell raised the same contradiction between water restrictions and a facility of this kind.",
+    "src": "https://www.lkldnow.com/hyperscale-data-center-proposed-for-lakeland/"
+   },
+   {
+    "para": 2,
+    "t": "Heidi Campbell argued that data centers bring few permanent jobs for the utility demand they create and the infrastructure costs taxpayers carry.",
+    "src": "https://www.lkldnow.com/hyperscale-data-center-proposed-for-lakeland/"
+   },
+   {
+    "para": 2,
+    "t": "Sandra Lingard urged people to watch for non disclosure agreements and tax breaks, citing the Watchdogs of Fort Meade group's experience of how these approvals go.",
+    "src": "https://www.lkldnow.com/hyperscale-data-center-proposed-for-lakeland/"
+   },
+   {
+    "para": 2,
+    "t": "By June 2026 residents were calling for a moratorium.",
+    "src": "https://baynews9.com/fl/tampa/news/2026/06/08/lakeland-proposed-data-center-"
+   },
+   {
+    "para": 3,
+    "t": "The site has generation on its doorstep: the 50 megawatt Winston plant a kilometer away, the 163 megawatt Larsen Memorial at 8 and the 614 megawatt C D McIntosh Jr at 10.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The Fort Meade campus, the largest data center project in Polk County, is 32 kilometers south.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.lkldnow.com/hyperscale-data-center-proposed-for-lakeland/",
+   "https://baynews9.com/fl/tampa/news/2026/06/08/lakeland-proposed-data-center-"
+  ],
+  "unconfirmed": "No power capacity figure, water figure or investment total has been published, and the end user is not named. Square footage is given as 600,000 in most accounts and about 550,000 in one. Our record lists the site at 60 acres against the concept plan's 60.5, and carries no developer, application date or sign of objection, all of which are now established above."
+ },
+ {
+  "id": "ft-1765431719795-7285",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Palm Beach County commissioners turned down the expansion, and the bulldozers kept working.",
+    "src": "https://www.wptv.com/news/region-c-palm-beach-county/loxahatchee-acreage/palm-beach-county-denies-project-tango-expansion-but-construction-on-loxahatchee-site-continues"
+   },
+   {
+    "para": 0,
+    "t": "What they refused was a new application for extra floor space that would have turned the site into a hyperscale artificial intelligence data center.",
+    "src": "https://www.wptv.com/news/region-c-palm-beach-county/loxahatchee-acreage/palm-beach-county-denies-project-tango-expansion-but-construction-on-loxahatchee-site-continues"
+   },
+   {
+    "para": 0,
+    "t": "What they could not stop was the smaller warehouse and data center approved back in 2016, which remains authorised and is going up.",
+    "src": "https://www.wptv.com/news/region-c-palm-beach-county/loxahatchee-acreage/palm-beach-county-denies-project-tango-expansion-but-construction-on-loxahatchee-site-continues"
+   },
+   {
+    "para": 0,
+    "t": "The refusal was without prejudice, so the developer can revise and come back.",
+    "src": "https://www.wptv.com/news/region-c-palm-beach-county/loxahatchee-acreage/palm-beach-county-denies-project-tango-expansion-but-construction-on-loxahatchee-site-continues"
+   },
+   {
+    "para": 1,
+    "t": "The hearing ran close to 12 hours.",
+    "src": "https://www.wptv.com/news/region-c-palm-beach-county/loxahatchee-acreage/palm-beach-county-denies-project-tango-expansion-but-construction-on-loxahatchee-site-continues"
+   },
+   {
+    "para": 1,
+    "t": "Commissioner Marci Woodward said: \"I'm more convinced now than ever that it's not\" the same data center that was approved before.",
+    "src": "https://www.wptv.com/news/region-c-palm-beach-county/loxahatchee-acreage/palm-beach-county-denies-project-tango-expansion-but-construction-on-loxahatchee-site-continues"
+   },
+   {
+    "para": 1,
+    "t": "County Mayor Sara Baxter told residents: \"We hear you, we are starting this moratorium because we understand you have a lot of concerns.\"",
+    "src": "https://www.wptv.com/news/region-c-palm-beach-county/loxahatchee-acreage/palm-beach-county-denies-project-tango-expansion-but-construction-on-loxahatchee-site-continues"
+   },
+   {
+    "para": 1,
+    "t": "The moratorium on new data center applications followed hundreds of emails from residents.",
+    "src": "https://www.wptv.com/news/region-c-palm-beach-county/loxahatchee-acreage/palm-beach-county-denies-project-tango-expansion-but-construction-on-loxahatchee-site-continues"
+   },
+   {
+    "para": 2,
+    "t": "The campaign against it ran for eight months and was led by Ben Brown, vice president of the Arden homeowners association.",
+    "src": "https://www.wptv.com/news/region-c-palm-beach-county/loxahatchee-acreage/palm-beach-county-denies-project-tango-expansion-but-construction-on-loxahatchee-site-continues"
+   },
+   {
+    "para": 2,
+    "t": "\"Something that size has no business being next to an elementary school or residential community,\" he said.",
+    "src": "https://www.wptv.com/news/region-c-palm-beach-county/loxahatchee-acreage/palm-beach-county-denies-project-tango-expansion-but-construction-on-loxahatchee-site-continues"
+   },
+   {
+    "para": 2,
+    "t": "Residents raised heat, water use, low frequency noise and the closeness of schools.",
+    "src": "https://www.wptv.com/news/region-c-palm-beach-county/loxahatchee-acreage/palm-beach-county-denies-project-tango-expansion-but-construction-on-loxahatchee-site-continues"
+   },
+   {
+    "para": 3,
+    "t": "The developer is PBA Holdings Inc., represented by project manager Ernie Cox.",
+    "src": "https://www.wptv.com/news/region-c-palm-beach-county/loxahatchee-acreage/palm-beach-county-denies-project-tango-expansion-but-construction-on-loxahatchee-site-continues"
+   },
+   {
+    "para": 3,
+    "t": "A separate report by the same station put Project Tango at 1.8 million square feet and estimated its water use at about 1.7 million gallons a month.",
+    "src": "https://www.wptv.com/wptv-investigates/scrapped-developer-of-st-lucie-county-data-center-project-may-withdraw-plan-amid-new-ai-legislation"
+   },
+   {
+    "para": 4,
+    "t": "The site is 202 acres and $2.6 billion, the county denied the expansion on 15 July 2026 while construction continued under the 2016 approval, and a petition and a campaign group at notoprojecttango.com formed against it.",
+    "src": "data:note"
+   },
+   {
+    "para": 4,
+    "t": "The 3,777 megawatt West County Energy Center, the largest gas plant in this area, is a kilometre away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.wptv.com/news/region-c-palm-beach-county/loxahatchee-acreage/palm-beach-county-denies-project-tango-expansion-but-construction-on-loxahatchee-site-continues",
+   "https://www.wptv.com/wptv-investigates/scrapped-developer-of-st-lucie-county-data-center-project-may-withdraw-plan-amid-new-ai-legislation"
+  ],
+  "unconfirmed": "No vote count for the denial appears in the report read, only that commissioners denied it; the 15 July 2026 date comes from our own record. The terms and length of the county moratorium are not established. No megawatt figure exists for the project. The Business Insider and MSN reports in our record, which frame the site by its distance from Mar-a-Lago, could not be fetched and nothing from them is used here."
+ },
+ {
+  "id": "ft-55",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "One line is recorded about this site, and it is about a deadline rather than a building.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The entry names a HostDime data center at 1 Innovative Place, in Orange County, Florida, and the single source attached to it is a trade report headed \"HostDime seeks deadline extension for data center in Eatonville, Orlando\".",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The address is given as Maitland while that headline places the project in Eatonville, two different municipalities in Orange County.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "No capacity figure, acreage, date or sign of local objection is attached to it.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The nearest generation is the 120 megawatt Orlando Cogen plant 19 kilometres away, with the Stanton Energy Center complex, gas and coal together over 1,800 megawatts, at 26.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "The only other tracked data center site nearby is an Equinix facility 25 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so nothing could be verified: not the location, which our record and the source headline give differently, not the size, not the deadline in question or who set it, and not whether the project went ahead. No Orange County local reporting was sought. This entry needs its address checked before the page is trusted."
+ }
+]

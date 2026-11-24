@@ -1,0 +1,561 @@
+[
+ {
+  "id": "amazon-aws-stafford-potomac-church",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon's Potomac Church campus sits on 50 acres off Old Potomac Church Road in Stafford County, near Stafford Hospital and US-1.",
+    "src": "https://baxtel.com/data-center/aws-potomac-church-campus"
+   },
+   {
+    "para": 0,
+    "t": "The campus has two data center buildings, each two stories, totaling 510,000 square feet.",
+    "src": "https://www.datacenterdynamics.com/en/analysis/the-amazon-factor-in-virginia/"
+   },
+   {
+    "para": 0,
+    "t": "Amazon filed for development approval in mid-2023, and Stafford officials approved the agreement in December 2023.",
+    "src": "https://baxtel.com/data-center/aws-potomac-church-campus"
+   },
+   {
+    "para": 0,
+    "t": "The data center directory Baxtel describes it as a fully operational facility built in 2026.",
+    "src": "https://baxtel.com/data-center/aws-potomac-church-campus"
+   },
+   {
+    "para": 1,
+    "t": "On July 2, 2024, the Stafford County Board of Supervisors voted unanimously to approve a water infrastructure agreement with Amazon for the site.",
+    "src": "https://citizenportal.ai/articles/7146991/Virginia/Stafford-County/Board-authorizes-water-infrastructure-agreement-with-Amazon-for-Potomac-Church-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Under the deal, Amazon will design and pay for nearly all of a new water reuse system for northern Stafford County, while the county designs upgrades to the Aquia wastewater treatment plant that Amazon will fund.",
+    "src": "https://citizenportal.ai/articles/7146991/Virginia/Stafford-County/Board-authorizes-water-infrastructure-agreement-with-Amazon-for-Potomac-Church-data-center"
+   },
+   {
+    "para": 1,
+    "t": "The board described it as a significant and complex undertaking that should set a high standard for water reuse agreements.",
+    "src": "https://citizenportal.ai/articles/7146991/Virginia/Stafford-County/Board-authorizes-water-infrastructure-agreement-with-Amazon-for-Potomac-Church-data-center"
+   },
+   {
+    "para": 1,
+    "t": "The county set a target of May 2027 to establish water reuse rates.",
+    "src": "https://citizenportal.ai/articles/7146991/Virginia/Stafford-County/Board-authorizes-water-infrastructure-agreement-with-Amazon-for-Potomac-Church-data-center"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/data-center/aws-potomac-church-campus",
+   "https://www.datacenterdynamics.com/en/analysis/the-amazon-factor-in-virginia/",
+   "https://citizenportal.ai/articles/7146991/Virginia/Stafford-County/Board-authorizes-water-infrastructure-agreement-with-Amazon-for-Potomac-Church-data-center"
+  ],
+  "unconfirmed": "Our own record lists the project as under construction where Baxtel has it fully operational, and the two could not be reconciled. The Stafford County meeting write-up returns a 403 error on this pass, so the board's description of the water agreement is paraphrased rather than quoted."
+ },
+ {
+  "id": "amazon-aws-cosner-tech-spotsylvania",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Cosner Tech data center campus covers 329 acres of former woodland along Massaponax Church Road at Cosner Drive, south of Spotsylvania Regional Medical Center near Fredericksburg, Virginia.",
+    "src": "https://baxtel.com/news/more-data-center-proposals-in-spotsylvania-aws-files-for-four-rezoning-requests-for-data-centers"
+   },
+   {
+    "para": 0,
+    "t": "The Board of Supervisors rezoned it from mixed use to industrial on October 10, 2023.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "The approved plan runs to 1.9 million square feet in phases, the first phase 900,000 square feet over ten to fifteen years.",
+    "src": "https://baxtel.com/news/more-data-center-proposals-in-spotsylvania-aws-files-for-four-rezoning-requests-for-data-centers"
+   },
+   {
+    "para": 0,
+    "t": "The first phase includes two 250,000 square foot data center buildings, an office, a water treatment plant and a logistics building, with five more data centers totalling 1.3 million square feet to follow.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "This was one of four campuses Amazon filed for at once, in June 2023, across Spotsylvania and Caroline counties, more than 10 million square feet between them.",
+    "src": "https://baxtel.com/news/more-data-center-proposals-in-spotsylvania-aws-files-for-four-rezoning-requests-for-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "Cosner is the one that has got furthest.",
+    "src": "https://www.fxbgadvance.com/p/digital-insights-the-status-of-data"
+   },
+   {
+    "para": 1,
+    "t": "Michelle McGinnis, the county's public information officer, said certificates of occupancy may be issued in 2026 for the first two buildings \"provided there are no unforeseen delays.\"",
+    "src": "https://www.fxbgadvance.com/p/digital-insights-the-status-of-data"
+   },
+   {
+    "para": 2,
+    "t": "The campuses are part of an AWS plan to put $35 billion into Virginia data center campuses over 15 years.",
+    "src": "https://www.datacenterfrontier.com/cloud/article/33006046/amazon-plans-major-data-center-expansion-in-virginias-spotsylvania-county"
+   },
+   {
+    "para": 2,
+    "t": "An AWS spokesperson said the company \"is committed to being a good neighbor in every community where we have a presence and we look forward to continuing these conversations throughout the permitting process.\"",
+    "src": "https://www.datacenterfrontier.com/cloud/article/33006046/amazon-plans-major-data-center-expansion-in-virginias-spotsylvania-county"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/news/more-data-center-proposals-in-spotsylvania-aws-files-for-four-rezoning-requests-for-data-centers",
+   "https://www.datacenterfrontier.com/cloud/article/33006046/amazon-plans-major-data-center-expansion-in-virginias-spotsylvania-county",
+   "https://www.fxbgadvance.com/p/digital-insights-the-status-of-data"
+  ],
+  "unconfirmed": "Our record lists Cosner as under construction; a trade directory lists it as fully operational and built in 2025. Spotsylvania County's public information officer said certificates of occupancy may be issued in 2026 for the first two buildings, which fits neither exactly."
+ },
+ {
+  "id": "amazon-aws-carter-s-store-tech",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Carter's Store Tech Campus takes in about 314 acres along Flippo Drive, east of Interstate 95, bordering Amazon's Summit Crossing land in Spotsylvania County.",
+    "src": "https://baxtel.com/news/more-data-center-proposals-in-spotsylvania-aws-files-for-four-rezoning-requests-for-data-centers"
+   },
+   {
+    "para": 0,
+    "t": "Amazon filed in June 2023 to rezone it from rural to industrial for up to 2.6 million square feet of data centers, including a substation, built out through 2035.",
+    "src": "https://baxtel.com/news/more-data-center-proposals-in-spotsylvania-aws-files-for-four-rezoning-requests-for-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "It was one of four filed the same month across Spotsylvania and Caroline counties, alongside Summit Crossing, Cosner and Orrock, more than 10 million square feet in total.",
+    "src": "https://baxtel.com/news/more-data-center-proposals-in-spotsylvania-aws-files-for-four-rezoning-requests-for-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "All four have since moved from paper to ground.",
+    "src": "https://www.fxbgadvance.com/p/digital-insights-the-status-of-data"
+   },
+   {
+    "para": 1,
+    "t": "The Fredericksburg Advance reported that Amazon is building on all four sites, Summit Crossing, Carter Store, Cosner and Mattameade.",
+    "src": "https://www.fxbgadvance.com/p/digital-insights-the-status-of-data"
+   },
+   {
+    "para": 2,
+    "t": "The campuses are part of an AWS plan to put $35 billion into Virginia data center campuses over 15 years.",
+    "src": "https://www.datacenterfrontier.com/cloud/article/33006046/amazon-plans-major-data-center-expansion-in-virginias-spotsylvania-county"
+   },
+   {
+    "para": 2,
+    "t": "What Spotsylvania gets back from it will not be clear until the county works through its 2027 budget.",
+    "src": "https://www.fxbgadvance.com/p/digital-insights-the-status-of-data"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/news/more-data-center-proposals-in-spotsylvania-aws-files-for-four-rezoning-requests-for-data-centers",
+   "https://www.fxbgadvance.com/p/digital-insights-the-status-of-data",
+   "https://www.datacenterfrontier.com/cloud/article/33006046/amazon-plans-major-data-center-expansion-in-virginias-spotsylvania-county"
+  ],
+  "unconfirmed": "Our record still lists Carter's Store as proposed, where the Fredericksburg Advance reports buildings going up on all four Amazon sites in the county."
+ },
+ {
+  "id": "amazon-aws-summit-crossing-tech",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Summit Crossing Tech Campus sits on 231 acres off Summit Crossing Road in the Massaponax area of Spotsylvania County, near the Caroline County line.",
+    "src": "https://baxtel.com/news/more-data-center-proposals-in-spotsylvania-aws-files-for-four-rezoning-requests-for-data-centers"
+   },
+   {
+    "para": 0,
+    "t": "Amazon filed in June 2023 to rezone it from rural to industrial for up to 2.1 million square feet of data centers, the first phase capped at 900,000.",
+    "src": "https://baxtel.com/news/more-data-center-proposals-in-spotsylvania-aws-files-for-four-rezoning-requests-for-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "The Board of Supervisors approved the rezoning in October 2023 by five votes to two.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Construction was expected to start in July 2024 and the campus to be finished by 2028.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "The Fredericksburg Advance has since reported buildings going up on all four of the Amazon sites in the county, Summit Crossing among them.",
+    "src": "https://www.fxbgadvance.com/p/digital-insights-the-status-of-data"
+   },
+   {
+    "para": 2,
+    "t": "Amazon's four filings in Spotsylvania and Caroline came at once and totalled more than 10 million square feet.",
+    "src": "https://baxtel.com/news/more-data-center-proposals-in-spotsylvania-aws-files-for-four-rezoning-requests-for-data-centers"
+   },
+   {
+    "para": 2,
+    "t": "The campuses are part of an AWS plan to put $35 billion into Virginia data center campuses over 15 years, and an AWS spokesperson said the company \"is committed to being a good neighbor in every community where we have a presence and we look forward to continuing these conversations throughout the permitting process.\"",
+    "src": "https://www.datacenterfrontier.com/cloud/article/33006046/amazon-plans-major-data-center-expansion-in-virginias-spotsylvania-county"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/news/more-data-center-proposals-in-spotsylvania-aws-files-for-four-rezoning-requests-for-data-centers",
+   "https://www.fxbgadvance.com/p/digital-insights-the-status-of-data",
+   "https://www.datacenterfrontier.com/cloud/article/33006046/amazon-plans-major-data-center-expansion-in-virginias-spotsylvania-county"
+  ],
+  "unconfirmed": "Our record still lists Summit Crossing as proposed, where the Fredericksburg Advance reports buildings going up on it."
+ },
+ {
+  "id": "amazon-aws-mattameade-orrock-tech",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Orrock Tech data center campus, which Amazon also calls Mattameade, is the largest of the four it filed for at once in June 2023, in Spotsylvania and Caroline counties, Virginia.",
+    "src": "https://baxtel.com/news/more-data-center-proposals-in-spotsylvania-aws-files-for-four-rezoning-requests-for-data-centers"
+   },
+   {
+    "para": 0,
+    "t": "It spans 1,078 acres across the Spotsylvania and Caroline county line, about 158 acres on the Spotsylvania side and about 920 in Caroline, and would run to some 4.5 million square feet.",
+    "src": "https://baxtel.com/news/more-data-center-proposals-in-spotsylvania-aws-files-for-four-rezoning-requests-for-data-centers"
+   },
+   {
+    "para": 0,
+    "t": "Amazon asked to rezone the Spotsylvania acreage from agricultural to industrial to support the neighbouring Caroline County campus.",
+    "src": "https://baxtel.com/news/more-data-center-proposals-in-spotsylvania-aws-files-for-four-rezoning-requests-for-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "The Spotsylvania Board of Supervisors approved it on November 15, 2024.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Because the site straddles the line, the two counties split the revenue: 57.5 percent to Caroline and 42.5 percent to Spotsylvania.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "The Fredericksburg Advance reports buildings going up on the Mattameade site along with Amazon's three others in the county.",
+    "src": "https://www.fxbgadvance.com/p/digital-insights-the-status-of-data"
+   },
+   {
+    "para": 2,
+    "t": "Buildout across these campuses is planned over ten to fifteen years.",
+    "src": "https://www.datacenterfrontier.com/cloud/article/33006046/amazon-plans-major-data-center-expansion-in-virginias-spotsylvania-county"
+   },
+   {
+    "para": 2,
+    "t": "What the county will collect from them will not be clear until it works through its 2027 budget.",
+    "src": "https://www.fxbgadvance.com/p/digital-insights-the-status-of-data"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/news/more-data-center-proposals-in-spotsylvania-aws-files-for-four-rezoning-requests-for-data-centers",
+   "https://www.fxbgadvance.com/p/digital-insights-the-status-of-data",
+   "https://www.datacenterfrontier.com/cloud/article/33006046/amazon-plans-major-data-center-expansion-in-virginias-spotsylvania-county"
+  ],
+  "unconfirmed": "Our record still lists the project as proposed, where the Fredericksburg Advance reports buildings going up on it."
+ },
+ {
+  "id": "amazon-aws-birchwood-king-george",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Birchwood project sits on 869 acres at the site of a retired coal-fired power plant on the Rappahannock River in King George County.",
+    "src": "https://baxtel.com/data-center/amazon-king-george-va"
+   },
+   {
+    "para": 0,
+    "t": "Amazon told Virginia officials it planned to invest up to $6 billion in 17 data centers there, according to a report on the resulting court case.",
+    "src": "https://www.govtech.com/artificial-intelligence/virginia-court-case-could-influence-other-data-center-fights"
+   },
+   {
+    "para": 0,
+    "t": "The data center directory Baxtel puts the full buildout at 19 buildings totaling 7.5 million square feet, with the first phase alone eight buildings, 4 million square feet, and two electrical substations.",
+    "src": "https://baxtel.com/data-center/amazon-king-george-va"
+   },
+   {
+    "para": 0,
+    "t": "Amazon bought nine parcels on the site for $168.8 million in December 2023.",
+    "src": "https://baxtel.com/data-center/amazon-king-george-va"
+   },
+   {
+    "para": 0,
+    "t": "The site already had a Dominion Energy substation left over from the retired 258-megawatt coal plant, and Amazon holds a permit to draw 6.6 million gallons of water a day from the Rappahannock River.",
+    "src": "https://baxtel.com/data-center/amazon-king-george-va"
+   },
+   {
+    "para": 1,
+    "t": "On December 19, 2023, the King George Board of Supervisors approved a performance agreement and zoning changes clearing the way for the project.",
+    "src": "https://www.govtech.com/artificial-intelligence/virginia-court-case-could-influence-other-data-center-fights"
+   },
+   {
+    "para": 1,
+    "t": "A newly elected board majority took office and rescinded that agreement at its first meeting, on January 2, 2024.",
+    "src": "https://www.govtech.com/artificial-intelligence/virginia-court-case-could-influence-other-data-center-fights"
+   },
+   {
+    "para": 1,
+    "t": "Amazon sued the county in circuit court in May 2024, arguing it had vested property rights under the approved rezoning and that the county's zoning administrator had missed a legal deadline to certify those rights.",
+    "src": "https://www.govtech.com/artificial-intelligence/virginia-court-case-could-influence-other-data-center-fights"
+   },
+   {
+    "para": 1,
+    "t": "Curry Roberts, the retired president of the Fredericksburg Regional Alliance, asked: \"What company is going to build in a county that doesn't honor an approved performance agreement?\"",
+    "src": "https://www.govtech.com/artificial-intelligence/virginia-court-case-could-influence-other-data-center-fights"
+   },
+   {
+    "para": 1,
+    "t": "Judge J. Bruce Strickland ordered limited discovery in the case in January 2026.",
+    "src": "https://www.govtech.com/artificial-intelligence/virginia-court-case-could-influence-other-data-center-fights"
+   },
+   {
+    "para": 1,
+    "t": "King George has tried to use a new state law, in effect since July 1, 2026, to limit what Amazon can obtain in discovery; Amazon argues the law should not apply retroactively.",
+    "src": "https://www.govtech.com/artificial-intelligence/virginia-court-case-could-influence-other-data-center-fights"
+   },
+   {
+    "para": 1,
+    "t": "A trial was scheduled for September 2026, after an earlier date in May 2026 was pushed back.",
+    "src": "https://www.govtech.com/artificial-intelligence/virginia-court-case-could-influence-other-data-center-fights"
+   },
+   {
+    "para": 1,
+    "t": "As of March 2026, the case remained pending in King George County Circuit Court.",
+    "src": "https://baxtel.com/data-center/amazon-king-george-va"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/data-center/amazon-king-george-va",
+   "https://www.govtech.com/artificial-intelligence/virginia-court-case-could-influence-other-data-center-fights"
+  ],
+  "unconfirmed": "The outcome of the September 2026 trial was not established. An August 2026 Royal Examiner headline referred to Amazon changing its water plans for the site, but the article text could not be retrieved, so that claim is not included."
+ },
+ {
+  "id": "amazon-aws-devlin-technology-park-bristow",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon Data Services paid $700 million in November 2025 for 269 acres near Devlin Road in Bristow, south of Interstate 66 in Prince William County, buying out Stanley Martin Homes' plans to build housing there.",
+    "src": "https://virginiabusiness.com/amazon-buys-189-acres-in-prince-william-tech-park-for-700m/"
+   },
+   {
+    "para": 0,
+    "t": "The land is zoned to hold up to 3.5 million square feet of data centers and three substations.",
+    "src": "https://baxtel.com/data-center/amazon-devlin-tech-park"
+   },
+   {
+    "para": 1,
+    "t": "Prince William County supervisors approved rezoning for the site in 2023, after meetings that drew resident opposition.",
+    "src": "https://wjla.com/news/local/amazon-virginia-data-center-neighborhood-residents-schools-land-concerns-payment-facilities-information-energy-costs-devlin-technology-community-supervisors-gainsville-bristow"
+   },
+   {
+    "para": 1,
+    "t": "Legal challenges to that rezoning were dismissed in both the circuit court and the court of appeals.",
+    "src": "https://wjla.com/news/local/amazon-virginia-data-center-neighborhood-residents-schools-land-concerns-payment-facilities-information-energy-costs-devlin-technology-community-supervisors-gainsville-bristow"
+   },
+   {
+    "para": 1,
+    "t": "Board chair Deshundra Jefferson said the county had let large users pay \"an artificially low rate\" on its computer and peripheral tax, calling it \"cheating the taxpayers.\"",
+    "src": "https://wjla.com/news/local/amazon-virginia-data-center-neighborhood-residents-schools-land-concerns-payment-facilities-information-energy-costs-devlin-technology-community-supervisors-gainsville-bristow"
+   },
+   {
+    "para": 1,
+    "t": "George Stewart, elected to represent the Gainesville district, said future data centers would pay \"a minimum floor\" so that residents are not \"paying their energy bill.\"",
+    "src": "https://wjla.com/news/local/amazon-virginia-data-center-neighborhood-residents-schools-land-concerns-payment-facilities-information-energy-costs-devlin-technology-community-supervisors-gainsville-bristow"
+   },
+   {
+    "para": 1,
+    "t": "Jefferson also said data centers are willing to take over every square inch of land, and that the board has to act as the traffic cops, set sensible regulations and get the county its money's worth.",
+    "src": "https://wjla.com/news/local/amazon-virginia-data-center-neighborhood-residents-schools-land-concerns-payment-facilities-information-energy-costs-devlin-technology-community-supervisors-gainsville-bristow"
+   },
+   {
+    "para": 1,
+    "t": "Resident Catherine O'Connor said there has been \"pushback since day one\" over truck traffic and the strain new data centers put on the water system and the power grid.",
+    "src": "https://wjla.com/news/local/amazon-virginia-data-center-neighborhood-residents-schools-land-concerns-payment-facilities-information-energy-costs-devlin-technology-community-supervisors-gainsville-bristow"
+   },
+   {
+    "para": 2,
+    "t": "Prince William County adopted county-wide zoning limits on new data center projects on March 4, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://virginiabusiness.com/amazon-buys-189-acres-in-prince-william-tech-park-for-700m/",
+   "https://baxtel.com/data-center/amazon-devlin-tech-park",
+   "https://wjla.com/news/local/amazon-virginia-data-center-neighborhood-residents-schools-land-concerns-payment-facilities-information-energy-costs-devlin-technology-community-supervisors-gainsville-bristow"
+  ],
+  "unconfirmed": "A line attributing to Governor-elect Abigail Spanberger a promise to make \"large utility users pay their fair share\" was removed: she does not appear in the WJLA report it was credited to. Amazon did not respond to that station's requests for comment."
+ },
+ {
+  "id": "amazon-aws-bridgefield-tech-center-ashburn",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "George Washington University sold its Ashburn campus in Loudoun County, Virginia, the Virginia Science and Technology Campus, to Amazon Data Services for a data center project, in a sale of $427.3 million that closed on March 2, 2026.",
+    "src": "https://virginiabusiness.com/amazon-data-centers-gwu-ashburn/"
+   },
+   {
+    "para": 0,
+    "t": "The university's student newspaper, the GW Hatchet, reported the site at 122 acres; Virginia Business reported it at 111 acres.",
+    "src": "https://gwhatchet.com/2026/08/03/amazon-proposes-building-over-800000-square-feet-of-data-centers-on-gws-virginia-campus/"
+   },
+   {
+    "para": 0,
+    "t": "GW President Ellen Granberg said the university could keep operating its more than 20 degree and certificate programs on the site for up to five years after the sale.",
+    "src": "https://virginiabusiness.com/amazon-data-centers-gwu-ashburn/"
+   },
+   {
+    "para": 1,
+    "t": "Virginia Business dated Amazon's site plan filing for what it calls the Bridgefield Tech Center to July 28, 2026; WTOP dated the same filing to August 4, 2026.",
+    "src": "https://virginiabusiness.com/amazon-data-centers-gwu-ashburn/"
+   },
+   {
+    "para": 1,
+    "t": "The plan calls for four two-story data center buildings and three parking garages totaling more than 800,000 square feet, three buildings north of George Washington Boulevard and one south of it.",
+    "src": "https://virginiabusiness.com/amazon-data-centers-gwu-ashburn/"
+   },
+   {
+    "para": 1,
+    "t": "Amazon is seeking by-right approval under a 1972 zoning ordinance, which would let the project skip Planning Commission review and public hearings.",
+    "src": "https://virginiabusiness.com/amazon-data-centers-gwu-ashburn/"
+   },
+   {
+    "para": 1,
+    "t": "On July 30, 2026, the county's zoning administrator, Teresa Miller, ruled that an older policy treating data centers as office uses was obsolete, a step that could affect Amazon's by-right claim.",
+    "src": "https://virginiabusiness.com/amazon-data-centers-gwu-ashburn/"
+   },
+   {
+    "para": 2,
+    "t": "Loudoun supervisor Juli Briskman opposed the plan, saying that replacing the George Washington University campus with four data center buildings of that size would be, in her words, \"a profound loss for our community.\"",
+    "src": "https://virginiabusiness.com/amazon-data-centers-gwu-ashburn/"
+   },
+   {
+    "para": 2,
+    "t": "She told WTOP she would fight the project \"every step of the way,\" arguing it sits too close to homes, to Bles Park and to the Potomac River.",
+    "src": "https://wtop.com/loudoun-county/2026/08/concrete-jungle-as-amazon-details-plans-for-new-ashburn-data-centers-some-residents-are-fed-up/"
+   },
+   {
+    "para": 2,
+    "t": "Resident Ann Williams said, \"I don't know when you can say we have enough. We just have enough.\" Another, Miriam Musau, said of the data centers: \"They are invading and making this area like a concrete jungle.\"",
+    "src": "https://wtop.com/loudoun-county/2026/08/concrete-jungle-as-amazon-details-plans-for-new-ashburn-data-centers-some-residents-are-fed-up/"
+   },
+   {
+    "para": 2,
+    "t": "Resident Geri Timon said she worried about losing the site's rolling hills and open green space.",
+    "src": "https://wtop.com/loudoun-county/2026/08/concrete-jungle-as-amazon-details-plans-for-new-ashburn-data-centers-some-residents-are-fed-up/"
+   },
+   {
+    "para": 2,
+    "t": "Buddy Rizer, Loudoun's own economic development director and a longtime supporter of data center growth, told an industry summit in March 2026 that this is not an area where the county has ever anticipated data centers, that there is no infrastructure for them, and that it is not what the county wants there.",
+    "src": "https://virginiabusiness.com/amazon-data-centers-gwu-ashburn/"
+   },
+   {
+    "para": 3,
+    "t": "Loudoun supervisors voted 6-1 in July 2026 to direct staff to study a temporary moratorium on new data center applications, with a board vote planned for September 15, 2026.",
+    "src": "https://virginiabusiness.com/amazon-data-centers-gwu-ashburn/"
+   },
+   {
+    "para": 3,
+    "t": "Amazon said it looks forward to working with the county and community as the review moves forward, and noted it has paid more than $2.1 billion in property taxes and fees in Loudoun County since 2016.",
+    "src": "https://virginiabusiness.com/amazon-data-centers-gwu-ashburn/"
+   }
+  ],
+  "sources": [
+   "https://virginiabusiness.com/amazon-data-centers-gwu-ashburn/",
+   "https://gwhatchet.com/2026/08/03/amazon-proposes-building-over-800000-square-feet-of-data-centers-on-gws-virginia-campus/",
+   "https://wtop.com/loudoun-county/2026/08/concrete-jungle-as-amazon-details-plans-for-new-ashburn-data-centers-some-residents-are-fed-up/"
+  ],
+  "unconfirmed": "The outcome of the September 15, 2026 moratorium vote, and whether Amazon's by-right claim was upheld, could not be established."
+ },
+ {
+  "id": "amazon-aws-erin-s-run-sterling",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "AWS Erin's Run is a three building data center campus at 23825 Erin's Run Drive in Sterling, just west of Dulles International Airport in Loudoun County.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Amazon's data center arm bought a nearby three building campus in Sterling for about $136 million in 2024, and it is not clear from the trade press whether that is this campus.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Loudoun County is where this industry is densest anywhere in the world.",
+    "src": "https://lakelandgazette.info/news/2026/09/18/loudoun-county-virginia-reported-approximately-233-data-center-buildings-built-or-under-construction-as-of-march-2026-the-worlds-highest-concentration-as-rising-electricity-demand/"
+   },
+   {
+    "para": 1,
+    "t": "As of March 1, 2026 it held about 233 data center buildings, built or under construction, roughly 56.5 million square feet, and data center taxes brought in $1.2 billion in the 2026 financial year, 39 percent of the whole county budget.",
+    "src": "https://lakelandgazette.info/news/2026/09/18/loudoun-county-virginia-reported-approximately-233-data-center-buildings-built-or-under-construction-as-of-march-2026-the-worlds-highest-concentration-as-rising-electricity-demand/"
+   },
+   {
+    "para": 2,
+    "t": "What residents in Sterling complain about is the sound and the air.",
+    "src": "https://wjla.com/news/local/data-center-noise-fumes-create-flood-of-complaints-in-loudoun-county-virginia-board-of-supervisors-sterling"
+   },
+   {
+    "para": 2,
+    "t": "After a power failure on July 16, 2026 sent backup generators running, one homeowner told WJLA: \"I always know when they're running their diesel generators because it irritates my throat and my lungs, and I've even woken up at night.\"",
+    "src": "https://wjla.com/news/local/data-center-noise-fumes-create-flood-of-complaints-in-loudoun-county-virginia-board-of-supervisors-sterling"
+   },
+   {
+    "para": 2,
+    "t": "The same resident said, \"This data center has been a curse on our life here.\"",
+    "src": "https://wjla.com/news/local/data-center-noise-fumes-create-flood-of-complaints-in-loudoun-county-virginia-board-of-supervisors-sterling"
+   },
+   {
+    "para": 2,
+    "t": "Those complaints were about Vantage's Ashburn II campus on Glenn Drive rather than this one, and Vantage said the state environment department had reviewed operating data and \"confirmed emissions have remained well below permitted levels established to protect public health.\"",
+    "src": "https://wjla.com/news/local/data-center-noise-fumes-create-flood-of-complaints-in-loudoun-county-virginia-board-of-supervisors-sterling"
+   },
+   {
+    "para": 2,
+    "t": "County chair Phyllis Randall was due to meet the affected residents that week.",
+    "src": "https://wjla.com/news/local/data-center-noise-fumes-create-flood-of-complaints-in-loudoun-county-virginia-board-of-supervisors-sterling"
+   }
+  ],
+  "sources": [
+   "data:address",
+   "https://lakelandgazette.info/news/2026/09/18/loudoun-county-virginia-reported-approximately-233-data-center-buildings-built-or-under-construction-as-of-march-2026-the-worlds-highest-concentration-as-rising-electricity-demand/",
+   "https://wjla.com/news/local/data-center-noise-fumes-create-flood-of-complaints-in-loudoun-county-virginia-board-of-supervisors-sterling"
+  ],
+  "unconfirmed": "Searches on the address with Sterling, on Sterling with data center, and on Amazon with Loudoun County found no coverage of a dispute, hearing or resident concern naming this campus. Its power draw and opening date are unknown, and the $136 million 2024 acquisition could not be tied to it."
+ },
+ {
+  "id": "amazon-aws-reeds-farm-lane-dulles",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "AWS has filed to build three data centers on a 90 acre site at 42139 Reeds Farm Lane, in the Stone Ridge area of Loudoun County southwest of Dulles International Airport.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Loudoun County is where this industry is densest anywhere in the world.",
+    "src": "https://lakelandgazette.info/news/2026/09/18/loudoun-county-virginia-reported-approximately-233-data-center-buildings-built-or-under-construction-as-of-march-2026-the-worlds-highest-concentration-as-rising-electricity-demand/"
+   },
+   {
+    "para": 1,
+    "t": "The county it is going into had about 233 data center buildings built or under construction as of March 1, 2026, roughly 56.5 million square feet, the highest concentration anywhere.",
+    "src": "https://lakelandgazette.info/news/2026/09/18/loudoun-county-virginia-reported-approximately-233-data-center-buildings-built-or-under-construction-as-of-march-2026-the-worlds-highest-concentration-as-rising-electricity-demand/"
+   },
+   {
+    "para": 1,
+    "t": "Data center taxes came to $1.2 billion in the 2026 financial year, 39 percent of Loudoun's budget, which is the reason the board keeps approving them.",
+    "src": "https://lakelandgazette.info/news/2026/09/18/loudoun-county-virginia-reported-approximately-233-data-center-buildings-built-or-under-construction-as-of-march-2026-the-worlds-highest-concentration-as-rising-electricity-demand/"
+   },
+   {
+    "para": 1,
+    "t": "Dominion has proposed raising residential rates 14 percent in 2026, citing data center growth and demand from AI.",
+    "src": "https://www.energysage.com/local-data/electricity-cost/va/loudoun-county/"
+   },
+   {
+    "para": 2,
+    "t": "Loudoun residents have been complaining about noise and diesel fumes from campuses near their homes, and county chair Phyllis Randall was due to meet those affected in July 2026.",
+    "src": "https://wjla.com/news/local/data-center-noise-fumes-create-flood-of-complaints-in-loudoun-county-virginia-board-of-supervisors-sterling"
+   }
+  ],
+  "sources": [
+   "https://lakelandgazette.info/news/2026/09/18/loudoun-county-virginia-reported-approximately-233-data-center-buildings-built-or-under-construction-as-of-march-2026-the-worlds-highest-concentration-as-rising-electricity-demand/",
+   "https://www.energysage.com/local-data/electricity-cost/va/loudoun-county/",
+   "https://wjla.com/news/local/data-center-noise-fumes-create-flood-of-complaints-in-loudoun-county-virginia-board-of-supervisors-sterling"
+  ],
+  "unconfirmed": "Our record lists Reeds Farm Lane as under construction, and nothing has been published about the site by name: no capacity figure, square footage or timetable. The county figures above describe Loudoun as a whole."
+ }
+]

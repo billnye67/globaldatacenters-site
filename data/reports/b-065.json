@@ -1,0 +1,517 @@
+[
+ {
+  "id": "ft-1782187388649-2944",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is Karis Critical's second data center site in the area, 168 acres at 150 West Warrenville Road in DuPage County, Illinois.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Three kilometers away, Naperville refused the company's other one, and that refusal is the best guide to what this parcel faces.",
+    "src": "https://abc7chicago.com/post/naperville-illinois-city-council-denies-plan-karis-critical-data-center-vacant-lucent-campus-off-warrenville-road/18442413/"
+   },
+   {
+    "para": 1,
+    "t": "That proposal was for a facility of about 145,000 square feet on the vacant former Lucent campus along the Interstate 88 corridor, near Naperville and Warrenville roads.",
+    "src": "https://abc7chicago.com/post/naperville-illinois-city-council-denies-plan-karis-critical-data-center-vacant-lucent-campus-off-warrenville-road/18442413/"
+   },
+   {
+    "para": 1,
+    "t": "Trade coverage put it at 36 megawatts.",
+    "src": "https://www.datacenterdynamics.com/en/news/karis-critical-plans-36mw-data-center-in-naperville-illinois/"
+   },
+   {
+    "para": 1,
+    "t": "A city panel had endorsed it in November 2025 over neighbours' objections, on the argument that industry had been on that site before.",
+    "src": "https://www.dailyherald.com/20251120/news/naperville-panel-endorses-data-center-plans-despite-neighbor-objections/"
+   },
+   {
+    "para": 2,
+    "t": "What residents said was that more than 200 homes, nature preserves and playgrounds were within walking distance of it.",
+    "src": "https://abc7chicago.com/post/naperville-illinois-city-council-denies-plan-karis-critical-data-center-vacant-lucent-campus-off-warrenville-road/18442413/"
+   },
+   {
+    "para": 2,
+    "t": "They said it would overwhelm local power infrastructure, run constant noise and put diesel exhaust into a residential area.",
+    "src": "https://abc7chicago.com/post/naperville-illinois-city-council-denies-plan-karis-critical-data-center-vacant-lucent-campus-off-warrenville-road/18442413/"
+   },
+   {
+    "para": 2,
+    "t": "An attorney for Karis Critical offered to halve the diesel generators from 24 to 12, which did not satisfy the several dozen residents who had signed up to speak against it.",
+    "src": "https://abc7chicago.com/post/naperville-illinois-city-council-denies-plan-karis-critical-data-center-vacant-lucent-campus-off-warrenville-road/18442413/"
+   },
+   {
+    "para": 2,
+    "t": "In January 2026, after months of argument, the council voted 6 to 1 against, with two members abstaining.",
+    "src": "https://abc7chicago.com/post/naperville-illinois-city-council-denies-plan-karis-critical-data-center-vacant-lucent-campus-off-warrenville-road/18442413/"
+   },
+   {
+    "para": 3,
+    "t": "Four Karis or Karis Critical entries run across Illinois and Indiana: this parcel, the refused Naperville site, a seven building campus at DeKalb given preliminary approval by a planning commission, and a site at Hoffman Estates.",
+    "src": "data:note"
+   },
+   {
+    "para": 3,
+    "t": "Six data center sites are recorded in DuPage County and four lie within eight kilometers of this parcel, with the 991 megawatt Aurora gas plant six kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://abc7chicago.com/post/naperville-illinois-city-council-denies-plan-karis-critical-data-center-vacant-lucent-campus-off-warrenville-road/18442413/",
+   "https://www.datacenterdynamics.com/en/news/karis-critical-plans-36mw-data-center-in-naperville-illinois/",
+   "https://www.dailyherald.com/20251120/news/naperville-panel-endorses-data-center-plans-despite-neighbor-objections/"
+  ],
+  "unconfirmed": "Nothing was found about this 168 acre parcel itself: no application, hearing, capacity figure or timetable, and the single source attached to it in our record returns a 403. No resident or council member is quoted by name in the Naperville coverage we could read, and the exact date of the January 2026 vote was not established. Whether the two Karis sites are related proposals or independent ones is not stated anywhere."
+ },
+ {
+  "id": "ft-247",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The single source attached to this data center entry is about a Cielo project in South Carolina.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "A 350 megawatt campus is recorded on 141 acres at South Gougar Road and West Haven Avenue in New Lenox, with low confidence attached to the entry.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "This corner of Will County is ringed with gas.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "The 623 megawatt Lincoln plant is 13 kilometres away, the 1,186 megawatt Jackson Generation plant 14, the 1,350 megawatt Elwood plant 15 and the 300 megawatt University Park South plant 20.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "A PowerHouse campus at Joliet is 10 kilometres off and another Cielo entry 27.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Six moratoriums and zoning limits are in force within reach, four of them across the state line in Indiana: Lake County has adopted three separate measures since August 2025, and Merrillville one on 1 June 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Nothing about this project could be verified. The only source concerns a different state, so the 350 megawatts, the 141 acres, any application and the current status rest on our record alone, which marks the entry low confidence. The same South Carolina article is attached to five separate Cielo entries in our record, which looks like a filing error in the dataset. No Will County local reporting was sought."
+ },
+ {
+  "id": "ft-1781206965427-5855",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The building at the centre of this one is a closed cinema.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "A North 52 data center at 1224 Edgewater Drive in North Pekin, in Tazewell County, Illinois, is listed as cancelled, and its single source is headed \"Head of North Pekin, Illinois says that former AMC theater will not be turned into data center\".",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "That article returned 403, so who said it, when and why is not recorded.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The Western Hospitality Partners campus, also cancelled, is 3 kilometres away, so two of the tracked projects in Tazewell County have now fallen over.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The 1,538 megawatt Powerton coal plant is 8 kilometres away, and after that the nearest generation is a wind farm at 32.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Normal and Bloomington both adopted six month data center moratoriums in May 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the size of the proposed conversion, its power draw, who proposed it, when, and the reason the village president ruled it out are all unknown. No local reporting from Tazewell County was reached and our record logs pushback as unknown."
+ },
+ {
+  "id": "ft-1780879611564-2991",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A gigawatt is proposed here, in a county with nothing else on the map at all.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "An Eagle Rock data center is recorded at 1,000 megawatts on 475 acres near Palmer in Christian County, Illinois, at a cost of $8.8 billion, with local pushback logged.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 0,
+    "t": "The single source, headed \"Property developer Eagle Rock proposes 1GW data center in Christian County, Illinois\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The 1,112 megawatt Kincaid coal plant is 14 kilometres away, which is almost exactly the capacity the campus would want.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "After that the nearest generation is the 205 megawatt Dallman coal plant at Springfield, 34 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "No other data center project lies within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The same developer name, Eagle Rock, appears on four Georgia entries, one of which was approved in Twiggs County in September 2025 and two of which were withdrawn in Jones County.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the filing date, the county's response, the square footage, the water demand and the current status are all unknown. Whether the Illinois Eagle Rock and the Eagle Rock Partners active in Georgia are the same company was not established. Our record logs pushback but names no group, petition or resident, so nothing can be said about who objects."
+ },
+ {
+  "id": "ft-1782347277521-3270",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The site is a closed incinerator.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "A data center is proposed on 16 acres at 13400 South Kedzie Avenue in Robbins, in Cook County, Illinois, and the single source, headed \"Closed incinerator near Chicago eyed for potential data center development\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "No developer, capacity figure, square footage or date is attached to it, and pushback is logged as unknown.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "Twenty-seven data center sites are recorded in Cook County, and six lie within 24 kilometres of this one, including a CoreWeave facility at Hammond in Indiana and the downtown Chicago cluster.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generation is the 326 megawatt Calumet Energy Team plant 13 kilometres away, with an oil refinery power plant and the 513 megawatt Whiting Clean Energy plant at 18 and 19.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Six measures are in force within reach, every one of them outside Cook County.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the developer, the capacity, the square footage, the filing date and whether anything has been applied for are all unknown. The history of the incinerator site itself, which is the thing a resident of Robbins would most want set against a new industrial use, could not be established from any source read, and no local reporting was sought."
+ },
+ {
+  "id": "ft-1784670808582-1700",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Forty-eight megawatts on nine acres is a dense proposal, and the gas plant that would feed it is two kilometres away.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "A Whiterose Partners data center is recorded at 33W 304 Kenyon Road in South Elgin, in Kane County, Illinois, with organised local advocacy logged against it and a petition headed \"Stop the planning of a data center in South Elgin, Illinois\".",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 0,
+    "t": "The single source, headed \"48MW data center eyed for Kane County, Illinois\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The 489 megawatt MRP Elgin gas plant is 2 kilometres away and the 336 megawatt MRP Rocky Road plant 10.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Kane County, but the Chicago north west cluster is close: Compass and Karis Critical sites at Hoffman Estates 9 and 10 kilometres away, the withdrawn Barrington Hills proposal at 12, and a Microsoft campus at 14.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the developer's identity beyond the name Whiterose Partners, the square footage, the generator count, the filing date, the body hearing it and the current status are all unknown. The petition in our record was not read, so no resident is named and the specific objections are not established."
+ },
+ {
+  "id": "ft-1770385806911-4545",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Hundreds of people filled Triad High School on Tuesday 10 February 2026 to tell the developer what they thought.",
+    "src": "https://www.firstalert4.com/2026/02/11/hundreds-pack-troy-data-center-meeting-held-by-developer-residents-push-back-controversial-project/"
+   },
+   {
+    "para": 0,
+    "t": "Cloverleaf Infrastructure had called the meeting about a data center it wants to build near Interstate 55 at Troy, in Madison County, Illinois.",
+    "src": "https://www.firstalert4.com/2026/02/11/hundreds-pack-troy-data-center-meeting-held-by-developer-residents-push-back-controversial-project/"
+   },
+   {
+    "para": 1,
+    "t": "Derrick Ramert, of Troy Residents for Responsible Growth, put the objection in one line: \"We're not an industrial town. We're a small rural town. There is nowhere you can put this here that it won't impact somebody.\"",
+    "src": "https://www.firstalert4.com/2026/02/11/hundreds-pack-troy-data-center-meeting-held-by-developer-residents-push-back-controversial-project/"
+   },
+   {
+    "para": 1,
+    "t": "Mike Smeltzer asked \"Why are we putting it here?\" and said \"This hasn't been a very transparent process.\"",
+    "src": "https://www.firstalert4.com/2026/02/11/hundreds-pack-troy-data-center-meeting-held-by-developer-residents-push-back-controversial-project/"
+   },
+   {
+    "para": 1,
+    "t": "Chuck Hopper asked who would buy a house facing what he called this humming big building.",
+    "src": "https://www.firstalert4.com/2026/02/11/hundreds-pack-troy-data-center-meeting-held-by-developer-residents-push-back-controversial-project/"
+   },
+   {
+    "para": 2,
+    "t": "Jeff Lake, for the developer, offered mitigation: \"If there's other concerns that the city or community has ... that would need to increase the buffer or add trees, or other ways to mitigate the sound and other environmental concerns, there's a process to do it.\"",
+    "src": "https://www.firstalert4.com/2026/02/11/hundreds-pack-troy-data-center-meeting-held-by-developer-residents-push-back-controversial-project/"
+   },
+   {
+    "para": 2,
+    "t": "Union members came in support of the jobs.",
+    "src": "https://www.firstalert4.com/2026/02/11/hundreds-pack-troy-data-center-meeting-held-by-developer-residents-push-back-controversial-project/"
+   },
+   {
+    "para": 2,
+    "t": "No city vote had been taken and officials described the process as early.",
+    "src": "https://www.firstalert4.com/2026/02/11/hundreds-pack-troy-data-center-meeting-held-by-developer-residents-push-back-controversial-project/"
+   },
+   {
+    "para": 3,
+    "t": "Something else happened in Troy that month, and only a headline records it.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The second source attached to this entry is headed \"Illinois man arrested after threatening local authorities to stop data center development\", and it returned 403, as did two local reports of the charges.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "The project is put at 500 megawatts on 300 acres between Collinsville and Formosa Roads, with a petition headed \"Reject data center proposals in Troy, Illinois\" against it.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 4,
+    "t": "This is the only data center site recorded in Madison County; the nearest others are across the river in St. Louis, 27 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The city of St. Louis adopted data center zoning limits on 10 June 2026 and St. Charles a ban on 20 May 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.firstalert4.com/2026/02/11/hundreds-pack-troy-data-center-meeting-held-by-developer-residents-push-back-controversial-project/"
+  ],
+  "unconfirmed": "The report of the February meeting gives no acreage and no megawatt figure, so our record's 500 megawatts and 300 acres are uncorroborated, and it says two sites were under consideration without identifying them. The arrest could not be reported beyond the headline in our record: who was charged, with what, on what date and what was alleged were not established from any page that could be read, so none of it is stated above. Whether Troy has since voted on the proposal is not known."
+ },
+ {
+  "id": "ft-253",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is one of the entries in a national tally of data centers stopped by local objection.",
+    "src": "https://www.datacenterwatch.org/report"
+   },
+   {
+    "para": 0,
+    "t": "That report counts $18 billion of data center projects blocked and $46 billion delayed over two years, $64 billion in all, and one of them is at Chesterton, in Porter County, Indiana.",
+    "src": "https://www.datacenterwatch.org/report"
+   },
+   {
+    "para": 0,
+    "t": "The Chesterton Town Council, in Porter County, Indiana, did not just reject this data center. It told the developer the project could never work here.",
+    "src": "https://insideindianabusiness.com/?p=170386"
+   },
+   {
+    "para": 0,
+    "t": "Provident Realty Advisors, of Dallas, proposed eight buildings of 150,000 square feet each on the site of the former Brassie golf course at 1110 Pearson Road, a $1.3 billion investment with groundbreaking expected in early 2026.",
+    "src": "https://insideindianabusiness.com/?p=170386"
+   },
+   {
+    "para": 1,
+    "t": "The Chesterton project was $1.3 billion, by Provident Realty Advisors, and it is logged as blocked: the developer withdrew it in June 2024.",
+    "src": "https://www.datacenterwatch.org/report"
+   },
+   {
+    "para": 1,
+    "t": "Residents had objected over air quality, water, wildlife and property values, and those objections led the town council to reconsider the scale and the location; public forums showed enough resistance that Provident pulled the application rather than press on.",
+    "src": "https://www.datacenterwatch.org/report"
+   },
+   {
+    "para": 1,
+    "t": "The council's public statement said: \"At its current scale, and especially at this location, the Town Council could never support this project.\" It said any future proposal would need significant reductions in the number, size and height of buildings.",
+    "src": "https://insideindianabusiness.com/?p=170386"
+   },
+   {
+    "para": 1,
+    "t": "Provident withdrew on June 12, 2024, after the council and plan commission made clear they were not actively considering it. George Gonzales, appearing for Provident before the plan commission, had said the company aimed to limit the effect on homeowners through landscaping to reduce noise.",
+    "src": "https://insideindianabusiness.com/?p=170386"
+   },
+   {
+    "para": 2,
+    "t": "Five data center sites are recorded in Porter County, with a QTS campus 8 kilometres off and Amazon Web Services and PowerHouse sites at Hobart 20.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Six moratoriums and zoning limits are in force across the surrounding counties and towns, including three separate Lake County measures and Starke County's from 1 December 2025.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generation is a 175 megawatt plant at the ArcelorMittal steelworks at Burns Harbor, 5 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterwatch.org/report",
+   "https://insideindianabusiness.com/?p=170386"
+  ],
+  "unconfirmed": "Our record held this site twice, as a blocked-list entry and as a FracTracker entry at the same address; they have been merged, and a third Provident entry two kilometres away at Porter has been left alone because it carries a different address. The acreage, megawatt capacity and square footage are not established, and the 200 acre figure comes from our own record rather than from either source. The Data Center Dynamics article in our record returned 403."
+ },
+ {
+  "id": "ft-254",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "No source is attached to this entry, but the operator publishes the detail itself.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "DartPoints runs a data center at 2425 Technology Boulevard in Columbus, in Bartholomew County, Indiana: 86,400 square feet with 34,000 of raised floor for colocation, 2.5 megawatts of utility power and 300 tons of cooling.",
+    "src": "https://dartpoints.com/locations/clu01-columbus-in/"
+   },
+   {
+    "para": 0,
+    "t": "The company says the building is engineered to survive an EF-5 tornado.",
+    "src": "https://dartpoints.com/locations/clu01-columbus-in/"
+   },
+   {
+    "para": 1,
+    "t": "It is a colocation building serving regional businesses rather than a hyperscale campus, which is why it has attracted no hearings and no local coverage.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "It is the only data center site recorded in Bartholomew County, the nearest other is 39 kilometres away, and the nearest generation is 56 kilometres off at the 673 megawatt Eagle Valley gas plant, which fits a facility small enough to live on the local distribution network.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "That may not hold.",
+    "src": "https://www.insideindianabusiness.com/articles/dartpoints-moves-to-expand-capacity-at-columbus-data-center"
+   },
+   {
+    "para": 2,
+    "t": "DartPoints is upgrading computing capacity across several of its data centers, and at Columbus the plan would increase capacity five or six times over.",
+    "src": "https://www.insideindianabusiness.com/articles/dartpoints-moves-to-expand-capacity-at-columbus-data-center"
+   },
+   {
+    "para": 2,
+    "t": "Bartholomew County and its neighbours have set no limits.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://dartpoints.com/locations/clu01-columbus-in/",
+   "https://www.insideindianabusiness.com/articles/dartpoints-moves-to-expand-capacity-at-columbus-data-center"
+  ],
+  "unconfirmed": "Searches on DartPoints with Columbus Indiana, on Technology Boulevard with data center, and on Bartholomew County with data center found no acreage, opening date, water figure, permit record or resident comment. Capacity is given as 2.5 megawatts by the company and 3.7 by a directory. The timetable for the expansion and what it would mean for the site's power draw were not established, and everything above comes from the operator or trade press."
+ },
+ {
+  "id": "ft-256",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Merrillville set up a citizens' committee to look at data centers, the committee said yes, and eighteen months later the town adopted a moratorium.",
+    "src": "https://nwindianabusiness.com/community/business-news/merrillville-committee-endorses-data-center/67103/"
+   },
+   {
+    "para": 0,
+    "t": "On 24 September 2024 the town's Data Center Citizen Advisory Committee, nine residents, town officials and development professionals, endorsed Karis Critical's proposal for up to nine buildings on nearly 180 acres on 101st Avenue in Merrillville, in Lake County, Indiana.",
+    "src": "https://nwindianabusiness.com/community/business-news/merrillville-committee-endorses-data-center/67103/"
+   },
+   {
+    "para": 1,
+    "t": "Town council president Rick Bella said of the committee that \"The preparation and thoughtful participation they brought to the discussion were invaluable.\"",
+    "src": "https://nwindianabusiness.com/community/business-news/merrillville-committee-endorses-data-center/67103/"
+   },
+   {
+    "para": 1,
+    "t": "Plan commission member Brian Dering estimated about $1 million in annual property tax revenue for each building, and said the impact on town services would be small.",
+    "src": "https://nwindianabusiness.com/community/business-news/merrillville-committee-endorses-data-center/67103/"
+   },
+   {
+    "para": 1,
+    "t": "Councilman Shawn Pettit called it \"a low impact/high reward development\".",
+    "src": "https://nwindianabusiness.com/community/business-news/merrillville-committee-endorses-data-center/67103/"
+   },
+   {
+    "para": 1,
+    "t": "The project still needed a zone change, plan commission approval and authorisation for the power from NIPSCO.",
+    "src": "https://nwindianabusiness.com/community/business-news/merrillville-committee-endorses-data-center/67103/"
+   },
+   {
+    "para": 2,
+    "t": "It is one of three.",
+    "src": "https://www.govtech.com/artificial-intelligence/2b-in-data-center-projects-planned-for-merrillville-ind"
+   },
+   {
+    "para": 2,
+    "t": "Province Group of Newport Beach plans up to $500 million on a million square foot technology park near Colorado Street and Harms Road; Wylie Capital of Chicago plans 1.2 million square feet at Broadway, 93rd Avenue and Georgia Street for about $600 million and up to 200 jobs; and Karis Critical plans up to $900 million on 180 acres at 101st Avenue east of Deep River County Park.",
+    "src": "https://www.govtech.com/artificial-intelligence/2b-in-data-center-projects-planned-for-merrillville-ind"
+   },
+   {
+    "para": 2,
+    "t": "A thousand housing units are being built at Liberty Estates for the workers.",
+    "src": "https://www.govtech.com/artificial-intelligence/2b-in-data-center-projects-planned-for-merrillville-ind"
+   },
+   {
+    "para": 3,
+    "t": "Bella said the three together were \"a huge boon to the tax base of course once these buildings are totally finished and operational\", and Stephen Muenstermann of the town's data center advisory board said the $2 billion of direct investment \"could end up having an $8 billion economic impact\".",
+    "src": "https://www.govtech.com/artificial-intelligence/2b-in-data-center-projects-planned-for-merrillville-ind"
+   },
+   {
+    "para": 4,
+    "t": "Merrillville put a data center moratorium in force on 1 June 2026, running for a year.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "Lake County has adopted three separate measures since August 2025, and four more are in force in the surrounding counties.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The project is put at 181 acres and $900 million, with the Wylie Capital and Province Group sites both 2 kilometres away.",
+    "src": "data:fractracker"
+   }
+  ],
+  "sources": [
+   "https://nwindianabusiness.com/community/business-news/merrillville-committee-endorses-data-center/67103/",
+   "https://www.govtech.com/artificial-intelligence/2b-in-data-center-projects-planned-for-merrillville-ind"
+  ],
+  "unconfirmed": "No megawatt figure was published for any of the three Merrillville projects, and no water figure, which between them are the numbers the moratorium adopted in June 2026 was presumably meant to address. No resident who objected is named or quoted in either report; both are written from the town's side. Whether the zone change, the plan commission approval and the NIPSCO authorisation were granted, and what the moratorium means for them, are not established. Our record gives the address as Crown Point while the reporting places the site in Merrillville; the two adjoin."
+ }
+]

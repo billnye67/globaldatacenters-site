@@ -1,0 +1,16 @@
+about.zip
+*.zip
+node_modules/
+.wrangler/
+.dev.vars*
+package-lock.json
+data/.env
+globe-handoff-frames/
+*.bak
+.source-cache/
+tools/__pycache__/
+
+# raw GIS downloads for the risk tool (2 GB); only data/risk-lookup/ ships
+data/risk-sources/
+
+!.dev.vars.example

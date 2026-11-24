@@ -1,0 +1,543 @@
+[
+ {
+  "id": "ft-184",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A T5 data center campus is recorded on Palmetto Tyrone Road, in Coweta County, Georgia, with no acreage and no capacity figure, and the single source attached to it could not be read.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "That source is a trade report headed \"T5 requests permission for 3 million sq ft campus outside Atlanta, Georgia\", which is the only size on record.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "This corner of Coweta and Fulton counties has become a row of campuses.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Project Peach is a kilometre away, a Microsoft site at Palmetto 4 kilometres, another T5 campus at Fairburn 6, a Project Rita campus 8 and the Central Coweta Industrial site 10.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Five of the recorded sites are in Coweta County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "Ten moratoriums, bans and zoning limits are in force in the surrounding jurisdictions, including Coweta County's own zoning limits from 6 May 2025.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Twenty-two kilometres away is the 714 megawatt Yates gas plant.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the acreage, megawatts, filing date, the body the request went to and the current status are all unknown. Our record holds a separate T5 Fairburn entry 6 kilometres away and the relationship between the two is not established. No local reaction was found and our record logs pushback as unknown."
+ },
+ {
+  "id": "ft-1784759411642-3058",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Effingham County residents got just over 24 hours' notice of the meeting, and more than 500 came anyway.",
+    "src": "https://www.effinghamherald.net/data-centers/hundreds-pack-openai-data-center-meeting-in-effingham-rincon-project-camellia/"
+   },
+   {
+    "para": 0,
+    "t": "They filled the Effingham County College and Career Academy in Rincon on a Thursday in late July 2026, with hundreds more outside holding signs reading \"You can't drink data\", \"Protect our water\" and \"Say no to data centers\".",
+    "src": "https://www.effinghamherald.net/data-centers/hundreds-pack-openai-data-center-meeting-in-effingham-rincon-project-camellia/"
+   },
+   {
+    "para": 1,
+    "t": "The project is OpenAI's, and it is called Project Camellia.",
+    "src": "https://thecurrentga.org/2026/07/22/20-billion-openai-data-center-to-open-in-effingham-county/"
+   },
+   {
+    "para": 1,
+    "t": "It is $20 billion of privately funded construction, four buildings covering about 101 acres inside the 2,600 acre Savannah Gateway Industrial Hub near Rincon.",
+    "src": "https://thecurrentga.org/2026/07/22/20-billion-openai-data-center-to-open-in-effingham-county/"
+   },
+   {
+    "para": 1,
+    "t": "Georgia Power will supply 3.2 gigawatts, enough for more than two million homes, delivered in phases from 2028 to 2032 under a 25 year agreement that allows the company's demand to be flexed to steady the regional grid.",
+    "src": "https://thecurrentga.org/2026/07/22/20-billion-openai-data-center-to-open-in-effingham-county/"
+   },
+   {
+    "para": 2,
+    "t": "The terms are generous and the county says they will come back to residents.",
+    "src": "https://thecurrentga.org/2026/07/22/20-billion-openai-data-center-to-open-in-effingham-county/"
+   },
+   {
+    "para": 2,
+    "t": "OpenAI gets a 50 percent property tax abatement for 15 years and is still expected to become the county's largest taxpayer, with the revenue funding a scheme called Project Zero that officials say could cut the average homeowner's property rate by 40 percent by early 2027.",
+    "src": "https://thecurrentga.org/2026/07/22/20-billion-openai-data-center-to-open-in-effingham-county/"
+   },
+   {
+    "para": 2,
+    "t": "The company promises about 400 long term jobs at first, thousands of construction jobs with local contractors preferred, $80 million in community benefits for education, public safety, healthcare and small business, and $71 million in software credits for Georgia students.",
+    "src": "https://thecurrentga.org/2026/07/22/20-billion-openai-data-center-to-open-in-effingham-county/"
+   },
+   {
+    "para": 3,
+    "t": "On water, officials say use will be minimal, with closed loop recycling and no diversion of local supplies.",
+    "src": "https://thecurrentga.org/2026/07/22/20-billion-openai-data-center-to-open-in-effingham-county/"
+   },
+   {
+    "para": 3,
+    "t": "A $320 million county surface water treatment plant has been proposed alongside the campus.",
+    "src": "https://www.effinghamherald.net/data-centers/hundreds-pack-openai-data-center-meeting-in-effingham-rincon-project-camellia/"
+   },
+   {
+    "para": 3,
+    "t": "Resident Maddie Greer was unconvinced, pointing to water pollution, noise and loss of tree cover where data centers have been built elsewhere.",
+    "src": "https://thecurrentga.org/2026/07/22/20-billion-openai-data-center-to-open-in-effingham-county/"
+   },
+   {
+    "para": 4,
+    "t": "What people said at the meeting was mostly about being told late.",
+    "src": "https://www.effinghamherald.net/data-centers/hundreds-pack-openai-data-center-meeting-in-effingham-rincon-project-camellia/"
+   },
+   {
+    "para": 4,
+    "t": "Chris Barber said: \"I didn't hear anything about this ... that they were in talks with anybody. It just feels very, 'We're going to slide this by as quietly as possible.'\"",
+    "src": "https://www.effinghamherald.net/data-centers/hundreds-pack-openai-data-center-meeting-in-effingham-rincon-project-camellia/"
+   },
+   {
+    "para": 4,
+    "t": "Trivinia Barber said: \"It just felt really weird. The secrecy ... the backdoor deals, it's very weird.\"",
+    "src": "https://www.effinghamherald.net/data-centers/hundreds-pack-openai-data-center-meeting-in-effingham-rincon-project-camellia/"
+   },
+   {
+    "para": 4,
+    "t": "Isaiah Scott, who founded the Rookery and Roots Conservancy, questioned the noise levels and called the industrial authority's way of acquiring land extractive.",
+    "src": "https://www.effinghamherald.net/data-centers/hundreds-pack-openai-data-center-meeting-in-effingham-rincon-project-camellia/"
+   },
+   {
+    "para": 4,
+    "t": "Cheryl Sparks, worried about how close the campus would be to Blandford Elementary School, asked: \"What about our children?\"",
+    "src": "https://www.effinghamherald.net/data-centers/hundreds-pack-openai-data-center-meeting-in-effingham-rincon-project-camellia/"
+   },
+   {
+    "para": 4,
+    "t": "Katie Broome, aged 19, said: \"That's not something I want for Effingham County.\"",
+    "src": "https://www.effinghamherald.net/data-centers/hundreds-pack-openai-data-center-meeting-in-effingham-rincon-project-camellia/"
+   },
+   {
+    "para": 4,
+    "t": "William McDonald said he had been given only general information and that officials could not say what the project would contribute to schools.",
+    "src": "https://www.effinghamherald.net/data-centers/hundreds-pack-openai-data-center-meeting-in-effingham-rincon-project-camellia/"
+   },
+   {
+    "para": 4,
+    "t": "Nicholas Dowling, an artificial intelligence strategist who lives in Rincon, spoke in favour, expecting jobs across several sectors.",
+    "src": "https://www.effinghamherald.net/data-centers/hundreds-pack-openai-data-center-meeting-in-effingham-rincon-project-camellia/"
+   },
+   {
+    "para": 5,
+    "t": "Frank Durton, who has lived there a long time, criticised the county for keeping the plans under wraps until the announcement, and the environmental advocate Jeff Beauvais said: \"a lot of these details and decisions have already been made, and we're playing catch up.\"",
+    "src": "https://thecurrentga.org/2026/07/22/20-billion-openai-data-center-to-open-in-effingham-county/"
+   },
+   {
+    "para": 6,
+    "t": "The project still has to complete Georgia's Development of Regional Impact review, with construction due to start in 2028.",
+    "src": "https://thecurrentga.org/2026/07/22/20-billion-openai-data-center-to-open-in-effingham-county/"
+   },
+   {
+    "para": 6,
+    "t": "The campus is carried at 3,200 megawatts and 2,600 acres, with the cost given as $30 billion.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 6,
+    "t": "For scale, the generation already within 13 kilometres of the site, the Bobby C Smith and two McIntosh plants, comes to about 2,500 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 6,
+    "t": "Garden City put a data center moratorium in force on 16 June 2026 and Bulloch County on 5 August 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.effinghamherald.net/data-centers/hundreds-pack-openai-data-center-meeting-in-effingham-rincon-project-camellia/",
+   "https://thecurrentga.org/2026/07/22/20-billion-openai-data-center-to-open-in-effingham-county/"
+  ],
+  "unconfirmed": "The cost is $20 billion in both reports read and $30 billion in our record, and the name is spelled Camellia in the reporting and Camelia in our record. The acreage differs: our record gives 2,600 acres, which is the whole industrial hub, while the campus itself is reported at about 101 acres within a 1,400 acre site. The job figure is about 400 in one report and up to 1,000 in county statements quoted elsewhere. No water volume was published, only the claim that use will be minimal, and the relationship between the campus and the proposed $320 million treatment plant is not explained. Whether the county has voted on anything is not established. The Data Center Dynamics article in our record returned 403."
+ },
+ {
+  "id": "ft-185",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This land was a military hospital, then a tuberculosis sanatorium, and it has been empty since 2010.",
+    "src": "https://www.northwestgeorgianews.com/rome/news/local/battey-business-complex-demolition-to-start-next-summer/article_4916b177-51d6-4d8e-98e4-8e312609878b.html"
+   },
+   {
+    "para": 0,
+    "t": "The Battey Business Complex off Division Street in Rome, in Floyd County, Georgia, now proposed as a data center site, began as Battey General Hospital during the Second World War and later became a state run tuberculosis treatment facility.",
+    "src": "https://www.northwestgeorgianews.com/rome/news/local/battey-business-complex-demolition-to-start-next-summer/article_4916b177-51d6-4d8e-98e4-8e312609878b.html"
+   },
+   {
+    "para": 1,
+    "t": "The Rome-Floyd Development Authority bought the 124.5 acre property from the state for $2.32 million and won a $3.6 million federal environmental assessment and cleanup grant, about $2 million of which goes on asbestos removal and lead contamination.",
+    "src": "https://www.northwestgeorgianews.com/rome/news/local/battey-business-complex-demolition-to-start-next-summer/article_4916b177-51d6-4d8e-98e4-8e312609878b.html"
+   },
+   {
+    "para": 1,
+    "t": "Demolition was due to start in the summer of 2026 and finish that October.",
+    "src": "https://www.northwestgeorgianews.com/rome/news/local/battey-business-complex-demolition-to-start-next-summer/article_4916b177-51d6-4d8e-98e4-8e312609878b.html"
+   },
+   {
+    "para": 2,
+    "t": "In August 2025 the authority signed a term sheet to sell the remaining land, about 1,000 acres, to Atlas Development for $4.6 million, for a data center.",
+    "src": "https://www.northwestgeorgianews.com/rome/news/local/battey-business-complex-demolition-to-start-next-summer/article_4916b177-51d6-4d8e-98e4-8e312609878b.html"
+   },
+   {
+    "para": 2,
+    "t": "Development authority chair Jimmy Byars described it as \"a continuing commitment to bring high-tech jobs to Rome with the least impact\", and called data centers \"a good, clean and quiet industry that brings in great tax revenue\".",
+    "src": "https://www.northwestgeorgianews.com/rome/news/local/battey-business-complex-demolition-to-start-next-summer/article_4916b177-51d6-4d8e-98e4-8e312609878b.html"
+   },
+   {
+    "para": 2,
+    "t": "A formal agreement with Georgia Power may be needed, depending on how much power the project wants and what collateral and fees follow.",
+    "src": "https://www.northwestgeorgianews.com/rome/news/local/battey-business-complex-demolition-to-start-next-summer/article_4916b177-51d6-4d8e-98e4-8e312609878b.html"
+   },
+   {
+    "para": 3,
+    "t": "This entry is carried at 900 megawatts on 114 acres, with organised local opposition logged against it, including a Facebook group.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "A second entry, Project Gracie, also attributed to Atlas Development, sits at the same coordinates, and Microsoft's Project Firecracker is 4 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 1,035 megawatt Rocky Mountain pumped storage plant is 10 kilometres away and a 61 megawatt biomass plant at a Rome paper mill 3.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Seven moratoriums and zoning limits are in force in the surrounding counties and towns, though Floyd County itself has none.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.northwestgeorgianews.com/rome/news/local/battey-business-complex-demolition-to-start-next-summer/article_4916b177-51d6-4d8e-98e4-8e312609878b.html"
+  ],
+  "unconfirmed": "The acreage does not reconcile: the report gives 124.5 acres for the complex and about 1,000 acres of remaining land, while our record gives 114 acres, and our record's cost field reads \"5.7 million\" which matches nothing in the reporting. The 900 megawatt figure appears in no source read. Whether the sale to Atlas Development has closed, and whether any rezoning or hearing has happened since September 2025, are not established. No resident is named or quoted despite our record logging organised advocacy, and the Facebook posts in our record were not read. The Data Center Dynamics article in our record returned 403."
+ },
+ {
+  "id": "ft-186",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Microsoft is named on this one, and the source that would confirm it could not be read.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The entry lists Project Firecracker as a 350 acre, $1 billion Microsoft data center campus on Huffaker Road in Rome, in Floyd County, Georgia, and the trade report attached to it, headed \"Microsoft to develop 350-acre data center campus in Rome, Georgia\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Three of the four Floyd County entries sit within 4 kilometres of each other on the edge of Rome.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The Atlas Battey Business Complex and Project Gracie, both attributed to Atlas Development, share a set of coordinates 4 kilometres from this one.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The 1,035 megawatt Rocky Mountain pumped storage plant is 6 kilometres away and a 61 megawatt biomass plant at a paper mill the same distance.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Floyd County has adopted nothing of its own, against seven moratoriums and zoning limits in the counties and towns around it.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so Microsoft's involvement, the 350 acres, the $1 billion and the current status all rest on our record alone. No megawatt figure, square footage, filing date, hearing or approval is established. No local reporting from Rome was sought for this site, and our record logs pushback as unknown even though the adjoining Atlas site records organised opposition."
+ },
+ {
+  "id": "ft-189",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This entry shares its coordinates with the Atlas Battey Business Complex, and both name Atlas Development.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "Project Gracie is listed on Vann Road NW in Rome, in Floyd County, Georgia, with no acreage and no capacity figure, and the single source, a trade report headed \"Atlas plans 2.4 million sq ft data center campus outside Rome, Georgia\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The Battey entry describes the same developer buying about 1,000 acres of a former hospital site in Rome for a data center, so the two entries may be one project under a code name and a street address.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Microsoft's Project Firecracker is 4 kilometres away, and Atlas Development also appears on Project Sail in Coweta County, now under legal challenge, on the withdrawn Project Springbank in Bartow County, on Project Sassy near Adairsville and on Project Bus at Temple.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 1,035 megawatt Rocky Mountain pumped storage plant is 10 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the acreage, megawatts, filing date and status are unknown, and the 2.4 million square feet in its headline could not be checked. Whether this entry and the Battey entry at the same coordinates are one project is unresolved. No local reaction to this entry was found and our record logs pushback as unknown."
+ },
+ {
+  "id": "ft-1784074529300-4979",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one is listed as operating at 175 megawatts, which would make it one of the larger working facilities recorded outside a metropolitan area.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The entry is a CleanSpark data center on George J Lyons Parkway in Sandersville, in Washington County, Georgia, and the single source, headed \"CleanSpark secures tenant with 20-year lease for data center in Sandersville, Georgia\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The power around it is substantial and close.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "A 150 megawatt solar plant is 12 kilometres away, the 576 megawatt AL Sandersville gas plant 13 and the 623 megawatt Washington County Power plant 17.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Washington County, with no other project within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Nothing in the surrounding counties restricts a data center here.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the tenant, the date of the lease, the size of the building and whether the 175 megawatt figure is contracted capacity or actual draw are all unknown. Whether the site was built as a cryptocurrency mining operation and converted, which is the usual history for this operator, could not be checked. No water figure and no local reaction are established, and no Washington County reporting was sought."
+ },
+ {
+  "id": "ft-190",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is the data center that put Athens on notice, and the county's own record of it is two lines long.",
+    "src": "https://www.accgov.com/CivicSend/ViewMessage/message/206304"
+   },
+   {
+    "para": 0,
+    "t": "An Athens-Clarke County plans review notice for 20 July 2023 lists application PR-2023-07-1387 at 0 Voyles Road and 105 Old Elberton Road, Shoals Crossing, described as a new data center with office space, with Kevin Conway of Brasfield & Gorrie as the contact.",
+    "src": "https://www.accgov.com/CivicSend/ViewMessage/message/206304"
+   },
+   {
+    "para": 0,
+    "t": "The notice gives no acreage, no square footage, no capacity and no hearing date.",
+    "src": "https://www.accgov.com/CivicSend/ViewMessage/message/206304"
+   },
+   {
+    "para": 1,
+    "t": "When the commission later paused new data centers, District 9 Commissioner Ovita Thornton said the first one should have set off alarms.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The second, the proposed conversion of Athena Studios, is 2 kilometres from this site.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The project is listed as proposed, with no local objection logged against it.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "The 746 megawatt Dahlberg gas plant is 11 kilometres away and a 58 megawatt biomass plant 12.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.accgov.com/CivicSend/ViewMessage/message/206304"
+  ],
+  "unconfirmed": "The only source is a county plans review listing from July 2023 and nothing later was read, so whether the project was approved, built or abandoned is unknown, as are its size, capacity and water demand. Brasfield & Gorrie is a construction contractor, so whether it is the developer or the builder for someone else is not established, and no owner or tenant is named. Commissioner Thornton's remark about the first data center is quoted in reporting on the neighbouring Athena Studios proposal and is applied here on the basis of the distance and timing, not on a source naming this project."
+ },
+ {
+  "id": "ft-195",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Georgia's Development of Regional Impact record for this campus is a set of dates and nothing else.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4256"
+   },
+   {
+    "para": 0,
+    "t": "It names the project Vantage Data Center - Westlake, with Vantage Data Centers as developer, submitted through the city of South Fulton and reviewed by the Atlanta Regional Commission, with the Georgia Regional Transportation Authority also holding jurisdiction.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4256"
+   },
+   {
+    "para": 0,
+    "t": "The initial form went in on 13 August 2024, a further form on 1 October, the determination that it warranted regional review came on 12 November 2024, the file was certified complete on 22 January 2025, and the commission issued its finding on 21 February 2025.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4256"
+   },
+   {
+    "para": 0,
+    "t": "The record carries no acreage and no square footage.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4256"
+   },
+   {
+    "para": 1,
+    "t": "The site is put at 113 megawatts at Plumber Road and Riverside Drive in South Fulton and listed as operating.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "A second entry, the Vantage Westlake Project, sits at the same coordinates.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Eighteen data center sites are recorded in Fulton County, and six lie within 5 kilometres of this one, including an Aligned campus, a Microsoft site at Douglasville, two Digital Realty facilities and a Google campus in Douglas County.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The power behind this corner of the county is Jack McDonough, 2,535 megawatts, 16 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4256"
+  ],
+  "unconfirmed": "The state file records that a review happened but not what it found, and carries none of the figures a neighbour would want: no acreage, no square footage, no megawatts and no water demand. Our record's 113 megawatt figure and its operating status appear in no source read. Whether this entry and the Vantage Westlake Project entry at the same coordinates are one project is unresolved, and our record also holds a separate Vantage campus on Stacks Road whose state file follows almost identical dates. No local reporting or resident reaction was found."
+ },
+ {
+  "id": "ft-1787747120516-1685",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Statesboro council split evenly on this data center, in Bulloch County, Georgia, and the mayor broke the tie in the developer's favour.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "That is what the two reports attached to the entry say in their headlines: one is headed \"Mayor breaks tie as Statesboro council approves Burkhalter Road rezoning\" and the other \"Statesboro approves rezoning for data center despite protests\".",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Neither could be read: one returned 403 and the other was not retrievable.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The data center is put at 6539 Burkhalter Road in Statesboro, in Bulloch County, Georgia, on 27 acres, at a cost of $1.2 billion, listed as under construction, with local opposition recorded as an emerging concern.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "Bulloch County adopted a data center moratorium on 5 August 2026, running to the end of the year.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Another tracked site, Edge Presence, is 4 kilometres away, and OpenAI's Project Camellia is about 46 kilometres east.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "A 51 megawatt solar plant lies 33 kilometres away, with the 532 megawatt Bobby C Smith gas plant at 46.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Neither source could be read, so the date of the vote, which council members voted which way, the mayor's name, the developer, the megawatt capacity and what the protesters said are all unknown; the tie and the mayor's casting vote come from a headline alone. Our record's status of under construction could not be checked. Whether the county moratorium adopted in August 2026 affects this already approved rezoning is not established."
+ },
+ {
+  "id": "ft-1770386692559-2351",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Atlas Development asked Temple to annex and rezone 350.73 acres for twelve buildings and two substations, and then pulled the application.",
+    "src": "https://apps.dca.ga.gov/DRI/InitialForm.aspx?driid=4606"
+   },
+   {
+    "para": 0,
+    "t": "The state's Development of Regional Impact form for Project Bus names Atlas Development, LLC as both developer and property owner, gives the submitting local government as Temple, lists four parcels in Carroll County, describes the use as a technological facility including data centers, and sets completion in 2036.",
+    "src": "https://apps.dca.ga.gov/DRI/InitialForm.aspx?driid=4606"
+   },
+   {
+    "para": 0,
+    "t": "The form notes the project appears to meet or exceed the thresholds that trigger regional review, and records that rezoning and annexation were being sought.",
+    "src": "https://apps.dca.ga.gov/DRI/InitialForm.aspx?driid=4606"
+   },
+   {
+    "para": 0,
+    "t": "It gives no square footage and no water or sewer demand.",
+    "src": "https://apps.dca.ga.gov/DRI/InitialForm.aspx?driid=4606"
+   },
+   {
+    "para": 1,
+    "t": "The project is listed as suspended, at 350 acres and $11 billion, with a petition to stop a data center being built in Carroll County and a local Facebook group against it.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 1,
+    "t": "The local newspaper report attached to the entry is headed \"Temple data center proposal pulled\", which matches, but it could not be retrieved.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Carroll County has acted twice, adopting a year long data center moratorium on 16 June 2026 and a second, shorter one on 4 August 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Four of the recorded sites are in Carroll County and six lie within 31 kilometres of this one.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "This is the fifth Atlas Development project on the map.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Of the others, Project Springbank in Bartow County was withdrawn after a planning commission recommended refusing it, Project Sail in Coweta County is being challenged in court by seventeen residents, and Project Sassy near Adairsville and the Rome sites remain proposed.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generation is the 714 megawatt Yates gas plant, 31 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://apps.dca.ga.gov/DRI/InitialForm.aspx?driid=4606"
+  ],
+  "unconfirmed": "The date the proposal was pulled, the reason and whether the developer intends to return are not established; the local newspaper report returned a rate limit error and the Data Center Dynamics article returned 403. No megawatt figure exists and the $11 billion in our record appears in no source read. No resident or official is named or quoted, so the petition and Facebook group our record holds cannot be connected to particular objections."
+ }
+]

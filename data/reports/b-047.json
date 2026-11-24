@@ -1,0 +1,353 @@
+[
+ {
+  "id": "blocked-gross-gerau-2026-02-10",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Gross-Gerau turned down 2.5 billion euro.",
+    "src": "https://www.datacenterdynamics.com/en/news/vantage-denied-permission-for-data-center-outside-frankfurt/"
+   },
+   {
+    "para": 0,
+    "t": "Vantage Data Centers had spent more than a year on a campus in the Lausboehl industrial park, on 14 hectares of brownfield land once used by the vehicle logistics company ARS Altmann, about 30 kilometres south of Frankfurt. The project, reported as FRA5, would have made its waste heat available for reuse.",
+    "src": "https://www.datacenterdynamics.com/en/news/vantage-denied-permission-for-data-center-outside-frankfurt/"
+   },
+   {
+    "para": 0,
+    "t": "On February 4, 2026 the town council voted 18 to 14 against even opening contract negotiations with the company.",
+    "src": "https://www.hessenschau.de/politik/kommunalwahlen/internetknoten-rhein-main-gross-gerau-sagt-nein-zu-diesem-xxl-rechenzentrum--v1,kom26-gross-gerau-rechenzentrum-100.html"
+   },
+   {
+    "para": 1,
+    "t": "The town's stated reasons were not the usual ones. It cited the risk of terrorism, cyberattacks and hybrid threats, and feared added heat stress from blocks up to 30 metres high. It also doubted the business tax revenue would be reliable and objected to how few direct jobs the site would create.",
+    "src": "https://www.datacenterdynamics.com/en/news/vantage-denied-permission-for-data-center-outside-frankfurt/"
+   },
+   {
+    "para": 1,
+    "t": "Susanne Theisen-Canibol, leader of the SPD group that led the opposition, told the council that the town was not going to sell Gross-Gerau to a billionaire investor.",
+    "src": "https://www.hessenschau.de/politik/kommunalwahlen/internetknoten-rhein-main-gross-gerau-sagt-nein-zu-diesem-xxl-rechenzentrum--v1,kom26-gross-gerau-rechenzentrum-100.html"
+   },
+   {
+    "para": 1,
+    "t": "Peter Lohmer of the Greens said the people of the town stood smaller even than David against a huge Goliath, and doubted whether specialist lawyers could handle the complexity of the deal.",
+    "src": "https://www.hessenschau.de/politik/kommunalwahlen/internetknoten-rhein-main-gross-gerau-sagt-nein-zu-diesem-xxl-rechenzentrum--v1,kom26-gross-gerau-rechenzentrum-100.html"
+   },
+   {
+    "para": 1,
+    "t": "Wolfgang Zwer, of the Lausboehl residents' initiative, objected to the size of the building and to its position in a fresh air corridor, while saying residents were not against data centres in principle. Thomas Hlubek of the CDU called the vote a fatal decision that cost the town millions in tax.",
+    "src": "https://www.hessenschau.de/politik/kommunalwahlen/internetknoten-rhein-main-gross-gerau-sagt-nein-zu-diesem-xxl-rechenzentrum--v1,kom26-gross-gerau-rechenzentrum-100.html"
+   },
+   {
+    "para": 2,
+    "t": "Vantage still operates nearby, with its Raunheim building about 10 kilometres away, China Mobile International alongside it, NTT Nierstein about 11 kilometres away and CloudHQ's Hattersheim campus about 15 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/vantage-denied-permission-for-data-center-outside-frankfurt/",
+   "https://www.hessenschau.de/politik/kommunalwahlen/internetknoten-rhein-main-gross-gerau-sagt-nein-zu-diesem-xxl-rechenzentrum--v1,kom26-gross-gerau-rechenzentrum-100.html"
+  ],
+  "unconfirmed": "Sources give the campus as 160 megawatts and as 174 megawatts, and our record uses the higher figure. Our record dates the refusal to February 10 where the German account has February 4. The remarks of Theisen-Canibol and Lohmer were made in German and are given here in summary rather than as quotations. Vantage is not quoted in reply and it is not known whether the company has appealed or revived the plan elsewhere."
+ },
+ {
+  "id": "blocked-new-brunswick-jersey-sandford-redevelopment-area-2026-02-18",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "New Brunswick decided to build a park instead.",
+    "src": "https://jerseyvindicator.org/?p=16973"
+   },
+   {
+    "para": 0,
+    "t": "On Wednesday, February 18, 2026 the city council voted unanimously to take data centers out of the redevelopment plan for the site at 100 Jersey Avenue, where a 27,000 square foot data center had been proposed. The plan now covers a public park, about 600 apartments and commercial warehouse space for startups.",
+    "src": "https://jerseyvindicator.org/?p=16973"
+   },
+   {
+    "para": 1,
+    "t": "Residents had objected over rising electricity bills, environmental effects, utility costs and the site's closeness to homes and the Rutgers campus.",
+    "src": "https://jerseyvindicator.org/?p=16973"
+   },
+   {
+    "para": 1,
+    "t": "Bruce Morgan, president of the local NAACP, told the council: \"I'd like to thank the council for deciding to scrap what many people did not want in their neighborhoods.\"",
+    "src": "https://jerseyvindicator.org/?p=16973"
+   },
+   {
+    "para": 1,
+    "t": "Others who spoke included Lauren, a Rutgers student who raised environmental justice, Dan Blanco, a doctoral student in environmental science who lives in the city, Anne Norris, a long time resident pressing for more affordable housing, and Kevin Contigo, a youth soccer coach.",
+    "src": "https://jerseyvindicator.org/?p=16973"
+   },
+   {
+    "para": 2,
+    "t": "New Jersey towns have been going further, with outright bans on data centers at Bayonne, Sayreville, Neptune Township and Red Bank Borough.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The industry is still close by. Digital Realty Piscataway is about 6 kilometers away, QTS Piscataway about 8 kilometers away, Iron Mountain's Edison site about 9 kilometers away and CyrusOne Somerset about 10 kilometers away, four data centers in Middlesex County in all.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://jerseyvindicator.org/?p=16973"
+  ],
+  "unconfirmed": "No council member is named or quoted in the source, and the developer behind the proposed data center is not identified. Two of the residents quoted are given by first name only. No investment figure or capacity was published."
+ },
+ {
+  "id": "blocked-san-marcos-2026-03",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The vote came at 2.14 in the morning, after eight hours.",
+    "src": "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center"
+   },
+   {
+    "para": 0,
+    "t": "San Marcos City Council voted 5 to 2 to refuse the land use change for a $1.5 billion data center on 200 acres at Francis Harris Lane, between San Marcos and New Braunfels, next to the Hays Energy power station. The applicant was Highlander SM One LLC.",
+    "src": "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center"
+   },
+   {
+    "para": 0,
+    "t": "Hundreds of people demonstrated. 125 signed up for citizen comment and 57 more for the public hearing.",
+    "src": "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Water was the argument. The Edwards Aquifer is under strain and officials warned that continued drought could trigger emergency measures. Hays County Judge Ruben Becerra proposed a moratorium on building permits for anything needing large amounts of water.",
+    "src": "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Torrie Martin, a rancher next to the site, told the council: \"You are either going to greatly harm your relationship with your community or you're going to buckle down and work with us and come up with an alternative which we are all willing and eager to help you on.\"",
+    "src": "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Resident Melanie Babot asked the council what kind of city it wanted to be: \"Is it one ... that values natural resources for people, not AI?\"",
+    "src": "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center"
+   },
+   {
+    "para": 2,
+    "t": "The developer could have refiled within six months. The city closed the door first.",
+    "src": "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center"
+   },
+   {
+    "para": 2,
+    "t": "On June 16, 2026 the council voted 4 to 3 to define data centers in its zoning law and make them ineligible in every district in the city, citing water and energy being drawn away from the community. San Marcos became the first city in Texas to ban data centers outright, a test of how far local control goes.",
+    "src": "https://communityimpact.com/austin/san-marcos-buda-kyle/government/2026/06/17/san-marcos-council-votes-to-prohibit-data-centers-in-all-zoning-districts/"
+   },
+   {
+    "para": 3,
+    "t": "The pressure around it has not stopped. A cancelled San Marcos data center sits about 12 kilometers away, the 1,200 megawatt CloudBurst site under construction about 14 kilometers away, and Tract's 3,000 acre Caldwell Valley and Prime's 206 acre Austin campus about 16 kilometers away, six data centers in Hays County in all.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.kut.org/energy-environment/2026-02-18/san-marcos-city-council-blocks-proposed-data-center",
+   "https://communityimpact.com/austin/san-marcos-buda-kyle/government/2026/06/17/san-marcos-council-votes-to-prohibit-data-centers-in-all-zoning-districts/",
+   "https://www.kxan.com/news/local/san-marcos/san-marcos-council-nixes-data-center-re-zoning-plan/"
+  ],
+  "unconfirmed": "Our record dates the refusal to March 2026 while the reporting puts the council vote in the early hours of February 18, following an earlier decision in January that went the other way. No council member is quoted by name in the sources reached, and no capacity figure in megawatts was published for the project."
+ },
+ {
+  "id": "blocked-olds-2026-03-06",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The data centre campus was never the application. The power plant was, and that is what was refused.",
+    "src": "https://www.theglobeandmail.com/canada/alberta/article-olds-alberta-data-centre-synapse/"
+   },
+   {
+    "para": 0,
+    "t": "Synapse Real Estate Corp proposed a ten building campus at Olds, north of Calgary, needing 1.4 gigawatts of generation, enough to power Edmonton, at an investment of about $10 billion. The company applied to build a natural gas plant to run it.",
+    "src": "data:blocked.size"
+   },
+   {
+    "para": 1,
+    "t": "The Alberta Utilities Commission refused the application, finding the plant would sit too close to the surrounding community and that Synapse had not justified its choice of location. The site was inside town limits, near homes and businesses.",
+    "src": "https://www.theglobeandmail.com/canada/alberta/article-olds-alberta-data-centre-synapse/"
+   },
+   {
+    "para": 1,
+    "t": "Residents of the largely agricultural community objected strongly, and similar proposals elsewhere in Alberta have drawn protests of hundreds of people.",
+    "src": "https://www.theglobeandmail.com/canada/alberta/article-olds-alberta-data-centre-synapse/"
+   },
+   {
+    "para": 2,
+    "t": "The split of powers matters here. The commission decides whether power infrastructure serves the public interest. Municipalities keep control of zoning and land use for the data centres themselves.",
+    "src": "https://www.theglobeandmail.com/canada/alberta/article-olds-alberta-data-centre-synapse/"
+   },
+   {
+    "para": 2,
+    "t": "Olds has no other data centre project within 40 kilometres of it.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.theglobeandmail.com/canada/alberta/article-olds-alberta-data-centre-synapse/"
+  ],
+  "unconfirmed": "Our record dates the decision to March 6, 2026 while the account read here gives August 17, 2026, and that was not reconciled. No resident, councillor or Synapse representative is quoted by name in the source, and it is not known whether the company has appealed or sought another site."
+ },
+ {
+  "id": "blocked-indiantown-13820-silver-fox-rd-2026-04",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Silver Fox 606 withdrew its proposal for a 2 million square foot data processing facility at 13820 Silver Fox Road in Indiantown on Wednesday, April 29, 2026, in a formal request to the village manager.",
+    "src": "https://www.wflx.com/2026/04/29/indiantown-proposed-data-center-plans-scrapped-village-sets-record-straight-undeveloped-land/"
+   },
+   {
+    "para": 0,
+    "t": "The data center proposal had drawn objections after local television reporting in February brought it to residents' attention.",
+    "src": "https://www.wflx.com/2026/04/29/indiantown-proposed-data-center-plans-scrapped-village-sets-record-straight-undeveloped-land/"
+   },
+   {
+    "para": 1,
+    "t": "Resident Carroll Slay McAllister said of the land: \"I'm concerned about what it does to our water table, all the animals that's on the property.\" Her sister Myrtle Green, who had visited a data center in Kentucky, raised the noise.",
+    "src": "https://www.wflx.com/2026/04/29/indiantown-proposed-data-center-plans-scrapped-village-sets-record-straight-undeveloped-land/"
+   },
+   {
+    "para": 2,
+    "t": "The site sits beside serious generating capacity. The 2,209 megawatt Martin gas plant is about 4 kilometers away and a 75 megawatt solar plant about 1 kilometer away, inside a Florida Power & Light control area that peaks at about 24,432 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Martin County holds one data center, and no other project is recorded within 40 kilometers.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.wflx.com/2026/04/29/indiantown-proposed-data-center-plans-scrapped-village-sets-record-straight-undeveloped-land/"
+  ],
+  "unconfirmed": "The source does not give the acreage for this project, so the 606 acre figure comes from our own record, and it does not set out the wetlands or protected species objections our record cites as the reason for withdrawal. No investment figure or capacity was published, no village official is quoted about this proposal, and whether the developer intends to refile is not known."
+ },
+ {
+  "id": "blocked-amlwch-anglesey-former-octel-site-2026-04-20",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The site had been empty since 2004, and Anglesey County Council decided an AI data centre was not what should fill it.",
+    "src": "https://nation.cymru/news/ai-data-centre-plan-rejected-amid-fears-over-harm-to-residents-and-environment/"
+   },
+   {
+    "para": 0,
+    "t": "Carbon3.AI Ltd applied to convert the 61 acre former Octel chemical plant at Amlwch Port into what it described as a modern, energy efficient AI centre, part of a distributed processing network across the United Kingdom. The location qualified for Anglesey Freeport tax breaks.",
+    "src": "https://nation.cymru/news/ai-data-centre-plan-rejected-amid-fears-over-harm-to-residents-and-environment/"
+   },
+   {
+    "para": 1,
+    "t": "The council refused the application on April 20, 2026. Its decision notice said: \"Insufficient information has been submitted to demonstrate that the proposal will not harm the landscape, special designated sites, ecology, Welsh Water apparatus as well as the amenity of adjacent nearby residential properties.\"",
+    "src": "https://nation.cymru/news/ai-data-centre-plan-rejected-amid-fears-over-harm-to-residents-and-environment/"
+   },
+   {
+    "para": 1,
+    "t": "The scheme also conflicted with a number of planning policies and pieces of technical guidance.",
+    "src": "https://nation.cymru/news/ai-data-centre-plan-rejected-amid-fears-over-harm-to-residents-and-environment/"
+   },
+   {
+    "para": 2,
+    "t": "Anglesey carries nothing else of the kind within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://nation.cymru/news/ai-data-centre-plan-rejected-amid-fears-over-harm-to-residents-and-environment/"
+  ],
+  "unconfirmed": "No councillor, objector or resident is named or quoted in the source. No capacity in megawatts, investment figure, building count or employment projection was published, and whether Carbon3.AI has appealed or resubmitted is not known."
+ },
+ {
+  "id": "blocked-hazelmere-city-of-swan-2026-05",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The site was about 40 metres from the Helena River, next to a conservation wetland, on two Aboriginal heritage sites, near homes and beside a school.",
+    "src": "https://echonewspaper.com.au/news/hazelmere-data-centre-application-withdrawn/"
+   },
+   {
+    "para": 0,
+    "t": "GreenSquareDC withdrew its application for a data centre at Hazelmere, in the City of Swan east of Perth, on May 14, 2026, after sustained community objection. The project was put at 120 megawatts and 1.1 billion Australian dollars.",
+    "src": "data:blocked.size"
+   },
+   {
+    "para": 1,
+    "t": "Councillors had voted 11 to 2 to back Mayor Tania Richardson in presenting a deputation against the proposal, and council staff had recommended refusal.",
+    "src": "https://echonewspaper.com.au/news/hazelmere-data-centre-application-withdrawn/"
+   },
+   {
+    "para": 1,
+    "t": "Hasluck MP Tanya Lawrence said: \"Local residents came to me with serious concerns about this proposal and as their representative I formally raised those concerns with the WA ministers for water, energy and the environment.\"",
+    "src": "https://echonewspaper.com.au/news/hazelmere-data-centre-application-withdrawn/"
+   },
+   {
+    "para": 1,
+    "t": "Francesca Flynn, executive director of Bibbul Ngarma, said after the withdrawal: \"We are so relieved to be able to stop working so hard on this and get back to our number one priority of caring for the river.\"",
+    "src": "https://echonewspaper.com.au/news/hazelmere-data-centre-application-withdrawn/"
+   },
+   {
+    "para": 2,
+    "t": "GreenSquareDC's chief executive Charles Penny gave a different reason, pointing to the noise testing the company had been told to carry out: \"GreenSquareDC have been required to assess generator operations under a scenario involving 100 percent load during full emergency conditions with the EPA (noise) regulations 1997 remaining silent on the frequency of noise emission events.\"",
+    "src": "https://echonewspaper.com.au/news/hazelmere-data-centre-application-withdrawn/"
+   },
+   {
+    "para": 3,
+    "t": "Perth's data centres sit a little further west: NEXTDC P1 about 10 kilometres away, Equinix's Perth gateway campus about 11 kilometres away, NEXTDC P2 about 13 kilometres away and STACK Perth about 20 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://echonewspaper.com.au/news/hazelmere-data-centre-application-withdrawn/"
+  ],
+  "unconfirmed": "The source does not give the capacity or investment, so the 120 megawatt and 1.1 billion Australian dollar figures come from our own record. The name of the school beside the site is given only as Helena River Waldorf School, and no parent or pupil is quoted. Whether GreenSquareDC will resubmit at Hazelmere or move elsewhere in Western Australia is not known."
+ },
+ {
+  "id": "blocked-hanover-county-13074-mountain-rd-mountain-road-technology-pa",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The planning commission had recommended approval. The supervisors said no anyway, 4 votes to 3.",
+    "src": "https://richmondbizsense.com/2026/05/28/hanover-supervisors-reject-data-center-project-on-mountain-road/"
+   },
+   {
+    "para": 0,
+    "t": "On Wednesday, May 27, 2026 the Hanover County Board of Supervisors denied Tract's rezoning request for nearly 430 acres at 13074 Mountain Road and 12517 Winns Church Road, for a 900 megawatt data center campus. Tract is based in Denver.",
+    "src": "https://richmondbizsense.com/2026/05/28/hanover-supervisors-reject-data-center-project-on-mountain-road/"
+   },
+   {
+    "para": 0,
+    "t": "Faye Prichard, Danielle Floyd, Sean Davis and Jeff Stoneman voted against. Sue Dibble, F. Michael Herzberg and Ryan Hudson voted for.",
+    "src": "https://richmondbizsense.com/2026/05/28/hanover-supervisors-reject-data-center-project-on-mountain-road/"
+   },
+   {
+    "para": 1,
+    "t": "After the commission's recommendation, Tract had improved its offer: $15 million for water infrastructure, restrictions on commercial vehicles, $6 million for conservation and parks, and annual noise studies at its own expense.",
+    "src": "https://richmondbizsense.com/2026/05/28/hanover-supervisors-reject-data-center-project-on-mountain-road/"
+   },
+   {
+    "para": 1,
+    "t": "Supervisor Jeff Stoneman was not persuaded: \"I do think the water concern is a valid issue here ... However, I don't know if it goes far enough to meet the needs.\" He also objected to putting industrial use at a gateway into the county, and what that would signal about future development.",
+    "src": "https://richmondbizsense.com/2026/05/28/hanover-supervisors-reject-data-center-project-on-mountain-road/"
+   },
+   {
+    "para": 2,
+    "t": "The hearing ran two hours. More than 30 residents spoke against the project on environmental and water supply grounds. Eight spoke for it, on tax revenue and jobs.",
+    "src": "https://richmondbizsense.com/2026/05/28/hanover-supervisors-reject-data-center-project-on-mountain-road/"
+   },
+   {
+    "para": 3,
+    "t": "Tract already built the largest data center facility in Hanover County. This was the second large refusal in the county in six months: HHHunt's roughly 400 acre proposal near Wyndham, about 10 kilometers away, was rejected by the planning commission in January 2026 and withdrawn.",
+    "src": "https://www.vpm.org/news/2026-06-01/hanover-mountain-road-data-center-tract-davis-prichard-kirchner-dibble"
+   },
+   {
+    "para": 3,
+    "t": "A cancelled 900 megawatt Hunter Hawking data center sits about 8 kilometers away, alongside operating sites at Cavalier Innsbrook about 4 kilometers away and Pixel Factory about 9 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://richmondbizsense.com/2026/05/28/hanover-supervisors-reject-data-center-project-on-mountain-road/",
+   "https://www.vpm.org/news/2026-06-01/hanover-mountain-road-data-center-tract-davis-prichard-kirchner-dibble"
+  ],
+  "unconfirmed": "No resident is quoted by name in the sources reached, despite more than 30 speaking against. No investment figure for the campus was published, and it is not known whether Tract has appealed or intends to return with a smaller scheme."
+ }
+]

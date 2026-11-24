@@ -1,0 +1,664 @@
+[
+ {
+  "id": "research-culham-data-centre",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Culham Science Centre sits in the Oxfordshire countryside near Abingdon, on a site that was once a naval air station and has since been the home of British fusion research.",
+    "src": "https://www.uktech.news/ai/exciting-plans-ahead-for-culham-britains-first-ai-growth-zone-says-uk-atomic-energy-authority-cto-20250204"
+   },
+   {
+    "para": 0,
+    "t": "It was named the country's first AI Growth Zone, a designation meant to give data centre developers faster planning and other short-term incentives.",
+    "src": "https://www.resultsense.com/news/2026-03-09-oxfordshire-ai-growth-zone"
+   },
+   {
+    "para": 0,
+    "t": "The government and the UK Atomic Energy Authority are looking for a private partner to build a data centre starting at 100 megawatts and rising to 500 or more.",
+    "src": "https://www.uktech.news/ai/exciting-plans-ahead-for-culham-britains-first-ai-growth-zone-says-uk-atomic-energy-authority-cto-20250204"
+   },
+   {
+    "para": 0,
+    "t": "The project is proposed at 500 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The reason Culham was chosen is the wire already running into it.",
+    "src": "https://www.uktech.news/ai/exciting-plans-ahead-for-culham-britains-first-ai-growth-zone-says-uk-atomic-energy-authority-cto-20250204"
+   },
+   {
+    "para": 1,
+    "t": "Tim Bestwick, the authority's chief technology officer, said the site has a 400kV connection to the national grid carrying enough power for tens of thousands of homes, and that decommissioning JET, the experimental reactor that ran there, frees a large part of it.",
+    "src": "https://www.uktech.news/ai/exciting-plans-ahead-for-culham-britains-first-ai-growth-zone-says-uk-atomic-energy-authority-cto-20250204"
+   },
+   {
+    "para": 1,
+    "t": "He described the plan as bringing together two opportunities, the need for computing and the reuse of the electrical infrastructure already on the ground.",
+    "src": "https://www.uktech.news/ai/exciting-plans-ahead-for-culham-britains-first-ai-growth-zone-says-uk-atomic-energy-authority-cto-20250204"
+   },
+   {
+    "para": 1,
+    "t": "Fusion simulation needs heavy computing of its own, he said.",
+    "src": "https://www.uktech.news/ai/exciting-plans-ahead-for-culham-britains-first-ai-growth-zone-says-uk-atomic-energy-authority-cto-20250204"
+   },
+   {
+    "para": 2,
+    "t": "Water is the question nobody has answered.",
+    "src": "https://www.theiet.org/media/press-releases/press-releases-2025/press-releases-2025-july-september/19-august-2025-expert-insight-ai-data-centres-and-the-uk-s-twin-crunch-energy-and-water"
+   },
+   {
+    "para": 2,
+    "t": "Professor George Patsavellas, writing for the Institution of Engineering and Technology on August 19, 2025, pointed out that Culham is seven miles from the proposed Abingdon reservoir, and warned against trading public water resilience for private computing unless water is planned and metered as tightly as power.",
+    "src": "https://www.theiet.org/media/press-releases/press-releases-2025/press-releases-2025-july-september/19-august-2025-expert-insight-ai-data-centres-and-the-uk-s-twin-crunch-energy-and-water"
+   },
+   {
+    "para": 2,
+    "t": "He argued that developers should have to state where their firm low carbon electricity comes from, shift load to low carbon hours, and choose cooling that respects the local hydrology.",
+    "src": "https://www.theiet.org/media/press-releases/press-releases-2025/press-releases-2025-july-september/19-august-2025-expert-insight-ai-data-centres-and-the-uk-s-twin-crunch-energy-and-water"
+   },
+   {
+    "para": 3,
+    "t": "Guy Gadney, who runs an Oxfordshire artificial intelligence company, said the region's recognition had been a long time coming but that it was worth stopping to think and making sure the right thing was being done.",
+    "src": "https://www.resultsense.com/news/2026-03-09-oxfordshire-ai-growth-zone"
+   },
+   {
+    "para": 3,
+    "t": "A CloudHQ site is about 4 kilometres away and an operating Amazon data centre at Didcot about 5.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.uktech.news/ai/exciting-plans-ahead-for-culham-britains-first-ai-growth-zone-says-uk-atomic-energy-authority-cto-20250204",
+   "https://www.resultsense.com/news/2026-03-09-oxfordshire-ai-growth-zone",
+   "https://www.theiet.org/media/press-releases/press-releases-2025/press-releases-2025-july-september/19-august-2025-expert-insight-ai-data-centres-and-the-uk-s-twin-crunch-energy-and-water",
+   "https://www.datacenterdynamics.com/en/news/first-ai-growth-zone-in-the-uk-may-implement-waste-heat-recycling/"
+  ],
+  "unconfirmed": "No private partner has been named, no planning application for the data centre itself was found, and no completion date beyond an aspiration of about five years from planning approval. No water figure has been published for the site and no objection from anyone living nearby was found. Searched: Culham Science Centre AI Growth Zone data centre Oxfordshire planning; Culham Abingdon data centre residents objection water electricity grid; UKAEA Culham AI Growth Zone 500MW private partner Oxfordshire council."
+ },
+ {
+  "id": "research-vantage-newport-south-wales-agz",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Vantage's Newport campus, CWL1, is on 46 acres at Coedkernew on the western edge of the city, and has been running since 2010, which makes it one of the largest data centre campuses in Europe.",
+    "src": "https://vantage-dc.com/news/vantage-data-centers-and-nebius-expand-uk-ai-infrastructure-with-first-deployment-in-south-wales-ai-growth-zone/"
+   },
+   {
+    "para": 0,
+    "t": "The project had been carried as proposed with no capacity figure, which did not match the reporting.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "The site has a connection to the 400kV supergrid and Vantage says it matches its consumption with certified renewable electricity and cools in a closed loop with air-cooled chillers, so it takes little water.",
+    "src": "https://vantage-dc.com/news/vantage-data-centers-and-nebius-expand-uk-ai-infrastructure-with-first-deployment-in-south-wales-ai-growth-zone/"
+   },
+   {
+    "para": 1,
+    "t": "On August 13, 2026 Vantage said Nebius, an artificial intelligence cloud company, would lease high density capacity at CWL1 for training and running models.",
+    "src": "https://vantage-dc.com/news/vantage-data-centers-and-nebius-expand-uk-ai-infrastructure-with-first-deployment-in-south-wales-ai-growth-zone/"
+   },
+   {
+    "para": 1,
+    "t": "It is the first commercial commitment announced inside the South Wales AI Growth Zone.",
+    "src": "https://vantage-dc.com/news/vantage-data-centers-and-nebius-expand-uk-ai-infrastructure-with-first-deployment-in-south-wales-ai-growth-zone/"
+   },
+   {
+    "para": 1,
+    "t": "David Howson, who runs Vantage in Europe, the Middle East and Africa, and Gary Tierney of Nebius both framed the Newport campus as the base for further expansion, and the company says it expects to deliver more than a gigawatt across Newport, Bridgend and Bro Tathan.",
+    "src": "https://vantage-dc.com/news/vantage-data-centers-and-nebius-expand-uk-ai-infrastructure-with-first-deployment-in-south-wales-ai-growth-zone/"
+   },
+   {
+    "para": 2,
+    "t": "What that means for Wales is the argument now running.",
+    "src": "https://research.senedd.wales/research-articles/data-centres-in-wales-how-will-wales-manage-a-rapidly-growing-industry/"
+   },
+   {
+    "para": 2,
+    "t": "Senedd researchers put all of Wales at 154 megawatts of data centre capacity in 2024, the highest outside London, against a pipeline that includes 148 and 150 megawatts at Cardiff, 200 at Newport, about 600 at Bridgend and 349 on Anglesey.",
+    "src": "https://research.senedd.wales/research-articles/data-centres-in-wales-how-will-wales-manage-a-rapidly-growing-industry/"
+   },
+   {
+    "para": 2,
+    "t": "Welsh planning policy does not mention data centres at all, unlike the English and Scottish frameworks, and the biggest obstacle identified is the queue for grid connections, which stood at about 173 requests totalling more than 100 gigawatts across Britain in May 2026.",
+    "src": "https://research.senedd.wales/research-articles/data-centres-in-wales-how-will-wales-manage-a-rapidly-growing-industry/"
+   },
+   {
+    "para": 3,
+    "t": "Wales was declared in drought in July 2026 after its driest spell in 190 years.",
+    "src": "https://swanseabaynews.com/data-centres-a-new-industrial-revolution-is-rising-on-south-waless-old-factory-floors-and-it-arrives-hungry-and-thirsty/"
+   },
+   {
+    "para": 3,
+    "t": "Councils have mostly said yes: Bridgend approved Vantage's 1.7 million square foot scheme on the old Ford engine plant in October 2025, Neath Port Talbot approved a 12 megawatt building at Margam in May 2026, and Anglesey's refusal in April 2026 was a rare one against a national approval rate of about 97 percent.",
+    "src": "https://swanseabaynews.com/data-centres-a-new-industrial-revolution-is-rising-on-south-waless-old-factory-floors-and-it-arrives-hungry-and-thirsty/"
+   },
+   {
+    "para": 3,
+    "t": "Rob Stewart, the leader of Swansea council, said data centres do not tend to create a great many jobs.",
+    "src": "https://swanseabaynews.com/data-centres-a-new-industrial-revolution-is-rising-on-south-waless-old-factory-floors-and-it-arrives-hungry-and-thirsty/"
+   },
+   {
+    "para": 3,
+    "t": "Wales takes 13 percent of the United Kingdom's data centre applications but has about 4 percent of its electrical installers, and meeting the pipeline would need roughly 22,000 more electricians.",
+    "src": "https://swanseabaynews.com/data-centres-a-new-industrial-revolution-is-rising-on-south-waless-old-factory-floors-and-it-arrives-hungry-and-thirsty/"
+   }
+  ],
+  "sources": [
+   "https://vantage-dc.com/news/vantage-data-centers-and-nebius-expand-uk-ai-infrastructure-with-first-deployment-in-south-wales-ai-growth-zone/",
+   "https://research.senedd.wales/research-articles/data-centres-in-wales-how-will-wales-manage-a-rapidly-growing-industry/",
+   "https://swanseabaynews.com/data-centres-a-new-industrial-revolution-is-rising-on-south-waless-old-factory-floors-and-it-arrives-hungry-and-thirsty/",
+   "https://datacentrereview.com/2026/08/ai-growth-zones-yet-to-accelerate-planning-activity-foi-data-suggests/"
+  ],
+  "unconfirmed": "Neither Vantage nor Nebius said how much power the Nebius deployment takes or when it starts. Published figures for the Newport campus itself do not agree: 180 MW of which 72 MW occupied in one account, 148 MW across three buildings at full build in another, and 200 MW in the Senedd's table. No local objection to the Newport site was found. Searched: Vantage Data Centers Newport Wales Nebius AI Growth Zone Coedkernew; Newport South Wales AI Growth Zone data centre planning council residents; Vantage Data Centers Wales Newport campus megawatts investment 2026."
+ },
+ {
+  "id": "research-humain-dammam",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "HUMAIN, the artificial intelligence company owned by Saudi Arabia's Public Investment Fund, broke ground in August 2025 on data centres at Dammam and Riyadh, each of at least 100 megawatts, and committed to having them live in the second quarter of 2026.",
+    "src": "https://vision2030.ai/analysis/humain-data-centers-riyadh-dammam-status/"
+   },
+   {
+    "para": 0,
+    "t": "The Dammam site is in the city's Third Industrial City and is under construction at 100 megawatts.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "Whether either building is actually running is not known.",
+    "src": "https://vision2030.ai/analysis/humain-data-centers-riyadh-dammam-status/"
+   },
+   {
+    "para": 1,
+    "t": "A review dated July 31, 2026 found no announcement, regulatory filing or credible report confirming that either site was in commercial service, and no utility named, no power allocation published and no connection terms disclosed for either.",
+    "src": "https://vision2030.ai/analysis/humain-data-centers-riyadh-dammam-status/"
+   },
+   {
+    "para": 1,
+    "t": "HUMAIN declined to give Data Center Dynamics any detail on the locations behind its land holdings on June 18, 2026, and declined again on July 24 to say how many chips had been delivered or what its agreement with Nvidia required.",
+    "src": "https://vision2030.ai/analysis/humain-data-centers-riyadh-dammam-status/"
+   },
+   {
+    "para": 1,
+    "t": "What can be traced is a design and build contract worth 1.88 billion riyals, about 501 million dollars, awarded to Al Moammar Information Systems in December 2025, a first Nvidia shipment arriving by December 30, 2025, and 1,024 Qualcomm accelerators delivered by February 2026.",
+    "src": "https://vision2030.ai/analysis/humain-data-centers-riyadh-dammam-status/"
+   },
+   {
+    "para": 2,
+    "t": "The company's stated ambition is far larger than these two buildings.",
+    "src": "https://vision2030.ai/analysis/humain-data-centers-riyadh-dammam-status/"
+   },
+   {
+    "para": 2,
+    "t": "It holds 211 plots of land with access to 14 gigawatts of power and has tendered a 6 gigawatt campus in east Riyadh, and its partnership with Nvidia, announced in May 2025, covers up to 500 megawatts to begin with.",
+    "src": "https://vision2030.ai/analysis/humain-data-centers-riyadh-dammam-status/"
+   },
+   {
+    "para": 3,
+    "t": "Water is the constraint that hangs over all of it.",
+    "src": "https://restofworld.org/2025/gulf-ai-water-crisis/"
+   },
+   {
+    "para": 3,
+    "t": "A one megawatt data centre uses roughly 25.5 million litres of water a year, about what 300,000 people drink in a day, and data centres in Saudi Arabia alone drank 15 billion litres in 2024.",
+    "src": "https://restofworld.org/2025/gulf-ai-water-crisis/"
+   },
+   {
+    "para": 3,
+    "t": "About 70 percent of Saudi drinking water comes from desalination, which is itself run on oil and gas, so each extra litre of cooling water costs more fuel.",
+    "src": "https://restofworld.org/2025/gulf-ai-water-crisis/"
+   },
+   {
+    "para": 3,
+    "t": "Anita Nouri, who runs a green growth consultancy in Dubai, said the amount of water these buildings use for cooling is becoming a serious environmental concern.",
+    "src": "https://restofworld.org/2025/gulf-ai-water-crisis/"
+   }
+  ],
+  "sources": [
+   "https://vision2030.ai/analysis/humain-data-centers-riyadh-dammam-status/",
+   "https://restofworld.org/2025/gulf-ai-water-crisis/",
+   "https://www.datacenterworldmiddleeast.com/article/middle-east-data-centers-the-gap-between-announced-gigawatts-and-the-ai-capacity-cios-can-actually-use/"
+  ],
+  "unconfirmed": "The exact plot inside Dammam Third Industrial City is not given in any source, and no cooling design, water figure or power supplier for this site has been published. No planning document and no local comment of any kind was found; Saudi Arabia does not publish the kind of hearing record that would produce one. Searched: HUMAIN Dammam data center 100MW Third Industrial City Saudi; Dammam Saudi Arabia data centre water desalination electricity AI; HUMAIN PIF Nvidia Saudi Arabia data centres gigawatts 2026 progress."
+ },
+ {
+  "id": "research-microsoft-hyderabad-adani",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "AdaniConneX is building a data centre campus on Pargi Road at Elkatta, in Rangareddy district on the western outskirts of Hyderabad, with Microsoft as the tenant.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It is one piece of a 100 billion dollar commitment Adani announced for artificial intelligence infrastructure in India, alongside a gigawatt-scale campus with Google at Visakhapatnam and a site at Noida.",
+    "src": "https://www.adani.com/newsroom/media-releases/adani-commits-usd-100-bn-to-sovereign-ai-infrastructure"
+   },
+   {
+    "para": 0,
+    "t": "Neither company has published a capacity figure or an opening date for Elkatta.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Land is the live issue in this district, and it has been since before this campus was announced.",
+    "src": "https://www.landconflictwatch.org/conflicts/data-centre-and-dispossession-land-livelihoods-and-environmental-concerns-in-mekaguda-telangana"
+   },
+   {
+    "para": 1,
+    "t": "In March 2022 Microsoft bought 21.6 acres at Mekaguda, in the same district, as part of a 15,000 crore rupee investment in its Hyderabad data centre region, with the land pooled and transferred by the state industrial infrastructure corporation.",
+    "src": "https://www.landconflictwatch.org/conflicts/data-centre-and-dispossession-land-livelihoods-and-environmental-concerns-in-mekaguda-telangana"
+   },
+   {
+    "para": 1,
+    "t": "Residents say the company took ground beyond its boundary, encroached on Tungakunta lake and used it as a dump, and that they lost the cart tracks they use to reach their fields, graze animals and fetch water.",
+    "src": "https://www.landconflictwatch.org/conflicts/data-centre-and-dispossession-land-livelihoods-and-environmental-concerns-in-mekaguda-telangana"
+   },
+   {
+    "para": 1,
+    "t": "Fifty-seven households, about 273 people, are directly affected, and the complaint alleges groundwater pollution reaching some 20,000 people across five villages.",
+    "src": "https://www.landconflictwatch.org/conflicts/data-centre-and-dispossession-land-livelihoods-and-environmental-concerns-in-mekaguda-telangana"
+   },
+   {
+    "para": 1,
+    "t": "In July 2023 those 57 residents took Microsoft and 35 other parties to the Telangana High Court; the petition was admitted and was still undecided in September 2025, while the revenue and irrigation departments and the corporation upheld the acquisition as being for public use and construction carried on.",
+    "src": "https://www.landconflictwatch.org/conflicts/data-centre-and-dispossession-land-livelihoods-and-environmental-concerns-in-mekaguda-telangana"
+   },
+   {
+    "para": 2,
+    "t": "The pattern is not confined to one village.",
+    "src": "https://scroll.in/article/1092311/indias-data-centre-push-runs-into-farmers-resistance"
+   },
+   {
+    "para": 2,
+    "t": "Arpita Kanjilal of the Digital Empowerment Foundation, who began investigating Microsoft and Amazon sites in Telangana in August 2025, found that farmers and the village councils meant to plan locally were kept out of the decisions on which land went to data centres.",
+    "src": "https://scroll.in/article/1092311/indias-data-centre-push-runs-into-farmers-resistance"
+   },
+   {
+    "para": 2,
+    "t": "She said the public purpose laws being used rest on subsidies to private companies, with hidden costs nobody has yet worked out.",
+    "src": "https://scroll.in/article/1092311/indias-data-centre-push-runs-into-farmers-resistance"
+   },
+   {
+    "para": 2,
+    "t": "The Human Rights Forum said in October 2025 that the sites had been earmarked through land pooling and acquisition mechanisms that were opaque and secretive, and reported farmers being pressed to give up land while protests continued.",
+    "src": "https://restofworld.org/2026/india-data-center-tax-holiday-farmer-protests-ai/"
+   },
+   {
+    "para": 3,
+    "t": "An operating Amazon data centre at Chandanvelly is about 17 kilometres from the Elkatta site.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.landconflictwatch.org/conflicts/data-centre-and-dispossession-land-livelihoods-and-environmental-concerns-in-mekaguda-telangana",
+   "https://scroll.in/article/1092311/indias-data-centre-push-runs-into-farmers-resistance",
+   "https://restofworld.org/2026/india-data-center-tax-holiday-farmer-protests-ai/",
+   "https://www.adani.com/newsroom/media-releases/adani-commits-usd-100-bn-to-sovereign-ai-infrastructure"
+  ],
+  "unconfirmed": "No capacity, timeline, land area or water arrangement was found for the Elkatta campus itself, and no objection has been recorded against this particular site. The Mekaguda dispute is in the same district and involves the same tenant, but it concerns a different parcel, and nothing found ties it to Pargi Road. A directory lists an AdaniConneX Hyderabad site on Pargi Road with access to 600 MW and a first phase live in October 2024, and a separate Microsoft building on the same road, neither of which could be matched to our entry. Searched: AdaniConneX Microsoft data centre Elkatta Pargi Road Hyderabad Telangana; Hyderabad Telangana data centre water power farmers land acquisition; Adani data centre Telangana investment Microsoft campus megawatts 2026."
+ },
+ {
+  "id": "research-yondr-sedenak",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Yondr's data centre campus is in Sedenak Tech Park at Kulai in Johor, a 745 acre park inside a much larger technology valley, formerly known as the Kulai Iskandar Data Exchange.",
+    "src": "https://www.yondrgroup.com/newsroom/press-release/yondr-group-powers-up-its-first-data-center-campus-in-malaysia-within-two-years-of-market-entry/"
+   },
+   {
+    "para": 0,
+    "t": "The substation was energised on March 13, 2024, under an electricity supply agreement with Tenaga Nasional signed in August 2023 that provides more than 300 megawatts of load through a 275kV high voltage substation.",
+    "src": "https://www.yondrgroup.com/newsroom/press-release/yondr-group-powers-up-its-first-data-center-campus-in-malaysia-within-two-years-of-market-entry/"
+   },
+   {
+    "para": 0,
+    "t": "Yondr has not named the company using the site.",
+    "src": "https://www.yondrgroup.com/newsroom/press-release/yondr-group-powers-up-its-first-data-center-campus-in-malaysia-within-two-years-of-market-entry/"
+   },
+   {
+    "para": 0,
+    "t": "The campus is operating at about 300 megawatts, and was announced in 2023.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The park sits in the middle of the fastest data centre buildout in Southeast Asia, and the thing residents of Johor worry about is water.",
+    "src": "https://newslab.malaysiakini.com/johor-data-centres/en"
+   },
+   {
+    "para": 1,
+    "t": "A 100 megawatt data centre uses about 1.5 billion litres of water a year.",
+    "src": "https://newslab.malaysiakini.com/johor-data-centres/en"
+   },
+   {
+    "para": 1,
+    "t": "Johor had received 101 applications and approved 45, and those approved would need 142 million litres a day, enough for more than half a million households.",
+    "src": "https://newslab.malaysiakini.com/johor-data-centres/en"
+   },
+   {
+    "para": 1,
+    "t": "Charles Santiago, who chaired the national water services commission until May 2024, called it a disaster in the making and highly unsustainable.",
+    "src": "https://newslab.malaysiakini.com/johor-data-centres/en"
+   },
+   {
+    "para": 1,
+    "t": "Abdul Rahman Amat farms 11 acres of pineapple in Pontian, about five kilometres north of Sedenak Tech Park.",
+    "src": "https://newslab.malaysiakini.com/johor-data-centres/en"
+   },
+   {
+    "para": 1,
+    "t": "Malaysia has no mandatory water efficiency rules for these buildings; the guidelines being drafted are voluntary, and Tang Chee Khoay, who works on energy efficient buildings, said that without government mandates data centres can keep operating with no contingency.",
+    "src": "https://newslab.malaysiakini.com/johor-data-centres/en"
+   },
+   {
+    "para": 2,
+    "t": "The state has since acted.",
+    "src": "https://newslab.malaysiakini.com/johor-data-centres/en"
+   },
+   {
+    "para": 2,
+    "t": "The mayor of Johor Bahru, Mohd Noorazam Osman, said people were too excited about data centres and that the area does not have enough water and power.",
+    "src": "https://restofworld.org/2024/malaysia-data-center-jobs-environment/"
+   },
+   {
+    "para": 2,
+    "t": "Residents in Johor Bahru have reported more frequent power cuts and water interruptions, and the national water services commission has warned of widespread shortages within five years.",
+    "src": "https://restofworld.org/2024/malaysia-data-center-jobs-environment/"
+   },
+   {
+    "para": 2,
+    "t": "Malaysia's cabinet approved new planning guidelines for data centres in October 2024.",
+    "src": "https://restofworld.org/2024/malaysia-data-center-jobs-environment/"
+   }
+  ],
+  "sources": [
+   "https://www.yondrgroup.com/newsroom/press-release/yondr-group-powers-up-its-first-data-center-campus-in-malaysia-within-two-years-of-market-entry/",
+   "https://newslab.malaysiakini.com/johor-data-centres/en",
+   "https://restofworld.org/2024/malaysia-data-center-jobs-environment/",
+   "https://www.datacenterdynamics.com/en/news/yondr-powers-up-data-center-in-johor-malaysia/"
+  ],
+  "unconfirmed": "The tenant has never been named, no water figure specific to this campus has been published, and the accounts of the site area differ between 72.5 acres for the buildings and 700 or 745 acres for the whole park. Nothing was found confirming that the full 300 MW is in service. Searched: Yondr Sedenak Johor Kulai data centre campus 300MW powered up; Johor Sedenak Tech Park data centre water electricity Johor state rules; Yondr Group Malaysia financing Johor data center development."
+ },
+ {
+  "id": "research-princeton-digital-jh1-sedenak",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Princeton Digital Group, which is backed by Mubadala of Abu Dhabi, delivered the first phase of its JH1 data centre campus at Sedenak Tech Park in Johor on July 3, 2024.",
+    "src": "https://princetondg.com/newsroom/princeton-digital-group-delivers-phase-one-of-its-150mw-ai-ready-jh1-campus-in-sedenak-tech-park-johor/"
+   },
+   {
+    "para": 0,
+    "t": "That phase is 52 megawatts of a campus planned at 150 or more, built in about twelve months, with rooftop solar panels.",
+    "src": "https://princetondg.com/newsroom/princeton-digital-group-delivers-phase-one-of-its-150mw-ai-ready-jh1-campus-in-sedenak-tech-park-johor/"
+   },
+   {
+    "para": 0,
+    "t": "The company raised a green loan of 1.276 billion ringgit, about 280 million US dollars, for it in May 2024.",
+    "src": "https://princetondg.com/newsroom/princeton-digital-group-delivers-phase-one-of-its-150mw-ai-ready-jh1-campus-in-sedenak-tech-park-johor/"
+   },
+   {
+    "para": 0,
+    "t": "The campus is put at 150 megawatts and about 1.5 billion dollars, with four buildings totalling roughly 128,000 square metres, the first live in July 2024 and the third topped out in 2025.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "The chairman and chief executive, Rangu Salgame, and the Johor chief minister both spoke at the delivery; the tenant was not named.",
+    "src": "https://princetondg.com/newsroom/princeton-digital-group-delivers-phase-one-of-its-150mw-ai-ready-jh1-campus-in-sedenak-tech-park-johor/"
+   },
+   {
+    "para": 1,
+    "t": "A second campus of 200 megawatts is planned nearby.",
+    "src": "data:note"
+   },
+   {
+    "para": 2,
+    "t": "Sedenak Tech Park covers 745 acres and is rated at about 300 megawatts, and it is at the centre of an argument in Johor about water.",
+    "src": "https://newslab.malaysiakini.com/johor-data-centres/en"
+   },
+   {
+    "para": 2,
+    "t": "Johor had 101 data centre applications and had approved 45; those alone would draw 142 million litres a day, which is what more than half a million households use, and a single 100 megawatt building uses about 1.5 billion litres a year.",
+    "src": "https://newslab.malaysiakini.com/johor-data-centres/en"
+   },
+   {
+    "para": 2,
+    "t": "Ranhill Utilities runs all 46 water treatment plants in the state, and in July 2024 YTL Power, which is building its own data centre park at Kulai, took a controlling stake in it.",
+    "src": "https://newslab.malaysiakini.com/johor-data-centres/en"
+   },
+   {
+    "para": 2,
+    "t": "Charles Santiago, until May 2024 the chairman of the national water services commission, called the situation a disaster in the making and highly unsustainable.",
+    "src": "https://newslab.malaysiakini.com/johor-data-centres/en"
+   },
+   {
+    "para": 2,
+    "t": "There are no mandatory water efficiency rules; two operators are looking at treated sewage or river water instead of the mains.",
+    "src": "https://newslab.malaysiakini.com/johor-data-centres/en"
+   },
+   {
+    "para": 3,
+    "t": "Yondr's campus, a Vantage site, a Keppel building and Bridge Data Centres' site for ByteDance all sit at effectively the same location.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://princetondg.com/newsroom/princeton-digital-group-delivers-phase-one-of-its-150mw-ai-ready-jh1-campus-in-sedenak-tech-park-johor/",
+   "https://newslab.malaysiakini.com/johor-data-centres/en",
+   "https://thetechcapital.com/princeton-digital-group-launches-150mw-johor-data-centre-campus/",
+   "https://www.datacentermap.com/malaysia/johor/princeton-digital-jh1"
+  ],
+  "unconfirmed": "The tenant is not named, no water or power figure specific to JH1 has been published, and reported campus size varies between 150 MW and 200 MW and between 128,000 and 225,000 square metres. Our record gives the address as Bukit Batu while the company gives Sedenak Tech Park; they are in the same area but not the same postal line. Searched: Princeton Digital Group JH1 Johor campus 150MW buildings 2025; Johor Sedenak Tech Park data centre water electricity Johor state rules; Princeton Digital Group Malaysia second campus expansion Johor."
+ },
+ {
+  "id": "research-aws-malaysia-johor",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon Web Services opened its Malaysian cloud data centre region on August 21, 2024, with three availability zones, and said it would invest 6.2 billion dollars, about 29.2 billion ringgit, in the country through 2038.",
+    "src": "https://press.aboutamazon.com/2024/8/aws-launches-infrastructure-region-in-malaysia"
+   },
+   {
+    "para": 0,
+    "t": "The company's own estimate is that this adds about 12.1 billion dollars to Malaysian output and supports an average of more than 3,500 full time jobs a year at other businesses through 2038.",
+    "src": "https://press.aboutamazon.com/2024/8/aws-launches-infrastructure-region-in-malaysia"
+   },
+   {
+    "para": 0,
+    "t": "The press release does not say where in Malaysia the three zones are.",
+    "src": "https://press.aboutamazon.com/2024/8/aws-launches-infrastructure-region-in-malaysia"
+   },
+   {
+    "para": 0,
+    "t": "This entry sits inside the YTL Green Data Center Park at Kulai in Johor.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "That park is YTL's own.",
+    "src": "https://theedgemalaysia.com/node/776142"
+   },
+   {
+    "para": 1,
+    "t": "It covers 1,640 acres at Kulai, is to be fed by a 500 megawatt solar plant with 600 megawatts of backup from the national grid, and in November 2025 YTL Power completed the first Nvidia-powered building there, running liquid-cooled Grace Blackwell systems for its own AI cloud.",
+    "src": "https://theedgemalaysia.com/node/776142"
+   },
+   {
+    "para": 1,
+    "t": "In April 2026 YTL said it wanted to double the park's planned 500 megawatts within three years.",
+    "src": "https://theedgemalaysia.com/node/776142"
+   },
+   {
+    "para": 2,
+    "t": "Johor is where most of this is happening, and water is the argument.",
+    "src": "https://newslab.malaysiakini.com/johor-data-centres/en"
+   },
+   {
+    "para": 2,
+    "t": "The state had 101 data centre applications and had approved 45; those alone need 142 million litres a day, enough for more than half a million households, and a single 100 megawatt building uses about 1.5 billion litres a year.",
+    "src": "https://newslab.malaysiakini.com/johor-data-centres/en"
+   },
+   {
+    "para": 2,
+    "t": "Ranhill Utilities runs all 46 water treatment plants in the state, and YTL Power took a controlling stake in it in July 2024.",
+    "src": "https://newslab.malaysiakini.com/johor-data-centres/en"
+   },
+   {
+    "para": 2,
+    "t": "There are still no mandatory water efficiency rules for data centres in Malaysia.",
+    "src": "https://newslab.malaysiakini.com/johor-data-centres/en"
+   },
+   {
+    "para": 2,
+    "t": "The mayor of Johor Bahru, Mohd Noorazam Osman, said people were too excited about data centres and that the area does not have enough water and power.",
+    "src": "https://restofworld.org/2024/malaysia-data-center-jobs-environment/"
+   },
+   {
+    "para": 3,
+    "t": "YTL's own 500 megawatt park stands at the same address, with sites run by Microsoft, STACK, NTT, Yondr and Princeton Digital within 16 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://press.aboutamazon.com/2024/8/aws-launches-infrastructure-region-in-malaysia",
+   "https://theedgemalaysia.com/node/776142",
+   "https://newslab.malaysiakini.com/johor-data-centres/en",
+   "https://restofworld.org/2024/malaysia-data-center-jobs-environment/",
+   "https://www.mordorintelligence.com/industry-reports/malaysia-hyperscale-data-center-market"
+  ],
+  "unconfirmed": "Nothing found confirms that Amazon occupies a building inside the YTL Green Data Center Park, which is the address our record gives; AWS has not said where its Malaysian availability zones are, and our own context list separately places an AWS site at Cyberjaya in Selangor. No capacity, opening date or water arrangement for an AWS building in Johor was found. Searched: AWS Malaysia Johor YTL Green Data Center Park availability zones investment; Kulai Johor YTL Green Data Center Park solar water Nvidia AI; Amazon Web Services Malaysia region 6.2 billion investment jobs 2024."
+ },
+ {
+  "id": "research-nextdc-openai-western-sydney",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "NEXTDC's S7 data centre site is at Eastern Creek, about 45 kilometres west of central Sydney, on roughly 258,000 square metres of developable land the company bought in 2024 for about 353 million Australian dollars.",
+    "src": "https://www.theurbandeveloper.com/articles/eastern-creek-data-centre-550mw-openai-nextdc"
+   },
+   {
+    "para": 0,
+    "t": "The campus is planned at about 550 megawatts and a total spend of about seven billion Australian dollars, with OpenAI as the first anchor tenant and an option to take more over time.",
+    "src": "https://www.theurbandeveloper.com/articles/eastern-creek-data-centre-550mw-openai-nextdc"
+   },
+   {
+    "para": 0,
+    "t": "The first phase is targeted for the second half of 2027, subject to approval.",
+    "src": "https://www.theurbandeveloper.com/articles/eastern-creek-data-centre-550mw-openai-nextdc"
+   },
+   {
+    "para": 0,
+    "t": "NEXTDC's chief executive Craig Scroggie said it would show that Australia can lead on digital infrastructure and artificial intelligence, and the company says the GPU halls will use closed loop liquid cooling that needs no drinking water, with renewable electricity bought under long term contracts.",
+    "src": "https://www.theurbandeveloper.com/articles/eastern-creek-data-centre-550mw-openai-nextdc"
+   },
+   {
+    "para": 1,
+    "t": "Western Sydney is where most of these buildings are going and where the objections are.",
+    "src": "https://honisoit.com/2026/03/the-influx-of-data-centre-development-in-sydney/"
+   },
+   {
+    "para": 1,
+    "t": "A 3.1 billion dollar site is going up at Marsden Park, a five billion dollar one called Project Atlas at Eastern Creek itself, and a gigawatt campus on Mamre Road at Kemps Creek, where 852 backup diesel generators are planned near two schools.",
+    "src": "https://honisoit.com/2026/03/the-influx-of-data-centre-development-in-sydney/"
+   },
+   {
+    "para": 1,
+    "t": "Sydney data centres are expected to draw up to 40 million litres of water a day, and cooling alone is forecast to pass the entire drinking water use of Canberra within a decade, going from under one percent of Sydney's demand now to about a quarter by 2035.",
+    "src": "https://honisoit.com/2026/03/the-influx-of-data-centre-development-in-sydney/"
+   },
+   {
+    "para": 1,
+    "t": "At least 89 data centres in the state draw directly from the public drinking supply.",
+    "src": "https://honisoit.com/2026/03/the-influx-of-data-centre-development-in-sydney/"
+   },
+   {
+    "para": 2,
+    "t": "Local councils mostly cannot stop any of it.",
+    "src": "https://honisoit.com/2026/03/the-influx-of-data-centre-development-in-sydney/"
+   },
+   {
+    "para": 2,
+    "t": "Projects of this size are declared State Significant Development under a 2019 amendment to the planning policy, which takes the decision away from the council and reduces what residents can say, and homeowners and councils in Western Sydney have said they were not meaningfully consulted before approvals were given.",
+    "src": "https://honisoit.com/2026/03/the-influx-of-data-centre-development-in-sydney/"
+   },
+   {
+    "para": 3,
+    "t": "Those neighbours, NEXTDC's own S5 and S2 buildings, a Digital Realty site and a Keppel building, all sit within a kilometre of the Macquarie Park address the entry used to carry, and none of them is near Eastern Creek.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.theurbandeveloper.com/articles/eastern-creek-data-centre-550mw-openai-nextdc",
+   "https://honisoit.com/2026/03/the-influx-of-data-centre-development-in-sydney/",
+   "https://www.cbre.com/insights/articles/asia-pacific-data-centre-boom-to-continue-in-2026"
+  ],
+  "unconfirmed": "Our record used to give the address as Eden Park Road, Macquarie Park, which is where NEXTDC's older Sydney buildings are, not where this one is proposed."
+ },
+ {
+  "id": "research-aws-japan-expansion-tokyo",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon Web Services said in January 2024 it would put 2.26 trillion yen, about 15.24 billion dollars, into its Japanese cloud data centre infrastructure by 2027, across its existing regions at Tokyo and Osaka.",
+    "src": "https://press.aboutamazon.com/aws/2024/1/aws-plans-to-invest-2-26-trillion-yen-into-its-japanese-cloud-infrastructure-by-2027"
+   },
+   {
+    "para": 0,
+    "t": "The company had already spent 1.51 trillion yen in the country since arriving in 2009, opening the Tokyo region in 2011 and Osaka a decade later, and estimates the new money will add 5.57 trillion yen to Japanese output and support about 30,500 full time jobs a year at other businesses.",
+    "src": "https://press.aboutamazon.com/aws/2024/1/aws-plans-to-invest-2-26-trillion-yen-into-its-japanese-cloud-infrastructure-by-2027"
+   },
+   {
+    "para": 0,
+    "t": "The entry sits at Higashishinagawa in Shinagawa ward, where a directory lists an existing AWS building, and carries no capacity figure.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "The constraint in Tokyo is not generation but wire.",
+    "src": "https://www.datacenterdynamics.com/en/news/data-center-energy-consumption-in-japan-to-triple-by-2034-report/"
+   },
+   {
+    "para": 1,
+    "t": "A new data centre can wait five to ten years for a power connection in the Tokyo area, because the transmission and distribution network has no room, not because there are too few power stations.",
+    "src": "data:source_notes"
+   },
+   {
+    "para": 1,
+    "t": "The pipeline of projects around Tokyo comes to roughly 10 gigawatts, about 17 percent of peak load and more than double the supply expansion expected in the next few years, and about 7 trillion yen of grid reinforcement between regions sits behind that, a decade of building.",
+    "src": "https://www.datacenterdynamics.com/en/news/data-center-energy-consumption-in-japan-to-triple-by-2034-report/"
+   },
+   {
+    "para": 1,
+    "t": "Japanese data centre electricity use is forecast to triple to 66 terawatt hours by 2034, which would be about 60 percent of the country's whole growth in power demand and the equivalent of 15 to 18 million households.",
+    "src": "https://www.datacenterdynamics.com/en/news/data-center-energy-consumption-in-japan-to-triple-by-2034-report/"
+   },
+   {
+    "para": 2,
+    "t": "Amazon has said it will use low carbon concrete in the Japanese buildings it puts up next, working with three suppliers, the first of them Takenaka Corporation, whose mix replaces 60 to 70 percent of the cement with blast furnace slag.",
+    "src": "https://www.datacenterdynamics.com/en/news/aws-pledges-to-use-low-carbon-concrete-for-future-japanese-data-centers/"
+   },
+   {
+    "para": 2,
+    "t": "A further AWS building is under construction at Hamura in western Tokyo, due to finish in September 2026.",
+    "src": "data:note"
+   },
+   {
+    "para": 3,
+    "t": "A Tencent Cloud site sits at effectively the same address, a NEXTDC building about 5 kilometres away and Google's Koto-ku site about 7.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://press.aboutamazon.com/aws/2024/1/aws-plans-to-invest-2-26-trillion-yen-into-its-japanese-cloud-infrastructure-by-2027",
+   "https://www.datacenterdynamics.com/en/news/data-center-energy-consumption-in-japan-to-triple-by-2034-report/",
+   "https://www.datacenterdynamics.com/en/news/aws-pledges-to-use-low-carbon-concrete-for-future-japanese-data-centers/",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "Nothing was published on the Higashishinagawa building itself: no capacity, no completion date, no water or power arrangement, and no statement from Amazon that the 2.26 trillion yen includes it. No local objection was found; Japan does not run the kind of public hearing that produces one for a building of this type. Searched: AWS Japan Tokyo Shinagawa Higashishinagawa data center construction; Japan data centre electricity demand grid constraint Tokyo power connection years; Amazon Japan data center investment 2.26 trillion yen jobs Tokyo Osaka."
+ }
+]

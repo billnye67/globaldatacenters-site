@@ -1,0 +1,449 @@
+[
+ {
+  "id": "gemini-ai71-abu-dhabi",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A 50 megawatt data center is listed in Abu Dhabi for AI71, the Emirati AI company.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "AI71 is a company rather than an operator of buildings: it was launched by Abu Dhabi's Advanced Technology Research Council in November 2023 to commercialise the Falcon large language models built at the Technology Innovation Institute, and is described as a joint venture with G42.",
+    "src": "https://www.tii.ae/news/abu-dhabis-advanced-technology-research-council-launches-ai71-new-ai-company-pioneering"
+   },
+   {
+    "para": 1,
+    "t": "The buildings in Abu Dhabi belong to G42 and its subsidiary Khazna.",
+    "src": "https://www.g42.ai/our-offerings/data-centers"
+   },
+   {
+    "para": 1,
+    "t": "The largest is Stargate UAE at Al Dhafrah, a 19.2 square kilometre site inside a planned 5 gigawatt campus, where the first 200 megawatts was due online in 2026 and which OpenAI and Oracle operate.",
+    "src": "https://www.khayrion.com/2026/09/18/desert-compute-the-gulfs-ai-gigafactories-and-the-power-and-water-bill-nobody-talks-about/"
+   },
+   {
+    "para": 1,
+    "t": "No water consumption figure has been published for any of it, though Khazna is piloting treated sewage effluent for cooling at some sites.",
+    "src": "https://www.khayrion.com/2026/09/18/desert-compute-the-gulfs-ai-gigafactories-and-the-power-and-water-bill-nobody-talks-about/"
+   }
+  ],
+  "sources": [
+   "https://www.tii.ae/news/abu-dhabis-advanced-technology-research-council-launches-ai71-new-ai-company-pioneering",
+   "https://www.g42.ai/our-offerings/data-centers",
+   "https://www.khayrion.com/2026/09/18/desert-compute-the-gulfs-ai-gigafactories-and-the-power-and-water-bill-nobody-talks-about/"
+  ],
+  "unconfirmed": "Three searches found no data center of AI71's own, and no facility of 50 megawatts attributed to it."
+ },
+ {
+  "id": "gemini-quantum-frederick-park",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Quantum Frederick data center campus sits on the former Alcoa Eastalco Works site, a 2,100-acre aluminum plant in Frederick County, Maryland that closed in 2010.",
+    "src": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+   },
+   {
+    "para": 0,
+    "t": "Quantum Loophole and TPG Real Estate bought the land in 2021, but Quantum Loophole was removed as lead developer in 2024 after legal disputes and replaced by Catellus Development Corporation.",
+    "src": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+   },
+   {
+    "para": 0,
+    "t": "Aligned Data Centers' piece of the campus sits on Manor Woods Road in Frederick.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It is a 264-megawatt project the company calls Quantum Frederick Park.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "Across the full campus, backers project eventual demand of 2,400 megawatts, more than the 2024 average electricity use of Montgomery and Prince George's counties combined.",
+    "src": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+   },
+   {
+    "para": 0,
+    "t": "Four projects are in development there: Aligned's roughly 260-megawatt piece, an Amazon Web Services project called AWS BWI at 300 megawatts, and Rowan Bauxite II and III, adding at least 200 more megawatts across eight buildings.",
+    "src": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+   },
+   {
+    "para": 1,
+    "t": "Aligned originally asked to install 168 diesel backup generators, each over 2 megawatts, arguing they should be exempt from state review as power-generating stations.",
+    "src": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+   },
+   {
+    "para": 1,
+    "t": "Maryland's Public Service Commission denied that exemption in 2022, and Aligned withdrew.",
+    "src": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+   },
+   {
+    "para": 1,
+    "t": "Governor Moore's 2024 Critical Infrastructure Streamlining Act exempted the generators from that review, and Aligned came back. The Maryland Department of the Environment approved 172 of them in January 2025.",
+    "src": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+   },
+   {
+    "para": 2,
+    "t": "A citizens' group, the Frederick County Data Center Referendum Committee, gathered more than 21,000 signatures, well above the 16,000 required, to force a public vote on a zoning expansion that added nearly 1,000 acres for data center development.",
+    "src": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+   },
+   {
+    "para": 2,
+    "t": "Five lawsuits challenged the referendum. Frederick County Judge James A. Bonifant ruled on June 19, 2026 that zoning ordinances cannot go to referendum and that the petition maps were not legible enough, and the Maryland Supreme Court upheld him on June 30, 2026, blocking the vote.",
+    "src": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+   },
+   {
+    "para": 2,
+    "t": "County Executive Jessica Fitzwater responded on July 1, 2026 with an executive order pausing new data center approvals through the end of the year, though it does not apply to projects already approved.",
+    "src": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+   },
+   {
+    "para": 3,
+    "t": "State inspectors have cited the site for noncompliance or required corrective action at least 67 times, including a 2024 discharge of drilling fluid into nearby streams and, in 2026, illegal pumping of concrete wash water.",
+    "src": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+   },
+   {
+    "para": 3,
+    "t": "The project was originally marketed as a sustainable data center community with a promised 600-acre public nature reserve planned with the University of Maryland. That university design contract was cancelled after Catellus took over, and the reserve has been dropped from public plans.",
+    "src": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+   },
+   {
+    "para": 3,
+    "t": "The land carries its own contamination history: cyanide and fluoride were found in groundwater in 1983, and five hazardous waste sites were identified between 2003 and 2005.",
+    "src": "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+   }
+  ],
+  "sources": [
+   "https://natureforward.org/quantum-frederick-frederick-county-md-maryland-data-center-series-pt-3/"
+  ],
+  "unconfirmed": "Could not confirm current construction status or opening dates for the four campus buildings, or whether the county's July 2026 pause affects this specific Aligned project. The datacentermap.com citation returned repeated 429 errors and could not be read."
+ },
+ {
+  "id": "gemini-aligned-phoenix",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Aligned Data Centers is building a campus called Project Phoenix in Shippingport, Beaver County, Pennsylvania.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The company describes it as a $10 billion redevelopment of a former coal-fired power plant site.",
+    "src": "data:source_notes"
+   },
+   {
+    "para": 0,
+    "t": "Aligned says it broke ground on the campus, which it calls a 2-gigawatt project, in a ceremony with the Shippingport community, according to the company's own announcement.",
+    "src": "https://aligneddc.com/maryland-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "The site sits about 2 kilometers from the Beaver Valley nuclear plant, which generates 1,808 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "Shippingport itself adopted zoning limits on data centers on March 4, 2026, and by mid-2026 at least seven other Beaver and Butler county municipalities, including Bell Acres, Adams Township, Center Township, Lancaster Township, Smith Township, South Strabane and Union Township, had passed or proposed their own zoning restrictions or moratoriums on data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://aligneddc.com/maryland-data-centers/"
+  ],
+  "unconfirmed": "No independent local news coverage of Project Phoenix was found; groundbreaking date, jobs figures, and community reaction beyond the company's own materials are unconfirmed. Whether Shippingport's March 2026 zoning ordinance applies to this project, which appears to predate or coexist with it, is unknown."
+ },
+ {
+  "id": "developers2-aligned-salt-lake-city-west-jordan",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Aligned Data Centers operates three facilities in West Jordan, in Salt Lake County, Utah, known as SLC-01, SLC-02 and SLC-03.",
+    "src": "https://state.datacenterstress.com/"
+   },
+   {
+    "para": 0,
+    "t": "Together they withdrew 127.4 million gallons of water between October 2024 and September 2025, according to a data center tracking dashboard, which notes the operators have not published consolidated water-use-effectiveness figures for the sites.",
+    "src": "https://state.datacenterstress.com/"
+   },
+   {
+    "para": 1,
+    "t": "Aligned is in the middle of an ownership change. A $40 billion acquisition by the AI Infrastructure Partnership, which includes BlackRock, Microsoft, Abu Dhabi's MGX and the Kuwait Investment Authority, was expected to close in the first half of 2026, shifting the company from Australian ownership under Macquarie to a mixed group of sovereign and corporate investors.",
+    "src": "https://state.datacenterstress.com/"
+   },
+   {
+    "para": 1,
+    "t": "Elsewhere in Utah, the Provo City Council voted against a data center rezoning proposal in March 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://state.datacenterstress.com/"
+  ],
+  "unconfirmed": "The datacentermap.com citation returned repeated 429 errors and could not be read. No local Salt Lake County news coverage of the West Jordan sites specifically was found; individual capacities and opening dates remain unconfirmed."
+ },
+ {
+  "id": "gemini-aligned-dfw-01-dfw-03",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Aligned Data Centers operates DFW-01 and DFW-03 at 3801 Britton Road in Mansfield, Tarrant County, Texas.",
+    "src": "https://www.connectcre.com/stories/aligned-to-open-mansfield-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The 27 acre site runs to 429,600 square feet, with first capacity expected from the last quarter of 2025, cooled by air and liquid at densities above 350 kilowatts a rack.",
+    "src": "https://www.connectcre.com/stories/aligned-to-open-mansfield-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Water is the question people in Tarrant County have been asking.",
+    "src": "https://www.trwd.com/resource/data-center-water-request/"
+   },
+   {
+    "para": 1,
+    "t": "The Tarrant Regional Water District has published a statement saying that while it supplies cities including Fort Worth and Mansfield, and some of that water ends up in data centers, it has not signed any new supply contract to serve a data center project, nor raised any existing customer's contract volume on a request made for one.",
+    "src": "https://www.trwd.com/resource/data-center-water-request/"
+   },
+   {
+    "para": 2,
+    "t": "Fort Worth, about 20 miles away, has been through this argument in public.",
+    "src": "https://www.cbsnews.com/texas/news/fort-worth-data-center-moratorium-neighborhood-impact-debate-august-2026/"
+   },
+   {
+    "para": 2,
+    "t": "On August 11, 2026 its council voted unanimously to take the first step toward a 90 day pause on new data center proposals, exempting projects already approved.",
+    "src": "https://www.cbsnews.com/texas/news/fort-worth-data-center-moratorium-neighborhood-impact-debate-august-2026/"
+   },
+   {
+    "para": 2,
+    "t": "Eight other data centers sit in the county, in an ERCOT grid area with 73,825 megawatts of peak demand against 108,571 megawatts of capacity, and since August 3, 2026 Texas has paused new large load grid connections.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://www.connectcre.com/stories/aligned-to-open-mansfield-data-center/",
+   "https://www.trwd.com/resource/data-center-water-request/",
+   "https://www.cbsnews.com/texas/news/fort-worth-data-center-moratorium-neighborhood-impact-debate-august-2026/"
+  ],
+  "unconfirmed": "Searches on Aligned with Mansfield, on Mansfield Texas with data center, and on Tarrant County with data center water found no capacity figure in megawatts, no hearing record and no resident comment naming these buildings. Our record lists DFW-01 and DFW-03 together; the trade coverage describes a single Mansfield site and a DFW-03, and whether DFW-01 is at the same address was not established."
+ },
+ {
+  "id": "gemini-aligned-neo-01",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Aligned Data Centers is building NEO-01 at 2509 Hayes Avenue in Sandusky, on a 129 acre brownfield in Perkins Township, Erie County, Ohio, where a General Motors plant used to stand.",
+    "src": "https://www.datacenterdynamics.com/en/news/aligned-acquires-130-acres-in-ohio-for-data-center-campus/"
+   },
+   {
+    "para": 0,
+    "t": "The first building runs to 450,000 square feet with access to 200 megawatts, and three more are planned.",
+    "src": "https://aligneddc.com/northeast-ohio-data-centers/"
+   },
+   {
+    "para": 0,
+    "t": "The company uses air, liquid or hybrid cooling at densities above 300 kilowatts a rack.",
+    "src": "https://aligneddc.com/northeast-ohio-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "The state's development body records a capital investment of $202 million against a commitment of 18 IT jobs.",
+    "src": "https://www.jobsohio.com/newsroom/news-press/aligned-data-centers-plans-new-data-center-in-erie-county"
+   },
+   {
+    "para": 1,
+    "t": "That is about $11 million of investment for each permanent post.",
+    "src": "https://www.jobsohio.com/newsroom/news-press/aligned-data-centers-plans-new-data-center-in-erie-county"
+   },
+   {
+    "para": 2,
+    "t": "It is the only data center in Erie County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "Two nearby Ohio communities, Wellington Township and Tiffin, passed one year moratoriums on new data centers in early 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/aligned-acquires-130-acres-in-ohio-for-data-center-campus/",
+   "https://aligneddc.com/northeast-ohio-data-centers/",
+   "https://www.jobsohio.com/newsroom/news-press/aligned-data-centers-plans-new-data-center-in-erie-county"
+  ],
+  "unconfirmed": "Searches on Aligned with Sandusky, on Erie County Ohio with data center, and on Hayes Avenue with data center found no hearing record, zoning decision, water figure or resident comment on this project. Acreage is given as 129 acres in one account and 130 in another. Whether the $202 million covers the first building or the whole campus is not stated."
+ },
+ {
+  "id": "gemini-aligned-atl-01",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Aligned Data Centers operates a facility on North River Road in Lithia Springs, Douglas County, Georgia.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Twelve data centers sit in the county, run by Microsoft, Google, STACK, Digital Realty, Switch, T5, DataBank and Vantage among others, nearly all within about four kilometres of this one.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "Counties across Georgia have spent the past two years writing rules for this industry.",
+    "src": "https://wiregrassdailynews.com/news/community-alerts/2026-07-14/blakely-early-county-adopts-data-center-rules-ahead-of-major-qts-project/"
+   },
+   {
+    "para": 1,
+    "t": "Early County, at the other end of the state, adopted an ordinance on July 14, 2026 requiring water efficient cooling, setting noise limits and imposing a 1,000 foot buffer between any data center and nearby homes, schools or churches, before a QTS campus that could reach 12 million square feet by the end of 2035.",
+    "src": "https://wiregrassdailynews.com/news/community-alerts/2026-07-14/blakely-early-county-adopts-data-center-rules-ahead-of-major-qts-project/"
+   },
+   {
+    "para": 1,
+    "t": "Commissioners there approved it unanimously after residents of a rural county of about 6,000 people raised concerns about what the development would do to them.",
+    "src": "https://wiregrassdailynews.com/news/community-alerts/2026-07-14/blakely-early-county-adopts-data-center-rules-ahead-of-major-qts-project/"
+   },
+   {
+    "para": 1,
+    "t": "Nothing of the kind has been reported about this Douglas County facility.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://wiregrassdailynews.com/news/community-alerts/2026-07-14/blakely-early-county-adopts-data-center-rules-ahead-of-major-qts-project/"
+  ],
+  "unconfirmed": "Searches on Aligned with Lithia Springs, on Douglas County Georgia with data center, and on Lithia Springs with data center residents found no capacity figure, water figure, hearing record or resident comment naming this facility. The Early County ordinance described above is a different county's decision and does not apply here; it is included to show what Georgia counties have started requiring."
+ },
+ {
+  "id": "gemini-compass-red-oak",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Compass Datacenters is building a data center campus on 830 acres of rezoned farmland at Red Oak, in Ellis County, Texas, with eight two storey buildings planned at 200,000 square feet each.",
+    "src": "https://www.credaily.com/briefs/red-oak-faces-data-center-boom-amid-resident-backlash/"
+   },
+   {
+    "para": 0,
+    "t": "The first million square foot building is finished, with more under construction.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "The Red Oak city council approved the rezoning in May 2026 by four votes to one.",
+    "src": "https://www.credaily.com/briefs/red-oak-faces-data-center-boom-amid-resident-backlash/"
+   },
+   {
+    "para": 1,
+    "t": "More than 130 residents turned up at city hall meetings to object, raising noise, light pollution, the risk of water contamination, traffic and what it would do to property values, and a petition against the project gathered more than 2,200 signatures.",
+    "src": "https://www.credaily.com/briefs/red-oak-faces-data-center-boom-amid-resident-backlash/"
+   },
+   {
+    "para": 1,
+    "t": "Mayor Mark Stanfill defended the growth as deliberate, positioning Red Oak as a regional gateway and business hub.",
+    "src": "https://www.credaily.com/briefs/red-oak-faces-data-center-boom-amid-resident-backlash/"
+   },
+   {
+    "para": 2,
+    "t": "Red Oak's population more than doubled to 20,000 between 2018 and 2025.",
+    "src": "https://www.credaily.com/briefs/red-oak-faces-data-center-boom-amid-resident-backlash/"
+   },
+   {
+    "para": 2,
+    "t": "The town now has seven data center sites at various stages, two operating, one under construction and four in the pipeline, with projected investment of $13 billion.",
+    "src": "https://www.credaily.com/briefs/red-oak-faces-data-center-boom-amid-resident-backlash/"
+   },
+   {
+    "para": 2,
+    "t": "Compass, Google and DataBank have each been granted 10 year tax breaks, and the most recent abatement backed campus is a $9.45 billion investment expected to add $405 million to the tax base across the abatement period.",
+    "src": "https://www.credaily.com/briefs/red-oak-faces-data-center-boom-amid-resident-backlash/"
+   },
+   {
+    "para": 3,
+    "t": "Any further building here has to wait on the state: Texas stopped clearing large new loads onto the grid on August 3, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.credaily.com/briefs/red-oak-faces-data-center-boom-amid-resident-backlash/"
+  ],
+  "unconfirmed": "No resident is quoted by name in the coverage we could read, and no exact date for the May 2026 council vote was established; a tracking site gives May 12, 2026. No power capacity or water figure for this campus was found, and whether the $9.45 billion abatement backed campus is Compass's or another company's is not stated in the source."
+ },
+ {
+  "id": "gemini-vantage-frontier",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A 1,400 megawatt Vantage Data Centers campus is listed as proposed in Mills County, Texas.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "Nothing about it has been published: no announcement, no filing and no local coverage.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Mills County is a rural county of a few thousand people whose seat is Goldthwaite, and five data centers are listed in it.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "The others are a 450 megawatt Microsoft site, a Chevron and Microsoft project, and the Reeves County Solar Data Ranch, a 1.1 gigawatt project whose name points to a county 400 kilometres away.",
+    "src": "data:note"
+   },
+   {
+    "para": 2,
+    "t": "The area sits in the ERCOT grid, and Texas regulators ordered a statewide pause on new large load grid connections on August 3, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Three searches found nothing about a Vantage campus of this size in Mills County. The cluster of gigawatt-scale entries in one small county is the weakest set of capacity figures we hold."
+ },
+ {
+  "id": "gemini-vantage-lighthouse",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Vantage Data Centers' 902 megawatt Lighthouse campus was filed under Portage County, Wisconsin.",
+    "src": "data:county"
+   },
+   {
+    "para": 0,
+    "t": "It is in Ozaukee County, at Port Washington, about 30 minutes north of Milwaukee and roughly 200 kilometers from Portage County.",
+    "src": "https://vantage-dc.com/data-center-locations/north-america/port-washington-wisconsin"
+   },
+   {
+    "para": 1,
+    "t": "The campus covers 672 acres and is planned as four single storey data centers totalling 902 megawatts across 2.5 million square feet, due to finish in 2028.",
+    "src": "https://vantage-dc.com/data-center-locations/north-america/port-washington-wisconsin"
+   },
+   {
+    "para": 1,
+    "t": "It is part of the Stargate programme run by Oracle and OpenAI, and Vantage's first campus in the state, on an investment reported at $15 billion.",
+    "src": "https://www.datacenterknowledge.com/data-center-construction/vantage-breaks-ground-on-15b-stargate-campus-in-wisconsin"
+   },
+   {
+    "para": 1,
+    "t": "Vantage says it will use closed loop cooling and build zero emission generating capacity, and puts the work at more than 4,000 construction jobs and 1,000 permanent ones.",
+    "src": "https://www.datacenterknowledge.com/data-center-construction/vantage-breaks-ground-on-15b-stargate-campus-in-wisconsin"
+   },
+   {
+    "para": 2,
+    "t": "Wisconsin's Department of Natural Resources has an environmental review open on the Port Washington proposal.",
+    "src": "https://dnr.wisconsin.gov/topic/EIA/Portwashington.html"
+   },
+   {
+    "para": 2,
+    "t": "At least one resident has raised the possibility of pollution from the campus in local coverage.",
+    "src": "https://spectrumnews1.com/wi/milwaukee/news/2026/05/19/health-impacts-data-centers-"
+   }
+  ],
+  "sources": [
+   "https://vantage-dc.com/data-center-locations/north-america/port-washington-wisconsin",
+   "https://www.datacenterknowledge.com/data-center-construction/vantage-breaks-ground-on-15b-stargate-campus-in-wisconsin",
+   "https://dnr.wisconsin.gov/topic/EIA/Portwashington.html",
+   "https://spectrumnews1.com/wi/milwaukee/news/2026/05/19/health-impacts-data-centers-"
+  ],
+  "unconfirmed": "No groundbreaking date, water figure or hearing record was established, and no resident is quoted by name in anything we could read. The county error in our record is logged in our notes on reporting against the record; the 902 megawatt figure matches exactly, which is what identifies the two as the same project."
+ }
+]

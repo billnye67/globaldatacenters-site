@@ -1,0 +1,270 @@
+{
+  "developers3-qts-atlanta-1-metro": {
+    "status": "unknown",
+    "why": "The status field held '99 acres', which is a site area, not a status. The Fulton County article and the QTS company article do not mention this site, and the record cites no source, so nothing establishes a stage."
+  },
+  "digitalrealty-digital-realty-vernon-los-angeles": {
+    "status": "unknown",
+    "why": "The status field held '5 4 acres', a garbled site area, not a status. The only source note is '$49M land purchase'. The LA County article says only 'Vernon is close to full' and does not give this site's stage. Separately, the address (600 W 7th St, Los Angeles) is a downtown LA address, not Vernon; I have not changed it because no source settles it."
+  },
+  "t5-t5-atlanta-lithia-springs": {
+    "status": "unknown",
+    "why": "The status field held '80 acres', a site area, not a status. The source note 'Five buildings, up to 3.5M sq ft' gives size, not stage, and neither the Douglas County nor the T5 article mentions this campus."
+  },
+  "ntt-ntt-osaka-north-1-osk12-ibaraki": {
+    "status": "unknown",
+    "why": "The status field held '8 acres', a site area, not a status. The source notes ('Two buildings', 'Two data centers') give no stage, and the Osaka, Japan and NTT articles do not mention OSK12."
+  },
+  "prime-prime-chicago-elk-grove-village": {
+    "status": "unknown",
+    "why": "The status field held '29 75 acres', a garbled site area, not a status. The source note '$1B, 750,000 sq ft' gives size, not stage, and neither the Cook County nor the Prime article mentions Elk Grove Village."
+  },
+  "powerhouse-powerhouse-caldwell-county-uhland": {
+    "status": "unknown",
+    "why": "The status field held '500 acres', a site area, not a status. The source note 'Filed outside city limits to avoid city control' says an application was filed but not its outcome, and neither the Hays County nor the PowerHouse article mentions Uhland. Note: the record is printed on the Hays County page while its own name and address say Caldwell County."
+  },
+  "iren-iren-canal-flats-bc": {
+    "status": "operating",
+    "why": "The status field held '10 acres', a site area, not a status. The IREN company article says IREN 'runs three former bitcoin sites at Prince George, Mackenzie and Canal Flats', and the British Columbia article says 'It runs sites in Prince George, Mackenzie and Canal Flats that draw up to 160MW combined' and that AI conversion work 'is under way at Mackenzie and Canal Flats'."
+  },
+  "bulk-bulk-n01-vennesla-kristiansand": {
+    "status": "unknown",
+    "why": "The status field held '300 hectares', which the Agder article confirms is the site area ('on a 300-hectare site beside one of Europe's largest transformer stations'). The article reports only that CoreWeave 'said it would be running by summer 2025' and that the grid work is newly permitted; it does not establish whether N01 is operating. The '400MW secured' in the source note is grid capacity secured, not built capacity, so capacity stays null."
+  },
+  "gemini-xai-colossus-2-macrohard": {
+    "duplicate_of": "epoch-colossus-2",
+    "why": "Same campus as epoch-colossus-2 (5400 vs 5420 Tulane Rd, Memphis; both 'Colossus 2'). Keep the Epoch record, whose sources are WSJ and MLGW. This row's 210 MW is also contradicted by the Shelby County article: 'what Colossus 2 will draw when it is complete, which no published source states'."
+  },
+  "epoch-colossus-2": {
+    "status": "operating (expanding)",
+    "capacity_mw": null,
+    "why": "The Shelby County article says 'what Colossus 2 will draw when it is complete, which no published source states', so neither 946 MW nor 210 MW (the duplicate) is supported; capacity null. It is running: the xAI article says the turbines are 'used to power the Colossus 2 data center', but it is not complete ('when it is complete'), hence operating (expanding)."
+  },
+  "microsoft-microsoft-malaga-wenatchee": {
+    "status": "operating (expanding)",
+    "why": "The Chelan County article: the PUD supplies power 'from the first building's opening, scheduled for August 2025', and on September 18, 2026 the fire station celebration 'included a tour of Microsoft's first Malaga data center'. The SEPA application describes 'at least three buildings', and a further 173 acres were bought 'for a possible second phase', so more is coming. Capacity stays null: 420 MW is the substation ceiling and 288 MW the PUD supply cap, and 'Neither the PUD nor Microsoft would say how much power Microsoft would actually use.'"
+  },
+  "developers3-qts-san-antonio": {
+    "status": "unknown",
+    "why": "The status field held '32 acres', a site area, not a status. The record cites no source, and neither the Bexar County article nor the QTS article mentions this site."
+  },
+  "digitalrealty-mc-digital-realty-inzai-nrt12-nrt14": {
+    "status": "operating (expanding)",
+    "why": "The record's own source note says 'NRT14 31MW live April 2026, campus ~104MW', so part of the campus is running and more is planned. Capacity left null because the note gives both a live figure (31) and a campus figure (~104) and the field does not say which it means."
+  },
+  "equinix-equinix-munich-mu1-mu4": {
+    "status": "operating",
+    "why": "Bavaria article: 'Equinix opened MU4 at Dywidagstrasse 10 in Aschheim ... in February 2022 ... alongside its MU1 and MU3 sites.'"
+  },
+  "switch-switch-pyramid-grand-rapids": {
+    "status": "operating",
+    "why": "Switch company article: 'It runs large \"Prime\" campuses in Las Vegas and Reno, Nevada; Grand Rapids, Michigan; ...' The record's source note describes the former Steelcase pyramid, which is this campus."
+  },
+  "amazon-regions-aws-stockholm-region-eskilstuna-katrineholm-vasteras": {
+    "status": "operating (expanding)",
+    "why": "SÃ¶dermanland article: 'AWS brought all three into service in December 2018', and in November 2024 'AWS said it was building new data centers in all three availability zones', with a permit applied for to add 88,000 m2 in three buildings in Eskilstuna."
+  },
+  "iren-iren-bundey-south-australia": {
+    "status": "proposed",
+    "capacity_mw": 800,
+    "why": "South Australia article: 'IREN ... announced an 800MW campus beside ElectraNet's Bundey substation', 'first energisation is expected from 2028', and 'IREN's Bundey campus needs its approvals before its first stage is energised'. The Goyder chief executive says its likelihood 'is yet to crystallise'."
+  },
+  "xai-xai-southaven-power-plant-former-duke-gas-turbines": {
+    "drop": true,
+    "why": "This is not a data center. The record's own source note says 'Power plant not data center: 1.2GW gas turbines and Megapacks feeding Tulane Rd and Stateline Rd', and the DeSoto County article describes it as the site where MZX Tech 'has run gas turbines ... to feed its Colossus 2 data center in Memphis'. xAI's actual Southaven data center (MACROHARDRR, the former GXO warehouse) is a separate facility."
+  },
+  "chinamobile-china-mobile-port-dickson-malaysia": {
+    "status": "proposed",
+    "capacity_mw": 50,
+    "why": "Negeri Sembilan article: 'In June 2026 the Malaysian developer Tanco signed a non-binding memorandum with China Mobile International to consider a 50MW data center in Port Dickson.' A non-binding MOU to consider a site is at most proposed. The article does not support the source note 'Subsea cable landing traffic' or the 'Malaysia Vision Valley 2.0' address."
+  },
+  "huawei-huawei-cloud-gui-an-guizhou": {
+    "status": "operating",
+    "why": "Guizhou article: 'AFP visited Gui'an New Area outside Guiyang in July 2026 and described Huawei's largest data center there', and 'Gui'an alone hosts 27 large data centers, including Huawei's'."
+  },
+  "scala-scala-mexico-tepotzotlan-mexico-city-metro": {
+    "capacity_mw": 5,
+    "why": "State of Mexico article: 'Scala Data Centers' SMEXTP01 in TepotzotlÃ¡n, outside Mexico City: an $80 million, 5-megawatt building of about 13,200 square metres'. Status left unknown because the article gives only 'operations projected from the end of that year' (2023), which is a projection, not a confirmation."
+  },
+  "amazon-aws-gw-ranch-pecos-county": {
+    "status": "proposed",
+    "why": "Pecos County article: 'Two very large projects have been proposed outside Fort Stockton', GW Ranch among them. Amazon 'confirmed that it had acquired GW Ranch' in August 2026 and filed with TDLR for three buildings. A licensing filing is not construction, and nothing in the article says building has started."
+  },
+  "developers2-cyrusone-frankfurt-wilhelm-fay": {
+    "status": "operating (expanding)",
+    "why": "The record's own sources disagree: the datacentermap listing treats it as operating, and its other note says 'In development per CyrusOne'. The note 'Seven Frankfurt buildings' and the Hessen article ('the groundbreaking of FRA7, CyrusOne's data centre on the Frankfurt Westside campus' at the end of 2024) describe a running campus that is still being extended. Plain 'operating' drops the construction."
+  },
+  "gemini-microsoft-leesburg": {
+    "status": "unknown",
+    "capacity_mw": null,
+    "why": "The first cited source is about a different project: its URL is 'microsoft-mount-pleasant-proposed-wi', Microsoft's Mount Pleasant, Wisconsin site. The other is datacentermap's generic Microsoft list. Nothing supports 180 MW or 'operating' for a Leesburg site, and the Loudoun County article does not mention a Microsoft Leesburg facility."
+  },
+  "gemini-core-scientific-dalton": {
+    "capacity_mw": null,
+    "why": "The only cited source is about a different project: its URL is 'core-scientific-denton-data-center-tx', Core Scientific's Denton, Texas site. Neither the Whitfield County nor the Core Scientific article gives a Dalton-only figure; the company article says only that 152 MW was leased 'at Auburn, Alabama and Dalton, Georgia' combined. Status 'operating' stands: 'Its Dalton sites ... now serve the AI cloud company CoreWeave.'"
+  },
+  "research-naver-nvidia-tamesna": {
+    "name": "Nexus AI Factory (Nouaceur)",
+    "address": "Nouaceur, Casablanca-Settat, Morocco",
+    "developer": "Nexus Core Systems (with Naver Cloud, Nvidia, Lloyds Capital, TAQA Morocco)",
+    "status": "under construction",
+    "why": "Rabat-SalÃ©-KÃ©nitra article: 'The 500-megawatt AI campus this region is usually linked to is being built somewhere else ... it chose Nouaceur on the outskirts of Casablanca, in the Casablanca-Settat region ... now described as a $1.2 billion \"Nexus AI Factory\" ... start at 40 megawatts and grow to 500 ... its first phase is running several months behind'. It also says 'no published report names Tamesna as the site', so the Tamesna name and address are wrong. The 500 MW capacity stands. The record needs re-geocoding to Nouaceur."
+  },
+  "google-google-botetourt-center": {
+    "duplicate_of": "ft-691",
+    "why": "Same Google campus as ft-691 ('Google Botetourt County Data Center Campus', Botetourt Center at Greenfield, Daleville). The Botetourt County article describes one campus: Google 'paid Botetourt County $14 million for 312 acres of the Greenfield industrial park in Daleville'. Keep ft-691, which cites news reporting; this row cites only a datacentermap directory. (This replaces my earlier status-only fix for this id.)"
+  },
+  "cyrusone-cyrusone-bosque-county-tx": {
+    "status": "under construction",
+    "why": "Bosque County article: 'In Bosque County the data center is already rising, about a mile downstream of the Lake Whitney dam on County Road 3610A.' The record's source says 'In development per CyrusOne, five buildings'."
+  },
+  "cyrusone-cyrusone-totowa-nym2": {
+    "status": "operating",
+    "why": "Passaic County article: 'South Jersey Climate News's statewide map lists several operating facilities: CyrusOne's NYM2 at 50 Madison Road in Totowa'."
+  },
+  "developers3-qts-forssa": {
+    "status": "proposed",
+    "capacity_mw": 81,
+    "why": "Kanta-HÃ¤me article: 'On July 23, 2026, the city granted the first building permit ... a three-storey building ... with nine data halls of 9MW each, 81MW in total', and 'QTS says phase one construction is tentatively set for 2027'. The permit allowed preparatory work, but construction proper has not begun, so proposed rather than under construction. 81 MW is the permitted first building. The article says the full campus draw 'ha[s] not been published'; the 450MW is Yle's reported maximum draw, not a confirmed build."
+  },
+  "tract-tract-farmington": {
+    "status": "proposed",
+    "why": "Dakota County article: 'The council approved Tract's Farmington Technology Park, up to 12 data centers ... by a 4-1 vote in 2024, with the final plat approved on Nov. 18, 2024. It now faces two combined lawsuits', with a trial expected in 2026. It is approved and under legal challenge; no construction is reported."
+  },
+  "nextdc-nextdc-s3-sydney": {
+    "status": "operating",
+    "why": "The record's own source note: '$1B, opened 2022'."
+  },
+  "nextdc-nextdc-d2-darwin": {
+    "status": "under construction",
+    "capacity_mw": 6,
+    "why": "Northern Territory article: NEXTDC 'has topped out D2 Darwin in the city centre, which it says will add 6 megawatts'."
+  },
+  "ft-61": {
+    "duplicate_of": "ft-62",
+    "why": "The record's own name admits it: 'Project JGK (same project as Columbia County Data Center?)'. Its address is White Oak Technology Park, Appling-Harlem Rd, the same White Oak park as ft-62 ('White Oak Technology Park/ Columbia County Data Center'), and its sources (Augusta Chronicle and DCD on the Columbia County technology park) describe the same project. The Columbia County article treats White Oak as one campus. This row also prints a research question as its public name. For ft-62: the article says the White Oak rezoning 'passed unanimously' on February 3, 2026, Google was named as tenant in July 2026, and 'Land is already being cleared', so its 'proposed' status is also out of date."
+  },
+  "gemini-meta-bowling-green": {
+    "status": "unknown",
+    "why": "'Operating' contradicts the Wood County article: the campus is 'an $800 million, 280-acre campus due to open in 2027', and its dedicated power plant only began construction around February 9, 2026. The article does not say outright whether the data center buildings themselves are under construction, so I have not asserted that."
+  },
+  "gemini-google-cerrillos": {
+    "duplicate_of": "blocked-cerrillos-2024-09-17",
+    "why": "Same Google Cerrillos project as 'Google Â· Cerrillos' (blocked-cerrillos-2024-09-17). This row's 'operating' is flatly contradicted by the Chile article: 'as of 2026, six years after the first permits, nothing has been built on the site.'"
+  },
+  "epoch-google-the-dalles": {
+    "sources": [
+      "https://datacenters.google/efficiency/"
+    ],
+    "why": "The second cited source belongs to a different project: its URL is 'google-council-bluffs-core-campus-ia', Google's Council Bluffs, Iowa campus, not The Dalles. I removed it. Status 'operating' agrees with the Wasco County article ('Google built its first data center in The Dalles in 2006'). The 154 MW is Epoch's figure and I have left it; neither the article nor the remaining source states a capacity."
+  },
+  "gemini-aligned-atl-01": {
+    "status": "unknown",
+    "sources": [],
+    "why": "The only cited source belongs to a different project: its URL is 'aligned-energy-frederick-county-maryland-hyperscale-campus', Aligned's Frederick County, Maryland campus. Neither the Douglas County nor the Aligned article mentions ATL-01, so nothing on record supports 'operating'."
+  },
+  "research-terranova-queretaro": {
+    "name": "TERRANOVA San Miguel de Allende",
+    "why": "The name says QuerÃ©taro, but the record's own address (Av. La Aurora & C. La Canada, Poligono Empresarial, San Miguel de Allende, Guanajuato) and its datacentermap source URL ('guanajato/terranova-san-miguel-de-allende') both put it in San Miguel de Allende, Guanajuato. It is printed on the Guanajuato page under a QuerÃ©taro name."
+  },
+  "amazon-aws-drogheda": {
+    "status": "operating",
+    "why": "County Louth article: 'Drogheda already has data centers, though not in Louth. Amazon's campus is in the IDA Business and Technology Park on the Donore Road ... just across the county line in Meath ... The Irish Times reported that the first building was a 48MW facility'. So at least the first building runs, while 'whether the second and third are built and operating, was not established'. 'Under construction' has no support. Note for the geocoding pass: the campus is in County Meath, but the row is printed as County Louth's only project."
+  },
+  "cyrusone-cyrusone-paris-par1": {
+    "status": "unknown",
+    "sources": [],
+    "why": "The only cited source is Baxtel's Digital Realty Trust listing ('baxtel.com/data-centers/digital-realty-trust'), a different company. Nothing on record supports a CyrusOne Paris PAR1 at 1 Bd Arago as operating, and neither the France nor the ÃŽle-de-France article mentions it."
+  },
+  "ft-1784670808582-1700": {
+    "name": "White Rose Partners Project Kilo",
+    "why": "Kane County article: 'White Rose Partners, a Dallas developer ... filed a concept plan in July 2026 for Project Kilo, a 200,000-square-foot data center ... at 33W304 Kenyon Road'. The row spells it 'Whiterose Partners LLC Data Center'. The 48 MW (DCD headline) and 'proposed' are consistent."
+  },
+  "ft-313": {
+    "capacity_mw": null,
+    "why": "1,900 MW is not the data center's size. The Goodhue County article: 'Xcel Energy, which will supply power, says it and Google will bring 1,900 megawatts of new clean energy to the grid.' The data center is 'about 250,000 square feet' and no article or source figure gives its load. Status 'proposed' stands, but note the article's lead: a judge has barred 'beginning or continuing any construction or pre-construction activities'."
+  },
+  "ft-1763170918062-5222": {
+    "capacity_mw": 400,
+    "why": "St. Lawrence County article: as first proposed the expansion was 'drawing about 635 megawatts', but 'NCCS has since said it removed a third building and cut the footprint by about 400,000 square feet; North Country Now reports the facility would use about 400 megawatts'. 635 is the superseded figure."
+  },
+  "ft-1774482485361-4747": {
+    "capacity_mw": 150,
+    "why": "Summit County article: Viking runs 'a 380,000-square-foot building that the company says draws 150 megawatts around the clock'. Nothing on record supports 400; its only source is the company homepage."
+  },
+  "ft-420": {
+    "status": "proposed",
+    "sources": [
+      "https://www.dispatch.com/story/news/2025/05/30/vantage-data-center-campus-millersport-ohio-tech/83921180007/",
+      "https://www.nbc4i.com/news/local-news/fairfield-county/some-residents-hesitant-about-new-1-billion-data-center-headed-for-central-ohio/",
+      "https://www.nbc4i.com/news/local-news/fairfield-county/2-1-billion-vantage-data-center-announced-for-fairfield-county/"
+    ],
+    "why": "Fairfield County article: annexation passed, and 'A site plan circulating in the village suggests up to five single-story buildings ... around 800 MW in all, with the first due in 2027'. It calls this 'a much larger one on the way' and reports no construction, so 'under construction' is unsupported; proposed. I removed the cleanview source: its URL is 'j5-piqua-data-center', a different Ohio project in Piqua. 800 MW stands as the planned figure."
+  },
+  "ft-1785374952695-7873": {
+    "name": "West Emaus Avenue Data Center (Quantm Group)",
+    "why": "The name field says 'Quantum Group' but the developer field says 'Quantm Group, LLC'. The record's own WFMZ source: 'The proposal by Quantm Group, LLC calls for converting a vacant 224,000-square-foot warehouse at 2401 West Emaus Avenue into an 80-megawatt data center', which also supports the 80 MW. DCD's headline '100MW' belongs to J.G. Petrucci's separate Bradford Street project in the same article, not this one."
+  },
+  "ft-1763416659575-1529": {
+    "status": "proposed",
+    "name": "Keel Infrastructure Carbon Node East (Panther Creek)",
+    "why": "Carbon County article: Keel 'wants to build Carbon Node East'. It has conditional preliminary approval and an approved sewage plan, but 'construction could start in 2027 if the state Department of Environmental Protection approves pending permits', and 'a final land development plan must still come back to borough council before any building can start'. So not under construction. The article names the project Carbon Node East; Panther Creek is the adjacent power plant. 350 MW matches 'Keel describes a 350-megawatt campus'."
+  },
+  "ft-563": {
+    "status": "proposed",
+    "address": "Pampa, TX 79065",
+    "why": "Gray County article: APR 'said it was still looking for data centre developers, hyperscalers and AI partners to build it with', and 'The articles found in this search reported no tenant, construction or county abatement for the APR site since then', so not under construction. 400 MW matches 'starting at 400 megawatts'. The address field read 'Unknown location, Pampa', a research note printed in a live field."
+  },
+  "ft-629": {
+    "status": "under construction",
+    "developer": "Creekstone Energy (Fibernet MercuryDelta)",
+    "why": "Millard County article: the county approved the rezoning, and 'Construction of gas infrastructure and roads is under way, and Creekstone expects its first computers online toward the end of 2027.' The campus is now 'Creekstone Energy's campus outside Delta', led by a Fibernet MercuryDelta co-founder. The 10,000 MW matches 'up to 10 gigawatts at the site over the coming decade'."
+  },
+  "ft-1782186948504-7033": {
+    "name": "Prometheus Hyperscale Evanston Campus",
+    "status": "approved",
+    "why": "Uinta County article: 'the County Commission unanimously granted a conditional use permit for Prometheus Hyperscale's 1.25-gigawatt campus', and a court challenge was dismissed on August 17. The name 'Wyoming Hyperscale Whitebox' is out of date: 'the company was known as Wyoming Hyperscale Whitebox when it first planned a 120MW campus on the site in 2020.' 1,250 MW matches."
+  },
+  "blocked-imperial-county-next-to-victoria-ranch-2026-09-09": {
+    "name": "Imperial Data Center (Sebastian Rucci)",
+    "developer": "Imperial Valley Computer Manufacturing (Sebastian Rucci)",
+    "capacity_mw": 330,
+    "why": "Imperial County article: 'a roughly 950,000-square-foot, 330-megawatt AI campus ... Sebastian Rucci, through Imperial Valley Computer Manufacturing, wants to build the Imperial Data Center'. This record's own KPBS source (Sept 9, 2026) is headlined 'court overturns approval of Imperial County data center, orders environmental review', so 'blocked' stands. The same project also appears as ft-1768323204639-1816 ('Imperial Data Center', under construction, 330 MW). That record is not on my list; it should be marked duplicate_of this one, because 'under construction' is contradicted by the court ruling and the article."
+  },
+  "ft-101": {
+    "developer": "Vantage Data Centers",
+    "why": "The name is 'Vantage: Westlake Project' but the developer field is blank. The record's only source is DCD's 'vantage-files-for-two-data-center-campuses-outside-atlanta-georgia'."
+  },
+  "ft-1775151442981-9276": {
+    "developer": "Crow Holdings Development and CHI/Acquisitions",
+    "why": "The developer field is blank. Fayette County article: 'Crow Holdings Development and CHI/Acquisitions wanted a single two-story, 300,000-square-foot data center'. 'Cancelled' matches the DCD source ('developer effectively withdraws application')."
+  },
+  "ft-205": {
+    "duplicate_of": "blocked-douglas-county-i-20-at-liberty-rd-2026-07-07",
+    "why": "Same Liberty Road project as 'EdgeConneX Â· Douglas County' (blocked-douglas-county-i-20-at-liberty-rd-2026-07-07). The Douglas County article: 'The applicant was East Village Dothan LLC, which the Douglasville Sentinel identified as the data center company EdgeConneX. It wanted about 700 acres between Interstate 20, Liberty Road, Suddeth Road and the Clinton Nature Preserve', and the commission voted 4-1 to deny in July 2026. This row's 'suspended' is wrong, and its developer field misspells both names ('EdgeConnex, East Village Donthan LLC'; the article has EdgeConneX and East Village Dothan)."
+  },
+  "ft-1768855509323-6256": {
+    "capacity_mw": 60,
+    "sources": [
+      "https://www.wpsdlocal6.com/newsletter_stories/city-leaders-hope-to-fill-space-after-cryptocurrency-company-leaves-amerisourcebergen-building-in-paducah/article_6d9aefce-e236-11ec-b493-2ba86b7b6a5b.html"
+    ],
+    "why": "McCracken County article: 'Riot Platforms runs a 60 MW bitcoin mine in Industrial Park West just outside Paducah ... and says it could grow to 110 MW', which supports 'operating (expanding)' at 60 MW. I removed the DCD source 'riot-to-convert-cryptomine-site-in-texas-to-hpc-signs-25mw-lease-with-amd': it is about Riot's Texas site, a different project. Caution: the remaining WPSD source (2022) is about a crypto company leaving the AmerisourceBergen building, and I cannot tell from the record whether that is this address."
+  },
+  "ft-1773976229715-8272": {
+    "name": "FirstLight Bedford Data Center",
+    "status": "operating (expanding)",
+    "why": "Hillsborough County article: 'FirstLight's data center at 8 Commerce Drive in Bedford' ... 'In March 2026 Data Center Dynamics reported that FirstLight was expanding it.' The row spelled the company 'First Light'."
+  },
+  "ft-1782755291382-6186": {
+    "address": "near Cadiz Rd, Lore City, OH 43755",
+    "why": "The address field read 'near Cadiz Rd, likely, Lore City', with a research hedge ('likely') printed in a live field. The location stays as vague as the source allows."
+  },
+  "ft-891": {
+    "status": "cancelled",
+    "why": "The record's own source is Fauquier Now: 'developer-withdraws-plans-for-catlett-station-data-center-project'. A withdrawn application is not 'proposed'."
+  },
+  "ft-691": {
+    "name": "Google Botetourt County Data Center Campus",
+    "why": "The name ended in a stray full stop ('Campus.'). 'Proposed' matches the Botetourt County article: Google 'confirmed the campus on March 26' and its water request 'still awaited the water authority board's approval'; no construction is reported."
+  }
+}

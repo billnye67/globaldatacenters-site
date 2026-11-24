@@ -1,0 +1,609 @@
+[
+ {
+  "id": "epoch-openai-stargate-new-mexico",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Project Jupiter is Oracle's data center campus in the Santa Teresa Industrial Park in Doña Ana County, New Mexico, near the Mexican border.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Oracle and Stack Infrastructure are building it for OpenAI's Stargate program on a 1,400-acre site, at a projected cost of up to $165 billion.",
+    "src": "https://cryptobriefing.com/oracle-renewables-stargate-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The campus needs about 2.5 gigawatts of power, which will come mostly from 2.45 gigawatts of Bloom Energy fuel cells that burn natural gas rather than from the regional electric grid.",
+    "src": "https://cryptobriefing.com/oracle-renewables-stargate-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Oracle has asked energy developers to build up to 2 gigawatts of solar, wind and geothermal power to offset the project's emissions, with a goal of carbon-free electricity for the campus by 2031.",
+    "src": "https://cryptobriefing.com/oracle-renewables-stargate-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "A natural gas pipeline proposed to help fuel the site, called the Green Chile Project, has been rejected, and the campus's air quality permit process has been delayed by community opposition.",
+    "src": "https://cryptobriefing.com/oracle-renewables-stargate-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "On July 28, 2026, a Doña Ana County Commission meeting on the project turned into a scuffle.",
+    "src": "https://www.abqjournal.com/news/project-jupiter-update-sparks-scuffle-arrests/3091046"
+   },
+   {
+    "para": 2,
+    "t": "Commission Chairman Manny Sanchez ordered hecklers removed from the chamber, and as sheriff's deputies moved in, a shoving match broke out between opponents, a private security guard and two deputies.",
+    "src": "https://www.abqjournal.com/news/project-jupiter-update-sparks-scuffle-arrests/3091046"
+   },
+   {
+    "para": 2,
+    "t": "Resident Abegail Salugsugan, 26, was knocked to the ground twice in the scuffle and was arrested along with Kiki Garden, 33, and Orin Parnell, 50, on disorderly conduct charges.",
+    "src": "https://www.abqjournal.com/news/project-jupiter-update-sparks-scuffle-arrests/3091046"
+   },
+   {
+    "para": 2,
+    "t": "A fourth man, Derrick Pacheco, was removed from the meeting for using profanity.",
+    "src": "https://www.yahoo.com/news/politics/articles/demonstrators-arrested-jobs-promised-rowdy-035900496.html"
+   },
+   {
+    "para": 2,
+    "t": "Resident Cindy Haber told the commission, \"You have been played,\" and demanded \"strong guardrails to protect our environment, livelihood, health, democratic rights.\"",
+    "src": "https://www.abqjournal.com/news/project-jupiter-update-sparks-scuffle-arrests/3091046"
+   },
+   {
+    "para": 2,
+    "t": "Not everyone in the room opposed the project. Angel Mendoza, who works on it, said it represents \"responsible investment in our community.\"",
+    "src": "https://www.abqjournal.com/news/project-jupiter-update-sparks-scuffle-arrests/3091046"
+   },
+   {
+    "para": 2,
+    "t": "Protesters carried signs reading \"Let Santa Teresa Breathe\" and \"We Can't Drink Data,\" and objected that the county had limited public comment to 30 speakers at two minutes each.",
+    "src": "https://www.yahoo.com/news/politics/articles/demonstrators-arrested-jobs-promised-rowdy-035900496.html"
+   },
+   {
+    "para": 2,
+    "t": "Oracle Cloud Infrastructure vice president Mahesh Thiagarajan told the commission the project represents more than $4.7 billion in economic impact for New Mexico and would employ 7,000 people at peak, including construction, fiber and power-generation workers.",
+    "src": "https://www.yahoo.com/news/politics/articles/demonstrators-arrested-jobs-promised-rowdy-035900496.html"
+   },
+   {
+    "para": 2,
+    "t": "Stack Infrastructure's chief development officer, Bobby Hollis, said close to 3,000 workers were on site at peak activity, including nearly 700 New Mexicans and 300 county residents.",
+    "src": "https://www.abqjournal.com/news/project-jupiter-update-sparks-scuffle-arrests/3091046"
+   },
+   {
+    "para": 2,
+    "t": "Commissioner Susie Kimble said she had taken hundreds of calls from constituents: \"They deserve to know the answers. They need to know what kind of air quality to expect, what kind of water to expect.\"",
+    "src": "https://www.yahoo.com/news/politics/articles/demonstrators-arrested-jobs-promised-rowdy-035900496.html"
+   },
+   {
+    "para": 3,
+    "t": "The Center for Biological Diversity and the Santa Fe-based New Energy Economy petitioned the New Mexico Supreme Court to pause the project's air quality permit proceedings.",
+    "src": "https://www.yahoo.com/news/us/articles/mexico-supreme-court-allows-project-035900359.html"
+   },
+   {
+    "para": 3,
+    "t": "On September 18, 2026, the court denied both petitions and lifted the stays, letting the permit process resume before the New Mexico Environment Department, which must appoint a new hearing officer after the previous one resigned.",
+    "src": "https://www.yahoo.com/news/us/articles/mexico-supreme-court-allows-project-035900359.html"
+   },
+   {
+    "para": 3,
+    "t": "New Energy Economy's executive director, Mariel Nanasi, said: \"We went to the Supreme Court because we believed the rules of this proceeding were stacked against meaningful public participation.\"",
+    "src": "https://www.yahoo.com/news/us/articles/mexico-supreme-court-allows-project-035900359.html"
+   },
+   {
+    "para": 3,
+    "t": "The air quality permit hearing was scheduled to begin October 19, 2026, in Sunland Park, with a decision due by November 23.",
+    "src": "https://www.yahoo.com/news/politics/articles/demonstrators-arrested-jobs-promised-rowdy-035900496.html"
+   }
+  ],
+  "sources": [
+   "https://cryptobriefing.com/oracle-renewables-stargate-data-center/",
+   "https://www.abqjournal.com/news/project-jupiter-update-sparks-scuffle-arrests/3091046",
+   "https://www.yahoo.com/news/politics/articles/demonstrators-arrested-jobs-promised-rowdy-035900496.html",
+   "https://www.yahoo.com/news/us/articles/mexico-supreme-court-allows-project-035900359.html",
+   "https://projectjupitertogether.com/"
+  ],
+  "unconfirmed": "Could not confirm the exact number of buildings currently under construction or the project's status beyond the July 2026 commission update and the September 2026 court ruling. The developer's own site (projectjupitertogether.com) was fetched but is promotional and contains no mention of the opposition documented elsewhere, so it was not used for factual claims about community reaction."
+ },
+ {
+  "id": "epoch-openai-stargate-shackelford",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Vantage Data Centers is building a campus called Frontier in Shackelford County, Texas, a few hours' drive from both Dallas-Fort Worth and Austin.",
+    "src": "https://vantage-dc.com/data-center-locations/north-america/shackelford-county-tx"
+   },
+   {
+    "para": 0,
+    "t": "The campus covers 1,200 acres and is planned for 10 buildings.",
+    "src": "https://vantage-dc.com/data-center-locations/north-america/shackelford-county-tx"
+   },
+   {
+    "para": 0,
+    "t": "Vantage says the finished campus will provide 1.4 gigawatts of IT capacity; Epoch AI, which tracks these projects independently by satellite and permit records, puts the eventual capacity at 2 gigawatts.",
+    "src": "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand"
+   },
+   {
+    "para": 0,
+    "t": "It is expected to run largely on an onsite natural gas microgrid rather than draw primarily from the regional grid.",
+    "src": "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand"
+   },
+   {
+    "para": 0,
+    "t": "Construction began in the third quarter of 2025. The first building is due by late 2026, with the full campus targeted for completion by the end of 2028.",
+    "src": "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand"
+   },
+   {
+    "para": 1,
+    "t": "Texas issued a statewide moratorium on new large-load grid connections for data centers on August 3, 2026, after an audit ordered by Governor Greg Abbott.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Local coverage says Shackelford County's judge has been weighing the project's benefits against its concerns, though further detail was not available.",
+    "src": "https://www.msn.com/en-us/money/technology/shackelford-county-judge-weighs-benefits-concerns-of-proposed-data-center/ar-AA29fMNp"
+   }
+  ],
+  "sources": [
+   "https://vantage-dc.com/data-center-locations/north-america/shackelford-county-tx",
+   "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand",
+   "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/",
+   "https://www.msn.com/en-us/money/technology/shackelford-county-judge-weighs-benefits-concerns-of-proposed-data-center/ar-AA29fMNp"
+  ],
+  "unconfirmed": "Could not find any record of a public hearing, council vote or organized resident opposition specific to this project. Our own record lists the county as Jones County while the site address names Shackelford County; that discrepancy was not resolved."
+ },
+ {
+  "id": "epoch-openai-stargate-uae",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Stargate UAE is a data center cluster in Al Dhafrah, Abu Dhabi, built by Khazna Data Centers, a company affiliated with G42, and operated by OpenAI and Oracle.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "It was announced in May 2025 during a Gulf visit by President Trump, with G42, OpenAI, Oracle, Nvidia, SoftBank Group and Cisco all involved.",
+    "src": "https://www.khayrion.com/2026/09/18/desert-compute-the-gulfs-ai-gigafactories-and-the-power-and-water-bill-nobody-talks-about/"
+   },
+   {
+    "para": 0,
+    "t": "The site covers 19.2 square kilometres, about ten square miles, inside a planned 5 gigawatt UAE and United States AI campus.",
+    "src": "https://www.khayrion.com/2026/09/18/desert-compute-the-gulfs-ai-gigafactories-and-the-power-and-water-bill-nobody-talks-about/"
+   },
+   {
+    "para": 1,
+    "t": "The first phase is a 1 gigawatt cluster, of which 200 megawatts was due to come online in 2026, holding about 100,000 Nvidia Grace Blackwell GB300 systems.",
+    "src": "https://www.khayrion.com/2026/09/18/desert-compute-the-gulfs-ai-gigafactories-and-the-power-and-water-bill-nobody-talks-about/"
+   },
+   {
+    "para": 1,
+    "t": "By late 2025 more than 100,000 cubic metres of concrete had been poured and over 5,000 workers were on site.",
+    "src": "https://www.khayrion.com/2026/09/18/desert-compute-the-gulfs-ai-gigafactories-and-the-power-and-water-bill-nobody-talks-about/"
+   },
+   {
+    "para": 1,
+    "t": "At full build the campus would use about 44 terawatt hours a year.",
+    "src": "https://www.khayrion.com/2026/09/18/desert-compute-the-gulfs-ai-gigafactories-and-the-power-and-water-bill-nobody-talks-about/"
+   },
+   {
+    "para": 2,
+    "t": "Power is meant to come partly from the sun it sits under.",
+    "src": "https://www.khayrion.com/2026/09/18/desert-compute-the-gulfs-ai-gigafactories-and-the-power-and-water-bill-nobody-talks-about/"
+   },
+   {
+    "para": 2,
+    "t": "The Al Dhafra solar project covers 21 square kilometres with more than four million panels and produces up to 2 gigawatts at peak daylight, and the heaviest computing work is timed to when the sun is up.",
+    "src": "data:note"
+   },
+   {
+    "para": 2,
+    "t": "Racks pulling more than 120 kilowatts each need direct to chip liquid cooling.",
+    "src": "data:note"
+   },
+   {
+    "para": 3,
+    "t": "Water is the part nobody has published.",
+    "src": "https://www.khayrion.com/2026/09/18/desert-compute-the-gulfs-ai-gigafactories-and-the-power-and-water-bill-nobody-talks-about/"
+   },
+   {
+    "para": 3,
+    "t": "No consumption figure for Stargate UAE has been given, though Khazna is piloting treated sewage effluent for cooling at some of its facilities.",
+    "src": "https://www.khayrion.com/2026/09/18/desert-compute-the-gulfs-ai-gigafactories-and-the-power-and-water-bill-nobody-talks-about/"
+   },
+   {
+    "para": 3,
+    "t": "For a sense of the scale in the region, data centres in Saudi Arabia used about 15 billion litres of water in 2024 and could reach roughly 87 billion litres, about 4 percent of that country's consumption, as its build out proceeds.",
+    "src": "https://www.khayrion.com/2026/09/18/desert-compute-the-gulfs-ai-gigafactories-and-the-power-and-water-bill-nobody-talks-about/"
+   }
+  ],
+  "sources": [
+   "https://www.khayrion.com/2026/09/18/desert-compute-the-gulfs-ai-gigafactories-and-the-power-and-water-bill-nobody-talks-about/"
+  ],
+  "unconfirmed": "Searches on Stargate UAE with Al Dhafrah, on Abu Dhabi with data center water, and on G42 with Khazna found no independent local reporting on community reaction, land use or environmental review, and no named critic or resident. The analysis used here is an outside assessment rather than attributable criticism from anyone in the UAE. No water figure for this campus exists in public, which the source treats as the central gap."
+ },
+ {
+  "id": "epoch-openai-stargate-wisconsin",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Vantage Data Centers is building the \"Lighthouse\" data center campus in Port Washington, Wisconsin, in Ozaukee County about 30 minutes north of Milwaukee, on 672 acres.",
+    "src": "https://vantage-dc.com/data-center-locations/north-america/port-washington-wisconsin"
+   },
+   {
+    "para": 0,
+    "t": "The plan calls for four single-story buildings totaling 902 megawatts of IT capacity, due for completion in 2028.",
+    "src": "https://vantage-dc.com/data-center-locations/north-america/port-washington-wisconsin"
+   },
+   {
+    "para": 0,
+    "t": "Vantage says 70% of the campus's power will come from solar, wind and battery storage, with the rest matched through renewable energy purchases.",
+    "src": "https://vantage-dc.com/data-center-locations/north-america/port-washington-wisconsin"
+   },
+   {
+    "para": 0,
+    "t": "The City of Port Washington approved a $458 million tax incentive package for the project in November 2025, for a data center to be leased by OpenAI and Oracle.",
+    "src": "https://wisconsinwatch.org/2026/04/port-washington-data-center-project-voters-referendum-tif-district-wisconsin/"
+   },
+   {
+    "para": 1,
+    "t": "A local group called Great Lakes Neighbors United organized against the project's scale and the tax breaks it received.",
+    "src": "https://www.wpr.org/news/port-washington-referendum-concerns-data-center-project"
+   },
+   {
+    "para": 1,
+    "t": "On April 7, 2026, city voters passed a referendum, by about 66%, requiring a public vote on any future tax incremental financing district worth $10 million or more.",
+    "src": "https://www.wpr.org/news/port-washington-referendum-concerns-data-center-project"
+   },
+   {
+    "para": 1,
+    "t": "The referendum does not undo the $458 million package already granted to the data center already under construction.",
+    "src": "https://wisconsinwatch.org/2026/04/port-washington-data-center-project-voters-referendum-tif-district-wisconsin/"
+   },
+   {
+    "para": 1,
+    "t": "Christine Le Jeune, a founding member and spokesperson for Great Lakes Neighbors United, said the financing decision \"should not be single-handedly decided by a handful of representatives who are failing to meet the community where we're at with all the questions that we have about this financing, how that will impact us and whether this is something that will truly benefit the community.\"",
+    "src": "https://www.wpr.org/news/port-washington-referendum-concerns-data-center-project"
+   },
+   {
+    "para": 1,
+    "t": "Voters were reported to be skeptical about the project's water and energy use; Mayor Ted Neitzke did not respond to a request for comment for that story.",
+    "src": "https://www.wpr.org/news/port-washington-referendum-concerns-data-center-project"
+   },
+   {
+    "para": 1,
+    "t": "The Metropolitan Milwaukee Association of Commerce sued in February 2026 to challenge the referendum's validity, and a judge's ruling could still strike it down.",
+    "src": "https://wisconsinwatch.org/2026/04/port-washington-data-center-project-voters-referendum-tif-district-wisconsin/"
+   }
+  ],
+  "sources": [
+   "https://vantage-dc.com/data-center-locations/north-america/port-washington-wisconsin",
+   "https://wisconsinwatch.org/2026/04/port-washington-data-center-project-voters-referendum-tif-district-wisconsin/",
+   "https://www.wpr.org/news/port-washington-referendum-concerns-data-center-project"
+  ],
+  "unconfirmed": "Could not confirm the outcome of the MMAC lawsuit against the referendum as of the reporting date. The politico.com article cited in our own record could not be fetched (access blocked); its account was cross-checked instead against Wisconsin Watch and WPR."
+ },
+ {
+  "id": "epoch-qts-cedar-rapids",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "QTS is building its first Iowa data center campus on about 612 acres in the Big Cedar Industrial Park in Fairfax, in Linn County just outside Cedar Rapids.",
+    "src": "https://www.businessrecord.com/iowa-communities-grapple-with-regulating-data-centers-as-development-spreads/"
+   },
+   {
+    "para": 0,
+    "t": "The project has seven single-story buildings, described as the largest in QTS's portfolio, and will use about 1.05 gigawatts of electricity, roughly what 800,000 homes use.",
+    "src": "https://www.businessrecord.com/iowa-communities-grapple-with-regulating-data-centers-as-development-spreads/"
+   },
+   {
+    "para": 0,
+    "t": "The Gazette put initial construction investment at more than $750 million, with buildings ranging from 400,000 to 1.1 million square feet, phase one targeted for 2026 and phase two about a year later.",
+    "src": "https://www.thegazette.com/business/fast-start-to-cedar-rapids-data-center-projects/"
+   },
+   {
+    "para": 0,
+    "t": "A separate industry report, from ABI Research, describes the full build-out as a $10 billion campus, calling it the state's largest investment ever.",
+    "src": "https://www.abiresearch.com/blog/top-25-largest-data-center-companies-united-states"
+   },
+   {
+    "para": 0,
+    "t": "QTS co-CEO David Robey described the arrangement as a \"leasing model,\" and the company declined to say which company or companies will ultimately operate the facility.",
+    "src": "https://www.thegazette.com/business/fast-start-to-cedar-rapids-data-center-projects/"
+   },
+   {
+    "para": 0,
+    "t": "Cedar Rapids Mayor Tiffany O'Donnell said, \"When you talk about bang for the buck, it makes a lot of sense for us to be bringing in a company like this.\"",
+    "src": "https://www.businessrecord.com/iowa-communities-grapple-with-regulating-data-centers-as-development-spreads/"
+   },
+   {
+    "para": 0,
+    "t": "QTS's own estimate puts construction employment at about 11,000 jobs, and the company has committed $18 million through a community betterment agreement.",
+    "src": "https://www.businessrecord.com/iowa-communities-grapple-with-regulating-data-centers-as-development-spreads/"
+   },
+   {
+    "para": 0,
+    "t": "The city expects about $20 million a year in property tax revenue at first, rising to roughly $55 million once incentives expire.",
+    "src": "https://www.businessrecord.com/iowa-communities-grapple-with-regulating-data-centers-as-development-spreads/"
+   },
+   {
+    "para": 1,
+    "t": "Linn County adopted new data center zoning rules in 2026, after a first public reading that February, requiring water studies, water-use agreements with the county, 1,000-foot setbacks from residential zones, payments into a community betterment fund, and limits on noise and light pollution.",
+    "src": "https://insideclimatenews.org/news/01032026/iowa-county-data-center-ordinance/"
+   },
+   {
+    "para": 1,
+    "t": "County planning director Charlie Nichols said, \"These are generational uses with generational infrastructure impacts, and treating them as a normal warehouse or normal commercial user is just not working.\"",
+    "src": "https://insideclimatenews.org/news/01032026/iowa-county-data-center-ordinance/"
+   },
+   {
+    "para": 1,
+    "t": "Dorothy Landt, a resident of Palo, asked supervisors for a full moratorium: \"Why has Linn County, Iowa, become a dumping ground for soon-to-be obsolete technology that spoils our landscape and robs us of our resources?\"",
+    "src": "https://insideclimatenews.org/news/01032026/iowa-county-data-center-ordinance/"
+   },
+   {
+    "para": 1,
+    "t": "In June 2026, county supervisors went further and imposed an 18-month moratorium on new data center projects, running to January 2028, to study the cumulative effect of the projects already approved.",
+    "src": "https://www.businessrecord.com/iowa-communities-grapple-with-regulating-data-centers-as-development-spreads/"
+   },
+   {
+    "para": 1,
+    "t": "Neighboring Johnson County was separately weighing its own data center moratorium.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.thegazette.com/business/fast-start-to-cedar-rapids-data-center-projects/",
+   "https://www.abiresearch.com/blog/top-25-largest-data-center-companies-united-states",
+   "https://www.businessrecord.com/iowa-communities-grapple-with-regulating-data-centers-as-development-spreads/",
+   "https://insideclimatenews.org/news/01032026/iowa-county-data-center-ordinance/"
+  ],
+  "unconfirmed": "The $750 million and $10 billion investment figures conflict and could not be reconciled; they likely describe initial construction versus the full multi-phase build-out, but neither source says so explicitly."
+ },
+ {
+  "id": "epoch-qts-eagle-mountain",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "QTS calls its Eagle Mountain, Utah data center campus a $6 billion investment, with an initial phase of five buildings on about 193 acres.",
+    "src": "https://q.com/data-centers/eagle-mountain/"
+   },
+   {
+    "para": 0,
+    "t": "Buildings 1 through 3 were under construction as of the company's own account, with roughly 2,000 construction jobs expected and about 100 permanent positions paying around $80,000 a year.",
+    "src": "https://q.com/data-centers/eagle-mountain/"
+   },
+   {
+    "para": 0,
+    "t": "QTS says the local grid has confirmed it can reliably support the site and that the company will cover energy infrastructure costs itself.",
+    "src": "https://q.com/data-centers/eagle-mountain/"
+   },
+   {
+    "para": 1,
+    "t": "Eagle Mountain has separately been consumed by a fight over city finances. On August 6, 2026, the city council approved a 183% property tax increase, down from an initial 220% proposal, to pay for sheriff's services and park improvements.",
+    "src": "https://www.ksl.com/article/51610115/eagle-mountain-residents-push-for-referendum-following-183-percent-property-tax-increase"
+   },
+   {
+    "para": 1,
+    "t": "Hundreds of residents packed the meeting in opposition. Resident Alex Washburn, a financial analyst, Iraq War veteran and father of three, said the increase meant an added $300 a year for his family: \"It's like death by a thousand cuts.\"",
+    "src": "https://www.ksl.com/article/51610115/eagle-mountain-residents-push-for-referendum-following-183-percent-property-tax-increase"
+   },
+   {
+    "para": 1,
+    "t": "Residents cited tax breaks given to data centers as one grievance during the fight, though the article did not tie that specifically to QTS.",
+    "src": "https://www.ksl.com/article/51610115/eagle-mountain-residents-push-for-referendum-following-183-percent-property-tax-increase"
+   },
+   {
+    "para": 1,
+    "t": "Residents led by Washburn organized a referendum campaign, and on August 18 the council voted to repeal the 183% rate and consider a lower one instead.",
+    "src": "https://www.ksl.com/article/51610115/eagle-mountain-residents-push-for-referendum-following-183-percent-property-tax-increase"
+   },
+   {
+    "para": 2,
+    "t": "Elsewhere in Utah County, Provo's city council voted 7-0 on March 10, 2026 to reject a rezoning for a separate, much smaller proposed data center, saying the city needed to finish its economic master plan first.",
+    "src": "https://www.ksl.com/article/51461110/provo-city-council-denies-zoning-change-for-proposed-data-center"
+   },
+   {
+    "para": 2,
+    "t": "That project, a roughly 66,000-square-foot facility proposed by B+F Timpanogos Tech offering 5 to 30 megawatts, was unrelated to QTS's Eagle Mountain campus.",
+    "src": "https://www.ksl.com/article/51461110/provo-city-council-denies-zoning-change-for-proposed-data-center"
+   }
+  ],
+  "sources": [
+   "https://q.com/data-centers/eagle-mountain/",
+   "https://www.ksl.com/article/51610115/eagle-mountain-residents-push-for-referendum-following-183-percent-property-tax-increase",
+   "https://www.ksl.com/article/51461110/provo-city-council-denies-zoning-change-for-proposed-data-center"
+  ],
+  "unconfirmed": "Our own record lists Meta as a speculative tenant for this campus; QTS's own materials do not name a tenant, and no source we could read confirms one. A claim that a state senator named Emily Buss co-led the referendum campaign was removed: the KSL report describes Alex Washburn leading it and does not mention her."
+ },
+ {
+  "id": "gemini-xai-colossus-2-macrohard",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "xAI's Colossus 2, nicknamed Macrohard, is a data center building at 5400 Tulane Road in Memphis's Whitehaven area, in Shelby County, Tennessee.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "xAI bought the site in February 2025 for roughly $80 million.",
+    "src": "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+   },
+   {
+    "para": 0,
+    "t": "The first major GPU cluster, about 110,000 Nvidia GB200-class chips totaling roughly 210 megawatts, came online around January 2026 after about 91 days of construction.",
+    "src": "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+   },
+   {
+    "para": 0,
+    "t": "By mid-2026, capacity across the wider Colossus 2 complex had grown to on the order of 300,000 to 350,000 GPUs and several hundred megawatts.",
+    "src": "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+   },
+   {
+    "para": 1,
+    "t": "The site draws power partly from turbines that xAI affiliate MZX Tech installed at a former Duke Energy plant in Southaven, Mississippi, just across the state line.",
+    "src": "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+   },
+   {
+    "para": 1,
+    "t": "What began as a handful of temporary mobile turbines grew to 50 to 70 units; Mississippi regulators granted a permit in March 2026 for a permanent plant of 41 turbines totaling about 1.2 gigawatts.",
+    "src": "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+   },
+   {
+    "para": 1,
+    "t": "Neighbors and environmental groups raised concerns about nitrogen oxide and formaldehyde emissions, smog, and water use running into the millions of gallons a day.",
+    "src": "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+   },
+   {
+    "para": 2,
+    "t": "In April 2026, the NAACP sued xAI and MZX Tech in federal court in Mississippi, represented by the Southern Environmental Law Center and Earthjustice, alleging the turbines operated without required Clean Air Act permits and had a disproportionate impact on nearby Black communities.",
+    "src": "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+   },
+   {
+    "para": 2,
+    "t": "In June 2026, the U.S. Department of Justice moved to intervene and dismiss the case, arguing it threatened national, economic and energy security, including support for military-related AI work.",
+    "src": "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+   },
+   {
+    "para": 2,
+    "t": "Under a 2026 agreed order with Mississippi regulators, the temporary turbines are due to be phased out by July 2027, with the permanent plant targeted for completion around mid-2027.",
+    "src": "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+   },
+   {
+    "para": 3,
+    "t": "Four other data centers sit in Shelby County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The nearest power plant is the 780-megawatt TVA Southaven gas-fired plant, about a kilometer away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+  ],
+  "unconfirmed": "A separate entry in the data we track lists a facility called simply Colossus 2 at the same location at 946 megawatts, more than four times the 210-megawatt figure recorded for Macrohard, and it is unclear whether these describe the same building at different stages or separate structures."
+ },
+ {
+  "id": "gemini-xai-minihard",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "xAI Minihard is a data center building under construction at 5420 Tulane Road in Memphis, in Shelby County, Tennessee, next to the company's larger Colossus 2 building, nicknamed Macrohard.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It is a $659 million, four-storey, 312,000-square-foot building, part of a roughly 1-gigawatt Memphis computing cluster.",
+    "src": "data:source_notes"
+   },
+   {
+    "para": 0,
+    "t": "Wikipedia's account of the wider complex describes Minihard as a denser building, at about 5414 Tulane Road, still under construction as of its most recent update.",
+    "src": "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+   },
+   {
+    "para": 1,
+    "t": "Minihard shares the same contested power supply as the rest of the Memphis and Southaven complex: turbines that xAI affiliate MZX Tech runs at a former Duke Energy site in Southaven, Mississippi, which the NAACP sued over in April 2026, alleging the turbines ran without required Clean Air Act permits.",
+    "src": "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+   },
+   {
+    "para": 1,
+    "t": "The Department of Justice moved in June 2026 to intervene in that case on xAI's side.",
+    "src": "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+  ],
+  "unconfirmed": "Could not find reporting specific to Minihard's own construction timeline, jobs, or any dedicated public hearing; coverage found addresses the Colossus complex as a whole, not this building in particular."
+ },
+ {
+  "id": "gemini-meta-mesa",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's Mesa data center, in Maricopa County, Arizona, represents more than $1 billion of investment and has been under development since 2021.",
+    "src": "https://datacenters.atmeta.com/us-locations/"
+   },
+   {
+    "para": 0,
+    "t": "Meta says construction employed about 2,000 skilled trade workers at its peak, and the finished site supports more than 200 operational jobs.",
+    "src": "https://datacenters.atmeta.com/us-locations/"
+   },
+   {
+    "para": 1,
+    "t": "Mesa has approved 15 data centers, built or proposed, over six years, and until 2025 the city classified them the same as ordinary warehouses.",
+    "src": "https://www.kjzz.org/business/2025-07-14/mesa-city-council-approves-new-data-center-zoning-rules"
+   },
+   {
+    "para": 1,
+    "t": "In July 2025 the Mesa City Council adopted zoning rules written specifically for data centers, after planning director Mary Kopaskie-Brown said the purpose was to \"make sure that as they come into the city that we're minimizing the impacts aesthetically and to those sensitive receptors such as residential uses.\"",
+    "src": "https://www.kjzz.org/business/2025-07-14/mesa-city-council-approves-new-data-center-zoning-rules"
+   },
+   {
+    "para": 1,
+    "t": "Vice Mayor Scott Somers called the ordinance \"the first step in a number of newly designed, more objective design standards\" for business, industry and residential development in Mesa.",
+    "src": "https://www.kjzz.org/business/2025-07-14/mesa-city-council-approves-new-data-center-zoning-rules"
+   },
+   {
+    "para": 1,
+    "t": "Maricopa County holds about 40 data centers, and Chandler, Phoenix, Tempe and the county itself have all separately adopted their own data center zoning limits since 2023.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://datacenters.atmeta.com/us-locations/",
+   "https://www.kjzz.org/business/2025-07-14/mesa-city-council-approves-new-data-center-zoning-rules"
+  ],
+  "unconfirmed": "Could not find reporting on resident reaction specific to the Meta Mesa site itself, or confirm whether the 2025 citywide zoning rules apply to it retroactively since the facility predates them. The two datacenters.atmeta.com info sheets cited in our own record were fetched but returned as unreadable binary PDF data, so they were not used."
+ },
+ {
+  "id": "gemini-meta-stanton-springs",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's data center at Stanton Springs, in Newton County, Georgia, represents more than $1.5 billion of investment and has been under development since 2018.",
+    "src": "https://datacenters.atmeta.com/us-locations/"
+   },
+   {
+    "para": 0,
+    "t": "Meta says construction employed about 1,300 skilled trade workers at its peak, and the finished site supports more than 200 operational jobs.",
+    "src": "https://datacenters.atmeta.com/us-locations/"
+   },
+   {
+    "para": 1,
+    "t": "Newton County has been under a rolling emergency moratorium on new data center permits since February 2026, extended in March and again on April 8, 2026 for another 180 days, to give the county time to rewrite its development rules.",
+    "src": "https://www.rockdalecitizen.com/news/newton-extends-moratoriums-on-convenience-stores-data-centers/article_922072d9-c4c6-4153-8616-f93a5ae50692.html"
+   },
+   {
+    "para": 1,
+    "t": "County Attorney Stephanie Johnson has proposed minimum lot sizes, setbacks from residential areas, noise and vibration limits, water efficiency standards and security requirements for future projects.",
+    "src": "https://www.rockdalecitizen.com/news/newton-extends-moratoriums-on-convenience-stores-data-centers/article_922072d9-c4c6-4153-8616-f93a5ae50692.html"
+   },
+   {
+    "para": 1,
+    "t": "Commissioner J.C. Henderson raised concerns about food deserts in underserved parts of the county during the debate.",
+    "src": "https://www.rockdalecitizen.com/news/newton-extends-moratoriums-on-convenience-stores-data-centers/article_922072d9-c4c6-4153-8616-f93a5ae50692.html"
+   },
+   {
+    "para": 1,
+    "t": "The county seat, Covington, separately imposed its own 180-day moratorium on data center permits on January 6, 2026, after planning director Judy Thagard noted that data centers were allowed automatically, without further review, in the city's light- and heavy-industrial zones.",
+    "src": "https://www.rockdalecitizen.com/news/covington-enacts-moratorium-on-data-center-permits/article_5054a82f-c4e7-47ab-b7b1-3892e30a4047.html"
+   },
+   {
+    "para": 1,
+    "t": "Two more data centers were already under development in Covington at the time, on Hazelbrands Road and Alcovy Road.",
+    "src": "https://www.rockdalecitizen.com/news/covington-enacts-moratorium-on-data-center-permits/article_5054a82f-c4e7-47ab-b7b1-3892e30a4047.html"
+   }
+  ],
+  "sources": [
+   "https://datacenters.atmeta.com/us-locations/",
+   "https://www.rockdalecitizen.com/news/newton-extends-moratoriums-on-convenience-stores-data-centers/article_922072d9-c4c6-4153-8616-f93a5ae50692.html",
+   "https://www.rockdalecitizen.com/news/covington-enacts-moratorium-on-data-center-permits/article_5054a82f-c4e7-47ab-b7b1-3892e30a4047.html"
+  ],
+  "unconfirmed": "None of the moratorium coverage located names Meta's existing Stanton Springs facility directly, so it is unclear whether the new county rules apply to it or only to future projects. The Stanton Springs info sheet cited in our own record was fetched but returned as unreadable binary PDF data, so it was not used."
+ }
+]

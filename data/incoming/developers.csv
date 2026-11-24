@@ -1,0 +1,25 @@
+project_name;developer_or_owner;tenant;city;state_or_region;country;address;latitude;longitude;capacity_mw;site_size;status;year_announced;year_operating_or_planned;note;source_url
+QTS Ashburn (Broderick Drive);QTS;hyperscale;Sterling;Virginia;United States;22271 Broderick Dr, Sterling, VA 20166;;;;;operating;;;;https://datacentermap.com/usa/virginia/sterling/qts-ashburn/ecosystem
+QTS Ashburn-Moran;QTS;hyperscale;Sterling;Virginia;United States;44874 Moran Rd, Sterling, VA 20166;;;;;operating;;;;https://datacentermap.com/usa/virginia/sterling/qts-ashburn-moran/ecosystem
+QTS Glendale;QTS;hyperscale;Glendale;Arizona;United States;4001 N 159th Ave, Glendale, AZ 85305;;;;;under construction;;;;https://datacentermap.com/usa/arizona/phoenix/qts-glendale/quote
+QTS Piscataway;QTS;hyperscale;Piscataway;New Jersey;United States;101 Possumtown Rd, Piscataway, NJ 08854;;;;52;;operating;;;;https://www.datacentermap.com/usa/new-jersey/piscataway/qts-piscataway/specs/
+QTS Santa Clara;QTS;hyperscale;Santa Clara;California;United States;2805 Mission College Blvd, Santa Clara, CA 95054;;;;;operating;;;;https://www.datacentermap.com/usa/california/san-jose/quality-santa-clara-1/location/
+Vantage VA1 (Ashburn I);Vantage Data Centers;hyperscale;Sterling;Virginia;United States;45200 Vantage Data Plaza, Sterling, VA 20166;;;;146;;operating;;;;https://vantage-dc.com/data-centers
+Vantage VA2 (Ashburn II);Vantage Data Centers;hyperscale;Sterling;Virginia;United States;22435 Glenn Dr, Sterling, VA 20164;;;;;operating;;;;https://vantage-dc.com/data-centers
+Vantage VA3 (Ashburn III);Vantage Data Centers;hyperscale;Ashburn;Virginia;United States;19509 Belmont Ridge Rd, Ashburn, VA 20147;;;;;under construction;;;;https://vantage-dc.com/data-centers
+Vantage Fredericksburg;Vantage Data Centers;hyperscale;Fredericksburg;Virginia;United States;225 Centreport Pkwy, Fredericksburg, VA 22406;;;;;under construction;;;;https://vantage-dc.com/data-centers
+Vantage New Albany (OH1);Vantage Data Centers;hyperscale;New Albany;Ohio;United States;3325 Horizon Ct, New Albany, OH 43031;;;;;operating;;;;https://vantage-dc.com/data-centers
+Vantage Phoenix (Goodyear);Vantage Data Centers;hyperscale;Goodyear;Arizona;United States;45 S Bullard Ave, Goodyear, AZ 85338;;;;160;;operating;;;;https://vantage-dc.com/data-centers
+Vantage Quincy;Vantage Data Centers;hyperscale;Quincy;Washington;United States;2101 M St NE, Quincy, WA 98848;;;;;operating;;;;https://vantage-dc.com/data-centers
+Vantage Reno;Vantage Data Centers;hyperscale;Sparks;Nevada;United States;1121 USA Pkwy, Sparks, NV 89437;;;;;operating;;;;https://vantage-dc.com/data-centers
+Vantage Santa Clara I;Vantage Data Centers;hyperscale;Santa Clara;California;United States;2820 Northwestern Pkwy, Santa Clara, CA 95051;;;;;operating;;;;https://vantage-dc.com/data-centers
+Vantage Santa Clara II;Vantage Data Centers;hyperscale;Santa Clara;California;United States;737 Mathew St, Santa Clara, CA 95051;;;;;operating;;;;https://vantage-dc.com/data-centers
+Vantage Santa Clara III;Vantage Data Centers;hyperscale;Santa Clara;California;United States;2590 Walsh Ave, Santa Clara, CA 95051;;;;;operating;;;;https://vantage-dc.com/data-centers
+Vantage Berlin I;Vantage Data Centers;hyperscale;Ludwigsfelde;Brandenburg;Germany;Brandenburg Park Uferring 5, 14974 Ludwigsfelde, Germany;;;;;operating;;;;https://vantage-dc.com/data-centers
+Vantage Berlin II;Vantage Data Centers;hyperscale;Mittenwalde;Brandenburg;Germany;Dahmestrasse 1, 15749 Mittenwalde, Germany;;;;;under construction;;;;https://vantage-dc.com/data-centers
+Vantage Frankfurt I (Offenbach);Vantage Data Centers;hyperscale;Offenbach am Main;Hesse;Germany;Goethering 27, 63067 Offenbach am Main, Germany;;;;110;;operating;;;;https://vantage-dc.com/data-centers
+Vantage Frankfurt II (Raunheim);Vantage Data Centers;hyperscale;Raunheim;Hesse;Germany;Alexander-von-Humboldt-Strasse 4, 65479 Raunheim, Germany;;;;;operating;;;;https://vantage-dc.com/data-centers
+Vantage Warsaw;Vantage Data Centers;hyperscale;Warsaw;Masovian;Poland;Warsaw, Poland;;;;;operating;;;12-acre campus near Chopin airport;https://baxtel.com/data-centers/vantage-data-centers
+Vantage Tokyo (Sagamihara);Vantage Data Centers;hyperscale;Sagamihara;Kanagawa;Japan;Sagamihara, Kanagawa, Japan;;;;;under construction;;;Three earthquake-resistant buildings;https://baxtel.com/data-centers/vantage-data-centers
+Vantage Cyberjaya (KUL2);Vantage Data Centers;hyperscale;Cyberjaya;Selangor;Malaysia;Cyberjaya, Selangor, Malaysia;;;;;operating;;;;https://baxtel.com/data-centers/vantage-data-centers
+Vantage Atlanta (Fayetteville);Vantage Data Centers;hyperscale;Fayetteville;Georgia;United States;Fayetteville, GA;;;;;under construction;;;1.7M sq ft campus in suburban Atlanta;https://baxtel.com/data-centers/vantage-data-centers

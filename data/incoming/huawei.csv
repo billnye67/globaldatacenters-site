@@ -1,0 +1,38 @@
+project_name;developer_or_owner;tenant;city;state_or_region;country;address;latitude;longitude;capacity_mw;site_size;status;year_announced;year_operating_or_planned;note;source_url
+Huawei Cloud Gui'an Data Center (Guizhou);Huawei Cloud;Huawei;Gui'an;Guizhou;China;South side of Jing'an Ave, Gui'an New Area, Guizhou, China;;;;;;operating;;;101.4 hectares, 1M+ servers, 51 buildings phase 1, largest Huawei site;https://datacentermap.com/c/huawei/datacenters
+Huawei Cloud Ulanqab Campus;Huawei Cloud;Huawei;Ulanqab;Inner Mongolia;China;Wenyuan Rd, Ulanqab, Inner Mongolia, China;;;;;;operating;;;Northern hub;https://datacentermap.com/c/huawei/datacenters
+Huawei Cloud Ulanqab III;Huawei Cloud;Huawei;Ulanqab;Inner Mongolia;China;Manda Rd & Jingqi Rd, Ulanqab, Inner Mongolia, China;;;;;;operating;;;;https://datacentermap.com/c/huawei/datacenters
+Huawei Dongguan Data Center (Songshan Lake);Huawei Cloud;Huawei;Dongguan;Guangdong;China;Dongsheng Rd & Taichung Rd, Dongguan, Guangdong, China;;;;;;operating;;;Greater Bay Area hub;https://datacentermap.com/c/huawei/datacenters
+Huawei Langfang Cloud Data Center;Huawei Cloud;Huawei;Langfang;Hebei;China;Chengju Rd, Langfang, Hebei, China;;;;;;operating;;;Jingjinji hub;https://datacentermap.com/c/huawei/datacenters
+Huawei Global Yun Data Center;Huawei Cloud;Huawei;Guizhou;Guizhou;China;Jinma Blvd, Guizhou, China;;;;;;operating;;;;https://datacentermap.com/c/huawei/datacenters
+Huawei Wuhu Jiangbei;Huawei Cloud;Huawei;Wuhu;Anhui;China;Chujiang Ave, Jiujiang District, Wuhu, Anhui, China;;;;;;operating;;;Yangtze Delta;https://datacentermap.com/c/huawei/datacenters
+Huawei Wuhu Sanshan;Huawei Cloud;Huawei;Wuhu;Anhui;China;West Eshan Rd, Sanshan District, Wuhu, Anhui, China;;;;;;operating;;;;https://datacentermap.com/c/huawei/datacenters
+Huawei Wuhu Zhijiao;Huawei Cloud;Huawei;Wuhu;Anhui;China;Wuhu, Anhui, China;;;;;;operating;;;;https://datacentermap.com/c/huawei/datacenters
+Huawei Cloud Hong Kong (MEGA-i);Huawei Cloud;Huawei;Chai Wan;Hong Kong;Hong Kong;399 Chai Wan Rd, Chai Wan, Hong Kong;;;;;;operating;;;Leased;https://datacentermap.com/c/huawei/datacenters
+Huawei Cloud Singapore;Huawei Cloud;Huawei;Singapore;Singapore;Singapore;Singapore;;;;;;operating;;;Leased;https://datacentermap.com/c/huawei/datacenters
+Huawei Cloud Bangkok (NTT BKK2);Huawei Cloud;Huawei;Chonburi;Chonburi;Thailand;Amata City Industrial Estate, Chonburi, Thailand;;;;;;operating;;;Leased;https://datacentermap.com/c/huawei/datacenters
+Huawei Cloud Kuala Lumpur;Huawei Cloud;Huawei;Kuala Lumpur;Kuala Lumpur;Malaysia;Kuala Lumpur, Malaysia;;;;;;operating;;;Leased;https://datacentermap.com/c/huawei/datacenters
+Huawei Cloud Jakarta;Huawei Cloud;Huawei;Jakarta;Jakarta;Indonesia;Jakarta, Indonesia;;;;;;operating;;;Leased;https://datacentermap.com/c/huawei/datacenters
+Huawei Cloud Riyadh;Huawei Cloud;Huawei;Riyadh;Riyadh;Saudi Arabia;Riyadh, Saudi Arabia;;;;;;operating;;;Opened 2023, three zones;https://datacentermap.com/c/huawei/datacenters
+Huawei Cloud Cairo;Huawei Cloud;Huawei;Cairo;Cairo;Egypt;Cairo, Egypt;;;;;;operating;;;Leased;https://datacentermap.com/c/huawei/datacenters
+Huawei Cloud Johannesburg;Huawei Cloud;Huawei;Johannesburg;Gauteng;South Africa;Johannesburg, South Africa;;;;;;operating;;;Leased;https://datacentermap.com/c/huawei/datacenters
+Huawei Cloud Mexico City;Huawei Cloud;Huawei;Mexico City;Mexico City;Mexico;Mexico City, Mexico;;;;;;operating;;;Leased;https://datacentermap.com/c/huawei/datacenters
+Huawei Cloud Sao Paulo (ODATA SP01);Huawei Cloud;Huawei;Santana de Parnaiba;Sao Paulo;Brazil;Estrada dos Romeiros 943, Santana de Parnaiba, SP, Brazil;;;;;;operating;;;Leased;https://datacentermap.com/c/huawei/datacenters
+Huawei Cloud Santiago;Huawei Cloud;Huawei;Santiago;Santiago Metropolitan;Chile;Santiago, Chile;;;;;;operating;;;Leased;https://datacentermap.com/c/huawei/datacenters
+Huawei Cloud Lima;Huawei Cloud;Huawei;Lima;Lima;Peru;Lima, Peru;;;;;;operating;;;Leased;https://datacentermap.com/c/huawei/datacenters
+Huawei Cloud Buenos Aires;Huawei Cloud;Huawei;Buenos Aires;Buenos Aires;Argentina;Buenos Aires, Argentina;;;;;;operating;;;Leased;https://datacentermap.com/c/huawei/datacenters
+Huawei Cloud Beijing (2 regions);Huawei Cloud;Huawei;Beijing;Beijing;China;Beijing, China;;;;;;operating;;;Region, leased or partner facility;https://www.huaweicloud.com/intl/en-us/about/global-infrastructure.html
+Huawei Cloud Shanghai;Huawei Cloud;Huawei;Shanghai;Shanghai;China;Shanghai, China;;;;;;operating;;;Region, leased or partner facility;https://www.huaweicloud.com/intl/en-us/about/global-infrastructure.html
+Huawei Cloud Guangzhou;Huawei Cloud;Huawei;Guangzhou;Guangdong;China;Guangzhou, China;;;;;;operating;;;Region, leased or partner facility;https://www.huaweicloud.com/intl/en-us/about/global-infrastructure.html
+Huawei Cloud Shenzhen;Huawei Cloud;Huawei;Shenzhen;Guangdong;China;Shenzhen, China;;;;;;operating;;;Region, leased or partner facility;https://www.huaweicloud.com/intl/en-us/about/global-infrastructure.html
+Huawei Cloud Hangzhou;Huawei Cloud;Huawei;Hangzhou;Zhejiang;China;Hangzhou, China;;;;;;operating;;;Region, leased or partner facility;https://www.huaweicloud.com/intl/en-us/about/global-infrastructure.html
+Huawei Cloud Nanjing;Huawei Cloud;Huawei;Nanjing;Jiangsu;China;Nanjing, China;;;;;;operating;;;Region, leased or partner facility;https://www.huaweicloud.com/intl/en-us/about/global-infrastructure.html
+Huawei Cloud Chengdu;Huawei Cloud;Huawei;Chengdu;Sichuan;China;Chengdu, China;;;;;;operating;;;Region, leased or partner facility;https://www.huaweicloud.com/intl/en-us/about/global-infrastructure.html
+Huawei Cloud Chongqing;Huawei Cloud;Huawei;Chongqing;Chongqing;China;Chongqing, China;;;;;;operating;;;Region, leased or partner facility;https://www.huaweicloud.com/intl/en-us/about/global-infrastructure.html
+Huawei Cloud Qingdao;Huawei Cloud;Huawei;Qingdao;Shandong;China;Qingdao, China;;;;;;operating;;;Region, leased or partner facility;https://www.huaweicloud.com/intl/en-us/about/global-infrastructure.html
+Huawei Cloud Xi'an;Huawei Cloud;Huawei;Xi'an;Shaanxi;China;Xi'an, China;;;;;;operating;;;Region, leased or partner facility;https://www.huaweicloud.com/intl/en-us/about/global-infrastructure.html
+Huawei Cloud Changsha;Huawei Cloud;Huawei;Changsha;Hunan;China;Changsha, China;;;;;;operating;;;Region, leased or partner facility;https://www.huaweicloud.com/intl/en-us/about/global-infrastructure.html
+Huawei Cloud Fuzhou;Huawei Cloud;Huawei;Fuzhou;Fujian;China;Fuzhou, China;;;;;;operating;;;Region, leased or partner facility;https://www.huaweicloud.com/intl/en-us/about/global-infrastructure.html
+Huawei Cloud Wuhan;Huawei Cloud;Huawei;Wuhan;Hubei;China;Wuhan, China;;;;;;operating;;;Region, leased or partner facility;https://www.huaweicloud.com/intl/en-us/about/global-infrastructure.html
+Huawei Cloud Manila;Huawei Cloud;Huawei;Manila;Metro Manila;Philippines;Manila, Philippines;;;;;;operating;;;Region, leased or partner facility;https://www.huaweicloud.com/intl/en-us/about/global-infrastructure.html
+Huawei Cloud Seoul;Huawei Cloud;Huawei;Seoul;Seoul;South Korea;Seoul, South Korea;;;;;;operating;;;Region, leased or partner facility;https://www.huaweicloud.com/intl/en-us/about/global-infrastructure.html

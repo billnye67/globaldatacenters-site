@@ -1,0 +1,787 @@
+[
+ {
+  "id": "ft-312",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The data center planned at 3819 West Broadway in Robbinsdale, in Hennepin County, Minnesota, would replace a building put up as a house in 1925, which was a dental surgery before it became the Robbinsdale Clinic.",
+    "src": "https://www.hometownsource.com/sun_post/news/local/robbinsdale-clinic-closing-u-s-internet-expected-to-buy-building/article_fd7733f8-b968-11ef-a870-731f9e0ac190.html"
+   },
+   {
+    "para": 0,
+    "t": "The clinic offered annual exams, treatment for acute and chronic illness, school and sports physicals, first trimester abortions, contraception, STI testing and immunisations.",
+    "src": "https://www.hometownsource.com/sun_post/news/local/robbinsdale-clinic-closing-u-s-internet-expected-to-buy-building/article_fd7733f8-b968-11ef-a870-731f9e0ac190.html"
+   },
+   {
+    "para": 0,
+    "t": "Staff said it would be shutting down soon, with January given over to closing up, and the owner did not respond to interview requests.",
+    "src": "https://www.hometownsource.com/sun_post/news/local/robbinsdale-clinic-closing-u-s-internet-expected-to-buy-building/article_fd7733f8-b968-11ef-a870-731f9e0ac190.html"
+   },
+   {
+    "para": 1,
+    "t": "U.S. Internet, a local internet provider, agreed to buy the property and demolish the building for what the city papers describe as a private utility building.",
+    "src": "https://www.hometownsource.com/sun_post/news/local/robbinsdale-clinic-closing-u-s-internet-expected-to-buy-building/article_fd7733f8-b968-11ef-a870-731f9e0ac190.html"
+   },
+   {
+    "para": 1,
+    "t": "On December 3, 2024 the Robbinsdale city council rezoned the dual-zoned lot to commercial residential, the step the company needed before applying for a conditional use permit.",
+    "src": "https://www.hometownsource.com/sun_post/news/local/robbinsdale-clinic-closing-u-s-internet-expected-to-buy-building/article_fd7733f8-b968-11ef-a870-731f9e0ac190.html"
+   },
+   {
+    "para": 2,
+    "t": "What is going up is small.",
+    "src": "https://www.datacenterdynamics.com/en/news/minnesota-abortion-clinic-site-set-to-be-turned-into-data-center-pro-life-memorial-held/"
+   },
+   {
+    "para": 2,
+    "t": "Trade reporting describes a data center of about 4,000 square feet, with the city council approving a variance and a conditional use permit in March, and an anti-abortion memorial held at the site.",
+    "src": "https://www.datacenterdynamics.com/en/news/minnesota-abortion-clinic-site-set-to-be-turned-into-data-center-pro-life-memorial-held/"
+   },
+   {
+    "para": 3,
+    "t": "The entry stands as proposed, with no capacity, no acreage and no developer, and used to give the address as Minneapolis.",
+    "src": "data:address"
+   },
+   {
+    "para": 3,
+    "t": "The building is in Robbinsdale, a separate city to the northwest, though both sit in Hennepin County.",
+    "src": "https://www.hometownsource.com/sun_post/news/local/robbinsdale-clinic-closing-u-s-internet-expected-to-buy-building/article_fd7733f8-b968-11ef-a870-731f9e0ac190.html"
+   },
+   {
+    "para": 4,
+    "t": "Minneapolis itself adopted a six month data center moratorium on May 22, 2026, and five other jurisdictions in the metropolitan area have measures of their own.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "Ten other data center sites sit within 38 kilometres, the nearest being the former Star Tribune printing plant six kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 454 megawatt Riverside gas plant is five kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.hometownsource.com/sun_post/news/local/robbinsdale-clinic-closing-u-s-internet-expected-to-buy-building/article_fd7733f8-b968-11ef-a870-731f9e0ac190.html",
+   "https://www.datacenterdynamics.com/en/news/minnesota-abortion-clinic-site-set-to-be-turned-into-data-center-pro-life-memorial-held/"
+  ],
+  "unconfirmed": "The Data Center Dynamics report that carries the 4,000 square foot figure, the March approvals and the memorial is our record's only source and is not fetchable; those details come from search results summarising it and are attributed to it rather than to a page read in full. No power figure has been published for the building, and at this size it would not be a data center in the sense most of this record covers. Whether the demolition has happened, and whether anything has been built, we could not establish. Local opposition, if any, was not found, and none of the reporting names residents."
+ },
+ {
+  "id": "ft-1772134804921-7396",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Nobody knows yet who this is for.",
+    "src": "https://www.hometownsource.com/monticello_times/data-center-proposal-still-in-discovery-phase-as-key-decisions-loom/article_376c5bca-1104-47c5-8204-32de45982728.html"
+   },
+   {
+    "para": 0,
+    "t": "Monticello Tech LLC, run by Nick Frattalone, chief executive of the commercial developer Frattalone Companies, is proposing a data center campus called Project Groundhog on about 550 acres east of Highway 25 and south of 85th Street, inside Monticello's orderly annexation area, in Wright County, Minnesota.",
+    "src": "https://www.hometownsource.com/monticello_times/data-center-proposal-still-in-discovery-phase-as-key-decisions-loom/article_376c5bca-1104-47c5-8204-32de45982728.html"
+   },
+   {
+    "para": 0,
+    "t": "About a tenth of the land would be built on, with the rest kept as buffers and infrastructure.",
+    "src": "https://www.hometownsource.com/monticello_times/data-center-proposal-still-in-discovery-phase-as-key-decisions-loom/article_376c5bca-1104-47c5-8204-32de45982728.html"
+   },
+   {
+    "para": 0,
+    "t": "Three large technology companies are being considered as tenants under nondisclosure agreements, and none has been chosen.",
+    "src": "https://www.hometownsource.com/monticello_times/data-center-proposal-still-in-discovery-phase-as-key-decisions-loom/article_376c5bca-1104-47c5-8204-32de45982728.html"
+   },
+   {
+    "para": 1,
+    "t": "The power question is unanswered too.",
+    "src": "https://www.hometownsource.com/monticello_times/data-center-proposal-still-in-discovery-phase-as-key-decisions-loom/article_376c5bca-1104-47c5-8204-32de45982728.html"
+   },
+   {
+    "para": 1,
+    "t": "Frattalone asked Xcel Energy for a study in June 2024 and is still waiting: \"That's what a data center is all developed on, how much power is available and when.\"",
+    "src": "https://www.hometownsource.com/monticello_times/data-center-proposal-still-in-discovery-phase-as-key-decisions-loom/article_376c5bca-1104-47c5-8204-32de45982728.html"
+   },
+   {
+    "para": 1,
+    "t": "No cost figure has been given, and the company says nothing will be developed in 2026, with construction no earlier than the second quarter of 2027.",
+    "src": "https://www.hometownsource.com/monticello_times/data-center-proposal-still-in-discovery-phase-as-key-decisions-loom/article_376c5bca-1104-47c5-8204-32de45982728.html"
+   },
+   {
+    "para": 2,
+    "t": "About 100 residents came to an open house on January 7 and left without much.",
+    "src": "https://www.hometownsource.com/monticello_times/data-center-proposal-still-in-discovery-phase-as-key-decisions-loom/article_376c5bca-1104-47c5-8204-32de45982728.html"
+   },
+   {
+    "para": 2,
+    "t": "Nancy Friesen said: \"I was hoping to get some answers, but any questions I've heard, I've only heard 'I don't know.'\"",
+    "src": "https://www.hometownsource.com/monticello_times/data-center-proposal-still-in-discovery-phase-as-key-decisions-loom/article_376c5bca-1104-47c5-8204-32de45982728.html"
+   },
+   {
+    "para": 2,
+    "t": "Jenna Van Den Boom made the same point differently: \"Depending on who it ends up being, this could look very different.\"",
+    "src": "https://www.hometownsource.com/monticello_times/data-center-proposal-still-in-discovery-phase-as-key-decisions-loom/article_376c5bca-1104-47c5-8204-32de45982728.html"
+   },
+   {
+    "para": 2,
+    "t": "Mayor Lloyd Hilgart and councillors Kip Christianson and Lee Martie attended, and the city, whose administrator Rachel Leonard was arranging a tour of Iowa data centers, is still writing a data center ordinance and a development plan control framework.",
+    "src": "https://www.hometownsource.com/monticello_times/data-center-proposal-still-in-discovery-phase-as-key-decisions-loom/article_376c5bca-1104-47c5-8204-32de45982728.html"
+   },
+   {
+    "para": 3,
+    "t": "The entry is recorded at 550 acres and $5 billion, proposed, with no capacity figure, and a change.org petition against it is on file.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Wright County adopted a data center moratorium on May 26, 2026, running a year.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The power is close by: the 617 megawatt Monticello nuclear station is seven kilometres away, the 1,556 megawatt Sherburne County coal plant 13 kilometres, and the 265 megawatt Sherco solar farm 17 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Amazon's Becker project, recorded as paused, is 14 kilometres off, and the Elk River proposal rejected in July 2026 is 19 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.hometownsource.com/monticello_times/data-center-proposal-still-in-discovery-phase-as-key-decisions-loom/article_376c5bca-1104-47c5-8204-32de45982728.html"
+  ],
+  "unconfirmed": "The $5 billion figure in our record is not stated in the reporting we read, which says no cost has been disclosed. No megawatt figure exists because the Xcel study has not come back. Whether the Wright County moratorium reaches land inside Monticello's orderly annexation area is not established. Which three technology companies are under nondisclosure agreements is not known, and the reporting does not say. Our record's entry name misspells Monticello as \"Monitcello\"."
+ },
+ {
+  "id": "ft-1765219039814-2361",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Nobles County said no to the data center, and the developer said it would look elsewhere.",
+    "src": "https://www.dglobe.com/news/local/geronimo-power-to-seek-alternative-sites-for-data-center"
+   },
+   {
+    "para": 0,
+    "t": "On April 21, 2026 the county commissioners voted 3 to 2 to uphold the planning commission's refusal to change the agricultural preservation zoning ordinance, which killed the proposal.",
+    "src": "https://www.dglobe.com/news/local/geronimo-power-to-seek-alternative-sites-for-data-center"
+   },
+   {
+    "para": 0,
+    "t": "Commissioners Chris Dybevick and Robert Demuth were the two against the motion, preferring an option that upheld the refusal but also told staff to work on alternative amendments.",
+    "src": "https://www.dglobe.com/news/local/geronimo-power-to-seek-alternative-sites-for-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Geronimo Power had proposed a campus in the Summit Lake, Elk, Bloom and Seward townships near Brewster and Reading, on a site of about one section, 640 acres, and possibly more, with no parcel settled when it came to the county.",
+    "src": "https://www.dglobe.com/news/local/geronimo-power-proposes-data-center-for-nobles-county"
+   },
+   {
+    "para": 1,
+    "t": "The campus was put at 400 to 450 megawatts, with a 400 megawatt facility targeted for 2030 and an end user possibly involved as early as 2027.",
+    "src": "https://www.dglobe.com/news/local/geronimo-power-proposes-data-center-for-nobles-county"
+   },
+   {
+    "para": 1,
+    "t": "It was pitched alongside Geronimo's Lime Creek and Plum Creek wind farms and a proposed Summit Lake solar farm near Reading, about 1,500 megawatts between them once running.",
+    "src": "https://www.dglobe.com/news/local/geronimo-power-proposes-data-center-for-nobles-county"
+   },
+   {
+    "para": 1,
+    "t": "The capital infrastructure was put at more than $4 billion, with hundreds of construction jobs and more than 100 permanent ones.",
+    "src": "https://www.dglobe.com/news/local/geronimo-power-proposes-data-center-for-nobles-county"
+   },
+   {
+    "para": 1,
+    "t": "Jordan Burmeister of Geronimo said the company's mission is to bring economic development to rural regions.",
+    "src": "https://www.dglobe.com/news/local/geronimo-power-proposes-data-center-for-nobles-county"
+   },
+   {
+    "para": 2,
+    "t": "This is wind country already.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The 200 megawatt Nobles wind project is two kilometres from the site, the 250 megawatt Nobles 2 project 16 kilometres, and the 206 megawatt Fenton wind farm 31 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The land the company wanted is zoned for agricultural preservation, and that zoning is what stopped it.",
+    "src": "https://www.dglobe.com/news/local/geronimo-power-to-seek-alternative-sites-for-data-center"
+   },
+   {
+    "para": 3,
+    "t": "After the vote Emily Morissette, Geronimo's senior manager of marketing and communications, said: \"Throughout this process we have listened and learned from local leaders and community members in Nobles County.\"",
+    "src": "https://www.dglobe.com/news/local/geronimo-power-to-seek-alternative-sites-for-data-center"
+   },
+   {
+    "para": 3,
+    "t": "She said the company would consider alternative options, including some other communities that have expressed interest.",
+    "src": "https://www.dglobe.com/news/local/geronimo-power-to-seek-alternative-sites-for-data-center"
+   },
+   {
+    "para": 3,
+    "t": "The entry is now recorded as blocked, at 500 megawatts, with no acreage and no cost.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "No other data center site is recorded anywhere in Nobles County, and no moratorium is recorded near it.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.dglobe.com/news/local/geronimo-power-to-seek-alternative-sites-for-data-center",
+   "https://www.dglobe.com/news/local/geronimo-power-proposes-data-center-for-nobles-county"
+  ],
+  "unconfirmed": "Several figures that had been credited to the Globe's report of the rejection are not in it, and are now taken from the Globe's earlier account of the proposal, which gives different numbers: 400 to 450 megawatts rather than a range running to a gigawatt, a site of about one section with no parcel settled rather than 959 acres between 190th and 200th Streets, and no building count or square footage at all. Aggregator listings and the state environmental review docket do describe a 959 acre study area across 13 parcels, and search summaries say Geronimo had already bought about 640 acres; the Globe describes 640 acres as the size of the site being sought, not land already owned, so the ownership claim has come out and the conflict is recorded here. Our record's 500 megawatts sits between the figures without being confirmed by either. No resident is quoted: the reports we could read cover the county board's decision rather than the public comment before it, and the Star Tribune and MPR accounts that would carry named residents were not fetched. Where Geronimo Power has taken the project since April 2026 is unknown. The county was also discussing a moratorium separately; whether one was adopted we could not establish."
+ },
+ {
+  "id": "ft-1763324793343-5887",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "There is a farm on the land Columbia rezoned for a possible data center, in Boone County, Missouri, and a man raising cattle on it.",
+    "src": "https://www.komu.com/news/midmissourinews/columbia-residents-speak-against-rezoning-farm-land-for-possible-data-center/article_c4429655-ed89-51d3-a5df-6e57681b2548.html"
+   },
+   {
+    "para": 0,
+    "t": "On October 10, 2025 Columbia's planning and zoning commission voted 5 to 2 to recommend rezoning about 63 acres on Hinkson Creek Road, northeast of US 63 and Paris Road, from agricultural to industrial.",
+    "src": "https://www.komu.com/news/midmissourinews/columbia-residents-speak-against-rezoning-farm-land-for-possible-data-center/article_c4429655-ed89-51d3-a5df-6e57681b2548.html"
+   },
+   {
+    "para": 0,
+    "t": "Isaac Ellis, who farms southeast of the parcel, told the commission: \"Currently, there is a home and farm. It's been a farm for many, many, many years, and there is currently a farmer raising cattle on that property.\"",
+    "src": "https://www.komu.com/news/midmissourinews/columbia-residents-speak-against-rezoning-farm-land-for-possible-data-center/article_c4429655-ed89-51d3-a5df-6e57681b2548.html"
+   },
+   {
+    "para": 0,
+    "t": "He also said: \"I think industrial land is needed in Columbia. We need jobs, we need things for people to do.\"",
+    "src": "https://www.komu.com/news/midmissourinews/columbia-residents-speak-against-rezoning-farm-land-for-possible-data-center/article_c4429655-ed89-51d3-a5df-6e57681b2548.html"
+   },
+   {
+    "para": 1,
+    "t": "The objection was mostly about bills and water.",
+    "src": "https://www.komu.com/news/midmissourinews/columbia-residents-speak-against-rezoning-farm-land-for-possible-data-center/article_c4429655-ed89-51d3-a5df-6e57681b2548.html"
+   },
+   {
+    "para": 1,
+    "t": "James Gordon, a Columbia resident, said: \"We've seen places like Memphis and Texas, places that are already suffering from high utility rates.\"",
+    "src": "https://www.komu.com/news/midmissourinews/columbia-residents-speak-against-rezoning-farm-land-for-possible-data-center/article_c4429655-ed89-51d3-a5df-6e57681b2548.html"
+   },
+   {
+    "para": 1,
+    "t": "Residents also raised the loss of working farmland, the strain on local utilities, and asked why the project could not go on the south side of the city instead.",
+    "src": "https://www.komu.com/news/midmissourinews/columbia-residents-speak-against-rezoning-farm-land-for-possible-data-center/article_c4429655-ed89-51d3-a5df-6e57681b2548.html"
+   },
+   {
+    "para": 1,
+    "t": "City planner David Kunz said: \"Even if the zoning change goes forward, the city has rules in its unified development code that must be followed to ensure the community is not being harmed.\"",
+    "src": "https://www.komu.com/news/midmissourinews/columbia-residents-speak-against-rezoning-farm-land-for-possible-data-center/article_c4429655-ed89-51d3-a5df-6e57681b2548.html"
+   },
+   {
+    "para": 2,
+    "t": "Columbia has since stopped taking applications altogether.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "A city moratorium runs from April 6, 2026 to April 1, 2027.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The entry stands as proposed, on 63 acres, with no capacity, no cost and no named applicant.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "The applicant was not identified at the hearing either.",
+    "src": "https://www.komu.com/news/midmissourinews/columbia-residents-speak-against-rezoning-farm-land-for-possible-data-center/article_c4429655-ed89-51d3-a5df-6e57681b2548.html"
+   },
+   {
+    "para": 4,
+    "t": "The grid here is small: the Associated Electric Cooperative control area has a peak load of 4,770 megawatts, a thirtieth of the PJM system on the east coast.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 4,
+    "t": "Three much larger projects sit about 35 kilometres away, among them two recorded Google campuses at 1,200 and 700 megawatts.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generators are the 140 megawatt Columbia Energy Center and a 61 megawatt plant, both four kilometres off, and the university's own 71 megawatt combined heat and power plant at seven.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.komu.com/news/midmissourinews/columbia-residents-speak-against-rezoning-farm-land-for-possible-data-center/article_c4429655-ed89-51d3-a5df-6e57681b2548.html"
+  ],
+  "unconfirmed": "No developer or end user has been named at any point, and the rezoning was heard as a possible rather than a definite data center. Whether the city council approved the commission's recommendation, and what the April 2026 moratorium means for a rezoning already granted, we could not establish. No power or water figure exists. The city legistar document in our record was not opened. Columbia's council is also reported to have adopted a data center definition alongside the moratorium; we did not read that report and it is not described above."
+ },
+ {
+  "id": "ft-1776036204429-9677",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Mary Fakes lives 300 yards from where the Festus data center would go, in Jefferson County, Missouri.",
+    "src": "https://www.stlpr.org/government-politics-issues/2026-04-10/data-center-opposition-group-sues-city-festus-proposed-developer"
+   },
+   {
+    "para": 0,
+    "t": "On April 9, 2026 she and three other property owners, together with the group Wake Up JeffCo, sued the city of Festus and the developer CRG in St Louis County, asking the court to reverse both the rezoning and the city's contract with the developer.",
+    "src": "https://www.stlpr.org/government-politics-issues/2026-04-10/data-center-opposition-group-sues-city-festus-proposed-developer"
+   },
+   {
+    "para": 0,
+    "t": "They allege the city held unlawful private meetings with the developers and broke Missouri's Sunshine Law, and their attorney Steve Jeffery said: \"Apparently, the city believed that if they met instead in small groups, of like two or three at a time, that they wouldn't have to comply with any of those Sunshine Law requirements.\"",
+    "src": "https://www.stlpr.org/government-politics-issues/2026-04-10/data-center-opposition-group-sues-city-festus-proposed-developer"
+   },
+   {
+    "para": 0,
+    "t": "Fakes said: \"When this began, we automatically knew we could not, in good conscience, turn this house over to my daughter to live in an area that potentially could have hazard to her health.\"",
+    "src": "https://www.stlpr.org/government-politics-issues/2026-04-10/data-center-opposition-group-sues-city-festus-proposed-developer"
+   },
+   {
+    "para": 1,
+    "t": "The land was annexed in November 2025, about 240 acres north of Highway 67 and west of Highway CC.",
+    "src": "https://www.stlpr.org/government-politics-issues/2026-02-27/festus-leaders-next-step-approving-proposed-data-center"
+   },
+   {
+    "para": 1,
+    "t": "On February 26, 2026 the city voted 7 to 0 to hire the Kansas City consultancy MarksNelson to advise on the deal, at $20,000 upfront and $400 an hour thereafter, and set a roundtable with county officials for the following Monday.",
+    "src": "https://www.stlpr.org/government-politics-issues/2026-02-27/festus-leaders-next-step-approving-proposed-data-center"
+   },
+   {
+    "para": 1,
+    "t": "On March 30, 2026 the council approved a framework of requirements for CRG.",
+    "src": "https://www.stlpr.org/government-politics-issues/2026-04-10/data-center-opposition-group-sues-city-festus-proposed-developer"
+   },
+   {
+    "para": 1,
+    "t": "Mayor Sam Richards and city administrator Greg Camp led the city side.",
+    "src": "https://www.stlpr.org/government-politics-issues/2026-02-27/festus-leaders-next-step-approving-proposed-data-center"
+   },
+   {
+    "para": 2,
+    "t": "Lori Merriman, who founded Wake Up JeffCo, put the objection plainly: \"They have not been forthright with us. They should never be putting anything like this, an industrial thing, in a residential location.\"",
+    "src": "https://www.stlpr.org/government-politics-issues/2026-02-27/festus-leaders-next-step-approving-proposed-data-center"
+   },
+   {
+    "para": 2,
+    "t": "No end user has been identified.",
+    "src": "https://www.stlpr.org/government-politics-issues/2026-02-27/festus-leaders-next-step-approving-proposed-data-center"
+   },
+   {
+    "para": 3,
+    "t": "The cost figures reported do not agree.",
+    "src": "https://www.stlpr.org/government-politics-issues/2026-02-27/festus-leaders-next-step-approving-proposed-data-center"
+   },
+   {
+    "para": 3,
+    "t": "In February the investment was described as at least $1 billion; by April the same outlet reported $6 billion, which is the figure the entry carries.",
+    "src": "https://www.stlpr.org/government-politics-issues/2026-04-10/data-center-opposition-group-sues-city-festus-proposed-developer"
+   },
+   {
+    "para": 4,
+    "t": "The entry is recorded at 360 acres and $6 billion, proposed, with no capacity figure.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "The nearest large generators are 50 kilometres or more away: the 1,157 megawatt Baldwin coal complex at 49 kilometres and the 2,372 megawatt Labadie coal plant at 55.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Jefferson County has no data center measure recorded at all, while the City of St Louis adopted zoning limits on June 10, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.stlpr.org/government-politics-issues/2026-02-27/festus-leaders-next-step-approving-proposed-data-center",
+   "https://www.stlpr.org/government-politics-issues/2026-04-10/data-center-opposition-group-sues-city-festus-proposed-developer"
+  ],
+  "unconfirmed": "The acreage differs: our record says 360 acres, the February report describes 240 acres annexed in November 2025. Neither report gives a power or water figure and no megawatt number exists for this project anywhere we looked. The outcome of the Sunshine Law lawsuit is unknown. Who CRG's end user would be has not been disclosed, and the city's framework of requirements has not been published in anything we read. Our record's address, Old England Rd and US-67, does not match the description in the reporting of land north of Highway 67 and west of Highway CC; we could not resolve the parcel."
+ },
+ {
+  "id": "ft-1768323532709-2448",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Two Independence council members lost their seats over this data center, in Jackson County, Missouri, before the ground was broken.",
+    "src": "https://www.kctv5.com/2026/07/08/independence-hits-pause-data-centers-nebius-construction-moves-forward/"
+   },
+   {
+    "para": 0,
+    "t": "Nebius, an Amsterdam technology company, is building a hyperscale AI campus on nearly 400 acres near Missouri Route 78 and Little Blue Parkway in eastern Independence, which reporting describes as reaching 1.2 gigawatts at full build.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Construction started in May 2026.",
+    "src": "https://www.kctv5.com/2026/07/08/independence-hits-pause-data-centers-nebius-construction-moves-forward/"
+   },
+   {
+    "para": 1,
+    "t": "In April 2026 voters removed council members Bridget McCandless and Jared Fears, both of whom had voted for the tax incentives attached to the project.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "A recall effort against another councilman over the same tax breaks was also under way.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "On July 6, 2026 the council voted 7 to 0 for a six month moratorium on new data center approvals, sponsored by councilman Brice Stewart.",
+    "src": "https://www.kctv5.com/2026/07/08/independence-hits-pause-data-centers-nebius-construction-moves-forward/"
+   },
+   {
+    "para": 2,
+    "t": "It does not touch Nebius, which was already approved, nor a second pending application.",
+    "src": "https://www.kctv5.com/2026/07/08/independence-hits-pause-data-centers-nebius-construction-moves-forward/"
+   },
+   {
+    "para": 2,
+    "t": "Stewart said: \"I understand their frustration ... I don't think anybody could have imagined what a data center would be now compared to what it was then.\"",
+    "src": "https://www.kctv5.com/2026/07/08/independence-hits-pause-data-centers-nebius-construction-moves-forward/"
+   },
+   {
+    "para": 2,
+    "t": "Zoning changes were to go to the planning commission the following week, under which data centers above 2.5 megawatts would need a special use permit rather than approval as of right, with a council vote possible by mid August.",
+    "src": "https://www.kctv5.com/2026/07/08/independence-hits-pause-data-centers-nebius-construction-moves-forward/"
+   },
+   {
+    "para": 3,
+    "t": "For the people already living beside the site, the moratorium came too late to matter.",
+    "src": "https://www.kctv5.com/2026/07/08/independence-hits-pause-data-centers-nebius-construction-moves-forward/"
+   },
+   {
+    "para": 3,
+    "t": "Daniel Moorehead, who lives on Bly Road and leads the Independence Guard Alliance, called it insufficient: \"When you have a moratorium that doesn't stop current items, you're effectively saying I have special interest in keeping the current items active.\"",
+    "src": "https://www.kctv5.com/2026/07/08/independence-hits-pause-data-centers-nebius-construction-moves-forward/"
+   },
+   {
+    "para": 3,
+    "t": "Howard Hoff, who has owned property there for 30 years, said: \"I don't personally know that we can do anything about what's going on now\", and described continuous truck traffic and a road closed since April 2026.",
+    "src": "https://www.kctv5.com/2026/07/08/independence-hits-pause-data-centers-nebius-construction-moves-forward/"
+   },
+   {
+    "para": 3,
+    "t": "Nebius representatives said they had sent updates to residents and posted guards to steer construction traffic away from the neighbourhoods.",
+    "src": "https://www.kctv5.com/2026/07/08/independence-hits-pause-data-centers-nebius-construction-moves-forward/"
+   },
+   {
+    "para": 4,
+    "t": "The campus is recorded as under construction at 880 megawatts, with a cost of $150 billion and the developer given as Patmos, and a change.org petition against it is on file.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 4,
+    "t": "The $150 billion figure is the ceiling on industrial development revenue bonds approved for the project, not the construction cost.",
+    "src": "data:sources"
+   },
+   {
+    "para": 5,
+    "t": "The county and the city have both since drawn lines around new projects: Jackson County adopted a 180 day moratorium from June 22, 2026 and a ban from June 24, Kansas City adopted zoning limits in January 2026, and Peculiar has had a ban since 2024.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 5,
+    "t": "The 955 megawatt Hawthorn coal plant is 14 kilometres away, and nine other data center sites sit within 38 kilometres, one of them at the same coordinates.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.kctv5.com/2026/07/08/independence-hits-pause-data-centers-nebius-construction-moves-forward/"
+  ],
+  "unconfirmed": "The capacity is unresolved: our record says 880 megawatts, the trade press headline says 800, and search summaries of local reporting describe 1.2 gigawatts at full build. The 1.2 gigawatt figure, the April 2026 election result and the recall effort are attributed to our record's source list and to search summaries rather than to pages read in full, because the KMBC report in our record could not be fetched; the KCTV report does not carry them. A line saying the July 8 vote also imposed a temporary ban on new battery storage sites came out, because the report we read does not say so. Daniel Moorehead was quoted calling the moratorium \"only a half measure\", a phrase that is not in the report; what he said is now given instead, and so is what Nebius representatives actually said, in place of a line saying they declined to comment in detail. The $150 billion in our cost field is a bond authorisation ceiling, and the actual capital cost has not been published. What the second pending application is, and who is behind it, we could not establish; our record holds a separate Patmos entry at the same coordinates."
+ },
+ {
+  "id": "ft-1782767669801-3250",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is the smaller of the two data centers arriving in Independence, in Jackson County, Missouri, at the same time, and the quieter one.",
+    "src": "https://www.kctv5.com/2026/07/08/independence-hits-pause-data-centers-nebius-construction-moves-forward/"
+   },
+   {
+    "para": 0,
+    "t": "Patmos is under contract to buy an existing warehouse at 2500 Little Blue Parkway and convert it, at a cost put at $107 million, with the project depending on securing enough power from the city utility or building generation on site.",
+    "src": "https://baxtel.com/data-center/patmos-independence-missouri"
+   },
+   {
+    "para": 0,
+    "t": "Talks began in November 2025 and the company went under contract in March 2026, with the conversion planned for 2027 and expansions through 2028.",
+    "src": "https://baxtel.com/data-center/patmos-independence-missouri"
+   },
+   {
+    "para": 0,
+    "t": "The plan is a mixed use technology campus with a data hall on one side and flexible space for technology and community tenants on the other, keeping the warehouse exterior.",
+    "src": "https://baxtel.com/data-center/patmos-independence-missouri"
+   },
+   {
+    "para": 1,
+    "t": "The trade report behind the entry identifies NorthPoint as the seller, names Community Services League and Fort Connect as nonprofits already in the building, and gives Patmos as founded in 2022 with campuses in Dallas, Phoenix, San Jose, Newark and Frankfurt.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The company came to Kansas City in 2024 by buying the former Kansas City Star building downtown.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The timing matters.",
+    "src": "https://www.kctv5.com/2026/07/08/independence-hits-pause-data-centers-nebius-construction-moves-forward/"
+   },
+   {
+    "para": 2,
+    "t": "On July 6, 2026 the Independence council passed a six month moratorium on new data center approvals, 7 to 0, but exempted applications already submitted, including a second pending one alongside Nebius.",
+    "src": "https://www.kctv5.com/2026/07/08/independence-hits-pause-data-centers-nebius-construction-moves-forward/"
+   },
+   {
+    "para": 3,
+    "t": "The entry stands as proposed, at $107 million, with no capacity, no acreage and no developer.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "It sits at the same coordinates as the Nebius entry, which names Patmos as its developer.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "Around it, the county has shut the door on anything new: Jackson County adopted a 180 day moratorium from June 22, 2026 and a ban from June 24, and Kansas City brought in zoning limits on January 16, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The 955 megawatt Hawthorn coal plant is 14 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/data-center/patmos-independence-missouri",
+   "https://www.kctv5.com/2026/07/08/independence-hits-pause-data-centers-nebius-construction-moves-forward/"
+  ],
+  "unconfirmed": "The capacity is not in our record; a directory listing gives 70 megawatts for a Patmos Independence facility, which we did not rely on because it could not be tied to this address in anything we read, and the baxtel page used here gives no megawatt figure either. The seller, the two nonprofit tenants and the company's other campuses are not on that page and are attributed instead to the Data Center Dynamics report in our record, which is not fetchable. Whether the purchase has completed, and whether this is the second pending application the Independence moratorium exempts, are both unestablished. The relationship between this entry and our Nebius entry at the same coordinates, which names Patmos as developer, is unresolved and looks like a recording problem rather than two buildings. No local reporting naming residents affected by this specific conversion was found."
+ },
+ {
+  "id": "ft-1769227962763-8860",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Joplin rezoned 600 acres for a data center in Jasper County, Missouri, over a hall full of objecting neighbours.",
+    "src": "https://www.koamnewsnow.com/news/local-news/neighbors-challenge-joplins-approval-of-600-acre-industrial-rezoning/article_0155f5ba-9b7f-42c3-a98b-e15c83740743.html"
+   },
+   {
+    "para": 0,
+    "t": "The land at the corner of West 20th Street and Central City Road, on the southwest side of the city, went from single family residential to heavy industrial.",
+    "src": "https://www.koamnewsnow.com/news/local-news/neighbors-challenge-joplins-approval-of-600-acre-industrial-rezoning/article_0155f5ba-9b7f-42c3-a98b-e15c83740743.html"
+   },
+   {
+    "para": 0,
+    "t": "Search summaries of the Joplin reporting give about 200 people at Webster Hall, an annexation of about 540 acres passing 6 to 3, and the rezoning passing 7 to 2; the account we could read gives neither the vote counts nor the dates.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The land belongs to Wildwood Ranch LLC and borders the south side of the Forest View Estates subdivision.",
+    "src": "https://www.koamnewsnow.com/news/local-news/neighbors-challenge-joplins-approval-of-600-acre-industrial-rezoning/article_0155f5ba-9b7f-42c3-a98b-e15c83740743.html"
+   },
+   {
+    "para": 1,
+    "t": "On March 19, 2026 Derek and Laura Snyder, who live on the two lots next to it, sued the city, Mayor Keenan Cortez, the council members and Wildwood Ranch LLC.",
+    "src": "https://www.koamnewsnow.com/news/local-news/neighbors-challenge-joplins-approval-of-600-acre-industrial-rezoning/article_0155f5ba-9b7f-42c3-a98b-e15c83740743.html"
+   },
+   {
+    "para": 1,
+    "t": "They allege the officials abdicated their legislative powers and acted arbitrarily by fast-tracking the project without the traffic, environmental or utility studies required, and approved the rezoning with no site plan or concept plan, though the zoning code treats heavy industrial as incompatible with residential land.",
+    "src": "https://www.koamnewsnow.com/news/local-news/neighbors-challenge-joplins-approval-of-600-acre-industrial-rezoning/article_0155f5ba-9b7f-42c3-a98b-e15c83740743.html"
+   },
+   {
+    "para": 2,
+    "t": "Two separate petition drives are running.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "A change.org petition against the project gathered more than 1,400 signatures, a group called Joplin Citizens Against Wildwood Ranch Data Center Site is seeking to have the decision repealed and a twelve month moratorium imposed, and the Joplin Sustainable Technology Alliance is circulating petitions to repeal both the annexation and the rezoning.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The entry is recorded as under construction at 200 megawatts on 600 acres.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "No developer or end user is named on the entry or in the reporting.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "The power is next door: the 624 megawatt State Line combined cycle gas plant is one kilometre away and the 274 megawatt Riverton plant nine kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "No moratorium is recorded anywhere near Joplin, and no other recorded data center site sits within 40 kilometres.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.koamnewsnow.com/news/local-news/neighbors-challenge-joplins-approval-of-600-acre-industrial-rezoning/article_0155f5ba-9b7f-42c3-a98b-e15c83740743.html"
+  ],
+  "unconfirmed": "The KOAM report gives the rezoning, the owner, the lawsuit and its allegations, and no numbers beyond the acreage; the attendance, the annexation acreage, the vote counts and the petition totals all come from search summaries of Joplin reporting we did not fetch in full, and are attributed as such. Our record says the project is under construction; the reporting describes a rezoning under legal challenge with no site plan filed, which does not obviously fit. The 200 megawatt figure is not confirmed by anything we read, and no developer or customer has been named. The outcome of the Snyders' suit and of the repeal petitions is unknown."
+ },
+ {
+  "id": "ft-318",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Almost nothing real stands behind this Kansas City data center entry.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The entry is a 500 megawatt Cielo Digital Infrastructure campus on 146 acres somewhere in Kansas City, Missouri, marked proposed with confidence low, and the only source attached to it is a trade report about a Cielo project in South Carolina.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "No street address is recorded, only the city.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "No announcement, filing or news report about a Cielo site in Jackson County could be found.",
+    "src": "https://cleanview.co/data-centers/missouri/2027/cielo-kansas-city-data-center"
+   },
+   {
+    "para": 1,
+    "t": "What exists is a tracker listing describing a planned hyperscale campus of about 146 acres and 500 megawatts, with no date, no parcel and no end user.",
+    "src": "https://cleanview.co/data-centers/missouri/2027/cielo-kansas-city-data-center"
+   },
+   {
+    "para": 1,
+    "t": "The same company appears at Chisago County, Minnesota, on 157 acres, sourced to the same South Carolina article.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "What has happened around it is documented.",
+    "src": "https://www.kshb.com/news/local-news/jackson-county-legislature-approves-180-day-moratorium-on-processing-data-center-land-use-applications"
+   },
+   {
+    "para": 2,
+    "t": "The Jackson County Legislature passed a 180 day moratorium on processing land use applications for data centers and battery energy storage systems, to give the county time to write rules and stronger public notification requirements before allowing new projects.",
+    "src": "https://www.kshb.com/news/local-news/jackson-county-legislature-approves-180-day-moratorium-on-processing-data-center-land-use-applications"
+   },
+   {
+    "para": 2,
+    "t": "Manny Abarca, chairman of the legislature, said the pause would let the county \"carefully evaluate the long-term impacts these projects could have on our neighborhoods, infrastructure, public safety, utilities, and quality of life\".",
+    "src": "https://www.kshb.com/news/local-news/jackson-county-legislature-approves-180-day-moratorium-on-processing-data-center-land-use-applications"
+   },
+   {
+    "para": 2,
+    "t": "That moratorium runs from June 22, 2026; Kansas City adopted zoning limits on January 16, 2026, and a county ban dated June 24, 2026 and a ban in Peculiar going back to 2024 are also recorded.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "Ten other recorded data center sites sit within 32 kilometres of the point this entry has been placed at, including the Nebius campus under construction at Independence.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Generation nearby runs to the 955 megawatt Hawthorn coal plant at 15 kilometres and the 396 megawatt Northeast oil plant at 12.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://cleanview.co/data-centers/missouri/2027/cielo-kansas-city-data-center",
+   "https://www.kshb.com/news/local-news/jackson-county-legislature-approves-180-day-moratorium-on-processing-data-center-land-use-applications"
+  ],
+  "unconfirmed": "Three searches were run: Cielo with Kansas City, 500 MW and 146 acres; Cielo with a Jackson County land purchase; and Jackson County with data center moratorium for 2026. Nothing was found about a Cielo site in Missouri beyond aggregator listings, which carry the same two figures and no source of their own. No parcel, no application, no end user and no announcement date could be established, and the coordinates our record places it at should not be treated as a location. The KSHB report of the moratorium gives neither the vote count nor the date, and says nothing about county executive Phil LeVota, so the vote of eight with one member excused and LeVota's comment about having ten days to sign or veto have come out; the June 22, 2026 date is carried by our own moratorium field. Our record's only source is a Data Center Dynamics report about South Carolina, the same article wrongly attached to our Chisago County entry; that is a sourcing error in the record rather than a finding about the project."
+ },
+ {
+  "id": "ft-317",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The number attached to the Project Kestrel data centers in Platte County, Missouri, is $100 billion, and it is a bond request rather than a building cost.",
+    "src": "https://www.kshb.com/news/local-news/tech-firm-eyes-development-for-6-data-centers-north-of-kansas-city-international-airport"
+   },
+   {
+    "para": 0,
+    "t": "Shenandoah Computing LLC has asked Port KC for conduit bonds of up to that amount to fund improvements at a site of about 380 acres on the southwest corner of Missouri Highway 92 and North Winan Avenue, north of Kansas City International Airport.",
+    "src": "https://www.kshb.com/news/local-news/tech-firm-eyes-development-for-6-data-centers-north-of-kansas-city-international-airport"
+   },
+   {
+    "para": 0,
+    "t": "The plan is up to six data centers built in phases over twenty years.",
+    "src": "https://www.kshb.com/news/local-news/tech-firm-eyes-development-for-6-data-centers-north-of-kansas-city-international-airport"
+   },
+   {
+    "para": 1,
+    "t": "The company is also seeking exemptions from real and personal property tax, exemptions from sales tax on construction materials, and property tax incentives for up to 35 years for each phase.",
+    "src": "https://www.kshb.com/news/local-news/tech-firm-eyes-development-for-6-data-centers-north-of-kansas-city-international-airport"
+   },
+   {
+    "para": 1,
+    "t": "The Port KC board of commissioners was due to consider the bonds and a master memorandum of understanding with Shenandoah Computing the following Monday.",
+    "src": "https://www.kshb.com/news/local-news/tech-firm-eyes-development-for-6-data-centers-north-of-kansas-city-international-airport"
+   },
+   {
+    "para": 2,
+    "t": "It is not the only one.",
+    "src": "https://www.kshb.com/news/local-news/tech-firm-eyes-development-for-6-data-centers-north-of-kansas-city-international-airport"
+   },
+   {
+    "para": 2,
+    "t": "The same week, Wyandotte County across the state line approved a separate $12 billion project by Red Wolf DCD Properties LLC, up to six facilities near the Kansas Speedway, and Google and Meta have both started building campuses in the Northland.",
+    "src": "https://www.kshb.com/news/local-news/tech-firm-eyes-development-for-6-data-centers-north-of-kansas-city-international-airport"
+   },
+   {
+    "para": 2,
+    "t": "Meta's Kansas City campus is recorded as operating 11 kilometres from this site, with a Nebius colocation at the same distance and a Lambda AI factory in the former Bank of America building seven kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Project Kestrel is recorded at 810 acres and $100 billion, proposed, with no developer and no capacity figure.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "The acreage does not match: the television report describes about 380 acres, and a trade report behind the entry describes a Google-affiliated company buying 430 acres in Kansas City.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "No power or water figure has been published, which for six data centers is the central unanswered question.",
+    "src": "https://www.kshb.com/news/local-news/tech-firm-eyes-development-for-6-data-centers-north-of-kansas-city-international-airport"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generators are the 1,602 megawatt Iatan coal plant 26 kilometres away and the 315 megawatt Nearman Creek coal plant at 21.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Kansas City adopted data center zoning limits on January 16, 2026, and Jackson County a moratorium and a ban in June 2026, though this site is in Platte County, which has no measure recorded.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.kshb.com/news/local-news/tech-firm-eyes-development-for-6-data-centers-north-of-kansas-city-international-airport"
+  ],
+  "unconfirmed": "Who is behind Shenandoah Computing LLC is not established. Our record carries a Data Center Dynamics report that a Google-affiliated company bought 430 acres in Kansas City, which would be the obvious connection, but that report is not fetchable and we will not assert the link. The acreage is unresolved between 380, 430 and the 810 in our record. No megawatt figure, water figure, or construction timetable beyond twenty years has been published. Whether Port KC approved the bonds and the memorandum of understanding is unknown; the report we read was written before that meeting. No resident or opponent is quoted anywhere we could read, and our record marks pushback as unknown."
+ }
+]

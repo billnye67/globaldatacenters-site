@@ -1,0 +1,443 @@
+[
+ {
+  "id": "neoclouds-coreweave-barcelona-merlin-edged",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The mayor of Barcelona, Jaume Collboni, opened this data centre at Cornella de Llobregat on May 13, 2025.",
+    "src": "https://tech.eu/2025/05/13/coreweave-and-merlin-edged-launch-barcelona-data-centre/"
+   },
+   {
+    "para": 0,
+    "t": "The building is run by MERLIN Edged. CoreWeave takes 15 megawatts of it, filled with 10,224 Nvidia H200 GPUs connected by InfiniBand, which the companies describe as one of the first large scale Nvidia Hopper training and inference machines in Spain. A Blackwell system was planned to follow in 2026.",
+    "src": "https://tech.eu/2025/05/13/coreweave-and-merlin-edged-launch-barcelona-data-centre/"
+   },
+   {
+    "para": 1,
+    "t": "MERLIN says its data centres are designed for a power usage effectiveness of 1.15, against a European average of 1.46 and a global average of 1.56, and that they run only on renewable electricity.",
+    "src": "https://tech.eu/2025/05/13/coreweave-and-merlin-edged-launch-barcelona-data-centre/"
+   },
+   {
+    "para": 1,
+    "t": "CoreWeave announced an initial 2.2 billion dollar investment across Europe in 2024.",
+    "src": "https://tech.eu/2025/05/13/coreweave-and-merlin-edged-launch-barcelona-data-centre/"
+   },
+   {
+    "para": 2,
+    "t": "Only one other data centre stands within 40 kilometres, Equinix's Barcelona hub about 4 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://tech.eu/2025/05/13/coreweave-and-merlin-edged-launch-barcelona-data-centre/",
+   "https://baxtel.com/data-centers/coreweave"
+  ],
+  "unconfirmed": "No water use figure, building size, investment figure for this specific site, or employment number was found. No Cornella de Llobregat resident, councillor or objector appears in any source reached, and it is not known whether the project drew any local opposition."
+ },
+ {
+  "id": "neoclouds-applied-digital-polaris-forge-2-harwood",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Applied Digital is building this data center campus at Ellendale, in Dickey County, North Dakota, and every megawatt of it is already spoken for.",
+    "src": "https://www.sec.gov/Archives/edgar/data/1144879/000164117225013199/ex99-2.htm"
+   },
+   {
+    "para": 0,
+    "t": "The company signed two leases of about 15 years each with CoreWeave, covering 250 megawatts of critical IT load, with an option for a further 150 megawatts. It expects roughly 7 billion dollars in total revenue over the lease terms.",
+    "src": "https://www.sec.gov/Archives/edgar/data/1144879/000164117225013199/ex99-2.htm"
+   },
+   {
+    "para": 0,
+    "t": "The buildout runs in three parts: a 100 megawatt building ready in the last quarter of 2025, a 150 megawatt building in mid-2026, and an optional third 150 megawatt building in 2027.",
+    "src": "https://www.sec.gov/Archives/edgar/data/1144879/000164117225013199/ex99-2.htm"
+   },
+   {
+    "para": 1,
+    "t": "The campus was designed for 400 megawatts of critical IT load, but the company says more than a gigawatt of power capacity is at various stages of load study, which would let it grow past that design.",
+    "src": "https://www.sec.gov/Archives/edgar/data/1144879/000164117225013199/ex99-2.htm"
+   },
+   {
+    "para": 1,
+    "t": "Applied Digital cites abundant, low cost energy and a cold climate as the reasons for the location, but the filing does not say where the power will come from.",
+    "src": "https://www.sec.gov/Archives/edgar/data/1144879/000164117225013199/ex99-2.htm"
+   },
+   {
+    "para": 2,
+    "t": "The generation nearby is wind: the 150 megawatt Foxtail Wind about 26 kilometers away, the 180 megawatt Tatanka Wind Power about 30 kilometers away and the 150 megawatt Merricourt Wind Energy Center about 39 kilometers away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The existing CoreWeave Ellendale site sits on the same ground, two data centers in Dickey County in all.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.sec.gov/Archives/edgar/data/1144879/000164117225013199/ex99-2.htm",
+   "https://baxtel.com/data-centers/coreweave"
+  ],
+  "unconfirmed": "Our record notes a $3 billion figure and $2.15 billion of notes raised in March 2026, but the filing read here does not carry those numbers, so the financing is not set out. No water use figure, employment number, local approval, tax arrangement or resident comment was found for the Ellendale campus."
+ },
+ {
+  "id": "neoclouds-core-scientific-pecos-cottonwood",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This site was built to mine Bitcoin. Core Scientific is now turning it into an AI data center.",
+    "src": "https://investors.corescientific.com/news-events/press-releases/detail/134/core-scientific-plans-expansion-to-1-5-gigawatts-of-gross-power-at-pecos-texas-campus"
+   },
+   {
+    "para": 0,
+    "t": "The Cottonwood 1 and 2 buildings at 1939 Farm to Market 2119 in Reeves County opened in 2022. On April 27 the company announced an expansion targeting 1.5 gigawatts of gross power at the campus, with about 1 gigawatt of that leasable.",
+    "src": "https://investors.corescientific.com/news-events/press-releases/detail/134/core-scientific-plans-expansion-to-1-5-gigawatts-of-gross-power-at-pecos-texas-campus"
+   },
+   {
+    "para": 0,
+    "t": "Roughly 300 megawatts currently mining Bitcoin at the site are being repurposed. Foundations for the first data hall are finished and vertical construction has started, with the first capacity expected in early 2027.",
+    "src": "https://investors.corescientific.com/news-events/press-releases/detail/134/core-scientific-plans-expansion-to-1-5-gigawatts-of-gross-power-at-pecos-texas-campus"
+   },
+   {
+    "para": 1,
+    "t": "The figures are worth setting against the local grid. The site sits in El Paso Electric's control area, which has a peak load of about 2,147 megawatts. A campus at 1.5 gigawatts would be most of that on its own.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 1,
+    "t": "The nearest generation is the 100 megawatt West of the Pecos Solar plant about 15 kilometers away, with battery storage at Swoose II about 44 kilometers away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "Texas imposed a state level grid connection moratorium on August 3, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://investors.corescientific.com/news-events/press-releases/detail/134/core-scientific-plans-expansion-to-1-5-gigawatts-of-gross-power-at-pecos-texas-campus",
+   "https://corescientific.com/high-density-data-centers/"
+  ],
+  "unconfirmed": "Reporting indicates Core Scientific is looking at behind the meter generation to supply the Pecos campus, but the page carrying that account could not be retrieved, so how 1.5 gigawatts would be supplied is not established here. No water use figure, employment number, county approval or resident comment was found, and the April 27 announcement date was given without a year in the source read."
+ },
+ {
+  "id": "neoclouds-core-scientific-calvert-city",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Core Scientific's Calvert City site is at 1035 Shar-Cal Road in Marshall County, Kentucky, in what was a Gerdau steel rolling mill.",
+    "src": "https://www.datacentermap.com/usa/kentucky/calvert-city/core-scientific-calvert-city/"
+   },
+   {
+    "para": 0,
+    "t": "It opened in November 2019 as a blockchain mining facility, developed with the Tennessee Valley Authority and Jackson Purchase Energy, and is the largest operating data center in Kentucky at 150 megawatts.",
+    "src": "https://www.areadevelopment.com/newsitems/11-14-2019/core-scientific-calvert-city-kentucky.shtml"
+   },
+   {
+    "para": 0,
+    "t": "It runs on TVA's mix of nuclear, hydro and gas.",
+    "src": "https://cleanview.co/data-centers/kentucky/882/core-scientific-calvert-city"
+   },
+   {
+    "para": 1,
+    "t": "The employment figures are worth stating plainly.",
+    "src": "https://www.paducahsun.com/news/kentucky/core-scientific-opens-calvert-data-center/article_c3cd355f-95d8-51ad-9f69-dd456931b1fe.html"
+   },
+   {
+    "para": 1,
+    "t": "The facility opened with about 30 people on site, with more contractors than employees.",
+    "src": "https://www.paducahsun.com/news/kentucky/core-scientific-opens-calvert-data-center/article_c3cd355f-95d8-51ad-9f69-dd456931b1fe.html"
+   },
+   {
+    "para": 1,
+    "t": "Calvert City's industrial history, mostly chemicals, is given as the reason the community took to a development of this kind.",
+    "src": "https://cleanview.co/data-centers/kentucky/882/core-scientific-calvert-city"
+   },
+   {
+    "para": 2,
+    "t": "The business has changed underneath it.",
+    "src": "https://cleanview.co/data-centers/kentucky/882/core-scientific-calvert-city"
+   },
+   {
+    "para": 2,
+    "t": "Core Scientific went through bankruptcy and the site has since moved to hosting AI work alongside bitcoin mining, following the wider shift of crypto miners selling spare capacity to AI companies.",
+    "src": "https://cleanview.co/data-centers/kentucky/882/core-scientific-calvert-city"
+   }
+  ],
+  "sources": [
+   "https://www.datacentermap.com/usa/kentucky/calvert-city/core-scientific-calvert-city/",
+   "https://www.areadevelopment.com/newsitems/11-14-2019/core-scientific-calvert-city-kentucky.shtml",
+   "https://cleanview.co/data-centers/kentucky/882/core-scientific-calvert-city",
+   "https://www.paducahsun.com/news/kentucky/core-scientific-opens-calvert-data-center/article_c3cd355f-95d8-51ad-9f69-dd456931b1fe.html"
+  ],
+  "unconfirmed": "Searches on Core Scientific with Calvert City, on Marshall County Kentucky with data center, and on Calvert City with bitcoin mining found no water figure, no hearing record, no noise complaint and no resident quoted. Capacity is given as 150 megawatts in most listings and as a 100 megawatt mining campus in another; the two were not reconciled. No account of what the change to AI work means for the site's power draw was found."
+ },
+ {
+  "id": "neoclouds-nscale-glomfjord",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Glomfjord is a town of about 1,000 people above the Arctic Circle, and its economy has run on the same 120 megawatt hydroelectric plant for more than a hundred years.",
+    "src": "https://www.nscale.com/ai-infrastructure/glomfjord"
+   },
+   {
+    "para": 0,
+    "t": "Nscale's AI data centre there operates at 30 megawatts and is designed to reach 60. It runs entirely on hydropower from the region's dams, which the company says is in stable oversupply, so it does not strain the local grid or push up residents' energy costs.",
+    "src": "https://www.nscale.com/ai-infrastructure/glomfjord"
+   },
+   {
+    "para": 0,
+    "t": "Cooling is adiabatic, using the Arctic climate rather than mechanical refrigeration.",
+    "src": "https://www.nscale.com/ai-infrastructure/glomfjord"
+   },
+   {
+    "para": 1,
+    "t": "The expansion to 60 megawatts is a partnership with InfraPartners, which builds the facility from modules made off site, with Nscale running the compute. It was scheduled to launch in the second quarter of 2025 and uses liquid cooling for the GPUs.",
+    "src": "https://www.nscale.com/press-releases/nscale-and-infrapartners-announce-partnership-to-build-60mw-ai-data-centre-in-glomfjord-norway"
+   },
+   {
+    "para": 1,
+    "t": "Alex Sharp, Nscale's chief operating officer, said \"Glomfjord offers an ideal location for an AI data centre,\" pointing to the existing 30 megawatt site and access to an abundance of hydroelectric power. Harqs Singh, InfraPartners' chief technology officer, said the company was \"thrilled to partner with Nscale to deploy a sustainable data centre in Glomfjord.\"",
+    "src": "https://www.nscale.com/press-releases/nscale-and-infrapartners-announce-partnership-to-build-60mw-ai-data-centre-in-glomfjord-norway"
+   },
+   {
+    "para": 2,
+    "t": "Nscale says it is investing in local infrastructure and jobs, and looking at reusing the waste heat, including to warm the community swimming pool.",
+    "src": "https://www.nscale.com/ai-infrastructure/glomfjord"
+   },
+   {
+    "para": 2,
+    "t": "No other data centre project sits within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.nscale.com/ai-infrastructure/glomfjord",
+   "https://www.nscale.com/press-releases/nscale-and-infrapartners-announce-partnership-to-build-60mw-ai-data-centre-in-glomfjord-norway",
+   "https://www.datacentermap.com/c/nscale-ltd/datacenters"
+  ],
+  "unconfirmed": "Everything here about the community benefit, the oversupply of hydropower and the waste heat comes from Nscale's own material, and no independent source, Norwegian local authority or resident was reached to test it. No investment figure, employment number or water use figure was published, and whether the swimming pool heating has been built is not known."
+ },
+ {
+  "id": "neoclouds-nscale-korgen",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Aker Nscale, a joint venture between the Norwegian industrial group Aker and the AI company Nscale, plans a data centre at Korgen, in Hemnes municipality in northern Norway, on land formerly owned by the power company Nordkraft.",
+    "src": "https://www.datacenter-forum.com/nscale/aker-nscale-plans-to-build-large-ai-data-center-in-northern-norway"
+   },
+   {
+    "para": 0,
+    "t": "It is planned for 250 megawatts of grid capacity, drawn directly from the Nedre Rossaga hydropower station nearby.",
+    "src": "https://www.datacenter-forum.com/nscale/aker-nscale-plans-to-build-large-ai-data-center-in-northern-norway"
+   },
+   {
+    "para": 1,
+    "t": "The land rights are secured and the site is in the local commercial zoning plan.",
+    "src": "https://www.datacenter-forum.com/nscale/aker-nscale-plans-to-build-large-ai-data-center-in-northern-norway"
+   },
+   {
+    "para": 1,
+    "t": "What it is waiting for is a power allocation from Statnett, the national transmission operator, before large scale construction can start.",
+    "src": "https://www.datacenter-forum.com/nscale/aker-nscale-plans-to-build-large-ai-data-center-in-northern-norway"
+   },
+   {
+    "para": 2,
+    "t": "It would be far larger than the company's operating Norwegian site at Glomfjord, which runs at 30 megawatts on entirely hydroelectric power and is doubling to 60.",
+    "src": "https://www.nscale.com/product/glomfjord"
+   },
+   {
+    "para": 2,
+    "t": "At Glomfjord, Nscale says it is putting money into local infrastructure and jobs and is looking at reusing the waste heat, including to warm the community swimming pool.",
+    "src": "https://www.nscale.com/product/glomfjord"
+   },
+   {
+    "para": 2,
+    "t": "Aker Nscale has also bought land at Fauske and Skien and has announced a further project at Narvik.",
+    "src": "https://www.datacenterdynamics.com/en/news/aker-nscale-plans-another-data-center-in-narvik-norway/"
+   }
+  ],
+  "sources": [
+   "https://www.datacenter-forum.com/nscale/aker-nscale-plans-to-build-large-ai-data-center-in-northern-norway",
+   "https://www.nscale.com/product/glomfjord",
+   "https://www.datacenterdynamics.com/en/news/aker-nscale-plans-another-data-center-in-narvik-norway/"
+  ],
+  "unconfirmed": "Searches on Nscale with Korgen, on Hemnes with datasenter, and on Aker Nscale with Norway found no Norwegian local reporting, no municipal decision, no resident or councillor quoted and no water figure. The date of the announcement and the size of the site were not established, and everything above comes from the company or from trade press reporting it."
+ },
+ {
+  "id": "neoclouds-nscale-fauske",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Aker Nscale has bought land at Fauske, in Nordland, for a data centre, one of several Norwegian sites it has secured under the joint venture between Nscale and the industrial group Aker.",
+    "src": "https://www.datacenter-forum.com/nscale/aker-nscale-plans-to-build-large-ai-data-center-in-northern-norway"
+   },
+   {
+    "para": 1,
+    "t": "The company's other Norwegian sites give an idea of the scale it is working at.",
+    "src": "https://www.datacenter-forum.com/nscale/aker-nscale-plans-to-build-large-ai-data-center-in-northern-norway"
+   },
+   {
+    "para": 1,
+    "t": "Glomfjord, about 50 kilometres away, operates at 30 megawatts on hydroelectric power and is doubling to 60, with the waste heat being looked at for local uses including the community swimming pool.",
+    "src": "https://www.nscale.com/product/glomfjord"
+   },
+   {
+    "para": 1,
+    "t": "Korgen, in Hemnes, is planned at 250 megawatts drawn from the Nedre Rossaga hydropower station, and is waiting on a power allocation from Statnett.",
+    "src": "https://www.datacenter-forum.com/nscale/aker-nscale-plans-to-build-large-ai-data-center-in-northern-norway"
+   },
+   {
+    "para": 1,
+    "t": "The venture has also bought at Skien and announced a project at Narvik.",
+    "src": "https://www.datacenterdynamics.com/en/news/aker-nscale-plans-another-data-center-in-narvik-norway/"
+   }
+  ],
+  "sources": [
+   "https://www.datacenter-forum.com/nscale/aker-nscale-plans-to-build-large-ai-data-center-in-northern-norway",
+   "https://www.nscale.com/product/glomfjord",
+   "https://www.datacenterdynamics.com/en/news/aker-nscale-plans-another-data-center-in-narvik-norway/"
+  ],
+  "unconfirmed": "Our record lists the Fauske site as proposed, and nothing beyond the land purchase has been published: no capacity, no timetable and no planning application."
+ },
+ {
+  "id": "developers-qts-ashburn-broderick-drive",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "There is no denser concentration of data centers anywhere. Loudoun County had 199 operating data centers with another 117 in development, according to Michael Turner, vice chair of the county board's transportation and land use committee.",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 0,
+    "t": "QTS's site on Broderick Drive in Sterling is one of them, with QTS Ashburn-Moran, Vantage VA1, two STACK sites and Aligned IAD-03 all within about a kilometer.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The argument here is about who pays for the power. Data centers accounted for 24 percent of Dominion's electricity sales in Virginia in 2023, and the company projects their peak demand could reach 13.3 gigawatts by 2038, nearly five times the roughly 2.8 gigawatts of 2022.",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 1,
+    "t": "Dominion has proposed a 14 percent rate increase for residential customers in 2026, citing data center growth, and is spending 50.1 billion dollars on capital projects between 2025 and 2029, including the Golden to Mars transmission line and the Evergreen Mills project.",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 2,
+    "t": "Delegate Irene Shin of Fairfax put forward House Bill 2084 in the 2025 General Assembly session, which would have created a separate rate class for data centers and other very large users.",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 2,
+    "t": "Utilities and data center operators opposed it, warning it could deter investment. Legislators dropped the mandatory language and instead told the State Corporation Commission to study whether the current rate classes are fair.",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 2,
+    "t": "Shin said: \"It is up to industry to pay their fair share of what we know are the incredibly exorbitant costs to service data centers.\"",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 2,
+    "t": "Robert Richardson, a Dominion transmission communications consultant, said the opposite: \"Data centers do pay their fair share for these infrastructure projects. In fact, they probably pay a lot more because they are high-energy use customers.\"",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 3,
+    "t": "The region around Loudoun has been closing its doors: an outright ban at Warrenton, moratoriums in Montgomery County and Prince George's County, and zoning limits in Montgomery County, Fairfax County and Fauquier County.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/",
+   "https://datacentermap.com/usa/virginia/sterling/qts-ashburn/ecosystem"
+  ],
+  "unconfirmed": "Nothing specific to the Broderick Drive building was found: no capacity, square footage, opening date, water use, employment or county approval record. The energy dispute described here is countywide and not about this site in particular. No Loudoun resident is quoted in the source reached."
+ },
+ {
+  "id": "developers-qts-ashburn-moran",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "QTS runs two data centers in Sterling, in Loudoun County, Virginia, about a kilometer apart. This one is on Moran Road.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "What is being built around them is the grid. Dominion is spending 50.1 billion dollars on capital projects between 2025 and 2029, including transmission lines, substations and generation, with the Golden to Mars 500/230 kilovolt line and the Evergreen Mills project among those pending.",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 1,
+    "t": "Dominion's chief financial officer Steven Ridge said the demand is not letting up: \"We have not observed any evidence of slowing demand from data center customers across our service area.\"",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 1,
+    "t": "The company is also looking at nuclear. In October 2024 it signed a memorandum of understanding with Amazon Web Services to explore a small modular reactor near the North Anna site, which could supply roughly 300 megawatts to the data center corridor.",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 2,
+    "t": "The Piedmont Environmental Council, which campaigns on this, says Virginia holds the largest concentration of data centers in the world, and that the problem is not only the buildings but their infrastructure, their energy and water use, and their air and noise pollution.",
+    "src": "https://www.pecva.org/our-work/energy-matters/data-centers-energy-demand/"
+   },
+   {
+    "para": 2,
+    "t": "The council notes that most data centers use diesel generators for backup power, which it calls one of the most polluting ways to generate electricity, and argues for reform on transparency, ratepayer protection, state oversight and efficiency.",
+    "src": "https://www.pecva.org/our-work/energy-matters/data-centers-energy-demand/"
+   },
+   {
+    "para": 3,
+    "t": "The 766 megawatt Potomac Energy Center is about 11 kilometers away, inside a PJM control area that peaks at about 144,530 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/",
+   "https://www.pecva.org/our-work/energy-matters/data-centers-energy-demand/",
+   "https://datacentermap.com/usa/virginia/sterling/qts-ashburn-moran/ecosystem"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use, employment figure or approval record specific to the Moran Road building was found. Reporting on Virginia legislation passed in 2026 and on Loudoun County's data center tax revenue exists but those pages could not be retrieved, so neither is set out here."
+ },
+ {
+  "id": "developers-qts-glendale",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "QTS is building a data center campus at 4001 North 159th Avenue in Glendale, in Maricopa County, Arizona, planned as 16 buildings of about 180,000 square feet each, roughly 3 million square feet in all, with a power capacity of 750 megawatts.",
+    "src": "https://www.datacentermap.com/usa/arizona/phoenix/qts-glendale/"
+   },
+   {
+    "para": 0,
+    "t": "The company says its design uses no water for cooling at all, which it puts at hundreds of millions of gallons saved a year against conventional cooling. Governor Katie Hobbs visited the campus on April 7, 2026 to see it.",
+    "src": "https://www.datacentermap.com/usa/arizona/phoenix/qts-glendale/"
+   },
+   {
+    "para": 1,
+    "t": "Water is the reason that claim matters here. The campus sits in the Phoenix desert, in a county that holds 40 data centers.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "The neighbours are close: Vantage Phoenix about 3 kilometers away, Stream's Goodyear campus and Compass Goodyear about 4 kilometers away, the 64 megawatt Stream Phoenix about 6 kilometers away and Microsoft's 202 megawatt Goodyear site about 7 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The site draws from Arizona Public Service, whose control area peaks at about 7,611 megawatts. A campus built out to 750 megawatts would be about a tenth of that. The 741 megawatt Agua Fria gas plant is about 20 kilometers away.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 2,
+    "t": "Chandler, Phoenix and Tempe have all adopted zoning limits on data centers. Glendale has not.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.datacentermap.com/usa/arizona/phoenix/qts-glendale/",
+   "https://datacentermap.com/usa/arizona/phoenix/qts-glendale/quote"
+  ],
+  "unconfirmed": "The no-water cooling claim is QTS's own and was not independently checked, and it describes cooling only, not water used elsewhere on site. No construction timeline, investment figure, employment number, Glendale council approval or resident comment was found, and how the 750 megawatts would be supplied is not established."
+ }
+]

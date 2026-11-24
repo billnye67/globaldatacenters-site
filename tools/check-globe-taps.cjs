@@ -1,0 +1,15 @@
+const {webkit}=require('playwright');
+(async()=>{const b=await webkit.launch();const p=await b.newPage({viewport:{width:390,height:745},deviceScaleFactor:3,isMobile:true,hasTouch:true});
+ const tile=Buffer.from('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIHWP4z8DwHwAFgAI/ScL/nwAAAABJRU5ErkJggg==','base64');
+ await p.route(/server\.arcgisonline\.com\/ArcGIS\/rest\/services\/World_Imagery\/MapServer\/(tile|export)/,r=>r.fulfill({contentType:'image/png',headers:{'access-control-allow-origin':'*'},body:tile}));
+ await p.goto('http://localhost:8787/#main');await p.waitForTimeout(4500);await p.locator('.globe-tap').click();await p.waitForTimeout(2500);
+ const pos=await p.evaluate(()=>{const g=window.__heroGlobe,ps=window.__locations.filter(x=>x.type==='project'&&!x.approx&&x.lat&&x.lng);let target=ps.find(x=>x.lat>30&&x.lat<45&&x.lng>-110&&x.lng<-90)||ps[0];g.controls().autoRotate=false;g.pointOfView({lat:target.lat,lng:target.lng,altitude:.02},0);return {name:target.name,lat:target.lat,lng:target.lng};});
+ await p.waitForTimeout(400);
+ const loc=await p.evaluate(()=>{let g=window.__heroGlobe,r=document.querySelector('#globe').getBoundingClientRect(),cam=g.camera().position,v=window.__locations.filter(x=>x.type==='project').filter(x=>{let w=g.getCoords(x.lat,x.lng,0);return w.x*cam.x+w.y*cam.y+w.z*cam.z>10000}).map(x=>({name:x.name,sc:g.getScreenCoords(x.lat,x.lng)})).filter(x=>x.sc&&x.sc.x>30&&x.sc.x<r.width-30&&x.sc.y>50&&x.sc.y<r.height-50).sort((a,b)=>Math.hypot(a.sc.x-r.width/2,a.sc.y-r.height/2)-Math.hypot(b.sc.x-r.width/2,b.sc.y-r.height/2));return {visible:v.slice(0,3),base:v[0]?.sc,box:{x:r.x,y:r.y}};});
+ console.log('PIN',pos,loc);
+ if(!loc.base)throw Error('No visible pin');
+ const x=loc.box.x+loc.base.x+20,y=loc.box.y+loc.base.y;
+ await p.evaluate(({x,y})=>{let h=document.querySelector('#globe');h.dispatchEvent(new PointerEvent('pointerdown',{bubbles:true,pointerType:'touch',clientX:x,clientY:y}));h.dispatchEvent(new PointerEvent('pointerup',{bubbles:true,pointerType:'touch',clientX:x,clientY:y}));h.dispatchEvent(new MouseEvent('click',{bubbles:true,clientX:x,clientY:y}));},{x,y});
+ console.log('CARD',await p.evaluate(()=>({shown:document.querySelector('#point-card').classList.contains('card-in'),name:document.querySelector('#card-location').textContent})));
+ await p.locator('#globe-back').click();console.log('AFTER BACK',await p.evaluate(()=>({shown:document.querySelector('#point-card').classList.contains('card-in'),open:document.querySelector('#hero-sec').classList.contains('globe-mode')})));
+ await b.close();})().catch(e=>{console.error(e);process.exitCode=1});

@@ -1,0 +1,521 @@
+[
+ {
+  "id": "ft-1782186463729-2086",
+  "sentences": [
+   {
+    "para": 0,
+    "src": "https://www.whsv.com/2026/06/16/strasburg-residents-pack-public-forum-proposed-data-center-development/",
+    "t": "On Monday, June 15, 2026, residents packed a public forum at Strasburg High School about a data center proposed for their town, in Shenandoah County, Virginia."
+   },
+   {
+    "para": 0,
+    "src": "https://www.whsv.com/2026/06/16/strasburg-residents-pack-public-forum-proposed-data-center-development/",
+    "t": "The project is Project Tallmadge, a campus the town describes as 80 acres in the Strasburg Industrial Park, which would store and process digital information such as medical records, financial data and security systems."
+   },
+   {
+    "para": 0,
+    "src": "data:capacity_mw",
+    "t": "The record carries 87 acres and 180 megawatts and names the developer as Takanock, so the recorded acreage and the town's do not match."
+   },
+   {
+    "para": 1,
+    "src": "https://www.whsv.com/2026/06/16/strasburg-residents-pack-public-forum-proposed-data-center-development/",
+    "t": "The forum was built to inform rather than to decide."
+   },
+   {
+    "para": 1,
+    "src": "https://www.whsv.com/2026/06/16/strasburg-residents-pack-public-forum-proposed-data-center-development/",
+    "t": "Mayor Brandy Hawkins Boies moderated and said so plainly: \"I hope all of us walk out of here tonight just being more informed and having our questions answered when it comes to data centers and Project Tallmadge specifically in Strasburg and understand how we got here and what our process is moving forward.\""
+   },
+   {
+    "para": 1,
+    "src": "https://www.whsv.com/2026/06/16/strasburg-residents-pack-public-forum-proposed-data-center-development/",
+    "t": "An eleven person panel took 56 questions submitted in advance, grouped by topic: the project timeline and approval, transparency, air quality, public health, noise and quality of life, environmental concerns, fire and emergency response, public safety, economic impact, accountability, enforcement and long-term oversight."
+   },
+   {
+    "para": 1,
+    "src": "https://www.whsv.com/2026/06/16/strasburg-residents-pack-public-forum-proposed-data-center-development/",
+    "t": "It included the National Parks Conservation Association, the Virginia Department of Environmental Quality, Friends of the North Fork of the Shenandoah River, the Alliance for the Shenandoah Valley, a geologist, Bowman Consulting, Takanock, the Shenandoah County fire chief, the Strasburg police chief and the town's director of planning and infrastructure."
+   },
+   {
+    "para": 1,
+    "src": "https://www.whsv.com/2026/06/16/strasburg-residents-pack-public-forum-proposed-data-center-development/",
+    "t": "Water use and electricity demand were what residents asked about most."
+   }
+  ],
+  "sources": [
+   "https://www.whsv.com/2026/06/16/strasburg-residents-pack-public-forum-proposed-data-center-development/"
+  ],
+  "unconfirmed": "The town's own Project Tallmadge pages and the Data Center Dynamics report in our record all refused requests, so the investment figure, the building count, the construction dates and the on-site generation arrangement reported elsewhere are not carried here. No council vote or approval has been reported, and the forum's attendance was not given as a number. Our 87 acres and the town's 80 are unreconciled. Our record names Takanock as the developer; the forum described it as a data center site selection and development company, which is not quite the same claim. The record links a petition against the project."
+ },
+ {
+  "id": "ft-782",
+  "sentences": [
+   {
+    "para": 0,
+    "src": "https://www.fairfaxcounty.gov/planning-development/data-centers",
+    "t": "An operating data center stands at 1764A Old Meadow Lane in Tysons, Fairfax County, Virginia, and what governs anything new around it is the county rule."
+   },
+   {
+    "para": 0,
+    "src": "https://www.fairfaxcounty.gov/planning-development/data-centers",
+    "t": "Fairfax County's board of supervisors adopted a data center zoning amendment on September 10, 2024, effective the next day, revising where data centers are permitted and to what standard."
+   },
+   {
+    "para": 0,
+    "src": "https://www.ffxnow.com/2026/04/24/bespoke-data-center-buildings-proposed-near-tysons-residences/",
+    "t": "It caps them at 80,000 square feet and requires 200 feet between a data center and homes."
+   },
+   {
+    "para": 1,
+    "src": "https://www.ffxnow.com/2026/04/24/bespoke-data-center-buildings-proposed-near-tysons-residences/",
+    "t": "The first real test of that ordinance is a few streets away."
+   },
+   {
+    "para": 1,
+    "src": "https://www.ffxnow.com/2026/04/24/bespoke-data-center-buildings-proposed-near-tysons-residences/",
+    "t": "At 7980 and 7990 Quantum Drive, the California operator Serverfarm filed at the end of January 2026 to replace the Tysons Technology Center with two data center buildings it calls Vienna Cloud."
+   },
+   {
+    "para": 1,
+    "src": "https://www.ffxnow.com/2026/04/24/bespoke-data-center-buildings-proposed-near-tysons-residences/",
+    "t": "The buildings would stand 107 to 131 feet from the Reserve at Tysons Corner apartments and the Heritage Point townhouses that back onto the site."
+   },
+   {
+    "para": 2,
+    "src": "https://wtop.com/fairfax-county/2026/08/tysons-vienna-cloud-data-center-project-seeks-exceptions-to-fairfax-co-rules/",
+    "t": "What Serverfarm has asked for since is to be let out of three of the rules."
+   },
+   {
+    "para": 2,
+    "src": "https://wtop.com/fairfax-county/2026/08/tysons-vienna-cloud-data-center-project-seeks-exceptions-to-fairfax-co-rules/",
+    "t": "The ordinance requires a data center to sit at least a mile from a Metro station entrance, and the site is 0.9 miles from Tysons Corner."
+   },
+   {
+    "para": 2,
+    "src": "https://wtop.com/fairfax-county/2026/08/tysons-vienna-cloud-data-center-project-seeks-exceptions-to-fairfax-co-rules/",
+    "t": "It asks to raise the first building from 80,256 to 95,014 square feet and the second from 202,500 to 221,214, and the site does not meet the 200 foot residential buffer either."
+   },
+   {
+    "para": 3,
+    "src": "https://wtop.com/fairfax-county/2026/08/tysons-vienna-cloud-data-center-project-seeks-exceptions-to-fairfax-co-rules/",
+    "t": "Renee Grebe, the Northern Virginia conservation advocate for Nature Forward, said what a grant of those exceptions would mean: \"If this gets passed, then I think it demonstrates that our zoning ordinance amendment is not as strong as it was touted to be by our board of supervisors.\""
+   },
+   {
+    "para": 3,
+    "src": "https://wtop.com/fairfax-county/2026/08/tysons-vienna-cloud-data-center-project-seeks-exceptions-to-fairfax-co-rules/",
+    "t": "She pointed to round the clock noise and 28 diesel generators beside homes and sports facilities, against a comprehensive plan that calls for an active 24 hour environment of restaurants and shops."
+   },
+   {
+    "para": 3,
+    "src": "https://wtop.com/fairfax-county/2026/08/tysons-vienna-cloud-data-center-project-seeks-exceptions-to-fairfax-co-rules/",
+    "t": "The planning commission set a public hearing for November 18, and supervisor Dalia Palchik said a community meeting would be arranged before it."
+   }
+  ],
+  "sources": [
+   "https://www.fairfaxcounty.gov/planning-development/data-centers",
+   "https://www.ffxnow.com/2026/04/24/bespoke-data-center-buildings-proposed-near-tysons-residences/",
+   "https://wtop.com/fairfax-county/2026/08/tysons-vienna-cloud-data-center-project-seeks-exceptions-to-fairfax-co-rules/"
+  ],
+  "unconfirmed": "Who operates the existing building at 1764A Old Meadow Lane, how big it is, what it draws and when it was built could not be established. Searches on the company name, on the street and on Fairfax County's data center reporting turned up a tracker listing and no news coverage of that building at all, so nothing above describes it. The Fairfax County planning report the record cites is a PDF that was not opened. The two accounts of the buildings differ: FFXnow in April 2026 described a 316,228 square foot conversion up to 67 feet tall on 14.4 acres, while WTOP in August gives the two buildings separately at 95,014 and 221,214 square feet after the requested increases. The generator count of 28 is Nature Forward's figure, not the county's or the company's. The outcome of the 18 November planning commission hearing is not yet reported. Searches this pass: 'Serverfarm \"Vienna Cloud\" Quantum Drive Tysons Fairfax County data center application 2026 decision'. Correction, made after this page was first published: it carried the date the county accepted the application for review, 4 May 2026, sourced to the WTOP report. That date is not in the WTOP article; it came from a search-result summary and could not be stood up in any source read, so it has been removed. The same sentence appeared on the Valo Park entry and was removed there too. Renee Grebe's quotation was also published with its final clause, \"by our board of supervisors\", cut without an ellipsis; it is restored in full above. Both faults came from sourcing a fact out of a WebFetch summary rather than the article: WebFetch returns a small model's account of the page, not the page."
+ },
+ {
+  "id": "ft-780",
+  "sentences": [
+   {
+    "para": 0,
+    "src": "https://www.whro.org/business-growth/2026-05-22/virginia-beach-approved-800k-to-expand-a-local-data-center-heres-what-it-will-do",
+    "t": "This is where the internet comes ashore: Globalinx runs a cable landing station and data center in the Corporate Landing Business Park at Virginia Beach."
+   },
+   {
+    "para": 0,
+    "src": "https://www.whro.org/business-growth/2026-05-22/virginia-beach-approved-800k-to-expand-a-local-data-center-heres-what-it-will-do",
+    "t": "Three subsea cables reach land there, a Google cable to France, a cable to Spain owned by Facebook, Microsoft and Telxius, and a Telxius cable to Puerto Rico and Brazil, and the building turns the light coming off them into something internet providers like Verizon and Cox can use."
+   },
+   {
+    "para": 0,
+    "src": "data:capacity_mw",
+    "t": "The entry puts the site at 1632 Corporate Landing Parkway, on 16 acres, at 25 megawatts, operating and expanding."
+   },
+   {
+    "para": 1,
+    "src": "https://www.whro.org/business-growth/2026-05-22/virginia-beach-approved-800k-to-expand-a-local-data-center-heres-what-it-will-do",
+    "t": "On May 12, 2026 the Virginia Beach Development Authority approved an $800,000 grant toward an expansion the company costs at $34.5 million, which would create 16 jobs, open by the end of 2027 and take four more cables."
+   },
+   {
+    "para": 1,
+    "src": "https://www.whro.org/business-growth/2026-05-22/virginia-beach-approved-800k-to-expand-a-local-data-center-heres-what-it-will-do",
+    "t": "The city is paying on delivery."
+   },
+   {
+    "para": 1,
+    "src": "https://www.whro.org/business-growth/2026-05-22/virginia-beach-approved-800k-to-expand-a-local-data-center-heres-what-it-will-do",
+    "t": "A city spokesperson, Ali Weatherton-Shook, said: \"Globalinx must first deliver the anticipated jobs and capital investment before any portion of the $800,000 award is released. Payments are made only after verified performance.\""
+   },
+   {
+    "para": 1,
+    "src": "https://www.whro.org/business-growth/2026-05-22/virginia-beach-approved-800k-to-expand-a-local-data-center-heres-what-it-will-do",
+    "t": "Chris St Claire, the company's chief operations officer, explained the traffic growth in domestic terms: \"Now, if we're on Teams with an international group of colleagues, for example, we want it in 4K.\""
+   },
+   {
+    "para": 1,
+    "src": "https://www.whro.org/business-growth/2026-05-22/virginia-beach-approved-800k-to-expand-a-local-data-center-heres-what-it-will-do",
+    "t": "He put the scale of it simply: \"It is literally anything that goes between countries, 95% of it goes through subsea cables.\""
+   },
+   {
+    "para": 2,
+    "src": "https://www.whro.org/business-growth/2026-05-22/virginia-beach-approved-800k-to-expand-a-local-data-center-heres-what-it-will-do",
+    "t": "St Claire also drew the distinction that matters for anyone who has been reading about the gigawatt campuses."
+   },
+   {
+    "para": 2,
+    "src": "https://www.whro.org/business-growth/2026-05-22/virginia-beach-approved-800k-to-expand-a-local-data-center-heres-what-it-will-do",
+    "t": "Cable landing stations, he said, are \"smaller, quieter and use less water and energy\" than AI data centers."
+   }
+  ],
+  "sources": [
+   "https://www.whro.org/business-growth/2026-05-22/virginia-beach-approved-800k-to-expand-a-local-data-center-heres-what-it-will-do"
+  ],
+  "unconfirmed": "The acreage in our record, 16 acres, does not match the roughly 11 acres and the separate 9 acre purchase described in trade coverage that would not open, and which parcel our entry refers to was not resolved. No water figure is published. The Data Center Dynamics report in our record refuses requests. The report is dated May 22, 2026 and puts the development authority vote on May 12. The record carries this site at 25 megawatts."
+ },
+ {
+  "id": "ft-787",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The second data center in Virginia Beach is a kilometre from the first: the cable landing station run by Telxius at 1900 Corporate Landing Parkway.",
+    "src": "https://www.submarinenetworks.com/en/stations/north-america/usa-east/virginia-beach-cls"
+   },
+   {
+    "para": 0,
+    "t": "MAREA, the 160 terabit cable Microsoft and Facebook built with Telxius, lands here, and so does BRUSA, Telxius's own cable to Brazil.",
+    "src": "https://www.submarinenetworks.com/en/stations/north-america/usa-east/virginia-beach-cls"
+   },
+   {
+    "para": 0,
+    "t": "Google's Dunant cable, which runs to France, lands at the Telxius facility too.",
+    "src": "https://www.submarinenetworks.com/en/stations/north-america/usa-east/virginia-beach-cls"
+   },
+   {
+    "para": 0,
+    "t": "A separate company, ACA International, bought 10 acres in the same business park to build its own landing station and data center for the SAEx1 cable.",
+    "src": "https://www.submarinenetworks.com/en/stations/north-america/usa-east/virginia-beach-cls"
+   },
+   {
+    "para": 1,
+    "t": "The accounts of the two buildings do not separate cleanly.",
+    "src": "https://www.whro.org/business-growth/2026-05-22/virginia-beach-approved-800k-to-expand-a-local-data-center-heres-what-it-will-do"
+   },
+   {
+    "para": 1,
+    "t": "Public radio station WHRO, writing in May 2026 about the expansion at the Globalinx site, described the same three cables as running from that facility.",
+    "src": "https://www.whro.org/business-growth/2026-05-22/virginia-beach-approved-800k-to-expand-a-local-data-center-heres-what-it-will-do"
+   }
+  ],
+  "sources": [
+   "https://www.submarinenetworks.com/en/stations/north-america/usa-east/virginia-beach-cls",
+   "https://www.whro.org/business-growth/2026-05-22/virginia-beach-approved-800k-to-expand-a-local-data-center-heres-what-it-will-do"
+  ],
+  "unconfirmed": "No power draw, floor area or employment figure was established for the Telxius station, and our record holds none. Which of the two adjacent buildings each cable actually terminates in is not clear from the sources. The Baxtel listing in our record was not fetched. This pass removed sentences describing our own record and the neighbouring-project and power plant filler; no new search was spent."
+ },
+ {
+  "id": "ft-1064",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CyrusOne holds 48 acres on Vint Hill Parkway at Warrenton, in Fauquier County, for a proposed data center, with no capacity or square footage published.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Much of what happens at Vint Hill does not require a public hearing.",
+    "src": "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+   },
+   {
+    "para": 1,
+    "t": "The Piedmont Environmental Council notes that the Vint Hill Planned Commercial Industrial District permits 1.3 million square feet of data center development by right, with no additional public review.",
+    "src": "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+   },
+   {
+    "para": 1,
+    "t": "One data center already operates at Vint Hill, an 80,000 square foot OVHcloud building, and the county's other operating facility is at the Warrenton Training Center.",
+    "src": "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+   },
+   {
+    "para": 2,
+    "t": "Fauquier is carrying a heavy pipeline behind those two.",
+    "src": "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+   },
+   {
+    "para": 2,
+    "t": "Approved but unbuilt are a 220,000 square foot Amazon building on Blackwell Road in Warrenton and the 1,286,000 square foot Remington Technology Park.",
+    "src": "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+   },
+   {
+    "para": 2,
+    "t": "Proposed in southern Fauquier are Convergent Technology Park, 1.07 million square feet in four buildings each at least 65 feet tall, accepted for review on August 20, 2024; Gigaland, 2.8 million square feet in ten buildings on about 200 acres, accepted on July 30, 2024 and needing both a rezoning and a comprehensive plan amendment; and SAMX, about 1 million square feet in two 45 foot buildings on 55 acres.",
+    "src": "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+   },
+   {
+    "para": 2,
+    "t": "The Catlett project, 1.4 million square feet in three to five buildings on more than 60 acres, was withdrawn in July 2024.",
+    "src": "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+   },
+   {
+    "para": 3,
+    "t": "The council's objection is arithmetic rather than sentiment.",
+    "src": "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+   },
+   {
+    "para": 3,
+    "t": "It says the generation already in the county, Marsh Run at 513 megawatts, the Remington peaking plant at 608 and a 20 megawatt Dominion solar plant, is already maxed out, and that four proposed rezonings would double the expected data center load and take the power of more than 500,000 homes, far exceeding the county's current demand.",
+    "src": "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+   },
+   {
+    "para": 3,
+    "t": "Dominion has asked for two new substations at Remington to serve complexes needing over 400 megawatts.",
+    "src": "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+   }
+  ],
+  "sources": [
+   "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+  ],
+  "unconfirmed": "The building count, square footage, power draw and construction schedule for the CyrusOne parcel were not established in any source we could read; reports of a four building, 870,000 square foot campus and of a county grandfathering provision appear only in trade coverage and in the Fauquier local papers, all of which refused our requests. No hearing date is known. Trimmed (backward session, remaining-fails pass): removed the record and sourcing lines."
+ },
+ {
+  "id": "ft-974",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The data center at 6872 Watson Court in Vint Hill, near Warrenton in Fauquier County, is OVHcloud's first U.S. facility: the French cloud company paid investor Rajai Zumot $4.8 million for the bunker-like single-story building in October 2016 and opened it on the former Army base in 2017.",
+    "src": "https://www.fauquiernow.com/news/data-center-database-where-projects-stand-across-fauquier-county/article_18be50e8-49f6-11ef-95cf-3b45407fea55.html"
+   },
+   {
+    "para": 0,
+    "t": "The 84,200 square foot building stands with four smaller structures on an 8.6 acre parcel, and OVHcloud plans a second building of 120,000 square feet on 10.81 acres it bought nearby.",
+    "src": "https://www.fauquiernow.com/news/data-center-database-where-projects-stand-across-fauquier-county/article_18be50e8-49f6-11ef-95cf-3b45407fea55.html"
+   },
+   {
+    "para": 1,
+    "t": "The Board of Supervisors later voted 3 to 2 to require a special exception permit, with public comment, for any data center building or group of buildings over 50,000 square feet in Vint Hill's Planned Commercial Industrial District, ending building by right, though the change does not reach the OVHcloud expansion already under way.",
+    "src": "https://www.datacenterdynamics.com/en/news/fauquier-county-passes-zoning-rules-limiting-large-data-centers-at-vint-hill-virginia/"
+   },
+   {
+    "para": 1,
+    "t": "Supervisor Ike Broaddus, who voted for it, said OVH had \"proven itself to be a quiet neighbor.\"",
+    "src": "https://www.datacenterdynamics.com/en/news/fauquier-county-passes-zoning-rules-limiting-large-data-centers-at-vint-hill-virginia/"
+   },
+   {
+    "para": 2,
+    "t": "Expanding here does not necessarily mean a hearing.",
+    "src": "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+   },
+   {
+    "para": 2,
+    "t": "The Vint Hill Planned Commercial Industrial District allows 1.3 million square feet of data center development by right, without any further public hearing or review by the county board of supervisors.",
+    "src": "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+   },
+   {
+    "para": 2,
+    "t": "For anyone living near Watson Court, whether more gets built alongside them may already have been settled.",
+    "src": "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+   }
+  ],
+  "sources": [
+   "https://www.fauquiernow.com/news/data-center-database-where-projects-stand-across-fauquier-county/article_18be50e8-49f6-11ef-95cf-3b45407fea55.html",
+   "https://www.datacenterdynamics.com/en/news/fauquier-county-passes-zoning-rules-limiting-large-data-centers-at-vint-hill-virginia/",
+   "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+  ],
+  "unconfirmed": "The record files the site under DATA CENTER VINT HILL LLC; FauquierNow identifies 6872 Watson Court as the OVHcloud data center. FauquierNow gives an 8.6 acre parcel; the record says nine acres. Whether the 120,000 square foot expansion has been built is not reported; in August 2024 FauquierNow said there had been no recent update on OVH's application. DCD dates the zoning vote March 15 without a year; FauquierNow's August 2024 account of a March zoning amendment points to 2024. This pass removed sentences describing our own record. Search run: \"Vint Hill data center Fauquier County 2026 Aiken Drive Watson Court OVHcloud expansion\". Fixed (backward session, remaining-fails pass): removed a record comparison and a broken final sentence."
+ },
+ {
+  "id": "ft-711",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Vint Hill Corners LLC, which owns about 80 acres on Brookside Parkway, proposes one or two data center buildings of up to two stories on about 50 acres at 4295 Aiken Drive in Vint Hill, near Warrenton in Fauquier County.",
+    "src": "https://www.fauquiernow.com/news/data-center-database-where-projects-stand-across-fauquier-county/article_18be50e8-49f6-11ef-95cf-3b45407fea55.html"
+   },
+   {
+    "para": 0,
+    "t": "The land is partly developed and partly heavy woods with wetlands, some of which the developers propose to remove, and storm, sewer and water lines would have to be moved.",
+    "src": "https://www.fauquiernow.com/news/data-center-database-where-projects-stand-across-fauquier-county/article_18be50e8-49f6-11ef-95cf-3b45407fea55.html"
+   },
+   {
+    "para": 1,
+    "t": "County staff asked for landscaping and buffering on the busy street frontages, saying \"they will need unique designs to ensure the project works towards meeting the goals and vision of Vint Hill and is also compatible with the surrounding properties.\"",
+    "src": "https://www.fauquiernow.com/news/data-center-database-where-projects-stand-across-fauquier-county/article_18be50e8-49f6-11ef-95cf-3b45407fea55.html"
+   },
+   {
+    "para": 1,
+    "t": "Left out of the grandfathering clause in the supervisors' March zoning amendment, the project was added in their May revisions, so it remains a by-right use that needs no special exception.",
+    "src": "https://www.fauquiernow.com/news/data-center-database-where-projects-stand-across-fauquier-county/article_18be50e8-49f6-11ef-95cf-3b45407fea55.html"
+   },
+   {
+    "para": 1,
+    "t": "In August 2024 the county was still waiting for its site plan.",
+    "src": "https://www.fauquiernow.com/news/data-center-database-where-projects-stand-across-fauquier-county/article_18be50e8-49f6-11ef-95cf-3b45407fea55.html"
+   },
+   {
+    "para": 2,
+    "t": "The Vint Hill Planned Commercial Industrial District permits 1.3 million square feet of data center development by right, so a project there can travel a long way through a permit portal without ever reaching a public hearing.",
+    "src": "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+   },
+   {
+    "para": 2,
+    "t": "The Piedmont Environmental Council's recommendation for the county is to build out only what is already permitted by right and approved, and to approve nothing further while the state works on its rules.",
+    "src": "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+   }
+  ],
+  "sources": [
+   "https://www.fauquiernow.com/news/data-center-database-where-projects-stand-across-fauquier-county/article_18be50e8-49f6-11ef-95cf-3b45407fea55.html",
+   "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+  ],
+  "unconfirmed": "No operator behind the LLC, capacity or power figure has been reported, and whether a site plan was filed after August 2024 was not found. The record gives 46 acres; FauquierNow gives about 50 acres of an 80 acre holding. Both record sources are session links into the county permit portal that do not open outside it. This pass removed sentences describing our own record. Search run: \"Vint Hill data center Fauquier County 2026 Aiken Drive Watson Court OVHcloud expansion\". Fixed (backward session, remaining-fails pass): removed a broken final sentence."
+ },
+ {
+  "id": "ft-1003",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Maple Tree Farm is a farm being offered as a data center site.",
+    "src": "https://www.pecva.org/region/fauquier/more-data-center-news-in-warrenton/"
+   },
+   {
+    "para": 0,
+    "t": "It lies just east of Warrenton, in Fauquier County, and as of early 2023 the landowner had asked for the property to be taken into the town.",
+    "src": "https://www.pecva.org/region/fauquier/more-data-center-news-in-warrenton/"
+   },
+   {
+    "para": 0,
+    "t": "If that boundary adjustment goes through, the Piedmont Environmental Council says the owner intends to seek a rezoning and a special use permit to build data centers on it.",
+    "src": "https://www.pecva.org/region/fauquier/more-data-center-news-in-warrenton/"
+   },
+   {
+    "para": 0,
+    "t": "The farm is at 8275 Maple Tree Lane and covers 43 acres.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The reason the town boundary matters is what happened the last time Warrenton let one in.",
+    "src": "https://www.pecva.org/region/fauquier/more-data-center-news-in-warrenton/"
+   },
+   {
+    "para": 1,
+    "t": "The town council approved a special use permit for an Amazon data center on Blackwell Road by four votes to three.",
+    "src": "https://www.pecva.org/region/fauquier/more-data-center-news-in-warrenton/"
+   },
+   {
+    "para": 1,
+    "t": "By March 14, 2023 residents were telling the council that trees had been cleared without a land disturbance permit, that access had been taken from Routes 17 and 29 in breach of condition 12 of the permit, that condition 19 required a tree preservation plan at site plan stage and that the plan had not been updated for Dominion's off-site substation, and that the felling had been done before April 1 to get round a VDOT restriction protecting northern long-eared bats.",
+    "src": "https://www.pecva.org/region/fauquier/more-data-center-news-in-warrenton/"
+   },
+   {
+    "para": 1,
+    "t": "Dominion's preferred substation site, 615 Falmouth Street, known locally as the Old Wire Factory, is another parcel whose owner has advertised it for data center development.",
+    "src": "https://www.pecva.org/region/fauquier/more-data-center-news-in-warrenton/"
+   },
+   {
+    "para": 1,
+    "t": "Warrenton has since banned data centers outright, from July 1, 2025.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.pecva.org/region/fauquier/more-data-center-news-in-warrenton/",
+   "https://www.pecva.org/region/fauquier/update-on-data-center-development-and-transmission-lines-in-fauquier/"
+  ],
+  "unconfirmed": "Three searches were run on this site: the farm name with Warrenton, the farm name with Fauquier and \"rezoning application\", and the county with \"data center\" and the street. The commercial listing and the Fauquier Times report that describe a 145 acre holding, a conceptual plan of six buildings and a substation on 60 acres, and the scenic byway rule that may block it, all refused requests, so none of that is carried here. Our 43 acres may be one parcel of a larger holding. No application has been reported as filed. Trimmed (backward session, remaining-fails pass): removed the record wording and the neighbour list."
+ },
+ {
+  "id": "ft-967",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "DP Facilities' Mineral Gap data center is a 65,000 square foot, $65 million Tier III building on 22 acres of the Lonesome Pine Business and Technology Park in Wise County, Virginia.",
+    "src": "https://www.datacenterdynamics.com/en/news/dp-facilities-opens-65m-data-center-in-virginia/"
+   },
+   {
+    "para": 0,
+    "t": "Announced in 2015, it opened with up to 15 megawatts of power, N+2 redundancy and electricity at around 6 cents a kilowatt hour, aimed at federal and state agencies as well as businesses.",
+    "src": "https://www.datacenterdynamics.com/en/news/dp-facilities-opens-65m-data-center-in-virginia/"
+   },
+   {
+    "para": 0,
+    "t": "Its solar array, built by Sun Tribe, was the first solar project in Virginia built on abandoned mine land, with federal and state support through the Interior Department and the Virginia Department of Mines, Minerals and Energy.",
+    "src": "https://suntribesolar.com/case-study/mineral-gap-solar-to-rural-communities/"
+   },
+   {
+    "para": 1,
+    "t": "Later phases would add more than 200,000 square feet across over 50 acres of adjacent land held under option.",
+    "src": "https://www.dpfacilities.com/markets/wise-va/"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/dp-facilities-opens-65m-data-center-in-virginia/",
+   "https://suntribesolar.com/case-study/mineral-gap-solar-to-rural-communities/",
+   "https://www.dpfacilities.com/markets/wise-va/"
+  ],
+  "unconfirmed": "Power: 15 MW in DCD's opening report; a directory lists 45 MW available. The opening year is not stated in the DCD report read (completed \"late last year\"). Whether the expansion phases have begun is unknown. WJHL's report returned 403. This pass removed a sentence describing our own record and the filler. Search run: \"Mineral Gap data center Wise County DP Facilities expansion 2025 2026\". Mark Gerard's statement is paraphrased because its wording trips the site's hype filter. Trimmed (backward session, company-voice pass): removed the security equipment list and the opening-day promises. Left short."
+ },
+ {
+  "id": "ft-1786996756851-2319",
+  "sentences": [
+   {
+    "para": 0,
+    "src": "https://www.spokesman.com/stories/2026/aug/05/cle-elum-passed-a-data-center-ban-one-might-be-bui/",
+    "t": "Cle Elum banned data centers days after one was proposed, and it may get that one anyway."
+   },
+   {
+    "para": 0,
+    "src": "data:address",
+    "t": "Blue Fern Development wants a 100,000 square foot data center off Saddleback Drive at Cle Elum, in Kittitas County, Washington."
+   },
+   {
+    "para": 0,
+    "src": "https://www.spokesman.com/stories/2026/aug/05/cle-elum-passed-a-data-center-ban-one-might-be-bui/",
+    "t": "The company calls it a relatively small research sized data center, near Interstate 90 inside a residential and commercial development already under construction, drawing about 20 megawatts, employing 20 to 40 people full time, at a cost of roughly $200 million."
+   },
+   {
+    "para": 0,
+    "src": "https://www.spokesman.com/stories/2026/aug/05/cle-elum-passed-a-data-center-ban-one-might-be-bui/",
+    "t": "It says water use would be about 80,000 gallons in the first year, with closed loop cooling recirculating the same liquid afterwards."
+   },
+   {
+    "para": 0,
+    "src": "data:capacity_mw",
+    "t": "The record carries 20 megawatts and 75 acres."
+   },
+   {
+    "para": 1,
+    "src": "https://www.spokesman.com/stories/2026/aug/05/cle-elum-passed-a-data-center-ban-one-might-be-bui/",
+    "t": "The city council voted unanimously for the moratorium on the Friday before the report, with a public hearing set for September 8."
+   },
+   {
+    "para": 1,
+    "src": "https://www.spokesman.com/stories/2026/aug/05/cle-elum-passed-a-data-center-ban-one-might-be-bui/",
+    "t": "The obstacle is a development agreement that already covers the land."
+   },
+   {
+    "para": 1,
+    "src": "https://www.spokesman.com/stories/2026/aug/05/cle-elum-passed-a-data-center-ban-one-might-be-bui/",
+    "t": "The city has to decide whether a data center counts as a commercial or industrial use already permitted under it, in which case the moratorium does not reach this project."
+   },
+   {
+    "para": 1,
+    "src": "https://www.spokesman.com/stories/2026/aug/05/cle-elum-passed-a-data-center-ban-one-might-be-bui/",
+    "t": "Councilmember Steven Harper called the moratorium \"not a magical Band-Aid\" and said \"I don't want to create an illusion\" that \"this addresses the concerns that I'm hearing many from the public.\""
+   },
+   {
+    "para": 1,
+    "src": "https://www.spokesman.com/stories/2026/aug/05/cle-elum-passed-a-data-center-ban-one-might-be-bui/",
+    "t": "Councilmember Beth Williams said the council needed to find out \"if the statements that were made by Blue Fern are accurate and what are the true realities of a facility that they were describing.\""
+   }
+  ],
+  "sources": [
+   "https://www.spokesman.com/stories/2026/aug/05/cle-elum-passed-a-data-center-ban-one-might-be-bui/"
+  ],
+  "unconfirmed": "The outcome of the September 8 hearing and of the city's reading of the development agreement are not known. The report gives neither the length of the moratorium nor a calendar date for the vote, only that it was a Friday, and it does not give the year of the development agreement, so the six month length and the 2002 date previously carried here have come out. Our 75 acres is not matched by any figure in the reporting, which gives only the building's 100,000 square feet. No tenant is named, and the 80,000 gallon first year water figure is the developer's own and has not been independently checked. The record links a change.org petition against the build."
+ }
+]

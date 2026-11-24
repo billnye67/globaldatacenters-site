@@ -1,0 +1,786 @@
+[
+ {
+  "id": "ft-660",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "King George County has approved one of the larger single sites in Virginia outside the Ashburn corridor.",
+    "src": "https://baxtel.com/data-center/oasis-digital-dahlgren-west-campus"
+   },
+   {
+    "para": 0,
+    "t": "The Oasis Digital campus covers 485 acres on the north side of James Madison Parkway near Dahlgren, with ten data center buildings and 6.8 million square feet planned, and a year planned of 2028.",
+    "src": "https://baxtel.com/data-center/oasis-digital-dahlgren-west-campus"
+   },
+   {
+    "para": 0,
+    "t": "The record carries the 485 acres, marks it under construction and puts it at 1,200 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The figures given for the county are 1,500 construction jobs, 50 to 60 permanent jobs per building once running, and $100 million to $120 million a year in tax.",
+    "src": "https://baxtel.com/data-center/oasis-digital-dahlgren-west-campus"
+   },
+   {
+    "para": 1,
+    "t": "The land was assembled and pitched separately, under the name Dahlgren West.",
+    "src": "https://dahlgrenwest.com/"
+   },
+   {
+    "para": 1,
+    "t": "That project describes about 500 acres beside Route 301, zoned for a mix of commercial and industrial uses and formally designated a Technology District by the county.",
+    "src": "https://dahlgrenwest.com/"
+   },
+   {
+    "para": 1,
+    "t": "Its team held community meetings at the University of Mary Washington on April 17, 2024 and at the L.E. Smoot Library on October 30, 2024, and then submitted an application, after what it called over a year of conversations with residents, community leaders and stakeholders.",
+    "src": "https://dahlgrenwest.com/"
+   },
+   {
+    "para": 1,
+    "t": "It gives the same fiscal figure, about $100 million to $120 million a year at full build.",
+    "src": "https://dahlgrenwest.com/"
+   },
+   {
+    "para": 1,
+    "t": "The record holds Dahlgren West as a separate entry at the same coordinates as this one.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Four data center sites are counted in King George County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "TeraWulf's Chesapeake Data site is 13 kilometres away, a Green Energy Ventures proposal 17, an AWS site at Birchwood that the record marks on hold 19, and the Forest Lane project 25.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generation is the 108 megawatt Morgantown plant 13 kilometres off, then Possum Point at 645 megawatts 29 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "No moratorium applies in King George; the nearest rules are Fairfax County's from September 13, 2024 and Prince William County's from March 4, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/data-center/oasis-digital-dahlgren-west-campus",
+   "https://dahlgrenwest.com/"
+  ],
+  "unconfirmed": "The date of the county approval, the vote and any public comment were not established from a page we could read; the Data Center Dynamics report our record cites refuses our requests. Water supply and cooling are not described anywhere we found, and no tenant is named. Our 1,200 megawatt figure appears in the trade press but not in the developer's own material."
+ },
+ {
+  "id": "ft-1066",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Dahlgren West is about 500 acres of land beside James Madison Parkway, which is Route 301, in King George County, put forward for data centers.",
+    "src": "https://dahlgrenwest.com/"
+   },
+   {
+    "para": 0,
+    "t": "It is zoned for a mix of uses including commercial and industrial, and King George County has formally designated it a Technology District.",
+    "src": "https://dahlgrenwest.com/"
+   },
+   {
+    "para": 0,
+    "t": "Its team ran community meetings at the University of Mary Washington on April 17, 2024 and at the L.E. Smoot Library on October 30, 2024, then filed an application, after what it describes as more than a year of conversations.",
+    "src": "https://dahlgrenwest.com/"
+   },
+   {
+    "para": 0,
+    "t": "It puts the fiscal effect at roughly $100 million to $120 million a year in real estate and personal property tax at full build.",
+    "src": "https://dahlgrenwest.com/"
+   },
+   {
+    "para": 0,
+    "t": "The site does not name a developer or mention Oasis.",
+    "src": "https://dahlgrenwest.com/"
+   },
+   {
+    "para": 1,
+    "t": "The campus that has since been approved on that ground is Oasis Digital's.",
+    "src": "https://baxtel.com/data-center/oasis-digital-dahlgren-west-campus"
+   },
+   {
+    "para": 1,
+    "t": "It is recorded at 485 acres on the north side of James Madison Parkway, ten buildings, 6.8 million square feet, a year planned of 2028, 1,500 construction jobs and 50 to 60 permanent jobs per building, with the same $100 million to $120 million a year in tax.",
+    "src": "https://baxtel.com/data-center/oasis-digital-dahlgren-west-campus"
+   },
+   {
+    "para": 1,
+    "t": "The entry gives Dahlgren West 156 acres and no capacity figure, and Oasis 485 acres and 1,200 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The record holds Dahlgren West and the Oasis Data Center as two separate projects at the same coordinates.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Four data center sites are counted in King George County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "TeraWulf's Chesapeake Data site is 13 kilometres away, a Green Energy Ventures proposal 17, AWS at Birchwood 19 and the Forest Lane project 24.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The 108 megawatt Morgantown plant is 13 kilometres off and the 645 megawatt Possum Point station 29.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "King George County has written no moratorium and no zoning limit on data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://dahlgrenwest.com/",
+   "https://baxtel.com/data-center/oasis-digital-dahlgren-west-campus"
+  ],
+  "unconfirmed": "The developer behind Dahlgren West is not named on its own site, which never mentions Oasis, and its relationship to Oasis Digital Properties could not be established; whether these are one project counted twice, or a master plan with one campus inside it, our own data does not say. The 156 acres in our record matches nothing published. The date the application was filed, and what the county has decided about it, were not established."
+ },
+ {
+  "id": "ft-655",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Fredericksburg's city council refused this one twice over, in the early hours of Wednesday, August 26, 2026.",
+    "src": "https://www.potomaclocal.com/2026/08/26/no-byte-tonight-fred-council-unplugs-23m-i-95-data-center-7-0-after-midnight-hearing/"
+   },
+   {
+    "para": 0,
+    "t": "It voted 7 to 0 to deny the rezoning that would have put two data center buildings on the 84 acre Hylton tract at 1500 Gateway Boulevard beside Interstate 95, then 7 to 0 again to deny the special use permit that would have raised them from 50 feet to 75.",
+    "src": "https://www.potomaclocal.com/2026/08/26/no-byte-tonight-fred-council-unplugs-23m-i-95-data-center-7-0-after-midnight-hearing/"
+   },
+   {
+    "para": 0,
+    "t": "The developer was Penzance, through an affiliate called 1500 Gateway LLC.",
+    "src": "https://www.potomaclocal.com/2026/08/26/no-byte-tonight-fred-council-unplugs-23m-i-95-data-center-7-0-after-midnight-hearing/"
+   },
+   {
+    "para": 0,
+    "t": "The record now marks the project blocked, and holds no capacity figure.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "The application that went before the council had already been cut down.",
+    "src": "https://www.potomaclocal.com/2026/08/26/no-byte-tonight-fred-council-unplugs-23m-i-95-data-center-7-0-after-midnight-hearing/"
+   },
+   {
+    "para": 1,
+    "t": "It was two buildings of about a million square feet, down from four and about two million; the generators had been turned to face the interstate; 44 percent of the site was to be left open; and the buildings were to be air cooled, with water limited to about 2,700 gallons a day for washrooms and fire suppression.",
+    "src": "https://www.potomaclocal.com/2026/08/26/no-byte-tonight-fred-council-unplugs-23m-i-95-data-center-7-0-after-midnight-hearing/"
+   },
+   {
+    "para": 1,
+    "t": "Penzance raised its cash proffers to just over $40 million and signed a project labour agreement guaranteeing union construction.",
+    "src": "https://www.potomaclocal.com/2026/08/26/no-byte-tonight-fred-council-unplugs-23m-i-95-data-center-7-0-after-midnight-hearing/"
+   },
+   {
+    "para": 1,
+    "t": "Its attorney, Charlie Payne, said: \"I've never seen proffers of this nature in any data center industrial project, period.\"",
+    "src": "https://www.potomaclocal.com/2026/08/26/no-byte-tonight-fred-council-unplugs-23m-i-95-data-center-7-0-after-midnight-hearing/"
+   },
+   {
+    "para": 2,
+    "t": "It did not turn on the money.",
+    "src": "https://www.potomaclocal.com/2026/08/26/no-byte-tonight-fred-council-unplugs-23m-i-95-data-center-7-0-after-midnight-hearing/"
+   },
+   {
+    "para": 2,
+    "t": "Councillors pointed to the Technology Overlay District the city adopted after a seven month public process, which confines data center development to about 3.8 percent of the city, near Celebrate Virginia South and the ballpark.",
+    "src": "https://www.potomaclocal.com/2026/08/26/no-byte-tonight-fred-council-unplugs-23m-i-95-data-center-7-0-after-midnight-hearing/"
+   },
+   {
+    "para": 2,
+    "t": "Mayor Kerry Devine said development pressure on the Hylton tract is still on the table.",
+    "src": "https://www.potomaclocal.com/2026/08/26/no-byte-tonight-fred-council-unplugs-23m-i-95-data-center-7-0-after-midnight-hearing/"
+   },
+   {
+    "para": 2,
+    "t": "The hearing ran past midnight and adjourned at about a quarter to one, with 51 speakers and 49 letters read into the record, against six speakers at the planning commission hearing in July 2025 and 51 at the December one.",
+    "src": "https://www.potomaclocal.com/2026/08/26/no-byte-tonight-fred-council-unplugs-23m-i-95-data-center-7-0-after-midnight-hearing/"
+   },
+   {
+    "para": 2,
+    "t": "The planning commission had recommended refusal both times.",
+    "src": "https://www.potomaclocal.com/2026/08/26/no-byte-tonight-fred-council-unplugs-23m-i-95-data-center-7-0-after-midnight-hearing/"
+   },
+   {
+    "para": 2,
+    "t": "Vice Mayor Chuck Frye, a Teamsters member, said the construction workers' concerns about union jobs were real, and urged his colleagues to apply the lessons of the project labour agreement to other city work.",
+    "src": "https://www.potomaclocal.com/2026/08/26/no-byte-tonight-fred-council-unplugs-23m-i-95-data-center-7-0-after-midnight-hearing/"
+   },
+   {
+    "para": 3,
+    "t": "Two data center sites are counted in the city of Fredericksburg.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "STACK's Gordon Shelton site is three kilometres away, the Blaisdell Property proposal four, PowerHouse 95 eight, and the Enon Road and Cranes Corner projects in Stafford nine and ten.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 814 megawatt Ladysmith gas plant is 25 kilometres off, with three solar farms at the same distance.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.fredericksburgfreepress.com/2026/08/26/city-council-votes-down-1500-gateway-data-center-project/",
+   "https://www.potomaclocal.com/2026/08/26/no-byte-tonight-fred-council-unplugs-23m-i-95-data-center-7-0-after-midnight-hearing/"
+  ],
+  "unconfirmed": "The Fredericksburg Free Press report this page was first built on now returns 404, so the account here has been rebuilt from Potomac Local's report of the same meeting, and a remark attributed to Mayor Devine about democracy being alive and well in the city could not be re-verified and has come out. No megawatt figure was published and our record holds none. The two reports differ on the developer's home state, Maryland against Virginia, and on the union construction jobs the scheme would have created, 720 to 1,400 against more than 2,800. Whether Penzance will file again is unknown."
+ },
+ {
+  "id": "ft-748",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A data center called Sisson North is recorded at 1301 Kings Highway in Stafford County, on 106 acres, with no developer and no capacity figure.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The entry gives two sources for it, a file-sharing link and the county assessor's page, neither of which would open.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Project Sisson is a Peterson Companies scheme off Kings Highway near Albion Lane, and it is one of two the firm has on that road.",
+    "src": "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+   },
+   {
+    "para": 1,
+    "t": "The other is bigger and better documented.",
+    "src": "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+   },
+   {
+    "para": 1,
+    "t": "Real Estate Pursuits 2 LC, an affiliate of Peterson Companies, is seeking to rezone 845 acres at the northeast corner of Kings Highway and Forest Lane from A-1 and M-1 to M-2 for data centers, with a conditional use permit for an electrical substation, under applications RC25156546, CUP25156542 and COM25156545.",
+    "src": "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+   },
+   {
+    "para": 1,
+    "t": "That one is about 11 million square feet.",
+    "src": "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+   },
+   {
+    "para": 1,
+    "t": "The record holds the Forest Lane project separately, a kilometre from this parcel.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Stafford is carrying about eighteen data center proposals, running to tens of millions of square feet.",
+    "src": "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+   },
+   {
+    "para": 2,
+    "t": "At the board of supervisors on June 2, 2026, residents spoke about air quality.",
+    "src": "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+   },
+   {
+    "para": 2,
+    "t": "J.W. Swain warned that even tier 4 generators, \"which are the best you can get,\" would put out \"37,000 pounds of PM 2.5 and PM 10 material\" a year, with schools a mile and a half to two miles away and a park roughly a thousand yards off.",
+    "src": "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+   },
+   {
+    "para": 3,
+    "t": "Nine data center sites are counted in Stafford County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The Forest Lane project is a kilometre from here, an AWS site at Birchwood that the record marks on hold six, a Green Energy Ventures proposal eight, and AWS Summit Crossing and PowerHouse 95 nine.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 814 megawatt Ladysmith gas plant is 23 kilometres off and the 645 megawatt Possum Point station 32.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Stafford has no moratorium; the nearest rules are Culpeper County's from September 2, 2025 and Prince William County's from March 4, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.potomaclocal.com/2026/06/09/kings-highway-data-center-plans-spark-health-concerns-in-stafford/"
+  ],
+  "unconfirmed": "We could not establish which of the two Peterson schemes our 106 acre entry belongs to, nor find an acreage, building count or megawatt figure for Project Sisson itself. Reporting elsewhere describes Project Sisson as 16 two storey buildings of 3.8 million square feet with four substations, cooled with water from the Little Falls Wastewater Treatment Plant less than two miles away; the page we read does not carry that and we have not used it above."
+ },
+ {
+  "id": "ft-948",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "An operating data center stands at 4551 Cox Road in Glen Allen, in Henrico County, inside an office park.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "The entry holds no acreage and no capacity figure for it, and gives a single source, a Henrico County parcel record.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Nothing is being decided about it and no opposition has been reported.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 1,
+    "t": "Two of the largest proposals near here have collapsed.",
+    "src": "https://richmondbizsense.com/2026/01/30/hhhunt-withdraws-plan-for-400-acre-data-center-campus-beside-wyndham/"
+   },
+   {
+    "para": 1,
+    "t": "Seven kilometres away, HHHunt withdrew its Hunting Hawk Technology Park, reported on January 30, 2026: ten buildings and 3.9 million square feet on the 410 acre Hunting Hawk Golf Club site north of Wyndham, with substations, transmission lines and its own water and sewer.",
+    "src": "https://richmondbizsense.com/2026/01/30/hhhunt-withdraws-plan-for-400-acre-data-center-campus-beside-wyndham/"
+   },
+   {
+    "para": 1,
+    "t": "The Hanover planning commission had unanimously recommended denial on January 16, 2026, and more than 450 people had come to a public meeting in November 2025.",
+    "src": "https://richmondbizsense.com/2026/01/30/hhhunt-withdraws-plan-for-400-acre-data-center-campus-beside-wyndham/"
+   },
+   {
+    "para": 1,
+    "t": "Supervisor Sue Dibble said it was \"simply not a good project in the right place.\"",
+    "src": "https://richmondbizsense.com/2026/01/30/hhhunt-withdraws-plan-for-400-acre-data-center-campus-beside-wyndham/"
+   },
+   {
+    "para": 1,
+    "t": "The record separately marks a 900 megawatt Tract campus in Hanover County, four kilometres from here, as blocked.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Eleven data center sites are counted in Henrico County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The Infotel Systems building is ten kilometres away, Tract's Goochland site thirteen and the Pixel Factory thirteen.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The 1,189 megawatt Doswell Energy Center is 21 kilometres off and the 340 megawatt Darbytown plant 26.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "No moratorium applies in Henrico.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://richmondbizsense.com/2026/01/30/hhhunt-withdraws-plan-for-400-acre-data-center-campus-beside-wyndham/"
+  ],
+  "unconfirmed": "Nothing describing this building was found in a page that would open: no operator, floor area, power draw or age. Directory listings associate the Cavalier name at this address with a facility that passed from Cavalier Telephone to PAETEC and then to Windstream; they could not be opened and are not used above. Our record names Highwoods Properties, which is the office landlord rather than the data center operator."
+ },
+ {
+  "id": "ft-664",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "HHHunt wanted ten data center buildings, 3.9 million square feet, on the 410 acre Hunting Hawk Golf Club site north of Wyndham in Hanover County, with substations, transmission lines and its own water and sewer.",
+    "src": "https://richmondbizsense.com/2026/01/30/hhhunt-withdraws-plan-for-400-acre-data-center-campus-beside-wyndham/"
+   },
+   {
+    "para": 0,
+    "t": "The record calls it the Hunter Hawking Data Center, puts it at 15201 Ashland Road on 400 acres at 900 megawatts, and marks it cancelled.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "It went wrong at every stage.",
+    "src": "https://richmondbizsense.com/2026/01/30/hhhunt-withdraws-plan-for-400-acre-data-center-campus-beside-wyndham/"
+   },
+   {
+    "para": 1,
+    "t": "More than 450 people came to a public meeting in November 2025.",
+    "src": "https://richmondbizsense.com/2026/01/30/hhhunt-withdraws-plan-for-400-acre-data-center-campus-beside-wyndham/"
+   },
+   {
+    "para": 1,
+    "t": "On January 16, 2026 the county planning commission voted unanimously to recommend denial.",
+    "src": "https://richmondbizsense.com/2026/01/30/hhhunt-withdraws-plan-for-400-acre-data-center-campus-beside-wyndham/"
+   },
+   {
+    "para": 1,
+    "t": "HHHunt withdrew the applications with immediate effect in a letter reported on January 30, 2026, cancelling a board review that had been set for February 25.",
+    "src": "https://richmondbizsense.com/2026/01/30/hhhunt-withdraws-plan-for-400-acre-data-center-campus-beside-wyndham/"
+   },
+   {
+    "para": 2,
+    "t": "The objection was not only traffic and roads.",
+    "src": "https://richmondbizsense.com/2026/01/30/hhhunt-withdraws-plan-for-400-acre-data-center-campus-beside-wyndham/"
+   },
+   {
+    "para": 2,
+    "t": "Supervisor Sue Dibble said the scheme was out of step with what the county had decided for itself: \"this was simply not a good project in the right place.\" She pointed to \"over 10 meetings in the South Anna District alone to make sure that we got this comp plan exactly the way that we wanted it.\"",
+    "src": "https://richmondbizsense.com/2026/01/30/hhhunt-withdraws-plan-for-400-acre-data-center-campus-beside-wyndham/"
+   },
+   {
+    "para": 2,
+    "t": "The comprehensive plan those meetings produced, adopted three years earlier, recommended residential use for the land, and Dibble said the process \"weeds out the bad projects.\"",
+    "src": "https://richmondbizsense.com/2026/01/30/hhhunt-withdraws-plan-for-400-acre-data-center-campus-beside-wyndham/"
+   },
+   {
+    "para": 2,
+    "t": "HHHunt's general manager, Jonathan Ridout, said the company had no comment at that time about what it would do with the site.",
+    "src": "https://richmondbizsense.com/2026/01/30/hhhunt-withdraws-plan-for-400-acre-data-center-campus-beside-wyndham/"
+   },
+   {
+    "para": 2,
+    "t": "The record attaches an organised opposition group to this project.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "It was the second data center project in Hanover County to run into organised resident scrutiny, and it was not the last.",
+    "src": "https://www.vpm.org/news/2026-06-01/hanover-mountain-road-data-center-tract-davis-prichard-kirchner-dibble"
+   },
+   {
+    "para": 2,
+    "t": "Reporting on June 1, 2026, VPM recorded that supervisors had rejected the Tract Mountain Road Technology Park, a 427 acre proposal, by four votes to three, and that both schemes had been opposed by a grassroots group, Friends of Hanover, whose organiser Jennifer Corpus said: \"We really would love to stop playing whack-a-mole with data centers and instead get a data center ordinance, policy and guardrails passed in Virginia.\"",
+    "src": "https://www.vpm.org/news/2026-06-01/hanover-mountain-road-data-center-tract-davis-prichard-kirchner-dibble"
+   },
+   {
+    "para": 3,
+    "t": "Eight data center sites are counted in Hanover County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "A 900 megawatt Tract campus eight kilometres away and an HHHunt site near Wyndham twelve are both recorded as blocked, and the operating Cavalier Innsbrook building is seven kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 1,189 megawatt Doswell Energy Center is 20 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Hanover County has written no moratorium and no zoning limit on data centers, which is part of what Friends of Hanover is asking for.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://richmondbizsense.com/2026/01/30/hhhunt-withdraws-plan-for-400-acre-data-center-campus-beside-wyndham/",
+   "https://www.vpm.org/news/2026-06-01/hanover-mountain-road-data-center-tract-davis-prichard-kirchner-dibble"
+  ],
+  "unconfirmed": "Our record held this proposal twice, once as a blocked-list entry for Hanover County near Wyndham and once at 15201 Ashland Road; they have been merged. No investment figure was found, and the planning commission's vote count is given only as unanimous. The report dates the withdrawal letter to the Wednesday of that week without writing the date out, so only the date of the report is given above."
+ },
+ {
+  "id": "ft-973",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The record holds a proposed data center on 52 acres at 6321 Rockford School Road, Gretna, in Pittsylvania County, with no developer and no capacity figure.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Both its sources are links into a county mapping application rather than documents.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "What happened fifteen kilometres away is the thing worth knowing.",
+    "src": "https://www.selc.org/news/a-rural-virginia-county-is-a-case-study-in-community/"
+   },
+   {
+    "para": 1,
+    "t": "Balico LLC proposed 84 data centers, each about twice the size of an average Walmart Supercenter, alongside a 3,500 megawatt gas fired power station, on 2,200 acres of rezoned farmland.",
+    "src": "https://www.selc.org/news/a-rural-virginia-county-is-a-case-study-in-community/"
+   },
+   {
+    "para": 1,
+    "t": "It would have been the second largest gas plant in the country.",
+    "src": "https://www.selc.org/news/a-rural-virginia-county-is-a-case-study-in-community/"
+   },
+   {
+    "para": 1,
+    "t": "Balico filed in September 2024, withdrew after community opposition, and came back in November 2024 on less land with the same gas plant in it.",
+    "src": "https://www.selc.org/news/a-rural-virginia-county-is-a-case-study-in-community/"
+   },
+   {
+    "para": 1,
+    "t": "The planning commission unanimously recommended denial in January 2025, and on April 15, 2025 the board of supervisors refused the rezoning 6 to 1.",
+    "src": "https://www.selc.org/news/a-rural-virginia-county-is-a-case-study-in-community/"
+   },
+   {
+    "para": 1,
+    "t": "The case that carried was health.",
+    "src": "https://www.selc.org/news/a-rural-virginia-county-is-a-case-study-in-community/"
+   },
+   {
+    "para": 2,
+    "t": "A Harvard Data Science Initiative report found the plant would emit more than 326 tons of fine particulate matter a year, raising concentrations for more than 17,500 county residents, more than one in four, and creating about $31 million a year in healthcare costs.",
+    "src": "https://www.selc.org/news/a-rural-virginia-county-is-a-case-study-in-community/"
+   },
+   {
+    "para": 2,
+    "t": "The Southern Environmental Law Center represented five local landowners, women it described as an unconventional group with contrasting political beliefs held together by mutual respect and love for their home, and teachers, farmers, pastors and business owners organised alongside them.",
+    "src": "https://www.selc.org/news/a-rural-virginia-county-is-a-case-study-in-community/"
+   },
+   {
+    "para": 2,
+    "t": "Elizabeth Putfark, an SELC associate attorney, said: \"Communities are a formidable force when they come together to fight large, high polluting projects like this one.\"",
+    "src": "https://www.selc.org/news/a-rural-virginia-county-is-a-case-study-in-community/"
+   },
+   {
+    "para": 2,
+    "t": "The record marks that project, which it calls the Pittsylvania County Data Center at 3,500 megawatts, as cancelled.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The record marks that project, which it calls the Pittsylvania County Data Center at 3,500 megawatts, as cancelled, fifteen kilometres from this parcel.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Three data center sites are counted in Pittsylvania County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "Danville brought in zoning limits on data centers on May 5, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The generation around Gretna is small and mostly solar: a 50 megawatt plant five kilometres away, a 120 megawatt plant ten, and the 50 megawatt Leesville hydroelectric station thirteen.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.selc.org/news/a-rural-virginia-county-is-a-case-study-in-community/"
+  ],
+  "unconfirmed": "No developer, application, acreage source, capacity or hearing was found for 6321 Rockford School Road. Three searches, on the town with data center, on the county with the road name, and on the county with acreage and rezoning, turned up the county's larger cases and nothing at this parcel. The entry may be a parcel identified in the county's mapping tool rather than a filed project, and both sources in our record are viewer session URLs, not documents."
+ },
+ {
+  "id": "ft-758",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "DBT-DATA, a real estate investment and development firm based in Washington, bought the Cyber Integration Center in Harrisonburg in October 2013, its fifth data center after four in Ashburn.",
+    "src": "https://virginiabusiness.com/dbt-data-acquires-cyber-integration-center-in-harrisonburg/"
+   },
+   {
+    "para": 0,
+    "t": "The company put the site at 13 acres; the record says 12.",
+    "src": "https://virginiabusiness.com/dbt-data-acquires-cyber-integration-center-in-harrisonburg/"
+   },
+   {
+    "para": 0,
+    "t": "It holds Tier III certification from the Uptime Institute and LEED Silver, and at the time of the purchase was described as the only data center in Maryland and Virginia with a Tier III certification from the Uptime Institute.",
+    "src": "https://virginiabusiness.com/dbt-data-acquires-cyber-integration-center-in-harrisonburg/"
+   },
+   {
+    "para": 0,
+    "t": "David Tolson, president of DBT Development, said \"demand for federal government and private sector data storage is enormous in the greater Washington area.\"",
+    "src": "https://virginiabusiness.com/dbt-data-acquires-cyber-integration-center-in-harrisonburg/"
+   },
+   {
+    "para": 1,
+    "t": "The site is marked operating and expanding, at 139 Tyco Street, filed under the name of the owning company, AC 139 Tyco Street LLC, with no capacity figure and a single source: the city's parcel mapping system.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "No opposition to it has been reported.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Harrisonburg, and there is no other within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "That isolation shows in the power too.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generating plants on record are the 466 megawatt Louisa facility and the 218 megawatt Gordonsville plant, both 68 kilometres away, then Tenaska at 937 megawatts 78 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Nowhere within reach of Harrisonburg has written a moratorium or a zoning limit on data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://virginiabusiness.com/dbt-data-acquires-cyber-integration-center-in-harrisonburg/"
+  ],
+  "unconfirmed": "The purchase price, the floor area and the power capacity were not in the page we read; directory listings describe a one storey building of about 102,000 square feet with 33,000 square feet of raised floor and room to add 30,000 more, which we did not treat as sources. What has been expanded since 2013, and who the customers are, is unknown."
+ },
+ {
+  "id": "ft-1784074174322-9081",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The data center proposed for Hopewell is a study, not an application.",
+    "src": "https://virginiabusiness.com/hopewell-considers-data-center-former-ethanol-plant/"
+   },
+   {
+    "para": 0,
+    "t": "Volterra Advisors, a technology consulting firm from Maryland, ran a feasibility case study with the city and the property owners on putting a data center at the former Green Plains ethanol plant at 701 6th Avenue, which closed in 2018 after making 60 million gallons of biofuel a year.",
+    "src": "https://virginiabusiness.com/hopewell-considers-data-center-former-ethanol-plant/"
+   },
+   {
+    "para": 0,
+    "t": "The facility studied is 50,000 to 70,000 square feet drawing about 20 megawatts, which is the figure the record carries.",
+    "src": "https://virginiabusiness.com/hopewell-considers-data-center-former-ethanol-plant/"
+   },
+   {
+    "para": 0,
+    "t": "For scale, the article set that against Google's three Chesterfield County data centers, about 285,000 square feet each and 200 to 300 megawatts when running.",
+    "src": "https://virginiabusiness.com/hopewell-considers-data-center-former-ethanol-plant/"
+   },
+   {
+    "para": 1,
+    "t": "The attraction is the pipework left behind.",
+    "src": "https://virginiabusiness.com/hopewell-considers-data-center-former-ethanol-plant/"
+   },
+   {
+    "para": 1,
+    "t": "Volterra's founder, Jeramy Utara, said: \"There's potential to re-use the natural gas lines.\"",
+    "src": "https://virginiabusiness.com/hopewell-considers-data-center-former-ethanol-plant/"
+   },
+   {
+    "para": 1,
+    "t": "NS Development Partners bought the 55 acre site about four months before the article appeared in July 2026, and has already leased seven acres to a manufacturer it has not named.",
+    "src": "https://virginiabusiness.com/hopewell-considers-data-center-former-ethanol-plant/"
+   },
+   {
+    "para": 1,
+    "t": "The land had previously been looked at for a South Korean car customisation plant that would have employed 3,000 people.",
+    "src": "https://virginiabusiness.com/hopewell-considers-data-center-former-ethanol-plant/"
+   },
+   {
+    "para": 1,
+    "t": "Hopewell city officials did not respond to requests for comment on the data center.",
+    "src": "https://virginiabusiness.com/hopewell-considers-data-center-former-ethanol-plant/"
+   },
+   {
+    "para": 2,
+    "t": "The entry marks it proposed at an early stage, which matches.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "It is the only data center site recorded in Hopewell.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "A Google project the record calls Peanut is six kilometres away at Chester, an operating 82 megawatt CoreWeave site eight, a PowerHouse campus eight, and the Menlo Equities and NuVu projects at Petersburg eleven and twelve.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The 51 megawatt Hopewell biomass station and the 378 megawatt Hopewell Cogeneration plant are both a kilometre away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Hopewell has written no moratorium and no zoning limit on data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://virginiabusiness.com/hopewell-considers-data-center-former-ethanol-plant/"
+  ],
+  "unconfirmed": "No application has been filed, no operator or tenant is named and there is no timeline. Hopewell officials have since been reported as denying any coordination with the consulting firm; we did not confirm that from a page we could open. Water use is not discussed anywhere we found."
+ },
+ {
+  "id": "ft-665",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "EdgeCore Digital Infrastructure is building a data center campus on 697 acres in the Shannon Hill Regional Business Park in Louisa County, Virginia.",
+    "src": "https://edgecore.com/resources/press-releases/new-louisa-county-virginia-data-center-campus"
+   },
+   {
+    "para": 0,
+    "t": "It announced on June 25, 2025 that it had bought the land for a 3.9 million square foot campus able to support more than 1.1 gigawatts.",
+    "src": "https://edgecore.com/resources/press-releases/new-louisa-county-virginia-data-center-campus"
+   },
+   {
+    "para": 0,
+    "t": "The investment is put at more than $17 billion, which the record also carries, along with the 697 acres and 1,100 megawatts.",
+    "src": "https://edgecore.com/resources/press-releases/new-louisa-county-virginia-data-center-campus"
+   },
+   {
+    "para": 1,
+    "t": "The power arrangement is unusual for a campus this size.",
+    "src": "https://edgecore.com/resources/press-releases/new-louisa-county-virginia-data-center-campus"
+   },
+   {
+    "para": 1,
+    "t": "Rappahannock Electric Cooperative and its affiliate, Hyperscale Energy, will supply it, rather than Dominion.",
+    "src": "https://edgecore.com/resources/press-releases/new-louisa-county-virginia-data-center-campus"
+   },
+   {
+    "para": 1,
+    "t": "Cooling is to be a closed loop air system, with water use effectiveness below 0.01 litres per kilowatt hour.",
+    "src": "https://edgecore.com/resources/press-releases/new-louisa-county-virginia-data-center-campus"
+   },
+   {
+    "para": 1,
+    "t": "The company's chief executive, Lee Kestler, said the investment lets EdgeCore expand in Central Virginia while benefiting Louisa County with decades of tax revenue and job creation.",
+    "src": "https://edgecore.com/resources/press-releases/new-louisa-county-virginia-data-center-campus"
+   },
+   {
+    "para": 1,
+    "t": "It is EdgeCore's sixth active market, after Ashburn, Culpeper, Silicon Valley, greater Phoenix and Reno, and takes its Virginia portfolio past 1.6 gigawatts.",
+    "src": "https://edgecore.com/resources/press-releases/new-louisa-county-virginia-data-center-campus"
+   },
+   {
+    "para": 2,
+    "t": "Louisa County is filling up around it.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "An AWS third campus thirteen kilometres away is recorded as withdrawn, two more AWS proposals at Northeast Creek and Desper Creek sit fourteen kilometres off, and the AWS Lake Anna campus is under construction 27 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The 1,893 megawatt North Anna nuclear station is 29 kilometres from here, the 622 megawatt Bear Garden gas plant 30 and Tenaska at 937 megawatts 30.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "No moratorium or zoning limit on data centers applies in Louisa County.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://edgecore.com/resources/press-releases/new-louisa-county-virginia-data-center-campus"
+  ],
+  "unconfirmed": "The announcement gives no job numbers, tax figures or phasing dates, and no tenant is named. Our record files the campus in Goochland County when the company places it in Louisa County, and its address, 5735 State Route 653 at Kents Store, is a Fluvanna County postal address. Our status of under construction was not confirmed."
+ }
+]

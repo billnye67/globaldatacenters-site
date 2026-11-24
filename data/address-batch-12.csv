@@ -1,0 +1,67 @@
+id;address
+gemini-google-cerrillos;Avenida Lo Errazuriz, Cerrillos, Santiago, Chile
+gemini-google-visakhapatnam;Kapuluppada IT SEED, Visakhapatnam, Andhra Pradesh 530048, India
+research-scala-bahia;Polo Industrial de Camacari, Camacari, Bahia, Brazil
+research-tecfusions-puente-alto;Avenida Concha y Toro, Puente Alto, Santiago, Chile
+research-reliance-jamnagar-data-centre;Dhirubhai Ambani Green Energy Giga Complex, Jamnagar, Gujarat 361142, India
+research-google-klang-valley;Elmina Business Park, 47000 Sungai Buloh, Selangor, Malaysia
+research-aws-malaysia-johor;YTL Green Data Center Park, 2 Jalan Lestari Hijau 1, 81000 Kulai, Johor, Malaysia
+research-haenam-national-computing-center;Solasido Smart City, Haenam-gun, Jeollanam-do, South Korea
+amazon-aws-padre-hurtado-santiago;Camino Melipilla, Padre Hurtado, Santiago, Chile
+amazon-aws-hyderabad-chandanvelly;Chandanvelly Industrial Park, Shabad, Rangareddy, Telangana 501510, India
+amazon-aws-navi-mumbai-taloja;MIDC Taloja Industrial Area, Taloja, Navi Mumbai, Maharashtra 410208, India
+amazon-aws-thane;LBS Marg, Mulund West, Mumbai, Maharashtra 400080, India
+amazon-aws-ulsan-sk-group;110 Cheonggu-ro, Nam-gu, Ulsan, South Korea
+amazon-aws-smeaton-grange-sydney;42 Turner Rd, Smeaton Grange, NSW 2567, Australia
+amazon-aws-kutanegara-west-java;Kutanegara, Ciampel, Karawang, West Java 41363, Indonesia
+developers-vantage-tokyo-sagamihara;Minami-ku, Sagamihara, Kanagawa 252-0312, Japan
+developers-vantage-cyberjaya-kul2;Persiaran APEC, Cyber 8, 63000 Cyberjaya, Selangor, Malaysia
+developers2-cloudhq-sao-paulo-barueri;Avenida Jurua 720, Alphaville Industrial, Barueri, SP 06455-010, Brazil
+developers2-stack-johor-jhb01;PLO 64 Jalan Cyber 14, Kawasan Perindustrian Senai IV, 81400 Senai, Johor, Malaysia
+cyrusone-cyrusone-osaka-osk1;Hikaridai 9-chome, Seika-cho, Soraku-gun, Kyoto 619-0237, Japan
+developers3-stack-tokyo-inzai-tky01;1-chome Hara, Inzai, Chiba 270-1337, Japan
+developers3-stack-osaka-kix01;Hikaridai 3-chome, Seika-cho, Soraku-gun, Kyoto 619-0237, Japan
+vantage-vantage-fo-tan;2 Sui Wo Rd, Fo Tan, Sha Tin, Hong Kong
+vantage-vantage-kwai-chung;11-19 Wing Yip St, Kwai Chung, Hong Kong
+vantage-vantage-taipei;Section 4 Chengde Rd, Shilin District, Taipei, Taiwan
+vantage-vantage-melbourne;45-55 Center Rd, Maribyrnong, VIC 3032, Australia
+cloudhq-cloudhq-campinas-gru-technology;Avenida Roberto Moreira, Paulinia, SP 13148-970, Brazil
+digitalrealty-buildings-ascenty-queretaro-2;Parque Industrial Nuevo San Juan, Carretera Panamericana Km 166, San Juan del Rio, Queretaro, Mexico
+digitalrealty-buildings-ascenty-paulinia;Avenida Prefeito Jose Lozano Araujo 4545, Paulinia, SP 13140-000, Brazil
+digitalrealty-digital-realty-seoul-icn10-sangam;22 World Cup buk-ro 56-gil, Mapo-gu, Seoul 03923, South Korea
+digitalrealty-mc-digital-realty-osaka-saito-kix-kix11;4-chome Saito-Asagi, Ibaraki, Osaka 567-0085, Japan
+digitalrealty-mc-digital-realty-inzai-nrt12-nrt14;3-chome Izumi, Inzai, Chiba 270-1356, Japan
+digitalrealty-mc-digital-realty-mitaka;Shimorenjaku, Mitaka, Tokyo 181-0013, Japan
+digitalrealty-ascenty-sao-paulo-osasco-spo05-7-8;Rua Henry Ford 800, Presidente Altino, Osasco, SP 06210-108, Brazil
+digitalrealty-ascenty-vinhedo-1-2;Avenida Independencia 8200, Vinhedo, SP 13280-000, Brazil
+digitalrealty-ascenty-sumare;Rua Sebastiao Raposeiro Junior 400, Sumare, SP 13175-651, Brazil
+digitalrealty-ascenty-hortolandia-htl3-htl4;Rua Papa Joao Paulo II 400, Hortolandia, SP 13185-252, Brazil
+equinix-equinix-xscale-mexico-city-mx3x;Parque Industrial Techno Industrial, Tepotzotlan, State of Mexico 54600, Mexico
+equinix-equinix-osaka-saito-connected-os1-os2-os3;1-chome Saito-Asagi, Ibaraki, Osaka 567-0085, Japan
+equinix-equinix-perth-gateway-pe1-pe2;15-21 Absolute Loop, Malaga, WA 6090, Australia
+equinix-equinix-seoul-sangam-tech-sl1;14 World Cup buk-ro 60-gil, Mapo-gu, Seoul 03922, South Korea
+ntt-ntt-tokyo-inzai-shiroi-tky12-shr1;Shiroi, Chiba 270-1400, Japan
+ntt-ntt-tochigi-inter-industrial-park;Kagahara, Utsunomiya, Tochigi 321-3325, Japan
+ntt-ntt-osaka-north-1-osk12-ibaraki;Saito-Asagi, Ibaraki, Osaka 567-0085, Japan
+ntt-ntt-keihanna-osk11;Hikaridai, Seika-cho, Soraku-gun, Kyoto 619-0237, Japan
+ntt-ntt-noida-1;Plot 7, Sector 144, Noida, Uttar Pradesh 201306, India
+ntt-ntt-kolkata;Block GP, Sector V, Salt Lake, Kolkata, West Bengal 700091, India
+ntt-ntt-hong-kong-fdc-tseung-kwan-o-tai-po;20 Chun Yat St, Tseung Kwan O Industrial Estate, Hong Kong
+ntt-ntt-cyberjaya-cbj1-cbj6;3512 Jalan Teknokrat 6, 63000 Cyberjaya, Selangor, Malaysia
+ntt-ntt-gelang-patah-johor;Taman Teknologi Johor, 81550 Gelang Patah, Johor, Malaysia
+ntt-ntt-hanoi-thang-long;Thang Long Industrial Park, Dong Anh, Hanoi, Vietnam
+ironmountain-iron-mountain-pune-pun-1;Phase III, Hinjewadi Rajiv Gandhi Infotech Park, Pune, Maharashtra 411057, India
+ironmountain-iron-mountain-delhi-ncr-ncr-1;Plot C-1, Sector 144, Noida, Uttar Pradesh 201306, India
+ironmountain-iron-mountain-bengaluru-blr-1;EPIP Whitefield, Bengaluru, Karnataka 560066, India
+airtrunk-airtrunk-hkg2-east-new-territories;Lok Yip Rd, Fanling, Hong Kong
+airtrunk-airtrunk-jhb3-jhb4-iskandar-puteri;Taman Perindustrian Nusa Cemerlang, 79200 Iskandar Puteri, Johor, Malaysia
+bytedance-bytedance-ceara-brazil-omnia;Complexo Industrial e Portuario do Pecem, Sao Goncalo do Amarante, Ceara, Brazil
+bytedance-bytedance-thailand-bangkok;Supernap Thailand, Hemaraj Industrial Estate, Chonburi 20230, Thailand
+bytedance-bytedance-indonesia-batam-jakarta;Nongsa Digital Park, Jalan Hang Lekiu, Batam 29465, Indonesia
+chinamobile-china-mobile-port-dickson-malaysia;Malaysia Vision Valley 2.0, 71000 Port Dickson, Negeri Sembilan, Malaysia
+yotta-yotta-west-bengal-park-kolkata;Bengal Silicon Valley IT Hub, Sector V, Salt Lake, Kolkata, West Bengal 700091, India
+adaniconnex-adaniconnex-bhubaneswar;Infovalley IT SEZ, Janla, Bhubaneswar, Odisha 752054, India
+dayone-dayone-greater-kuala-lumpur-cyberjaya;Cyberjaya Flagship Zone, 63000 Cyberjaya, Selangor, Malaysia
+keppel-indokeppel-data-centre-1-bogor;Jalan Insinyur Sutami, Sukaluyu, Tamansari, Bogor, West Java 16610, Indonesia
+keppel-keppel-ansan-south-korea;50 Sandan-ro, Danwon-gu, Ansan, Gyeonggi-do, South Korea
+stargate-stargate-korea-sk-group;Sepoong Industrial Park, Gwangyang, Jeollanam-do, South Korea

@@ -1,0 +1,18 @@
+project_name;developer_or_owner;tenant;city;state_or_region;country;address;latitude;longitude;capacity_mw;site_size;status;year_announced;year_operating_or_planned;note;source_url
+CoreWeave Kenilworth (NEST);Onyx Equities;CoreWeave;Kenilworth;New Jersey;United States;2000 Galloping Hill Rd, Kenilworth, NJ 07033;;;;;under construction;2024;;$1.2B conversion of 280,000 sq ft NEST building, 27 acres bought for expansion;https://baxtel.com/data-centers/coreweave
+CoreWeave Lancaster;CoreWeave;CoreWeave;Lancaster;Pennsylvania;United States;Lancaster, PA 17601;;;;;proposed;2025;;Up to $6B purpose-built AI data center;https://baxtel.com/data-centers/coreweave
+CoreWeave Hammond;Digital Crossroads;CoreWeave;Hammond;Indiana;United States;301 Digital Crossroads Dr, Hammond, IN 46320;;;;;operating;;;;https://www.datacentermap.com/usa/illinois/chicago/coreweave-hammond/quote
+CoreWeave Plano;CoreWeave;CoreWeave;Plano;Texas;United States;1000 Coit Rd, Plano, TX 75075;;;;;operating;2023;2023;$1.6B, operational end of 2023;https://baxtel.com/data-centers/coreweave
+CoreWeave Cheyenne (Related Digital);Related Digital;CoreWeave;Cheyenne;Wyoming;United States;Cheyenne, WY;;;;;under construction;;;Long-term lease with Related Digital;https://baxtel.com/data-centers/coreweave
+CoreWeave Cambridge Ontario;CoreWeave;Cohere;Cambridge;Ontario;Canada;Cambridge, ON, Canada;;;;;operating;;;;https://baxtel.com/data-centers/coreweave
+CoreWeave Barcelona (Merlin Edged);Merlin Edged;CoreWeave;Barcelona;Catalonia;Spain;Barcelona, Spain;;;;;operating;2025;2025;10,224 H200 GPUs in first phase;https://baxtel.com/data-centers/coreweave
+Applied Digital Polaris Forge 2 (Harwood);Applied Digital;unknown;Harwood;North Dakota;United States;Harwood, ND 58042;;;;280;;under construction;2025;;;https://ir.applieddigital.com/news-events/press-releases
+IREN Sweetwater 2;IREN;unknown;Sweetwater;Texas;United States;Sweetwater, Nolan County, TX;;;;600;;proposed;2025;;Second Sweetwater campus;https://baxtel.com/data-centers/iren
+Core Scientific Pecos (Cottonwood);Core Scientific;unknown;Pecos;Texas;United States;Pecos, TX 79772;;;;;operating;;;;https://corescientific.com/high-density-data-centers/
+Core Scientific Calvert City;Core Scientific;unknown;Calvert City;Kentucky;United States;Calvert City, KY 42029;;;;;operating;;;;https://corescientific.com/high-density-data-centers/
+Cipher Mining Black Pearl;Cipher Mining;unknown;Odessa;Texas;United States;Black Pearl site, Odessa, TX;;;;300;;under construction;2024;;;https://www.globenewswire.com/news-release/2025/09/25/3156107/0/en/Cipher-Mining-Signs-168-MW-10-Year-AI-Hosting-Agreement-with-Fluidstack.html
+TeraWulf Abernathy (Fluidstack);TeraWulf;Fluidstack;Abernathy;Texas;United States;Abernathy, TX 79311;;;;168;;under construction;2025;;;https://baxtel.com/news/data-centers/terawulf-abernathy-campus
+Nscale Glomfjord;Nscale;unknown;Ornes;Nordland;Norway;Sam Eydes vei 47, 8160 Glomfjord, Norway;;;;;operating;;;;https://www.datacentermap.com/c/nscale-ltd/datacenters
+Nscale Korgen;Nscale;unknown;Korgen;Nordland;Norway;Vesterliveien, Korgen, Norway;;;;;proposed;;;;https://www.datacentermap.com/c/nscale-ltd/datacenters
+Nscale Fauske;Nscale;unknown;Fauske;Nordland;Norway;Follaveien, Fauske, Norway;;;;;proposed;;;;https://www.datacentermap.com/c/nscale-ltd/datacenters
+Crusoe Cheyenne (Tallgrass);Crusoe;unknown;Cheyenne;Wyoming;United States;Cheyenne, WY;;;;1800;;proposed;2025;;Planned 1.8GW campus with Tallgrass;https://www.datacenterdynamics.com/en/news/crusoe-and-tallgrass-plan-18gw-data-center-in-wyoming/

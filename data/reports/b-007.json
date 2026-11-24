@@ -1,0 +1,543 @@
+[
+ {
+  "id": "epoch-coreweave-norway",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The site is part of Bulk Infrastructure's N01 data center campus in Vennesla, in Norway's Agder region near Kristiansand.",
+    "src": "https://bulkinfrastructure.com/newsroom/coreweave-partners-with-bulk-infrastructure"
+   },
+   {
+    "para": 0,
+    "t": "CoreWeave, a US artificial intelligence cloud company, is the tenant.",
+    "src": "https://bulkinfrastructure.com/newsroom/coreweave-partners-with-bulk-infrastructure"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI estimates the site's current IT power at 42 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "Bulk Infrastructure said it had secured 400 megawatts of capacity at the roughly 300-hectare site, with room to grow toward 1 gigawatt.",
+    "src": "https://bulkinfrastructure.com/newsroom/coreweave-partners-with-bulk-infrastructure"
+   },
+   {
+    "para": 1,
+    "t": "The campus runs on hydropower, with direct connections to hydroelectric stations and to one of Europe's largest transformer stations, according to Bulk.",
+    "src": "https://bulkinfrastructure.com/newsroom/coreweave-partners-with-bulk-infrastructure"
+   },
+   {
+    "para": 1,
+    "t": "CoreWeave said the Norway project was part of a $2.2 billion investment it announced across Europe in 2024.",
+    "src": "https://bulkinfrastructure.com/newsroom/coreweave-partners-with-bulk-infrastructure"
+   },
+   {
+    "para": 1,
+    "t": "Karianne Tung, Norway's minister of digitalisation and public governance, said she was pleased to hear about the collaboration and that \"the goal of the Norwegian government is to establish a national infrastructure for AI towards 2030.\"",
+    "src": "https://bulkinfrastructure.com/newsroom/coreweave-partners-with-bulk-infrastructure"
+   }
+  ],
+  "sources": [
+   "https://bulkinfrastructure.com/newsroom/coreweave-partners-with-bulk-infrastructure"
+  ],
+  "unconfirmed": "Could not find independent local news coverage, permitting details or any community reaction to the Vennesla site; only the developer's own announcement was available."
+ },
+ {
+  "id": "epoch-southgate-melbourne",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Southgate Melbourne is a Firmus Technologies data center built inside CDC Data Centres' existing Brooklyn campus in Melbourne, Victoria.",
+    "src": "https://firmus.co/newsroom/southgate-expansion"
+   },
+   {
+    "para": 0,
+    "t": "Firmus said it was deploying 18,500 Nvidia GB300 GPUs at the Melbourne site, which it expected to be online by April 2026.",
+    "src": "https://firmus.co/newsroom/southgate-expansion"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI estimates the site's current IT power at 41 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The Melbourne site is one piece of Firmus's larger \"Project Southgate,\" which the company says will bring up to 1.6 gigawatts of AI computing capacity to Australia by 2028, anchored by a flagship campus in Tasmania.",
+    "src": "https://firmus.co/newsroom/southgate-expansion"
+   },
+   {
+    "para": 1,
+    "t": "Firmus said the whole project would run on renewable power and could require up to 5.1 gigawatts of new wind, solar, storage and hydro generation to be built nationally.",
+    "src": "https://firmus.co/newsroom/southgate-expansion"
+   },
+   {
+    "para": 1,
+    "t": "The company said the broader project could create up to 20,700 direct jobs in construction, manufacturing and operations, without breaking out how many would be in Melbourne.",
+    "src": "https://firmus.co/newsroom/southgate-expansion"
+   },
+   {
+    "para": 1,
+    "t": "Tasmania created a dedicated \"AI Factory Zone\" to speed permitting for the flagship site there; Firmus's announcement did not describe a comparable approval process for the Melbourne facility.",
+    "src": "https://firmus.co/newsroom/southgate-expansion"
+   }
+  ],
+  "sources": [
+   "https://firmus.co/newsroom/southgate-expansion"
+  ],
+  "unconfirmed": "No independent news coverage or local community reaction specific to the Brooklyn, Melbourne site was found. The only source is Firmus's own project announcement, which describes the national Southgate program more than this one site, so some figures above (jobs, total gigawatts) apply to the whole program, not confirmed as Melbourne-specific."
+ },
+ {
+  "id": "epoch-stream-phoenix",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Stream Data Centers is building a seven-building, 157-acre data center campus at 2950 S. Litchfield Road in Goodyear, Arizona, a Phoenix suburb in Maricopa County.",
+    "src": "https://www.streamdatacenters.com/locations/phoenix/"
+   },
+   {
+    "para": 0,
+    "t": "At full build, the campus is designed for 280 megawatts of critical power across more than 2 million square feet.",
+    "src": "https://www.streamdatacenters.com/locations/phoenix/"
+   },
+   {
+    "para": 0,
+    "t": "Two of the seven buildings are already operating; the other five are still being developed.",
+    "src": "https://www.streamdatacenters.com/locations/phoenix/"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI estimates the site's current IT power at 64 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Stream built a dedicated substation with Arizona Public Service on site, designed to eventually carry 480 megawatts.",
+    "src": "https://www.streamdatacenters.com/locations/phoenix/"
+   },
+   {
+    "para": 1,
+    "t": "The company describes its relationship with Goodyear as a partnership, titling one of its own case studies \"How Stream Data Centers and the City of Goodyear Delivered a Win-Win-Win.\"",
+    "src": "https://www.streamdatacenters.com/locations/phoenix/"
+   },
+   {
+    "para": 1,
+    "t": "Maricopa County already has about 40 other data centers.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "Phoenix, Chandler and Tempe, other cities in the county, have all passed zoning limits on new data centers since 2023; Goodyear has not.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.streamdatacenters.com/locations/phoenix/"
+  ],
+  "unconfirmed": "Could not find independent news coverage of a Goodyear council vote, resident objections, or water-use disputes tied specifically to this site; only Stream's own materials were available."
+ },
+ {
+  "id": "epoch-vantage-tx1",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Vantage Data Centers built TX1, a two-story, 32-megawatt building at 14720 Omicron Drive in San Antonio, in Bexar County, according to state accessibility filings.",
+    "src": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024007561"
+   },
+   {
+    "para": 0,
+    "t": "The $95.8 million project has four separate 8-megawatt data halls and was registered with the state in December 2023, targeting completion by September 2026.",
+    "src": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024007561"
+   },
+   {
+    "para": 0,
+    "t": "Bexar County already has about 14 other data centers, including CyrusOne's Omicron Drive campus, immediately next door.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "In 2026, residents reported gas odors and possible gas leaks near Vantage's San Antonio data centers, including sites on Omicron Drive, to the TV station KSAT, according to Archynewsy; the residents were not named.",
+    "src": "https://www.archynewsy.com/san-antonio-residents-report-gas-odors-near-vantage-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "On August 3, 2026, Texas Governor Greg Abbott ordered the state's utility regulator and grid operator to audit data centers seeking grid connections, freezing approvals while the reviews run, amid what the Texas Tribune called growing public backlash to the pace of the buildout.",
+    "src": "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/"
+   },
+   {
+    "para": 1,
+    "t": "The order covers roughly 1,800 projects in the queue to connect to the state's ERCOT grid, though projects that build their own on-site power can bypass it.",
+    "src": "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/"
+   }
+  ],
+  "sources": [
+   "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2024007561",
+   "https://www.archynewsy.com/san-antonio-residents-report-gas-odors-near-vantage-data-centers/",
+   "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/"
+  ],
+  "unconfirmed": "Could not confirm whether TX1 specifically, as opposed to Vantage's other San Antonio sites, was the subject of the gas-odor complaints, or whether TX1 is already connected to the grid and therefore exempt from the August 2026 moratorium."
+ },
+ {
+  "id": "epoch-coreweave-dalton-1-2",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CoreWeave, through its recent acquisition of Core Scientific, operates a data center at 2205 Industrial South Rd in Dalton, Georgia, in Whitfield County, between the Chattanooga, Nashville and Atlanta markets.",
+    "src": "https://corescientific.com/high-density-data-centers/dalton-ga-dnn1-2/"
+   },
+   {
+    "para": 0,
+    "t": "The facility sits on 5 acres and totals 52,000 square feet; Core Scientific advertises up to 50 megawatts of capacity there, while Epoch AI estimates its current IT power draw at 28 megawatts.",
+    "src": "https://corescientific.com/high-density-data-centers/dalton-ga-dnn1-2/"
+   },
+   {
+    "para": 1,
+    "t": "Core Scientific already runs several data centers in and around Dalton, and Whitfield County has one of the highest concentrations of data centers in the region, according to US Data Center Map figures cited by local station NewsChannel 9.",
+    "src": "https://newschannel9.com/news/local/in-whitfield-county-officials-face-growing-resident-backlash-as-data-centers-expand"
+   },
+   {
+    "para": 1,
+    "t": "That concentration has fueled a local push for a moratorium on new projects.",
+    "src": "https://newschannel9.com/news/local/dalton-residents-push-for-moratorium-against-future-development-of-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "Quentin Postell, a resident running for Georgia's state House District 4, said in 2026: \"With Dalton now having an AI center put in the city, we want to make sure that the next one isn't allowed, or if we can kind of create a moratorium.\"",
+    "src": "https://newschannel9.com/news/local/dalton-residents-push-for-moratorium-against-future-development-of-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "Whitfield County Administrator Bob Sivick said the county board saw no need for new restrictions because no additional projects were currently planned and there had been no operational problems.",
+    "src": "https://newschannel9.com/news/local/dalton-residents-push-for-moratorium-against-future-development-of-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "Neighboring Walker County and the city of Calhoun have already passed data center moratoriums; Whitfield County and Dalton have not.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "In September 2025, the Dalton-Whitfield Joint Development Authority approved roughly $200 million in tax abatements for a separate Core Scientific project on Old Tilton Road, expanding the company's footprint in the county further.",
+    "src": "https://daltoncitizen.com/2025/09/27/dalton-whitfield-joint-development-authority-moves-forward-on-deal-for-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Dalton Utilities has told officials that peak electricity load in the area has nearly doubled since data centers arrived, from 250 to 476 megawatts, and residents raised concerns at a February 2026 planning meeting about the effect on their electric rates.",
+    "src": "https://daltoncitizen.com/2025/09/27/dalton-whitfield-joint-development-authority-moves-forward-on-deal-for-data-center/"
+   }
+  ],
+  "sources": [
+   "https://corescientific.com/high-density-data-centers/dalton-ga-dnn1-2/",
+   "https://newschannel9.com/news/local/dalton-residents-push-for-moratorium-against-future-development-of-data-centers",
+   "https://newschannel9.com/news/local/in-whitfield-county-officials-face-growing-resident-backlash-as-data-centers-expand",
+   "https://daltoncitizen.com/2025/09/27/dalton-whitfield-joint-development-authority-moves-forward-on-deal-for-data-center/"
+  ],
+  "unconfirmed": "The moratorium push and electric-rate concerns found in local coverage are about Core Scientific's growing footprint in Whitfield County generally, including a separate Old Tilton Road project, not confirmed as being specifically about the Industrial South Rd (Dalton 1 & 2) site."
+ },
+ {
+  "id": "epoch-alibaba-zhangbei",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Zhangbei County is a small agricultural place at the northwestern corner of Hebei province, on the southern rim of the Inner Mongolia plateau, where the annual average temperature is 3.2 degrees Celsius.",
+    "src": "https://jamestown.org/energy-and-ai-coordination-in-the-eastern-data-western-computing-plan/"
+   },
+   {
+    "para": 0,
+    "t": "Alibaba put $2.86 billion into a hyperscale data center there in 2015 and opened it in 2016.",
+    "src": "https://jamestown.org/energy-and-ai-coordination-in-the-eastern-data-western-computing-plan/"
+   },
+   {
+    "para": 0,
+    "t": "It chose the county for cheap land, the cold, wind and solar already in place, a fibre corridor and closeness to Beijing.",
+    "src": "https://jamestown.org/energy-and-ai-coordination-in-the-eastern-data-western-computing-plan/"
+   },
+   {
+    "para": 0,
+    "t": "The facility hosts more than 600,000 servers and buys wind power directly from local wind farms.",
+    "src": "https://jamestown.org/energy-and-ai-coordination-in-the-eastern-data-western-computing-plan/"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI estimates the site's current IT power at 169 megawatts.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "By 2020 Zhangbei County had 15 gigawatts of installed wind capacity and 6.3 gigawatts of solar, an estimated 75 percent of the county's energy production.",
+    "src": "https://jamestown.org/energy-and-ai-coordination-in-the-eastern-data-western-computing-plan/"
+   },
+   {
+    "para": 1,
+    "t": "Zhangjiakou was designated a key data centre cluster for the Beijing, Tianjin and Hebei region under the 2021 Eastern Data Western Computing plan, the idea being to hold Beijing's demand against Zhangjiakou's renewable supply.",
+    "src": "https://jamestown.org/energy-and-ai-coordination-in-the-eastern-data-western-computing-plan/"
+   },
+   {
+    "para": 2,
+    "t": "The strain shows in the local numbers.",
+    "src": "https://jamestown.org/energy-and-ai-coordination-in-the-eastern-data-western-computing-plan/"
+   },
+   {
+    "para": 2,
+    "t": "Officials have raised concerns about limited water, with data centres consuming close to 50 percent of the city's electricity and demand projected to double to 14 terawatt hours a year.",
+    "src": "https://jamestown.org/energy-and-ai-coordination-in-the-eastern-data-western-computing-plan/"
+   },
+   {
+    "para": 2,
+    "t": "Alibaba is not alone there: GDS, Tencent, Chindata, China Mobile, China Unicom and 21Vianet all have facilities in the Zhangjiakou cluster, and Chindata signed a ten year agreement with the city's state owned Construction and Investment Group covering four sites across several counties.",
+    "src": "https://jamestown.org/energy-and-ai-coordination-in-the-eastern-data-western-computing-plan/"
+   },
+   {
+    "para": 3,
+    "t": "In 2022 Alibaba unveiled a facility at Zhangbei it called an intelligent computing center, saying it could reach up to 12 exaflops of AI computing capacity, running on the company's Feitian platform and intended for model training and autonomous driving.",
+    "src": "data:note"
+   },
+   {
+    "para": 3,
+    "t": "The Zhangbei site earned a green power consumption certificate from the Beijing Electric Power Exchange Center in 2021 as the first in China to use heat pump technology.",
+    "src": "https://jamestown.org/energy-and-ai-coordination-in-the-eastern-data-western-computing-plan/"
+   }
+  ],
+  "sources": [
+   "https://jamestown.org/energy-and-ai-coordination-in-the-eastern-data-western-computing-plan/",
+   "https://sinocities.org/p/mapping-chinas-inland-data-centers"
+  ],
+  "unconfirmed": "Searches on Alibaba with Zhangbei, on Zhangjiakou with data center water, and on Zhangbei with Hebei found no resident, no environmental review, no land acquisition record and no criticism attributable to a named person. Alibaba runs several separate buildings in the Zhangbei cluster and it could not be established which one Epoch AI's 169 megawatt estimate tracks, so the figure may not describe the same building as the rest of this page."
+ },
+ {
+  "id": "epoch-start-campus-sines-data-campus",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Start Campus is building a data centre campus at Sines, in Portugal's Sines industrial zone about 90 kilometres south of Lisbon.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The plan announced on August 15, 2024 is six buildings, SIN01 to SIN06, and 1.2 gigawatts of IT capacity by 2030, on an investment of 8.5 billion euro the company says is entirely its own with no public subsidy.",
+    "src": "https://www.datacenterfrontier.com/colocation/article/55133589/fresh-start-sines-dc-eyes-sustainable-12-gw-it-capacity-as-europes-largest-colocation-campus"
+   },
+   {
+    "para": 0,
+    "t": "SIN01 was expanded from 14 to 26 megawatts; the later buildings are designed for up to 240 megawatts each.",
+    "src": "https://www.datacenterfrontier.com/colocation/article/55133589/fresh-start-sines-dc-eyes-sustainable-12-gw-it-capacity-as-europes-largest-colocation-campus"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI estimates the site's current IT power at 33 megawatts.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "Start Campus says the campus runs on renewable electricity and cools with seawater, reaching a power usage effectiveness of 1.1.",
+    "src": "https://www.datacenterfrontier.com/colocation/article/55133589/fresh-start-sines-dc-eyes-sustainable-12-gw-it-capacity-as-europes-largest-colocation-campus"
+   },
+   {
+    "para": 0,
+    "t": "Chief executive Rob Dunn said the scale of the campus \"coupled with our unique seawater cooling solution, creates an unprecedented offering that sets new standards for the industry.\"",
+    "src": "https://www.datacenterfrontier.com/colocation/article/55133589/fresh-start-sines-dc-eyes-sustainable-12-gw-it-capacity-as-europes-largest-colocation-campus"
+   },
+   {
+    "para": 0,
+    "t": "Microsoft is the tenant for the newest phase: Start Campus and Nscale said they deployed 12,600 Nvidia Blackwell Ultra GPUs for it at SIN01, live by the first quarter of 2026.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "The campus also helped bring down a government.",
+    "src": "https://www.commondreams.org/opinion/sines-4-0-data-center-portugal"
+   },
+   {
+    "para": 1,
+    "t": "In November 2023 Portugal's prime minister António Costa resigned after Operation Influencer, a corruption investigation that took in a green hydrogen plant, lithium mines and this project.",
+    "src": "https://www.commondreams.org/opinion/sines-4-0-data-center-portugal"
+   },
+   {
+    "para": 1,
+    "t": "Prosecutors arrested several people, released them shortly afterwards, and did not charge some of them; the main allegation was influence peddling, and Costa's chief of staff was found with 75,000 euro in cash in his office.",
+    "src": "https://www.commondreams.org/opinion/sines-4-0-data-center-portugal"
+   },
+   {
+    "para": 1,
+    "t": "Two Start Campus executives, Afonso Salema and Rui Oliveira Neves, resigned while under investigation for bribery and corruption; the charges were later dropped.",
+    "src": "https://www.datacenterfrontier.com/colocation/article/55133589/fresh-start-sines-dc-eyes-sustainable-12-gw-it-capacity-as-europes-largest-colocation-campus"
+   },
+   {
+    "para": 2,
+    "t": "The environmental record is contested.",
+    "src": "https://www.commondreams.org/opinion/sines-4-0-data-center-portugal"
+   },
+   {
+    "para": 2,
+    "t": "A procedure known as the Environmental Simplex was described as making it easier to get around legislation protecting habitats and sensitive ground such as areas of maximum infiltration and steep slopes.",
+    "src": "https://www.commondreams.org/opinion/sines-4-0-data-center-portugal"
+   },
+   {
+    "para": 2,
+    "t": "Felling 1,800 cork oaks was approved at the EDP Renováveis Morgavel wind farm, which is to supply the campus.",
+    "src": "https://www.commondreams.org/opinion/sines-4-0-data-center-portugal"
+   },
+   {
+    "para": 2,
+    "t": "At full build the campus would consume 4,769.8 gigawatt hours a year, about 20 percent of all the renewable electricity Portugal generated in 2022.",
+    "src": "https://www.commondreams.org/opinion/sines-4-0-data-center-portugal"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterfrontier.com/colocation/article/55133589/fresh-start-sines-dc-eyes-sustainable-12-gw-it-capacity-as-europes-largest-colocation-campus",
+   "https://www.commondreams.org/opinion/sines-4-0-data-center-portugal"
+  ],
+  "unconfirmed": "Reports that Portugal's Institute for Nature Conservation and Forests found the first building was put up on a priority wetland habitat, against Start Campus's promises, appear in search results, but both pages carrying that finding refuse our requests, so the finding and the company's answer to it are not stated here. No resident of Sines is quoted in anything we could read, and no council decision or objection was found. Capacity figures for SIN01 differ across sources: 14 then 26 megawatts in the trade press, 37.5 in our record, 33 estimated by Epoch AI."
+ },
+ {
+  "id": "epoch-xai-qts-atlanta",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "xAI, Elon Musk's AI company, uses computing capacity inside a QTS data center at 1025 Jefferson Street NW in Atlanta, in Fulton County, a site X, formerly Twitter, has occupied for more than a decade.",
+    "src": "https://fortune.com/2025/01/24/elon-musk-xai-sharing-x-equipment-gpus-datacenter-georgia-tax-breaks-documents/"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI estimates the site's current IT power, attributable to xAI, at 17.3 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "In December 2024, Fulton County's Development Authority approved roughly $10.1 million in property tax breaks on $700 million of computing equipment xAI and X had already bought for the site.",
+    "src": "https://fortune.com/2025/01/24/elon-musk-xai-sharing-x-equipment-gpus-datacenter-georgia-tax-breaks-documents/"
+   },
+   {
+    "para": 1,
+    "t": "The deal followed months of negotiation and an earlier tied vote on the board, and drew criticism from residents who argued Musk, the world's richest person, did not need a tax break and that the project would bring few jobs.",
+    "src": "https://fortune.com/2025/01/24/elon-musk-xai-sharing-x-equipment-gpus-datacenter-georgia-tax-breaks-documents/"
+   },
+   {
+    "para": 1,
+    "t": "To build support, xAI and X committed to roughly $300,000 a year in local education sponsorships, mentorship programs and hackathons.",
+    "src": "https://fortune.com/2025/01/24/elon-musk-xai-sharing-x-equipment-gpus-datacenter-georgia-tax-breaks-documents/"
+   },
+   {
+    "para": 1,
+    "t": "Kwanza Hall, chairman of the board at Develop Fulton, described the politics of the deal: \"Elon Musk was a lightning rod to the community in a very Democratic stronghold.\"",
+    "src": "https://fortune.com/2025/01/24/elon-musk-xai-sharing-x-equipment-gpus-datacenter-georgia-tax-breaks-documents/"
+   },
+   {
+    "para": 2,
+    "t": "Atlanta has not restricted data centers citywide, but it did ban new ones in its Beltline Business District starting October 1, 2024, a different part of town from the QTS site.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://fortune.com/2025/01/24/elon-musk-xai-sharing-x-equipment-gpus-datacenter-georgia-tax-breaks-documents/"
+  ],
+  "unconfirmed": "Could not confirm the final Development Authority vote count on the tax break, or find a direct quote from a resident who spoke against it at a public meeting."
+ },
+ {
+  "id": "epoch-anthropic-barber-lake",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Cipher Mining's Barber Lake data center sits at 951 County Road 204 outside Colorado City, in Mitchell County, Texas.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "In September 2025, Fluidstack signed a 10-year, 168-megawatt AI hosting agreement with Cipher for the site, with Google backstopping $1.4 billion of Fluidstack's lease obligations in exchange for warrants for about 5.4% of Cipher's stock.",
+    "src": "https://www.globenewswire.com/news-release/2025/09/25/3156107/0/en/Cipher-Mining-Signs-168-MW-10-Year-AI-Hosting-Agreement-with-Fluidstack.html"
+   },
+   {
+    "para": 0,
+    "t": "Cipher said the deal was worth about $3 billion in contracted revenue over its first ten years, rising to as much as $7 billion if two five-year extensions are exercised.",
+    "src": "https://www.globenewswire.com/news-release/2025/09/25/3156107/0/en/Cipher-Mining-Signs-168-MW-10-Year-AI-Hosting-Agreement-with-Fluidstack.html"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI tracks Anthropic as the facility's ultimate customer; the site had not yet begun operating as of Epoch AI's most recent count.",
+    "src": "data:capacity_note"
+   },
+   {
+    "para": 1,
+    "t": "A July 2026 storm badly damaged Colorado City's well pump station, leaving residents without reliable water for days.",
+    "src": "https://www.globenewswire.com/news-release/2026/09/14/3361574/0/en/cipher-digital-fluidstack-and-anthropic-commit-10-million-to-repair-and-expand-colorado-city-s-water-system.html"
+   },
+   {
+    "para": 1,
+    "t": "On September 14, 2026, Cipher, Fluidstack and Anthropic together committed $10 million to a newly created Colorado City Water Infrastructure Foundation to repair aging pipes and valves and add storage capacity.",
+    "src": "https://www.globenewswire.com/news-release/2026/09/14/3361574/0/en/cipher-digital-fluidstack-and-anthropic-commit-10-million-to-repair-and-expand-colorado-city-s-water-system.html"
+   },
+   {
+    "para": 1,
+    "t": "The Barber Lake plant draws its own on-site, non-potable water and does not pull from Colorado City's municipal system, according to the companies, who said the plant would not raise residents' water bills.",
+    "src": "https://www.stocktitan.net/news/CIFR/cipher-digital-fluidstack-and-anthropic-commit-10-million-to-repair-qp6c0s8682lt.html"
+   },
+   {
+    "para": 1,
+    "t": "Mayor Ruben Hurt said the companies had promised to be good neighbours: \"This $10 million contribution demonstrates they meant every word.\"",
+    "src": "https://www.globenewswire.com/news-release/2026/09/14/3361574/0/en/cipher-digital-fluidstack-and-anthropic-commit-10-million-to-repair-and-expand-colorado-city-s-water-system.html"
+   },
+   {
+    "para": 1,
+    "t": "Cipher chief executive Tyler Page said, \"Being a good neighbor means showing up for issues that matter most to communities where we operate, even when those issues predate us,\" and Kate Franko, Fluidstack's public affairs lead, said: \"This summer, our neighbors here had a problem. We asked if we could help, and we're glad the answer was yes.\"",
+    "src": "https://www.globenewswire.com/news-release/2026/09/14/3361574/0/en/cipher-digital-fluidstack-and-anthropic-commit-10-million-to-repair-and-expand-colorado-city-s-water-system.html"
+   },
+   {
+    "para": 2,
+    "t": "On August 3, 2026, Texas Governor Greg Abbott ordered state regulators to audit data centers seeking grid connections, freezing approvals while the reviews run, amid what the Texas Tribune called growing public backlash to the pace of the buildout.",
+    "src": "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/"
+   }
+  ],
+  "sources": [
+   "https://www.globenewswire.com/news-release/2025/09/25/3156107/0/en/Cipher-Mining-Signs-168-MW-10-Year-AI-Hosting-Agreement-with-Fluidstack.html",
+   "https://www.globenewswire.com/news-release/2026/09/14/3361574/0/en/cipher-digital-fluidstack-and-anthropic-commit-10-million-to-repair-and-expand-colorado-city-s-water-system.html",
+   "https://www.stocktitan.net/news/CIFR/cipher-digital-fluidstack-and-anthropic-commit-10-million-to-repair-qp6c0s8682lt.html",
+   "https://www.texastribune.org/2026/08/03/texas-data-center-project-audit-greg-abbott/"
+  ],
+  "unconfirmed": "Could not find a named Colorado City resident describing the water crisis in their own words; all direct quotes found came from company executives and the mayor. Could not confirm whether Barber Lake's grid connection, if any beyond its own generation, falls under the August 2026 state moratorium."
+ },
+ {
+  "id": "epoch-coreweave-muskogee-ok",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Core Scientific and the Port of Muskogee broke ground on November 18, 2024, on a 100-megawatt data center at 1525 W 43rd St S in Muskogee, Oklahoma, meant to host Nvidia GPUs for CoreWeave.",
+    "src": "https://investors.corescientific.com/news-events/press-releases/detail/99/core-scientific-and-port-muskogee-break-ground-on-100-mw-hpc-data-center"
+   },
+   {
+    "para": 0,
+    "t": "Of the 100 megawatts, about 70 are dedicated to GPU computing and 30 to support systems; the facility is expected to be operating in 2026.",
+    "src": "https://investors.corescientific.com/news-events/press-releases/detail/99/core-scientific-and-port-muskogee-break-ground-on-100-mw-hpc-data-center"
+   },
+   {
+    "para": 0,
+    "t": "It is one piece of a larger, 500-megawatt, 12-year hosting contract between Core Scientific and CoreWeave valued at $8.7 billion.",
+    "src": "https://investors.corescientific.com/news-events/press-releases/detail/99/core-scientific-and-port-muskogee-break-ground-on-100-mw-hpc-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Port Muskogee's executive director, Kimbra Scott, said the project represented \"more than a data center; it's a commitment to economic progress,\" citing $4 billion in capital investment and $182 million in local net benefits over the life of the project.",
+    "src": "https://investors.corescientific.com/news-events/press-releases/detail/99/core-scientific-and-port-muskogee-break-ground-on-100-mw-hpc-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Core Scientific said the project would create about 150 jobs paying an average of more than $65,000 and generate over $12 million in property and sales tax revenue for Muskogee County, the Hilldale School District and the city.",
+    "src": "https://investors.corescientific.com/news-events/press-releases/detail/99/core-scientific-and-port-muskogee-break-ground-on-100-mw-hpc-data-center"
+   },
+   {
+    "para": 2,
+    "t": "On August 10, 2026, the Cherokee Nation banned hyperscale data centers on its own tribally owned and trust land, after a task force found 64% of surveyed citizens opposed them, citing water and energy use, noise and cultural resource concerns; it is not clear whether Muskogee itself falls within Cherokee Nation's jurisdiction.",
+    "src": "https://tribalbusinessnews.com/sections/economic-development/15724-cherokee-nation-bans-hyperscale-data-centers-on-tribal-lands"
+   },
+   {
+    "para": 2,
+    "t": "Nearby, Tulsa and Broken Arrow have both passed temporary moratoriums on new data center construction in 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://investors.corescientific.com/news-events/press-releases/detail/99/core-scientific-and-port-muskogee-break-ground-on-100-mw-hpc-data-center",
+   "https://tribalbusinessnews.com/sections/economic-development/15724-cherokee-nation-bans-hyperscale-data-centers-on-tribal-lands"
+  ],
+  "unconfirmed": "Could not find any local Muskogee news coverage independent of the developer's own press release, or any direct resident reaction to the project."
+ }
+]

@@ -1,0 +1,439 @@
+[
+ {
+  "id": "gemini-google-osasco",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Osasco data centre sits in the São Paulo metropolitan area, where about a third of Brazil's data centres are.",
+    "src": "https://restofworld.org/2025/brazil-data-center-environmental-risk/"
+   },
+   {
+    "para": 0,
+    "t": "Osasco and neighbouring Barueri have been drawing smaller projects as land and available power run short closer in.",
+    "src": "https://aligneddc.com/brazil-data-centers/"
+   },
+   {
+    "para": 0,
+    "t": "No address, capacity, water figure or employment number for Google's site has been published.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "São Paulo went through an acute water crisis about a decade ago, which is why the arrival of this industry worries people there.",
+    "src": "https://restofworld.org/2025/brazil-data-center-environmental-risk/"
+   },
+   {
+    "para": 1,
+    "t": "An engineering professor at the Federal University of Rio de Janeiro has said the build out is putting significant pressure on Brazil's energy system and could have a major environmental effect, particularly given where the buildings are going.",
+    "src": "https://dialogue.earth/en/energy/ai-for-whom-inside-brazils-data-centre-boom/"
+   },
+   {
+    "para": 1,
+    "t": "Brazil's government wants the country to be a sustainable data centre hub; environmentalists are sceptical.",
+    "src": "https://restofworld.org/2025/brazil-data-center-environmental-risk/"
+   }
+  ],
+  "sources": [
+   "https://restofworld.org/2025/brazil-data-center-environmental-risk/",
+   "https://aligneddc.com/brazil-data-centers/",
+   "https://dialogue.earth/en/energy/ai-for-whom-inside-brazils-data-centre-boom/"
+  ],
+  "unconfirmed": "Searches on Osasco with Google, on São Paulo with data centre water, and on Brazil with data centre residents found no address, capacity, water or power figure for this facility and no Brazilian local reporting naming it. Everything above describes São Paulo and Brazil rather than this site, and the professor quoted is paraphrased from a summary rather than quoted directly."
+ },
+ {
+  "id": "gemini-aws-queretaro",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon Web Services opened a new cloud data centre region in Queretaro, Mexico, on January 14, 2025.",
+    "src": "https://press.aboutamazon.com/2025/1/aws-launches-infrastructure-region-in-mexico"
+   },
+   {
+    "para": 0,
+    "t": "The region is built as three separate availability zones, each with its own power, cooling and security systems, so a problem at one does not take down the others.",
+    "src": "https://press.aboutamazon.com/2025/1/aws-launches-infrastructure-region-in-mexico"
+   },
+   {
+    "para": 0,
+    "t": "AWS says it is investing more than 5 billion dollars in the region over 15 years.",
+    "src": "https://press.aboutamazon.com/2025/1/aws-launches-infrastructure-region-in-mexico"
+   },
+   {
+    "para": 0,
+    "t": "The company projects the project will add about 10 billion dollars to Mexico's economy and support more than 7,000 jobs a year in construction, maintenance and engineering.",
+    "src": "https://press.aboutamazon.com/2025/1/aws-launches-infrastructure-region-in-mexico"
+   },
+   {
+    "para": 0,
+    "t": "AWS also created a 300,000 dollar community fund for local schools and groups in Queretaro.",
+    "src": "https://press.aboutamazon.com/2025/1/aws-launches-infrastructure-region-in-mexico"
+   },
+   {
+    "para": 0,
+    "t": "AWS describes the facility as air cooled, drawing no water for ongoing cooling.",
+    "src": "https://press.aboutamazon.com/2025/1/aws-launches-infrastructure-region-in-mexico"
+   },
+   {
+    "para": 1,
+    "t": "Amazon's region sits next to Microsoft's existing Queretaro data center, and Oracle and Aligned Data Centers both operate facilities within eight kilometers.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://press.aboutamazon.com/2025/1/aws-launches-infrastructure-region-in-mexico"
+  ],
+  "unconfirmed": "No local Mexican news coverage of permitting, water use disputes or community reaction was found beyond AWS's own announcement."
+ },
+ {
+  "id": "gemini-oracle-ashburn",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Oracle leases space inside a data center at 43915 Devin Shafron Drive in Ashburn, in Loudoun County, Virginia, built in 2010 on an 8.2-acre lot within a larger campus owned by Digital Realty.",
+    "src": "https://dgtlinfra.com/data-center-43915-devin-shafron-drive/"
+   },
+   {
+    "para": 0,
+    "t": "Oracle occupies 91,809 square feet there, drawing 6.75 megawatts, three-quarters of the building's total critical power load.",
+    "src": "https://dgtlinfra.com/data-center-43915-devin-shafron-drive/"
+   },
+   {
+    "para": 0,
+    "t": "Its lease runs through August 31, 2032, and Oracle pays roughly 9.47 million dollars a year in rent.",
+    "src": "https://dgtlinfra.com/data-center-43915-devin-shafron-drive/"
+   },
+   {
+    "para": 0,
+    "t": "The building's other main tenant is Morgan Stanley.",
+    "src": "https://dgtlinfra.com/data-center-43915-devin-shafron-drive/"
+   },
+   {
+    "para": 0,
+    "t": "The property last sold in 2022, when GI Partners bought it from Starwood Capital for 150 million dollars.",
+    "src": "https://dgtlinfra.com/data-center-43915-devin-shafron-drive/"
+   },
+   {
+    "para": 1,
+    "t": "The building is one of about 50 data centers in Loudoun County, the heart of what the industry calls Data Center Alley.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "Loudoun sits inside PJM, the regional grid serving 13 states and Washington, and PJM's own numbers show peak demand of about 145 gigawatts against roughly 163 gigawatts of capacity, a margin the industry considers tight.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 1,
+    "t": "That strain has pushed neighboring jurisdictions to act: Fairfax County tightened its data center zoning in September 2024, Fauquier County did the same in December 2023, and the town of Warrenton banned data centers outright on July 1, 2025.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Prince William County adopted new zoning limits in March 2026, after its huge Digital Gateway data center project was halted.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Across the Potomac, Montgomery County, Maryland tightened its own zoning in January 2026 and then imposed a six-month moratorium on new data center permits that June, a move that has since been litigated.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://dgtlinfra.com/data-center-43915-devin-shafron-drive/"
+  ],
+  "unconfirmed": "None of these zoning fights or moratoriums is confirmed to apply to Oracle's specific Ashburn lease; they describe the wider Loudoun and Northern Virginia region, not this building."
+ },
+ {
+  "id": "gemini-oracle-salt-lake-city",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Oracle's Utah data center is at 6136 West 10120 South in West Jordan, in the Salt Lake City area, a campus of about 100 acres and four buildings that the company calls Project Sequoia.",
+    "src": "https://cleanview.co/data-centers/utah/4189/oracle-west-jordan-project-sequoia"
+   },
+   {
+    "para": 0,
+    "t": "The original building runs to 179,000 square feet and cost about $285 million, with Oracle saying at the time that it would eventually employ 100 people on average salaries of $82,000.",
+    "src": "https://www.deseret.com/2008/10/25/20282229/oracle-facility-to-employ-at-least-100-people/"
+   },
+   {
+    "para": 1,
+    "t": "In a state where water is the permanent argument, this campus is cooled by air rather than water.",
+    "src": "https://cleanview.co/data-centers/utah/4189/oracle-west-jordan-project-sequoia"
+   },
+   {
+    "para": 1,
+    "t": "It uses air side economisers and hot aisle containment, taking advantage of Utah's dry climate.",
+    "src": "https://cleanview.co/data-centers/utah/4189/oracle-west-jordan-project-sequoia"
+   },
+   {
+    "para": 1,
+    "t": "Oracle resumed construction on the site after a pause, and runs its AI database there in partnership with Google Cloud.",
+    "src": "https://www.ksl.com/article/news/utah/oracle-resumes-construction-of-utah-data-center/10587589"
+   }
+  ],
+  "sources": [
+   "https://cleanview.co/data-centers/utah/4189/oracle-west-jordan-project-sequoia",
+   "https://www.deseret.com/2008/10/25/20282229/oracle-facility-to-employ-at-least-100-people/",
+   "https://www.ksl.com/article/news/utah/oracle-resumes-construction-of-utah-data-center/10587589"
+  ],
+  "unconfirmed": "Searches on Oracle with West Jordan, on Salt Lake City with data center water, and on Oracle with Utah found no power capacity figure, no hearing record and no resident comment on this campus. The dates of the construction pause and its resumption were not established, and the employment figure comes from a 2008 announcement rather than a current count."
+ },
+ {
+  "id": "gemini-oracle-iowa",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "An Oracle data center is listed in Story County, Iowa, but nothing published confirms one exists.",
+    "src": "data:county"
+   },
+   {
+    "para": 0,
+    "t": "Directories of Iowa data centres name Meta, Google, Microsoft and QTS, and not Oracle.",
+    "src": "https://dailyiowan.com/2025/12/09/cedar-rapids-data-centers-ignite-concern-from-energy-advocates-excitement-from-officials/"
+   },
+   {
+    "para": 1,
+    "t": "What is happening in Iowa is happening to other companies.",
+    "src": "https://dailyiowan.com/2025/12/09/cedar-rapids-data-centers-ignite-concern-from-energy-advocates-excitement-from-officials/"
+   },
+   {
+    "para": 1,
+    "t": "Google began a $576 million project at Cedar Rapids in May 2025, due to finish by 2031, and QTS started building a $750 million development there in August 2025.",
+    "src": "https://dailyiowan.com/2025/12/09/cedar-rapids-data-centers-ignite-concern-from-energy-advocates-excitement-from-officials/"
+   },
+   {
+    "para": 1,
+    "t": "Google's Cedar Rapids site is estimated to use just over 4 million gallons of water a day, against an industry average of about 300,000.",
+    "src": "https://dailyiowan.com/2025/12/09/cedar-rapids-data-centers-ignite-concern-from-energy-advocates-excitement-from-officials/"
+   },
+   {
+    "para": 1,
+    "t": "Wally Taylor, legal chair of the Sierra Club in Iowa, said of the build out: \"There are a lot of unknowns that really need to be determined before we just jump blindly into thinking these data centers are a great thing.\"",
+    "src": "https://dailyiowan.com/2025/12/09/cedar-rapids-data-centers-ignite-concern-from-energy-advocates-excitement-from-officials/"
+   },
+   {
+    "para": 1,
+    "t": "Linn County residents have worried about their utility bills; supervisor Sami Scheetz has said costs will not rise because Google is funding the reopening of the Duane Arnold nuclear plant, announced on October 27, 2025.",
+    "src": "https://dailyiowan.com/2025/12/09/cedar-rapids-data-centers-ignite-concern-from-energy-advocates-excitement-from-officials/"
+   }
+  ],
+  "sources": [
+   "https://dailyiowan.com/2025/12/09/cedar-rapids-data-centers-ignite-concern-from-energy-advocates-excitement-from-officials/"
+  ],
+  "unconfirmed": "Searches on Oracle with Iowa, on Oracle with Cedar Rapids and Altoona, and on Iowa with data center providers produced nothing describing an Oracle facility in the state: no address, no announcement, no permit record and no directory listing. Its status, capacity and existence could not be confirmed from any source outside our own record, so none of the Cedar Rapids reporting above describes an Oracle site."
+ },
+ {
+  "id": "gemini-oracle-montreal",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Oracle opened its Montreal cloud data centre region on March 30, 2020, its second in Canada after Toronto, making Canada one of the countries where the company runs a pair.",
+    "src": "https://www.oracle.com/corporate/pressrelease/oracle-cloud-region-montreal-033020.html"
+   },
+   {
+    "para": 0,
+    "t": "What draws this industry to Montreal is cheap hydroelectric power.",
+    "src": "https://www.oracle.com/corporate/pressrelease/oracle-cloud-region-montreal-033020.html"
+   },
+   {
+    "para": 0,
+    "t": "Microsoft, Amazon and Google all build there too, and Google's Quebec project at Beauharnois required the provincial government to rezone 62.4 hectares of Hydro-Québec land out of the agricultural zone.",
+    "src": "https://globalnews.ca/news/7849110/google-canada-expansion-quebec-beauharnois/"
+   }
+  ],
+  "sources": [
+   "https://www.oracle.com/corporate/pressrelease/oracle-cloud-region-montreal-033020.html",
+   "https://globalnews.ca/news/7849110/google-canada-expansion-quebec-beauharnois/",
+   "https://www.cbc.ca/news/ai-data-centre-canada-water-use-9.6939684"
+  ],
+  "unconfirmed": "Nothing has been published about Oracle's own Montreal buildings: no address, capacity, water figure or employment number, and three searches found no Canadian coverage of them."
+ },
+ {
+  "id": "gemini-oracle-toronto",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Oracle announced its Toronto cloud data centre region in January 2019, the first of two it now runs in Canada.",
+    "src": "https://www.oracle.com/corporate/pressrelease/oracle-next-gen-data-center-canada-011719.html"
+   },
+   {
+    "para": 1,
+    "t": "The broader question in Canada is how much water these buildings will take.",
+    "src": "https://www.cbc.ca/news/ai-data-centre-canada-water-use-9.6939684"
+   },
+   {
+    "para": 1,
+    "t": "A professor of municipal water engineering at the University of Toronto has warned that cooling them could strain the country's water infrastructure, and the CBC has reported that establishing how much any individual site uses is close to impossible.",
+    "src": "https://www.cbc.ca/news/ai-data-centre-canada-water-use-9.6939684"
+   }
+  ],
+  "sources": [
+   "https://www.oracle.com/corporate/pressrelease/oracle-next-gen-data-center-canada-011719.html",
+   "https://www.cbc.ca/news/ai-data-centre-canada-water-use-9.6939684"
+  ],
+  "unconfirmed": "Neither the address, the capacity, the water use nor the employment for Oracle's Toronto region has been published, and three searches found no Canadian coverage of the building itself."
+ },
+ {
+  "id": "gemini-core-scientific-marble-falls",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Core Scientific operates a data center at Marble Falls, in Mills County in the Texas Hill Country north west of Austin.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "What is documented is the complaint these buildings generate in Texas generally.",
+    "src": "https://www.chron.com/news/article/data-centers-brazoria-county-noises-22261489.php"
+   },
+   {
+    "para": 1,
+    "t": "Residents living near a data center in Brazoria County have described the sound as a giant washing machine that never turns off, carrying half a mile or more from the cooling plant, generators and fans, and have linked living with it to headaches, vertigo, nausea, broken sleep, ear pain and high blood pressure.",
+    "src": "https://www.chron.com/news/article/data-centers-brazoria-county-noises-22261489.php"
+   }
+  ],
+  "sources": [
+   "https://www.chron.com/news/article/data-centers-brazoria-county-noises-22261489.php"
+  ],
+  "unconfirmed": "Three searches found nothing written about the Marble Falls site itself: no hearing, no permit record, no capacity figure and no resident comment. The Brazoria County reporting above describes a different Texas site and is offered as context, not as an account of this one."
+ },
+ {
+  "id": "gemini-core-scientific-dalton",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Core Scientific has been in Dalton, in Whitfield County, Georgia, since 2018, and runs two data centers there with a combined 50 megawatts.",
+    "src": "https://newschannel9.com/news/local/in-whitfield-county-officials-face-growing-resident-backlash-as-data-centers-expand"
+   },
+   {
+    "para": 0,
+    "t": "In March 2025 the county approved rezoning for a third, 173 acres near Old Tilton Road, at a public meeting where dozens of residents spoke against it.",
+    "src": "https://newschannel9.com/news/local/5-million-a-month-in-power-dalton-ai-data-center-moves-forward-amid-energy-debate-core-scientific-dalton-whitfield-county-rezoning-m-2-ai-data-center-georgia-dalton-utilities-transfer-fee-old-tilton-road-development"
+   },
+   {
+    "para": 0,
+    "t": "Several of those objecting came from farming families who had been on the land for generations, worried about noise from the cooling plant, traffic and what it would do to how they live.",
+    "src": "https://newschannel9.com/news/local/5-million-a-month-in-power-dalton-ai-data-center-moves-forward-amid-energy-debate-core-scientific-dalton-whitfield-county-rezoning-m-2-ai-data-center-georgia-dalton-utilities-transfer-fee-old-tilton-road-development"
+   },
+   {
+    "para": 0,
+    "t": "One resident warned the commission: \"If you're talking about the size facility that is being discussed, you've got a monster.\"",
+    "src": "https://newschannel9.com/news/local/5-million-a-month-in-power-dalton-ai-data-center-moves-forward-amid-energy-debate-core-scientific-dalton-whitfield-county-rezoning-m-2-ai-data-center-georgia-dalton-utilities-transfer-fee-old-tilton-road-development"
+   },
+   {
+    "para": 1,
+    "t": "The company spends about $5 million a month on electricity in Dalton.",
+    "src": "https://newschannel9.com/news/local/5-million-a-month-in-power-dalton-ai-data-center-moves-forward-amid-energy-debate-core-scientific-dalton-whitfield-county-rezoning-m-2-ai-data-center-georgia-dalton-utilities-transfer-fee-old-tilton-road-development"
+   },
+   {
+    "para": 1,
+    "t": "Dalton Utilities says data centers cover the full cost of their own power supply, and Carl Campbell of the Dalton-Whitfield Joint Development Authority said: \"All that money from the power generation helps our city.\"",
+    "src": "https://newschannel9.com/news/local/5-million-a-month-in-power-dalton-ai-data-center-moves-forward-amid-energy-debate-core-scientific-dalton-whitfield-county-rezoning-m-2-ai-data-center-georgia-dalton-utilities-transfer-fee-old-tilton-road-development"
+   },
+   {
+    "para": 2,
+    "t": "What the air permits show is the scale of what is coming.",
+    "src": "https://daltoncitizen.com/2026/05/30/two-air-permits-in-process-for-local-core-scientific-data-center-sites/"
+   },
+   {
+    "para": 2,
+    "t": "The existing Dalton 01 site at 2205 Industrial South Road applied for eight standby diesel generators totalling 21.6 megawatts.",
+    "src": "https://daltoncitizen.com/2026/05/30/two-air-permits-in-process-for-local-core-scientific-data-center-sites/"
+   },
+   {
+    "para": 2,
+    "t": "Dalton 4, on Old Tilton Road, applied for up to 80 emergency generators against a planned capacity of about 145 megawatts.",
+    "src": "https://daltoncitizen.com/2026/05/30/two-air-permits-in-process-for-local-core-scientific-data-center-sites/"
+   },
+   {
+    "para": 2,
+    "t": "Public comment on the Old Tilton Road permit closed on April 24, 2026 and on Industrial South Road on June 26, 2026.",
+    "src": "https://daltoncitizen.com/2026/05/30/two-air-permits-in-process-for-local-core-scientific-data-center-sites/"
+   },
+   {
+    "para": 2,
+    "t": "Sara Lips of Georgia's Environmental Protection Division said on May 27, 2026 that the Old Tilton Road permit was \"in the final stages of review.\"",
+    "src": "https://daltoncitizen.com/2026/05/30/two-air-permits-in-process-for-local-core-scientific-data-center-sites/"
+   },
+   {
+    "para": 2,
+    "t": "Those permits cover generator emissions only, not the data centers themselves.",
+    "src": "https://daltoncitizen.com/2026/05/30/two-air-permits-in-process-for-local-core-scientific-data-center-sites/"
+   },
+   {
+    "para": 3,
+    "t": "At a county commission meeting on June 8, 2026, residents were still arguing.",
+    "src": "https://newschannel9.com/news/local/in-whitfield-county-officials-face-growing-resident-backlash-as-data-centers-expand"
+   },
+   {
+    "para": 3,
+    "t": "Carmen Shuler said: \"We now feel threatened by unplanned development of AI data centers in our community.\"",
+    "src": "https://newschannel9.com/news/local/in-whitfield-county-officials-face-growing-resident-backlash-as-data-centers-expand"
+   },
+   {
+    "para": 3,
+    "t": "Cathy Kott said: \"These are billionaires coming in to make profit off of our community. They should be giving not just in assets but also in information.\"",
+    "src": "https://newschannel9.com/news/local/in-whitfield-county-officials-face-growing-resident-backlash-as-data-centers-expand"
+   },
+   {
+    "para": 3,
+    "t": "County administrator Bob Sivick told them: \"Electric power is not a finite resource kept in a warehouse somewhere. It's part of a regional pool, and electricity is routed to where it's needed or where it's not needed.\"",
+    "src": "https://newschannel9.com/news/local/in-whitfield-county-officials-face-growing-resident-backlash-as-data-centers-expand"
+   }
+  ],
+  "sources": [
+   "https://newschannel9.com/news/local/5-million-a-month-in-power-dalton-ai-data-center-moves-forward-amid-energy-debate-core-scientific-dalton-whitfield-county-rezoning-m-2-ai-data-center-georgia-dalton-utilities-transfer-fee-old-tilton-road-development",
+   "https://newschannel9.com/news/local/in-whitfield-county-officials-face-growing-resident-backlash-as-data-centers-expand",
+   "https://daltoncitizen.com/2026/05/30/two-air-permits-in-process-for-local-core-scientific-data-center-sites/"
+  ],
+  "unconfirmed": "No water figure for any of the Dalton sites was found, and no exact date or vote count for the March 2025 rezoning. Which of Core Scientific's Dalton buildings our record's 108 word entry described could not be established, so this page covers the company's Whitfield County operations together. Whether the Old Tilton Road air permit was granted was not established."
+ },
+ {
+  "id": "gemini-core-scientific-grand-forks-1",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Core Scientific's Grand Forks data center sits on 20 acres in North Dakota, placed in service in November 2021 and at full capacity by March 2022, running at 100 megawatts.",
+    "src": "https://corescientific.com/high-density-data-centers/grand-forks-nd/"
+   },
+   {
+    "para": 0,
+    "t": "It mines bitcoin rather than serving cloud customers, and it is one of two crypto mining data centers in the city, alongside one run by Sundog Mining.",
+    "src": "https://www.grandforksherald.com/news/local/grand-forks-city-county-governments-prepare-for-the-possibility-of-future-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "The argument in Grand Forks now is about what comes next.",
+    "src": "https://www.grandforksherald.com/news/local/grand-forks-city-county-governments-prepare-for-the-possibility-of-future-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "City and county governments have been preparing for the arrival of larger AI facilities, and a public forum on August 28 let residents, local leaders and state representatives put their concerns.",
+    "src": "https://www.grandforksherald.com/news/local/grand-forks-city-county-governments-prepare-for-the-possibility-of-future-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "What they raised was environmental effects, the power these buildings need, noise, and what it all means for local taxpayers.",
+    "src": "https://www.grandforksherald.com/news/local/grand-forks-city-county-governments-prepare-for-the-possibility-of-future-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "North Dakota officials have said publicly that some of the concern is fuelled by misinformation.",
+    "src": "https://www.grandforksherald.com/news/north-dakota/north-dakota-officials-say-data-center-concerns-fueled-by-misinformation"
+   },
+   {
+    "para": 1,
+    "t": "City and business leaders, for their part, want more data centers.",
+    "src": "https://www.grandforksherald.com/news/local/city-business-leaders-want-more-data-centers-in-grand-forks-what-does-that-mean"
+   }
+  ],
+  "sources": [
+   "https://corescientific.com/high-density-data-centers/grand-forks-nd/",
+   "https://www.grandforksherald.com/news/local/grand-forks-city-county-governments-prepare-for-the-possibility-of-future-data-centers",
+   "https://www.grandforksherald.com/news/north-dakota/north-dakota-officials-say-data-center-concerns-fueled-by-misinformation",
+   "https://www.grandforksherald.com/news/local/city-business-leaders-want-more-data-centers-in-grand-forks-what-does-that-mean"
+  ],
+  "unconfirmed": "Searches on Core Scientific with Grand Forks, on Grand Forks with data center noise, and on Grand Forks with city council found no resident quoted by name about this facility and no record of a noise complaint, hearing or council decision concerning it. The year of the August 28 public forum is not given in the source. No water figure was found."
+ }
+]

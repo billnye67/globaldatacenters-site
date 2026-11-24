@@ -1,0 +1,913 @@
+[
+ {
+  "id": "ft-291",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The DartPoints data center at 601 Milam Street is a small operating site in downtown Shreveport, in Caddo Parish, Louisiana, and not a new build.",
+    "src": "https://baxtel.com/data-center/dartpoints-shreveport-la"
+   },
+   {
+    "para": 0,
+    "t": "It opened in 2016 under a Louisiana company called Venyu, and DartPoints bought it in May 2023 along with two other Louisiana facilities.",
+    "src": "https://baxtel.com/data-center/dartpoints-shreveport-la"
+   },
+   {
+    "para": 0,
+    "t": "DartPoints is based in Dallas and has been majority owned by NOVA Infrastructure since April 2025.",
+    "src": "https://baxtel.com/data-center/dartpoints-shreveport-la"
+   },
+   {
+    "para": 1,
+    "t": "The company says the site draws 2.2 megawatts of utility power, backed by 4,000 kilowatts of generators and 760 tons of cooling, across a data hall of about 5,600 square feet holding more than 200 racks.",
+    "src": "https://dartpoints.com/locations/shv01-shreveport-la/"
+   },
+   {
+    "para": 1,
+    "t": "It advertises itself as the only Tier III rated facility in Louisiana.",
+    "src": "https://dartpoints.com/locations/shv01-shreveport-la/"
+   },
+   {
+    "para": 1,
+    "t": "Four other data center sites sit within 25 kilometres of it, three of them Amazon Web Services projects.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The argument over data centers in Caddo Parish is not about this building.",
+    "src": "https://www.ksla.com/2026/09/15/caddo-parish-commission-rejects-pause-data-center-construction/"
+   },
+   {
+    "para": 2,
+    "t": "On August 31, 2026, the parish commission voted 6 to 4 against a resolution asking its planning and zoning commission to consider pausing data center construction, with two commissioners absent.",
+    "src": "https://www.ksla.com/2026/09/15/caddo-parish-commission-rejects-pause-data-center-construction/"
+   },
+   {
+    "para": 2,
+    "t": "Stephen Jean of the Metropolitan Planning Commission told the meeting that the planning limit runs roughly five miles out from the Shreveport city limits and that beyond it \"there's no zoning whatsoever\", which is why new campuses out there face no local restriction.",
+    "src": "https://www.ksla.com/2026/09/15/caddo-parish-commission-rejects-pause-data-center-construction/"
+   },
+   {
+    "para": 3,
+    "t": "The nearest power station to the Milam Street building is the 110 megawatt Arsenal Hill gas plant about a kilometre away, with the 511 megawatt J Lamar Stall unit the same distance off.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "No capacity figure is attached to the site.",
+    "src": "data:capacity_mw"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/data-center/dartpoints-shreveport-la",
+   "https://dartpoints.com/locations/shv01-shreveport-la/",
+   "https://www.ksla.com/2026/09/15/caddo-parish-commission-rejects-pause-data-center-construction/"
+  ],
+  "unconfirmed": "No local reporting on the Milam Street building itself turned up. Three searches were run: the project name with Shreveport and the street address; Caddo Parish and Shreveport with \"data center\", \"residents\" and \"council\" for 2026; and DartPoints with Venyu and the building's history. All returned trade press, directory listings, or coverage of other projects in the parish. Whether this site has ever drawn an objection, who its tenants are, and what it pays in tax are unknown. The Business Facilities account of the 2016 opening, which appears to carry the renovation cost and the building's department store history, returned HTTP 403 and could not be read, so that detail is left out here. The company page gives about 5,600 square feet of data hall while directory listings give 7,300 and 87,000 for the whole building; only the company figure is used."
+ },
+ {
+  "id": "ft-1768933943301-3941",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The data center at 1 Summer Street in Boston, in Suffolk County, Massachusetts, is not a shed on the edge of town but a downtown building that has carried the region's telephone and network traffic for decades.",
+    "src": "https://www.datacenterknowledge.com/investing/markley-raises-240m-to-finance-data-center-expansion"
+   },
+   {
+    "para": 0,
+    "t": "Markley Group describes One Summer Street as 920,000 square feet with more than 90 carriers and network providers on site, and calls it New England's largest multi-tenant data center.",
+    "src": "https://www.markleygroup.com/data-center"
+   },
+   {
+    "para": 0,
+    "t": "By 2015 it housed over 250 companies, among them AT&T, the New York Times, Harvard, MIT and the Boston Internet Exchange, the point where much of the region's internet traffic passes between networks.",
+    "src": "https://www.datacenterknowledge.com/investing/markley-raises-240m-to-finance-data-center-expansion"
+   },
+   {
+    "para": 0,
+    "t": "The site is put at 30 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "On April 23, 2015 Markley raised $240 million in a syndicated package led by TD Bank to expand at One Summer Street and look at other New England sites.",
+    "src": "https://www.datacenterknowledge.com/investing/markley-raises-240m-to-finance-data-center-expansion"
+   },
+   {
+    "para": 1,
+    "t": "Chief executive Jeffrey Markley said the package \"allows us to accelerate our growth and explore new projects in new markets.\"",
+    "src": "https://www.datacenterknowledge.com/investing/markley-raises-240m-to-finance-data-center-expansion"
+   },
+   {
+    "para": 1,
+    "t": "One of those new sites was a former pasta factory in Lowell, and the company's expansion there has since produced a resident lawsuit, a city moratorium and a court order.",
+    "src": "https://www.wgbh.org/news/local/2026-07-29/in-one-mass-city-the-fight-over-a-data-center-has-hit-a-crisis-point"
+   },
+   {
+    "para": 1,
+    "t": "Markley links the two buildings with three dark fibre routes, so the Lowell white space is sold on the back of Summer Street's carrier access.",
+    "src": "https://www.markleygroup.com/data-center"
+   },
+   {
+    "para": 2,
+    "t": "Massachusetts cities have begun restricting data centers, but the nearest measures are elsewhere: a one year moratorium in Lowell from March 2026, and zoning limits adopted in Mansfield on May 15, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Boston has adopted no such measure.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The nearest power station is the 224 megawatt Kendall Square plant across the river, two kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.markleygroup.com/data-center",
+   "https://www.datacenterknowledge.com/investing/markley-raises-240m-to-finance-data-center-expansion",
+   "https://www.wgbh.org/news/local/2026-07-29/in-one-mass-city-the-fight-over-a-data-center-has-hit-a-crisis-point"
+  ],
+  "unconfirmed": "How much of the 920,000 square feet is data hall rather than office and carrier space is not stated anywhere we read, and the 30 megawatt figure in our record is not confirmed by any source: the company publishes no capacity number for Boston. The $240m financing is from 2015 and we found no more recent figure. Searches for Boston planning, zoning or neighbourhood objection to the Summer Street building turned up nothing, which is unsurprising for an existing downtown carrier hotel, but absence of coverage is not evidence of absence of complaint. Our record spells the operator \"Markely\"; the company is Markley Group."
+ },
+ {
+  "id": "ft-1769137398193-3423",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "No company has proposed a data center in Everett, in Middlesex County, Massachusetts.",
+    "src": "https://www.boston.com/news/local-news/2026/04/08/everett-restricts-data-centers-development/"
+   },
+   {
+    "para": 0,
+    "t": "The city spent the first half of 2026 writing rules so that none could be built as of right.",
+    "src": "https://www.boston.com/news/local-news/2026/04/08/everett-restricts-data-centers-development/"
+   },
+   {
+    "para": 0,
+    "t": "The land in question is the Everett Docklands Innovation District, about 100 acres of former industrial ground beside the Mystic River that the city carved out of its zoning code in 2024 to encourage redevelopment.",
+    "src": "https://www.boston.com/news/local-news/2026/04/08/everett-restricts-data-centers-development/"
+   },
+   {
+    "para": 0,
+    "t": "The Davis Companies holds a master plan special permit there allowing a range of uses.",
+    "src": "https://www.boston.com/news/local-news/2026/04/08/everett-restricts-data-centers-development/"
+   },
+   {
+    "para": 1,
+    "t": "On January 12, 2026, city councillors questioned a plan for a data center in the district and referred the matter to the planning board for study.",
+    "src": "https://advocatenews.net/everett/news/city-councillors-question-plan-for-data-center-in-docklands-innovation-district/"
+   },
+   {
+    "para": 1,
+    "t": "Councillor at large Katy Rogers told the meeting the city had to be cautious because data centers \"use astronomical amounts of water and electricity to create noise.\"",
+    "src": "https://advocatenews.net/everett/news/city-councillors-question-plan-for-data-center-in-docklands-innovation-district/"
+   },
+   {
+    "para": 1,
+    "t": "Ward 2 councillor Stephanie Martins opposed the idea, saying \"It's not time for this\" and that the employment would be insignificant.",
+    "src": "https://advocatenews.net/everett/news/city-councillors-question-plan-for-data-center-in-docklands-innovation-district/"
+   },
+   {
+    "para": 1,
+    "t": "Planning board member Stephanie McColaugh called them \"risky for the long-term security of our water and grid infrastructure\", and said one could use as much electricity as 80,000 to 800,000 homes.",
+    "src": "https://advocatenews.net/everett/news/city-councillors-question-plan-for-data-center-in-docklands-innovation-district/"
+   },
+   {
+    "para": 2,
+    "t": "On April 6, 2026, the planning board voted unanimously for an ordinance that would make a data center a discretionary use in the district, requiring a special permit.",
+    "src": "https://www.boston.com/news/local-news/2026/04/08/everett-restricts-data-centers-development/"
+   },
+   {
+    "para": 2,
+    "t": "It would cap any such building at 20,000 square feet or five megawatts, whichever is smaller, and allow it only as part of a larger mixed use development rather than on its own.",
+    "src": "https://www.boston.com/news/local-news/2026/04/08/everett-restricts-data-centers-development/"
+   },
+   {
+    "para": 2,
+    "t": "Applications would be reviewed for noise, water use, electricity demand and jobs.",
+    "src": "https://www.boston.com/news/local-news/2026/04/08/everett-restricts-data-centers-development/"
+   },
+   {
+    "para": 2,
+    "t": "Planning director Matt Lattanzi said the point was to avoid a building that sits alone: \"We didn't want to see a standalone data center, because that kills any type of activation of the site.\"",
+    "src": "https://www.boston.com/news/local-news/2026/04/08/everett-restricts-data-centers-development/"
+   },
+   {
+    "para": 2,
+    "t": "McColaugh put it more bluntly: \"I'm pro development in the city, but I think it's clear that this is not the development that Everett is looking for.\"",
+    "src": "https://www.boston.com/news/local-news/2026/04/08/everett-restricts-data-centers-development/"
+   },
+   {
+    "para": 3,
+    "t": "Both Lattanzi and McColaugh said the developer had not in fact proposed a data center.",
+    "src": "https://www.boston.com/news/local-news/2026/04/08/everett-restricts-data-centers-development/"
+   },
+   {
+    "para": 3,
+    "t": "The ordinance has to pass the city council twice before it takes effect, and a citywide version was being drafted separately.",
+    "src": "https://www.boston.com/news/local-news/2026/04/08/everett-restricts-data-centers-development/"
+   },
+   {
+    "para": 4,
+    "t": "The Everett entry stands as a proposal with no developer, no capacity and no acreage, resting on that January council discussion.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "Markley Group's operating Boston data center is five kilometres away, and a small operating site in Medford is two kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://advocatenews.net/everett/news/city-councillors-question-plan-for-data-center-in-docklands-innovation-district/",
+   "https://www.boston.com/news/local-news/2026/04/08/everett-restricts-data-centers-development/"
+  ],
+  "unconfirmed": "Whether any company ever formally applied is unclear. In January the council was discussing a plan for the district; by April the developer was saying it had not proposed one. We could not establish who brought the idea forward, or what size was ever discussed. The Advocate names a partner called Jupiter alongside The Davis Companies, and we found nothing further about it. Search results also referred to a January 2026 council amendment adding data centers to the prohibited use table for the district, which would be a stronger measure than the April ordinance; we could not read that report directly and so have not stated it as fact."
+ },
+ {
+  "id": "ft-1768935043811-8257",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The building that holds Markley Group's Lowell data center, at 1 Markley Way in Middlesex County, Massachusetts, made pasta for most of the twentieth century.",
+    "src": "https://www.wgbh.org/news/local/2026-07-29/in-one-mass-city-the-fight-over-a-data-center-has-hit-a-crisis-point"
+   },
+   {
+    "para": 0,
+    "t": "It was the Prince pasta plant from the late 1930s until the mid 1990s, then stood empty for about two decades.",
+    "src": "https://www.wgbh.org/news/local/2026-07-29/in-one-mass-city-the-fight-over-a-data-center-has-hit-a-crisis-point"
+   },
+   {
+    "para": 0,
+    "t": "Markley Group moved in in 2015 with a $77 million tax incentive package running 20 years, and turned it into 352,000 square feet of data center, the largest in Massachusetts.",
+    "src": "https://www.wgbh.org/news/local/2026-07-29/in-one-mass-city-the-fight-over-a-data-center-has-hit-a-crisis-point"
+   },
+   {
+    "para": 0,
+    "t": "It occupies 14 acres in the Sacred Heart and Back Central neighbourhoods, with houses immediately alongside.",
+    "src": "https://www.wgbh.org/news/local/2026-07-29/in-one-mass-city-the-fight-over-a-data-center-has-hit-a-crisis-point"
+   },
+   {
+    "para": 1,
+    "t": "The fight is about diesel.",
+    "src": "https://www.cbsnews.com/boston/news/judge-halts-expansion-data-center-lowell-massachusetts/"
+   },
+   {
+    "para": 1,
+    "t": "The site runs 19 backup diesel generators, and the Massachusetts Department of Environmental Protection approved a permit allowing eight more, which would take it to 27.",
+    "src": "https://www.cbsnews.com/boston/news/judge-halts-expansion-data-center-lowell-massachusetts/"
+   },
+   {
+    "para": 1,
+    "t": "One of the diesel stacks stands 84 feet from the home of Jake Fortes.",
+    "src": "https://www.cbsnews.com/boston/news/judge-halts-expansion-data-center-lowell-massachusetts/"
+   },
+   {
+    "para": 1,
+    "t": "The company says the generators run about five minutes a week for testing.",
+    "src": "https://www.wgbh.org/news/local/2026-07-29/in-one-mass-city-the-fight-over-a-data-center-has-hit-a-crisis-point"
+   },
+   {
+    "para": 1,
+    "t": "Residents say the fumes come into their houses during those tests.",
+    "src": "https://www.cbsnews.com/boston/news/judge-halts-expansion-data-center-lowell-massachusetts/"
+   },
+   {
+    "para": 1,
+    "t": "They also describe constant noise from the generators and cooling fans, chemical smells, and mist from the cooling towers settling on their yards.",
+    "src": "https://www.wgbh.org/news/local/2026-07-29/in-one-mass-city-the-fight-over-a-data-center-has-hit-a-crisis-point"
+   },
+   {
+    "para": 2,
+    "t": "The dispute is older than the lawsuit.",
+    "src": "https://www.govtech.com/analytics/massachusetts-residents-protest-data-farm-expansion"
+   },
+   {
+    "para": 2,
+    "t": "At a planning board hearing on September 19, 2024, dozens of residents turned out against a proposal to add four generators, nine modular chiller plants and a water treatment plant at 2 Prince Avenue and 1 Markley Way.",
+    "src": "https://www.govtech.com/analytics/massachusetts-residents-protest-data-farm-expansion"
+   },
+   {
+    "para": 2,
+    "t": "Nancy Fortes, of Iowa Street, told the board: \"They present themselves as neighborhood friendly when actually they've been a public nuisance to me and other residents since their arrival.\"",
+    "src": "https://www.govtech.com/analytics/massachusetts-residents-protest-data-farm-expansion"
+   },
+   {
+    "para": 2,
+    "t": "Board chair Tom Linnehan said earlier conditions had not been met and that unauthorised work had been done, and the board held the case over to October 21 for a site visit.",
+    "src": "https://www.govtech.com/analytics/massachusetts-residents-protest-data-farm-expansion"
+   },
+   {
+    "para": 2,
+    "t": "Markley executive vice president Jeff Flanagan told the board the company had committed more than $350 million to the Lowell site, of which more than $225 million was already spent, and that the project had created 47 permanent jobs that would rise to 100 by 2035.",
+    "src": "https://www.govtech.com/analytics/massachusetts-residents-protest-data-farm-expansion"
+   },
+   {
+    "para": 3,
+    "t": "In March 2026 the city council passed a 360 day moratorium on data center construction and expansion, unanimously.",
+    "src": "https://www.wgbh.org/news/local/2026-07-29/in-one-mass-city-the-fight-over-a-data-center-has-hit-a-crisis-point"
+   },
+   {
+    "para": 3,
+    "t": "On April 26, 2026 a group of residents including Jacob Fortes, whose home is at the fenceline, sued in Massachusetts Superior Court, represented by the Conservation Law Foundation, the Environmental Justice Law and Advocacy Clinic at Yale Law School and Fitch Law Partners.",
+    "src": "https://www.clf.org/newsroom/lowell-residents-file-lawsuit-challenging-data-center-expansion/"
+   },
+   {
+    "para": 3,
+    "t": "The complaint says the state environment department unlawfully approved an air permit for 27 diesel generators and 16 cooling towers in a residential neighbourhood, dismissed the residents' appeal without letting them present evidence, and allowed Markley to install and run generators before final approval under an undisclosed side agreement.",
+    "src": "https://www.clf.org/newsroom/lowell-residents-file-lawsuit-challenging-data-center-expansion/"
+   },
+   {
+    "para": 3,
+    "t": "Fortes said at the time: \"This is an important step forward in getting the respect our neighborhood has not had for the past 11 years. It didn't have to come to this, but Markley refused to listen to the neighborhood or respect state laws.\"",
+    "src": "https://www.clf.org/newsroom/lowell-residents-file-lawsuit-challenging-data-center-expansion/"
+   },
+   {
+    "para": 4,
+    "t": "In July 2026 Markley filed a legal challenge to the moratorium, and an agreement followed that let expansion plans predating it go ahead.",
+    "src": "https://www.wgbh.org/news/local/2026-07-29/in-one-mass-city-the-fight-over-a-data-center-has-hit-a-crisis-point"
+   },
+   {
+    "para": 4,
+    "t": "Residents protested outside City Hall on July 28 and 29, 2026, ten days after a national day of action on July 18 that counted 142 protests across 42 states.",
+    "src": "https://www.wgbh.org/news/local/2026-07-29/in-one-mass-city-the-fight-over-a-data-center-has-hit-a-crisis-point"
+   },
+   {
+    "para": 4,
+    "t": "Amada Moundele, a lifelong Lowell resident, said: \"The people of Lowell do not want this data center.\"",
+    "src": "https://www.wgbh.org/news/local/2026-07-29/in-one-mass-city-the-fight-over-a-data-center-has-hit-a-crisis-point"
+   },
+   {
+    "para": 4,
+    "t": "Another resident, Sienna Herbert, said the expansion \"will essentially make us a corporate town.\"",
+    "src": "https://www.wgbh.org/news/local/2026-07-29/in-one-mass-city-the-fight-over-a-data-center-has-hit-a-crisis-point"
+   },
+   {
+    "para": 5,
+    "t": "On August 10, 2026, Superior Court Judge William Barrett ordered a halt to the installation of four generators that were not yet in place, while letting four already installed continue to operate.",
+    "src": "https://www.cbsnews.com/boston/news/judge-halts-expansion-data-center-lowell-massachusetts/"
+   },
+   {
+    "para": 5,
+    "t": "Jake Fortes said of the order: \"It's finally somebody recognizing that the rules haven't been followed.\"",
+    "src": "https://www.cbsnews.com/boston/news/judge-halts-expansion-data-center-lowell-massachusetts/"
+   },
+   {
+    "para": 5,
+    "t": "The Lowell site now stands suspended.",
+    "src": "data:status"
+   }
+  ],
+  "sources": [
+   "https://www.wgbh.org/news/local/2026-07-29/in-one-mass-city-the-fight-over-a-data-center-has-hit-a-crisis-point",
+   "https://www.cbsnews.com/boston/news/judge-halts-expansion-data-center-lowell-massachusetts/",
+   "https://www.govtech.com/analytics/massachusetts-residents-protest-data-farm-expansion",
+   "https://www.clf.org/newsroom/lowell-residents-file-lawsuit-challenging-data-center-expansion/",
+   "https://www.markleygroup.com/data-center"
+  ],
+  "unconfirmed": "The two generator counts reconcile on a second read and both are given here: CBS reports 19 units on site with a permit for eight more, and the Conservation Law Foundation describes an air permit covering 27 generators and 16 cooling towers, which is that same total. The Lowell Sun report of the June 25, 2025 council vote approving the expansion could not be fetched, so the vote count and councillor names for that decision are missing. The outcome of the underlying appeal, and whether Markley's challenge to the moratorium has been decided, are unresolved in the reporting we read. The site's megawatt capacity is blank in our record and the company publishes none; a 2015 trade report described the Lowell building as a planned 50 megawatt conversion, which we have not repeated as current fact."
+ },
+ {
+  "id": "ft-1768935396866-3153",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The data center proposed at 199 Servistar Industrial Way in Westfield, in Hampden County, Massachusetts, was never built, and an investigation published on December 30, 2025 found no sign the developers were still trying.",
+    "src": "https://theshoestring.org/2025/12/30/ai-hallucination-proposed-westfield-data-center-appears-abandoned-by-developers/"
+   },
+   {
+    "para": 0,
+    "t": "Servistar Realties proposed ten buildings, each 86 feet tall, totalling 2.7 million square feet on 156 acres assembled from 16 separate lots.",
+    "src": "https://theshoestring.org/2025/12/30/ai-hallucination-proposed-westfield-data-center-appears-abandoned-by-developers/"
+   },
+   {
+    "para": 0,
+    "t": "It would have drawn more than 300 megawatts, roughly ten times the largest data center then operating in Massachusetts and four to five times the whole city of Westfield's peak demand of 85 megawatts.",
+    "src": "https://theshoestring.org/2025/12/30/ai-hallucination-proposed-westfield-data-center-appears-abandoned-by-developers/"
+   },
+   {
+    "para": 1,
+    "t": "The three equal members of Servistar Realties were Erik Bartone, Paul Corey and Connecticut state senator John Fonfara.",
+    "src": "https://theshoestring.org/2025/12/30/ai-hallucination-proposed-westfield-data-center-appears-abandoned-by-developers/"
+   },
+   {
+    "para": 1,
+    "t": "In March 2025 Fonfara told CT Insider the project had been dead for two years for lack of financing and that he was no longer involved.",
+    "src": "https://theshoestring.org/2025/12/30/ai-hallucination-proposed-westfield-data-center-appears-abandoned-by-developers/"
+   },
+   {
+    "para": 1,
+    "t": "Five months later, in August 2025, the president of Westmass Area Development Corporation, the project's consultant, told NBC Boston that pre development could start within six months.",
+    "src": "https://theshoestring.org/2025/12/30/ai-hallucination-proposed-westfield-data-center-appears-abandoned-by-developers/"
+   },
+   {
+    "para": 1,
+    "t": "The two accounts do not fit together, and The Shoestring found no permit or filing to support the later one.",
+    "src": "https://theshoestring.org/2025/12/30/ai-hallucination-proposed-westfield-data-center-appears-abandoned-by-developers/"
+   },
+   {
+    "para": 2,
+    "t": "Westfield had already given the project a great deal.",
+    "src": "https://theshoestring.org/2025/12/30/ai-hallucination-proposed-westfield-data-center-appears-abandoned-by-developers/"
+   },
+   {
+    "para": 2,
+    "t": "In October 2021 the city council approved a 40 year payment in lieu of taxes agreement worth $352 million, along with a special permit, and the 40 year clock would not start until the buildings opened.",
+    "src": "https://theshoestring.org/2025/12/30/ai-hallucination-proposed-westfield-data-center-appears-abandoned-by-developers/"
+   },
+   {
+    "para": 2,
+    "t": "At large councillor Kristen Mello voted against, saying the data center as proposed was \"an environmental nightmare\".",
+    "src": "https://theshoestring.org/2025/12/30/ai-hallucination-proposed-westfield-data-center-appears-abandoned-by-developers/"
+   },
+   {
+    "para": 2,
+    "t": "Former councillor Dave Flaherty, who also voted against, called the tax deal \"ridiculous, way more than any other business, in both dollars and percentage\" and said it had been put to the council as take it or leave it.",
+    "src": "https://theshoestring.org/2025/12/30/ai-hallucination-proposed-westfield-data-center-appears-abandoned-by-developers/"
+   },
+   {
+    "para": 3,
+    "t": "After that, the developers went quiet.",
+    "src": "https://theshoestring.org/2025/12/30/ai-hallucination-proposed-westfield-data-center-appears-abandoned-by-developers/"
+   },
+   {
+    "para": 3,
+    "t": "The mailed copy of the special permit was refused delivery, and the city has had no contact with them since October 2021.",
+    "src": "https://theshoestring.org/2025/12/30/ai-hallucination-proposed-westfield-data-center-appears-abandoned-by-developers/"
+   },
+   {
+    "para": 3,
+    "t": "Servistar withdrew from the grid study in February 2022, never filed the environmental permits it had promised that January, and its limited liability company was administratively dissolved at the end of 2024 for failing to file annual reports.",
+    "src": "https://theshoestring.org/2025/12/30/ai-hallucination-proposed-westfield-data-center-appears-abandoned-by-developers/"
+   },
+   {
+    "para": 3,
+    "t": "No building permit had been pulled, against a deadline of October 2026.",
+    "src": "https://theshoestring.org/2025/12/30/ai-hallucination-proposed-westfield-data-center-appears-abandoned-by-developers/"
+   },
+   {
+    "para": 3,
+    "t": "City planner Jay Vinskey said simply: \"I don't have any insight on the status of this.\"",
+    "src": "https://theshoestring.org/2025/12/30/ai-hallucination-proposed-westfield-data-center-appears-abandoned-by-developers/"
+   },
+   {
+    "para": 4,
+    "t": "The 156 acres sit on the Barnes Aquifer, hold marshy habitat for endangered turtles, and are crossed by two 115,000 volt Eversource transmission lines.",
+    "src": "https://theshoestring.org/2025/12/30/ai-hallucination-proposed-westfield-data-center-appears-abandoned-by-developers/"
+   },
+   {
+    "para": 4,
+    "t": "Each of the ten buildings would have had backup diesel generators with fuel tanks of 6,500 to 13,000 gallons.",
+    "src": "https://theshoestring.org/2025/12/30/ai-hallucination-proposed-westfield-data-center-appears-abandoned-by-developers/"
+   },
+   {
+    "para": 4,
+    "t": "Tom Flaherty, general manager of Westfield Gas and Electric, said rejoining the queue for grid service with ISO New England would take at least two years, and that the substations serving the area date from 1975 and run at 90 percent of capacity.",
+    "src": "https://theshoestring.org/2025/12/30/ai-hallucination-proposed-westfield-data-center-appears-abandoned-by-developers/"
+   },
+   {
+    "para": 4,
+    "t": "A commercial developer, Adam Winstanley, dropped his own data center plan after concluding that \"a data center does not work in Westfield or anywhere in New England\", citing New England electricity at about 24 cents a kilowatt hour against the 5 to 10 cents the industry wants.",
+    "src": "https://theshoestring.org/2025/12/30/ai-hallucination-proposed-westfield-data-center-appears-abandoned-by-developers/"
+   },
+   {
+    "para": 5,
+    "t": "Holyoke, in the same county, approved a data center ban on June 17, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 5,
+    "t": "The Westfield project is still carried as proposed at 300 megawatts.",
+    "src": "data:status"
+   }
+  ],
+  "sources": [
+   "https://theshoestring.org/2025/12/30/ai-hallucination-proposed-westfield-data-center-appears-abandoned-by-developers/"
+  ],
+  "unconfirmed": "Whether the special permit has now lapsed is unclear: the reporting gives an October 2026 deadline to pull a building permit, and we found nothing published since. Who owns the 156 acres today, and whether the payment in lieu of taxes agreement survives the dissolution of the developer's company, are both unknown. We did not reach Bartone, Corey or Westmass, and the NBC Boston report of August 2025 was not read directly, only as quoted by The Shoestring."
+ },
+ {
+  "id": "ft-295",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "No data center has been proposed at Baltimore Peninsula.",
+    "src": "https://www.southbmore.com/2025/08/13/baltimore-peninsula-considering-data-centers-more-townhomes-for-development-parcels/"
+   },
+   {
+    "para": 0,
+    "t": "What exists is an idea the developers floated for part of the site, and MAG Partners, the developer named on the entry, has since left the project.",
+    "src": "https://www.southbmore.com/2025/10/31/mag-partners-to-exit-baltimore-peninsula-project/"
+   },
+   {
+    "para": 0,
+    "t": "Baltimore Peninsula is the 235 acre waterfront redevelopment on the south side of the city that used to be called Port Covington.",
+    "src": "https://www.bisnow.com/baltimore/news/mixed-use/developer-of-baltimores-235-acre-waterfront-megaproject-in-talks-with-data-center-companies-130438"
+   },
+   {
+    "para": 0,
+    "t": "About 1.1 million square feet has been built there, including 407 apartments, an 81 room hotel, CFG Bank's headquarters, Under Armour's global headquarters and the Rye Street Market.",
+    "src": "https://www.bisnow.com/baltimore/news/mixed-use/developer-of-baltimores-235-acre-waterfront-megaproject-in-talks-with-data-center-companies-130438"
+   },
+   {
+    "para": 1,
+    "t": "On August 5, 2025, MAG Partners chief executive MaryAnne Gilmartin told Bisnow she was in discussions with data center developers about a limited portion of the site, that no deal had been finalised and that she had not decided how many acres.",
+    "src": "https://www.bisnow.com/baltimore/news/mixed-use/developer-of-baltimores-235-acre-waterfront-megaproject-in-talks-with-data-center-companies-130438"
+   },
+   {
+    "para": 1,
+    "t": "She described multi-tenant colocation buildings rather than a hyperscale campus, and said the interest was there because \"we have a lot of land, we've got access to power.\"",
+    "src": "https://www.bisnow.com/baltimore/news/mixed-use/developer-of-baltimores-235-acre-waterfront-megaproject-in-talks-with-data-center-companies-130438"
+   },
+   {
+    "para": 1,
+    "t": "She also said of the project's 14 million square foot vision: \"Am I going to try to convince you that Baltimore can produce 14M SF of demand? I'm not sure I can say that, certainly not over the next decade.\"",
+    "src": "https://www.bisnow.com/baltimore/news/mixed-use/developer-of-baltimores-235-acre-waterfront-megaproject-in-talks-with-data-center-companies-130438"
+   },
+   {
+    "para": 1,
+    "t": "A week later the development team said it was exploring a stadium, townhouses and industrial uses including data centers for small fractions of the site, that the size and programme were undetermined, and that it was committed to environmental mitigation if it went ahead.",
+    "src": "https://www.southbmore.com/2025/08/13/baltimore-peninsula-considering-data-centers-more-townhomes-for-development-parcels/"
+   },
+   {
+    "para": 2,
+    "t": "On October 30, 2025, MAG Partners announced it was leaving the project, after lead investors Sagamore Ventures and Goldman Sachs decided not to renew its contract as master developer with the first phase close to stabilisation.",
+    "src": "https://www.southbmore.com/2025/10/31/mag-partners-to-exit-baltimore-peninsula-project/"
+   },
+   {
+    "para": 2,
+    "t": "The Baltimore Peninsula Partnership, the site's business improvement district, is guiding the neighbourhood while new development partners for later phases are identified.",
+    "src": "https://www.southbmore.com/2025/10/31/mag-partners-to-exit-baltimore-peninsula-project/"
+   },
+   {
+    "para": 2,
+    "t": "The data center idea was still listed among the possible uses for the undeveloped parcels when MAG Partners stepped back.",
+    "src": "https://www.southbmore.com/2025/10/31/mag-partners-to-exit-baltimore-peninsula-project/"
+   },
+   {
+    "para": 3,
+    "t": "Since then the ground has moved under the idea.",
+    "src": "https://www.foodandwaterwatch.org/2026/05/12/baltimore-city-council-passes-one-year-data-center-moratorium/"
+   },
+   {
+    "para": 3,
+    "t": "On May 11, 2026 the Baltimore City Council passed a one year moratorium on data centers drawing 10 megawatts or more, sponsored by council president Zeke Cohen, alongside a nine month study of the effects on energy infrastructure, ratepayers, the economy and public health.",
+    "src": "https://www.foodandwaterwatch.org/2026/05/12/baltimore-city-council-passes-one-year-data-center-moratorium/"
+   },
+   {
+    "para": 3,
+    "t": "Neither Baltimore Peninsula nor Port Covington was named in the measure.",
+    "src": "https://www.foodandwaterwatch.org/2026/05/12/baltimore-city-council-passes-one-year-data-center-moratorium/"
+   },
+   {
+    "para": 4,
+    "t": "The 1,273 megawatt Brandon Shores coal plant is 11 kilometres from the peninsula and the 841 megawatt Herbert A Wagner station 12 kilometres, with the Wheelabrator refuse to energy plant a kilometre away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "The entry stands as a proposal across 235 acres, with no capacity figure and no year.",
+    "src": "data:status"
+   }
+  ],
+  "sources": [
+   "https://www.bisnow.com/baltimore/news/mixed-use/developer-of-baltimores-235-acre-waterfront-megaproject-in-talks-with-data-center-companies-130438",
+   "https://www.southbmore.com/2025/08/13/baltimore-peninsula-considering-data-centers-more-townhomes-for-development-parcels/",
+   "https://www.southbmore.com/2025/10/31/mag-partners-to-exit-baltimore-peninsula-project/",
+   "https://www.foodandwaterwatch.org/2026/05/12/baltimore-city-council-passes-one-year-data-center-moratorium/"
+  ],
+  "unconfirmed": "Whether any data center is still contemplated at Baltimore Peninsula after MAG Partners' exit and the city moratorium is unknown; we found no reporting from 2026 on the parcels themselves. No acreage, capacity, building count or prospective operator has ever been made public, and no application has been filed that we could find. The vote count on the May 2026 moratorium is not given in the source we read."
+ },
+ {
+  "id": "ft-1772066586254-4342",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The data center proposal at 21200 Martinsburg Road in Dickerson sits in Montgomery County, Maryland.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The land is the old PEPCO coal plant site beside the Potomac, heavy industrial ground inside the county's Agricultural Reserve.",
+    "src": "https://www.mocoalliance.org/news/dickerson-data-centers-how-much-water-how-much-power-how-much-diesel"
+   },
+   {
+    "para": 0,
+    "t": "The land around it belongs to Terra Innovations, a Florida developer that owns more than 750 acres there and is leasing just under 300 of them for two data center campuses and a battery storage plant.",
+    "src": "https://www.thebanner.com/economy/growth-development/data-centers-agricultural-reserve-development-dickerson-battery-storage-potomac-river-IENOJKGJKJGDLL7DU53KSKMQ2U/"
+   },
+   {
+    "para": 0,
+    "t": "The data center lessee is Atmosphere Data Centers, and the campuses would hold seven data centers plus administrative buildings and warehouses.",
+    "src": "https://www.thebanner.com/economy/growth-development/data-centers-agricultural-reserve-development-dickerson-battery-storage-potomac-river-IENOJKGJKJGDLL7DU53KSKMQ2U/"
+   },
+   {
+    "para": 0,
+    "t": "The same stretch of land holds a decommissioned whitewater course once used by the US Olympic team, low density neighbourhoods, farmland, the county's waste incinerator and a large composting facility.",
+    "src": "https://www.thebanner.com/economy/growth-development/data-centers-agricultural-reserve-development-dickerson-battery-storage-potomac-river-IENOJKGJKJGDLL7DU53KSKMQ2U/"
+   },
+   {
+    "para": 1,
+    "t": "The numbers that worry the county are water, power and diesel.",
+    "src": "https://www.mocoalliance.org/news/dickerson-data-centers-how-much-water-how-much-power-how-much-diesel"
+   },
+   {
+    "para": 1,
+    "t": "The Montgomery Countryside Alliance puts the full build at a gigawatt of demand, which it likens to 750,000 homes, and notes the project website earlier gave 300 megawatts.",
+    "src": "https://www.mocoalliance.org/news/dickerson-data-centers-how-much-water-how-much-power-how-much-diesel"
+   },
+   {
+    "para": 1,
+    "t": "An application filed with the Maryland Department of the Environment in September 2025 seeks up to two million gallons a day from the Potomac, with all cooling water drawn from the river, the details of the claimed closed loop marked proprietary.",
+    "src": "https://www.mocoalliance.org/news/dickerson-data-centers-how-much-water-how-much-power-how-much-diesel"
+   },
+   {
+    "para": 1,
+    "t": "Backup diesel generation would total about 1.2 gigawatts, a fifth more than the site's full load, tested monthly and permitted to run up to 100 hours a year.",
+    "src": "https://www.mocoalliance.org/news/dickerson-data-centers-how-much-water-how-much-power-how-much-diesel"
+   },
+   {
+    "para": 1,
+    "t": "Water would be returned to the river, as the coal plant did before it.",
+    "src": "https://www.thebanner.com/economy/growth-development/data-centers-agricultural-reserve-development-dickerson-battery-storage-potomac-river-IENOJKGJKJGDLL7DU53KSKMQ2U/"
+   },
+   {
+    "para": 2,
+    "t": "Conceptual approval for a cluster of five data centers was granted in 2024, and a modification application has since gone to the planning department.",
+    "src": "https://www.mocoalliance.org/news/dickerson-data-centers-how-much-water-how-much-power-how-much-diesel"
+   },
+   {
+    "para": 2,
+    "t": "The battery plant, to be developed by the German company RWE, is further along; Terra's land use attorney Jim Clifford said it could have final approvals within a year, while the data center portion is moving more slowly and could take years.",
+    "src": "https://www.thebanner.com/economy/growth-development/data-centers-agricultural-reserve-development-dickerson-battery-storage-potomac-river-IENOJKGJKJGDLL7DU53KSKMQ2U/"
+   },
+   {
+    "para": 3,
+    "t": "On February 25, 2026 the county council heard public comment on two measures: a bill creating a 15 member task force on the risks and benefits of data centers, and a zoning amendment confining them to industrially zoned land.",
+    "src": "https://wtop.com/montgomery-county/2026/02/coming-at-us-way-too-fast-public-comment-on-data-centers-in-montgomery-county/"
+   },
+   {
+    "para": 3,
+    "t": "Doug Siglin of the Chesapeake Climate Action Network asked for a pause: \"Data centers may be inevitable, but they're coming at us way too fast.\"",
+    "src": "https://wtop.com/montgomery-county/2026/02/coming-at-us-way-too-fast-public-comment-on-data-centers-in-montgomery-county/"
+   },
+   {
+    "para": 3,
+    "t": "Karen Metchis of the Sierra Club said the composition of the task force had to be fair and balanced, and that as written it leaned heavily on industry.",
+    "src": "https://wtop.com/montgomery-county/2026/02/coming-at-us-way-too-fast-public-comment-on-data-centers-in-montgomery-county/"
+   },
+   {
+    "para": 3,
+    "t": "Resident Olivia Burlingame backed the zoning amendment and asked: \"What problems are these data centers really going to solve for us? Is there a real need being addressed by new data center construction?\"",
+    "src": "https://wtop.com/montgomery-county/2026/02/coming-at-us-way-too-fast-public-comment-on-data-centers-in-montgomery-county/"
+   },
+   {
+    "para": 3,
+    "t": "Scott Wallace, a lawyer at Miles and Stockbridge appearing for Atmosphere DC, warned the council: \"The moratorium would significantly delay and quite possibly derail the project.\"",
+    "src": "https://wtop.com/montgomery-county/2026/02/coming-at-us-way-too-fast-public-comment-on-data-centers-in-montgomery-county/"
+   },
+   {
+    "para": 4,
+    "t": "A moratorium came anyway.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "Montgomery County adopted zoning limits on January 12, 2026 and a six month moratorium on data center permits running from June 12 to December 12, 2026, and the moratorium is being litigated.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 5,
+    "t": "Marilyn Balcombe, the council member for Dickerson, said she could not oppose the use: \"I'm not opposed to the use of data. So, I can't be opposed to data centers.\"",
+    "src": "https://www.thebanner.com/economy/growth-development/data-centers-agricultural-reserve-development-dickerson-battery-storage-potomac-river-IENOJKGJKJGDLL7DU53KSKMQ2U/"
+   },
+   {
+    "para": 5,
+    "t": "Caroline Taylor, executive director of the Montgomery Countryside Alliance, said she hoped it could be done in the least damaging way possible.",
+    "src": "https://www.thebanner.com/economy/growth-development/data-centers-agricultural-reserve-development-dickerson-battery-storage-potomac-river-IENOJKGJKJGDLL7DU53KSKMQ2U/"
+   },
+   {
+    "para": 6,
+    "t": "The 299 megawatt Dickerson gas plant is on the site itself, and the county's 54 megawatt resource recovery incinerator is a kilometre away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 6,
+    "t": "The entry is put at 300 megawatts across 110 acres, the earlier figure rather than the gigawatt the Alliance now describes.",
+    "src": "data:capacity_mw"
+   }
+  ],
+  "sources": [
+   "https://www.mocoalliance.org/news/dickerson-data-centers-how-much-water-how-much-power-how-much-diesel",
+   "https://www.thebanner.com/economy/growth-development/data-centers-agricultural-reserve-development-dickerson-battery-storage-potomac-river-IENOJKGJKJGDLL7DU53KSKMQ2U/",
+   "https://wtop.com/montgomery-county/2026/02/coming-at-us-way-too-fast-public-comment-on-data-centers-in-montgomery-county/"
+  ],
+  "unconfirmed": "The capacity is genuinely contested: 300 megawatts appeared on the project's own website and in our record, while the Montgomery Countryside Alliance describes a gigawatt at full build. We could not find an application document stating the figure. The relationship between Terra Innovations, Atmosphere Data Centers and \"Atmosphere DC\" as named at the council hearing is not spelled out in the sources, and no parent company or financing is identified. The Data Center Dynamics report that Atmosphere challenged the six month moratorium could not be fetched, so the status of that litigation is unknown. The number of data centers differs between sources, five in the 2024 conceptual approval and seven in the current plan; both are given. The $50 million in anticipated tax revenue is a projection made by council member Balcombe and is not independently checked."
+ },
+ {
+  "id": "ft-1773974568351-8688",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Eternal Rings data center at 9800 South Eternal Rings Drive in Laurel, in Howard County, Maryland, is a completed building rather than a proposal.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "It is 110,336 square feet on 43 acres, about 20 miles from downtown Baltimore.",
+    "src": "https://www.commercialsearch.com/news/exclusive-gi-partners-pays-222m-for-2-baltimore-facilities/"
+   },
+   {
+    "para": 0,
+    "t": "The trade report behind the entry describes it as a powered shell, a building sold with its electricity in place for a tenant to fit out.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Harrison Street developed it and sold it on February 24, 2026 to GI Partners, together with a second Maryland building at Severn, for $221.9 million, with Capital One Bank lending $113.4 million towards the purchase.",
+    "src": "https://www.commercialsearch.com/news/exclusive-gi-partners-pays-222m-for-2-baltimore-facilities/"
+   },
+   {
+    "para": 1,
+    "t": "The Banner's account of Howard County's data center pause refers to a large data center in Laurel on Eternal Rings Drive, with another in the works at the same location.",
+    "src": "https://www.thebanner.com/politics-power/local-government/howard-county-data-center-development-suspended-7VP3IZDJBZHKLK6MF6YR2SIVR4/"
+   },
+   {
+    "para": 1,
+    "t": "That is why the county's decision matters to anyone living nearby.",
+    "src": "https://www.thebanner.com/politics-power/local-government/howard-county-data-center-development-suspended-7VP3IZDJBZHKLK6MF6YR2SIVR4/"
+   },
+   {
+    "para": 1,
+    "t": "On June 2, 2026 the county council voted unanimously for a temporary suspension of new data center development, running to November 2, 2027, sponsored by council member Christiana Rigby.",
+    "src": "https://www.thebanner.com/politics-power/local-government/howard-county-data-center-development-suspended-7VP3IZDJBZHKLK6MF6YR2SIVR4/"
+   },
+   {
+    "para": 1,
+    "t": "It does not touch existing buildings or ones already approved for construction.",
+    "src": "https://www.thebanner.com/politics-power/local-government/howard-county-data-center-development-suspended-7VP3IZDJBZHKLK6MF6YR2SIVR4/"
+   },
+   {
+    "para": 1,
+    "t": "Rigby said: \"We're not looking at just a ban for a ban's sake. We're saying how and where data centers will be in Howard County.\"",
+    "src": "https://www.thebanner.com/politics-power/local-government/howard-county-data-center-development-suspended-7VP3IZDJBZHKLK6MF6YR2SIVR4/"
+   },
+   {
+    "para": 1,
+    "t": "Carl Latkin of the Howard County Sierra Club wrote that the pause gives the county time to develop the rules it needs before it is locked into decisions that will affect the community's infrastructure.",
+    "src": "https://www.thebanner.com/politics-power/local-government/howard-county-data-center-development-suspended-7VP3IZDJBZHKLK6MF6YR2SIVR4/"
+   },
+   {
+    "para": 1,
+    "t": "Residents, environmental groups and the Howard County Association of Realtors testified for the pause; the Maryland Tech Council and NAIOP Maryland testified against.",
+    "src": "https://www.thebanner.com/politics-power/local-government/howard-county-data-center-development-suspended-7VP3IZDJBZHKLK6MF6YR2SIVR4/"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Howard County, and five Maryland jurisdictions now have moratoriums, bans or zoning limits in force, including a two year pause in neighbouring Prince George's County.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The nearest power stations are small or distant: a 54 megawatt plant at White Oak 15 kilometres off, then the Brandon Shores coal plant 28 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "No capacity figure is attached to the Laurel building, and no developer is named on the entry.",
+    "src": "data:capacity_mw"
+   }
+  ],
+  "sources": [
+   "https://www.commercialsearch.com/news/exclusive-gi-partners-pays-222m-for-2-baltimore-facilities/",
+   "https://www.thebanner.com/politics-power/local-government/howard-county-data-center-development-suspended-7VP3IZDJBZHKLK6MF6YR2SIVR4/"
+  ],
+  "unconfirmed": "No tenant is named in any source we read, and the trade coverage of the sale does not in fact say the buildings are leased, so the line that they are fully let to a single user has come out. The Commercial Search report gives the sale, the sizes and the loans and nothing about occupancy; the \"powered shell\" description comes from the Data Center Dynamics headline that is the only source in our record, and that report is not fetchable. No power capacity is published for the building. What the second facility in the works at Eternal Rings Drive amounts to, whether it was approved before June 2, 2026 and so exempt from the suspension, and how large it would be, could not be established."
+ },
+ {
+  "id": "ft-1773974437562-2868",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Sandy Farms data center at 7665 Sandy Farm Road in Severn, in Anne Arundel County, Maryland, is a fraction of what was once planned for the site.",
+    "src": "https://www.commercialsearch.com/news/exclusive-gi-partners-pays-222m-for-2-baltimore-facilities/"
+   },
+   {
+    "para": 0,
+    "t": "The building is 109,455 square feet on 50 acres, close to Interstate 97 and about 14 miles from downtown Baltimore.",
+    "src": "https://www.commercialsearch.com/news/exclusive-gi-partners-pays-222m-for-2-baltimore-facilities/"
+   },
+   {
+    "para": 0,
+    "t": "Initial plans called for a campus of 2.2 million square feet, twenty times what stands.",
+    "src": "https://www.commercialsearch.com/news/exclusive-gi-partners-pays-222m-for-2-baltimore-facilities/"
+   },
+   {
+    "para": 1,
+    "t": "Harrison Street built it with a $58.2 million construction loan from Wells Fargo in 2022.",
+    "src": "https://www.commercialsearch.com/news/exclusive-gi-partners-pays-222m-for-2-baltimore-facilities/"
+   },
+   {
+    "para": 1,
+    "t": "The entry rests on a trade report of the sale of two powered shells, buildings put up with the electricity in place for a tenant to fit out.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "On February 24, 2026 it was sold to GI Partners along with a sister building at Laurel for $221.9 million, with a $113.4 million acquisition loan from Capital One Bank.",
+    "src": "https://www.commercialsearch.com/news/exclusive-gi-partners-pays-222m-for-2-baltimore-facilities/"
+   },
+   {
+    "para": 2,
+    "t": "Anne Arundel County has no moratorium, ban or zoning limit on data centers in force, unlike Baltimore City and the Harford, Montgomery and Prince George's counties around it.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in the county.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The 1,273 megawatt Brandon Shores coal plant is 13 kilometres away and the 841 megawatt Herbert A Wagner station 14 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Neither a capacity figure nor a developer is recorded for the Severn building.",
+    "src": "data:capacity_mw"
+   }
+  ],
+  "sources": [
+   "https://www.commercialsearch.com/news/exclusive-gi-partners-pays-222m-for-2-baltimore-facilities/"
+  ],
+  "unconfirmed": "Three searches were run for this entry: the street address with Severn and Anne Arundel; Anne Arundel County with \"data center\" and county planning; and Harrison Street with GI Partners and the Maryland sale. They produced only trade press, directory listings and the sale coverage. No local reporting, county filing or planning agenda item about this site turned up, so whether the 2.2 million square foot campus is still being pursued, and whether anything has been filed for it, are unknown. The Commercial Search report of the sale says nothing about leasing or tenants, so the earlier line that the building is fully let to an unnamed single user has come out; the \"powered shell\" description comes from the Data Center Dynamics headline in our record, which is not fetchable. No power capacity is published."
+ },
+ {
+  "id": "ft-299",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The data center at 12401 Prosperity Drive in Silver Spring, in Montgomery County, Maryland, is an operating building, and the question for neighbours is what its new owners do with it.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "It sold on August 1, 2025 for $29 million to Sansone Group, with the Silver Spring company Priseda LLC involved.",
+    "src": "https://www.fox5dc.com/news/29m-silver-spring-data-center-sold-new-owners-eye-expansion"
+   },
+   {
+    "para": 0,
+    "t": "The buyers were reported to want to expand the building's computing capacity, and the station said it was still awaiting their response on what they intend.",
+    "src": "https://www.fox5dc.com/news/29m-silver-spring-data-center-sold-new-owners-eye-expansion"
+   },
+   {
+    "para": 0,
+    "t": "Montgomery County said it had no information about the deal because it was a private purchase.",
+    "src": "https://www.fox5dc.com/news/29m-silver-spring-data-center-sold-new-owners-eye-expansion"
+   },
+   {
+    "para": 1,
+    "t": "Since the sale the county has changed its posture towards data centers.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Montgomery County adopted zoning limits on January 12, 2026 and a six month moratorium on data center permits from June 12 to December 12, 2026, and the moratorium is being litigated.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "On February 25, 2026, before those measures, residents told a council hearing that data centers were coming at the county too fast; Doug Siglin of the Chesapeake Climate Action Network asked for a pause, and resident Olivia Burlingame asked whether new construction met any real need.",
+    "src": "https://wtop.com/montgomery-county/2026/02/coming-at-us-way-too-fast-public-comment-on-data-centers-in-montgomery-county/"
+   },
+   {
+    "para": 1,
+    "t": "The zoning amendment before the council would confine data centers to industrially zoned land.",
+    "src": "https://wtop.com/montgomery-county/2026/02/coming-at-us-way-too-fast-public-comment-on-data-centers-in-montgomery-county/"
+   },
+   {
+    "para": 2,
+    "t": "The entry is put at 100 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "The only power station of any size nearby is the 54 megawatt White Oak central utility plant three kilometres away; everything larger, including Brandon Shores at 39 kilometres, is well outside the county.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The county's other data center site is the Dickerson proposal, where a developer wants seven data centers on the old coal plant land beside the Potomac.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://www.fox5dc.com/news/29m-silver-spring-data-center-sold-new-owners-eye-expansion",
+   "https://wtop.com/montgomery-county/2026/02/coming-at-us-way-too-fast-public-comment-on-data-centers-in-montgomery-county/"
+  ],
+  "unconfirmed": "The 100 megawatt figure in our record is not supported by anything we read. Listings and trackers found in search describe the building as 214,000 square feet with about 9 megawatts marketed and roughly 35 megawatts planned, but these are commercial directory and brokerage pages that we did not fetch and would not rely on, so no capacity is stated in the body above. The Fox 5 report does not give the street address or place the building in White Oak; both come from our own record. Sansone Group is described only by name, so the St Louis base that stood here earlier has come out. What Sansone and Priseda actually intend, whether they have filed anything with the county, and whether the June 2026 moratorium reaches an expansion of an existing building are all unknown. No resident comment on this specific building was found. The Data Center Dynamics report of the sale, the only source in our record, is not fetchable."
+ }
+]

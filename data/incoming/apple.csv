@@ -1,0 +1,9 @@
+project_name;developer_or_owner;tenant;city;state_or_region;country;address;latitude;longitude;capacity_mw;site_size;status;year_announced;year_operating_or_planned;note;source_url
+Apple Maiden;Apple;Apple;Maiden;North Carolina;United States;6028 Startown Rd, Maiden, NC 28650;;;;;operating;2009;2010;;https://baxtel.com/data-centers/apple
+Apple Mesa;Apple;Apple;Mesa;Arizona;United States;6150 E Elliot Rd, Mesa, AZ 85212;;;;;operating;2015;2017;Global command center;https://baxtel.com/data-centers/apple
+Apple Prineville;Apple;Apple;Prineville;Oregon;United States;Prineville, OR 97754;;;;;operating;2012;;;https://baxtel.com/data-centers/apple
+Apple Reno (Sparks);Apple;Apple;Sparks;Nevada;United States;Reno Technology Park, Sparks, NV 89434;;;;;operating;2012;;;https://baxtel.com/data-centers/apple
+Apple Waukee;Apple;Apple;Waukee;Iowa;United States;Waukee, IA 50263;;;;;withdrawn;2017;;Announced 2017, later shelved;https://baxtel.com/data-centers/apple
+Apple Viborg;Apple;Apple;Viborg;Central Jutland;Denmark;Foulum, 8830 Tjele, Denmark;;;;;operating;2015;2020;;https://baxtel.com/data-centers/apple
+Apple Gui'an;Apple (GCBD);Apple;Guiyang;Guizhou;China;Gui'an New Area, Guiyang, Guizhou, China;;;;;operating;2017;;Operated by GCBD for Apple;https://baxtel.com/data-centers/apple
+Apple Ulanqab;Apple;Apple;Ulanqab;Inner Mongolia;China;Pingguo Blvd, 012209 Ulanqab, Inner Mongolia, China;;;;;operating;2018;;;https://www.datacentermap.com/china/ulanqab/

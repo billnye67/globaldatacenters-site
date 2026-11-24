@@ -1,0 +1,545 @@
+[
+ {
+  "id": "ft-1767937475006-5182",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A $1.5 billion data center is recorded on 127 acres at 2038 High Falls Road in Griffin, in Spalding County, Georgia, and the single source attached to it could not be read.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 0,
+    "t": "That source is a trade report headed \"Land rezoning for Georgia data center recommended for approval\", which suggests a planning commission had recommended it but gives neither the date nor what happened next.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "High Falls Road is becoming a row of them.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Project Spalding, a 2.56 million square foot campus, is 4 kilometres away on the same road, the 75 South campus is 5 kilometres off, the Wallace Jackson campus 8 and an Amazon Web Services campus in Butts County 11.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Four data center sites are recorded in Spalding County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "Eight moratoriums and zoning limits are in force in the surrounding counties and towns, from Lamar County's of 1 September 2025 to Newton County's of 8 April 2026, but Spalding County itself has none.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Twenty-three kilometres away, a biomass plant of 55 megawatts is the closest generation to it.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the developer, the megawatts, the square footage, the date of the rezoning recommendation and whether it was granted are all unknown. No local reporting on this specific parcel was sought, and no resident or official reaction is known."
+ },
+ {
+  "id": "ft-1767936670789-7174",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The state filing for this campus and the one for the campus 3 kilometres away name the same man.",
+    "src": "https://apps.dca.ga.gov/DRI/InitialForm.aspx?driid=4599"
+   },
+   {
+    "para": 0,
+    "t": "Georgia's Development of Regional Impact form gives the developer of the Wallace Jackson Data Center Campus, in Spalding County, as Wallace Jackson, LLC, care of Steven L. Jones of McKagen Jones in Stockbridge, with Havenwood Holdings as the property owner.",
+    "src": "https://apps.dca.ga.gov/DRI/InitialForm.aspx?driid=4599"
+   },
+   {
+    "para": 0,
+    "t": "Steven L. Jones is also the contact on the filing for the 75 South Data Center Campus nearby.",
+    "src": "https://apps.dca.ga.gov/DRI/InitialForm.aspx?driid=4599"
+   },
+   {
+    "para": 1,
+    "t": "The campus would put 4,986,000 square feet in ten buildings on 189.64 acres in Land Lots 25 and 40 of the 2nd District of Spalding County, with phase completion in 2035.",
+    "src": "https://apps.dca.ga.gov/DRI/InitialForm.aspx?driid=4599"
+   },
+   {
+    "para": 1,
+    "t": "The filing describes it as a continuation or expansion of an earlier Development of Regional Impact, the I-75 Industrial Park, and says rezoning and a special exception are being sought.",
+    "src": "https://apps.dca.ga.gov/DRI/InitialForm.aspx?driid=4599"
+   },
+   {
+    "para": 1,
+    "t": "The form gives no megawatt figure and no water or sewer demand.",
+    "src": "https://apps.dca.ga.gov/DRI/InitialForm.aspx?driid=4599"
+   },
+   {
+    "para": 2,
+    "t": "Four data center sites are recorded in Spalding County, and six lie within 17 kilometres of this one, the nearest being 75 South at 3 kilometres and an Amazon Web Services campus at 4.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "A 55 megawatt biomass plant lies 25 kilometres away, with the 2,580 megawatt Scherer coal plant at 38.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://apps.dca.ga.gov/DRI/InitialForm.aspx?driid=4599"
+  ],
+  "unconfirmed": "No megawatt figure and no water demand appear anywhere for a campus of almost five million square feet, which are the numbers a neighbour would ask for first. Whether the rezoning and special exception were granted, and when the county heard them, are not established. Who stands behind Wallace Jackson, LLC and Havenwood Holdings is not known, and no tenant is named. No local reporting on this campus was found, and the Data Center Dynamics article in our record returned 403."
+ },
+ {
+  "id": "ft-152",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Two entries sit at the same coordinates for this corner of Hampton, in Henry County, Georgia, and between them they hold almost no evidence.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "This one is listed as the 0 Rocky Creek Data Center Campus at Georgia 20 and Rocky Creek Road, with no acreage, no capacity figure and no developer, and its single source, a trade report headed \"12.5 million sq ft data center proposed outside Atlanta, Georgia\", could not be read.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The other entry, at zero kilometres away, names Red Wolf DCD Properties, LLC.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Henry County has become contested ground.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Three of the recorded sites are in the county, and the Hampton Data Center, the first one the city approved, is 4 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Hampton adopted data center zoning limits on 1 February 2025, and eight other measures are in force in the surrounding jurisdictions.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The closest generation of any size is a 55 megawatt biomass plant 41 kilometres away, which for a campus of the size the headline describes would mean building transmission from scratch.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403 and the 12.5 million square foot figure in its headline could not be checked against anything. Whether this entry and the Rocky Creek entry at the same coordinates are one project recorded twice is unresolved. No acreage, megawatts, developer, filing date or hearing is established. No Henry County local reporting was sought for this parcel."
+ },
+ {
+  "id": "ft-153",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Hampton approved Henry County's first data center on 25 March 2025, by 5 votes to nil with Councilman Turner absent, and attached a list of conditions that included a hydroponic farm.",
+    "src": "https://henryga.news/2025/03/28/data-center-approved-to-locate-off-georgia-20-in-hampton/"
+   },
+   {
+    "para": 0,
+    "t": "The applicant is Southeast Property Holdings, LLC, and the site is 133 acres north of Georgia 20 at McDonough Street, part of a larger 900 acre development called Henderson Farms.",
+    "src": "https://henryga.news/2025/03/28/data-center-approved-to-locate-off-georgia-20-in-hampton/"
+   },
+   {
+    "para": 0,
+    "t": "The plan is three buildings of 195,000 square feet each and an electrical substation, permitted as a conditional use on mixed use zoned land.",
+    "src": "https://henryga.news/2025/03/28/data-center-approved-to-locate-off-georgia-20-in-hampton/"
+   },
+   {
+    "para": 1,
+    "t": "The conditions the city set are unusually specific.",
+    "src": "https://henryga.news/2025/03/28/data-center-approved-to-locate-off-georgia-20-in-hampton/"
+   },
+   {
+    "para": 1,
+    "t": "The developer must build a hydroponic farm and donate its produce to nonprofits, keep 100 foot buffers next to the Olde Hampton subdivision, put green roofs on at least a quarter of the roof area, pay $75,000 towards architectural guidelines, set aside land along the Towaliga River for a public park, and make pedestrian improvements along Georgia 20 and McDonough Street.",
+    "src": "https://henryga.news/2025/03/28/data-center-approved-to-locate-off-georgia-20-in-hampton/"
+   },
+   {
+    "para": 2,
+    "t": "What the city did not get was a number.",
+    "src": "https://henryga.news/2025/03/28/data-center-approved-to-locate-off-georgia-20-in-hampton/"
+   },
+   {
+    "para": 2,
+    "t": "The applicant said the data center will use a fraction of the energy and water a traditional data center requires, and the staff report carried no figure for how much power it would draw.",
+    "src": "https://henryga.news/2025/03/28/data-center-approved-to-locate-off-georgia-20-in-hampton/"
+   },
+   {
+    "para": 3,
+    "t": "Two more requests were awaiting zoning decisions in the unincorporated county at the time.",
+    "src": "https://henryga.news/2025/03/28/data-center-approved-to-locate-off-georgia-20-in-hampton/"
+   },
+   {
+    "para": 3,
+    "t": "A petition by citizens opposed to data centers in Henry County is attached to the entry, with two further sites listed 4 kilometres away at Rocky Creek.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "Hampton itself had adopted data center zoning limits on 1 February 2025, seven weeks before this approval.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "Nothing generates power within 40 kilometres of the site.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://henryga.news/2025/03/28/data-center-approved-to-locate-off-georgia-20-in-hampton/"
+  ],
+  "unconfirmed": "No megawatt or water figure exists for this project, only the applicant's own comparative claim, which the staff report did not test. No resident is named or quoted in the report read, so the petition our record holds cannot be connected to particular objections at the hearing. Our record gives no acreage where the report gives 133 acres. Whether construction has started is not established."
+ },
+ {
+  "id": "ft-215",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "No source is attached to this entry.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "It lists a proposed data center by Red Wolf DCD Properties, LLC at the southeast corner of Rocky Creek Road and Georgia Highway 20 West in Hampton, in Henry County, Georgia, with no acreage and no capacity figure.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "A second entry, the 0 Rocky Creek Data Center Campus, sits at the same coordinates.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The same developer name, Red Wolf DCD, appears on a $6 billion campus proposed 200 kilometres south at Cordele.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "Pushback is logged here, and a petition by citizens opposed to data centers in Henry County is attached.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "Hampton adopted data center zoning limits on 1 February 2025, and the Hampton Data Center, approved that March, is 4 kilometres away.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generation is 41 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "This entry has no source in our record. The acreage, the size, the filing date, the current status and whether any hearing has been held are all unknown, and whether it is the same project as the entry at the same coordinates is unresolved. The petition our record holds is county wide rather than specific to this site, so the pushback it records cannot be tied to this parcel. No Henry County local reporting was sought."
+ },
+ {
+  "id": "ft-1781101739670-6807",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The application for this data center campus, in Columbia County, Georgia, acknowledges that it risks federal prosecution over wetlands.",
+    "src": "https://www.wrdw.com/2026/02/16/columbia-co-data-center-plans-3-construction-exits-420-acre-site/"
+   },
+   {
+    "para": 0,
+    "t": "The tributaries in question are Hawes Branch and Kiokee Creek.",
+    "src": "https://www.wrdw.com/2026/02/16/columbia-co-data-center-plans-3-construction-exits-420-acre-site/"
+   },
+   {
+    "para": 1,
+    "t": "The project, known locally as Project Pumpkin, is a data center campus covering 420 acres in southwest Columbia County, Georgia, near Evans, and the application filed in early 2026 shows three construction exits onto the surrounding roads.",
+    "src": "https://www.wrdw.com/2026/02/16/columbia-co-data-center-plans-3-construction-exits-420-acre-site/"
+   },
+   {
+    "para": 1,
+    "t": "The developer is not named in the reporting.",
+    "src": "https://www.wrdw.com/2026/02/16/columbia-co-data-center-plans-3-construction-exits-420-acre-site/"
+   },
+   {
+    "para": 2,
+    "t": "In February 2026 the county commissioners voted to attach conditions before they would issue the land disturbance permit.",
+    "src": "https://www.wrdw.com/2026/02/16/columbia-co-data-center-plans-3-construction-exits-420-acre-site/"
+   },
+   {
+    "para": 2,
+    "t": "They required a 500 foot natural buffer along Highway 221 and Wrightsboro Road with a 12 foot berm of evergreen shrubs, sound limited to 65 decibels at the property line, and the removal of residential uses on the east side of Highway 221.",
+    "src": "https://www.wrdw.com/2026/02/16/columbia-co-data-center-plans-3-construction-exits-420-acre-site/"
+   },
+   {
+    "para": 2,
+    "t": "As of that report the developer had not resubmitted.",
+    "src": "https://www.wrdw.com/2026/02/16/columbia-co-data-center-plans-3-construction-exits-420-acre-site/"
+   },
+   {
+    "para": 3,
+    "t": "The campus is put at 500 megawatts on 420 acres, with Cloverleaf Infrastructure named as the developer and organised local advocacy logged against it.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "Three of the recorded sites are in Columbia County, and five lie within 21 kilometres of this one, including the two entries that appear to be Google's White Oak Technology Park at 9 and 11 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "No moratorium is in force anywhere nearby.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "A 70 megawatt solar plant sits 22 kilometres away and the 336 megawatt J Strom Thurmond dam at 29.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.wrdw.com/2026/02/16/columbia-co-data-center-plans-3-construction-exits-420-acre-site/"
+  ],
+  "unconfirmed": "The developer is named as Cloverleaf Infrastructure in our record and not at all in the reporting. Our record gives the address as White Oak Road in the Greenpoint area of Harlem while the report places the site near Evans on Highway 221 and Wrightsboro Road; these may be different descriptions of one large parcel, but the discrepancy is not resolved. The 500 megawatt figure appears in no source read, and no water figure was published despite the wetlands issue. What the county did after February 2026 is not established, and no resident or official is named or quoted."
+ },
+ {
+  "id": "ft-1764596671092-5385",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Hogansville, in Troup County, Georgia, uses about 25 megawatts of electricity a year and owns rights to 36.",
+    "src": "https://www.gpb.org/news/2025/11/26/why-are-troup-county-residents-saying-no-600-mw-data-center-in-hogansville"
+   },
+   {
+    "para": 0,
+    "t": "The data center proposed outside it would need 600.",
+    "src": "https://www.gpb.org/news/2025/11/26/why-are-troup-county-residents-saying-no-600-mw-data-center-in-hogansville"
+   },
+   {
+    "para": 1,
+    "t": "The site is 437 acres on Hightower Road in northeast Troup County, Georgia, outside a town of about 3,000 people.",
+    "src": "https://www.gpb.org/news/2025/11/26/why-are-troup-county-residents-saying-no-600-mw-data-center-in-hogansville"
+   },
+   {
+    "para": 1,
+    "t": "The developer is Luis Matta of Fertile Ground Investments LLC, the land went at $12,000 an acre, and the projected return to the town is about $400,000 a year in taxes and 30 to 35 jobs.",
+    "src": "https://www.gpb.org/news/2025/11/26/why-are-troup-county-residents-saying-no-600-mw-data-center-in-hogansville"
+   },
+   {
+    "para": 2,
+    "t": "The power study by MEAG put the infrastructure needed at $300 million, of which the data center operator would cover $153.75 million.",
+    "src": "https://www.gpb.org/news/2025/11/26/why-are-troup-county-residents-saying-no-600-mw-data-center-in-hogansville"
+   },
+   {
+    "para": 2,
+    "t": "Residents have worked out that the rest lands somewhere, and worry it lands on their bills.",
+    "src": "https://www.gpb.org/news/2025/11/26/why-are-troup-county-residents-saying-no-600-mw-data-center-in-hogansville"
+   },
+   {
+    "para": 2,
+    "t": "A dormant wastewater spray field on the site would cost $1 million to $1.5 million to decommission first.",
+    "src": "https://www.gpb.org/news/2025/11/26/why-are-troup-county-residents-saying-no-600-mw-data-center-in-hogansville"
+   },
+   {
+    "para": 3,
+    "t": "The town kept the plans confidential for 18 months under a non disclosure agreement, and the council left the agreement before the recent elections.",
+    "src": "https://www.gpb.org/news/2025/11/26/why-are-troup-county-residents-saying-no-600-mw-data-center-in-hogansville"
+   },
+   {
+    "para": 3,
+    "t": "Roseanna Prado said of the town's conduct: \"I'm not sure what their definition of transparency is, but mine certainly isn't keeping something like this from the public.\"",
+    "src": "https://www.gpb.org/news/2025/11/26/why-are-troup-county-residents-saying-no-600-mw-data-center-in-hogansville"
+   },
+   {
+    "para": 3,
+    "t": "Paula Darden, a retired nurse, said: \"It's infuriating.\"",
+    "src": "https://www.gpb.org/news/2025/11/26/why-are-troup-county-residents-saying-no-600-mw-data-center-in-hogansville"
+   },
+   {
+    "para": 3,
+    "t": "Tina Payton, whose zoo adjoins the site, said: \"It's not ever gonna be quiet or dark.\"",
+    "src": "https://www.gpb.org/news/2025/11/26/why-are-troup-county-residents-saying-no-600-mw-data-center-in-hogansville"
+   },
+   {
+    "para": 4,
+    "t": "The land is zoned residential and would have to be rezoned industrial before anything could be built, and no zoning change had been scheduled.",
+    "src": "https://www.gpb.org/news/2025/11/26/why-are-troup-county-residents-saying-no-600-mw-data-center-in-hogansville"
+   },
+   {
+    "para": 4,
+    "t": "A town hall was set for 2 December at seven in the evening.",
+    "src": "https://www.gpb.org/news/2025/11/26/why-are-troup-county-residents-saying-no-600-mw-data-center-in-hogansville"
+   },
+   {
+    "para": 4,
+    "t": "Michael Taylor Jr., aged 29, was the only councilman openly against the proposal, and backed a moratorium.",
+    "src": "https://www.gpb.org/news/2025/11/26/why-are-troup-county-residents-saying-no-600-mw-data-center-in-hogansville"
+   },
+   {
+    "para": 5,
+    "t": "The project is carried at 600 megawatts on 437 acres, with a figure of $300 million that is the infrastructure cost rather than the value of the project.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 5,
+    "t": "Two more tracked data center sites sit within 22 kilometres, at LaGrange.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 5,
+    "t": "The nearest generation is the 945 megawatt Tenaska gas plant, 23 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.gpb.org/news/2025/11/26/why-are-troup-county-residents-saying-no-600-mw-data-center-in-hogansville"
+  ],
+  "unconfirmed": "No water figure was published for the project itself. What happened at the 2 December town hall, and whether a rezoning has since been applied for or a moratorium adopted, are not established. No figure was given for how much of the $300 million infrastructure cost would fall on ratepayers, which is the question the residents quoted are actually asking. The New York Times article and the LaGrange Daily News report in our record could not be fetched, one blocked and one returning 403."
+ },
+ {
+  "id": "ft-155",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is one of the few data center sites with a tenant named against it.",
+    "src": "data:tenant"
+   },
+   {
+    "para": 0,
+    "t": "Project Pegasus at 411 Pegasus Parkway in LaGrange, in Troup County, Georgia, is listed as operating and expanding, at 400 megawatts on 271 acres, developed by Form8tion, part of Thor Equities, with Google as the end user.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "None of the four sources attached to the entry could be read: three trade reports returned 403, and the developer's own site plan redirected to a corporate page.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Troup County now holds three of the recorded data center sites.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "Project West, a 600 megawatt campus, is 4 kilometres away, and the Hogansville proposal, another 600 megawatts, is 21.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Against that, the nearest generation is the 87 megawatt West Point dam, 15 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "No local objection to this site is logged, and no moratorium is in force in Troup County.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Every source in our record was unreachable, so the 400 megawatt figure, the 271 acres, Google's involvement and the operating and expanding status all rest on our record alone. No water figure, no investment total, no job count and no dates are established, and no LaGrange local reporting was sought for this site. Given that our record shows three of Troup County's data center projects clustered within 21 kilometres, the cumulative power demand on one county is the question this page cannot answer."
+ },
+ {
+  "id": "ft-156",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The pitch was $9.7 billion, and the city said no.",
+    "src": "https://www.ajc.com/news/2025/06/as-data-centers-grow-larger-so-does-pushback-across-georgia/"
+   },
+   {
+    "para": 0,
+    "t": "Project West was announced in March 2025 as a data center campus on more than 513 acres near Interstate 85 and Hamilton Road in LaGrange, in Troup County, Georgia: six buildings of 250,000 square feet, 600 megawatts, 570 jobs at an average salary of $80,000, and a claimed net benefit to the city and county of $762 million.",
+    "src": "https://www.fox5atlanta.com/news/data-center-campus-proposed-troup-county-jobs"
+   },
+   {
+    "para": 0,
+    "t": "The investment was put at nearly $10 billion over a decade, with the first phase finished in 2028 if approved.",
+    "src": "https://www.fox5atlanta.com/news/data-center-campus-proposed-troup-county-jobs"
+   },
+   {
+    "para": 1,
+    "t": "Joshua Harrison, a LaGrange resident, led the project.",
+    "src": "https://www.fox5atlanta.com/news/data-center-campus-proposed-troup-county-jobs"
+   },
+   {
+    "para": 1,
+    "t": "\"We are excited to bring this level of investment and innovation to LaGrange,\" he said. \"This project is not just about economic growth, it's about creating long-term opportunities for the people of Troup County.\"",
+    "src": "https://www.fox5atlanta.com/news/data-center-campus-proposed-troup-county-jobs"
+   },
+   {
+    "para": 1,
+    "t": "The developers were coordinating with Georgia Power and the city to secure the power.",
+    "src": "https://www.fox5atlanta.com/news/data-center-campus-proposed-troup-county-jobs"
+   },
+   {
+    "para": 2,
+    "t": "That same month, the Atlanta Journal-Constitution reported, the LaGrange city council refused an annexation and rezoning request for a $9.7 billion data center proposal in Troup County.",
+    "src": "https://www.ajc.com/news/2025/06/as-data-centers-grow-larger-so-does-pushback-across-georgia/"
+   },
+   {
+    "para": 3,
+    "t": "The developer is named as Economic Impact Group LLC, the project is put at 600 megawatts, and it is still listed as proposed.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "Project Pegasus, where Google is named as the tenant, is 4 kilometres away, and the Hogansville proposal 22.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generation is the 87 megawatt West Point dam, 16 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.fox5atlanta.com/news/data-center-campus-proposed-troup-county-jobs",
+   "https://www.ajc.com/news/2025/06/as-data-centers-grow-larger-so-does-pushback-across-georgia/"
+  ],
+  "unconfirmed": "The newspaper's account of a $9.7 billion Troup County proposal refused annexation and rezoning in March 2025 matches this project's value, county and month, but the report does not name the project, so the identification rests on those matching details. No vote count for the refusal was reported, and no council member or resident is named or quoted. Whether the developers have refiled, and what our record's status of proposed now reflects, are not established. No water figure was published, and the acreage differs between the announcement's 513 acres and our record, which gives none."
+ },
+ {
+  "id": "ft-1785164164773-4269",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one lasted nineteen days.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4794"
+   },
+   {
+    "para": 0,
+    "t": "Stillwater Development, LLC filed its initial Development of Regional Impact form for the Stillwater Technology Park data center through the city of Lovejoy, in Clayton County, Georgia, on 22 July 2026, and on 10 August 2026 the state recorded the determination: withdrawn.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4794"
+   },
+   {
+    "para": 0,
+    "t": "The file never reached a completeness certification, a request for comments or a regional commission finding.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4794"
+   },
+   {
+    "para": 1,
+    "t": "The campus is put at 1,250 megawatts on 400 acres for $13 billion, at Panhandle Road in Lovejoy, and listed as cancelled.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "Twelve moratoriums, bans and zoning limits are in force across the jurisdictions around the site, though Clayton County itself has none.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Six other tracked data center sites lie within 16 kilometres, including the withdrawn Crow Holdings site at 9 kilometres and a Microsoft campus at 16.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Jack McDonough, the closest plant of any size at 2,535 megawatts, is 45 kilometres away, which for a 1,250 megawatt campus would have meant new transmission across half a county.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4794"
+  ],
+  "unconfirmed": "The state file records that the application was withdrawn but not why, and no local reporting explaining it could be read; both Data Center Dynamics articles in our record returned 403. Whether residents objected, whether Lovejoy or Clayton County took any position, and whether the developer intends to refile are all unknown. The 1,250 megawatt, 400 acre and $13 billion figures in our record appear in no source read, as the state summary carries no acreage or square footage."
+ }
+]

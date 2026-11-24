@@ -1,0 +1,608 @@
+[
+ {
+  "id": "ft-1777315563905-2542",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "When the Okeechobee County commissioners killed this data center the room applauded.",
+    "src": "https://www.wgcu.org/section/science/2026-04-24/okeechobeeokee-onedoa"
+   },
+   {
+    "para": 0,
+    "t": "On 24 April 2026 the board voted to reject a proposed land use designation called Special Technology Opportunity Centers, which would have turned agricultural land in the south of the county into technology zones.",
+    "src": "https://www.wgcu.org/section/science/2026-04-24/okeechobeeokee-onedoa"
+   },
+   {
+    "para": 0,
+    "t": "Commissioner Terry Burroughs also announced that the Okee-One data center itself was being abandoned by the state.",
+    "src": "https://www.wgcu.org/section/science/2026-04-24/okeechobeeokee-onedoa"
+   },
+   {
+    "para": 1,
+    "t": "The project was unusual in who was behind it.",
+    "src": "https://www.wgcu.org/section/science/2026-04-24/okeechobeeokee-onedoa"
+   },
+   {
+    "para": 1,
+    "t": "Okee-One was planned for about 200 acres on the site of a former reformatory school for boys, and Indian River State College intended to partner on it and use it as a working classroom for students.",
+    "src": "https://www.wgcu.org/section/science/2026-04-24/okeechobeeokee-onedoa"
+   },
+   {
+    "para": 1,
+    "t": "The college had a $1.5 million state grant from the governor's Rural Infrastructure Fund and was preparing to break ground, and has since been asked to give the money back.",
+    "src": "https://www.wgcu.org/section/science/2026-04-24/okeechobeeokee-onedoa"
+   },
+   {
+    "para": 2,
+    "t": "This is cattle country, and the objections were about noise and about wells.",
+    "src": "https://www.wptv.com/news/treasure-coast/region-okeechobee-county/vote-by-okeechobee-county-commissioners-kills-controversial-okee-one-data-center-project"
+   },
+   {
+    "para": 2,
+    "t": "Former county commissioner Bryant Culpepper said: \"I just don't think this is the right place for it.\"",
+    "src": "https://www.wptv.com/news/treasure-coast/region-okeechobee-county/vote-by-okeechobee-county-commissioners-kills-controversial-okee-one-data-center-project"
+   },
+   {
+    "para": 2,
+    "t": "He said the possibility of well water pollution reaching cattle operations was a major concern.",
+    "src": "https://www.wptv.com/news/treasure-coast/region-okeechobee-county/vote-by-okeechobee-county-commissioners-kills-controversial-okee-one-data-center-project"
+   },
+   {
+    "para": 2,
+    "t": "Evan Reisfeld, who runs a local restaurant, said: \"We were ecstatic. We don't like change. We like our small town communities. We enjoy the quiet.\"",
+    "src": "https://www.wptv.com/news/treasure-coast/region-okeechobee-county/vote-by-okeechobee-county-commissioners-kills-controversial-okee-one-data-center-project"
+   },
+   {
+    "para": 3,
+    "t": "The two accounts describe the same piece of state legislation in opposite terms.",
+    "src": "https://www.wgcu.org/section/science/2026-04-24/okeechobeeokee-onedoa"
+   },
+   {
+    "para": 3,
+    "t": "WGCU reports that Senate Bill 484 restricts data center construction but includes provisions allowing non disclosure agreements, letting local governments keep a company's plans confidential for up to 12 months.",
+    "src": "https://www.wgcu.org/section/science/2026-04-24/okeechobeeokee-onedoa"
+   },
+   {
+    "para": 3,
+    "t": "A WPTV report on a different Florida project describes the same bill as banning non disclosure agreements and requiring the companies behind projects to be named publicly.",
+    "src": "https://www.wptv.com/wptv-investigates/scrapped-developer-of-st-lucie-county-data-center-project-may-withdraw-plan-amid-new-ai-legislation"
+   },
+   {
+    "para": 4,
+    "t": "The project is listed as cancelled, at 200 acres.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "Another Indian River State College site sits 8 kilometres away, and the nearest generation is four 75 megawatt solar plants between 4 and 17 kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.wgcu.org/section/science/2026-04-24/okeechobeeokee-onedoa",
+   "https://www.wptv.com/news/treasure-coast/region-okeechobee-county/vote-by-okeechobee-county-commissioners-kills-controversial-okee-one-data-center-project",
+   "https://www.wptv.com/wptv-investigates/scrapped-developer-of-st-lucie-county-data-center-project-may-withdraw-plan-amid-new-ai-legislation"
+  ],
+  "unconfirmed": "No vote count was given for the commissioners' decision, and no commissioner who voted is quoted; the only official quoted had already left the board. The contradiction between the two accounts of Senate Bill 484, one saying it bans non disclosure agreements and the other that it permits them, could not be resolved without reading the bill, which was not attempted. The megawatt capacity of Okee-One, its developer beyond the college's involvement, and what happens to the former school site now are not established. The CBS12 report in our record was not fetched."
+ },
+ {
+  "id": "ft-1772678463697-4680",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is a downtown telephone building rather than a campus on farmland.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "An H5 data center is recorded at 655 North Franklin Street in Tampa, in Hillsborough County, Florida, and the single source attached to it is a trade report about H5 and Novacap launching a platform by acquiring three carrier hotels from 365 Data Centers.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "A carrier hotel is a building where networks meet and exchange traffic, generally already built and already in use.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "No capacity figure, acreage, date or sign of local objection is attached to it, and it is listed as proposed.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "It is the only data center site recorded in Hillsborough County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The generation around Tampa Bay is large and close: the 1,974 megawatt H L Culbreath Bayside station 6 kilometres away, the 1,310 megawatt P L Bartow at 17 and the 1,580 megawatt Big Bend at 18.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Pasco County, to the north, put a one year moratorium on data centers in force on 15 July 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403 and could not be read, so the acquisition, its date, the size of the building and whether anything new is proposed there are all unestablished. Our record's status of proposed sits oddly with a report about acquiring existing carrier hotels. No Tampa local reporting was sought, and no megawatt figure, water figure or local objection is known."
+ },
+ {
+  "id": "ft-212",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Jones County changed its rules to allow data centers, and nine days later an application arrived.",
+    "src": "https://wgxa.tv/news/local/developers-withdraw-rezoning-application-jones-county-data-center-ahead-of-planning-and-zoning-hearing-thomas-hutton-engineering-eagle-rock-partners-crooked-creek-technology-park-intersection-of-highway-18-and-bethlehem-church-road-tim-pitrowski"
+   },
+   {
+    "para": 0,
+    "t": "The county's data center zoning rules date from 16 September 2025.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Eagle Rock Partners and Thomas & Hutton Engineering sought to rezone land at the intersection of Highway 18 and Bethlehem Church Road for the Crooked Creek Technology Park, a data center of 1.8 million square feet across more than 600 acres.",
+    "src": "https://wgxa.tv/news/local/developers-withdraw-rezoning-application-jones-county-data-center-ahead-of-planning-and-zoning-hearing-thomas-hutton-engineering-eagle-rock-partners-crooked-creek-technology-park-intersection-of-highway-18-and-bethlehem-church-road-tim-pitrowski"
+   },
+   {
+    "para": 1,
+    "t": "They withdrew it on Monday 20 October 2025, less than a day before the planning and zoning board was due to hold a public hearing and vote at six in the evening.",
+    "src": "https://wgxa.tv/news/local/developers-withdraw-rezoning-application-jones-county-data-center-ahead-of-planning-and-zoning-hearing-thomas-hutton-engineering-eagle-rock-partners-crooked-creek-technology-park-intersection-of-highway-18-and-bethlehem-church-road-tim-pitrowski"
+   },
+   {
+    "para": 1,
+    "t": "Tim Pitrowski, the planning director, confirmed it: \"They did withdraw their application and the matter will not be heard this evening.\"",
+    "src": "https://wgxa.tv/news/local/developers-withdraw-rezoning-application-jones-county-data-center-ahead-of-planning-and-zoning-hearing-thomas-hutton-engineering-eagle-rock-partners-crooked-creek-technology-park-intersection-of-highway-18-and-bethlehem-church-road-tim-pitrowski"
+   },
+   {
+    "para": 2,
+    "t": "Dustin Riley argued that the ordinance as it stood would allow a data center in a neighbourhood commercial district, and that such buildings should \"only be allowed in heavy industrial districts, of which there are very few spots in the county that would qualify\". Resident Kathy Simmons said taking the amendment back \"would prevent something like this from happening in the future when someone comes in and sees a bunch of ag land\".",
+    "src": "https://wgxa.tv/news/local/developers-withdraw-rezoning-application-jones-county-data-center-ahead-of-planning-and-zoning-hearing-thomas-hutton-engineering-eagle-rock-partners-crooked-creek-technology-park-intersection-of-highway-18-and-bethlehem-church-road-tim-pitrowski"
+   },
+   {
+    "para": 2,
+    "t": "The planning and zoning board voted to recommend that the county commissioners look again at the data center zoning language before deciding on 4 November.",
+    "src": "https://wgxa.tv/news/local/developers-withdraw-rezoning-application-jones-county-data-center-ahead-of-planning-and-zoning-hearing-thomas-hutton-engineering-eagle-rock-partners-crooked-creek-technology-park-intersection-of-highway-18-and-bethlehem-church-road-tim-pitrowski"
+   },
+   {
+    "para": 2,
+    "t": "Had the developers resubmitted by 23 October, the application would have gone to the next zoning meeting on 17 November.",
+    "src": "https://wgxa.tv/news/local/developers-withdraw-rezoning-application-jones-county-data-center-ahead-of-planning-and-zoning-hearing-thomas-hutton-engineering-eagle-rock-partners-crooked-creek-technology-park-intersection-of-highway-18-and-bethlehem-church-road-tim-pitrowski"
+   },
+   {
+    "para": 3,
+    "t": "The entry is held as an Eagle Rock Partners and Thomas & Hutton Engineering project of 900 megawatts about three miles southwest of Highway 49 and Highway 18, listed as suspended, with a local opposition group on Facebook.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "It separately lists a Crooked Creek Data Center and another Eagle Rock site, both 8 kilometres away, so it is not certain that the withdrawal above applies to this parcel rather than to one of those.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "Three data center sites are recorded in Jones County, and six lie within 35 kilometres, including a Google site at Macon.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "Neighbouring Monroe County put a moratorium in force on 3 December 2025.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The 2,580 megawatt Scherer coal plant is 35 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://wgxa.tv/news/local/developers-withdraw-rezoning-application-jones-county-data-center-ahead-of-planning-and-zoning-hearing-thomas-hutton-engineering-eagle-rock-partners-crooked-creek-technology-park-intersection-of-highway-18-and-bethlehem-church-road-tim-pitrowski"
+  ],
+  "unconfirmed": "Our record holds three nearby entries naming the same developers, and I could not establish which of them the October 2025 withdrawal applies to; the report gives the site as Highway 18 and Bethlehem Church Road while our record for this entry gives three miles southwest of Highway 49 and Highway 18. Whether the application was resubmitted, and what the commissioners decided on 4 November 2025, are not established. The 900 megawatt figure in our record appears in no reporting I could reach, and the 13WMAZ article cited in our record returned 403."
+ },
+ {
+  "id": "ft-214",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This entry holds a name, a developer and a number, and the only source attached to it could not be read.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Project Sassy is listed as a 200 megawatt data center by Atlas Development at Plainville Road and Georgia 53, near Adairsville, and filed under Floyd County, Georgia.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "What can be said is that it sits in the part of Georgia where local governments have been closing the door fastest.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Six measures are in force within reach: moratoriums in Gordon, Paulding, Polk and Walker counties and in the city of Calhoun, and zoning limits in Bartow County, most of them adopted between July and August 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Six other data center sites lie within 30 kilometres, including Project Springbank 10 kilometres away, which was cancelled, and a Microsoft project at 27.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The 3,200 megawatt Bowen coal plant is 30 kilometres away, and the 1,035 megawatt Rocky Mountain pumped storage plant 25.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so nothing could be verified: not the acreage, the timeline, the county, or whether any application has been filed. Our record files the site in Floyd County while giving an Adairsville address, which sits in Bartow and Gordon counties, so the location may be wrong. No tenant is named, no hearing was found and no local reaction is known. Reporting reached for a neighbouring Atlas Development project suggests the company was active across this area in 2025 and 2026, but nothing specific to Project Sassy was found."
+ },
+ {
+  "id": "ft-57",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Atlas Development wanted to put six data center buildings on 588 acres of farmland in Bartow County, Georgia, and the arithmetic was what people objected to.",
+    "src": "https://www.ajc.com/news/business/45b-project-springbank-joins-metro-atlantas-data-center-pipeline/2ZNPEXHMIZBXNPKIPWHJZ4FLH4/"
+   },
+   {
+    "para": 0,
+    "t": "Project Springbank, near Horseshoe Loop and Barnsley Gardens Road about an hour northwest of Atlanta, was put at $4.5 billion: six buildings of 379,000 square feet each, 78 megawatts apiece, 432 megawatts in total, finished late in 2031.",
+    "src": "https://www.ajc.com/news/business/45b-project-springbank-joins-metro-atlantas-data-center-pipeline/2ZNPEXHMIZBXNPKIPWHJZ4FLH4/"
+   },
+   {
+    "para": 0,
+    "t": "That is about the electricity used by 324,000 homes, nearly seven times the number of homes in Bartow County.",
+    "src": "https://www.ajc.com/news/business/45b-project-springbank-joins-metro-atlantas-data-center-pipeline/2ZNPEXHMIZBXNPKIPWHJZ4FLH4/"
+   },
+   {
+    "para": 1,
+    "t": "Atlas Development was founded in 2017 in Whitesburg, and filed a Development of Regional Impact form on 14 February 2025.",
+    "src": "https://www.ajc.com/news/business/45b-project-springbank-joins-metro-atlantas-data-center-pipeline/2ZNPEXHMIZBXNPKIPWHJZ4FLH4/"
+   },
+   {
+    "para": 1,
+    "t": "The land was zoned agricultural and miles from any industrial zone, so the company needed a rezoning.",
+    "src": "https://www.ajc.com/news/2025/06/as-data-centers-grow-larger-so-does-pushback-across-georgia/"
+   },
+   {
+    "para": 1,
+    "t": "The plans included closed loop cooling to hold down water use, and no data center operator was ever publicly tied to the site.",
+    "src": "https://www.ajc.com/news/business/45b-project-springbank-joins-metro-atlantas-data-center-pipeline/2ZNPEXHMIZBXNPKIPWHJZ4FLH4/"
+   },
+   {
+    "para": 2,
+    "t": "It did not get that far.",
+    "src": "https://www.ajc.com/news/2025/06/as-data-centers-grow-larger-so-does-pushback-across-georgia/"
+   },
+   {
+    "para": 2,
+    "t": "The proposal was withdrawn in May 2025 after the planning commission recommended denial.",
+    "src": "https://www.ajc.com/news/2025/06/as-data-centers-grow-larger-so-does-pushback-across-georgia/"
+   },
+   {
+    "para": 2,
+    "t": "Josh Cauthen, a Bartow County resident, had put the objection this way: \"If this goes through, you've placed an industrial zoning in the area, and it'll open up the floodgates for all the properties around it.\"",
+    "src": "https://www.ajc.com/news/2025/06/as-data-centers-grow-larger-so-does-pushback-across-georgia/"
+   },
+   {
+    "para": 3,
+    "t": "Springbank was one of several.",
+    "src": "https://www.ajc.com/news/2025/06/as-data-centers-grow-larger-so-does-pushback-across-georgia/"
+   },
+   {
+    "para": 3,
+    "t": "In Coweta County the commission voted 3 to 2 to advance a $1 billion campus called Project Peach after an April meeting filled with residents in yellow shirts, and LaGrange denied annexation and rezoning for a $9.7 billion proposal in March.",
+    "src": "https://www.ajc.com/news/2025/06/as-data-centers-grow-larger-so-does-pushback-across-georgia/"
+   },
+   {
+    "para": 3,
+    "t": "Palmetto Mayor Teresa Thomas-Smith said of one proposal: \"This would fundamentally alter the character of our community.\"",
+    "src": "https://www.ajc.com/news/2025/06/as-data-centers-grow-larger-so-does-pushback-across-georgia/"
+   },
+   {
+    "para": 3,
+    "t": "In the Howell Station neighbourhood of Atlanta, where residents were fighting QTS over construction, tax breaks and the clearing of land for transmission lines, Chad Murray said: \"There's many people who live here who say that they're only going to be carried out in a box.\"",
+    "src": "https://www.ajc.com/news/2025/06/as-data-centers-grow-larger-so-does-pushback-across-georgia/"
+   },
+   {
+    "para": 3,
+    "t": "By that point the paper counted $64 billion of data center projects blocked or delayed nationally and more than 140 grassroots groups organised against them.",
+    "src": "https://www.ajc.com/news/2025/06/as-data-centers-grow-larger-so-does-pushback-across-georgia/"
+   },
+   {
+    "para": 4,
+    "t": "Springbank is listed as cancelled, with a capacity of 78 megawatts, which is the figure for a single building rather than the campus.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 4,
+    "t": "Seven moratoriums or zoning limits are now in force within reach of the site.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "Six other data center projects sit within 31 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 3,200 megawatt Bowen coal plant is 21 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.ajc.com/news/business/45b-project-springbank-joins-metro-atlantas-data-center-pipeline/2ZNPEXHMIZBXNPKIPWHJZ4FLH4/",
+   "https://www.ajc.com/news/2025/06/as-data-centers-grow-larger-so-does-pushback-across-georgia/"
+  ],
+  "unconfirmed": "The June 2025 report attributes the withdrawal to a $4.5 billion Bartow County proposal by Atlas Development on agricultural land, which matches Springbank, but does not name the project, so the identification rests on those matching details. No exact date in May 2025 is given for either the planning commission recommendation or the withdrawal, and no vote count is reported. Whether Atlas has refiled is not established. Our record's 588 acre and 78 megawatt figures need reconciling with the 432 megawatt campus total."
+ },
+ {
+  "id": "ft-60",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is a 12 megawatt data center in an office park, not a campus.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "ATL2 is listed as an operating Lincoln Rackhouse facility at 4905 North Point Parkway in Alpharetta, in Fulton County, Georgia, and the single source attached to it is a directory page for a differently named Atlanta facility.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Around it, metropolitan Atlanta has become the densest data center cluster in the state.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "Eighteen data center sites sit in Fulton County alone, and six lie within 24 kilometres of this one, the nearest a STACK facility 2 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The local governments have been reacting.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The city of Atlanta has banned data centers in parts of the city since 1 October 2024, Forsyth County and Bartow County have zoning limits, and Marietta, Chamblee, Cobb County and Paulding County all adopted moratoriums between July and August 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Thirty-two kilometres away stands the 2,535 megawatt Jack McDonough gas plant.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The source in our record is a directory listing for a facility called Ascent Atlanta ATL1, not for this address, so even the operator and the 12 megawatt figure are uncorroborated. No square footage, build date, water use or local objection is known, and no Alpharetta local reporting was sought. Our record's entry and the neighbouring ATL1 entry may describe related buildings under a naming scheme that our sources do not settle."
+ },
+ {
+  "id": "ft-61",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Whether this entry and the one beside it are the same data center project is unsettled, and the evidence suggests they are.",
+    "src": "data:name"
+   },
+   {
+    "para": 0,
+    "t": "This entry, Project JGK, is placed at the White Oak Technology Park on Appling-Harlem Road in Columbia County, at 2,000 acres and $11.6 billion.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 0,
+    "t": "The neighbouring entry, 2 kilometres away, is the White Oak Technology Park itself, with Trammell Crow Company as developer and Google as the end user.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Georgia's own Development of Regional Impact file for White Oak Technology Park names Trammell Crow Company as the developer, records Columbia as the submitting local government, and places it in the Central Savannah River Area region.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4443"
+   },
+   {
+    "para": 1,
+    "t": "The initial form was filed on 8 April 2025, a determination on 21 April found that the project warranted regional review, the regional commission issued its finding on 7 May, and the review was projected to complete on 22 May 2025.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4443"
+   },
+   {
+    "para": 1,
+    "t": "The file gives no acreage, no square footage and no description of the proposed use.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4443"
+   },
+   {
+    "para": 2,
+    "t": "Three data center sites sit in Columbia County, and five lie within 25 kilometres of this one.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generation is the 336 megawatt J Strom Thurmond hydroelectric dam, 22 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The surrounding jurisdictions have written no restrictions at all.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4443"
+  ],
+  "unconfirmed": "Whether Project JGK and the White Oak Technology Park are one project under two names is not settled; our record raises the question in the entry's own title and I could not answer it. The $11.6 billion and 2,000 acre figures come from an Augusta Chronicle report that could not be fetched, and appear in no source read. The state file confirms the developer and the review dates but nothing about size, power or water. No megawatt figure exists for this entry."
+ },
+ {
+  "id": "ft-62",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Columbia County set up a website to answer the objections to this one, and what it concedes is as informative as what it claims.",
+    "src": "https://www.columbiacountydatacenter.com/"
+   },
+   {
+    "para": 0,
+    "t": "The site names Google as the developer and end user of the Columbia County data center.",
+    "src": "https://www.columbiacountydatacenter.com/"
+   },
+   {
+    "para": 1,
+    "t": "It records that commissioners attached conditions to the rezoning: lower noise limits, more space between the project and existing homes, and a landscaped berm for privacy.",
+    "src": "https://www.columbiacountydatacenter.com/"
+   },
+   {
+    "para": 1,
+    "t": "It says the Board of Commissioners asked the state for property tax relief legislation for residents, and that the measure passed both chambers of the Georgia General Assembly.",
+    "src": "https://www.columbiacountydatacenter.com/"
+   },
+   {
+    "para": 1,
+    "t": "It lists open comment at planning commission and board meetings, two public town halls, and routine contact by email, phone and in person.",
+    "src": "https://www.columbiacountydatacenter.com/"
+   },
+   {
+    "para": 1,
+    "t": "The chamber of commerce chief executive says the site exists to present the public with facts.",
+    "src": "https://www.columbiacountydatacenter.com/"
+   },
+   {
+    "para": 2,
+    "t": "What the page does not give is a number.",
+    "src": "https://www.columbiacountydatacenter.com/"
+   },
+   {
+    "para": 2,
+    "t": "There is no acreage, no square footage, no megawatt figure, no water use, no job count, no tax revenue and no timeline on it.",
+    "src": "https://www.columbiacountydatacenter.com/"
+   },
+   {
+    "para": 3,
+    "t": "The state's Development of Regional Impact file names Trammell Crow Company as the developer of the White Oak Technology Park, with the regional review determination made on 21 April 2025 and completion projected for 22 May 2025.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4443"
+   },
+   {
+    "para": 3,
+    "t": "That file gives no acreage or square footage either.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4443"
+   },
+   {
+    "para": 4,
+    "t": "Trammell Crow Company is named as developer and Google as tenant, with no capacity figure attached.",
+    "src": "data:tenant"
+   },
+   {
+    "para": 4,
+    "t": "A sibling entry 2 kilometres away, Project JGK, carries figures of 2,000 acres and $11.6 billion that no source read here confirms.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.columbiacountydatacenter.com/",
+   "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4443"
+  ],
+  "unconfirmed": "The county's website is a promotional and informational page run with the chamber of commerce, not an independent account, and it carries none of the figures a neighbour would want. The rezoning conditions it describes are not dated and no vote is recorded. The size, power draw and water use of the project are unknown from every source read. The Data Center Dynamics article in our record, which reportedly names Google as end user of an 8 million square foot facility, returned 403, so the square footage is not used here."
+ },
+ {
+  "id": "ft-1766109846803-1450",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The owners of a film studio in northeast Athens, in Athens-Clarke County, Georgia, want to turn it into a data center, and the county has spent the time since arguing about whether its own rules allow that.",
+    "src": "https://www.wuga.org/local-news/2025-12-03/acc-commission-pauses-new-data-centers-manager-says-athena-studios-data-center-would-need-rezone"
+   },
+   {
+    "para": 0,
+    "t": "Athena Studios sits on Athena Drive.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "County Manager Bob Cowell said the proposal would need a rezoning before it could be approved.",
+    "src": "https://www.wuga.org/local-news/2025-12-03/acc-commission-pauses-new-data-centers-manager-says-athena-studios-data-center-would-need-rezone"
+   },
+   {
+    "para": 1,
+    "t": "The land is zoned E-I, enterprise industrial, and county staff decided that data centers belong in I zoned parcels instead.",
+    "src": "https://www.wuga.org/local-news/2025-12-03/acc-commission-pauses-new-data-centers-manager-says-athena-studios-data-center-would-need-rezone"
+   },
+   {
+    "para": 1,
+    "t": "\"Data centers are newer than our ordinance, and so what that requires the staff to do is to interpret which zoning classification does it go in,\" Cowell said.",
+    "src": "https://www.wuga.org/local-news/2025-12-03/acc-commission-pauses-new-data-centers-manager-says-athena-studios-data-center-would-need-rezone"
+   },
+   {
+    "para": 2,
+    "t": "On Tuesday 3 December 2025 the Athens-Clarke County Commission unanimously passed a moratorium on new data centers, running until early March 2026, and set 11 December to discuss an ordinance amendment defining what a data center is.",
+    "src": "https://www.wuga.org/local-news/2025-12-03/acc-commission-pauses-new-data-centers-manager-says-athena-studios-data-center-would-need-rezone"
+   },
+   {
+    "para": 2,
+    "t": "Commissioner Ovita Thornton of District 9 said: \"We never would have expected another data center trying to come here. I think when the first one popped up, it should have set some alarms, but here we are, we have a moratorium.\"",
+    "src": "https://www.wuga.org/local-news/2025-12-03/acc-commission-pauses-new-data-centers-manager-says-athena-studios-data-center-would-need-rezone"
+   },
+   {
+    "para": 3,
+    "t": "The other data center she meant is 2 kilometres away, at Athens Shoals Crossing.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "A change.org petition opposes the Athena Studios conversion, and the project is listed as proposed.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "The 746 megawatt Dahlberg gas plant is 11 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.wuga.org/local-news/2025-12-03/acc-commission-pauses-new-data-centers-manager-says-athena-studios-data-center-would-need-rezone"
+  ],
+  "unconfirmed": "The square footage and megawatt capacity of the proposed conversion are not established; reports elsewhere describe 1.3 million square feet and a site across from the Spring Valley trailer park, and say the planning commission recommended denial in September and that commissioners later discussed an outright ban, but those pages were not read and none of it is used above. Whether the moratorium was extended past March 2026, and what happened to the rezoning request, are unknown. No resident is named or quoted in the source read. The Data Center Dynamics article in our record returned 403."
+ },
+ {
+  "id": "ft-89",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is a 15 megawatt data center inside an office tower at 40 Perimeter Center East, in DeKalb County, Georgia, listed as operating and run by Lincoln Rackhouse.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The only source attached to it is a commercial directory page for the building.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "It sits in the middle of the densest cluster in metropolitan Atlanta.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Six other tracked data center sites lie within 15 kilometres, and the related ATL2 facility in Alpharetta is 15 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Eight moratoriums, bans or zoning limits are in force around it.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The city of Atlanta banned data centers in parts of the city from 1 October 2024; Covington, Marietta, Chamblee, Cobb County and Paulding County have moratoriums; and Hampton and Forsyth County have zoning limits.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The generation behind it is the 2,535 megawatt Jack McDonough gas plant, 18 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Nothing here could be verified against reporting. The only source is a directory listing, which was not fetched, so the operator, the 15 megawatt figure and the operating status all rest on our record. No square footage, no water use, no build or conversion date and no local objection are known, and no Atlanta local reporting was sought for this address."
+ }
+]

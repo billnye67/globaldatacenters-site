@@ -1,0 +1,63 @@
+project_name;developer_or_owner;tenant;city;state_or_region;country;address;latitude;longitude;capacity_mw;site_size;status;year_announced;year_operating_or_planned;note;source_url
+NTT Ashburn Campus (VA1-VA9);NTT Global Data Centers;hyperscale;Ashburn;Virginia;United States;22640 Davis Dr, Ashburn, VA 20147;;;;;78 acres;operating;;;Nine buildings, VA7 opening September 2026;https://baxtel.com/data-centers/ntt
+NTT Gainesville Campus (VA10-VA13);NTT Global Data Centers;hyperscale;Gainesville;Virginia;United States;Grove at Gainesville, Gainesville, VA 20155;;;;;104 acres;under construction;;;Four two-story buildings;https://baxtel.com/data-centers/ntt
+NTT Sacramento Campus (CA1-CA3);NTT Global Data Centers;hyperscale;Sacramento;California;United States;1200 Striker Ave, Sacramento, CA 95834;;;;;;operating;;;Former RagingWire;https://baxtel.com/data-centers/ntt
+NTT Silicon Valley (SV1);NTT Global Data Centers;hyperscale;Santa Clara;California;United States;2820 Northwestern Pkwy, Santa Clara, CA 95051;;;;16;3.3 acres;operating;2021;;;https://baxtel.com/data-centers/ntt
+NTT Garland Campus (TX1-TX4);NTT Global Data Centers;hyperscale;Garland;Texas;United States;3000 W Campbell Rd, Garland, TX 75044;;;;80;42 acres;operating;;;Five buildings planned;https://baxtel.com/data-centers/ntt
+NTT Chicago Campus (Itasca CH1-CH5);NTT Global Data Centers;hyperscale;Itasca;Illinois;United States;Itasca, IL 60143;;;;72;19 acres;operating;2021;;CH4 replaces two acquired office buildings;https://baxtel.com/data-centers/ntt
+NTT Hillsboro Campus (HI1-HI5);NTT Global Data Centers;hyperscale;Hillsboro;Oregon;United States;Hillsboro, OR 97124;;;;126;;operating;2021;;HI2 420,000 sq ft under construction;https://baxtel.com/data-centers/ntt
+NTT Hillsboro II Campus;NTT Global Data Centers;hyperscale;Hillsboro;Oregon;United States;Hillsboro, OR 97124;;;;;;proposed;;;Additional land acquired;https://baxtel.com/data-centers/ntt
+NTT Phoenix Campus (Mesa PH1-PH7);NTT Global Data Centers;hyperscale;Mesa;Arizona;United States;Mesa, AZ 85212;;;;240;;operating;2022;;Seven buildings planned;https://baxtel.com/data-centers/ntt
+NTT Pacific Proving Technology Park (Mesa);NTT Global Data Centers;hyperscale;Mesa;Arizona;United States;Pecos Rd & Crismon Rd, Mesa, AZ 85212;;;;;173 acres;proposed;;;$300M land, Pacific 2 through 7;https://baxtel.com/data-centers/ntt
+NTT Data Quincy;NTT Data;enterprise;Quincy;Washington;United States;Quincy, WA 98848;;;;;;operating;2012;;Ex-Dell;https://baxtel.com/data-centers/ntt
+NTT Frankfurt 1 Campus (Rüsselsheim);NTT Global Data Centers;hyperscale;Russelsheim;Hesse;Germany;Eschborner Landstrasse 100, Frankfurt am Main, Germany;;;;;54000 sqm;operating;;;Former e-shelter, five buildings;https://baxtel.com/data-centers/ntt
+NTT Frankfurt 2;NTT Global Data Centers;colocation;Frankfurt;Hesse;Germany;Frankfurt am Main, Germany;;;;;;operating;;;;https://baxtel.com/data-centers/ntt
+NTT Frankfurt 3 (Blauer See);NTT Global Data Centers;hyperscale;Russelsheim;Hesse;Germany;Blauer See business park, Russelsheim am Main, Germany;;;;;;operating;;;;https://baxtel.com/data-centers/ntt
+NTT Frankfurt 4;NTT Global Data Centers;hyperscale;Frankfurt;Hesse;Germany;Frankfurt am Main, Germany;;;;;;operating;2019;;;https://baxtel.com/data-centers/ntt
+NTT Nierstein;NTT Global Data Centers;hyperscale;Nierstein;Rhineland-Palatinate;Germany;Nierstein, Germany;;;;;;proposed;;;Former barracks 50km south of Frankfurt;https://baxtel.com/data-centers/ntt
+NTT Berlin 1;NTT Global Data Centers;colocation;Berlin;Berlin;Germany;Berlin, Germany;;;;;;operating;;;;https://baxtel.com/data-centers/ntt
+NTT Berlin 2 Marienpark (2A-2D);NTT Global Data Centers;hyperscale;Berlin;Berlin;Germany;Lankwitzer Strasse 45-47, 12209 Berlin, Germany;;;;;;operating;2022;;;https://baxtel.com/data-centers/ntt
+NTT Berlin 3 (Brieselang);NTT Global Data Centers;hyperscale;Brieselang;Brandenburg;Germany;Brieselang, Germany;;;;;;proposed;;;18 miles west of Berlin;https://baxtel.com/data-centers/ntt
+NTT Munich 1/2;NTT Global Data Centers;colocation;Munich;Bavaria;Germany;Munich, Germany;;;;;;operating;;;;https://baxtel.com/data-centers/ntt
+NTT Hamburg 1;NTT Global Data Centers;colocation;Hamburg;Hamburg;Germany;Hamburg, Germany;;;;;;operating;;;;https://baxtel.com/data-centers/ntt
+NTT Zurich 1 (Rümlang);NTT Global Data Centers;colocation;Rumlang;Zurich;Switzerland;Hofwisenstrasse, Rumlang, Switzerland;;;;;;operating;2011;;;https://baxtel.com/data-centers/ntt
+NTT Vienna;NTT Global Data Centers;colocation;Vienna;Vienna;Austria;Vienna, Austria;;;;;;operating;;;;https://baxtel.com/data-centers/ntt
+NTT Amsterdam 1 (A-D);NTT Global Data Centers;hyperscale;Schiphol-Rijk;North Holland;Netherlands;Schiphol-Rijk, Netherlands;;;;;;operating;;;Four phases;https://baxtel.com/data-centers/ntt
+NTT London 1 (Dagenham);NTT Global Data Centers;hyperscale;Dagenham;Greater London;United Kingdom;Dagenham, London, UK;;;;60;;operating;;;24,000 sqm;https://baxtel.com/data-centers/ntt
+NTT London 2;NTT Global Data Centers;hyperscale;London;Greater London;United Kingdom;London, UK;;;;;26 acres;proposed;;;Eighth London site;https://baxtel.com/data-centers/ntt
+NTT Hemel Hempstead (HH1-HH4);NTT Global Data Centers;hyperscale;Hemel Hempstead;Hertfordshire;United Kingdom;Hemel Hempstead, UK;;;;;;operating;;;Former Gyron;https://baxtel.com/data-centers/ntt
+NTT Slough (SL2/SL3);NTT Global Data Centers;colocation;Slough;Berkshire;United Kingdom;Slough, UK;;;;;;operating;;;Former Gyron Ajax;https://baxtel.com/data-centers/ntt
+NTT Paris 1 (Corbeil-Essonnes);NTT Global Data Centers;hyperscale;Corbeil-Essonnes;Ile-de-France;France;Corbeil-Essonnes, France;;;;84;35.5 acres;under construction;;;Three data centers with Logistics Capital Partners;https://baxtel.com/data-centers/ntt
+NTT Madrid 1 (Las Rozas);NTT Global Data Centers;hyperscale;Las Rozas;Madrid;Spain;Las Rozas de Madrid, Spain;;;;;;operating;2022;;;https://baxtel.com/data-centers/ntt
+NTT Milan;NTT Global Data Centers;hyperscale;Milan;Lombardy;Italy;Milan, Italy;;;;;53 acres;proposed;;;;https://baxtel.com/data-centers/ntt
+NTT Tokyo Inzai-Shiroi (TKY12 / SHR1);NTT Global Data Centers;hyperscale;Shiroi;Chiba;Japan;Shiroi, Chiba, Japan;;;;;;under construction;;2027;;https://baxtel.com/data-centers/ntt
+NTT Tochigi Inter Industrial Park;NTT Global Data Centers;hyperscale;Tochigi;Tochigi;Japan;Tochigi Inter Industrial Park, Tochigi, Japan;;;;;32 acres;proposed;;;Two buildings;https://baxtel.com/data-centers/ntt
+NTT Tokyo Mitaka (TK10 / West);NTT Global Data Centers;hyperscale;Mitaka;Tokyo;Japan;Mitaka, Tokyo, Japan;;;;;;operating;;;;https://baxtel.com/data-centers/ntt
+NTT Tokyo (TK1-TK12 / Otemachi / Tokyo 5 / Tokyo 11);NTT Global Data Centers;colocation;Tokyo;Tokyo;Japan;Tokyo, Japan;;;;;;operating;;;Multiple urban buildings;https://baxtel.com/data-centers/ntt
+NTT Yokohama 1;NTT Global Data Centers;colocation;Yokohama;Kanagawa;Japan;Yokohama, Japan;;;;;;operating;;;;https://baxtel.com/data-centers/ntt
+NTT Osaka Dojima (OS2-OS4 / Osaka 5 / Osaka 7);NTT Global Data Centers;colocation;Osaka;Osaka;Japan;Dojima, Osaka, Japan;;;;;;operating;;;;https://baxtel.com/data-centers/ntt
+NTT Osaka North 1 (OSK12 Ibaraki);NTT Global Data Centers;hyperscale;Ibaraki;Osaka;Japan;Ibaraki, Osaka, Japan;;;;;;under construction;;;Two buildings;https://baxtel.com/data-centers/ntt
+NTT Keihanna (OSK11);NTT Global Data Centers;hyperscale;Kyotanabe;Kyoto;Japan;Keihanna Science City, Kyoto, Japan;;;;;;operating;;;;https://baxtel.com/data-centers/ntt
+NTT Osaka Nishiai;NTT Global Data Centers;hyperscale;Osaka;Osaka;Japan;Nishiai, Osaka, Japan;;;;;8 acres;proposed;;2027;Two data centers;https://baxtel.com/data-centers/ntt
+NTT Mumbai Chandivali (DC5-DC10 / Balaji IT Park);NTT Global Data Centers;hyperscale;Mumbai;Maharashtra;India;Balaji IT Park, Chandivali, Mumbai, India;;;;;;operating;;;;https://baxtel.com/data-centers/ntt
+NTT Mumbai Vikhroli;NTT Global Data Centers;hyperscale;Mumbai;Maharashtra;India;Vikhroli, Mumbai, India;;;;;;operating;;;;https://baxtel.com/data-centers/ntt
+NTT Navi Mumbai Mahape (NAV1A/1B);NTT Global Data Centers;hyperscale;Navi Mumbai;Maharashtra;India;Mahape, Navi Mumbai, India;;;;;;operating;;;5,000 racks;https://baxtel.com/data-centers/ntt
+NTT Navi Mumbai NAV2;NTT Global Data Centers;hyperscale;Navi Mumbai;Maharashtra;India;Navi Mumbai, India;;;;;54 acres;under construction;;;Four data centers phase 1;https://baxtel.com/data-centers/ntt
+NTT Noida 1;NTT Global Data Centers;hyperscale;Noida;Uttar Pradesh;India;Noida, India;;;;;;operating;;;;https://baxtel.com/data-centers/ntt
+NTT Noida 2 Campus;NTT Global Data Centers;hyperscale;Noida;Uttar Pradesh;India;Noida, India;;;;;;operating;2024;;First building 300,000 sq ft;https://baxtel.com/data-centers/ntt
+NTT Bengaluru (DC2/DC3);NTT Global Data Centers;colocation;Bengaluru;Karnataka;India;Bengaluru, India;;;;;;operating;;;;https://baxtel.com/data-centers/ntt
+NTT Bengaluru 4 Campus (4A-4C);NTT Global Data Centers;hyperscale;Bengaluru;Karnataka;India;Bengaluru, India;;;;;;under construction;;;Three data centers;https://baxtel.com/data-centers/ntt
+NTT Chennai (DC1 / Chennai 2);NTT Global Data Centers;hyperscale;Chennai;Tamil Nadu;India;Chennai, India;;;;;;operating;;;;https://baxtel.com/data-centers/ntt
+NTT Hyderabad I Campus;NTT Global Data Centers;hyperscale;Hyderabad;Telangana;India;Hyderabad, India;;;;;;proposed;;;;https://baxtel.com/data-centers/ntt
+NTT Kolkata Campus;NTT Global Data Centers;hyperscale;Kolkata;West Bengal;India;Bengal Silicon Valley Tech Hub, Kolkata, India;;;;;;under construction;;;Three data centers;https://baxtel.com/data-centers/ntt
+NTT Singapore (Serangoon / Tai Seng / Jurong);NTT Global Data Centers;colocation;Singapore;Singapore;Singapore;Singapore;;;;;;operating;;;;https://baxtel.com/data-centers/ntt
+NTT Hong Kong FDC (Tseung Kwan O) / Tai Po;NTT Global Data Centers;hyperscale;Tseung Kwan O;Hong Kong;Hong Kong;Tseung Kwan O, Hong Kong;;;;;;operating;2013;;;https://baxtel.com/data-centers/ntt
+NTT Cyberjaya Campus (CBJ1-CBJ6);NTT Global Data Centers;hyperscale;Cyberjaya;Selangor;Malaysia;Cyberjaya, Malaysia;;;;;;operating;;;;https://baxtel.com/data-centers/ntt
+NTT Gelang Patah (Johor);NTT Global Data Centers;hyperscale;Gelang Patah;Johor;Malaysia;Gelang Patah, Johor Bahru, Malaysia;;;;;68.5 acres;proposed;;;Six buildings;https://baxtel.com/data-centers/ntt
+NTT Bangkok Chonburi Campus (BKK2-BKK5);NTT Global Data Centers;hyperscale;Chonburi;Chonburi;Thailand;Amata City Chonburi, Thailand;;;;;;operating;;;BKK4 energizing 2027, BKK5 land secured;https://baxtel.com/data-centers/ntt
+NTT Bangkok 1;NTT Global Data Centers;colocation;Bangkok;Bangkok;Thailand;Bangkok, Thailand;;;;;;operating;;;;https://baxtel.com/data-centers/ntt
+NTT Jakarta (JK3 / JKT2A / Cyber Building);NTT Global Data Centers;hyperscale;Bekasi;West Java;Indonesia;Bekasi, Indonesia;;;;;;operating;;;JK3 30km east of Jakarta;https://baxtel.com/data-centers/ntt
+NTT Hanoi Thang Long;NTT Global Data Centers;colocation;Hanoi;Hanoi;Vietnam;Thang Long, Hanoi, Vietnam;;;;;;operating;;;;https://baxtel.com/data-centers/ntt
+NTT Ho Chi Minh City 1;NTT Global Data Centers;hyperscale;Ho Chi Minh City;Ho Chi Minh;Vietnam;Saigon Hi-Tech Park, Ho Chi Minh City, Vietnam;;;;;;under construction;;;With QD.Tek;https://baxtel.com/data-centers/ntt
+NTT Seoul;NTT Global Data Centers;colocation;Seoul;Seoul;South Korea;Seoul, South Korea;;;;;;operating;;;;https://baxtel.com/data-centers/ntt
+NTT Johannesburg 1 (JOH1);NTT Global Data Centers;colocation;Johannesburg;Gauteng;South Africa;Johannesburg, South Africa;;;;;;operating;;;;https://baxtel.com/data-centers/ntt

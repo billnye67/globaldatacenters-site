@@ -1,0 +1,730 @@
+[
+ {
+  "id": "ft-1771357617687-3210",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The power for this one was not going to come from the grid at all.",
+    "src": "https://www.wfae.org/energy-environment/2025-12-02/proposed-edgecombe-county-data-center-draws-criticism-during-county-meeting"
+   },
+   {
+    "para": 0,
+    "t": "Energy Storage Solutions proposed a $19.2 billion, 900 megawatt data center at Kingsboro Business Park between Rocky Mount and Tarboro, in Edgecombe County, North Carolina, overbuilt to 1,800 megawatts of mostly natural gas turbines and battery storage generating behind the meter.",
+    "src": "https://www.wfae.org/energy-environment/2025-12-02/proposed-edgecombe-county-data-center-draws-criticism-during-county-meeting"
+   },
+   {
+    "para": 0,
+    "t": "The company's president, Dan Shaffer, told the county commissioners on December 1, 2025: \"Once we build out our $19.2 billion project, the campus as a whole, the number is going to be about $75 million annually,\" averaged over the first seven years, and on the fuel: \"We're principally looking at natural gas right now.\"",
+    "src": "https://www.wfae.org/energy-environment/2025-12-02/proposed-edgecombe-county-data-center-draws-criticism-during-county-meeting"
+   },
+   {
+    "para": 1,
+    "t": "The county had heard promises before.",
+    "src": "https://www.wfae.org/energy-environment/2025-12-02/proposed-edgecombe-county-data-center-draws-criticism-during-county-meeting"
+   },
+   {
+    "para": 1,
+    "t": "James Wrenn, from Leggett, drew the comparison that shaped the evening: \"Data centers of the 2020s are like the hog farms and slaughterhouses of the 1990s, coming with the promise of much-needed funds for the county government while exposing the citizens of the surrounding community in Edgecombe County for serious environmental hazards.\"",
+    "src": "https://www.wfae.org/energy-environment/2025-12-02/proposed-edgecombe-county-data-center-draws-criticism-during-county-meeting"
+   },
+   {
+    "para": 1,
+    "t": "Janice Bulluck, a community organiser, said: \"When you come in, and you present this, then make it sound as though it's the best thing since sliced bread, when we start really looking into this, and it didn't even come close.\"",
+    "src": "https://www.wfae.org/energy-environment/2025-12-02/proposed-edgecombe-county-data-center-draws-criticism-during-county-meeting"
+   },
+   {
+    "para": 1,
+    "t": "Residents raised air and noise pollution, water, where the gas would come from, and whether the jobs would appear, pointing to xAI's Memphis site and its 35 unpermitted gas turbines.",
+    "src": "https://www.wfae.org/energy-environment/2025-12-02/proposed-edgecombe-county-data-center-draws-criticism-during-county-meeting"
+   },
+   {
+    "para": 2,
+    "t": "The company left in the end, and said why.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "A petition with 1,362 signatures was enough to make a county of 49,100 people think again about a project designed as eight phases of $800 million each.",
+    "src": "https://www.bisnow.com/news/national/data-center-development/north-carolina-data-center-canceled-as-county-debates-moratorium-135338"
+   },
+   {
+    "para": 2,
+    "t": "Energy Storage Solutions withdrew its offer for the Kingsboro CSX Select Megasite in early July 2026, and the county manager Eric Evans told a commissioners meeting that the developer had written to withdraw: \"Just for the public to know, that project is officially off board for the public consideration.\"",
+    "src": "https://www.bisnow.com/news/national/data-center-development/north-carolina-data-center-canceled-as-county-debates-moratorium-135338"
+   },
+   {
+    "para": 2,
+    "t": "Shaffer said investor confidence had fallen after the delays and the opposition, and that the investors had decided to go to friendlier communities.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The county then closed the door.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "Commissioners had unanimously approved land use amendments at the end of the previous year to let the development proceed; after the petition they were discussing a 24 month moratorium instead.",
+    "src": "https://www.bisnow.com/news/national/data-center-development/north-carolina-data-center-canceled-as-county-debates-moratorium-135338"
+   },
+   {
+    "para": 3,
+    "t": "All five commissioners present voted for it, so that until August 3, 2028 Edgecombe County cannot accept, process or approve development applications or permits for data centers in its zoning jurisdiction.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "Shaffer's company is based at Robersonville, and he is separately suing Tarboro Town Council over permits for a $6.4 billion project on 50 acres inside the town, where residents raised noise and water pollution.",
+    "src": "https://www.bisnow.com/news/national/data-center-development/north-carolina-data-center-canceled-as-county-debates-moratorium-135338"
+   },
+   {
+    "para": 4,
+    "t": "Neither financing nor tenants were publicly disclosed for either project.",
+    "src": "https://www.bisnow.com/news/national/data-center-development/north-carolina-data-center-canceled-as-county-debates-moratorium-135338"
+   },
+   {
+    "para": 5,
+    "t": "The nearest generators are all solar: 80, 80, 100 and 75 megawatt farms at five, 13, 15 and 33 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 5,
+    "t": "The proposed on-site gas turbines would have been more than twice the combined output of all four.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 5,
+    "t": "The project is now recorded as blocked, at 900 megawatts on 155 acres, at $19.2 billion.",
+    "src": "data:status"
+   }
+  ],
+  "sources": [
+   "https://www.wfae.org/energy-environment/2025-12-02/proposed-edgecombe-county-data-center-draws-criticism-during-county-meeting",
+   "https://www.bisnow.com/news/national/data-center-development/north-carolina-data-center-canceled-as-county-debates-moratorium-135338"
+  ],
+  "unconfirmed": "Our record held this site twice, once from FracTracker at 900 megawatts and once on the blocked list at 300 megawatts eight kilometres away; they were merged in an earlier pass, and the merge had left three sentences carrying two sentences each and the withdrawal told three times over. The withdrawal date is unresolved: the page had both July 6 and July 8, 2026, and Bisnow says only that Evans announced it on a Monday. The acreage does not agree either: Bisnow describes 28 acres inside the 1,700 acre megasite and our record carries 155. Which of the 900 and 300 megawatt figures is the whole campus and which a first phase is also unresolved. Sound Rivers, the Rocky Mount Telegram and the Daily Reflector reports of the withdrawal were not fetched, so Shaffer's explanation and the moratorium vote are attributed to our record's source list. No figure was published for how much water the campus would have used."
+ },
+ {
+  "id": "ft-1776915601648-9828",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "There are graves on this land.",
+    "src": "https://www.yahoo.com/news/articles/stokes-county-votes-start-proposed-193733203.html"
+   },
+   {
+    "para": 0,
+    "t": "Hundreds of residents came to the January 2026 rezoning meeting to object to Project Delta, a data center proposed by Engineered Land Solutions on about 1,000 acres within an 1,844 acre area near Walnut Cove, in Stokes County, partly because of graves tied to the Hairston Clan on the rezoned land, and partly over water and air pollution.",
+    "src": "https://www.yahoo.com/news/articles/stokes-county-votes-start-proposed-193733203.html"
+   },
+   {
+    "para": 1,
+    "t": "The rezoning went through anyway, and then came undone.",
+    "src": "https://www.yahoo.com/news/articles/stokes-county-votes-start-proposed-193733203.html"
+   },
+   {
+    "para": 1,
+    "t": "A lawsuit filed in 2026 by the Southern Coalition for Social Justice and the Southern Environmental Law Center, for the National Hairston Clan, Cleanaire NC, the Dan River Basin Association, 7 Directions of Service and more than a dozen residents, argued the rezoning had not followed proper procedure.",
+    "src": "https://www.yahoo.com/news/articles/stokes-county-votes-start-proposed-193733203.html"
+   },
+   {
+    "para": 1,
+    "t": "Anne Harvey David, chief counsel for the Southern Coalition for Social Justice, said the amendments \"were not properly noticed, so that made it harder for concerned residents to participate\", and that \"it's not entirely clear because of the way it was enacted that the county knew entirely what it was doing\".",
+    "src": "https://www.yahoo.com/news/articles/stokes-county-votes-start-proposed-193733203.html"
+   },
+   {
+    "para": 2,
+    "t": "On April 14, 2026 the Stokes County Board of Commissioners rescinded the January rezoning and voided the text amendment that had made data centers a permitted use in heavy manufacturing districts, directing staff to remove any zoning code language, map amendments or permit authorisations resulting from the January 12 decisions.",
+    "src": "https://www.yahoo.com/news/articles/stokes-county-votes-start-proposed-193733203.html"
+   },
+   {
+    "para": 3,
+    "t": "The developer said losing Project Delta could cost the county \"$20 to $40 million in potential annual tax revenue\", enough to raise teacher pay and cut property taxes, and said it would resubmit.",
+    "src": "https://www.yahoo.com/news/articles/stokes-county-votes-start-proposed-193733203.html"
+   },
+   {
+    "para": 3,
+    "t": "The land developer behind it is David Couch, through DFC Stokes.",
+    "src": "https://www.yahoo.com/news/articles/stokes-county-votes-start-proposed-193733203.html"
+   },
+   {
+    "para": 3,
+    "t": "Rural Hall's town council formally opposed the project, in a town that was fighting a data center of its own.",
+    "src": "https://www.yahoo.com/news/articles/stokes-county-votes-start-proposed-193733203.html"
+   },
+   {
+    "para": 4,
+    "t": "The project is recorded as suspended on 1,800 acres, with no capacity figure and no cost.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "The 2,220 megawatt Belews Creek plant is six kilometres away and a 50 megawatt solar farm five kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Stokes County has no moratorium on record, though Surry County adopted a two year one on July 21, 2026 and Yadkin County another on August 17.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "Five other recorded data center sites sit within 33 kilometres, including WhiteFiber's Madison campus 13 kilometres off and the Drox Group site at Rural Hall that Forsyth County refused.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.yahoo.com/news/articles/stokes-county-votes-start-proposed-193733203.html"
+  ],
+  "unconfirmed": "The acreage differs: 1,800 in our record, about 1,000 acres within an 1,844 acre area in the reporting. No megawatt or water figure has ever been published for Project Delta, and no end user has been named. Whether Engineered Land Solutions has resubmitted since April 2026 is unknown. The complaint itself, which our record links, was not read, so the detail of the graves and of the Hairston Clan's claim is limited to what the news account carries. The Data Center Dynamics report in our record is not fetchable. No commissioner is named or quoted, and the report gives the rescinding vote only as a Monday night."
+ },
+ {
+  "id": "ft-1786991491104-5317",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The county voted for a two year moratorium on the same day the company announced the project, and the moratorium does not touch it.",
+    "src": "https://www.wfdd.org/politics-government/2026-08-24/yadkinville-data-center-projects-not-affected-by-county-moratorium"
+   },
+   {
+    "para": 0,
+    "t": "On August 19, 2026 Yadkin County commissioners approved a two year pause on new data center development.",
+    "src": "https://www.wfdd.org/politics-government/2026-08-24/yadkinville-data-center-projects-not-affected-by-county-moratorium"
+   },
+   {
+    "para": 0,
+    "t": "County manager Michael Silverman explained the limit: 'The moratorium only addresses the unincorporated areas of the county, which fall underneath our zoning areas.'",
+    "src": "https://www.wfdd.org/politics-government/2026-08-24/yadkinville-data-center-projects-not-affected-by-county-moratorium"
+   },
+   {
+    "para": 0,
+    "t": "The WhiteFiber sites are inside Yadkinville's town limits.",
+    "src": "https://www.wfdd.org/politics-government/2026-08-24/yadkinville-data-center-projects-not-affected-by-county-moratorium"
+   },
+   {
+    "para": 1,
+    "t": "The same day, WhiteFiber announced through its Enovum Data Centers subsidiary that it would buy and convert two Yadkinville warehouses.",
+    "src": "https://www.wfdd.org/politics-government/2026-08-24/yadkinville-data-center-projects-not-affected-by-county-moratorium"
+   },
+   {
+    "para": 1,
+    "t": "The properties, bought from Unifi, cover about 120 acres and 500,000 square feet of warehouse for $60 million, and would become campuses called NC-2 and NC-3, starting at 60 megawatts with the potential for about 200 over time.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "They sit about 55 miles from the company's NC-1 campus at Madison, also a former Unifi plant.",
+    "src": "https://www.wfdd.org/politics-government/2026-08-24/yadkinville-data-center-projects-not-affected-by-county-moratorium"
+   },
+   {
+    "para": 2,
+    "t": "Jon Collins of Enovum made the company's case in terms of what it is not doing: converting warehouses rather than building new stops an empty building becoming a problem and avoids turning farmland into a data center.",
+    "src": "https://www.wfdd.org/politics-government/2026-08-24/yadkinville-data-center-projects-not-affected-by-county-moratorium"
+   },
+   {
+    "para": 2,
+    "t": "The company scheduled a town hall at the Madison site for September 19, 2026, open to Rockingham County residents who registered in advance.",
+    "src": "https://www.wfdd.org/politics-government/2026-08-24/yadkinville-data-center-projects-not-affected-by-county-moratorium"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded at 200 megawatts on 120 acres, proposed, at $60 million, with no developer field filled in.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generator is a 60 megawatt solar farm three kilometres away; the 974 megawatt Rowan gas plant is 46 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Four counties around this one carry data center moratoriums on record, Davie, Rowan, Surry and Yadkin, and none of them reaches a site inside a town's limits.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.wfdd.org/politics-government/2026-08-24/yadkinville-data-center-projects-not-affected-by-county-moratorium"
+  ],
+  "unconfirmed": "The purchase price, the acreage, the square footage and the 60 to 200 megawatt range come from search summaries of WhiteFiber's announcement and related coverage rather than from a page read in full, and are attributed to our record's source list. The town of Yadkinville has published a position statement on the data center which we did not read. No resident is quoted here. No water figure has been published, and it is not clear whether the town has any zoning or noise conditions of its own. Whether the purchase has completed is unknown."
+ },
+ {
+  "id": "ft-350",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The land in question belongs to the county, and it sits next to a historical village.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Aurum Capital Ventures asked Burleigh County in June 2025 about buying 300 acres of county owned land in east Bismarck for a data center, at the same listed address as Buckstop Junction, and was also looking at several hundred acres of state land to the north.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The company's land agent, Charlie White, told the county commission it was interested because the land is near an electrical substation, and said a data center there would bring 50 to 300 jobs.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Aurum Capital Ventures was founded in 2019 and describes itself as a sustainable data center firm building modular sites for AI and high performance computing.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "No capacity, cost or building plan has been published.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "The entry stands as proposed with no acreage, no capacity, no cost and no developer field, at medium confidence.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "Morton County across the river has had a moratorium since September 2024; Burleigh County has none on record.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "North Dakota has already taken a great deal of this kind of development.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generators to Bismarck are the 176 megawatt R M Heskett gas plant 14 kilometres away, two wind farms of 102 and 99 megawatts at 34 and 38 kilometres, and the 684 megawatt Milton R Young coal plant at 47.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site on record anywhere in Burleigh County.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Our record's sources are local reporting and county agenda material that were not fetched, so no source url is listed and each sentence is attributed to our record's source list. No megawatt, water or cost figure has been published, and no end user has been named. Whether the county sold the land, and whether anything has been filed since June 2025, are unknown. No resident is quoted."
+ },
+ {
+  "id": "ft-1783368254228-4571",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one is designed to avoid the grid entirely.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Nixxy and Tachyon 9 are planning what they call the Nakota AI Data Campus, a data center across about 620 acres in Williams County, North Dakota, running on behind the meter natural gas generation from the Williston Basin rather than a utility connection, at a cost of about $1 billion and up to a gigawatt at full build.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The first phase would be 100 megawatts, and the companies target 120 to 150 megawatts of computing capacity in the second quarter of 2027.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The announcements describe carbon capture and sequestration, liquid cooling and support for Nvidia hardware, and put revenue at about $156 million a year for the first phase and up to $1.5 billion at full build.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Tachyon 9 is contributing about $64 million of equipment, land option rights and a letter of intent for the full gigawatt to a merger with Nixxy, a company listed on Nasdaq.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Land option rights are not land.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded at 1,000 megawatts on 620 acres, proposed, at low confidence, with the location given only as Williams County within the Williston Basin.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "Williams County has undated zoning limits on data centers.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "It would not be alone.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The record shows the 455 megawatt Project Fighting Pike operating 23 kilometres away and the 700 megawatt Atlas Power site 36 kilometres off, where neighbours sued over noise.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The grid here, Western Area Power Administration's Upper Great Plains West region, peaks at 1,839 megawatts, so this one campus at full build would be more than half of it, which is the reason for generating on site.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generators are wind farms of 299 and 150 megawatts at 32 and 42 kilometres and gas stations of 233 and 240 megawatts at 47 and 55.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Everything found came from company announcements and trade coverage that were not fetched, so no source url is listed and each sentence is attributed to our record's source list. No county filing, permit or land purchase has been found. No water figure has been published. No resident, county official or company representative is quoted, and our record marks pushback as unknown. Whether the first phase has been financed is unknown."
+ },
+ {
+  "id": "ft-353",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Residents asked the council to wait a month, and the mayor said it would not change anything.",
+    "src": "https://www.inforum.com/news/fargo/despite-calls-to-postpone-decision-harwood-greenlights-3-billion-ai-center"
+   },
+   {
+    "para": 0,
+    "t": "On Wednesday, September 10, 2025 the Harwood City Council, in Cass County, voted unanimously at the second and final reading to approve Applied Digital's Polaris Forge 2, a $3 billion, 280 megawatt data center on 160 acres of a 925 acre site between Fargo and Harwood, east of Interstate 29.",
+    "src": "https://www.inforum.com/news/fargo/despite-calls-to-postpone-decision-harwood-greenlights-3-billion-ai-center"
+   },
+   {
+    "para": 0,
+    "t": "Ground was broken that month, partial operation was expected by the end of 2026 and full operation in early 2027, with 200 full time jobs.",
+    "src": "https://www.inforum.com/news/fargo/despite-calls-to-postpone-decision-harwood-greenlights-3-billion-ai-center"
+   },
+   {
+    "para": 1,
+    "t": "Residents had asked for the decision to go to the regular meeting on October 6.",
+    "src": "https://www.inforum.com/news/fargo/despite-calls-to-postpone-decision-harwood-greenlights-3-billion-ai-center"
+   },
+   {
+    "para": 1,
+    "t": "The council declined, without discussion in public.",
+    "src": "https://www.inforum.com/news/fargo/despite-calls-to-postpone-decision-harwood-greenlights-3-billion-ai-center"
+   },
+   {
+    "para": 1,
+    "t": "Mayor Blake Hankey said: 'Our decision isn't going to change' whether the vote happened that day, the next week or the next month.",
+    "src": "https://www.inforum.com/news/fargo/despite-calls-to-postpone-decision-harwood-greenlights-3-billion-ai-center"
+   },
+   {
+    "para": 2,
+    "t": "Michael Swartz, of Harwood, said of the city's leaders: 'They're acting like good little lap dogs right now.'",
+    "src": "https://www.inforum.com/news/fargo/despite-calls-to-postpone-decision-harwood-greenlights-3-billion-ai-center"
+   },
+   {
+    "para": 2,
+    "t": "Grace Brennan, from Fargo, explained to the room what a recall petition would require; Duncan McAlister, from West Fargo, was collecting signatures to recall Mayor Hankey.",
+    "src": "https://www.inforum.com/news/fargo/despite-calls-to-postpone-decision-harwood-greenlights-3-billion-ai-center"
+   },
+   {
+    "para": 2,
+    "t": "The objections were about transparency, the speed of the process and how little notice the public had been given.",
+    "src": "https://www.inforum.com/news/fargo/despite-calls-to-postpone-decision-harwood-greenlights-3-billion-ai-center"
+   },
+   {
+    "para": 3,
+    "t": "The campus is recorded as under construction at 280 megawatts on 160 acres, at $3 billion.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "The record also holds an Inforum report that Fargo withdrew its attempts to annex the site, which was not read.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "Cass County has no data center moratorium on record, and this is the only data center site recorded in the county.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generators are wind farms a long way off: 50 megawatts at 56 kilometres, then 149, 62 and 120 megawatts between 80 and 89 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.inforum.com/news/fargo/despite-calls-to-postpone-decision-harwood-greenlights-3-billion-ai-center"
+  ],
+  "unconfirmed": "The Inforum report is the only source read, so the cost, capacity, acreage and timetable are as given there and as our record carries them. No water figure has been published. What the residents' environmental and noise concerns rested on is not set out in detail. Whether construction has kept to the timetable is unknown."
+ },
+ {
+  "id": "ft-1768499921572-5394",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Twenty-two people who live near this one took it to court.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Residents of Judson Township, outside Williston, sued Atlas Power and Williams County in 2023 over the noise from the data center's fans, bringing two counts of public nuisance and one of trespass and asking for injunctive relief and at least $50,000 in damages.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Some measured 60 to 95 decibels or more on their own properties.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The argument turned on a line in the county's own zoning ordinance, which says noise and vibration from industrial or manufacturing operations must be contained within the heavy industrial district.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The site had been zoned heavy industrial for more than a decade, and most of the neighbours say they had no idea.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "They asked the court to order Williams County to enforce its own rules.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "A jury trial had been set for July 2025.",
+    "src": "https://www.kfyrtv.com/2025/06/17/settlement-reached-atlas-power-data-center-civil-lawsuit/"
+   },
+   {
+    "para": 2,
+    "t": "By June 11, 2025 a settlement had been reached, with attorneys telling Northwest District Court Judge Kirsten Sjue they were still working out the final terms.",
+    "src": "https://www.kfyrtv.com/2025/06/17/settlement-reached-atlas-power-data-center-civil-lawsuit/"
+   },
+   {
+    "para": 2,
+    "t": "The terms were not made public, and the lawyers did not respond to requests for comment.",
+    "src": "https://www.kfyrtv.com/2025/06/17/settlement-reached-atlas-power-data-center-civil-lawsuit/"
+   },
+   {
+    "para": 3,
+    "t": "The plant was announced in Williston on January 26, 2022, with Governor Doug Burgum there, as a $1.9 billion, 700 megawatt cryptocurrency mining and data processing facility.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The entry is recorded as operating at 700 megawatts and marks pushback as yes.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "Two more large sites have gone up around it since: Project Fighting Pike, 455 megawatts and operating, 14 kilometres away, and the proposed Nixxy and Tachyon 9 campus, up to a gigawatt, at 36.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The regional grid peaks at 1,839 megawatts, less than these three sites would draw between them at full build.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 4,
+    "t": "Williams County has undated zoning limits on data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.kfyrtv.com/2025/06/17/settlement-reached-atlas-power-data-center-civil-lawsuit/"
+  ],
+  "unconfirmed": "The KFYR report is the only source read. The terms of the settlement were not disclosed, so what the residents obtained is unknown. No megawatt or water figure has been published for the site. Whether the noise complaints have stopped since the settlement is unknown."
+ },
+ {
+  "id": "ft-1768500717091-1569",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Project Fighting Pike is a data center recorded at the corner of 56th Street Northwest and US Highway 2 outside Williston, in Williams County, at 455 megawatts on 300 acres for $5 billion.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "The record used to call it operating and now says proposed, and names the developer as Critical Data House.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "Its only source is a trade report headlined as a 455 megawatt campus proposed in North Dakota, which is not fetchable.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "What can be said with confidence is what surrounds it.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The Atlas Power site is 14 kilometres away, a 700 megawatt cryptocurrency and data processing plant whose neighbours in Judson Township sued over noise in 2023 and settled in June 2025.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The proposed Nixxy and Tachyon 9 campus, up to a gigawatt, is 23 kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The arithmetic is the thing to hold onto.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 2,
+    "t": "The Western Area Power Administration's Upper Great Plains West region peaks at 1,839 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 2,
+    "t": "These three sites in Williams County together record 2,155 megawatts.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "That is why the newest of them proposes to generate its own power from Williston Basin gas rather than connect to the grid at all.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generators are the 233 megawatt Pioneer station 24 kilometres away, the 240 megawatt Lonesome Creek station at 47, and a 299 megawatt wind farm at 50.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Williams County has undated zoning limits on data centers, and the record marks pushback at this site as unknown.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Our record's only source is not fetchable and nothing else about this project was found, so no source url is listed and each sentence is attributed to our record's source list. The change of status from operating to proposed is not explained by anything that could be read, and a 455 megawatt campus recorded as operating would be among the larger ones in this record, so the earlier status was almost certainly an error. No water figure or timetable has been published. No resident, county official or company representative is quoted."
+ },
+ {
+  "id": "ft-354",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "TierPoint's Omaha-Bellevue data center at 1001 Fort Crook Road North in Bellevue, in Sarpy County, is an entry the record holds with no source at all.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Directory listings give it about 100,000 square feet with 21,000 square feet of raised floor, expandable to 400,000.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The company advertises it as outside the 500 year floodplain, built to withstand 250 mile an hour winds, with a roof of reinforced concrete and redundant power and generators, connected by ten gigabit waves to its buildings in Kansas City and St Louis.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The reason to look at this corner of Nebraska is not this building.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Eight other data center sites on record sit within 21 kilometres, among them three Google campuses at 237 megawatts each, a Meta site at 80 megawatts, a CyrusOne building, an H5 site at 17 megawatts and an Edged proposal at 200.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Sarpy County and the land across the river in Council Bluffs have become one of the densest clusters of hyperscale computing in the country.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The power to run it is close and mostly fossil.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The 316 megawatt Sarpy County gas plant is four kilometres away, the 1,512 megawatt Walter Scott Junior coal plant seven kilometres, a 124 megawatt oil plant eight, and the 564 megawatt North Omaha coal plant 17.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "No jurisdiction anywhere near here has a data center moratorium or zoning limit on record.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The building is recorded as operating with no capacity figure, no acreage, no cost and no developer.",
+    "src": "data:status"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Our record carries no source for this entry. The square footage, the wind rating, the floodplain claim and the wave connections come from directory listings and the company's own pages surfaced in search, so no source url is listed and each sentence is attributed to our record's source list. No megawatt or water figure is published. No local reporting about the building was found, and no objection to it."
+ },
+ {
+  "id": "ft-1784072046513-8603",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The line to join it stretched outside the auditorium.",
+    "src": "https://nebraskapublicmedia.org/en/news/news-articles/hallam-residents-pack-town-hall-for-monoliths-proposed-data-center-expansion/"
+   },
+   {
+    "para": 0,
+    "t": "On July 24, 2026 residents packed a town hall in Hallam, in Lancaster County, Nebraska, over Monolith's plan to add a 35 megawatt data center, built with the Denver company Crusoe, to its Olive Creek carbon black plant, alongside four more carbon black units.",
+    "src": "https://nebraskapublicmedia.org/en/news/news-articles/hallam-residents-pack-town-hall-for-monoliths-proposed-data-center-expansion/"
+   },
+   {
+    "para": 0,
+    "t": "The data center would be up to 36 modular units the size of shipping containers on about ten acres at the northeast corner of the site, using an estimated 770,000 gallons of water a year, with either air cooling or a closed loop.",
+    "src": "https://nebraskapublicmedia.org/en/news/news-articles/hallam-residents-pack-town-hall-for-monoliths-proposed-data-center-expansion/"
+   },
+   {
+    "para": 1,
+    "t": "The carbon black expansion is the larger thirst.",
+    "src": "https://nebraskapublicmedia.org/en/news/news-articles/hallam-residents-pack-town-hall-for-monoliths-proposed-data-center-expansion/"
+   },
+   {
+    "para": 1,
+    "t": "Its first phase would take 62 gallons a minute and its second 250, which at 80 percent capacity is about 105 million gallons a year, and the second phase would spread east across Southwest 42nd Street.",
+    "src": "https://nebraskapublicmedia.org/en/news/news-articles/hallam-residents-pack-town-hall-for-monoliths-proposed-data-center-expansion/"
+   },
+   {
+    "para": 2,
+    "t": "Monolith asked the village to approve a text amendment by September 7 making co-located data centers a principal permitted use in the I-2 district.",
+    "src": "https://nebraskapublicmedia.org/en/news/news-articles/hallam-residents-pack-town-hall-for-monoliths-proposed-data-center-expansion/"
+   },
+   {
+    "para": 2,
+    "t": "The chief development officer Anna Wishart said the scheme is \"significantly lower profile\" than the ammonia facility the company had previously planned, and put the jobs at about 15 for the data center and 150 for the carbon black expansion.",
+    "src": "https://nebraskapublicmedia.org/en/news/news-articles/hallam-residents-pack-town-hall-for-monoliths-proposed-data-center-expansion/"
+   },
+   {
+    "para": 2,
+    "t": "The chief executive Russell Webb said of choosing Crusoe: \"we wanted to try to pick a partner that does those type of things,\" meaning efficiency and the right scale.",
+    "src": "https://nebraskapublicmedia.org/en/news/news-articles/hallam-residents-pack-town-hall-for-monoliths-proposed-data-center-expansion/"
+   },
+   {
+    "para": 3,
+    "t": "Kathy Stevens, who has lived in Hallam all her life and owns land beside the site, said: 'We're concerned about water, and we know water, how important water is, and noise.'",
+    "src": "https://nebraskapublicmedia.org/en/news/news-articles/hallam-residents-pack-town-hall-for-monoliths-proposed-data-center-expansion/"
+   },
+   {
+    "para": 3,
+    "t": "Cami Slauson, another landowner, said: 'Nothing has been transparent, and everything gets signed, everything gets voted through, and then nothing is what it seems.'",
+    "src": "https://nebraskapublicmedia.org/en/news/news-articles/hallam-residents-pack-town-hall-for-monoliths-proposed-data-center-expansion/"
+   },
+   {
+    "para": 3,
+    "t": "Residents were to get another chance at the village board on August 3, with a further town hall planned for later that month.",
+    "src": "https://nebraskapublicmedia.org/en/news/news-articles/hallam-residents-pack-town-hall-for-monoliths-proposed-data-center-expansion/"
+   },
+   {
+    "para": 4,
+    "t": "The project is recorded as proposed on ten acres, with no capacity figure and the developer given as \"Crusoe?\".",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "The 216 megawatt Sheldon coal plant is a kilometre away, which is what makes the site attractive.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "No jurisdiction near here has a data center moratorium on record, and there is no other data center site within 40 kilometres.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://nebraskapublicmedia.org/en/news/news-articles/hallam-residents-pack-town-hall-for-monoliths-proposed-data-center-expansion/"
+  ],
+  "unconfirmed": "Residents also raised that the noise and light studies had not been completed, the effect of the water draw on livestock, the permitting process, and the cumulative weight of solar farms and Nebraska Public Power District expansion around them. The 770,000 gallons a year for the data center and the carbon black figures are the company's own. Our record's developer field reads \"Crusoe?\" with a question mark, and the operator is Monolith with Crusoe as the data center partner. Whether the village approved the text amendment by September 7, 2026 is unknown, as is what the August 3 village board meeting decided."
+ }
+]

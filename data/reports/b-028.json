@@ -1,0 +1,620 @@
+[
+ {
+  "id": "microsoft-microsoft-columbia-quincy",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Quincy is a city of about 7,500 people in Grant County, Washington, on the east side of the Columbia River.",
+    "src": "https://en.wikipedia.org/wiki/Quincy,_Washington"
+   },
+   {
+    "para": 0,
+    "t": "Microsoft's data center campus here sits at 501-600 Port Industrial Way.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Microsoft began building what was described at the time as one of the world's largest data centers in Quincy in 2006, drawn by the region's cheap hydroelectric power.",
+    "src": "https://en.wikipedia.org/wiki/Quincy,_Washington"
+   },
+   {
+    "para": 1,
+    "t": "The Quincy data centers, including Microsoft's, have been criticized for finding ways around fines the Grant County Public Utility District imposes when facilities use more electricity than their contracts allow.",
+    "src": "https://en.wikipedia.org/wiki/Quincy,_Washington"
+   },
+   {
+    "para": 1,
+    "t": "The diesel backup generators the centers run on add to local air pollution.",
+    "src": "https://en.wikipedia.org/wiki/Quincy,_Washington"
+   },
+   {
+    "para": 2,
+    "t": "Grant County now has six data centers clustered around Quincy, including CyrusOne, Vantage, Sabey and NTT facilities, some within a mile of Microsoft's site.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The regional grid operator, the Bonneville Power Administration, has 22,081 megawatts of capacity against a peak load of 9,418 megawatts.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Quincy,_Washington"
+  ],
+  "unconfirmed": "The cited datacentermap.com source was unreachable (HTTP 429). No information was found on Microsoft's approved capacity at this specific site, when it began operating, or local opposition to this campus in particular; the criticism found concerns the Quincy data center cluster generally, not Microsoft's site alone."
+ },
+ {
+  "id": "microsoft-microsoft-cheyenne-logistics-dr",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Cheyenne is Wyoming's capital and largest city, with about 65,000 residents.",
+    "src": "https://en.wikipedia.org/wiki/Cheyenne,_Wyoming"
+   },
+   {
+    "para": 0,
+    "t": "Microsoft has run data centers here, in Laramie County, since 2012, and its campus at 644 Logistics Drive is the oldest of them.",
+    "src": "https://capcity.news/business-feature-2/2026/04/14/microsoft-plans-massive-3200-acre-expansion-of-cheyenne-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "On April 3, 2026, Wyoming's air quality regulators approved a permit change letting Microsoft install 30 natural gas fired engines and two emergency diesel generators at the Logistics Drive campus.",
+    "src": "https://capcity.news/business-feature-2/2026/04/14/microsoft-plans-massive-3200-acre-expansion-of-cheyenne-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "A separate permit issued in July 2025 covered 128 diesel emergency generators and 128 diesel storage tanks of 13,853 gallons each at a site five miles east southeast of the city.",
+    "src": "https://capcity.news/business-feature-2/2026/04/14/microsoft-plans-massive-3200-acre-expansion-of-cheyenne-data-centers/"
+   },
+   {
+    "para": 2,
+    "t": "Eleven days later, on April 14, 2026, Microsoft said it would roughly triple its Cheyenne footprint by buying 3,200 acres southeast of downtown, 3,000 acres of raw land plus a 200 acre parcel on Wapiti Trail in Bison Business Park.",
+    "src": "https://capcity.news/business-feature-2/2026/04/14/microsoft-plans-massive-3200-acre-expansion-of-cheyenne-data-centers/"
+   },
+   {
+    "para": 2,
+    "t": "It has also applied to the city for a 385 acre site east of College Drive and a 35 acre site south of Happy Jack Road.",
+    "src": "https://capcity.news/business-feature-2/2026/05/29/microsoft-talks-details-of-community-concerns-over-cheyenne-data-centers/"
+   },
+   {
+    "para": 2,
+    "t": "Rima Alaily, Microsoft's corporate vice president and general counsel for infrastructure legal affairs, said the company was \"really at the very start of the process and still working on the acquisitions.\"",
+    "src": "https://capcity.news/business-feature-2/2026/04/14/microsoft-plans-massive-3200-acre-expansion-of-cheyenne-data-centers/"
+   },
+   {
+    "para": 2,
+    "t": "Mayor Patrick Collins welcomed the plan as the latest in a long line of investments.",
+    "src": "https://capcity.news/business-feature-2/2026/04/14/microsoft-plans-massive-3200-acre-expansion-of-cheyenne-data-centers/"
+   },
+   {
+    "para": 3,
+    "t": "Microsoft held a public information session at Laramie County Community College on May 28, 2026.",
+    "src": "https://capcity.news/business-feature-2/2026/05/29/microsoft-talks-details-of-community-concerns-over-cheyenne-data-centers/"
+   },
+   {
+    "para": 3,
+    "t": "Residents there asked about emissions and air quality, about whether the city has the power to regulate any of this, and about water; one, Holly Spagnol, raised all four along with what the heat from the buildings does to the area.",
+    "src": "https://capcity.news/business-feature-2/2026/05/29/microsoft-talks-details-of-community-concerns-over-cheyenne-data-centers/"
+   },
+   {
+    "para": 3,
+    "t": "Jonathan Noble of Microsoft told the room: \"We're taking this responsibility to build out this infrastructure very seriously.\"",
+    "src": "https://capcity.news/business-feature-2/2026/05/29/microsoft-talks-details-of-community-concerns-over-cheyenne-data-centers/"
+   },
+   {
+    "para": 3,
+    "t": "On bills, Noble said Microsoft works hard to make sure that any infrastructure cost tied to its project, for water or energy, is not shifted onto other ratepayers.",
+    "src": "https://capcity.news/business-feature-2/2026/05/29/microsoft-talks-details-of-community-concerns-over-cheyenne-data-centers/"
+   },
+   {
+    "para": 3,
+    "t": "The company said it is not seeking tax incentives for the expansion, that it pays about $11 million a year in taxes and is the city's largest taxpayer, and that 500 Cheyenne residents work for it full time.",
+    "src": "https://capcity.news/business-feature-2/2026/05/29/microsoft-talks-details-of-community-concerns-over-cheyenne-data-centers/"
+   },
+   {
+    "para": 3,
+    "t": "It has committed $68 million to off site roads, storm sewers, trails and municipal water pumps.",
+    "src": "https://capcity.news/business-feature-2/2026/04/14/microsoft-plans-massive-3200-acre-expansion-of-cheyenne-data-centers/"
+   },
+   {
+    "para": 4,
+    "t": "On water, Microsoft said Cheyenne's climate means evaporative cooling is needed only about 37 days a year, and that its newer closed loop systems use no water day to day beyond what staff use.",
+    "src": "https://capcity.news/business-feature-2/2026/05/29/microsoft-talks-details-of-community-concerns-over-cheyenne-data-centers/"
+   },
+   {
+    "para": 5,
+    "t": "Cheyenne now has ten data centers running, five under construction and nine more somewhere between concept and pre construction.",
+    "src": "https://capcity.news/business-feature-2/2026/05/29/microsoft-talks-details-of-community-concerns-over-cheyenne-data-centers/"
+   },
+   {
+    "para": 5,
+    "t": "Meta runs a 152 megawatt campus seven kilometers from Microsoft's, and Crusoe and CoreWeave both have projects within 15 kilometers.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cheyenne,_Wyoming",
+   "https://capcity.news/business-feature-2/2026/04/14/microsoft-plans-massive-3200-acre-expansion-of-cheyenne-data-centers/",
+   "https://capcity.news/business-feature-2/2026/05/29/microsoft-talks-details-of-community-concerns-over-cheyenne-data-centers/"
+  ],
+  "unconfirmed": "No power capacity figure for the Logistics Drive campus itself was found, nor its opening date or building count. Cheyenne residents Holly Spagnol and city councillor Mark Moody were named at the May 2026 session but the report does not carry their words, so nothing is attributed to them here."
+ },
+ {
+  "id": "amazon-aws-hilliard-i-hayden-run",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Hilliard is a suburb of about 37,000 people in Franklin County, on the west side of Columbus.",
+    "src": "https://en.wikipedia.org/wiki/Hilliard,_Ohio"
+   },
+   {
+    "para": 0,
+    "t": "Amazon Web Services announced its first Ohio data center campus here in 2015, and the five buildings at 5109 Hayden Run Road became the anchor of the company's US East Ohio region.",
+    "src": "https://baxtel.com/data-center/amazon-hilliard-5109-hayden-run"
+   },
+   {
+    "para": 0,
+    "t": "Amazon's own facility records call it Point Three.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Nothing in the public record suggests this campus was contested when it was approved.",
+    "src": "https://baxtel.com/data-center/amazon-hilliard-5109-hayden-run"
+   },
+   {
+    "para": 1,
+    "t": "What came after it was.",
+    "src": "https://hilliardbeacon.substack.com/p/amazons-power-play-ohio-revised-code"
+   },
+   {
+    "para": 1,
+    "t": "Amazon has since built two more campuses in Hilliard alone, on Cosgray Road and on Scioto Darby Road, and by 2025 the city was in a legal fight over a 73 megawatt array of 228 natural gas fuel cells proposed to power one of them.",
+    "src": "https://hilliardbeacon.substack.com/p/amazons-power-play-ohio-revised-code"
+   },
+   {
+    "para": 1,
+    "t": "The Ohio Power Siting Board holds sole authority over that array, so Hilliard had no vote on it.",
+    "src": "https://hilliardohio.gov/state-law-overrides-local-review-for-aws-fuel-cell-system-in-hilliard/"
+   },
+   {
+    "para": 1,
+    "t": "That story is set out on this site's Scioto Darby and Cosgray Road pages.",
+    "src": "https://signalohio.org/columbus-suburb-sues-to-block-amazon-data-centers-six-acre-array-of-228-fuel-cells-ohio/"
+   },
+   {
+    "para": 2,
+    "t": "Franklin County now has 11 data centers.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hilliard,_Ohio",
+   "https://baxtel.com/data-center/amazon-hilliard-5109-hayden-run",
+   "https://hilliardbeacon.substack.com/p/amazons-power-play-ohio-revised-code",
+   "https://hilliardohio.gov/state-law-overrides-local-review-for-aws-fuel-cell-system-in-hilliard/",
+   "https://signalohio.org/columbus-suburb-sues-to-block-amazon-data-centers-six-acre-array-of-228-fuel-cells-ohio/"
+  ],
+  "unconfirmed": "Searches on the address with Hilliard, on Hilliard with data center, and on Amazon with Franklin County turned up no contemporary coverage of the 2015 approval, no water use figure and no power capacity for this campus. Every recent Hilliard story is about the two later campuses, not this one."
+ },
+ {
+  "id": "amazon-aws-hilliard-ii-cosgray-road",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon's second Hilliard data center campus covers 104 acres between Cosgray and Leppert roads in Franklin County, Ohio, about four kilometers from its first Ohio site.",
+    "src": "https://baxtel.com/data-center/amazon-cosgray-campus"
+   },
+   {
+    "para": 0,
+    "t": "It was built in 2024 at a cost of $200 million and holds four data center buildings, an AEP switching station and a substation.",
+    "src": "https://baxtel.com/data-center/amazon-cosgray-campus"
+   },
+   {
+    "para": 0,
+    "t": "Amazon's internal name for the facility is Prime Park.",
+    "src": "https://baxtel.com/data-centers/amazon-aws"
+   },
+   {
+    "para": 1,
+    "t": "The 73 megawatt array of 228 natural gas fuel cells that Hilliard has been fighting through 2025 and 2026 may belong to this campus rather than to Amazon's newer one on Scioto Darby Road.",
+    "src": "https://stopohiodatacenters.org/franklin-county"
+   },
+   {
+    "para": 1,
+    "t": "The campaign group Stop Ohio Data Centers places the array here, on the Cosgray Road site, and says construction was to start in January 2026 and finish in September 2027.",
+    "src": "https://stopohiodatacenters.org/franklin-county"
+   },
+   {
+    "para": 1,
+    "t": "The city of Hilliard's own notice and the Hilliard Beacon both place it at Scioto Darby Road instead.",
+    "src": "https://hilliardohio.gov/state-law-overrides-local-review-for-aws-fuel-cell-system-in-hilliard/"
+   },
+   {
+    "para": 1,
+    "t": "Either way it is the same fight, and it is set out on this site's Scioto Darby page.",
+    "src": "https://hilliardbeacon.substack.com/p/amazons-power-play-ohio-revised-code"
+   },
+   {
+    "para": 2,
+    "t": "Residents of the subdivision beside the fuel cell site, among them Annette Singh and Anna Cannelongo, organized as Rise Up Hilliard.",
+    "src": "https://stopohiodatacenters.org/franklin-county"
+   },
+   {
+    "para": 2,
+    "t": "Cannelongo has pointed to how close the installation would sit to a neighborhood and an elementary school.",
+    "src": "https://stopohiodatacenters.org/franklin-county"
+   },
+   {
+    "para": 2,
+    "t": "The air permit for the array allows up to 1.45 million pounds of carbon dioxide a day.",
+    "src": "https://signalohio.org/columbus-suburb-sues-to-block-amazon-data-centers-six-acre-array-of-228-fuel-cells-ohio/"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/data-center/amazon-cosgray-campus",
+   "https://baxtel.com/data-centers/amazon-aws",
+   "https://stopohiodatacenters.org/franklin-county",
+   "https://hilliardohio.gov/state-law-overrides-local-review-for-aws-fuel-cell-system-in-hilliard/",
+   "https://hilliardbeacon.substack.com/p/amazons-power-play-ohio-revised-code",
+   "https://signalohio.org/columbus-suburb-sues-to-block-amazon-data-centers-six-acre-array-of-228-fuel-cells-ohio/"
+  ],
+  "unconfirmed": "No power capacity figure or opening date for the data center buildings was found. Sources conflict over which Hilliard campus carries the fuel cell array and searches did not settle it."
+ },
+ {
+  "id": "amazon-aws-hilliard-iii-scioto-darby",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon's third Hilliard campus stands on a 142 acre parcel on Scioto Darby Road at the Interstate 270 overpass, in Franklin County, Ohio, and the plan approved in 2022 called for seven data center buildings plus an American Electric Power substation.",
+    "src": "https://hilliardbeacon.substack.com/p/amazons-power-play-ohio-revised-code"
+   },
+   {
+    "para": 0,
+    "t": "What residents have been fighting over is not the buildings but the power plant proposed to run them.",
+    "src": "https://signalohio.org/columbus-suburb-sues-to-block-amazon-data-centers-six-acre-array-of-228-fuel-cells-ohio/"
+   },
+   {
+    "para": 1,
+    "t": "AEP Ohio asked to install 228 natural gas fuel cells on the site, a 73 megawatt generating system sitting on about six acres.",
+    "src": "https://hilliardbeacon.substack.com/p/amazons-power-play-ohio-revised-code"
+   },
+   {
+    "para": 1,
+    "t": "Hilliard's Planning and Zoning Commission had the application down for a hearing on November 13, 2025.",
+    "src": "https://hilliardbeacon.substack.com/p/amazons-power-play-ohio-revised-code"
+   },
+   {
+    "para": 1,
+    "t": "AEP withdrew it on October 21, 2025, after the Ohio Power Siting Board's approval took effect on September 22, and the hearing was cancelled.",
+    "src": "https://hilliardohio.gov/state-law-overrides-local-review-for-aws-fuel-cell-system-in-hilliard/"
+   },
+   {
+    "para": 1,
+    "t": "Under Section 4906.13(B) of the Ohio Revised Code the siting board has sole authority over a utility generating facility, and the city has none.",
+    "src": "https://hilliardohio.gov/state-law-overrides-local-review-for-aws-fuel-cell-system-in-hilliard/"
+   },
+   {
+    "para": 1,
+    "t": "Acting city manager Dan Ralley said the city was \"disappointed to not have the opportunity to formally review the project as we would with almost all other new development projects in Hilliard.\"",
+    "src": "https://hilliardohio.gov/state-law-overrides-local-review-for-aws-fuel-cell-system-in-hilliard/"
+   },
+   {
+    "para": 1,
+    "t": "Hilliard keeps only its noise ordinance and its fire department training role.",
+    "src": "https://hilliardohio.gov/state-law-overrides-local-review-for-aws-fuel-cell-system-in-hilliard/"
+   },
+   {
+    "para": 2,
+    "t": "Amazon holds a 15 year, 100 percent property tax abatement on the campus, granted in 2019.",
+    "src": "https://signalohio.org/columbus-suburb-sues-to-block-amazon-data-centers-six-acre-array-of-228-fuel-cells-ohio/"
+   },
+   {
+    "para": 2,
+    "t": "Councilman Les Carrier said the fuel cells were not part of the bargain: \"They changed our agreement. I certainly did not approve a tax abatement for a fuel cell operation.\"",
+    "src": "https://hilliardbeacon.substack.com/p/amazons-power-play-ohio-revised-code"
+   },
+   {
+    "para": 3,
+    "t": "The city went to the Environmental Review Appeals Commission instead, arguing the Ohio EPA issued the air permit without giving the local government notice.",
+    "src": "https://signalohio.org/columbus-suburb-sues-to-block-amazon-data-centers-six-acre-array-of-228-fuel-cells-ohio/"
+   },
+   {
+    "para": 3,
+    "t": "That permit allows up to 1.45 million pounds of carbon dioxide a day, which Signal Ohio compared to the daily emissions of about 66,000 cars.",
+    "src": "https://signalohio.org/columbus-suburb-sues-to-block-amazon-data-centers-six-acre-array-of-228-fuel-cells-ohio/"
+   },
+   {
+    "para": 3,
+    "t": "The campus also has 158 diesel backup generators.",
+    "src": "https://signalohio.org/columbus-suburb-sues-to-block-amazon-data-centers-six-acre-array-of-228-fuel-cells-ohio/"
+   },
+   {
+    "para": 4,
+    "t": "Residents in the subdivision next door organized as Rise Up Hilliard.",
+    "src": "https://stopohiodatacenters.org/franklin-county"
+   },
+   {
+    "para": 4,
+    "t": "Annette Singh told Signal Ohio: \"I was unaware that putting in a data center meant putting in a mini gas power plant and all these other things with it.\"",
+    "src": "https://signalohio.org/columbus-suburb-sues-to-block-amazon-data-centers-six-acre-array-of-228-fuel-cells-ohio/"
+   },
+   {
+    "para": 4,
+    "t": "Anna Cannelongo asked the Ohio Power Siting Board: \"There is no real research about the safety of this kind of power plant, and it's sitting adjacent to a neighborhood and elementary school on Hilliard. How do we get our voices heard as Amazon has bypassed our local government to get approval through you all?\"",
+    "src": "https://signalohio.org/columbus-suburb-sues-to-block-amazon-data-centers-six-acre-array-of-228-fuel-cells-ohio/"
+   },
+   {
+    "para": 4,
+    "t": "American Electric Power said it takes such concerns seriously and that \"the project has undergone extensive regulatory review to ensure it meets all applicable safety, environmental and operational standards.\"",
+    "src": "https://signalohio.org/columbus-suburb-sues-to-block-amazon-data-centers-six-acre-array-of-228-fuel-cells-ohio/"
+   },
+   {
+    "para": 5,
+    "t": "The city's own notice and the Hilliard Beacon both put the fuel cell array here on Scioto Darby Road, while the campaign group Stop Ohio Data Centers puts it at Amazon's Cosgray Road campus about four kilometers away.",
+    "src": "https://stopohiodatacenters.org/franklin-county"
+   }
+  ],
+  "sources": [
+   "https://hilliardohio.gov/state-law-overrides-local-review-for-aws-fuel-cell-system-in-hilliard/",
+   "https://hilliardbeacon.substack.com/p/amazons-power-play-ohio-revised-code",
+   "https://signalohio.org/columbus-suburb-sues-to-block-amazon-data-centers-six-acre-array-of-228-fuel-cells-ohio/",
+   "https://stopohiodatacenters.org/franklin-county",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "No capacity figure or construction cost for the data center buildings themselves was found. Accounts conflict over whether the fuel cell array sits on this campus or on the Cosgray Road campus; searches on the project name with Hilliard, on Hilliard with data center, and on AEP Ohio with Franklin County did not settle it. A quotation calling the fuel cells a \"safe, clean solution for meeting customers' needs\" is not in the Signal Ohio report it was credited to and has been replaced with what AEP did say."
+ },
+ {
+  "id": "amazon-aws-new-albany-beech-road",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "New Albany is a village of about 10,800 people east of Columbus, spread across Franklin and Licking counties, that has become one of the country's densest clusters of data centers and chip manufacturing.",
+    "src": "https://en.wikipedia.org/wiki/New_Albany,_Ohio"
+   },
+   {
+    "para": 0,
+    "t": "Meta, then operating as Facebook, opened a data center there in 2020, and Google broke ground on a $600 million facility around the same time, part of a boom that also brought Intel's planned 926-acre semiconductor plant, announced in January 2022.",
+    "src": "https://en.wikipedia.org/wiki/New_Albany,_Ohio"
+   },
+   {
+    "para": 1,
+    "t": "Amazon's campus at 3180 Beech Road includes at least two buildings, known internally as Plaza Beta and Edge.",
+    "src": "https://baxtel.com/data-centers/amazon-aws"
+   },
+   {
+    "para": 1,
+    "t": "Licking County counts 13 data centers, and at least ten other campuses, run by Microsoft, Google, Meta, Vantage, STACK, QTS and Amazon itself, sit within six kilometers of this one.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Nearby townships including Sunbury and St. Albans have passed moratoriums on new data center construction since March 2026, part of a wider pushback against the industry across central Ohio.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Albany,_Ohio",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "No news coverage of this specific Amazon campus, its capacity, or direct local reaction to it was found."
+ },
+ {
+  "id": "amazon-aws-new-albany-crosby-court",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon's Crosby Court campus is a five building site on Crosby Court, on the Franklin County side of the New Albany data center corridor.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "Each building runs to about 155,000 square feet, roughly 1.25 million square feet across the campus, on 85 acres of the 439 Amazon has bought along Beech and Miller roads.",
+    "src": "https://baxtel.com/data-center/amazon-crosby-campus"
+   },
+   {
+    "para": 0,
+    "t": "Amazon's internal names for the buildings here include South Valley, Prime Tower, Plaza, Beta and Hub Three.",
+    "src": "https://baxtel.com/data-center/amazon-crosby-campus"
+   },
+   {
+    "para": 1,
+    "t": "The campus is one piece of the $3.5 billion Amazon announced for New Albany in 2023.",
+    "src": "https://newalbanyohio.org/news/2025/08/amazon-investment-in-new-albany/"
+   },
+   {
+    "para": 1,
+    "t": "On August 7, 2025 the city said the company's newest New Albany campus had two buildings finished and staffed, with the rest due to be running by the end of that year, though it did not say which campus it meant.",
+    "src": "https://newalbanyohio.org/news/2025/08/amazon-investment-in-new-albany/"
+   },
+   {
+    "para": 1,
+    "t": "Mayor Sloan Spalding said Amazon \"continues to be one of New Albany's most trusted and forward-thinking partners.\"",
+    "src": "https://newalbanyohio.org/news/2025/08/amazon-investment-in-new-albany/"
+   },
+   {
+    "para": 2,
+    "t": "At least ten other data center campuses sit within seven kilometers, run by STACK, Meta, Google, QTS, Microsoft, Vantage and Amazon itself.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Townships nearby, including Sunbury and St. Albans, have passed moratoriums on new data center construction since March 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/data-center/amazon-crosby-campus",
+   "https://newalbanyohio.org/news/2025/08/amazon-investment-in-new-albany/"
+  ],
+  "unconfirmed": "No opening date, power capacity or water figure was found for this campus, and no news coverage names it directly. Searches on Crosby Court with New Albany, on New Albany with data center, and on Amazon with Franklin County returned trade directories and the city's own release, nothing from a reporter at a hearing. The city's August 2025 figures cover Licking County, which is the other side of the corridor from this site, so they are not quoted here."
+ },
+ {
+  "id": "amazon-aws-jerome-township-industrial-parkway",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Plain City is a village of about 4,000 people in Union County, northwest of Columbus.",
+    "src": "https://en.wikipedia.org/wiki/Plain_City,_Ohio"
+   },
+   {
+    "para": 0,
+    "t": "Amazon's data center campus sits on 98 acres at 8619 Industrial Parkway, in Jerome Township just outside the village.",
+    "src": "https://baxtel.com/data-centers/amazon-aws"
+   },
+   {
+    "para": 1,
+    "t": "On September 3, 2025, Jerome Township trustees voted unanimously to stop approving new data centers for nine months.",
+    "src": "https://www.wosu.org/politics-government/2025-09-09/jerome-township-puts-pause-on-new-data-center-development-for-nine-months"
+   },
+   {
+    "para": 1,
+    "t": "Trustee Wezlynn Davis said the noise from the existing facilities may measure as compliant but is not pleasant: \"We're finding now that we're experiencing data centers in real time, it is not tolerable for our residents.\"",
+    "src": "https://www.wosu.org/politics-government/2025-09-09/jerome-township-puts-pause-on-new-data-center-development-for-nine-months"
+   },
+   {
+    "para": 1,
+    "t": "Four data center projects already in the works were caught by the pause.",
+    "src": "https://www.wosu.org/politics-government/2025-09-09/jerome-township-puts-pause-on-new-data-center-development-for-nine-months"
+   },
+   {
+    "para": 2,
+    "t": "The other complaint is money.",
+    "src": "https://www.wosu.org/politics-government/2025-09-09/jerome-township-puts-pause-on-new-data-center-development-for-nine-months"
+   },
+   {
+    "para": 2,
+    "t": "Amazon's two Jerome Township campuses are served by township police and fire but hold 10 year tax abatements approved by Union County officials, so the township collects reduced commercial tax revenue from them.",
+    "src": "https://www.wosu.org/politics-government/2025-09-09/jerome-township-puts-pause-on-new-data-center-development-for-nine-months"
+   },
+   {
+    "para": 2,
+    "t": "Amazon paid $1.1 million in Union County property taxes in 2024 and says it supports about 2,360 full time equivalent jobs a year in the county, without saying how many of those are permanent data center posts.",
+    "src": "https://www.wosu.org/politics-government/2025-09-09/jerome-township-puts-pause-on-new-data-center-development-for-nine-months"
+   },
+   {
+    "para": 3,
+    "t": "Union County has three data centers so far, including Amazon's second campus two kilometers away on Warner Road.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Plain_City,_Ohio",
+   "https://baxtel.com/data-centers/amazon-aws",
+   "https://www.wosu.org/politics-government/2025-09-09/jerome-township-puts-pause-on-new-data-center-development-for-nine-months"
+  ],
+  "unconfirmed": "No opening date or power capacity figure was found for this campus. Reports that Amazon's Jerome Township campuses called emergency services 84 times since 2021 could not be read directly; the page carrying them would not load."
+ },
+ {
+  "id": "amazon-aws-warner-road-union-county",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon's second Union County data center campus sits on 99.5 acres on the south side of Warner Road, west of Industrial Parkway, two kilometers from its Jerome Township site.",
+    "src": "https://www.marysvillejt.com/news/rezoning-approved-for-amazon-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "Jerome Township trustees rezoned the land for it, and the Marysville Journal-Tribune reported the approval on February 20, 2021.",
+    "src": "https://www.marysvillejt.com/news/rezoning-approved-for-amazon-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The investment is put at $200 million.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Four years on, the township changed its mind about how fast this should go.",
+    "src": "https://www.wosu.org/politics-government/2025-09-09/jerome-township-puts-pause-on-new-data-center-development-for-nine-months"
+   },
+   {
+    "para": 1,
+    "t": "On September 3, 2025, trustees voted unanimously for a nine month halt on new data center approvals after complaints about noise from the campuses already running.",
+    "src": "https://www.wosu.org/politics-government/2025-09-09/jerome-township-puts-pause-on-new-data-center-development-for-nine-months"
+   },
+   {
+    "para": 1,
+    "t": "Trustee Wezlynn Davis said the noise may measure as compliant but is not pleasant, and that having lived with data centers in real time, the township now finds it \"not tolerable for our residents.\"",
+    "src": "https://www.wosu.org/politics-government/2025-09-09/jerome-township-puts-pause-on-new-data-center-development-for-nine-months"
+   },
+   {
+    "para": 1,
+    "t": "Amazon's Jerome Township campuses are served by township police and fire while holding 10 year tax abatements, and Amazon paid $1.1 million in Union County property taxes in 2024.",
+    "src": "https://www.wosu.org/politics-government/2025-09-09/jerome-township-puts-pause-on-new-data-center-development-for-nine-months"
+   }
+  ],
+  "sources": [
+   "https://www.marysvillejt.com/news/rezoning-approved-for-amazon-data-center/",
+   "https://www.wosu.org/politics-government/2025-09-09/jerome-township-puts-pause-on-new-data-center-development-for-nine-months"
+  ],
+  "unconfirmed": "No power capacity figure, building count or construction timeline was found. The Marysville Journal-Tribune report is paywalled beyond its opening, so the trustees' vote count and any resident comment at that 2021 hearing could not be read."
+ },
+ {
+  "id": "amazon-aws-jefferson-township-columbus",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Jeffersonville is a village of about 1,300 people in Fayette County, which had no data centers before this one.",
+    "src": "https://en.wikipedia.org/wiki/Jeffersonville,_Ohio"
+   },
+   {
+    "para": 0,
+    "t": "Amazon Data Services bought 589.843 acres in Jefferson Township in two parcels, both bordered on the north by Interstate 71, for $102,400,142.30.",
+    "src": "https://www.recordherald.com/2025/01/16/amazon-data-services-inc-purchases-jefferson-twp-land-for-new-data-center-campus/"
+   },
+   {
+    "para": 0,
+    "t": "The larger parcel, 346.802 acres on Fent Road, cost $42.2 million, and the second, 243.041 acres at Milledgeville-Jeffersonville Road and State Route 729, cost $60.2 million.",
+    "src": "https://www.recordherald.com/2025/01/16/amazon-data-services-inc-purchases-jefferson-twp-land-for-new-data-center-campus/"
+   },
+   {
+    "para": 0,
+    "t": "The sale took effect on December 30, 2024 and the deeds went to the county recorder in January.",
+    "src": "https://www.recordherald.com/2025/01/16/amazon-data-services-inc-purchases-jefferson-twp-land-for-new-data-center-campus/"
+   },
+   {
+    "para": 1,
+    "t": "Amazon Web Services says it will put $5 billion into Fayette County by 2030.",
+    "src": "https://www.ohiotechnews.com/stories/fayette-county-lands-5-billion-aws-investment-for-new-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "This is the company's first data center site in Ohio outside the Columbus region.",
+    "src": "https://www.ohiotechnews.com/stories/fayette-county-lands-5-billion-aws-investment-for-new-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "Roger Wehner, the company's vice president for economic development, said the campus would come with \"a number of highly skilled, well-paid jobs\" for the local economy, and the company put the figure at more than 100 AWS posts over five years.",
+    "src": "https://www.recordherald.com/2025/01/16/amazon-data-services-inc-purchases-jefferson-twp-land-for-new-data-center-campus/"
+   },
+   {
+    "para": 1,
+    "t": "It is the second large investment in the county after the $3.5 billion Honda and LG battery plant.",
+    "src": "https://www.ohiotechnews.com/stories/fayette-county-lands-5-billion-aws-investment-for-new-data-centers"
+   },
+   {
+    "para": 2,
+    "t": "Amazon refers to the site internally as Edge Ridge Campus, and construction was expected to begin in early 2025.",
+    "src": "https://www.recordherald.com/2025/01/16/amazon-data-services-inc-purchases-jefferson-twp-land-for-new-data-center-campus/"
+   },
+   {
+    "para": 2,
+    "t": "About 33 kilometers away Amazon has separately proposed a campus in Wilmington, and a project called Pacifico Data Center, 39 kilometers off, has been suspended.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Communities across the wider region, including Dayton and Springfield, have moved to ban or pause new data center construction since early 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jeffersonville,_Ohio",
+   "https://www.recordherald.com/2025/01/16/amazon-data-services-inc-purchases-jefferson-twp-land-for-new-data-center-campus/",
+   "https://www.ohiotechnews.com/stories/fayette-county-lands-5-billion-aws-investment-for-new-data-centers",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "Amazon had not broken ground on the Jefferson Township site at the time of writing, and no capacity figure for the campus has been published."
+ }
+]

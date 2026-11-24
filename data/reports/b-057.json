@@ -1,0 +1,524 @@
+[
+ {
+  "id": "ft-1782858901235-6061",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Calhoun, in Gordon County, Georgia, put a stop on data centers, and a developer kept going anyway.",
+    "src": "https://www.timesfreepress.com/news/2026/jun/27/calhoun-georgia-looks-to-understand-what-a-500k"
+   },
+   {
+    "para": 0,
+    "t": "On 28 April 2026 the city council voted for a 90 day moratorium, to give officials time to draft more restrictive and protective ordinances covering infrastructure demands, land use and long term planning, with public hearings to follow before anything permanent was adopted.",
+    "src": "https://coosavalleynews.com/2026/04/calhoun-approves-90-day-moratorium-on-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "The proposal is a data center of 500,000 square feet, on 11 acres of a 57 acre tract off Highway 53 beside Fair's Auto Services & Repair.",
+    "src": "https://www.timesfreepress.com/news/2026/jun/27/calhoun-georgia-looks-to-understand-what-a-500k"
+   },
+   {
+    "para": 1,
+    "t": "The developer is described only as an Atlanta company, and by late June 2026 was still pursuing the project despite the moratorium.",
+    "src": "https://www.timesfreepress.com/news/2026/jun/27/calhoun-georgia-looks-to-understand-what-a-500k"
+   },
+   {
+    "para": 2,
+    "t": "Residents have been turning up.",
+    "src": "https://www.timesfreepress.com/news/2026/jun/27/calhoun-georgia-looks-to-understand-what-a-500k"
+   },
+   {
+    "para": 2,
+    "t": "A photograph from the city council meeting of 8 June 2026 shows Josie Bentley, the daughter of resident Andrew Bentley, holding a sign.",
+    "src": "https://www.timesfreepress.com/news/2026/jun/27/calhoun-georgia-looks-to-understand-what-a-500k"
+   },
+   {
+    "para": 3,
+    "t": "The Calhoun moratorium runs to 1 January 2027, and Gordon County adopted one of its own on 8 July 2026, with three more in force in Bartow, Polk and Walker counties.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Gordon County, but six others sit within 32 kilometres, including Project Sassy at 13 and the cancelled Project Springbank at 19.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generation is the 1,353 megawatt Thomas A Smith gas plant, 26 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://coosavalleynews.com/2026/04/calhoun-approves-90-day-moratorium-on-data-centers/",
+   "https://www.timesfreepress.com/news/2026/jun/27/calhoun-georgia-looks-to-understand-what-a-500k"
+  ],
+  "unconfirmed": "The Times Free Press article is behind a subscription wall and only its opening and a photo caption could be read, so what the city was actually deciding in June 2026, and what officials and residents said, are not established. The developer is not named. No vote count for the April moratorium was reported and no council member is named or quoted. There is no megawatt figure, no water figure and no decision on the application."
+ },
+ {
+  "id": "ft-113",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Nothing at all is attached to this entry by way of a source.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "It lists an operating FOGO Solutions data center on Tom Reeve Drive in Carrollton, in Carroll County, Georgia, with no capacity figure, no acreage and no date.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "Carroll County has moved twice on data centers, adopting a year long moratorium on 16 June 2026 and a second, shorter one on 4 August 2026, and three neighbouring counties have measures of their own.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Four data center sites are recorded in Carroll County, and six lie within 27 kilometres of this one, including a project called Sail at 24 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The generation nearby is heavy: the Wansley and Chattahoochee gas plants, about 930 megawatts between them, 17 kilometres away, with the 1,185 megawatt Wansley combined cycle plant at 18 and the 714 megawatt Yates at 21.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "This entry has no source in our record and nothing about it could be checked: not the operator, the size, the power draw, the year it opened, or whether it is a data center in the sense the rest of this dataset uses. No Carrollton local reporting was sought. The entry needs a source before the page is trusted."
+ },
+ {
+  "id": "ft-114",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one would use more electricity than every data center already operating in metropolitan Atlanta put together.",
+    "src": "https://www.ajc.com/news/business/19b-data-center-campus-proposed-northwest-of-atlanta/FPMRPJCYERGXLLAND6IZACSVEM/"
+   },
+   {
+    "para": 0,
+    "t": "Project Bunkhouse is a 12 building campus of 8.7 million square feet proposed on an 877 acre agricultural plot on Taff Road in Bartow County, about an hour northwest of downtown Atlanta.",
+    "src": "https://www.ajc.com/news/business/19b-data-center-campus-proposed-northwest-of-atlanta/FPMRPJCYERGXLLAND6IZACSVEM/"
+   },
+   {
+    "para": 0,
+    "t": "The floor area is more than four times the Mall of Georgia, the stated value is $19 billion, and the power requirement is 1,830 megawatts served by three substations on site.",
+    "src": "https://www.ajc.com/news/business/19b-data-center-campus-proposed-northwest-of-atlanta/FPMRPJCYERGXLLAND6IZACSVEM/"
+   },
+   {
+    "para": 0,
+    "t": "That is more than the maximum output of one reactor at Plant Vogtle.",
+    "src": "https://www.ajc.com/news/business/19b-data-center-campus-proposed-northwest-of-atlanta/FPMRPJCYERGXLLAND6IZACSVEM/"
+   },
+   {
+    "para": 1,
+    "t": "The land is zoned agricultural and would have to be rezoned.",
+    "src": "https://www.ajc.com/news/business/19b-data-center-campus-proposed-northwest-of-atlanta/FPMRPJCYERGXLLAND6IZACSVEM/"
+   },
+   {
+    "para": 1,
+    "t": "The site sits beside Plant Bowen, a coal plant slated to close eventually, rated at 3,200 megawatts and 3 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Who is behind it is not clear.",
+    "src": "https://www.ajc.com/news/business/19b-data-center-campus-proposed-northwest-of-atlanta/FPMRPJCYERGXLLAND6IZACSVEM/"
+   },
+   {
+    "para": 2,
+    "t": "The developer's identity was left out of the state filing, which listed the engineering firm Kimley-Horn as applicant and Schreeder, Wheeler & Flint as the rezoning attorneys.",
+    "src": "https://www.ajc.com/news/business/19b-data-center-campus-proposed-northwest-of-atlanta/FPMRPJCYERGXLLAND6IZACSVEM/"
+   },
+   {
+    "para": 2,
+    "t": "The state's own Development of Regional Impact form gives the developer as Brian B. West, of Woodstock, Georgia, with Gaines Family Land LLC as the property owner, the floor area as 8,675,000 square feet and completion in 2035.",
+    "src": "https://apps.dca.ga.gov/DRI/InitialForm.aspx?driid=4433"
+   },
+   {
+    "para": 2,
+    "t": "That form gives no acreage, no building count, no megawatt figure and no water or sewer demand.",
+    "src": "https://apps.dca.ga.gov/DRI/InitialForm.aspx?driid=4433"
+   },
+   {
+    "para": 3,
+    "t": "The money on offer is $40 million to $50 million a year in property taxes, which would add 15 to 20 percent to a county budget of about $270 million.",
+    "src": "https://www.ajc.com/news/business/19b-data-center-campus-proposed-northwest-of-atlanta/FPMRPJCYERGXLLAND6IZACSVEM/"
+   },
+   {
+    "para": 3,
+    "t": "The county's own economic development office was cool about it.",
+    "src": "https://www.ajc.com/news/business/19b-data-center-campus-proposed-northwest-of-atlanta/FPMRPJCYERGXLLAND6IZACSVEM/"
+   },
+   {
+    "para": 3,
+    "t": "Melinda Lemmon, executive director of the Cartersville-Bartow County Department of Economic Development, said \"our community respectfully does not incentivize certain types of industry sectors, and that data centers are one of those categories\".",
+    "src": "https://www.ajc.com/news/business/19b-data-center-campus-proposed-northwest-of-atlanta/FPMRPJCYERGXLLAND6IZACSVEM/"
+   },
+   {
+    "para": 4,
+    "t": "The plans were revealed on 31 March 2025.",
+    "src": "https://www.ajc.com/news/business/19b-data-center-campus-proposed-northwest-of-atlanta/FPMRPJCYERGXLLAND6IZACSVEM/"
+   },
+   {
+    "para": 4,
+    "t": "Bartow County has had data center zoning limits since the start of 2025, and eight measures are now in force within reach of the site.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "Six other tracked data center projects lie within 36 kilometres, including a Switch campus 11 kilometres away and Project Indo at 19.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.ajc.com/news/business/19b-data-center-campus-proposed-northwest-of-atlanta/FPMRPJCYERGXLLAND6IZACSVEM/",
+   "https://apps.dca.ga.gov/DRI/InitialForm.aspx?driid=4433"
+  ],
+  "unconfirmed": "No rezoning hearing, vote or decision was found, so what has happened since March 2025 is unknown and our record's status of proposed could not be checked. The two accounts of who the developer is do not agree: the newspaper reports the identity was withheld from the filing, while the filing itself names Brian B. West. No tenant is named. No water figure exists for a campus of this size, which is the number a neighbour would most want. No resident is quoted anywhere I could reach. The Data Center Dynamics article in our record returned 403."
+ },
+ {
+  "id": "ft-1782187196919-6153",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This data center is put at 200 megawatts on 69 acres for $2.4 billion, with DataBank as the developer, and the single source attached to it could not be read.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The address is Industrial Park Road in Cartersville, in Bartow County, Georgia.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "It would join a crowd.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Six other tracked data center projects lie within 35 kilometres, including a Switch campus at 14 kilometres, the cancelled Project Springbank at 17 and Project Bunkhouse, at 1,830 megawatts, at 19.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Nine moratoriums, bans and zoning limits are in force around the site, among them Bartow County's own zoning limits from the start of 2025 and moratoriums adopted in Gordon, Cobb, Paulding and Polk counties and the towns of Calhoun, Marietta and Chamblee during 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The 72 megawatt Allatoona dam is 10 kilometres away and the 3,200 megawatt Bowen coal plant 17.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the filing date, the current status, the square footage, the water demand and whether any hearing has been held are all unknown. No tenant is named. No local reporting on this specific project was sought, and no resident or official reaction is known."
+ },
+ {
+  "id": "ft-115",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This land was meant for houses, not a data center.",
+    "src": "https://wbhfradio.org/126-acre-commercial-project-proposed-in-carter-grove/"
+   },
+   {
+    "para": 0,
+    "t": "Carter Grove, in Cartersville, in Bartow County, Georgia, was conceived in the early 2000s with room for about 2,500 homes, and about 400 lots exist today.",
+    "src": "https://wbhfradio.org/126-acre-commercial-project-proposed-in-carter-grove/"
+   },
+   {
+    "para": 0,
+    "t": "Switch Limited, a Las Vegas company, proposed a data center campus on 126 acres of it, running south from the junction of Old Alabama Road and Bates Road to the Paulding County line, inside the city of Cartersville.",
+    "src": "https://wbhfradio.org/126-acre-commercial-project-proposed-in-carter-grove/"
+   },
+   {
+    "para": 1,
+    "t": "The construction value was put at $772 million, with a projected $15 million a year in local taxes.",
+    "src": "https://wbhfradio.org/126-acre-commercial-project-proposed-in-carter-grove/"
+   },
+   {
+    "para": 1,
+    "t": "The company filed its Development of Regional Impact application with the state on Tuesday 29 August 2023, starting a 30 day public review from Friday 1 September, with the Northwest Georgia Regional Commission collecting comments.",
+    "src": "https://wbhfradio.org/126-acre-commercial-project-proposed-in-carter-grove/"
+   },
+   {
+    "para": 2,
+    "t": "The city had no rule for this.",
+    "src": "https://wbhfradio.org/126-acre-commercial-project-proposed-in-carter-grove/"
+   },
+   {
+    "para": 2,
+    "t": "City Planner David Hardegree said a text amendment was needed because \"the city does not have an existing zoning district to accommodate a data center campus that Switch envisions for the property\".",
+    "src": "https://wbhfradio.org/126-acre-commercial-project-proposed-in-carter-grove/"
+   },
+   {
+    "para": 3,
+    "t": "The project is listed as proposed, at 126 acres and $772 million, matching the filing.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "The 72 megawatt Allatoona dam is 8 kilometres away and the 3,200 megawatt Bowen coal plant 12.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Since this application was filed, nine moratoriums, bans and zoning limits have come into force around it.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://wbhfradio.org/126-acre-commercial-project-proposed-in-carter-grove/"
+  ],
+  "unconfirmed": "The report is from 2023 and nothing later was read, so whether the text amendment and rezoning were granted, and whether the campus was built, are unknown; our record still lists it as proposed. No megawatt figure, square footage or water demand was given. No resident is quoted and no opposition was found, though the site was taken from a planned residential subdivision. The Data Center Dynamics article and the economic development listing in our record were not fetched."
+ },
+ {
+  "id": "ft-117",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This entry carries no source of any kind.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "It lists an operating Lumen data center on Best Road in College Park, in Fulton County, Georgia, near Hartsfield-Jackson airport, with no capacity figure and no date.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "The airport fringe is one of the densest clusters in the state.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Eighteen of the recorded sites are in Fulton County, and six lie within 12 kilometres of this one, including two Microsoft facilities at East Point and Union City and a Vantage campus 10 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Eleven moratoriums, bans and zoning limits are in force in the surrounding jurisdictions, from Atlanta's partial ban of 1 October 2024 to moratoriums in Covington, Marietta, Chamblee, Newton County, Carroll County, Cobb County and Paulding County.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The 2,535 megawatt Jack McDonough gas plant lies 21 kilometres to the north west.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "This entry has no source in our record. The operator, the size, the power draw and the operating status all rest on our record alone, and whether the building is an old telephone exchange, a modern data hall or something in between is not established. No local reporting was sought for this address."
+ },
+ {
+  "id": "ft-118",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The state file for this one is a paper trail rather than a description.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4257"
+   },
+   {
+    "para": 0,
+    "t": "Georgia's Development of Regional Impact record names the project Vantage Data Center - Stacks Rd, with Vantage Data Centers as developer, submitted by the city of South Fulton and reviewed by the Atlanta Regional Commission.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4257"
+   },
+   {
+    "para": 0,
+    "t": "The initial form went in on 13 August 2024, a further form on 12 December, and on 6 January 2025 the state determined that the project warranted regional review.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4257"
+   },
+   {
+    "para": 0,
+    "t": "The file was certified complete on 22 January 2025, comments were requested on 21 February, the regional commission issued its finding the same day, and the review is marked completed.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4257"
+   },
+   {
+    "para": 1,
+    "t": "The record gives no acreage, no square footage, no megawatt figure and no water demand.",
+    "src": "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4257"
+   },
+   {
+    "para": 2,
+    "t": "The campus is carried at 105 megawatts and listed as operating.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "Six other tracked data center sites lie within 6 kilometres, including a Stream campus, a DataBank facility, two Digital Realty sites and the Vantage Westlake project.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Fourteen kilometres away is Jack McDonough, a gas plant of 2,535 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://apps.dca.ga.gov/DRI/AppSummary.aspx?driid=4257"
+  ],
+  "unconfirmed": "The state file records that a review happened but not what it found, and carries none of the figures that matter to a neighbour. Our record's 105 megawatt figure and its operating status appear in no source read. No local reporting was sought, no resident or official is named, and no opposition was found. Whether this campus is the same project as the nearby Vantage Westlake entry in our record is not established."
+ },
+ {
+  "id": "ft-120",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Thirteen megawatts, and no source to check it against: an operating JMF Solutions data center on Corporate Ridge Parkway in Columbus, in Muscogee County, Georgia, with no acreage and no date.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "Its interest is the comparison 19 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Project Ruby is a proposed hyperscale campus on 865 acres in northeastern Muscogee County, on the Harris and Talbot county lines, put at more than $5 billion and 600 megawatts at full build.",
+    "src": "https://www.datacenterdynamics.com/en/news/5bn-data-center-project-in-the-works-around-columbus-georgia/"
+   },
+   {
+    "para": 1,
+    "t": "Four buildings would sit toward the eastern side of the site, nearest the high voltage transmission lines and a substation, built out between 2027 and 2030.",
+    "src": "https://www.gpb.org/news/2026/05/04/new-map-shows-where-on-865-acres-proposed-columbus-data-center-would-be-built"
+   },
+   {
+    "para": 1,
+    "t": "The Development Authority of Columbus has been negotiating with Habitat Partners for the site.",
+    "src": "https://www.datacenterdynamics.com/en/news/5bn-data-center-project-in-the-works-around-columbus-georgia/"
+   },
+   {
+    "para": 2,
+    "t": "Residents packed a town hall about it in March 2026.",
+    "src": "https://www.wtvm.com/2026/03/18/columbus-residents-pack-town-hall-over-proposed-5b-data-center-project-ruby/"
+   },
+   {
+    "para": 2,
+    "t": "What they raised was power outages and the strain on the water supply, and whether Columbus residents would end up paying for it.",
+    "src": "https://www.wtvm.com/2026/03/18/columbus-residents-pack-town-hall-over-proposed-5b-data-center-project-ruby/"
+   },
+   {
+    "para": 2,
+    "t": "City leaders pointed to the city's existing drought management plan, and said the company behind the project would not be named until a permit was filed.",
+    "src": "https://www.wtvm.com/2026/03/08/project-ruby-sparks-questions-over-data-center-columbus/"
+   },
+   {
+    "para": 2,
+    "t": "They were still working out whether there is enough water, sewer and power capacity in the area.",
+    "src": "https://www.wtvm.com/2026/03/08/project-ruby-sparks-questions-over-data-center-columbus/"
+   },
+   {
+    "para": 3,
+    "t": "No moratorium is in force anywhere near Columbus.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generation to this building is the 59 megawatt Oliver Dam, 11 kilometres away, with the 1,902 megawatt H Allen Franklin combined cycle plant at 23.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/5bn-data-center-project-in-the-works-around-columbus-georgia/",
+   "https://www.gpb.org/news/2026/05/04/new-map-shows-where-on-865-acres-proposed-columbus-data-center-would-be-built",
+   "https://www.wtvm.com/2026/03/18/columbus-residents-pack-town-hall-over-proposed-5b-data-center-project-ruby/",
+   "https://www.wtvm.com/2026/03/08/project-ruby-sparks-questions-over-data-center-columbus/"
+  ],
+  "unconfirmed": "Searches on JMF Solutions with Columbus, on Corporate Ridge Parkway with data center, and on Muscogee County with data center found nothing about this building: no source, no acreage, no date and no way to check the 13 megawatt figure. No resident is quoted by name in the Project Ruby coverage, and the official quoted about incentives is not named. Project Ruby's power request is given as 600 megawatts in one account and between 600 and 900 in another. A quotation previously carried here, that officials were paying \"any incentives no inducements no tax breaks no nothing\", appears in neither WTVM report and has been removed; what the March 8 report gives is the city pointing to its drought management plan and saying the company would not be named until a permit was filed."
+ },
+ {
+  "id": "ft-121",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "DC BLOX publishes the specification for this campus, and it is more detailed than most.",
+    "src": "https://www.dcblox.com/data-centers/rockdale-county-ga-hyperscale-data-center-campus/"
+   },
+   {
+    "para": 0,
+    "t": "The Atlanta East campus at 1726 Farmer Road in Conyers, in Rockdale County, Georgia, about 24 miles east of downtown Atlanta, is given as 747,787 square feet across four data centers, operating and in development: one building of 10 megawatts and three of 48.",
+    "src": "https://www.dcblox.com/data-centers/rockdale-county-ga-hyperscale-data-center-campus/"
+   },
+   {
+    "para": 0,
+    "t": "The company states 154 critical megawatts committed and planned, at a power density of about 384 watts per square foot.",
+    "src": "https://www.dcblox.com/data-centers/rockdale-county-ga-hyperscale-data-center-campus/"
+   },
+   {
+    "para": 1,
+    "t": "The cooling is air cooled: high efficiency magnetic bearing chillers with thermal storage, with redundancy of N+2 on the chillers and N+5 on the vertical fan coolers, and a design power usage effectiveness of 1.3 at full load.",
+    "src": "https://www.dcblox.com/data-centers/rockdale-county-ga-hyperscale-data-center-campus/"
+   },
+   {
+    "para": 1,
+    "t": "The company gives no water figure at all, which for an air cooled design is the number that would settle the question residents usually ask first.",
+    "src": "https://www.dcblox.com/data-centers/rockdale-county-ga-hyperscale-data-center-campus/"
+   },
+   {
+    "para": 2,
+    "t": "Site preparation was under way as of September 2024.",
+    "src": "https://www.dcblox.com/data-centers/rockdale-county-ga-hyperscale-data-center-campus/"
+   },
+   {
+    "para": 2,
+    "t": "The campus is carried at 216 megawatts on 68 acres and listed as under construction.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "A second data center, the Rockdale Technology Park, is proposed a kilometre away, and four more tracked sites lie within 23 kilometres including an Amazon Web Services campus at Covington.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Covington adopted a data center moratorium on 6 January 2026 and Newton County on 8 April 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "Nothing generates power within 35 kilometres of the campus.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.dcblox.com/data-centers/rockdale-county-ga-hyperscale-data-center-campus/"
+  ],
+  "unconfirmed": "Everything here comes from the company's own specification page. The 154 megawatt figure it gives does not match the 216 megawatts in our record and I could not settle which is current. No investment total, job count or water figure is published. No county hearing, vote or approval was found, and no resident or official reaction is known; the Data Center Dynamics report on the project's $1.15 billion green loan returned 403. Rockdale County itself has no moratorium in our record."
+ },
+ {
+  "id": "ft-122",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A proposed 126 megawatt data center by SDP Acquisitions LLC is recorded on Sigman Road in Conyers, in Rockdale County, Georgia, and the single source attached to it could not be read.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "That source is a television report headed \"Metro Atlanta data center proposed on 53-acre site\", which is the only indication of the size of the parcel.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The DC BLOX Atlanta East campus, already under construction and rated by its owner at 154 critical megawatts, sits a kilometre away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Two data center sites are recorded in Rockdale County and both are on this stretch of Conyers.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "Rockdale County itself has no moratorium, though eight measures are in force in the surrounding jurisdictions, including Covington's from 6 January 2026 and Newton County's from 8 April 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generation is 36 kilometres away, which for a 126 megawatt load means new transmission rather than a plant over the fence.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the acreage, the square footage, the filing date, the current status and any county hearing are all unknown. Who is behind SDP Acquisitions LLC is not established and no tenant is named. No resident or official reaction was found, and our record logs pushback as unknown."
+ }
+]

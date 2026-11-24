@@ -1,0 +1,226 @@
+{
+  "samples": [
+    {
+      "pass": 0,
+      "level": 1,
+      "ms": 17.6
+    },
+    {
+      "pass": 0,
+      "level": 2,
+      "ms": 15.2
+    },
+    {
+      "pass": 0,
+      "level": 3,
+      "ms": 30.5
+    },
+    {
+      "pass": 0,
+      "level": 4,
+      "ms": 22.2
+    },
+    {
+      "pass": 0,
+      "level": 5,
+      "ms": 22.5
+    },
+    {
+      "pass": 0,
+      "level": 6,
+      "ms": 65.6
+    },
+    {
+      "pass": 0,
+      "level": 7,
+      "ms": 55.7
+    },
+    {
+      "pass": 0,
+      "level": 8,
+      "ms": 10.5
+    },
+    {
+      "pass": 0,
+      "level": 9,
+      "ms": 7.4
+    },
+    {
+      "pass": 0,
+      "level": 10,
+      "ms": 7
+    },
+    {
+      "pass": 0,
+      "level": 11,
+      "ms": 7.4
+    },
+    {
+      "pass": 0,
+      "level": 12,
+      "ms": 8.8
+    },
+    {
+      "pass": 0,
+      "level": 13,
+      "ms": 6
+    },
+    {
+      "pass": 1,
+      "level": 1,
+      "ms": 5.2
+    },
+    {
+      "pass": 1,
+      "level": 2,
+      "ms": 11.8
+    },
+    {
+      "pass": 1,
+      "level": 3,
+      "ms": 30.2
+    },
+    {
+      "pass": 1,
+      "level": 4,
+      "ms": 18.2
+    },
+    {
+      "pass": 1,
+      "level": 5,
+      "ms": 9.9
+    },
+    {
+      "pass": 1,
+      "level": 6,
+      "ms": 9.8
+    },
+    {
+      "pass": 1,
+      "level": 7,
+      "ms": 7.7
+    },
+    {
+      "pass": 1,
+      "level": 8,
+      "ms": 6
+    },
+    {
+      "pass": 1,
+      "level": 9,
+      "ms": 5.5
+    },
+    {
+      "pass": 1,
+      "level": 10,
+      "ms": 3.9
+    },
+    {
+      "pass": 1,
+      "level": 11,
+      "ms": 3.6
+    },
+    {
+      "pass": 1,
+      "level": 12,
+      "ms": 3.9
+    },
+    {
+      "pass": 1,
+      "level": 13,
+      "ms": 3.1
+    }
+  ],
+  "top": [
+    {
+      "ms": 4958.1,
+      "name": "(idle)",
+      "file": ""
+    },
+    {
+      "ms": 1264.6,
+      "name": "(program)",
+      "file": ""
+    },
+    {
+      "ms": 21.9,
+      "name": "createElementNS",
+      "file": ""
+    },
+    {
+      "ms": 18.1,
+      "name": "requestAnimationFrame",
+      "file": ""
+    },
+    {
+      "ms": 18.1,
+      "name": "(garbage collector)",
+      "file": ""
+    },
+    {
+      "ms": 16.9,
+      "name": "",
+      "file": "globe.gl.js"
+    },
+    {
+      "ms": 15.1,
+      "name": "wa",
+      "file": "globe.gl.js"
+    },
+    {
+      "ms": 14.7,
+      "name": "",
+      "file": "globe.gl.js"
+    },
+    {
+      "ms": 14.1,
+      "name": "",
+      "file": "globe.gl.js"
+    },
+    {
+      "ms": 13.7,
+      "name": "nh",
+      "file": "globe.gl.js"
+    },
+    {
+      "ms": 13,
+      "name": "hh.addAll",
+      "file": "globe.gl.js"
+    },
+    {
+      "ms": 12.7,
+      "name": "addEventListener",
+      "file": ""
+    },
+    {
+      "ms": 11.8,
+      "name": "set src",
+      "file": ""
+    },
+    {
+      "ms": 11.2,
+      "name": "Zr",
+      "file": "globe.gl.js"
+    },
+    {
+      "ms": 10.8,
+      "name": "m.<computed>",
+      "file": "globe.gl.js"
+    },
+    {
+      "ms": 10.7,
+      "name": "Dm",
+      "file": "globe.gl.js"
+    },
+    {
+      "ms": 10.1,
+      "name": "gr",
+      "file": "globe.gl.js"
+    },
+    {
+      "ms": 9.4,
+      "name": "Ua",
+      "file": "globe.gl.js"
+    }
+  ]
+}

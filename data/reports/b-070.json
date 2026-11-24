@@ -1,0 +1,468 @@
+[
+ {
+  "id": "ft-287",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The only source attached to this Lexington data center is an estate agent's listing.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The entry is an operating data center at 151 Martin Luther King Boulevard in Lexington, in Fayette County, Kentucky, and the source is a JLL page advertising an eight asset Switch portfolio.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "No capacity figure, acreage or date is attached to it.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Lexington adopted a data center moratorium on 9 June 2026, running to the end of October.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "This is the only data center site recorded in Fayette County, and the nearest others are the two entries at Harrodsburg, 39 kilometres away, where residents have gathered more than 2,000 signatures against a 555 acre proposal.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The 1,328 megawatt E W Brown gas plant is 34 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The listing was not fetched, so the size of the building, its power draw, its age, its owner and whether it has been sold are all unknown. An existing telecom or colocation building in a downtown is not the kind of site that draws objection, which is why none appears here; that absence is not evidence, since no Lexington local reporting on this address was sought."
+ },
+ {
+  "id": "ft-1774675197474-8739",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Ida Huddleston is 82, and she was offered $26 million for about half her farm at Maysville, in Mason County, Kentucky, to make way for a data center.",
+    "src": "https://local12.com/news/local/northern-kentucky-family-declines-26-million-bid-data-center-plans-advance-maysville-ai-tech-technology-construction-farm-farmland-property-deal-purchase-sell-google-meta-amazon-mason-county-market-value-cincinnati"
+   },
+   {
+    "para": 0,
+    "t": "That is roughly ten times what farmland goes for around Maysville, where the going rate is about $6,000 an acre.",
+    "src": "https://local12.com/news/local/northern-kentucky-family-declines-26-million-bid-data-center-plans-advance-maysville-ai-tech-technology-construction-farm-farmland-property-deal-purchase-sell-google-meta-amazon-mason-county-market-value-cincinnati"
+   },
+   {
+    "para": 0,
+    "t": "She and her daughter Delsia Bare, who farm about 1,200 acres between them, said no.",
+    "src": "https://local12.com/news/local/northern-kentucky-family-declines-26-million-bid-data-center-plans-advance-maysville-ai-tech-technology-construction-farm-farmland-property-deal-purchase-sell-google-meta-amazon-mason-county-market-value-cincinnati"
+   },
+   {
+    "para": 1,
+    "t": "\"Stay and hold and feed a nation,\" Bare said. \"$26 million doesn't mean anything.\"",
+    "src": "https://local12.com/news/local/northern-kentucky-family-declines-26-million-bid-data-center-plans-advance-maysville-ai-tech-technology-construction-farm-farmland-property-deal-purchase-sell-google-meta-amazon-mason-county-market-value-cincinnati"
+   },
+   {
+    "para": 1,
+    "t": "Huddleston was blunter about the buyers: \"I say they're a liar, and the truth isn't in them. That's what I say. It's a scam.\"",
+    "src": "https://local12.com/news/local/northern-kentucky-family-declines-26-million-bid-data-center-plans-advance-maysville-ai-tech-technology-construction-farm-farmland-property-deal-purchase-sell-google-meta-amazon-mason-county-market-value-cincinnati"
+   },
+   {
+    "para": 2,
+    "t": "Refusing did not stop it.",
+    "src": "https://local12.com/news/local/northern-kentucky-family-declines-26-million-bid-data-center-plans-advance-maysville-ai-tech-technology-construction-farm-farmland-property-deal-purchase-sell-google-meta-amazon-mason-county-market-value-cincinnati"
+   },
+   {
+    "para": 2,
+    "t": "The company redrew its plans around the land it could buy from willing sellers, and the project went forward: nearly 28 agricultural parcels, more than 2,000 acres in all, near Big Pond Pike, Germantown Road and Valley Pike Road in Mason County, put up for rezoning.",
+    "src": "https://local12.com/news/local/northern-kentucky-family-declines-26-million-bid-data-center-plans-advance-maysville-ai-tech-technology-construction-farm-farmland-property-deal-purchase-sell-google-meta-amazon-mason-county-market-value-cincinnati"
+   },
+   {
+    "para": 2,
+    "t": "The buyer is described only as a major artificial intelligence company and has not been named.",
+    "src": "https://local12.com/news/local/northern-kentucky-family-declines-26-million-bid-data-center-plans-advance-maysville-ai-tech-technology-construction-farm-farmland-property-deal-purchase-sell-google-meta-amazon-mason-county-market-value-cincinnati"
+   },
+   {
+    "para": 3,
+    "t": "The Joint Planning Commission set public meetings for 25 and 26 March 2026, at half past five in the evening at the Maysville Community and Technical College Fields Auditorium.",
+    "src": "https://local12.com/news/local/northern-kentucky-family-declines-26-million-bid-data-center-plans-advance-maysville-ai-tech-technology-construction-farm-farmland-property-deal-purchase-sell-google-meta-amazon-mason-county-market-value-cincinnati"
+   },
+   {
+    "para": 4,
+    "t": "Five local governments around the site closed their doors in the weeks on either side of those meetings.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "Sprigg Township adopted a moratorium on 24 February 2026, Mason County on 2 March, Monroe Township on 9 March and Williamsburg on 12 March, and Monroe Township added an outright ban on 25 March, the first day of the hearings.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 5,
+    "t": "The project is put at 400 megawatts across 2,000 acres.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 5,
+    "t": "The 1,346 megawatt H L Spurlock coal plant is 6 kilometres away, and another tracked data center at Aberdeen 16.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://local12.com/news/local/northern-kentucky-family-declines-26-million-bid-data-center-plans-advance-maysville-ai-tech-technology-construction-farm-farmland-property-deal-purchase-sell-google-meta-amazon-mason-county-market-value-cincinnati"
+  ],
+  "unconfirmed": "The buyer is not identified in the report and our record calls the entry simply \"Fortune 500\", so who is behind it remains unknown. No megawatt figure appears in the reporting, so our record's 400 megawatts is uncorroborated, and no water figure was published. What the Joint Planning Commission decided at the March 2026 meetings is not established, and whether the moratoriums adopted by the surrounding townships apply to land already under application is not known. The city of Maysville's own data center page and the site maps in our record were not fetched."
+ },
+ {
+  "id": "ft-289",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This entry carries low confidence, and the two sources attached to it do not help.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 0,
+    "t": "One is a directory listing for a Soluna facility called Project Sophie, the other a trade report about the same company developing two data centers in Texas, which has nothing to do with Kentucky.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The entry lists an operating 25 megawatt site at Murray, in Calloway County, with no address beyond the town and no date.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "The site draws on the Tennessee Valley Authority's system, and the nearest generation is the 223 megawatt Kentucky Dam 45 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Calloway County, with no other project within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Paris, across the state line in Tennessee, adopted a data center moratorium on 1 July 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Neither source establishes anything about the Murray site: one was not fetched and the other concerns Texas. The operator, the 25 megawatt figure, the operating status, whether the facility mines cryptocurrency or serves other computing, and whether anyone locally has objected are all unknown. No Calloway County local reporting was sought."
+ },
+ {
+  "id": "ft-1768855509323-6256",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Two Riot data center entries sit two kilometres apart at Paducah, in McCracken County, Kentucky, both listed as operating and expanding.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "This one, at 5600 Commerce Drive, has no capacity figure, and neither of its sources is about it: one is a trade report on the company converting a Texas cryptomine to high performance computing under a 25 megawatt lease with AMD, the other a 2022 local report on a cryptocurrency company leaving the AmerisourceBergen building in Paducah.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Riot is a cryptocurrency mining company, and the pattern the Texas headline describes, converting a mine to computing for hire, is the transition that turns a bitcoin site into a data center in datasets like this one.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The 1,206 megawatt Shawnee coal plant is 10 kilometres away, with a 110 megawatt gas plant at the same distance.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Three data center sites are recorded in McCracken County, and the Brookfield proposal at the former uranium enrichment plant is 10 kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "No local restriction stands in the way of either building.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Neither source concerns this building: one returned 403 and is about Texas, the other was not fetched and predates the entry. The capacity, the year it opened, what it currently does and what the expansion consists of are all unknown, as is whether this and the second Riot entry two kilometres away are separate sites or one operation. No Paducah local reporting was sought and our record logs pushback as unknown."
+ },
+ {
+  "id": "ft-1768855290900-5209",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This Riot data center is put at 60 megawatts on Coleman Road in Paducah, in McCracken County, Kentucky, listed as operating and expanding, and its single source is a trade report about the company's Texas operations that returned 403.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Sixty megawatts is a substantial draw for a building nothing else is recorded about: no acreage, no square footage, no date and no developer beyond the company name.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "The 110 megawatt PPS plant is 8 kilometres away and the 1,206 megawatt Shawnee coal plant 11.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The other Riot entry is 2 kilometres off, the Brookfield proposal at the enrichment plant 12, and a Core Scientific site at Calvert City 25.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "No grid control area is recorded for this part of Kentucky, so the system peak the site sits inside is not established.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403 and concerns a different state, so the 60 megawatt figure, the operating status and the nature of the expansion could not be checked. Whether this site mines cryptocurrency, hosts computing for others, or both, is not established, and that distinction determines how constantly it draws power. No local reaction is known and our record marks its confidence in the entry as medium."
+ },
+ {
+  "id": "ft-1784847703607-3659",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Two gigawatts is proposed on a dead steel mill, and the county has since put a stop on data centers.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "A Rubix data center is put at 2,000 megawatts on 450 acres of the former AK Steel plant on Armco Road at Westwood, in Boyd County, Kentucky, for $12 billion, and the two sources attached to it are headed \"Submer's Rubix Data Centers proposes 2GW data center at former steelworks in Kentucky\" and \"Kentucky's biggest data center project to date eyes former steel mill\".",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Neither could be retrieved.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Boyd County adopted a six month data center moratorium on 9 July 2026, and Ironton across the river in Ohio one on 12 February 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "This stretch of the Ohio river is filling with these projects.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "A Ravel data center is 12 kilometres away, a TeraWulf site at Ashland 15, a Google campus at Franklin Furnace 19 and an Alpha Technologies site 22.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The generation is close but far short of two gigawatts: the 1,365 megawatt Hanging Rock gas plant 13 kilometres away, a 300 megawatt peaking plant at 19, the 450 megawatt Ceredo station at 19 and a 70 megawatt dam at 23.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Neither source in our record could be read, so the timeline, the tenant, the water demand, the filing date, the county process and the current status are all unknown, as is the relationship between Rubix and Submer that one headline implies. The condition of the former steelworks, which would determine what has to be cleaned up before anything is built, could not be established. Our record logs pushback as unknown, which sits oddly with the county adopting a moratorium in July 2026."
+ },
+ {
+  "id": "ft-1768856244919-5978",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This entry carries low confidence and the single source, headed \"Data center planned near Shreveport, Louisiana, report\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The entry lists a TXLAAR LLC data center on 1,080 acres on Highway 3 in Bossier Parish, with no capacity figure and no date.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 1,
+    "t": "What surrounds it is Amazon.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "An Amazon Web Services site in Bossier Parish is 3 kilometres away, another at Blanchard on the state line 23, and the company's Resilient Technology Park at Shreveport 35.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generation is the 208 megawatt Lieberman plant 22 kilometres off, with the 511 megawatt J Lamar Stall unit and the 110 megawatt Arsenal Hill plant both at 23.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Bossier Parish and its neighbours have adopted no pause.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403 and its headline describes a report rather than a filing, so who stands behind TXLAAR LLC, the megawatts, the investment, the timeline and whether any application exists are all unknown. No water figure and no local reaction are established, and no Bossier Parish reporting was sought."
+ },
+ {
+  "id": "ft-1789394660686-8699",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Calcasieu Parish has no rule that would allow a data center outside its towns, and a company has taken options on more than 1,100 acres there anyway.",
+    "src": "https://www.kplctv.com/2026/09/10/proposed-data-center-north-moss-bluff-still-exploration-stage-company-says/"
+   },
+   {
+    "para": 0,
+    "t": "J.P. Booth, a parish official, put it plainly: \"At this time there are no land use ordinances that allow for data centers in the unincorporated areas of Calcasieu Parish.\"",
+    "src": "https://www.kplctv.com/2026/09/10/proposed-data-center-north-moss-bluff-still-exploration-stage-company-says/"
+   },
+   {
+    "para": 1,
+    "t": "The land lies north of Moss Bluff between Paul White and North Perkins Ferry roads, is zoned agricultural, and would need a variance or a rezoning.",
+    "src": "https://www.kplctv.com/2026/09/10/proposed-data-center-north-moss-bluff-still-exploration-stage-company-says/"
+   },
+   {
+    "para": 1,
+    "t": "No rezoning application has been filed, no parish data center ordinance exists, and no timetable for writing one has been proposed.",
+    "src": "https://www.kplctv.com/2026/09/10/proposed-data-center-north-moss-bluff-still-exploration-stage-company-says/"
+   },
+   {
+    "para": 2,
+    "t": "The company is Azimuth Renewables, based in St. Louis, and its president David Bunge said: \"Calcasieu Parish is one of many areas where we have secured land options to explore data center development opportunities.\"",
+    "src": "https://www.kplctv.com/2026/09/10/proposed-data-center-north-moss-bluff-still-exploration-stage-company-says/"
+   },
+   {
+    "para": 2,
+    "t": "Azimuth says the buildings would take up only a fraction of the land and that it would pay for the infrastructure upgrades.",
+    "src": "https://www.kplctv.com/2026/09/10/proposed-data-center-north-moss-bluff-still-exploration-stage-company-says/"
+   },
+   {
+    "para": 3,
+    "t": "Moss Bluff is houses.",
+    "src": "https://www.kplctv.com/2026/09/10/proposed-data-center-north-moss-bluff-still-exploration-stage-company-says/"
+   },
+   {
+    "para": 3,
+    "t": "Resident Lana Bodin said: \"There's nothing wrong with having a data center. It's just there's a certain place for it and it's not Moss Bluff in a community of homes where people are raising their families.\"",
+    "src": "https://www.kplctv.com/2026/09/10/proposed-data-center-north-moss-bluff-still-exploration-stage-company-says/"
+   },
+   {
+    "para": 3,
+    "t": "Representative Brett Geymann said of his constituents: \"They don't want anything industrial or heavy commercial. They just ... that's not what that community wants.\"",
+    "src": "https://www.kplctv.com/2026/09/10/proposed-data-center-north-moss-bluff-still-exploration-stage-company-says/"
+   },
+   {
+    "para": 4,
+    "t": "Louisiana's governor has issued an executive order requiring companies to provide their own power, which matters here because there is a great deal of it nearby already.",
+    "src": "https://www.kplctv.com/2026/09/10/proposed-data-center-north-moss-bluff-still-exploration-stage-company-says/"
+   },
+   {
+    "para": 4,
+    "t": "The 1,129 megawatt R S Nelson coal plant is 9 kilometres away, the 1,000 megawatt Lake Charles Power station 10, and two PPG chemical works power plants totalling 356 megawatts at 15.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 5,
+    "t": "The site is put at 1,200 acres, listed as an early stage proposal, with local opposition recorded as an emerging concern.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 5,
+    "t": "This is the only data center site recorded in Calcasieu Parish.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://www.kplctv.com/2026/09/10/proposed-data-center-north-moss-bluff-still-exploration-stage-company-says/"
+  ],
+  "unconfirmed": "No megawatt figure, investment total, water demand or timeline has been published, because the company says the project is still at the exploration stage. The acreage is given as more than 1,100 in the report and 1,200 in our record. What the governor's executive order requires in practice, and how it would apply here, is not set out in the report. The two other local reports in our record were not fetched. This is a very recent proposal and the position may have moved since 10 September 2026."
+ },
+ {
+  "id": "ft-1788647482524-3261",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A company called ONE Nuclear has announced a natural gas plant.",
+    "src": "https://www.1012industryreport.com/energy/one-nuclear-announces-plans-for-2-88-gw-louisiana-energy-project-with-data-center-campus/"
+   },
+   {
+    "para": 0,
+    "t": "The project is 2.88 gigawatts of gas generation with a 700 megawatt battery storage system rated at 2.88 gigawatt hours, and a data center campus alongside it, near the RiverPlex MegaPark in Ascension Parish.",
+    "src": "https://www.1012industryreport.com/energy/one-nuclear-announces-plans-for-2-88-gw-louisiana-energy-project-with-data-center-campus/"
+   },
+   {
+    "para": 0,
+    "t": "The announcement refers to advanced nuclear technologies without giving any technical detail, and the generation actually described is gas.",
+    "src": "https://www.1012industryreport.com/energy/one-nuclear-announces-plans-for-2-88-gw-louisiana-energy-project-with-data-center-campus/"
+   },
+   {
+    "para": 1,
+    "t": "The company has signed a binding letter of intent for control of the site, which it calls an important step.",
+    "src": "https://www.1012industryreport.com/energy/one-nuclear-announces-plans-for-2-88-gw-louisiana-energy-project-with-data-center-campus/"
+   },
+   {
+    "para": 1,
+    "t": "The report says the scheme would complement regional economic development efforts by adding dispatchable generation, energy storage and technology infrastructure, and would support grid reliability.",
+    "src": "https://www.1012industryreport.com/energy/one-nuclear-announces-plans-for-2-88-gw-louisiana-energy-project-with-data-center-campus/"
+   },
+   {
+    "para": 2,
+    "t": "There is no construction timeline, no completion date, no investment figure, no job figure and no capacity given for the data center campus itself.",
+    "src": "https://www.1012industryreport.com/energy/one-nuclear-announces-plans-for-2-88-gw-louisiana-energy-project-with-data-center-campus/"
+   },
+   {
+    "para": 3,
+    "t": "The site sits in the industrial corridor along the Mississippi.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Four plants attached to chemical works and a 521 megawatt combined cycle station lie within 11 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Ascension Parish, with no other project within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.1012industryreport.com/energy/one-nuclear-announces-plans-for-2-88-gw-louisiana-energy-project-with-data-center-campus/"
+  ],
+  "unconfirmed": "The report is an announcement of intent rather than an account of an application, and it explains neither the company's name against the technology described nor what role nuclear generation would eventually play. No regulatory process, air permit, water figure or interconnection agreement is mentioned. Our record carries no acreage, capacity or cost for the entry and marks its confidence medium. The RiverPlex MegaPark's own site was not fetched, and no resident or parish official is named or quoted anywhere reached."
+ },
+ {
+  "id": "ft-1775695942354-9936",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "New Orleans paused this data center on the day it was reported, with the moratorium dated 28 January 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 0,
+    "t": "It runs for a year, to 28 January 2027.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "The project is listed as suspended, at Interstate 10 and Read Boulevard in New Orleans East, with MS Solar Grid Data named and local pushback logged.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 1,
+    "t": "The four sources attached to the entry all describe the same argument in their headlines and none could be retrieved: a Verite News piece on a data center ban before the city council dated 28 January 2026, a WGNO report headed \"New Orleans city council pauses proposed data center in New Orleans East\", a WWL report headed \"'It's very concerning to the community': Neighbors push back against proposed New Orleans East data center\", and a statement on data centers in New Orleans from the Alliance for Affordable Energy.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "No acreage, capacity figure, investment total or developer beyond the company name is attached to it.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "The 132 megawatt New Orleans Power station is 5 kilometres away and the 2,376 megawatt Nine Mile Point plant 19.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Orleans Parish.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "All four sources in our record returned 403 or were blocked, so the size of the proposal, its power draw, its water demand, the council vote, the terms of the pause and what residents actually said could not be read; only the headlines and our own moratorium record support the account above. The Alliance for Affordable Energy's statement, which would set out the organised case against data centers in the city, was not read. Whether the moratorium has since been extended or lifted is not known."
+ }
+]

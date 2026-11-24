@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="robots" content="noindex,follow">
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Risk Calculator Methodology — How We Score Florida's 67 Counties | FloridaDataCenters.org</title>
+    <meta name="description" content="Full transparency on how the Florida Data Center Risk Calculator scores all 67 Florida counties. Four factors, weighted formula, public data sources, documented modifiers. Version 1.0.">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Risk Calculator Methodology — How We Score Florida's 67 Counties | Florida Data Centers">
+    <meta property="og:description" content="Full transparency on how the Florida Data Center Risk Calculator scores all 67 Florida counties. Four factors, weighted formula, public data sources, documented modifiers. Version 1.0.">
+    <meta property="og:image" content="https://globaldatacenters.net/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://globaldatacenters.net/og-image.png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400&family=Work+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css">
+    <link rel="stylesheet" href="/risk-calculator.css">
+    <script type="text/javascript">
+        (function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "whyg2fbg7c");
+    </script>
+</head>
+<body>
+
+<header class="masthead">
+    <div class="wrap">
+        <div class="masthead-inner">
+            <div class="mast-meta js-date-full">Sunday, April 19, 2026</div>
+            <div class="mast-title"><a href="/">Florida Data Centers<span class="dot">.</span></a></div>
+            <div class="mast-meta mast-meta-right">Est. 2026 · Independent</div>
+        </div>
+    </div>
+</header>
+
+<div class="tagline-bar">
+    <div class="wrap">Tracking every proposed hyperscale data center in Florida's 67 counties.</div>
+</div>
+
+<nav class="county-nav">
+    <div class="wrap">
+        <div class="county-nav-inner">
+            <a href="/">Home</a>
+            <a href="/news">News</a>
+            <a href="/risk-calculator">Risk Calculator</a>
+            <a href="/take-action">Take Action</a>
+            <a href="/your-rights">Your Rights</a>
+            <a href="/about">About</a>
+            <a href="/contact">Contact</a>
+        </div>
+    </div>
+</nav>
+
+<div class="wrap">
+    <div class="breadcrumb">
+        <a href="/">Florida</a>
+        <span class="sep">/</span>
+        <a href="/risk-calculator">Risk Calculator</a>
+        <span class="sep">/</span>
+        Methodology
+    </div>
+</div>
+
+<section class="page-header">
+    <div class="wrap">
+        <div class="page-kicker">Methodology</div>
+        <h1 class="page-title">How we score 67 Florida counties.</h1>
+        <p class="page-lede">The Risk Calculator is a weighted index built from four public-data factors. It does not predict specific data center announcements. It surfaces the structural conditions that hyperscale developers evaluate when selecting sites. Transparency is the product. Every input, every weight, and every adjustment is documented below.</p>
+    </div>
+</section>
+
+<main>
+    <div class="wrap-narrow">
+        <section class="section prose">
+            <h2>The four factors</h2>
+            
+            <h3>1. Power availability (30 points)</h3>
+            <p>Hyperscale data centers require 50 to 1,200 megawatts of continuous power. Every siting study puts power availability as the single largest factor. We score this based on major in-county generation capacity first, then fall back to adjacent-county capacity.</p>
+            <ul>
+                <li>30 pts: in-county capacity ≥ 3,000 MW</li>
+                <li>27 pts: in-county capacity ≥ 1,500 MW</li>
+                <li>23 pts: in-county capacity ≥ 500 MW</li>
+                <li>18 pts: in-county capacity ≥ 200 MW</li>
+                <li>20 / 16 / 12 pts: adjacent-county capacity scales for counties with minimal in-county generation</li>
+                <li>6 pts: baseline</li>
+            </ul>
+            <p><strong>Data source:</strong> Public information about major Florida power plants from utility operator disclosures and U.S. Energy Information Administration (EIA) public records. We only count plants with 100 MW or more of capacity.</p>
+            
+            <h3>2. Water capacity (15 points)</h3>
+            <p>Cooling systems use millions of gallons per month. Florida's five water management districts have very different capacity conditions, with the South Florida district under significant Everglades restoration and water-supply pressure.</p>
+            <ul>
+                <li>15 pts: Suwannee River WMD — rural, abundant, minimal stress</li>
+                <li>14 pts: Northwest Florida WMD — abundant, low current demand</li>
+                <li>12 pts: St. Johns River WMD — mixed, moderate capacity</li>
+                <li>10 pts: Southwest Florida WMD — growing stress</li>
+                <li>6 pts: South Florida WMD — significant stress, Everglades restoration</li>
+            </ul>
+            <p><strong>Data source:</strong> Florida Water Management District jurisdictional maps (public).</p>
+            
+            <h3>3. Land availability (15 points)</h3>
+            <p>Hyperscale campuses need 200 to 1,500 acres in a single contiguous parcel. These parcels are most available in rural counties. We use population density tier as a proxy because granular parcel-level data is not aggregated statewide.</p>
+            <ul>
+                <li>15 pts: very rural (population under 50,000)</li>
+                <li>13 pts: rural (50,000 – 200,000)</li>
+                <li>9 pts: suburban (200,000 – 500,000)</li>
+                <li>5 pts: urban (500,000 – 1,000,000)</li>
+                <li>2 pts: metro (1,000,000+)</li>
+            </ul>
+            <p><strong>Data source:</strong> 2023 U.S. Census Bureau population estimates for Florida counties.</p>
+            <p><strong>Honest caveat:</strong> Population density is a proxy. Large rural parcels also exist in some suburban counties — but they're the exception. For a first-pass county-level score, this proxy is defensible.</p>
+            
+            <h3>4. Current exposure (40 points)</h3>
+            <p>Counties with known data center projects, and counties adjacent to them, are at higher risk for additional projects. Infrastructure builds out once, and developers cluster near existing sites to share power and fiber.</p>
+            <ul>
+                <li>40 pts: known data center project in this county</li>
+                <li>25 pts: two or more adjacent counties have known projects</li>
+                <li>18 pts: one adjacent county has a known project</li>
+                <li>10 pts: projects within the broader region (two counties away)</li>
+                <li>4 pts: baseline — any Florida county has some statewide risk exposure</li>
+            </ul>
+            <p><strong>Data source:</strong> Our own coverage of the seven active projects across Florida, cross-referenced with local news and county planning department filings.</p>
+            
+            <h2>Modifiers</h2>
+            <p>Two structural penalties apply to specific counties:</p>
+            <ul>
+                <li><strong>Monroe County (–15 pts):</strong> No available large parcels, hurricane exposure, and acute water stress make hyperscale development structurally unviable. Ranked separately.</li>
+                <li><strong>Dense SFWMD metro cores (–5 pts):</strong> Miami-Dade and Broward counties combine water stress with minimal available land. Score is reduced to reflect the compound effect, which is meaningfully worse than either factor alone.</li>
+            </ul>
+            
+            <h2>What we don't score (yet)</h2>
+            <p>Three factors are on our roadmap but not in the current version:</p>
+            <ul>
+                <li><strong>Transmission line proximity.</strong> FERC publishes detailed transmission network data, but the statewide picture requires substantial processing. We currently approximate via major-plant adjacency.</li>
+                <li><strong>Fiber backbone routes.</strong> Partial public data exists. Most hyperscale sites are co-located with major fiber arteries; we don't yet capture this.</li>
+                <li><strong>County-level regulatory friction.</strong> Some counties have passed data center ordinances or moratoriums. This currently adjusts the exposure score indirectly but not explicitly.</li>
+            </ul>
+            
+            <h2>What the score does not mean</h2>
+            <div class="callout">
+                A "Very High" score is not a prediction that a data center will be built in your county. It is a statement that your county has the structural conditions developers actively look for. A "Low" score is not a guarantee that nothing will ever be built. It means the structural factors are unfavorable.
+            </div>
+            <p>Hyperscale data center siting is driven by developer economics, tax incentives, and individual landowner decisions — factors that do not appear in public data. Our score aggregates the factors that do appear, so that residents can evaluate their local situation with the same inputs a developer would.</p>
+            
+            <h2>Tier thresholds</h2>
+            <ul>
+                <li><strong>80 – 100:</strong> Very High</li>
+                <li><strong>65 – 79:</strong> High</li>
+                <li><strong>45 – 64:</strong> Moderate</li>
+                <li><strong>25 – 44:</strong> Low</li>
+                <li><strong>0 – 24:</strong> Very Low</li>
+            </ul>
+            
+            <h2>Updates and corrections</h2>
+            <p>Scores will be recalculated as new data becomes available — new projects surface, water permits get approved, transmission upgrades happen. If you see a specific input that looks wrong for your county, <a href="/contact" class="in-text-link">let us know</a>. We'll verify and correct.</p>
+            
+            <p class="muted"><em>Last updated April 2026. Methodology version 1.0.</em></p>
+        </section>
+    </div>
+</main>
+
+<section class="section" id="signup" style="padding: 30px 0 60px;">
+    <div class="wrap">
+        <div class="signup-box">
+            <div>
+                <div class="signup-title">They&#39;ll approve the next one <em>before you hear about it.</em></div>
+                <p class="signup-sub">One email when data center filings, votes, tax deals, or ballot deadlines hit your county. Sourced from public records and local reporting nationwide.</p>
+            </div>
+            <form class="signup-form" action="/api/contact" method="post">
+                <div class="signup-eyebrow">2,400+ residents subscribed</div>
+                <input type="email" name="email" class="signup-input" placeholder="your@email.com" required>
+                <input type="hidden" name="type" value="newsletter">
+                <button type="submit" class="signup-btn">Get county alerts</button>
+                <div class="signup-foot">No spam. Unsubscribe anytime.</div>
+            </form>
+        </div>
+    </div>
+</section>
+
+<section class="section" style="padding: 0 0 55px;">
+    <div class="wrap" style="text-align: center;">
+        <a href="https://www.facebook.com/share/g/1BS4kskLw1/" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 8px; background: #1877F2; color: #fff; padding: 13px 28px; font-family: 'Work Sans', sans-serif; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; text-decoration: none; border: none; cursor: pointer;">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="white"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+            Join the Stop Data Centers group
+        </a>
+        <p style="font-size: 0.78rem; color: var(--ink-fade); font-style: italic; margin-top: 12px;">Public group &middot; Free to join</p>
+    </div>
+</section>
+
+<footer class="footer">
+    <div class="wrap">
+        <div class="footer-grid">
+            <div>
+                <div class="footer-brand">Florida Data Centers<span class="dot">.</span></div>
+                <p class="footer-about">An independent, non-commercial tracker of proposed hyperscale and AI data center projects across all 50 states, with the deepest coverage in Florida's 67 counties. We report facts as filed in public records and reported by local news. We are not affiliated with any developer, operator, advocacy group, or government agency.</p>
+            </div>
+            <div>
+                <div class="footer-heading">Tools</div>
+                <ul class="footer-links">
+                    <li><a href="/risk-calculator">Risk Calculator</a></li>
+                    <li><a href="/methodology">Methodology</a></li>
+                    <li><a href="/take-action">Take Action</a>
+            <a href="/your-rights">Your Rights</a></li>
+                    <li><a href="/#florida-law">Florida Legislation</a></li>
+                </ul>
+            </div>
+            <div>
+                <div class="footer-heading">Active Projects</div>
+                <ul class="footer-links">
+                    <li><a href="/palm-beach-county">Palm Beach</a></li>
+                    <li><a href="/polk-county">Polk</a></li>
+                    <li><a href="/st-lucie-county">St. Lucie</a></li>
+                    <li><a href="/okeechobee-county">Okeechobee</a></li>
+                    <li><a href="/martin-county">Martin</a></li>
+                    <li><a href="/citrus-county">Citrus</a></li>
+                    <li><a href="/nassau-county">Nassau</a>
+            <a href="/broward-county">Broward</a>
+            <a href="/miami-dade-county">Miami-Dade</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-legal">
+            <div>© <span class="js-year">2026</span> floridadatacenters.org · Independent reporting. Not legal, financial, or environmental advice.</div>
+            <div>Last updated <span class="js-date-long">April 19, 2026</span></div>
+        </div>
+    </div>
+</footer>
+
+<script>
+    (function() {
+        const today = new Date();
+        const longOpts = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+        const shortOpts = { month: 'long', day: 'numeric', year: 'numeric' };
+        document.querySelectorAll('.js-date-full').forEach(el => el.textContent = today.toLocaleDateString('en-US', longOpts));
+        document.querySelectorAll('.js-date-long').forEach(el => el.textContent = today.toLocaleDateString('en-US', shortOpts));
+        document.querySelectorAll('.js-year').forEach(el => el.textContent = today.getFullYear());
+    })();
+</script>
+
+</body>
+</html>

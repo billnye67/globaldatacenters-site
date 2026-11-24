@@ -1,0 +1,615 @@
+[
+ {
+  "id": "ft-1771179941512-6019",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The paper mill is gone and the ground is being sold to a data center.",
+    "src": "https://lufkindailynews.com/news/local/ai-data-center-planned-on-1-000-acres-at-former-southland-paper-mill-site/article_ff9e97bf-361d-5649-835b-68a75818bd94.html"
+   },
+   {
+    "para": 0,
+    "t": "Amp Z holds an option to buy about 1,041 acres at the former Southland Paper Mill site near Paper Mill Creek in Angelina County, through a company called Amp Z Champion Data Center Holdings LLC, for what it calls a gigawatt-scale campus in deep east Texas.",
+    "src": "https://lufkindailynews.com/news/local/ai-data-center-planned-on-1-000-acres-at-former-southland-paper-mill-site/article_ff9e97bf-361d-5649-835b-68a75818bd94.html"
+   },
+   {
+    "para": 0,
+    "t": "The site could grow to about 4,000 acres.",
+    "src": "https://lufkindailynews.com/news/local/ai-data-center-planned-on-1-000-acres-at-former-southland-paper-mill-site/article_ff9e97bf-361d-5649-835b-68a75818bd94.html"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 1,041 acres and 2,100 megawatts and marks the project proposed.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The figures are the usual shape: a lot of money, a lot of temporary work, very few permanent jobs.",
+    "src": "https://lufkindailynews.com/news/local/ai-data-center-planned-on-1-000-acres-at-former-southland-paper-mill-site/article_ff9e97bf-361d-5649-835b-68a75818bd94.html"
+   },
+   {
+    "para": 1,
+    "t": "Amp Z puts the private investment at about $1.05 billion, with roughly 500 construction jobs over more than four years and about 30 full time posts at the end.",
+    "src": "https://lufkindailynews.com/news/local/ai-data-center-planned-on-1-000-acres-at-former-southland-paper-mill-site/article_ff9e97bf-361d-5649-835b-68a75818bd94.html"
+   },
+   {
+    "para": 1,
+    "t": "There is already an active substation on site delivering 55 megawatts, and the company projects going beyond 2.1 gigawatts by 2029 using utility supply and its own generation.",
+    "src": "https://lufkindailynews.com/news/local/ai-data-center-planned-on-1-000-acres-at-former-southland-paper-mill-site/article_ff9e97bf-361d-5649-835b-68a75818bd94.html"
+   },
+   {
+    "para": 2,
+    "t": "The water numbers are the ones that will be argued about.",
+    "src": "https://lufkindailynews.com/news/local/ai-data-center-planned-on-1-000-acres-at-former-southland-paper-mill-site/article_ff9e97bf-361d-5649-835b-68a75818bd94.html"
+   },
+   {
+    "para": 2,
+    "t": "About 20 million gallons a day are available, and the facility is estimated to use about 500 gallons a day, which the report compares to three houses.",
+    "src": "https://lufkindailynews.com/news/local/ai-data-center-planned-on-1-000-acres-at-former-southland-paper-mill-site/article_ff9e97bf-361d-5649-835b-68a75818bd94.html"
+   },
+   {
+    "para": 2,
+    "t": "Lufkin's mayor, Mark Hicks, called it \"truly a once-in-a-lifetime project for Angelina County\" and said the city would sell it water, adding of the site that \"it's not near residential, so it's not going to have any more effects than that paper mill had.\"",
+    "src": "https://lufkindailynews.com/news/local/ai-data-center-planned-on-1-000-acres-at-former-southland-paper-mill-site/article_ff9e97bf-361d-5649-835b-68a75818bd94.html"
+   },
+   {
+    "para": 3,
+    "t": "Two data center sites are counted in Angelina County, the other a 20 megawatt HyperDataGrid proposal 18 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Generation is a long way off for 2.1 gigawatts: a 100 megawatt biomass plant 57 kilometres away, the 52 megawatt Sam Rayburn dam 64, and the 679 megawatt Stryker Creek gas plant 71.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Angelina County has no moratorium; what reaches it is Governor Abbott's direction of August 3, 2026 to the Public Utility Commission of Texas and ERCOT to review the electricity and water demands, infrastructure, tax incentives, ownership and community effects of data centers seeking to connect to the grid.",
+    "src": "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+   }
+  ],
+  "sources": [
+   "https://lufkindailynews.com/news/local/ai-data-center-planned-on-1-000-acres-at-former-southland-paper-mill-site/article_ff9e97bf-361d-5649-835b-68a75818bd94.html",
+   "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+  ],
+  "unconfirmed": "The option had not been exercised when this was reported, so the purchase, the rezoning and any county approval are unestablished. The 500 gallons a day estimate is the developer's and covers only the facility, not construction or the on-site generation. Who is behind Amp Z, and who the tenant would be, is not stated."
+ },
+ {
+  "id": "ft-1771257374268-9257",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Rowan is building a data center on 440 acres in Medina County, Texas, near Lytle, north of Interstate 35.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The developer calls it the Cinco Project; the record calls the entry North East Data Center LLC, puts it at TX-132 and County Road 683, carries 440 acres and 300 megawatts, and marks it proposed.",
+    "src": "https://www.rowanmedina.com/"
+   },
+   {
+    "para": 0,
+    "t": "The company's own timetable has community engagement starting in summer 2024, an open house and site plan submission in winter 2025, a public hearing on the final site plan in spring 2025, and construction beginning in summer 2025.",
+    "src": "https://www.rowanmedina.com/"
+   },
+   {
+    "para": 1,
+    "t": "What the company's site does not give is the part people ask about.",
+    "src": "https://www.rowanmedina.com/"
+   },
+   {
+    "para": 1,
+    "t": "There is no megawatt figure, no building count, no water or cooling detail and no noise commitment on it.",
+    "src": "https://www.rowanmedina.com/"
+   },
+   {
+    "para": 1,
+    "t": "It says it was established in 2020 to provide net zero power solutions for mission-critical green data centers, and that data centers across Texas support hundreds of thousands of jobs and generate billions in tax revenue while consuming minimal water, without figures for this campus.",
+    "src": "https://www.rowanmedina.com/"
+   },
+   {
+    "para": 2,
+    "t": "Four data center sites are counted in Medina County, and the cluster west of San Antonio is filling in.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Tract's Medina technology park is 16 kilometres away, CyrusOne's Medina County site 20, and Microsoft's operating 75 megawatt SAT40, its Texas Research Park campus and Vantage's 32 megawatt TX1 all 22.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The 184 megawatt Leon Creek plant is 28 kilometres off, the 202 megawatt Pearsall plant 42 and a 200 megawatt solar farm 42.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Medina County has written no moratorium on data centers, and the cluster west of San Antonio keeps filling in.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.rowanmedina.com/"
+  ],
+  "unconfirmed": "The developer's page gives no capacity, so our 300 megawatts is uncorroborated here. It also gives no building count, no water or cooling detail and no noise commitment. Reporting that could not be opened describes about $550 million of construction financing closed, a groundbreaking in September 2025, a minimum $900 million investment, full operation expected in 2027, power mainly from hydroelectric, solar and wind, and a top five US technology company as the tenant; none of that is carried above."
+ },
+ {
+  "id": "ft-1781279595839-4992",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A 50 megawatt data center is proposed on 39 acres at 1000 Bolton Road, Marion, in Guadalupe County, Texas, from Legacy Investing.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The record's single source, a Data Center Dynamics report, refuses requests, and only trade listings describe the project.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "No application, hearing or local reaction was found.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The county it sits in is the one where the data center argument in central Texas has been sharpest.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Palomino Alpha, 29 kilometres away, drew a lawsuit against the Guadalupe County Commissioners Court over how its meetings were run, and questions about the county judge's ownership of land inside the site.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "CloudBurst's 1,200 megawatt campus is 31 kilometres off and under construction, the refused San Marcos project 34, and an AWS proposal at Bitter Blue 34.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "San Marcos banned data centers on February 18, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The generation around Marion is heavy.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The 1,005 megawatt Guadalupe Generating Station is 12 kilometres away, the 792 megawatt Rio Nogales plant 19, a 200 megawatt battery installation 21 and the 1,345 megawatt J K Spruce coal station 28.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Two data center sites are counted in Guadalupe County.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record could not be read. Trade listings describe a 39 acre former karting complex with more than 100,000 square feet of data hall in a 243,000 square foot building, operational in the fourth quarter of 2027, expandable to 150 megawatts, with direct-to-chip cooling and closed chilled water loops, and a site plan approved administratively by Cibolo's planning department in April; we did not treat those as sources. The 50 megawatts above comes from our own record."
+ },
+ {
+  "id": "ft-1783831945621-4547",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Leon County's judge told his residents plainly what he could and could not do about a 1,500 megawatt data center at Marquez.",
+    "src": "https://www.kbtx.com/2025/12/24/leon-county-bracing-1500-megawatt-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "Byron Ryder, on Belltown Power's Kahla project: \"We can make it difficult for them, and we probably will make it difficult for them, but we really can't make, we can't keep them from coming if they want to come.\"",
+    "src": "https://www.kbtx.com/2025/12/24/leon-county-bracing-1500-megawatt-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The land is private.",
+    "src": "https://www.kbtx.com/2025/12/24/leon-county-bracing-1500-megawatt-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 900 acres and 1,500 megawatts and marks the project proposed.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The objection here is air and wildlife rather than water.",
+    "src": "https://www.kbtx.com/2025/12/24/leon-county-bracing-1500-megawatt-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Daniel McCoslin, a resident, said: \"We're hoping that the EPA and TCEQ can help file lawsuits against these companies because the quality of air that these data centers emit and the danger to the environment, we have 11 endangered species that exist in Leon County.\"",
+    "src": "https://www.kbtx.com/2025/12/24/leon-county-bracing-1500-megawatt-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "He added: \"We'll make a stand until they run bulldozers through the pastures, and it's going to be a long, drawn-out fight for us. It's not something that any of us are willing to give up on.\"",
+    "src": "https://www.kbtx.com/2025/12/24/leon-county-bracing-1500-megawatt-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Residents also raised the effect on livestock.",
+    "src": "https://www.kbtx.com/2025/12/24/leon-county-bracing-1500-megawatt-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "The reason a developer looks here is twelve kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The 1,660 megawatt Limestone coal station is 12 kilometres from the site and the 1,710 megawatt Oak Grove coal station 26, with a 305 megawatt coal plant at 48 and a 239 megawatt solar farm at 53.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Leon County and there is no other within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Leon County has written no moratorium on data centers, which is most of what the judge was telling his residents.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.kbtx.com/2025/12/24/leon-county-bracing-1500-megawatt-data-center/"
+  ],
+  "unconfirmed": "The broadcast report gives no acreage, no power source, no water figure and no timetable, so our 900 acres is uncorroborated. The county document our record cites was not read. What Belltown Power has actually applied for, and when, was not established; the same company's name appears on the BT Gateway filing in Hunt County elsewhere in this dataset."
+ },
+ {
+  "id": "ft-548",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Two 10 megawatt data centers are recorded in Matagorda County, Texas, from Barrio Energy, with no address beyond the county and no acreage.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The record rates its confidence in them low, and both its sources, a Data Center Dynamics report and a press release carried by a television station, refused requests.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "So what can be said is where they would be rather than what they are.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Matagorda County is where the South Texas Project sits, a 2,580 megawatt nuclear station thirteen kilometres from the point the record uses.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "The 151 megawatt Peyton Creek wind farm is also thirteen kilometres away, the 436 megawatt Sweeny cogeneration plant 41 and a 50 megawatt battery installation 42.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "Twenty megawatts beside two and a half gigawatts of nuclear is a rounding error.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in the county and there is no other within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Matagorda County has no moratorium; the statewide measure the record attaches, dated August 3, 2026, is Governor Abbott's direction to the Public Utility Commission of Texas and ERCOT to review data centers seeking to connect to the grid, their electricity and water demands, infrastructure, tax incentives, ownership and effect on communities.",
+    "src": "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+   },
+   {
+    "para": 2,
+    "t": "Nobody has objected to either of the two buildings, so far as anything on the record shows.",
+    "src": "data:fractracker"
+   }
+  ],
+  "sources": [
+   "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+  ],
+  "unconfirmed": "Neither source could be read. No site, acreage, timetable, power arrangement or local process was established for either of the two proposed 10 megawatt buildings, and our record rates its own confidence low. Who Barrio Energy is, and whether anything has been filed with the county, is unknown."
+ },
+ {
+  "id": "ft-1785354243651-4603",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Galaxy bought about 500 acres in the McGregor industrial park, in McLennan County, Texas, for a data center campus.",
+    "src": "https://www.prnewswire.com/news-releases/galaxy-expands-data-center-footprint-with-acquisition-of-500-acre-campus-in-mcgregor-texas-302836014.html"
+   },
+   {
+    "para": 0,
+    "t": "It paid the City of McGregor about $7.5 million under a development agreement, working with the city, the McGregor Economic Development Corporation and the Heart of Texas Electric Cooperative.",
+    "src": "https://www.prnewswire.com/news-releases/galaxy-expands-data-center-footprint-with-acquisition-of-500-acre-campus-in-mcgregor-texas-302836014.html"
+   },
+   {
+    "para": 0,
+    "t": "The first phase targets 74 megawatts and expects power in 2028, with the campus potentially reaching several hundred megawatts by 2030 once transmission is built.",
+    "src": "https://www.prnewswire.com/news-releases/galaxy-expands-data-center-footprint-with-acquisition-of-500-acre-campus-in-mcgregor-texas-302836014.html"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 75 megawatts here and, five kilometres away, 500 acres and $400 million under the name Project Merlin, which looks like the same campus recorded twice.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The commitments Galaxy made are specific.",
+    "src": "https://www.prnewswire.com/news-releases/galaxy-expands-data-center-footprint-with-acquisition-of-500-acre-campus-in-mcgregor-texas-302836014.html"
+   },
+   {
+    "para": 1,
+    "t": "It will build a private electrical substation, fund water infrastructure, use closed loop cooling, hire locally and pay full taxes from the first day.",
+    "src": "https://www.prnewswire.com/news-releases/galaxy-expands-data-center-footprint-with-acquisition-of-500-acre-campus-in-mcgregor-texas-302836014.html"
+   },
+   {
+    "para": 1,
+    "t": "It estimates at least $130 million added to the local property tax base, several hundred construction trade jobs and permanent full time operations roles at competitive salaries.",
+    "src": "https://www.prnewswire.com/news-releases/galaxy-expands-data-center-footprint-with-acquisition-of-500-acre-campus-in-mcgregor-texas-302836014.html"
+   },
+   {
+    "para": 1,
+    "t": "Mike Novogratz, Galaxy's founder and chief executive, framed the strategy: \"McGregor is the next step in our strategy to build a disciplined, multi-campus data center business. The demand for compute is a structural shift, not a passing cycle, and we believe the right way to meet it is by building infrastructure that strengthens the communities that host it.\"",
+    "src": "https://www.prnewswire.com/news-releases/galaxy-expands-data-center-footprint-with-acquisition-of-500-acre-campus-in-mcgregor-texas-302836014.html"
+   },
+   {
+    "para": 2,
+    "t": "Four data center sites are counted in McLennan County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "Meta's operating 152 megawatt Temple campus is 32 kilometres away and a 1,000 megawatt Lacy Lakeview project 39, under construction.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The generation nearby is all solar: a 161 megawatt farm 31 kilometres off, two 100 megawatt farms the same distance, and a 200 megawatt farm 35.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "McGregor and McLennan County have written no moratorium on data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.prnewswire.com/news-releases/galaxy-expands-data-center-footprint-with-acquisition-of-500-acre-campus-in-mcgregor-texas-302836014.html"
+  ],
+  "unconfirmed": "The company's own announcement does not use the name Project Merlin, so the link between this entry and our separate Merlin record rests on both describing a 500 acre Galaxy campus at McGregor five kilometres apart. Water volumes are not published. No public hearing or objection was found."
+ },
+ {
+  "id": "ft-1782766866044-1804",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The record holds Project Merlin as a 500 acre, $400 million proposal near the SpaceX rocket development site at McGregor, in McLennan County, Texas, five kilometres from an entry it calls the Galaxy Digital Data Center.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "Galaxy's own announcement describes one campus of about 500 acres in the McGregor industrial park, bought for about $7.5 million under a development agreement with the city.",
+    "src": "https://www.prnewswire.com/news-releases/galaxy-expands-data-center-footprint-with-acquisition-of-500-acre-campus-in-mcgregor-texas-302836014.html"
+   },
+   {
+    "para": 0,
+    "t": "No second Galaxy site is described anywhere, and the two entries look like one project recorded twice.",
+    "src": "https://www.prnewswire.com/news-releases/galaxy-expands-data-center-footprint-with-acquisition-of-500-acre-campus-in-mcgregor-texas-302836014.html"
+   },
+   {
+    "para": 1,
+    "t": "What Galaxy has committed to is a private electrical substation, funded water infrastructure, closed loop cooling, local hiring and full taxes from the first day.",
+    "src": "https://www.prnewswire.com/news-releases/galaxy-expands-data-center-footprint-with-acquisition-of-500-acre-campus-in-mcgregor-texas-302836014.html"
+   },
+   {
+    "para": 1,
+    "t": "The first phase targets 74 megawatts with power expected in 2028, growing to several hundred megawatts by 2030 if the transmission is built.",
+    "src": "https://www.prnewswire.com/news-releases/galaxy-expands-data-center-footprint-with-acquisition-of-500-acre-campus-in-mcgregor-texas-302836014.html"
+   },
+   {
+    "para": 1,
+    "t": "It estimates at least $130 million added to the local property tax base, several hundred construction jobs, and full time operations roles after that.",
+    "src": "https://www.prnewswire.com/news-releases/galaxy-expands-data-center-footprint-with-acquisition-of-500-acre-campus-in-mcgregor-texas-302836014.html"
+   },
+   {
+    "para": 2,
+    "t": "Four data center sites are counted in McLennan County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "Meta's operating 152 megawatt Temple campus is 31 kilometres away and Rowan's 300 megawatt Temple campus 40, under construction.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Generation nearby is solar: a 161 megawatt farm 34 kilometres off and three more between 35 and 35.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "McLennan County has no moratorium; the statewide measure the record attaches, dated August 3, 2026, is Governor Abbott's direction to the Public Utility Commission of Texas and ERCOT to review the electricity and water demands, infrastructure, tax incentives, ownership and community effects of data centers seeking to connect to the grid.",
+    "src": "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+   }
+  ],
+  "sources": [
+   "https://www.prnewswire.com/news-releases/galaxy-expands-data-center-footprint-with-acquisition-of-500-acre-campus-in-mcgregor-texas-302836014.html",
+   "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+  ],
+  "unconfirmed": "Whether Merlin and the Galaxy Digital entry are one project or two was not settled; the company's release names neither Merlin nor a second site, and the Data Center Dynamics report our record cites, headed as Galaxy eyeing a second Texas site, refuses our requests. The $400 million in our record matches a figure reported for the Galaxy campus in secondary coverage we could not open."
+ },
+ {
+  "id": "ft-550",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Experian's data center at 3400 South Stonebridge Drive in McKinney, in Collin County, Texas, is a bunker.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The building is about thirty miles north of Dallas, 74,500 square feet, mostly underground, with 16 inch concrete walls built to be hurricane proof and fake windows.",
+    "src": "https://finance.yahoo.com/news/high-tech-underground-bunker-where-144534417.html"
+   },
+   {
+    "para": 0,
+    "t": "It holds credit records on 220 million American consumers and 25 million American businesses, on close to a thousand servers, mirrored at a similar centre a few miles away and connected by what the account calls a giant tube of cables.",
+    "src": "https://finance.yahoo.com/news/high-tech-underground-bunker-where-144534417.html"
+   },
+   {
+    "para": 0,
+    "t": "The energy bill is $70,000 a month, down from $100,000 after efficiency work.",
+    "src": "https://finance.yahoo.com/news/high-tech-underground-bunker-where-144534417.html"
+   },
+   {
+    "para": 1,
+    "t": "The security is the part the company wants described.",
+    "src": "https://finance.yahoo.com/news/high-tech-underground-bunker-where-144534417.html"
+   },
+   {
+    "para": 1,
+    "t": "There are guards around the clock every day of the year, more than 10,000 intrusion sensors, badge and hand scan access, security cameras, and manual sign-in logs checked against badge activity.",
+    "src": "https://finance.yahoo.com/news/high-tech-underground-bunker-where-144534417.html"
+   },
+   {
+    "para": 1,
+    "t": "Susan Henson, senior director of Experian public relations, said the company uses sophisticated technology to watch for suspicious activity and compromised credentials, with anomalies flagged immediately.",
+    "src": "https://finance.yahoo.com/news/high-tech-underground-bunker-where-144534417.html"
+   },
+   {
+    "para": 2,
+    "t": "A thousand servers and $70,000 a month is a fraction of what the gigawatt campuses elsewhere in Texas would draw.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "The site is marked operating, with no capacity figure.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "Nine data center sites are counted in Collin County, with CyrusOne's and Compass's Allen sites seven kilometres away, T5's Dallas campus at Plano twelve, Stream's Plano Legacy site thirteen and CoreWeave's Plano building eighteen.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Lewisville wrote zoning limits on data centers on June 23, 2026 and the City of Sanger on May 18, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://finance.yahoo.com/news/high-tech-underground-bunker-where-144534417.html"
+  ],
+  "unconfirmed": "No megawatt figure, water use or build date is given, and our record holds none. The account is a company tour rather than independent reporting, and it gives no street address, so the address above is our record's. A comparison of the control room to a space shuttle launch facility, previously carried here, is not in the report and has come out. The environmental agency mapping layer our record also cites was not opened."
+ },
+ {
+  "id": "ft-1772656231892-1875",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The state construction register names a different owner for this Roberts County data center from the one the record holds.",
+    "src": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2026011989"
+   },
+   {
+    "para": 0,
+    "t": "Project Pumpkin 2A is registered as a single storey data center with associated central utility buildings at 8830 County Road 21, Miami, Texas, 761,000 square feet, at an estimated $400 million, designed by HDR Engineering of St Louis Park, Minnesota.",
+    "src": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2026011989"
+   },
+   {
+    "para": 0,
+    "t": "The owner is given as IP Meitner Land LLC, of Beaverton, Oregon, not Google, and no tenant is assigned.",
+    "src": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2026011989"
+   },
+   {
+    "para": 0,
+    "t": "It was registered on February 8, 2026, with a start of February 6, 2026 and completion on December 14, 2027.",
+    "src": "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2026011989"
+   },
+   {
+    "para": 1,
+    "t": "The record names Google as the developer and cites an article about Alphabet acquiring Intersect Power, which is the likely link: an Oregon company holding land for a data center with no named tenant is the shape these arrangements take.",
+    "src": "data:developer"
+   },
+   {
+    "para": 1,
+    "t": "The entry puts the site in Roberts County; the state register says Gray County.",
+    "src": "data:county"
+   },
+   {
+    "para": 1,
+    "t": "Miami, Texas is the seat of Roberts County, so one of the two is wrong.",
+    "src": "data:county"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Roberts County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "APR Energy's 400 megawatt Pampa campus, with its own gas plant, is 37 kilometres away and under construction.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The generation here is panhandle wind: the 289 megawatt Miami Wind Energy Center ten kilometres off, then nothing until an 80 megawatt farm at 61 and a 174 megawatt one at 63.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Neither Roberts County nor Gray County, whichever this site is in, has written a moratorium on data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.tdlr.texas.gov/TABS/Search/Print/TABS2026011989"
+  ],
+  "unconfirmed": "The state register gives no megawatt figure and our record holds none. Whether Google or Alphabet is behind IP Meitner Land LLC was not established from anything we could read; the Data Center Dynamics article our record cites refuses our requests. No county approval, hearing or local reaction was found, and our county and the register's disagree."
+ },
+ {
+  "id": "ft-551",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A data center is proposed on 320 acres about thirty minutes south east of Midland, in Midland County, Texas, from FO Permian Partners and HiVolt Energy.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The record rates its confidence low, holds no capacity figure, and cites one source, a Midland Reporter-Telegram article these tools cannot reach; nothing else describing it was found.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "What the location tells you is the grid.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 1,
+    "t": "This part of west Texas sits in the Southwest Power Pool rather than ERCOT, with a peak load the record puts at 48,687 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 1,
+    "t": "The 140 megawatt Pioneer Hutt wind farm is three kilometres from the point the record uses, the 197 megawatt Bearkat farm 30, Rattlesnake Den at 207 megawatts 38 and the 472 megawatt Quail Run gas plant 40.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Midland County, with a 100 megawatt Lone Star Project proposal 30 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Nothing around Midland is covered by a moratorium, and no objection to this proposal has been recorded.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The single source in our record could not be fetched and three searches on the two company names, the county and the acreage produced nothing describing the project. No megawatts, buildings, timetable, power arrangement or local process was established, and our record rates its own confidence low."
+ }
+]

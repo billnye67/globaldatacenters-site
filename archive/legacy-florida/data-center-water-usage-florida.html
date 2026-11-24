@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="robots" content="noindex,follow">
+<meta charset="UTF-8">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>How Much Water Do Data Centers Use? | FloridaDataCenters.org</title>
+    <meta property="og:image" content="https://floridadatacenters.org/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://floridadatacenters.org/og-image.png">
+<meta name="description" content="Real numbers on data center water consumption, what it means for Florida aquifers, and why cooling system choice matters. What Florida's 2026 legislation changes.">
+<meta name="keywords" content="data center water usage florida, how much water does a data center use, data center water consumption, data center cooling water, florida aquifer, evaporative cooling">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400&family=Work+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/styles.css">
+    <link rel="stylesheet" href="/risk-calculator.css">
+<link rel="stylesheet" href="/article.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://floridadatacenters.org/#org",
+      "name": "Florida Data Centers",
+      "url": "https://floridadatacenters.org",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://floridadatacenters.org/apple-touch-icon.png",
+        "width": 180,
+        "height": 180
+      },
+      "description": "Independent, non-commercial tracker of hyperscale and AI data center projects proposed across all 50 states, with the deepest coverage in Florida's 67 counties."
+    },
+    {
+      "@type": "Article",
+      "@id": "https://floridadatacenters.org/data-center-water-usage-florida#article",
+      "headline": "How Much Water Do Data Centers Use?",
+      "description": "Real numbers on data center water consumption in Florida, cooling system choice, and aquifer impact.",
+      "url": "https://floridadatacenters.org/data-center-water-usage-florida",
+      "datePublished": "2026-04-21",
+      "dateModified": "2026-04-22",
+      "author": {
+        "@id": "https://floridadatacenters.org/#org"
+      },
+      "publisher": {
+        "@id": "https://floridadatacenters.org/#org"
+      },
+      "articleSection": "Water & Environment",
+      "inLanguage": "en-US",
+      "mainEntityOfPage": "https://floridadatacenters.org/data-center-water-usage-florida"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://floridadatacenters.org/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Water Usage",
+          "item": "https://floridadatacenters.org/data-center-water-usage-florida"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much water does a data center use per day?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A single hyperscale data center can use between 1 million and 5 million gallons of water per day for cooling, comparable to the daily water needs of 10,000 to 50,000 people."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do Florida data centers use the Floridan Aquifer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Many proposed Florida data centers plan to draw from the Floridan Aquifer or local municipal water supplies. With 80% of Florida in extreme drought as of April 2026, this is increasingly controversial."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is evaporative cooling?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evaporative cooling uses water to dissipate heat from servers. It is highly water-intensive but energy-efficient. Closed-loop and air-cooling alternatives use less water but more electricity."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are there laws regulating data center water use in Florida?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Florida's 2026 legislative session included multiple bills (HB 1007, SB 484) addressing data center siting, water use disclosure, and permit requirements. Several water management districts have also adopted consumptive-use restrictions."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+    <script type="text/javascript">
+        (function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "whyg2fbg7c");
+    </script>
+</head>
+<body>
+<header class="masthead"><div class="wrap"><div class="masthead-inner"><div class="mast-meta js-date-full">Monday, April 20, 2026</div><div class="mast-title"><a href="/">Florida Data Centers<span class="dot">.</span></a></div><div class="mast-meta mast-meta-right">Est. 2026 · Independent</div></div></div></header>
+<div class="tagline-bar"><div class="wrap">Tracking every proposed hyperscale data center in Florida's 67 counties.</div></div>
+<nav class="county-nav"><div class="wrap"><div class="county-nav-inner">
+            <a href="/">Home</a>
+            <a href="/news">News</a>
+            <a href="/risk-calculator">Risk Calculator</a>
+            <a href="/your-rights">Your Rights</a>
+            <a href="/about">About</a>
+            <a href="/contact">Contact</a>
+        </div></div></nav>
+<div class="wrap"><div class="breadcrumb"><a href="/">Florida</a><span class="sep">/</span>Guide</div></div>
+
+<article>
+<section class="article-hero"><div class="wrap">
+<div class="article-kicker">Florida Homeowner Guide</div>
+<h1 class="article-title">How much water do data centers actually use?</h1>
+<p class="article-dek">The real numbers — by facility size, by cooling system, by Florida water management district. Plus what SB 484 now requires.</p>
+<div class="article-meta">Updated April 2026 · 6 min read · Educational, not legal advice</div>
+</div></section>
+
+<div class="article-body">
+<p class="lead-paragraph">A hyperscale data center using evaporative cooling consumes roughly the same water as 10,000 to 30,000 Florida households. That number is not exaggerated — it's drawn from developers' own water permit applications, published industry data, and New York Times investigative reporting. Whether it matters for your county depends on your regional water management district and how close that district is to its sustainable yield.</p>
+
+<h2>The real numbers</h2>
+<ul>
+<li><strong>Average data center:</strong> ~300,000 gallons per day (equivalent to 1,000 homes), per Science and Environmental Health Network 2025 analysis.</li>
+<li><strong>Typical hyperscale with evaporative cooling:</strong> 1 to 5 million gallons per day.</li>
+<li><strong>Largest Atlanta-region demand:</strong> one facility demanded 9 million gallons per day — equivalent to ~30,000 households (Chris Manganiello, Chattahoochee Riverkeeper).</li>
+<li><strong>Meta's Newton County, Georgia facility:</strong> approximately 500,000 gallons daily, roughly 10% of the county's total water consumption.</li>
+<li><strong>Mansfield, Georgia Meta site:</strong> 200 million gallons per year (~548,000 gallons daily average).</li>
+<li><strong>Bessemer, Alabama proposed facility:</strong> required 2 million gallons daily — one-third of the local utility's total water supply.</li>
+</ul>
+
+<h2>Why cooling choice determines water use</h2>
+<p>"Data center" is not one thing when it comes to water. The cooling system determines water consumption by an order of magnitude:</p>
+<ul>
+<li><strong>Evaporative cooling (most water-intensive):</strong> cooling towers evaporate water to remove heat. 1-5 million gallons per day typical. Most water lost to atmosphere as vapor.</li>
+<li><strong>Air cooling (much less water):</strong> powered fans move air through heat exchangers. Water consumption drops dramatically, electricity rises substantially.</li>
+<li><strong>Liquid immersion cooling (newer):</strong> specialized fluids absorb heat directly from equipment. Lower water consumption but specialized fluids have their own considerations.</li>
+<li><strong>Hybrid systems:</strong> combine methods — evaporative during hottest months, air cooling during cooler months.</li>
+</ul>
+<p>Florida's hot humid climate makes pure air cooling less efficient than northern dry climates. Developers often default to evaporative or hybrid cooling for Florida facilities. This is the single most consequential design choice from a water-consumption standpoint.</p>
+
+<h2>Where Florida's water comes from</h2>
+<p>Most of Florida's drinking water is drawn from the Floridan Aquifer, one of the world's largest freshwater aquifers. Recharged by rainfall in central and northern Florida. The South Florida Water Management District — covering most population centers from Orlando south — already faces water supply constraints tied to Everglades restoration, saltwater intrusion, and population growth.</p>
+<p>A hyperscale facility drawing 2-3 million gallons daily from an already-constrained water supply is a meaningfully different thing from the same facility drawing the same amount from the Suwannee River or Northwest Florida districts, which have more abundant water.</p>
+
+<div class="callout-case">
+<p>In Newton County, Georgia, Meta's data center consumes approximately 500,000 gallons per day — roughly 10% of the county's total daily water consumption. County water rates are rising 33% over two years, compared to typical 2% annual increases, partly to fund infrastructure upgrades. The Newton County Water and Sewerage Authority projects the county will reach water deficit status by 2030.</p>
+<span class="source">Source: Mike Hopkins, Newton County Water and Sewerage Authority, reported by the New York Times, July 2025.</span>
+</div>
+
+<h2>What SB 484 actually requires</h2>
+<p>SB 484, effective July 1, 2026, creates specific requirements for large-scale data center consumptive use permits:</p>
+<ul>
+<li>Applications must be treated as new initial applications, not rubber-stamped modifications</li>
+<li>Water management districts and the Florida DEP are authorized to <em>require</em> use of reclaimed water for a portion of the data center's allocation where feasible</li>
+<li>Approval without a public hearing is prohibited in specific circumstances</li>
+<li>Modifications to an existing permit trigger the same full review as a new application</li>
+</ul>
+<p>The reclaimed water requirement is meaningful. If a developer is required to use treated reclaimed water instead of drawing from the drinking water aquifer, impact on residential water supply is reduced substantially.</p>
+
+<h2>What to ask at a water permit hearing</h2>
+<p>Each water management district governing board meets publicly. If water is your concern, this is the hearing to attend — often more consequential than the county commission hearing. Key questions:</p>
+<ul>
+<li><strong>Total requested water allocation in gallons per day</strong></li>
+<li><strong>Source:</strong> surface water (lake, river), aquifer (which formation), or reclaimed water</li>
+<li><strong>Cooling system design:</strong> evaporative vs. air vs. hybrid — determines peak summer use</li>
+<li><strong>Will the developer use reclaimed water, and for what percentage?</strong> Under SB 484, the board can now require this.</li>
+<li><strong>Impact on nearby wells?</strong> Application's hydrogeological analysis should address this. Read skeptically.</li>
+<li><strong>Monitoring and reporting requirements after operation begins?</strong> Continuous reporting should be a condition.</li>
+</ul>
+
+<section class="section rc-cta-section">
+            <div class="wrap">
+                <div class="rc-cta">
+                    <div class="rc-cta-kicker">What you can do</div>
+                    <h2 class="rc-cta-heading">If water is your concern, we built a personalized brief for you.</h2>
+                    <p class="rc-cta-body">Your opposition letter gives you a clear picture of the specific facility near your home, what it could mean for your property, and what to do next — written for your exact address, your county, and your specific concerns. $9, delivered in 60 seconds.</p>
+                    <a href="/take-action" class="rc-cta-button" style="display:inline-block;text-decoration:none;text-align:center;">Take Action Now — $9</a>
+                </div>
+            </div>
+        </section>
+
+<h2>The bottom line</h2>
+<p>Cooling choice is the biggest factor. A hyperscale facility with full evaporative cooling in South Florida is qualitatively different from the same facility using hybrid cooling with mandated reclaimed water in the Suwannee River district. Pulling the actual application through a Chapter 119 records request, reading the hydrogeological study, and engaging the water management district directly are the specific actions that shape the outcome. Florida now has the regulatory structure to require meaningful mitigation. Whether that structure gets used depends on whether homeowners show up to use it.</p>
+
+<p style="margin-top: 40px; color: var(--ink-fade); font-style: italic; font-size: 0.95rem;">This guide is educational and not legal advice. Before taking action that may affect your property or your legal rights, consult a Florida-licensed attorney.</p>
+</div>
+
+<section class="related-section">
+<div class="wrap-narrow" style="max-width: 820px; margin: 0 auto; padding: 0 32px;">
+<div class="article-kicker" style="margin-bottom: 8px;">Resident guides</div>
+<h2 style="font-family: 'Fraunces', serif; font-size: 1.6rem; margin: 0 0 18px 0;">More on what data centers mean for Florida residents</h2>
+<ul style="list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 8px 24px;">
+<li><a href="/data-center-well-water-florida" class="in-text-link">Well water contamination</a></li>
+<li><a href="/data-center-electric-bill-florida" class="in-text-link">Your FPL / Duke / electric bill</a></li>
+<li><a href="/data-center-noise-florida" class="in-text-link">Industrial noise &amp; decibels</a></li>
+<li><a href="/data-center-property-value-florida" class="in-text-link">Property value impact</a></li>
+<li><a href="/data-center-health-risks-florida" class="in-text-link">Health risks &amp; air quality</a></li>
+<li><a href="/data-center-near-my-home-florida" class="in-text-link">Is one near my home?</a></li>
+<li><a href="/data-center-hoa-florida" class="in-text-link">HOA &amp; deed restrictions</a></li>
+<li><a href="/selling-home-near-data-center-florida" class="in-text-link">Selling a home near a data center</a></li>
+<li><a href="/find-data-center-proposal-florida" class="in-text-link">How to find a proposal</a></li>
+<li><a href="/florida-county-commission-hearing-data-center" class="in-text-link">County commission hearings</a></li>
+<li><a href="/florida-public-comment-letter-data-center" class="in-text-link">Writing a public comment letter</a></li>
+<li><a href="/stop-data-center-florida" class="in-text-link">How communities stop data centers</a></li>
+<li><a href="/data-centers-coming-to-florida" class="in-text-link">Data centers coming to Florida</a></li>
+<li><a href="/what-is-a-hyperscale-data-center" class="in-text-link">What is a hyperscale data center?</a></li>
+</ul>
+</div></section>
+</article>
+
+<section class="section" id="signup" style="padding: 30px 0 60px;">
+    <div class="wrap">
+        <div class="signup-box">
+            <div>
+                <div class="signup-title">They&#39;ll approve the next one <em>before you hear about it.</em></div>
+                <p class="signup-sub">One email when data center filings, votes, tax deals, or ballot deadlines hit your county. Sourced from public records and local reporting nationwide.</p>
+            </div>
+            <form class="signup-form" action="/api/contact" method="post">
+                <div class="signup-eyebrow">2,400+ residents subscribed</div>
+                <input type="email" name="email" class="signup-input" placeholder="your@email.com" required>
+                <input type="hidden" name="type" value="newsletter">
+                <button type="submit" class="signup-btn">Get county alerts</button>
+                <div class="signup-foot">No spam. Unsubscribe anytime.</div>
+            </form>
+        </div>
+    </div>
+</section>
+
+<section class="section" style="padding: 0 0 55px;">
+    <div class="wrap" style="text-align: center;">
+        <a href="https://www.facebook.com/share/g/1BS4kskLw1/" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 8px; background: #1877F2; color: #fff; padding: 13px 28px; font-family: 'Work Sans', sans-serif; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; text-decoration: none; border: none; cursor: pointer;">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="white"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+            Join the Stop Data Centers group
+        </a>
+        <p style="font-size: 0.78rem; color: var(--ink-fade); font-style: italic; margin-top: 12px;">Public group &middot; Free to join</p>
+    </div>
+</section>
+
+<footer class="footer"><div class="wrap"><div class="footer-grid">
+<div><div class="footer-brand">Florida Data Centers<span class="dot">.</span></div><p class="footer-about">An independent tracker of proposed hyperscale data center projects across Florida's 67 counties.</p></div>
+<div><div class="footer-heading">Resources</div><ul class="footer-links"><li><a href="/news">Nationwide News</a></li>
+                    <li><a href="/about">About</a></li><li><a href="/sources">Sources</a></li><li><a href="/contact">Contact</a></li>
+                    <li><a href="/support">Support This Project</a></li></ul></div>
+</div><div class="footer-legal"><div>© <span class="js-year">2026</span> floridadatacenters.org · Educational. Not legal, financial, or environmental advice.</div></div></div></footer>
+<script>(function(){const today=new Date();document.querySelectorAll('.js-date-full').forEach(el=>el.textContent=today.toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric'}));document.querySelectorAll('.js-year').forEach(el=>el.textContent=today.getFullYear());})();</script>
+</body></html>

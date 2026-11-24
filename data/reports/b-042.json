@@ -1,0 +1,378 @@
+[
+ {
+  "id": "developers2-cyrusone-council-bluffs-ocb1",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CyrusOne's Council Bluffs data center sits in Pottawattamie County, Iowa, about 5 kilometers from the 1,512 megawatt Walter Scott Jr Energy Center, a coal plant.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 0,
+    "t": "The larger neighbor is Google, whose Council Bluffs campus draws 237 megawatts about 9 kilometers away, one of three data centers in the county.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Google's campus has been expanded repeatedly since 2009 and is approaching 300 megawatts. Council Bluffs gave it a 20 year tax abatement on the original building and has renewed incentives at each expansion, with state exemptions running 20 years at 70 percent so long as job and employment thresholds are met.",
+    "src": "https://www.datacenterfrontier.com/hyperscale/article/55093750/google-continues-to-invest-in-iowa-with-another-1-billion-planned-for-its-council-bluffs-campus"
+   },
+   {
+    "para": 1,
+    "t": "That campus alone has taken more than $36 million in tax incentives. MidAmerican Energy serves it from the Council Bluffs 345 kilovolt substation, and Google contracted for up to 407 megawatts of wind power for the site.",
+    "src": "https://www.datacenterfrontier.com/hyperscale/article/55093750/google-continues-to-invest-in-iowa-with-another-1-billion-planned-for-its-council-bluffs-campus"
+   },
+   {
+    "para": 2,
+    "t": "A proposed 200 megawatt Edged data center sits about 8 kilometers away, a TierPoint site about 16 kilometers away and a 17 megawatt H5 site about 18 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterfrontier.com/hyperscale/article/55093750/google-continues-to-invest-in-iowa-with-another-1-billion-planned-for-its-council-bluffs-campus",
+   "https://www.datacentermap.com/c/cyrusone/datacenters"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use, employment figure or tax arrangement specific to the CyrusOne building was found, and no local coverage or objection about it. The incentive figures given here are Google's, not CyrusOne's."
+ },
+ {
+  "id": "developers2-cyrusone-whitney-hill-county",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The power plant came first. CyrusOne is building its data center next door to it, and taking the electricity straight off it without touching the public grid.",
+    "src": "https://www.calpine.com/calpine-and-cyrusone-announce-thad-hill-energy-center-powered-land-to-support-hyperscale-data-center-development-in-texas/"
+   },
+   {
+    "para": 0,
+    "t": "The Thad Hill Energy Center is a Calpine combined cycle gas plant of about 250 megawatts nameplate, commissioned in 2010, on County Road 3610 near Whitney in Bosque County.",
+    "src": "https://hoodline.com/2025/12/tiny-whitney-braces-as-cyrusone-drops-400-megawatt-data-center-bombshell/"
+   },
+   {
+    "para": 0,
+    "t": "Calpine agreed to supply 190 megawatts to the adjacent campus, and calls the arrangement powered land: generation, grid connection and real estate sold together.",
+    "src": "https://www.calpine.com/calpine-and-cyrusone-announce-thad-hill-energy-center-powered-land-to-support-hyperscale-data-center-development-in-texas/"
+   },
+   {
+    "para": 1,
+    "t": "The campus is a $1.2 billion investment. The first phase covers more than 190,000 square feet, construction is under way and operations are expected in the last quarter of 2026.",
+    "src": "https://www.calpine.com/calpine-and-cyrusone-announce-thad-hill-energy-center-powered-land-to-support-hyperscale-data-center-development-in-texas/"
+   },
+   {
+    "para": 1,
+    "t": "Filings cover three further single story buildings, DFW17, DFW17B and DFW17C, budgeted at $375 million, $500 million and $430 million, ranging from about 88,875 to 249,090 square feet, with construction windows running from 2025 to 2027.",
+    "src": "https://hoodline.com/2025/12/tiny-whitney-braces-as-cyrusone-drops-400-megawatt-data-center-bombshell/"
+   },
+   {
+    "para": 2,
+    "t": "Rick Pena, executive vice president of corporate development at Calpine, said: \"This first-of-its-kind project establishes Calpine as a leader in reliable, scalable power solutions for hyperscale customers.\" CyrusOne's chief operating officer, John Hatem, said the company was \"proud to be part of this landmark project, which combines dedicated power and data center expertise to deliver a unique, mission-critical solution to our customers.\"",
+    "src": "https://www.calpine.com/calpine-and-cyrusone-announce-thad-hill-energy-center-powered-land-to-support-hyperscale-data-center-development-in-texas/"
+   },
+   {
+    "para": 3,
+    "t": "Texas imposed a state grid connection moratorium on August 3, 2026, which a site taking its power behind the meter does not need to clear.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "A 1,000 megawatt data center is under construction at Lacy Lakeview about 32 kilometers away, and a Provident data center is proposed about 35 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.calpine.com/calpine-and-cyrusone-announce-thad-hill-energy-center-powered-land-to-support-hyperscale-data-center-development-in-texas/",
+   "https://hoodline.com/2025/12/tiny-whitney-braces-as-cyrusone-drops-400-megawatt-data-center-bombshell/",
+   "https://www.datacentermap.com/c/cyrusone/datacenters"
+  ],
+  "unconfirmed": "Calpine's release covers 190 megawatts; the further 210 megawatts that takes the campus to 400 is reported only by Hoodline, and no Calpine or CyrusOne statement we could read confirms it."
+ },
+ {
+  "id": "developers2-cyrusone-allen",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CyrusOne's Allen campus is at Chelsea Boulevard and Ridgeview Drive, north of Dallas in Collin County, Texas.",
+    "src": "https://therealdeal.com/texas/dallas/2023/10/05/cyrusone-plans-32m-data-center-in-allen/"
+   },
+   {
+    "para": 0,
+    "t": "The company owns about 90 acres there, and at full build it is the largest data center campus in Texas.",
+    "src": "https://www.cyrusone.com/data-centers/north-america/allen-texas"
+   },
+   {
+    "para": 0,
+    "t": "The existing building at 2300 Chelsea Boulevard runs to 976,000 square feet and 50 megawatts, announced in 2017; in October 2023 CyrusOne filed for another of 126,000 square feet at about $32 million.",
+    "src": "https://therealdeal.com/texas/dallas/2023/10/05/cyrusone-plans-32m-data-center-in-allen/"
+   },
+   {
+    "para": 1,
+    "t": "Chelsea Boulevard is a small suburban road lined with tightly packed single family homes.",
+    "src": "https://therealdeal.com/texas/dallas/2023/10/05/cyrusone-plans-32m-data-center-in-allen/"
+   },
+   {
+    "para": 1,
+    "t": "The largest data center campus in the state is being built against them.",
+    "src": "https://therealdeal.com/texas/dallas/2023/10/05/cyrusone-plans-32m-data-center-in-allen/"
+   },
+   {
+    "para": 2,
+    "t": "Nine data centers sit in Collin County, with an Experian site about seven kilometers away.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "Texas regulators ordered a statewide pause on new large load grid connections on August 3, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://therealdeal.com/texas/dallas/2023/10/05/cyrusone-plans-32m-data-center-in-allen/",
+   "https://www.cyrusone.com/data-centers/north-america/allen-texas"
+  ],
+  "unconfirmed": "Three searches found no hearing record, no objection and no resident quoted about the Allen campus."
+ },
+ {
+  "id": "developers2-cyrusone-san-antonio-omicron",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "San Antonio has about two dozen data centers and 59 more projects at various stages, and the city is now working out what to do about it.",
+    "src": "https://sanantonioreport.org/risk-opportunity-san-antonio-water-electricity-data-centers/"
+   },
+   {
+    "para": 0,
+    "t": "CyrusOne's Omicron Drive site is in the western cluster of Bexar County, with Vantage TX1 at the same address, CloudHQ about 1 kilometer away, and Microsoft's 75 megawatt SAT40 and Texas Research Park sites about 2 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Elaina Ball, chief strategy officer at the municipal utility CPS Energy, reported 21 data centers currently drawing power, generating $110 million in revenue under existing contracts. Customers using 40 megawatts or more make up 9 percent of the utility's sales now, and are expected to reach 19 percent within five years.",
+    "src": "https://sanantonioreport.org/risk-opportunity-san-antonio-water-electricity-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "The projects in the pipeline have asked for about 26,000 megawatts between them. One megawatt powers roughly 250 homes.",
+    "src": "https://sanantonioreport.org/risk-opportunity-san-antonio-water-electricity-data-centers/"
+   },
+   {
+    "para": 2,
+    "t": "Donovan Burton, senior vice president for water resources and governmental relations at the San Antonio Water System, put the city's position this way: \"We see the data centers in San Antonio as both a risk and an opportunity.\"",
+    "src": "https://sanantonioreport.org/risk-opportunity-san-antonio-water-electricity-data-centers/"
+   },
+   {
+    "para": 2,
+    "t": "Data centers take about 0.1 percent of the city's drinking water. The share of their water that is recycled rose from 48 percent in 2023 to 75 percent in 2025. Future requests come to roughly 600 acre-feet of drinking water and 3,000 acre-feet of recycled water, against a recycled system that can supply about 30,000 acre-feet and delivered about 20,000 in 2025.",
+    "src": "https://sanantonioreport.org/risk-opportunity-san-antonio-water-electricity-data-centers/"
+   }
+  ],
+  "sources": [
+   "https://sanantonioreport.org/risk-opportunity-san-antonio-water-electricity-data-centers/",
+   "https://www.datacentermap.com/c/cyrusone/datacenters"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure specific to the CyrusOne Omicron building was found. The city and utility figures given here cover all San Antonio data centers, not this one."
+ },
+ {
+  "id": "developers2-cyrusone-san-antonio-westover-hills",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Westover Hills is where San Antonio put its data centers. Council District 6, which covers this part of the west side, has the highest concentration in the city, according to Councilman Ric Galvan.",
+    "src": "https://sanantonioreport.org/risk-opportunity-san-antonio-water-electricity-data-centers/"
+   },
+   {
+    "para": 0,
+    "t": "CyrusOne's building on Westover Hills Boulevard, in Bexar County, shares its address with Stream's 135 acre San Antonio II campus, with Microsoft's 47 megawatt SAT14 about 1 kilometer away, QTS about 3 kilometers away and a 200 megawatt Stream site under construction about 5 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The city council was briefed by CPS Energy and the San Antonio Water System on March 4 about what this growth means for power and water, and Mayor Gina Ortiz Jones has pushed for amendments to the development code.",
+    "src": "https://sanantonioreport.org/risk-opportunity-san-antonio-water-electricity-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "Galvan has pressed both utilities to act on the water and power questions.",
+    "src": "https://sanantonioreport.org/risk-opportunity-san-antonio-water-electricity-data-centers/"
+   },
+   {
+    "para": 2,
+    "t": "Bexar County holds 14 data centers, and the state grid connection moratorium has been in force since August 3, 2026.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://sanantonioreport.org/risk-opportunity-san-antonio-water-electricity-data-centers/",
+   "https://www.datacentermap.com/c/cyrusone/datacenters"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure specific to this CyrusOne building was found, and no record of the city approval that permitted it. Whether San Antonio's code amendments have since been adopted, and whether they include a moratorium, was not established."
+ },
+ {
+  "id": "developers2-cyrusone-broadlands-ashburn",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CyrusOne's Broadlands campus is four data center buildings off Broadlands Boulevard in Ashburn, in a Loudoun County that holds about 50 of them.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "Two Compass sites are about 2 kilometers away, Google's Loudoun County campus about 3 kilometers away, and Oracle Ashburn and CloudHQ about 4 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Loudoun had 199 operating data centers with another 117 in development, according to Michael Turner, vice chair of the county board's transportation and land use committee. Data centers made up 24 percent of Dominion's Virginia electricity sales in 2023.",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 1,
+    "t": "Dominion is spending $50.1 billion on capital projects between 2025 and 2029 to keep up, and has proposed a 14 percent residential rate increase for 2026.",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 2,
+    "t": "The counties around Loudoun have taken a different view: a ban at Warrenton, a moratorium and zoning limits in Montgomery County, and zoning limits in Fairfax, Fauquier and Prince William counties.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/",
+   "https://www.datacentermap.com/c/cyrusone/datacenters"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure specific to the Broadlands campus was found, and no county approval record or local objection about it. The Virginia figures given here are countywide."
+ },
+ {
+  "id": "developers2-cyrusone-sterling-ridgetop",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CyrusOne has at least four data centers within 2 kilometers of this one in Sterling, in Loudoun County, Virginia: an EdgeCore campus at the same address as the Ridgetop Circle building, CyrusOne Sterling NVA8 about 1 kilometer away, CyrusOne Sterling NVA5 to NVA7 about 2 kilometers away, and a Tencent Cloud site about 2 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "What that concentration now forces is a fight over rates. Delegate Irene Shin of Fairfax introduced House Bill 2084 in the 2025 General Assembly session, which would have put data centers and other very large users in their own rate class.",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 1,
+    "t": "Utilities and operators opposed it, warning it would deter investment, and legislators removed the mandatory language, directing the State Corporation Commission to study whether the current classes are fair instead.",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 1,
+    "t": "Shin said: \"It is up to industry to pay their fair share of what we know are the incredibly exorbitant costs to service data centers.\" Robert Richardson, a Dominion transmission communications consultant, said data centers \"do pay their fair share for these infrastructure projects. In fact, they probably pay a lot more because they are high-energy use customers.\"",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   },
+   {
+    "para": 2,
+    "t": "Dominion projects data center peak demand in Virginia could reach 13.3 gigawatts by 2038, up from about 2.8 gigawatts in 2022.",
+    "src": "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/"
+   }
+  ],
+  "sources": [
+   "https://broadbandbreakfast.com/dateline-ashburn-data-centers-drive-new-energy-disputes-in-northern-virginia/",
+   "https://www.datacentermap.com/c/cyrusone/datacenters"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure specific to the Ridgetop building was found. Whether the State Corporation Commission study has reported was not established."
+ },
+ {
+  "id": "developers2-cyrusone-quincy-pnw1",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CyrusOne's PNW1 building is one of roughly 30 data centers in Quincy, a farming town of about 8,500 people in Grant County, Washington, which between them pay an estimated 57 percent of the town's property taxes.",
+    "src": "https://www.opb.org/article/2025/08/20/some-are-concerned-about-the-future-of-washington-s-data-center-boom/"
+   },
+   {
+    "para": 0,
+    "t": "That money paid for a $15 million aquatic center, a $120 million high school and a sports complex due to open next year.",
+    "src": "https://www.opb.org/article/2025/08/20/some-are-concerned-about-the-future-of-washington-s-data-center-boom/"
+   },
+   {
+    "para": 1,
+    "t": "The Grant County Public Utility District, which supplies the town with Columbia River hydroelectricity, has 79 pending applications in its queue, most of them data centers. Together they would need roughly double the electricity demand of the whole city of Seattle.",
+    "src": "https://www.opb.org/article/2025/08/20/some-are-concerned-about-the-future-of-washington-s-data-center-boom/"
+   },
+   {
+    "para": 1,
+    "t": "City Administrator Pat Haley has said hydropower and water in Grant County are maxed out. Residential power rates in the county rose 3.5 percent last year, while rates for large industrial customers rose 9.1 percent.",
+    "src": "https://www.opb.org/article/2025/08/20/some-are-concerned-about-the-future-of-washington-s-data-center-boom/"
+   },
+   {
+    "para": 2,
+    "t": "Microsoft Columbia stands about 1 kilometer away, NTT Quincy about 2 kilometers away, and Vantage Quincy and Sabey's Intergate campus about 4 kilometers away, six data centers in Grant County in all.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.opb.org/article/2025/08/20/some-are-concerned-about-the-future-of-washington-s-data-center-boom/",
+   "https://www.datacentermap.com/c/cyrusone/datacenters"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure specific to the CyrusOne PNW1 building was found. The tax, water and rate figures given here describe the town and its data centers collectively."
+ },
+ {
+  "id": "developers2-cyrusone-frankfurt-wilhelm-fay",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "From July 1, 2026, a data centre commissioned in Germany has to give at least a tenth of its waste heat to someone else.",
+    "src": "https://thecoolingreport.com/intel/germany-heat-reuse-mandate"
+   },
+   {
+    "para": 0,
+    "t": "The Energieeffizienzgesetz, passed in September 2023, sets an energy reuse factor of 10 percent for new facilities from that date, rising to 15 percent on January 1, 2027, when they must also run on 100 percent renewable electricity, and 20 percent from January 1, 2028.",
+    "src": "https://thecoolingreport.com/intel/germany-heat-reuse-mandate"
+   },
+   {
+    "para": 0,
+    "t": "New buildings must also hit a power usage effectiveness of 1.2 or better immediately. Existing buildings are exempt from the heat rules but must reach 1.5 by July 2027 and 1.3 by July 2030. The law covers any data centre drawing 300 kilowatts or more, which is most of Germany's 2,000 or so commercial sites. Fines run from 50,000 to 100,000 euro.",
+    "src": "https://thecoolingreport.com/intel/germany-heat-reuse-mandate"
+   },
+   {
+    "para": 1,
+    "t": "Frankfurt operators have begun complying. Equinix has connected three of its Frankfurt sites to supply heat for about 1,000 households in the Griesheim district, running since 2025. Telehouse Germany supplies the FRANKY residential quarter with more than 60 percent of its heating and hot water. Digital Realty works with the utility Mainova to heat the Westville residential project, cutting about 400 tonnes of CO2 a year. Cloud&Heat Technologies heats a hotel and the rest of the Eurotheum building.",
+    "src": "https://thecoolingreport.com/intel/germany-heat-reuse-mandate"
+   },
+   {
+    "para": 2,
+    "t": "CyrusOne's Wilhelm-Fay-Strasse site is one of seven buildings the company runs in Frankfurt. Digital Realty's Sossenheim campus is about 1 kilometre away, NTT's Ruesselsheim campus and China Telecom Global about 2 kilometres away, and CyrusOne's own FRA7 and Equinix's north campus about 4 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://thecoolingreport.com/intel/germany-heat-reuse-mandate",
+   "https://www.datacentermap.com/c/cyrusone/datacenters"
+  ],
+  "unconfirmed": "No capacity, square footage, opening date, water use or employment figure was found for the Wilhelm-Fay-Strasse building, and no source reached says whether CyrusOne supplies waste heat to anything in Frankfurt or which of its buildings fall under the new rules. Our record describes the site as in development in one place and operating in another."
+ },
+ {
+  "id": "developers2-cyrusone-dublin-dub1",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CyrusOne's DUB1 data centre sits in Grange Castle Business Park in west Dublin, on ground it shares with Microsoft's Grange Castle campus, Digital Realty's DUB3 and DUB4 and Equinix's xScale Dublin sites, with Google Dublin about a kilometre away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Ireland stopped connecting new data centres around Dublin to the grid because of clusters like this one. From 2021 the Commission for Regulation of Utilities had the grid operator EirGrid halt standard connection applications in the Greater Dublin Area, after warnings that demand risked rolling blackouts.",
+    "src": "https://www.energyconnects.com/news/utilities/2025/december/ireland-ends-moratorium-on-new-power-links-to-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "The freeze was lifted on December 12, 2025, replaced by conditions: on-site generation or batteries able to meet full demand, power returned to the grid when needed, at least 80 percent of annual electricity from new renewable projects, and annual reporting on renewable use and emissions.",
+    "src": "https://www.energyconnects.com/news/utilities/2025/december/ireland-ends-moratorium-on-new-power-links-to-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "Data centres now take close to a quarter of Ireland's electricity, more than every urban household combined, up from about 5 percent a decade ago.",
+    "src": "https://www.energyconnects.com/news/utilities/2025/december/ireland-ends-moratorium-on-new-power-links-to-data-centers/"
+   }
+  ],
+  "sources": [
+   "https://www.energyconnects.com/news/utilities/2025/december/ireland-ends-moratorium-on-new-power-links-to-data-centers/",
+   "https://www.datacentermap.com/c/cyrusone/datacenters"
+  ],
+  "unconfirmed": "No capacity, size, opening date, water use, employment figure or planning history specific to DUB1 was found, and no Irish local coverage of it. Whether the building predates the 2021 connection freeze is not established."
+ }
+]

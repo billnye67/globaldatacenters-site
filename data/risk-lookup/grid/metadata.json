@@ -1,0 +1,18 @@
+{
+  "source": "Arderne et al., Predictive mapping of the global power system using open data, version 1.1.1 (2020)",
+  "url": "https://zenodo.org/records/3628142",
+  "catalogUrl": "https://datacatalog.worldbank.org/search/dataset/0038055/derived-map-of-global-electricity-transmission-and-distribution-lines",
+  "sourceMd5": "e5d0e9bd8ce4de851e65c6adae1af386",
+  "license": "CC BY 4.0; OpenStreetMap-sourced portions also require OSM/ODbL attribution",
+  "accessed": "2026-09-25",
+  "sourceFeatures": {
+    "openstreetmap": 1819344,
+    "gridfinder": 1858899,
+    "other": 0
+  },
+  "resolutionDegrees": 0.05,
+  "tileDegrees": 10,
+  "tileBytes": 10000,
+  "tiles": 231,
+  "limitations": "Line locations include modeled predictions. Proximity does not establish voltage, spare grid capacity, or service availability."
+}

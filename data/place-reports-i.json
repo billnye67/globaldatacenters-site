@@ -1,0 +1,191 @@
+{
+ "/company/tract/": {
+  "paragraphs": [
+   "Tract gets large sites ready for data centers: it rezones the land, builds roads, grades pads and brings in water, sewer and power, then sells or leases the land to the companies that build the data centers. It says it holds more than 20,000 acres in ten markets. Its founder, Grant van Rooyen, previously ran the data center company Cologix. Its newest proposal is the Haven Oak Technology Park on nearly 1,000 acres at White Oak Road and Claiborne Road in Dinwiddie County, Virginia.",
+   "At a meeting on September 22, residents asked about their wells and a Civil War battlefield on the site. Tract said it would keep buildings off the battlefield and use closed-loop cooling, cutting estimated water use by 96 to 97 percent. In July it showed Goochland County a 900-megawatt plan on 870 acres next to Mosaic, a neighborhood of more than 500 homes for people over 55. \"We want to make sure that everyone understands that we don't want data centers in Goochland,\" resident Cynthia Haas said.",
+   "Hanover County supervisors rejected Tract's 900-megawatt Mountain Road Technology Park on 430 acres by one vote on May 27. In Arizona it withdrew a $14 billion, 1,000-acre complex near Buckeye after objections from Buckeye and Goodyear city staff. In Nevada, NV Energy has sued Tract, saying it is using private arbitration to settle its power arrangements out of regulators' sight. On September 17 state regulators approved two gas plants to run Tract's sites at the Tahoe Reno Industrial Center until the utility can connect them."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/analysis/building-for-the-long-term-grant-van-rooyens-tract-masterplan/",
+   "https://www.12onyourside.com/2026/09/23/dinwiddie-residents-question-data-center-developer-public-meeting/",
+   "https://virginiamercury.com/2026/07/27/goochland-residents-rebuff-data-center-developer-tract-ahead-of-permit-application/",
+   "https://www.datacenterdynamics.com/en/news/tracts-430-acre-data-center-rejected-by-local-officials-in-hanover-county-virginia/",
+   "https://thenevadaindependent.com/article/nevadas-electric-utility-is-suing-a-major-data-center-company-heres-why",
+   "https://nevadacurrent.com/2026/09/18/public-utility-commission-approves-gas-plants-to-power-data-centers/"
+  ]
+ },
+ "/company/powerhouse-data-centers/": {
+  "paragraphs": [
+   "PowerHouse Data Centers, a Virginia-based developer set up in 2022 as a division of American Real Estate Partners, works with Poe Companies, a Louisville real estate firm new to data centers, on two contested Kentucky campuses. Louisville's Planning Commission approved PowerHouse and Poe's Camp Ground Road campus near Shively 6 to 1 on March 5, 2026: a first phase of 130 megawatts of power due by the end of 2026, growing to 400 megawatts across seven buildings. On July 27, 2026 the same two companies announced options to buy 550 acres in Carroll County for a second, $9.6 billion campus, the Carrollton Industrial Campus.",
+   "More than twenty people opposed the Louisville project over pollution and its draw on local water and electricity. Commissioner William Fischer said the panel could judge it only against the city's land development code, not \"the bigger issues you came up here with.\" The project moved forward under the code's undefined \"telecommunications hotel\" category, needs no Metro Council vote, and will draw 400 megawatts through an on-site substation with a diesel generator at each warehouse.",
+   "In Carrollton, Mayor Robb Adams signed an unrecorded option to sell 340 acres of city land in July 2025, more than a year before the project was announced; residents learned only after closed-door council votes on unnamed \"properties.\" Resident Amy Wright said she does not trust the developers' promised 320 jobs or $64 million in school tax revenue: \"I don't trust the jobs numbers. I don't trust the tax numbers.\" Carroll County's fiscal court voted in August 2026 to start building the county's first zoning commission, a process expected to take years."
+  ],
+  "sources": [
+   "https://www.lpm.org/news/2026-03-05/west-louisville-data-center-approved-despite-opposition",
+   "https://www.datacenterdynamics.com/en/news/powerhouse-and-poe-target-another-550-acre-data-center-campus-outside-louisville-kentucky/",
+   "https://www.lpm.org/news/2026-08-24/neighbors-to-kentucky-hyperscale-data-centers-demand-transparency"
+  ]
+ },
+ "/company/yotta-hiranandani/": {
+  "paragraphs": [
+   "Yotta, the data center arm of the Mumbai-based Hiranandani Group, runs four operating hyperscale data centers in India: two in Navi Mumbai and one each in Noida and Gujarat, chairman Darshan Hiranandani told Bloomberg in August 2026. Eight smaller local facilities are planned. The company is aiming for 400 megawatts of power capacity within 12 to 18 months and says talks are under way on a stock market listing in India, though Hiranandani would not give a valuation.",
+   "Outside India, Yotta formed a joint venture with Nepal's BLC Holding in April 2024 to build a 4-megawatt data center called K1 at Ramkot, about 20 kilometers from Kathmandu, on a three-acre plot; it was expected to open within two years.",
+   "A plan to list on the Nasdaq stock exchange by merging with the shell company Cartica Acquisition Corp fell apart in January 2026, after Yotta had already won regulatory approval. \"We had received all regulatory approvals for that structure, but we made a strategic decision to not proceed and formally withdrew from that route,\" said co-founder and chief executive Sunil Gupta, who said Yotta would list in India first instead because \"our assets, customers and regulatory responsibilities are in India.\" Yotta has also been buying heavily into Nvidia chips: in February 2026 it said it would spend $2 billion on 20,000 Blackwell processors for its Noida site, and in August a further order for 50,000 Vera Rubin chips was reported at $7.5 billion."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/yotta-data-services-nears-ipo-says-chairman-hiranandani/",
+   "https://www.datacenterdynamics.com/en/news/indias-yotta-and-nepals-blc-to-build-data-center-outside-kathmandu/",
+   "https://www.outlookbusiness.com/corporate/yotta-drops-merger-plan-with-cartica-shifts-focus-to-india-listing-in-fy27",
+   "https://www.datacenterdynamics.com/en/news/indias-yotta-to-buy-another-500m-of-nvidia-gpus-for-its-data-centers/"
+  ]
+ },
+ "/company/terawulf/": {
+  "paragraphs": [
+   "TeraWulf began as a bitcoin miner and is now selling power and buildings to artificial intelligence companies. Its first campus, Lake Mariner, sits on 180 acres outside Buffalo, New York, at a former coal-fired power plant, where the company mined cryptocurrency before turning the site toward AI and high-performance computing; Core42 and Fluidstack are live customers there, the site is headed for 750MW with the potential to reach 1GW, and Fluidstack's capacity goes to Anthropic under an arrangement Google backstops.",
+   "Google has taken a 14 percent stake in the Nasdaq-listed company across that deal and a second one covering a Texas site at Lubbock. TeraWulf is also developing in Maryland and planning a second New York site at Lansing.",
+   "Kentucky is where it has bought most heavily. In February 2026 it paid $200 million for a former aluminum processing site at Hawesville in Hancock County, 790 acres that Century Aluminum had operated from 1969 until 2022, and named it the Justified Data Campus.",
+   "On July 6, 2026 it announced that Anthropic had taken the campus on a twenty-year lease expected to produce around $19 billion of revenue, with initial capacity due in the second half of 2027, full operation by early 2028 and up to 401MW of IT capacity at completion. Chairman and chief executive Paul Prager called it \"a long-duration revenue stream with one of the world's leading AI companies\" that \"validates our strategy\".",
+   "The same announcement disclosed that TeraWulf was selling its entire 50.1 percent holding in the Abernathy joint venture in Texas, a 168MW campus formed with Fluidstack in October 2025, to an investor group led by Fluidstack, which the company said let it recover the value of a $450 million investment and put the capital into assets it owns outright.",
+   "The second Kentucky site is the one that brought people out. Announced in late May 2026 and bought from Industrial Equity Partners, the Muskie Data Campus covers about 285 acres inside the 1,000-acre EastPark Industrial Park near Ashland and Grayson, on land already zoned for data center use, with an initial 500MW to ramp from the second half of 2028 and another 500MW targeted for the second half of 2030.",
+   "Prager described the purchase in terms of scarcity, saying \"the defining constraint in this market is no longer computing hardware\" but power, transmission infrastructure and execution certainty. EastPark is jointly owned by the Boyd, Carter, Elliott, Greenup and Lawrence county governments together with the Commonwealth of Kentucky, was established in 1988 on ground much of which had been strip mined, and is the same park from which the state had to claw back a $15 million investment when the Braidy Industries aluminum mill failed.",
+   "Days after the announcement, on June 1, 2026, Boyd County residents filled the county's convention and arts center for a three-hour town hall, livestreamed on Facebook, with the local judge-executives on stage taking questions. Nearly everyone who spoke ranged from doubt about the economics to flat opposition, and much of the anger was about the non-disclosure agreements local officials had signed with the developer.",
+   "David Sparrow, who lives along the Greenup-Carter county line, asked who had signed one, and a few people on stage put their hands up. \"You're starting it off shady,\" he said. \"We can't trust that. At least that's the way I feel now.\" He was not arguing the technology away: \"I understand that AI is inevitable, I get that. But why are we doing it in a way that doesn't let the citizens speak for what they want?\"",
+   "Aggy Vanderpool, who teaches environmental science at Lawrence County High School, pressed on the closed-loop cooling the company had described: \"If the Muskie center development has been so carefully planned out, I'm curious as to why that basic information has not been made available to the public. Where is the water to initially fill these systems going to come from?\"",
+   "Boyd County Judge-Executive Eric Chaney, who backed the project alongside Greenup County's Bobby Hall, apologized for how the announcement had been handled, said signing NDAs had \"never crossed\" his mind as wrong, and told the room to file open records requests. \"I don't want to do anything in my life to be distrustful or to lose that trust from anybody in this room, whether you like me or not,\" he said.",
+   "He acknowledged that data centers elsewhere had pushed up electricity rates and drained water supplies, but said Kentucky Power's rules for large load customers protected other ratepayers. He also put the case for taking the risk, in a park he said had spent most of its existence chasing \"ghost promises that have stained our community\": \"For all of us in this room, whether you support this project or you're against it, it's risk. Because risk brings change.\"",
+   "Hall, speaking over jeering, said that \"if only one job is created, that's one more job than we had\". Not everyone was against it; Greenup County property valuation administrator Tony Quillen compared the decision to Kentucky's bet on the Toyota plant at Georgetown decades ago, saying: \"We took a chance then and look at Georgetown today.\"",
+   "The last speaker, Rachel Wilson of Boyd County, set it against the coal cycle: \"Most of that memory is boom and then bust, so you want us to get excited about a boom. We're all concerned about how much that boom is going to cost us, and when is it going to bust, and who's going to pay for that bust.\""
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/anthropic-signs-19bn-20-year-lease-for-kentucky-data-center-with-terawulf/",
+   "https://www.datacenterdynamics.com/en/news/terawulf-acquires-site-in-kentucky-for-1gw-data-center-campus/",
+   "https://kentuckylantern.com/2026/06/02/starting-it-off-shady-residents-question-ndas-protections-for-proposed-boyd-co-data-center/"
+  ]
+ },
+ "/company/tencent-cloud/": {
+  "paragraphs": [
+   "Tencent Cloud, the international arm of the Chinese internet group Tencent, has 11 sites on this list, nine of them in China and one each in Germany and Saudi Arabia; ten are operating and one, in Changsha, has no stage listed. In August 2026 the company said it would open a cloud region in Johor, Malaysia, with up to three availability zones, two live within the same week; that site has no row here yet. Tencent also names a cloud region in Toronto among its North American sites, which likewise has no row here.",
+   "The Saudi Arabia region, in Riyadh, opened in early 2025 with two availability zones and serves customers including the food delivery firm Keeta. In Indonesia, the telco XLSMART finished moving 60 core applications, 1,200 microservices and 15TB of data onto Tencent's cloud platform in June 2026, a four-and-a-half-month project completed with help from Tencent's AI tools.",
+   "Chief executive Dowson Tong said in January 2026 the company was \"actively\" exploring building in the Middle East beyond Saudi Arabia, telling CNBC, \"We do intend to increase our investment in the region and establish a stronger partnership network. And that's all in the plan.\" He would not name countries or give a timeline beyond twelve to eighteen months."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/tencent-cloud-plans-cloud-region-in-malaysia/",
+   "https://www.datacenterdynamics.com/en/news/tencent-cloud-plans-to-expand-data-center-footprint-in-the-middle-east/",
+   "https://www.datacenterdynamics.com/en/news/indonesian-telco-xlsmart-migrates-to-tencent-cloud/"
+  ]
+ },
+ "/company/t5-data-centers/": {
+  "paragraphs": [
+   "T5 Data Centers, founded in 2008, builds to suit rather than on speculation, with sites around Chicago, Atlanta, Los Angeles, Hillsboro, Dallas and Charlotte. In 2019 QuadReal Property Group, a Canadian real estate investor, formed a $2.5 billion joint venture with T5's founders; in February 2025 the two expanded it to $8 billion to fund five campuses of a gigawatt or more each.",
+   "The first is at Grayslake, 40 miles north of Chicago, where an original 480 megawatt plan on 160 acres grew by February 2025 to twenty buildings totaling 1.2 gigawatts, served by a 1.6 gigawatt ComEd substation on site. The first phase, three 60 megawatt buildings, is due in the last quarter of 2027. T5 has not said where its other four large campuses will be.",
+   "Scale has not shielded T5's smaller projects from local pushback. On May 11, 2026 Inver Grove Heights, outside Minneapolis, passed a one year moratorium on data center construction, citing both general concern and a specific T5 application for a 5 megawatt building on Carmen Avenue, which the moratorium put on hold. Nearby Rosemount had passed its own moratorium in mid-April. In Virginia, T5 has asked Fairfax County whether zoning allows it to run a 312,000 square foot data center at Dulles largely on 60 megawatts of its own natural gas fuel cells rather than grid power, a setup the county says it has never assessed before."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/t5-and-quadreal-form-8bn-partnership-to-fund-5gw-build-out/",
+   "https://www.datacenterdynamics.com/en/news/t5-plans-five-gigawatt-scale-data-center-campuses-announces-chicago-campus/",
+   "https://www.datacenterdynamics.com/en/news/t5-data-centers-looking-to-deploy-fuel-cells-for-primary-power-at-planned-data-center-in-dulles-virginia-report/",
+   "https://www.datacenterdynamics.com/en/news/t5-gets-permission-to-convert-building-into-data-center-in-nampa-idaho/",
+   "https://www.datacenterdynamics.com/en/news/one-year-data-center-moratorium-approved-in-city-near-minneapolis/"
+  ]
+ },
+ "/company/st-telemedia-global-data-centres/": {
+  "paragraphs": [
+   "ST Telemedia Global Data Centres runs sites in Singapore, India, the Philippines, Thailand, Malaysia, Indonesia, Vietnam, Japan and South Korea, and in Europe through its Virtus Data Centres arm in the UK, Italy and Germany. In February 2026 the private equity firm KKR and Singapore's Singtel bought the company from its founder, the Singaporean telecoms investor ST Telemedia. Its fastest-growing project is STT Johor, a 166 megawatt campus in Malaysia's Nusa Cemerlang Industrial Park, where it raised up to $1.37 billion in August 2026 to build a first phase of 16 megawatts, due in 2027.",
+   "On June 5, 2026 a fire broke out in lithium battery units at Next-Gen Tower in Greater Kailash-1, a Delhi building the company runs as STT Delhi 2. Nobody was hurt, but customers described extensive damage: the internet provider R2 Net put its own losses at about $2 million, and Google's cloud customers saw slow network routing for weeks while capacity was rebuilt. Tata Communications, which co-owns the Delhi joint venture, later told stock exchanges that most customer data had been recovered and the impact was not material.",
+   "In Singapore, where the government caps how much power data centers may draw, the company won 50 megawatts of a 200 megawatt allocation in August 2026, conditioned on using at least half low-carbon power and liquid cooling, for a site on Jurong Island. That same month it walked away from a planned 60 megawatt building in Ho Chi Minh City, selling its stake back to partner VNG for about $18.3 million; VNG said the site's lease, which runs to 2041, was not suited to a large data center."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/stt-gdc-secures-up-to-137bn-in-funding-for-166mw-data-center-in-johor-malaysia/",
+   "https://www.datacenterdynamics.com/en/news/singapore-govt-allocates-200mw-of-power-for-four-data-center-developers-on-jurong-island/",
+   "https://www.datacenterdynamics.com/en/news/stt-gdc-backs-out-of-planned-vietnam-data-center-project/",
+   "https://www.datacenterdynamics.com/en/news/fire-at-stt-gdctata-data-center-in-india-caused-extensive-damage-report/"
+  ]
+ },
+ "/company/atnorth-partners-group/": {
+  "paragraphs": [
+   "Partners Group no longer owns atNorth. The Swiss investment manager bought the Nordic operator in December 2021 and sold it in February 2026 to the Canada Pension Plan Investment Board and Equinix, in a transaction with an enterprise value of $4 billion behind a $4.2 billion financing package underwritten by European and Canadian lenders. CPP put in $1.6 billion for 60 percent of the shares and Equinix took the other 40. The company itself was assembled in 2012 as Advania Data Centers out of three older businesses: Skyrr, a public sector IT specialist in Iceland, Kerfi, a Swedish firm with roots in a Nokia spin-off called Datapoint, and Hands of Norway. It demerged from the Advania Group in 2017 and took the atNorth name in 2020. At the time of the sale it ran seven data centers across Sweden, Iceland and Finland with more in development in Finland, Denmark, Sweden and Norway, a pipeline Equinix put at 800MW in operation and under construction, and a secured power bank of 1GW for sites not yet built.",
+   "Chief executive Eyjolfur Magnus Kristinsson called the sale \"a powerful validation of atNorth's journey\" and said it \"further illustrates the strategic importance of the region as Europe's rising AI powerhouse\", promising that the company would \"continue to operate independently under the atNorth brand, preserving our dedication to the communities where we operate\". Bruce Owen, Equinix's president for EMEA, described what the buyer was getting: \"The scalable sites of atNorth are very complementary to Equinix's connectivity services and global footprint.\"",
+   "In Norway, in June 2026 the company bought a 36-hectare plot inside the 1,235-acre Haugaland Business Park at Gismarvik in Tysvaer, in Rogaland about 530km southwest of Oslo, for a campus called NOR01: 120MW in the first phases rising to 350MW, roughly NOK 11 billion or $1.1 billion of investment in phase one according to the park's owner, with power availability projected for 2028 and two new substations to be built, one by the national transmission operator Statnett and one by the regional grid company Fagne. Cooling will be closed-loop chilled water with mechanical systems and modular free-cooling compressors, and the site is said to support rack densities up to 1MW. The park is owned by the municipalities of Karmoy, Haugesund, Tysvaer, Vindafjord and Bokn together with the state industrial company Siva, and had been working with Statkraft since 2019 to attract data centers. Its general manager Tiril Fjeld called the deal \"a major milestone for us\" after \"almost 20 years of maturing and developing areas and infrastructure\", and Tysvaer's mayor Monika Lindanger said the project \"will not only bring in new investment and innovation to the region but will also support our local community through training and employment opportunities\". Green Mountain has also bought land in Haugaland, though whether it has started building is unclear.",
+   "In March 2026 atNorth began piping waste heat from its FIN02 data center in Espoo to a neighbouring Kesko retail store under an agreement signed in April 2025, expected to cover almost all the store's heating and to cut emissions from district heating by around 200 tonnes of CO2 equivalent a year. Kesko's energy director Antti Kokkonen said reducing emissions from heating its properties was \"a key priority within our sustainability strategy\". Chief operating officer Erling Gudmundsson made the wider argument for the company: \"This project demonstrates how data centers can become active contributors to local energy systems.\" Similar arrangements run elsewhere in the Nordics: excess heat from the DEN01 campus goes to the district heating network of Vestforbraending, Denmark's largest waste-to-energy company, in Copenhagen, and since November 2024 heat from ICE03 in Iceland has gone to the agricultural technology startup Hringvarmi for food production."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/atnorth-sold-to-equinix-and-cpp-investments-in-42bn-deal/",
+   "https://www.datacenterdynamics.com/en/news/atnorth-plans-350mw-data-center-campus-in-norway/",
+   "https://www.datacenterdynamics.com/en/news/atnorth-starts-up-heat-reuse-project-in-espoo-finland/"
+  ]
+ },
+ "/company/data4-brookfield/": {
+  "paragraphs": [
+   "Data4, owned by Brookfield since April 2023, runs more than 30 data centers across France, Italy, Spain, Poland, Germany and Greece, totaling about 1.5 gigawatts. Its biggest project is a 700 megawatt, 5 billion euro campus at Escaudain, in northern France's Hauts-de-France region, on the site of the former Usinor steelworks that closed in 1988. Data4 confirmed the plan in June 2026 after a December 2025 feasibility study picked the site; after a first building, up to four more could follow.",
+   "Aymeric Robin, mayor of nearby Raismes, framed the project as closing one industrial era and opening another. \"With this major data center campus project dedicated to artificial intelligence, we aim to erase the last remnants of an industrial era and open a new, more technological chapter,\" he said. President Emmanuel Macron called it part of \"reindustrializing, training, innovating and promoting our territories.\" Data4 is also building a second northern France campus, in the E-Valley at Cambrai on a former air force base, as Brookfield raised its French digital infrastructure pledge from 20 billion to 30 billion euros in June 2026.",
+   "In September 2025 Data4 became the first data center operator in France to sign a nuclear supply deal directly with EDF: 12 years, 40 megawatts from the existing reactor fleet, about 230 gigawatt-hours a year starting in 2026. Chief operating officer Francois Sterin called it \"a pillar of our growth and competitiveness strategy.\" The contract sits on top of a separate ten-year deal signed with EDF's Italian utility, Edison Energia, for 500 gigawatt-hours from an Italian solar project."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/data4-signs-40mw-nuclear-supply-deal-with-edf-to-power-french-data-center-portfolio/",
+   "https://www.datacenterdynamics.com/en/news/data4-confirms-5bn-plan-for-700mw-ai-data-center-in-northern-france/",
+   "https://www.datacenterdynamics.com/en/news/brookfield-ups-french-data-center-investment-by-10-billion/",
+   "https://www.mediacites.fr/enquete/lille/2026/06/19/data-centers-comment-data4-a-decroche-le-pompon-lacces-aux-700-megawatts-de-la-friche-usinor-a-escaudain/"
+  ]
+ },
+ "/company/novva-data-centers/": {
+  "paragraphs": [
+   "Novva Data Centers' home campus, at 6477 West Wells Park Road in West Jordan, outside Salt Lake City, opened its first phase in 2023 and is adding two more buildings after JPMorgan Chase and Starwood Property Trust lent the company $2 billion in March 2025. Novva, started in 2020 by former Utah colocation executive Wes Swenson with backing from the Los Angeles investment firm CIM Group, also runs sites in Colorado Springs, Las Vegas, Reno and San Francisco.",
+   "Its biggest expansion is in Mesa, Arizona, where it bought 165 acres in southeast Mesa in 2023 and later filed plans, known as Project Borealis, for five data centers totaling 300 megawatts, with a first phase of 96 megawatts due in late 2026; the city has approved the project. Novva sits in the same stretch of southeast Mesa, the Elliot Road Technology Corridor, as Apple, Google, Meta and EdgeCore, and the sudden crowding pushed the city to write its first rules for data centers, including a 400-foot buffer from homes and churches and a 60-foot height limit. The city council adopted those rules in July 2025. Novva's own attorney told the city the campus would bring more than $3 billion in construction investment."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/novva-secures-2bn-loan-to-expand-west-jordan-campus-in-utah/",
+   "https://www.datacenterdynamics.com/en/news/novva-dc-acquires-165-acres-of-land-in-mesa-arizona-at-auction/",
+   "https://www.datacenterdynamics.com/en/news/novva-confirmed-as-behind-project-borealis-data-center-campus-in-phoenix-arizona/",
+   "https://www.themesatribune.com/news/mesa-may-leash-rampant-data-center-growth/article_a7832480-eb85-4b97-a3ea-a974b7b86e15.html",
+   "https://www.kjzz.org/business/2025-07-14/mesa-city-council-approves-new-data-center-zoning-rules"
+  ]
+ },
+ "/company/keel-infrastructure/": {
+  "paragraphs": [
+   "Keel Infrastructure, the company formerly known as Bitfarms, is developing three data centers in Pennsylvania and Washington after shutting down its Bitcoin mining operations this year. Its biggest is Carbon Node East, a proposed 350 megawatt campus around the old Panther Creek plant in Nesquehoning, Carbon County, on land it bought in 2025. The borough approved a special exception permit in February 2026, but county planners voted April 21, 2026 to recommend conditional rejection, citing unresolved sewer, stormwater and zoning questions. By August the company said Panther Creek had zoning and conditional approval.",
+   "In Sharon, in Mercer County, Keel is building a 110 megawatt data center on 18 acres of the former Westinghouse Electric plant, replacing the 30 megawatt Bitcoin mine it ran there, after buying the land in October 2025. The city zoning board approved it in April 2026 with conditions, including a 70-decibel noise limit and a ban on drawing river water; by August, transformers had been delivered. One resident told WKBN: \"It makes your electricity bill go up... and a lot of humming noise.\"",
+   "At Moses Lake, Washington, Keel shut down its 18 megawatt Bitcoin mine on April 28, 2026 and demolished the mining building. The site's zoning for a data center has been approved, though land development and environmental permits are still in progress; Keel expects Moses Lake to be its first of the three US sites to open, in 2027. Company-wide, Keel says it is pursuing a 2.2 gigawatt development pipeline."
+  ],
+  "sources": [
+   "https://www.tnonline.com/20260422/nesquehoning-data-center-plans-need-work/",
+   "https://www.tnonline.com/20260224/nesquehoning-planners-ok-bitfarms-complex/",
+   "https://www.datacenterdynamics.com/en/news/keel-decommissions-all-us-cryptomining-sites-ahead-of-ai-pivot/",
+   "https://www.datacenterdynamics.com/en/news/zoning-board-of-sharon-pa-approves-planned-expansion-of-keel-infrastructures-existing-data-center-development/"
+  ]
+ },
+ "/company/fluidstack/": {
+  "paragraphs": [
+   "Fluidstack's biggest project is Heartland Industrial Park, 1,000 acres it owns outside New Lebanon in Sullivan County, Indiana, next to Hallador Energy's Merom coal plant. In April 2026 a joint venture called Meridian Arc HoldCo issued $5.7 billion in notes to build a 245MW data center and a 185MW data center there, 430MW in all, leased to Fluidstack for 15 years with the lease guaranteed by Google. Site work has started and the first server hall is due to run by mid-2027.",
+   "Fluidstack also began construction in September 2026 on a $4 billion first phase in Cameron County, Texas, east of Valley International Airport between Harlingen and Rio Hondo, after the county issued a worksite permit; the company says it will pay all its own power, water and infrastructure costs. In France, Fluidstack signed and then dropped a 10 billion euro deal with the French state for a site at Le Bosquel near Amiens, Mediacites reported.",
+   "At an August 5 open house in Merom, spokesperson Kate Franko said the cooling system \"is a closed loop system. It's very low water usage,\" and that WIN Energy costs mean \"energy rates for residents will not go up as result of the data center here.\" Town council member John Gettinger said the project \"seemed to come from out of nowhere\" and that early secrecy cost the company trust, though he counted jobs and tax revenue on the other side. Nearby resident Bonnie Boone said she still wanted answers on water, electricity rates and wildlife.",
+   "In Harlingen, Mayor Norma Sepulveda said the city had no authority over the county site: \"It was not asking Harlingen for permission to build.\" The Wall Street Journal reported in September 2026 that the Pentagon was discussing a $5 billion loan to Fluidstack for manufacturing data center components, separate from either site."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/pentagon-in-talks-to-loan-fluidstack-5bn-report/",
+   "https://www.datacenterdynamics.com/en/news/fluidstack-shares-details-of-planned-data-center-in-sullivan-county-indiana/",
+   "https://www.datacenterdynamics.com/en/news/coatue-sets-up-data-center-venture-partners-with-fluidstack-for-430mw-campus-in-indiana/",
+   "https://www.tribstar.com/news/local_news/residents-learn-more-about-sullivan-data-center-at-open-house-in-merom/article_2d210df7-9511-4e57-8386-207cfb890110.html",
+   "https://myrgv.com/local-news/2026/09/10/company-launches-data-centers-4b-first-phase-near-harlingen/",
+   "https://www.krgv.com/news/fluidstack-breaks-ground-on-4-billion-data-center-campus-in-cameron-county/",
+   "https://www.mediacites.fr/enquete/lille/2026/06/19/data-centers-comment-data4-a-decroche-le-pompon-lacces-aux-700-megawatts-de-la-friche-usinor-a-escaudain/"
+  ]
+ },
+ "/company/expedient/": {
+  "paragraphs": [
+   "Expedient is not a hyperscale developer or a builder of gigawatt campuses. It sells colocation and managed cloud services from about a dozen data centers across the Midwest and East, most of them in buildings it leases rather than owns.",
+   "AMP Capital bought the company in 2019 in a deal reported at more than $500 million. DigitalBridge became its investment manager in 2022 after buying the infrastructure equity business of AMP's subsidiary Collimate Capital for $328 million, a group of holdings that included Expedient.",
+   "Ohio is where Expedient has been most active, and where it has started buying rather than renting. In February 2024 it took over a former Nationwide Mutual Insurance data center at 281 E. Powell Road in Lewis Center, north of Columbus: 102,000 square feet built in 1985, with four carriers and 3 megawatts of power to be raised to 7.5 megawatts.",
+   "Two years later it exercised a purchase option on 5700 Innovation Drive in Dublin, a 29,210-square-foot building with 4.8 megawatts of power that Five 9s Digital had built for it in 2016; the deal closed in March 2026.",
+   "In Franklin, outside Milwaukee, the investment firm StratCap bought Expedient's leased data center in August 2022: a 28,500-square-foot building built originally for Harley-Davidson in 2008, with 1.2 megawatts of critical load that can be doubled."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/digitalbridge-acquires-infrastructure-equity-business-from-amp-subsidiary-becomes-investment-manager-for-expedient/",
+   "https://www.datacenterdynamics.com/en/news/stratcap-acquires-expedient-occupied-milwaukee-data-center/",
+   "https://www.datacenterdynamics.com/en/news/five-9s-digital-sells-four-us-data-centers-for-41-million/",
+   "https://www.datacenterdynamics.com/en/news/expedient-launches-data-center-in-columbus-ohio/",
+   "https://www.datacenterdynamics.com/en/news/data-center-in-columbus-ohio-sold-to-occupier/",
+   "https://www.expedient.com/data-centers/phoenix/",
+   "https://www.datacenterdynamics.com/en/news/expedient-opens-data-center-in-phoenix-arizona/"
+  ]
+ }
+}

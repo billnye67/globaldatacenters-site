@@ -1,0 +1,370 @@
+{
+ "/data-centers/united-states/nevada/": {
+  "paragraphs": [
+   "Nevada had about 70 data centers planned, under construction or operating across Clark, Washoe, Elko, Lyon and Storey counties as of May 2026, according to the Legislative Counsel Bureau. Storey County has the largest concentration. State lawmakers plan to consider a bill in 2027 that would pause new data centers and end their tax breaks, while several local governments have already acted.",
+   "Reno has stopped accepting new data center applications until August 31, 2027, or until it adopts new rules; previously approved projects can proceed. Nye County adopted an August prohibition affecting the proposed 900-acre Manse Technology Campus near Pahrump, after imposing a separate countywide application pause in June. In Lyon County, commissioners voted 3-1 to rezone about 505 acres near Yerington for Copia Power's proposed 1,000-megawatt Monarch Data Center; the project still needs other permits.",
+   "Power supply is another live issue. NV Energy says data center developers have asked about 22 gigawatts of power, an inquiry figure rather than capacity already committed. On September 17, state regulators approved two gas plants totaling more than 360 megawatts for Tract's Fleet Data Centers at the Tahoe Reno Industrial Center, where they are intended to supply power until NV Energy connects the sites. Nearly three hours of public comment opposed the plants.",
+   "Near Boulder City, an Interior Department administrative judge paused a proposed 167-megawatt data center on Bureau of Land Management land while an appeal proceeds. The agency has since asked the Interior appeals board to set aside its own approval and review the application again; Boulder City opposes that request. The city's response is due October 5."
+  ],
+  "sources": [
+   "https://www.reviewjournal.com/news/politics-and-government/nevada/what-to-know-about-data-centers-and-their-growing-footprint-in-nevada-3887629/",
+   "https://pvtimes.com/news/nevada-lawmakers-could-hit-pause-on-data-centers-end-their-tax-breaks-190004/",
+   "https://thenevadaindependent.com/article/a-massive-data-center-in-rural-nevada-is-one-step-closer-to-being-built",
+   "https://nevadacurrent.com/2026/06/03/reno-city-council-extends-data-center-moratorium-promises-effort-is-not-political/",
+   "https://nevadacurrent.com/2026/08/20/nye-county-totally-bans-data-centers-in-over-appropriated-water-basin/",
+   "https://pvtimes.com/news/nye-county-approves-data-center-moratorium-186722/",
+   "https://nevadacurrent.com/2026/06/03/nv-energy-betting-the-house-on-data-centers/",
+   "https://nevadacurrent.com/2026/09/18/public-utility-commission-approves-gas-plants-to-power-data-centers/",
+   "https://thenevadaindependent.com/article/judge-orders-pause-on-boulder-city-data-center",
+   "https://www.reviewjournal.com/news/environment/blm-asks-judge-to-set-aside-boulder-city-data-center-approval-3889402/"
+  ]
+ },
+ "/data-centers/switzerland/": {
+  "paragraphs": [
+   "Switzerland's data center fight is in Beringen, a village of about 5,000 people in canton Schaffhausen. Stack Infrastructure is building a data center on the Beringerfeld that will use 315 gigawatt-hours of electricity a year, and a few hundred meters away Enka Investment AG, the Swiss arm of the Turkish builder Enka, has filed plans for a second that would average 20 megawatts of power and peak at 40. Both are due on the grid in 2028; Enka's building application is still under review by the municipality.",
+   "Stack's plant alone will use up to three-quarters of what the whole canton used in 2022, and the cantonal utility is building a new substation for it, paid for by the operator. The village approved 55,000 cubic meters of water a year for its cooling, and Enka's would take another 30,000; the village president, Roger Paillard, expects the two together to add 10 to 15% to Beringen's water use.",
+   "In the summer, activists from the group Aufstände der Allmende camped near the site. Three cantonal lawmakers, Maurus Pfalzgraf, Nina Schärrer and Markus Leu, have put a motion to the cantonal parliament's building committee that would make new data centers reuse their waste heat, and want it in force before Enka's plant is approved.",
+   "Around Zurich, where most Swiss data centers are, Green is completing a three-building, 35-megawatt campus in Dielsdorf, which will use seven times as much electricity as the rest of the municipality. In Winterthur, Vantage is building four data centers with 40 megawatts, which will raise the city's electricity use by about half. Zurich's canton already requires operators to make their waste heat available."
+  ],
+  "sources": [
+   "https://www.shaz.ch/2026/08/10/zwei-datencenter-fuer-beringen/",
+   "https://www.srf.ch/news/wirtschaft/digitale-infrastruktur-stille-stromfresser-immer-mehr-rechenzentren-in-der-schweiz",
+   "https://www.swissinfo.ch/eng/swiss-ai/these-five-charts-explain-why-nobody-wants-a-data-centre-next-door/91693282",
+   "https://www.swissinfo.ch/eng/swiss-ai/silent-power-guzzlers-switzerlands-booming-data-centres/89724159",
+   "https://netzpolitik.org/2026/rechenzentren-sind-vampire-wo-sich-lokaler-widerstand-gegen-den-ki-hype-formiert/"
+  ]
+ },
+ "/data-centers/indonesia/west-java/": {
+  "paragraphs": [
+   "West Java is where Indonesia's biggest data centers are being built, in the industrial estates east of Jakarta at Bekasi, Cikarang and Karawang, and now at Jatiluhur in Purwakarta. On July 28, 2026, with Governor Dedi Mulyadi present, BDx broke ground on a 640-megawatt AI campus of six buildings about five kilometers from the Jatiluhur Dam; the first 120-megawatt building is due in early 2027. Digital Edge's first building at its campus in the Greenland International Industrial Center in Bekasi, topped out in May, is due by the end of 2026.",
+   "The other campuses are just as big on paper. Digital Edge plans 500 megawatts in its first four Bekasi buildings, with room for 1 gigawatt. DCI Indonesia's H2 campus in Karawang, on 791 hectares in an industrial park owned by the Salim Group, has room for up to 600 megawatts. Damac's Edgnex plans a $2.3 billion, 144-megawatt data center on a 50,000-square-meter site in Cikarang, with its first phase due in December 2026. In Bogor, Salim bought out Keppel's share of their data center and relaunched it as IndoData.",
+   "Water is the worry. The 2026 dry season left 1,018,922 people across West Java short of clean water as of September 21, the provincial disaster agency said, including 99,525 in Purwakarta and 93,236 in Bekasi Regency. The province's revenue agency says power and water for Jatiluhur were arranged with PLN and the local water utility without cutting into household supply. Writing in Katadata, Yunani Abiyoso argued that Indonesia has no specific rules on data center water use, and that large freshwater permits in dry areas could break a 2019 law putting household needs and small farms first."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/bdx-breaks-ground-on-ai-campus-2-in-jatiluhur-indonesia/",
+   "https://www.thejakartapost.com/business/2026/09/22/singapores-bdx-launches-640mw-data-center-project-in-west-java",
+   "https://www.datacenterdynamics.com/en/news/digital-edge-tops-out-first-data-center-at-new-campus-outside-jakarta-indonesia/",
+   "https://www.datacenterdynamics.com/en/news/digital-edge-secures-indonesias-largest-ever-data-center-green-loan-targeting-local-ai-data-center-development/",
+   "https://www.datacenterdynamics.com/en/news/dci-indonesia-launches-second-building-at-600mw-campus-outside-jakarta/",
+   "https://www.datacenterdynamics.com/en/news/damac-backed-edgnex-to-invest-23bn-for-data-center-in-indonesia/",
+   "https://www.datacenterdynamics.com/en/news/salim-group-buys-out-keppels-share-of-indonesian-data-center-venture/",
+   "https://jabar.idntimes.com/news/jawa-barat/satu-juta-warga-jabar-terdampak-kekeringan-dan-kesulitan-air-bersih-00-nqtvm-4f35nz",
+   "https://bapenda.jabarprov.go.id/2026/07/28/serap-3-ribu-tenaga-kerja-data-center-ai-dibangun-di-purwakarta/",
+   "https://katadata.co.id/indepth/opini/6aaf7eb6b3151/meregulasi-dahaga-ai-ancaman-konsumsi-air-di-pusat-data-dan-tantangan-hukumnya"
+  ]
+ },
+ "/data-centers/united-arab-emirates/dubai/": {
+  "paragraphs": [
+   "Dubai's data centers were caught up in the Iran war this year. Amazon Web Services' UAE data centers were damaged by Iranian drone strikes in early March 2026, and in September AWS said it could not restore access to data held only in one of its UAE availability zones. After Iran's Revolutionary Guards claimed an attack on an Oracle data center on April 2, Dubai authorities said shrapnel from an intercepted attack had fallen on the facade of Oracle's building in Dubai Internet City, with no injuries.",
+   "Building has carried on. Volt and the Dubai Integrated Economic Zones Authority have formed a joint venture for a data center of up to 60,000 square meters at Dubai Silicon Oasis, with 29 megawatts in a first phase and a further 100 megawatts of committed power; no opening date has been given. The telco du has put a 13-megawatt Nvidia cluster in its data center at Silicon Oasis, and in 2025 signed a $544.54 million deal to build a new hyperscale data center in the UAE with Microsoft as the main tenant.",
+   "Moro Hub, part of the utility DEWA, runs a 100-megawatt data center inside the Mohammed bin Rashid Al Maktoum Solar Park in Saih Al-Dahal, powered by the park's solar output. Khazna, the largest operator in the UAE, started in Dubai with DXB1 in Meydan, and has added buildings in Dubai Design District and Ibn Battuta."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/aws-unable-to-restore-access-to-data-centers-hit-by-iran-strikes/",
+   "https://www.khaleejtimes.com/uae/shrapnel-falls-on-oracle-building-in-dubai-internet-city-no-injuries-recorded",
+   "https://www.datacenterdynamics.com/en/news/iran-attack-hits-an-oracle-data-center-in-dubai-causes-limited-damage/",
+   "https://www.datacenterdynamics.com/en/news/volt-sets-up-joint-venture-in-dubai-to-deliver-29mw-data-center/",
+   "https://www.datacenterdynamics.com/en/news/du-and-nextgenai-partner-for-13mw-nvidia-b300-deployment-in-uae/",
+   "https://www.datacenterdynamics.com/en/news/digital-dewa-launches-dubai-data-center/",
+   "https://www.datacenterdynamics.com/en/analysis/khazna-the-emirati-data-center-operator-that-doesnt-use-diesel/",
+   "https://www.datacenterdynamics.com/en/news/khazna-breaks-ground-on-two-dubai-data-centers/"
+  ]
+ },
+ "/data-centers/indonesia/riau-islands/": {
+  "paragraphs": [
+   "Batam, the island city across the strait from Singapore, is filling with data centers while it runs short of water. The Jakarta Post counts at least 16 new data centers in various stages, most in Nongsa Digital Park and the newer Kabil Industrial Tech Park. The biggest is DayOne's campus at Kabil, which signed a 450-megawatt power deal with PLN Batam in April 2026, with power arriving in phases through 2027.",
+   "Batam's clean water comes from six reservoirs producing 3,487 liters a second. The Nongsa treatment plant, which serves Nongsa and Batu Besar, was cut step by step from 65 liters a second on August 12 to 40 on September 18 as the Nongsa reservoir fell, and its operator, Air Batam Hilir, says it may have to bring in water from the Duriangkang reservoir system. Researcher Rezza Aji Pratama estimates that existing and planned data centers would use about 8% of the island's water.",
+   "In December 2024 dozens of residents of the Teluk Mata Ikan fishing village protested outside Nongsa Digital Park because water kept flowing to the tech park while their homes went short; officials blamed a \"technical glitch.\" Hotmauli Sidabalok of Yayasan Amerta Air Indonesia warned in the Jakarta Post of \"environmental injustice\" as households and data centers compete for water. Economist Suyono Saputra of Batam International University says the long-term fix is desalting seawater, which takes large sums and time.",
+   "Batam's mayor, Amsakar Achmad, says data centers can grow as long as their power and water needs are met, and he promised faster permits when PLN Batam signed a power deal with Altiva Identity Data Center on July 28, 2026. BW Digital topped out its NDP1 building at Nongsa in October 2025, planned to reach 144 megawatts. Gorilla Technology is installing AI servers at NeutraDC's Kabil data center in phases from September 2026, and Firmus plans a 170,000-chip Nvidia cluster at a DayOne campus of up to 360 megawatts, rolling out through 2027 and 2028."
+  ],
+  "sources": [
+   "https://www.thejakartapost.com/indonesia/2026/08/15/batam-data-center-expansion-threatens-water-electricity-supplies",
+   "https://globalvoices.org/2026/04/21/ai-ready-data-centers-are-booming-in-indonesia-but-water-woes-loom/",
+   "https://batamnewsasia.com/2026/09/22/batam-water-crisis-nongsa-supply-cut-to-40-liters-per-second-as-reservoir-shrinks/",
+   "https://katadata.co.id/digital/teknologi/6a699fd464759/batam-siapkan-listrik-dan-air-demi-tarik-investasi-data-center-di-tengah-tren-ai",
+   "https://www.datacenterdynamics.com/en/news/dayone-inks-450mw-ppa-with-pln-batam-to-power-planned-data-center-in-batam-indonesia/",
+   "https://www.datacenterdynamics.com/en/news/firmus-to-deploy-170000-gpu-cluster-in-batam-indonesia/",
+   "https://www.datacenterdynamics.com/en/news/gorilla-technology-secures-25bn-gpuaas-contract-in-indonesia/",
+   "https://www.datacenterdynamics.com/en/news/bw-digital-tops-off-data-center-in-batam-indonesia/"
+  ]
+ },
+ "/data-centers/united-states/texas/bastrop-county/": {
+  "paragraphs": [
+   "Cedar Creek, an unincorporated community about 25 miles east of Austin, has more than 5,500 acres tied to three data center developers, Community Impact reported in July 2026. Because Texas counties have little zoning power, most of those projects need nothing from Bastrop County except, if they ask for one, a tax break, and that is where the fight has focused.",
+   "EdgeConneX is building a four-building, $1.4 billion campus at FM 535 and Wolf Lane for the AI cloud company CoreWeave; state filings cited by Community Impact put the first building, a $440 million, 578,000-square-foot data center, on track to open in the summer of 2026. The county granted a 10-year, 75% property tax abatement in December 2024, and the Texas comptroller certified the building for a 20-year state and local sales tax exemption. EdgeConneX plans a second campus of four more buildings at 6682 FM 535, each about 730,000 square feet and an estimated $700 million, with construction running to March 2029.",
+   "More than 100 people packed a Bastrop hotel on July 22 for a town hall, and many said they learned of the EdgeConneX project only after commissioners had already approved it, the Austin American-Statesman reported. \"We chose Cedar Creek to build our homes, we have families, my six kids are supposed to be growing up in this area, next to a data center,\" resident Mary Santana said. Precinct 4 Commissioner David Glass said the raw land had been paying about $25,000 a year in property taxes and that the first campus would bring around $60 million to Bastrop ISD in its first year and $7 million to $8 million to the county, and argued that its closed-loop cooling uses little water.",
+   "A second, larger project has already pulled back. Pacifico Energy and BlackChamber Partners had proposed a 2,842-acre campus on Earl Callahan Road pairing a data center with 710 megawatts of natural gas-fired generation, but withdrew both a county and a school district tax abatement request by Aug. 19 after community pushback; \"We withdrew our Chapter 312 and JETI applications because we heard the community clearly,\" Pacifico told KVUE. The Real Deal reported Anthropic is in talks to lease the site and was behind that decision. Commissioner Mark Meuth said withdrawing the tax breaks did not cancel the project or its permits.",
+   "A third company, Amazon Data Services, bought 1,229 acres nearby on May 1, land once planned for housing, but has told Community Impact it has made no final development decision.",
+   "On Aug. 10 commissioners tabled a resolution asking the Legislature for more county authority over development and set Aug. 24 to take it up again, KVUE reported; no report of that meeting has surfaced since."
+  ],
+  "sources": [
+   "https://communityimpact.com/bastrop-cedar-creek/government/bastrop-county-residents-organize-for-data-center-transparency-local-guardrails/",
+   "https://communityimpact.com/austin/bastrop-cedar-creek/government/2026/03/31/edgeconnex-plans-second-data-center-campus-in-bastrop-county/",
+   "https://communityimpact.com/bastrop-cedar-creek/development/ai-cloud-company-coreweave-to-fill-440m-cedar-creek-data-center/",
+   "https://texreporter.com/2026/09/02/four-cedar-creek-data-centers-represent-2-8-billion-development/",
+   "https://www.statesman.com/business/technology/article/data-centers-bastrop-county-22349254.php",
+   "https://www.yahoo.com/news/politics/articles/bastrop-county-holds-off-data-202351889.html",
+   "https://www.yahoo.com/news/us/articles/bastrop-county-data-center-developer-014016783.html",
+   "https://www.elgincourier.com/article/4854,developers-withdraw-tax-break-requests",
+   "https://therealdeal.com/texas/2026/08/25/anthropic-eyes-bastrop-for-new-data-hub/",
+   "https://therealdeal.com/texas/2026/05/07/amazons-1000-acre-land-buy-deepens-texas-data-center-bench/"
+  ]
+ },
+ "/data-centers/united-states/georgia/rockdale-county/": {
+  "paragraphs": [
+   "Project Rockforge, a data center campus proposed on about 282 acres near Northwest Farmer Road, Irwin Bridge Road and Rockbridge Road outside Conyers, is waiting on rezoning by the county commission; the applicant is MMM Acquisitions LLC, and Atlanta's Grind Capital Group is linked to the project. Its rezoning hearing was scheduled for September 24, 2026; no result has been published. Commissioners are due to take up countywide data center rules on October 6, and the county's pause on new data center applications runs through October 9.",
+   "DC BLOX is already building a 750,000-square-foot campus on 72 acres on Farmer Road, with 216 megawatts of power committed by Georgia Power, less than half a mile from the Rockforge land. \"This is where we grew up. This is where we raised our children,\" Farmer Road resident Linda Aikens-Young told WSB-TV. Grind says Rockforge could raise the county's tax base by more than 50 percent.",
+   "At the planning commission in July, planning director Brandon White called the application \"insufficient\" on energy and water use, and the county water department said it had received no water demand figures. \"The demand is not submitted to us,\" Tim Cotton said. Grind's attorney, Michelle Battle, said the developer gave everything the application required and would supply engineering studies.",
+   "Commissioner Doreen Williams plans to recuse herself from Grind's rezoning after resident Ann Sapp said Grind had sponsored Williams' nonprofit brunch on August 20 while its applications were pending. Grind said the $500 sponsorship was paid to the county government and tied to no vote. No ethics violation has been found. Her recusal leaves two voting members on the three-member board."
+  ],
+  "sources": [
+   "https://www.rockdalecitizen.com/news/rockdale-adopts-most-of-new-udo-delays-data-center-regs/article_f40792e3-03b1-4f5a-b41e-a904d6eae277.html",
+   "https://www.newsbreak.com/the-citizens-299113683/4883521872021-williams-to-recuse-from-grind-capital-rezoning-decisions",
+   "https://www.rockdalecitizen.com/news/data-center-proposal-brings-out-competing-arguments/article_d6fc6d60-4f44-406a-93da-9492e97ec2db.html",
+   "https://www.wsbtv.com/news/local/neighbors-may-have-deal-two-data-centers-within-half-mile/X3QYFCTSWNCK5JK3CI4WOEK7EY/",
+   "https://www.datacenterdynamics.com/en/news/dc-blox-to-develop-216mw-campus-outside-atlanta-georgia/"
+  ]
+ },
+ "/data-centers/united-states/new-york/yates-county/": {
+  "paragraphs": [
+   "Vulcan Infrastructure and Power, until July 2026 called Greenidge Generation, plans to turn its gas-fired power plant on Seneca Lake just south of Dresden, in the Town of Torrey, into a large AI data center. The plant has mined bitcoin with its own power since 2019. Vulcan has filed no plans or applications with the town, but it has asked the state grid operator for two connections, of 60 and 200 megawatts, and told investors in August it expects expansion at Seneca Lake by the third quarter of 2027.",
+   "Neighbors worry most about the lake. The plant is allowed to draw 139 million gallons a day from Seneca Lake for cooling and averaged 89 million gallons a day in 2024. \"My biggest concern is that they're going to be requesting even more water when the data center is up and running,\" said Dresden resident Stevan Ramirez. Karin Critchlow, whose family has owned land beside the lake for more than 70 years, says the noise already wakes her at two in the morning: \"It sounds like there was a truck coming down the back road.\"",
+   "At an August town meeting, Vulcan president Dale Irwin promised more public outreach and \"no change to the lake,\" and said \"99% of water\" goes back to Seneca Lake with \"minimal temperature change.\" He has raised closed-loop cooling, which local environmentalists support. Torrey highway superintendent Tim Chambers said he caught fish there 40 years ago and still does. Seneca Lake Guardian estimates a conversion could triple the plant's 104 megawatts.",
+   "Bigger equipment would also need a change to the plant's state air permit, which Vulcan won back in a 2025 settlement with the Department of Environmental Conservation after years in court. The Town of Torrey, with about 1,300 people, and the DEC are where the plan will be decided."
+  ],
+  "sources": [
+   "https://rochesterbeacon.com/2026/09/10/from-crypto-to-ai/",
+   "https://www.weny.com/news/nys-dec-greenidge-generation-reach-settlement-dec-will-issue-title-v-air-permit/article_7ee47706-7d4c-4c5a-bb03-98b74d9700bf.html"
+  ]
+ },
+ "/data-centers/united-states/new-york/schuyler-county/": {
+  "paragraphs": [
+   "The only data center idea in Schuyler County is at the former Camp Monterey prison camp, 25 acres on Evergreen Hill Road in the Town of Orange near Beaver Dams. Emails released in May 2026 show a prospective buyer asking about \"data barns\" there, but no application has been filed with the town or county. The county's industrial development agency has been marketing the site since July 2025 through its agent, FLX Gateway.",
+   "Seneca Lake Guardian obtained the emails through a Freedom of Information Law request. In a January 23, 2026 email, Greg Hering, identified online as a co-founder of ClearPath Energy, asked FLX Gateway director Judy McKinney Cherry about \"data barns at Beaver Dams and other places in the Southern Tier.\" \"I only need 4 acres, lots of power and gas,\" one email reads. Cherry described \"three productive wells and a wastewater treatment facility\" producing about 140,000 gallons of water a day, next to a 115-kilovolt power line.",
+   "The emails also mention food processing, farming, manufacturing and cannabis growing, and they do not confirm any project will go ahead. Critics point to the references to data center conferences, fiber, power and water, and Seneca Lake Guardian raised concerns about energy use, heat and water. The camp once provided more than 100 year-round jobs. \"Our objective is to bring responsible, long-term employment back to this property,\" said County Legislature chair Carl Blowers.",
+   "The same site was put forward by the county's economic development partnership in April 2026 as a possible home for a state-backed nuclear plant, answering a New York Power Authority request for information."
+  ],
+  "sources": [
+   "https://www.fingerlakes1.com/2026/05/27/foild-emails-fuel-concern-over-possible-data-center-interest-at-former-camp-monterey-site/",
+   "https://www.fingerlakes1.com/2026/03/02/vandalism-stalls-camp-monterey-marketing-in-schuyler-county/",
+   "https://13wham.com/news/local/nuclear-power-plant-could-be-coming-to-finger-lakes-region-new-york-power-authority-schuyler-county"
+  ]
+ },
+ "/data-centers/united-states/north-carolina/cumberland-county/": {
+  "paragraphs": [
+   "Cumberland County has stopped accepting data centers in its unincorporated areas until December 15, 2026, after commissioners voted 7-0 in June for a six-month moratorium. Three plans have surfaced since fall 2025: Terra Nexus Ventures' 300-megawatt data center on Custer Avenue near Eastover, next to the Fayetteville Public Works Commission's power plant, on land that would be annexed into Fayetteville; a 225-megawatt AI data center on 50 acres in an unnamed industrial park for a client of PRSM Group; and a Dunn Road plan that the county's economic development chief says will not be built. The county's Joint Planning Board meets October 20, 2026 and could vote on permanent rules then.",
+   "The Defense Department separately invited proposals for private data centers at six possible Fort Bragg locations across Cumberland and Harnett counties. That early-stage land solicitation is separate from the three local company plans.",
+   "The draft rules would allow data centers only on manufacturing land by conditional zoning, at least 500 feet from property lines and 750 feet from homes, cap noise at 60 decibels at the property line, or 45 next to homes, and ban evaporative cooling. For scale, the Public Works Commission's whole system averages 228 megawatts of power. Its chief executive, Timothy Bryant, opposed the pause, saying big users \"pay their fair share\" and cover any new generation: \"It's not current customers.\"",
+   "The county's rules stop at the Fayetteville city line. The City Council voted 8-2 to hold an August 10 public hearing on a draft ordinance critics say would let data centers into industrial zones beside old neighborhoods, and put off a moratorium discussion to August 25; no result of that discussion has been published."
+  ],
+  "sources": [
+   "https://www.cityviewnc.com/stories/cumberland-county-enacts-6-month-data-center-moratorium/",
+   "https://www.cityviewnc.com/stories/data-center-proposal-emerges-as-county-holds-hearing-on-moratorium/",
+   "https://www.cityviewnc.com/stories/cumberland-county-proposes-tight-restrictions-for-data-centers/",
+   "https://www.cityviewnc.com/stories/fayetteville-council-revives-data-center-ordinance-despite-public-pushback/",
+   "https://www.datacenterdynamics.com/en/news/us-dod-details-military-bases-available-for-ai-data-center-build-out/"
+  ]
+ },
+ "/data-centers/united-states/texas/johnson-county/": {
+  "paragraphs": [
+   "Johnson County's commissioners say they cannot stop a data center, and two are now in front of them. One applicant has filed for a permit for about 200 acres on Texas 171 between County Roads 1202 and 310, close to homes and a church; development services director Jennifer Vanderlaan said its site plan shows future buildings not labeled as data centers, and the county has no information on its water or electricity needs. A second proposal, about 1,800 acres on U.S. 67 near County Roads 1120 and 1120A, has submitted a site plan labeled for a data center but no permit application yet.",
+   "The court feels powerless because Texas counties lack zoning and building-inspection authority, and buyers of 10 or more acres need not plat their land. Commissioner Rick Bailey said a county only gains leverage, such as requiring clean-up bonds, if it grants a tax abatement, and commissioners oppose abatements for data centers. \"We are going to have data centers in this county, and the State of Texas is going to see to it,\" Bailey said. Commissioner Kenny Howell called developers \"sneaky, secretive and not transparent,\" citing layers of LLCs that make ownership hard to trace.",
+   "Residents' worries are water, power and chemicals, in a county that in 2025 asked the governor to declare an emergency over PFAS levels in its soil and water. Public Citizen's Rita Beving told a May meeting that closed-loop cooling systems still lose 10 to 20 percent of their water to evaporation and that cooling water can carry PFAS. Commissioners unanimously passed a resolution asking the Legislature for more county authority and a pause on new applications while impacts are studied, one of 16 Texas counties to do so. \"We don't want to run out of water or freeze to death because there's no power,\" said County Judge Chris Boedeker.",
+   "The one tracked project on record, Venus Data Center, has no company named and may or may not be either of the two proposals; it is not yet clear which company is behind each one. The Legislature returns in January 2027 with data centers expected on its agenda."
+  ],
+  "sources": [
+   "https://www.yahoo.com/news/us/articles/two-data-centers-eyeing-johnson-035900828.html",
+   "https://thetexan.news/texas-local-news/johnson-county-holds-informational-meeting-about-data-center-impacts-on-water-energy/article_95b4f071-4cb9-41ef-8150-ce221d1a5c2c.html",
+   "https://texasscorecard.com/local/johnson-county-highlights-chemicals-power-use-and-noise-risks-of-data-centers/",
+   "https://www.cleburnetimesreview.com/news/commissioners-to-discuss-data-centers-monday/article_9102bb1d-a895-4e35-82e8-60175846b2fd.html"
+  ]
+ },
+ "/data-centers/united-states/texas/austin-county/": {
+  "paragraphs": [
+   "On the evening of August 14, 2026, dozens of Austin County residents met near Trenckmann Road and FM 949 and drove in tractors, trailers and trucks to Millheim Harmonie Verein Hall, where CleanSpark was holding an open house on the data center it wants to build about three miles outside Sealy. \"We are not going to lay down and take it. We are here to fight,\" said resident Lisa Hicks. The Sealy News counted about 250 people at the event. CleanSpark, a bitcoin miner moving into AI and high-performance computing, acquired the 271-acre site in October 2025 with long-term power agreements for up to 285 megawatts. The company says only about 10 acres would hold the facility itself, in an enclosed building cooled by a closed-loop liquid system of water and propylene glycol that would use less than ten homes' worth of water a day, and that it will build its own substation and pay the utility for upgrades. \"It sounds like a lot of power, but ultimately, the way that we work with the grid is that we pay our own way,\" said chief business officer Harry Sudocks.",
+   "The site sits on Substation Road beside an existing battery energy storage system that neighbors already live with. At a commissioners court hearing, residents near it described a mechanical sound some compared to a shop vacuum; one landowner said she measured about 61 decibels on her property, and others described a low-frequency hum audible more than a mile away. CleanSpark says the battery site is a separate project with a different owner that predates its purchase. Residents also raised water, electrical demand, construction traffic, wildlife and migratory birds, property values, light and the cumulative effect of several industrial projects in a rural county close to Houston. Not every speaker opposed it: a local real estate agent argued for guardrails rather than a pause, and one neighbor on Substation Road said the company had answered her questions in writing and seemed willing to negotiate over noise. CleanSpark cites a Deloitte analysis it commissioned projecting more than $214 million in property tax for the county and Sealy ISD over ten years and more than 100 permanent jobs; Austin County News Online noted those figures had not been independently confirmed.",
+   "On July 27 commissioners unanimously adopted a countywide moratorium on new AI data centers and battery storage. It directs county officers, including the fire marshal, not to approve permits until the county completes a health and safety review, requires developers to file an equipment manufacturer audit and swear that no components come from prohibited foreign-adversary suppliers, orders a study of where an energy development zone could go, and lets county counsel seek injunctions against violations. County Judge Tim Lapham said the question was not whether CleanSpark is a responsible operator but how the county can set standards for every company that follows, and that the moratorium is one of the few tools it has. KWHI reported Austin County was only the second Texas county to try this; Hill County adopted a moratorium in May and dropped it after a data center developer sued for more than $100 million.",
+   "Whether the moratorium stops CleanSpark is not settled. The company's representatives said the substation had always been meant to serve a data center and had been discussed with local officials; county officials said an earlier request for drainage and substation work was never clearly tied to a data center, that approving the substation did not grandfather one, and that no complete development permit application for the data center had been filed. Above both sits the state: Governor Greg Abbott ordered the Public Utility Commission and ERCOT in August to audit every data center connecting to the Texas grid, and CleanSpark, which Abbott named among companies agreeing to comply with his standards, says it needs certainty about power before breaking ground and would then need 16 to 18 months to build. When the county's review will finish, where an energy zone might go, and who CleanSpark's computing customer would be have not been made public."
+  ],
+  "sources": [
+   "https://click2houston.com/news/local/2026/08/15/austin-county-residents-protest-cleanspark-data-center-in-sealy/",
+   "https://austincountynewsonline.com/austin-county-residents-commissioners-and-cleanspark-debate-proposed-data-center-and-bess-moratorium/",
+   "https://www.sealynews.com/article/9010,cleanspark-hosts-austin-county-town-hall-on-proposed-data-center",
+   "https://kwhi.com/2026/07/28/austin-co-commissioners-enact-moratorium-on-data-centers-battery-energy-storage-systems/",
+   "https://www.multistate.us/insider/2026/8/19/the-local-fight-over-data-centers-a-texas-case-study",
+   "https://www.datacenterdynamics.com/en/news/cleanspark-acquires-447-acres-for-second-texas-ai-data-center-site/",
+   "https://www.coloradocountycitizen.com/article/8388,yes-we-are-worried-about-the-data-centers-in-austin-county"
+  ]
+ },
+ "/data-centers/united-states/texas/calhoun-county/": {
+  "paragraphs": [
+   "Calhoun County may become the site of a 1,600-acre AI computing campus for Crusoe, the company that built a similar campus in Abilene, Texas, for OpenAI and Oracle. Its power would come from Blue Energy, a nuclear startup founded in 2023 out of MIT, which announced with Crusoe on October 30, 2025 what they call the first nuclear plant financed specifically to power one company's computers: an up-to-1.5-gigawatt plant at the Port of Victoria, running on natural gas as soon as 2028 and switching to nuclear power by 2031. Reports disagree on the campus's exact location: some place it inside the Port of Victoria, in neighboring Victoria County; others say it sits across the line in Calhoun County.",
+   "Blue Energy has agreements for gas turbines and a nuclear reactor design, and plans as many as five small factory-built reactors; it has filed the first part of a construction-permit application with federal regulators, with the rest due in late 2027. Victoria County commissioners voted to accept, not approve, six tax-abatement applications from Blue Energy covering about $6.5 billion in taxable property, an agenda item residents said was mislabeled \"Blue Ammonia.\" Supporters call it a project worth more than $10 billion with 363 permanent jobs; opponents object to both the abatements and the data center the power would serve. \"Bring us jobs that don't destroy our farmland,\" said resident Jewel Buchanan.",
+   "Water crosses the county line too. Crusoe says its own chip cooling is closed-loop and uses little water, but that claim doesn't cover the nuclear plant's cooling, years of gas generation, or construction, in a coastal region already fighting saltwater intrusion in its aquifer. State Rep. A.J. Louderback said data centers must supply their own water and power and plans to file rules next session: \"Every county has got to be protected on their water.\""
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/crusoe-taps-blue-energy-to-supply-nuclear-power-for-up-to-15gw-data-center-in-port-of-victoria-texas/",
+   "https://world-nuclear-news.org/articles/blue-energy-and-crusoe-unveil-texas-nuclear-powered-data-centre-plan",
+   "https://cryptobriefing.com/blue-energy-nuclear-reactor-texas-crusoe/",
+   "https://victoriaadvocate.com/2026/07/14/blue-energy-data-center-debate-continues/",
+   "https://victoriaadvocate.com/2026/06/30/blue-energy-debate-continues-at-commissioners-court/",
+   "https://wildtomorrow.substack.com/p/the-worlds-first-is-coming-to-our"
+  ]
+ },
+ "/data-centers/united-states/california/kings-county/": {
+  "paragraphs": [
+   "Global Stack, a California company, wants to put what it calls an emergency-resilience computing unit on two to five acres of the Kings Fairgrounds in Hanford, one of more than 50 fairgrounds it is pursuing statewide at roughly $20 million a site. The fair board, not the city or county, decides, because the fairgrounds are state property. No agreement has been announced, and the payment to the fair has not been disclosed.",
+   "The company describes the units as \"compact, self-contained appliances\" about the size of a shipping container, cooled by a closed loop that \"consumes effectively no water.\" It has not said how much power they would draw beyond calling it comparable to ordinary commercial use. Dena Rizzardo, chief executive of the Kings and Tulare fairgrounds, said it \"is not for the construction of a traditional hyperscale commercial data center.\" More than 30 people spoke against it at the July 20 fair board meeting, citing secrecy, noise and utility bills.",
+   "Hanford has shut its own door. The city issued a statement on August 15 opposing all data centers, and on August 18 the council declined to change its zoning to allow them, so they cannot be approved inside city limits. \"It defaults to them not being allowed,\" said assistant city manager Jason Waters, though he noted that state agencies owning land in the city may not be bound by local zoning. Mayor Mark Kairis said the city had not been consulted on the fairground plan."
+  ],
+  "sources": [
+   "https://www.kvpr.org/government-politics/2026-07-29/the-company-doesnt-call-them-data-centers-but-valley-residents-are-suspicious",
+   "https://hanfordsentinel.com/business/agriculture/kings-fairground-ceo-new-project-is-not-a-traditional-data-center/article_90b4f45c-e98e-4077-a585-6e5416581ac3.html",
+   "https://www.ourvalleyvoice.com/2026/08/20/agencies-take-action-after-outcry-against-data-center-construction/",
+   "https://sjvwater.org/tulare-county-hits-pause-on-ai-data-centers/"
+  ]
+ },
+ "/data-centers/united-states/california/tulare-county/": {
+  "paragraphs": [
+   "Tulare County has paused new data centers in its unincorporated areas. Supervisors voted 4-1 on August 18, 2026 for a 45-day moratorium, which runs to about October 2 unless they extend it; it can be stretched to as long as two years while planners write zoning rules. No developer has applied, but the county has had inquiries about large sites. Supervisor Dennis Townsend voted no, preferring to debate each proposal as it comes.",
+   "Groundwater drove the vote. \"We all sit on (groundwater sustainability agency) boards, and we know the issues going on and the impact they have on our farming,\" said Supervisor Larry Micari. \"If there's a big data center that uses a million gallons of water a day, we should be able to close it.\" Supervisor Eddie Valero, whose district includes East Orosi, a community that has fought contaminated drinking water for decades, worried about adding \"an extraordinarily resource-intensive land use\" to a valley with poor air and extreme heat.",
+   "The spark was the county fairground in Tulare, where Global Stack wants to place shipping-container-sized computing units it calls emergency-resilience systems. The fair board tabled the idea in July, and at a packed August 18 meeting its president, Gary Castro, said the board had not approved or proposed \"any commercial data center.\" Because the fairgrounds are state land outside county control, supervisors also agreed to send an automatic letter opposing any AI data center another public body in the county considers. Visalia's council agreed on August 17 to take up a moratorium at a future meeting."
+  ],
+  "sources": [
+   "https://sjvwater.org/tulare-county-hits-pause-on-ai-data-centers/",
+   "https://www.ourvalleyvoice.com/2026/08/20/agencies-take-action-after-outcry-against-data-center-construction/",
+   "https://abc30.com/post/tulare-fair-board-faces-pushback-proposed-high-tech-fairgrounds-project-packed-meeting/19700804/",
+   "https://www.kvpr.org/government-politics/2026-07-29/the-company-doesnt-call-them-data-centers-but-valley-residents-are-suspicious"
+  ]
+ },
+ "/data-centers/united-states/arkansas/boone-county/": {
+  "paragraphs": [
+   "No large data center is proposed in Boone County. None of the five data center projects announced in Arkansas by May 2026, in Pulaski County, Little Rock, West Memphis, Clarksville and Conway, is here. The county's one fight so far was over a bitcoin mine: in 2023 Green Digital LLC bought land in Harrison for a cryptocurrency mining facility, and residents turned out against it.",
+   "\"The citizens of this community have come together, joined arms, and...we just flat don't want it,\" said Terry Brown, who lives across the road from the planned site. The Harrison City Council passed a moratorium on May 25, 2023, but a state law signed that April, Act 851, left cities little power over commercial crypto mines. City Attorney Nancy Cartwright said she knew of no other Arkansas law that \"sets aside such a narrowly-defined industry and gives it such favor.\"",
+   "The council repealed its moratorium at a special meeting in November 2023. \"If they meet the minimum ordinance guidelines, you don't have any way of stopping it,\" said Councilmember Mitch Magness. At the time, local reporters said the mine's future was unknown, and there has been no public word since on whether it was built."
+  ],
+  "sources": [
+   "https://arkansasadvocate.com/2026/05/22/arkansas-explained-understanding-the-data-center-boom-and-debate/",
+   "https://katv.com/news/local/arkansas-towns-vs-chinese-supercomputers-how-recent-legislation-removes-local-governments-ability-to-regulate-cryptocurrency-mines-antbox-group-green-digital-llc-nancy-cartwright-harrison-vilonia-metahash-global-act-851-hb-1799-sarah-huckabee-sanders",
+   "https://harrisondaily.com/stories/more-about-moratorium-on-crypto,204197",
+   "https://www.ky3.com/2023/11/29/harrison-ark-city-council-votes-remove-moratorium-crypto-mining-center-during-special-meeting/"
+  ]
+ },
+ "/data-centers/united-states/pennsylvania/cumberland-county/": {
+  "paragraphs": [
+   "A group of northern Virginia developers wants to build a $15 billion data center complex on nearly 700 acres off Country Club Road in Middlesex Township, about five miles northeast of Carlisle. The project, called Pennsylvania Digital 1 or PAX-1, would split the land into three campuses of six buildings each. PPL is already building the substation needed to supply its 1,350 megawatts of power, and the Middlesex water authority has reserved up to 400,000 gallons a day for it. The developers project $45 million a year for the Cumberland Valley School District and about $10 million for the county and township.",
+   "Neighbors have fought the project for more than a year over water use, cooling, noise, diesel generator exhaust and the view from the nearby Appalachian Trail. Five couples have sued, claiming the township illegally rezoned farmland to let PAX-1 in. On September 2, 2026, at a packed meeting in the Cumberland Valley High School auditorium, the two remaining township supervisors approved the project's final plans, a $5 million decommissioning bond and a $14 million community benefits agreement, after the third supervisor resigned. Resident Robert Eppley Jr., whose father served as a supervisor for almost 40 years, told the board, \"When you cast your vote, you don't matter.\"",
+   "No tenant has been named; the developers have said it could be a company like Google, Amazon or Oracle. Before construction can start, the developers must file the final first-campus plan at the county courthouse for a building permit, and the lawsuit over the township's rezoning remains active."
+  ],
+  "sources": [
+   "https://cumberlink.com/news/local/government-politics/article_ed9dbc75-2257-4401-b64d-d85d52323893.html",
+   "https://www.govtech.com/artificial-intelligence/cumberland-county-pa-data-centers-take-new-step-forward",
+   "https://local21news.com/news/local/a-new-data-center-might-be-build-in-cumberland-county-and-its-700-acres-ai-carlisle-artificial-intelligence-pennsylvania-data-center-partners-powerhouse-pa"
+  ]
+ },
+ "/data-centers/united-states/pennsylvania/butler-county/": {
+  "paragraphs": [
+   "A developer has proposed the Misty Hollow Energy and Data Campus on 274 acres of a former farm at 614 Prospect Road in Forward Township. Plans call for a million-square-foot data center, an 80,000-square-foot wastewater treatment plant, a 23,800-square-foot office building and a power station, with room set aside to expand. The developer, working through 614 Prospect RD LLC, told the Butler Eagle it wants final approvals in early 2027 and hopes to finish building by mid-2029.",
+   "The site sits inside a horseshoe bend of Connoquenessing Creek, but the plans do not draw water from the creek or discharge into it. Instead the project would tie into an existing waterline and use a closed-loop cooling system, developer Allen Sherwood said in a statement, adding the design is meant to \"significantly limit water demand.\" No tenant has been named yet, and Sherwood said the developers are still in \"preliminary discussions\" with possible customers.",
+   "Other Butler County townships are moving first. Penn Township drafted a data center ordinance ahead of an August hearing even though no developer had approached it, and Jefferson Township voted to write one after a fight with a solar developer. Butler County already hosts one data center, Iron Mountain's Boyers facility.",
+   "Forward Township's planning commission is now reviewing the Misty Hollow preliminary plan, and the township's supervisors are expected to vote in November on a separate ordinance covering all industrial development in the township."
+  ],
+  "sources": [
+   "https://www.butlereagle.com/20260918/massive-data-center-proposed-in-forward-township/",
+   "https://www.butlereagle.com/20260715/penn-township-to-hold-public-hearing-on-proposed-data-center-ordinance/",
+   "https://www.butlereagle.com/20260611/jefferson-township-supervisors-discuss-data-center-ordinance/"
+  ]
+ },
+ "/data-centers/greece/": {
+  "paragraphs": [
+   "Greece's data center fight is in Spata, east of Athens near the airport, where three data centers are advancing: Microsoft's; Data In Scale, a joint venture of the UAE's Damac and the utility PPC; and the 80-megawatt Olive Data Center by Dromeus Capital and APTO. Spata-Artemida's municipal council opposed the Olive project, but the Attica regional council approved its environmental study. Residents have appealed to the Council of State, Greece's highest administrative court, asking for a study of the three projects' combined effects and of how much the area can take.",
+   "Residents worry about continuous noise, a warmer local climate and heavy water and power use near homes. Data In Scale's first phase is 12.5 megawatts for 150 million euros. Nearby at Paiania, Data4 is building a 90-megawatt, 300 million euro campus whose first building is due in early 2027; Prime Minister Kyriakos Mitsotakis laid its first stone. Digital Realty already runs three data centers in Attica and one on Crete.",
+   "Greece has only a few dozen megawatts of data centers today, but the plans on the table would take it past 1 gigawatt before 2030, To Vima reported. PPC is also designing a 300-megawatt data center in Western Macedonia that could grow to 1,000 megawatts, running on local clean power rather than the national grid."
+  ],
+  "sources": [
+   "https://www.tovima.com/finance/data-centers-greeces-next-investment-frontier-and-the-challenges-of-energy-and-water/",
+   "https://en.protothema.gr/2025/11/25/residents-raise-concerns-over-plans-for-three-data-centers-in-spata/",
+   "https://www.datacenterdynamics.com/en/news/data4-breaks-ground-on-greek-data-center-outside-athens/"
+  ]
+ },
+ "/data-centers/croatia/": {
+  "paragraphs": [
+   "The biggest data center plan in Croatia is Pantheon Atlas's AI campus on 310 acres of open land near Topusko, about 90 kilometers south of Zagreb: up to 12 billion euros, with up to 1 gigawatt of power. The US investor group announced it in May 2026, and the grid operator HOPS has since approved more than 500 million euros of new power lines and a substation for it. Construction is expected to start in early 2027, with the campus running by early 2029.",
+   "The permits are not in hand. The Sisak-Moslavina county plan is being amended to draw the route of about 300 kilometers of new lines, and the environmental studies are still being prepared, Glas Slavonije reported. Landowners where pylons go will be expropriated with a one-time payment. Pantheon says it will not take water from the Glina river or the thermal springs that feed Topusko's spa, and will rely on its own five boreholes; it has promised separate public briefings on water.",
+   "Critics point to the scale. The Croatian partner, Jako Andabak, who owns the land for the planned 500-megawatt solar plant, told the broadcaster HRT the campus would raise Croatia's electricity use by about 20 percent, in a country that already imports much of its power. A column in Nacional argued that Topusko sits at the center of Banovina, where nearby Sisak is still rebuilding homes after the 2020 earthquake, and that the region should not have the decision made over its head.",
+   "Croatia's existing data centers are small. Digital Realty's ZAG1 on Selska cesta in Zagreb, the one site listed below, offers 800 kilowatts."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/pantheon-atlas-secures-grid-approval-for-1gw-croatia-data-center/",
+   "https://www.glas-slavonije.hr/novosti/hrvatska/2026/05/21/pantheon-ai-tvrdi-najveci-europski-data-centar-nece-koristiti-struju-iz-hep-ova-sustava-ni-utjecati-na-cijene-za-gradane-i-industriju-764810/",
+   "https://www.nacional.hr/projekt-pantheon-sto-je-veleposlanica-sad-a-rekla-naglas-sto-je-investitor-priznao-usput-i-zasto-fizika-ne-pregovara-s-pismima-namjere/",
+   "https://www.datacenterdynamics.com/en/news/digital-realty-buys-land-capable-of-supporting-30mw-in-zagreb-croatia/"
+  ]
+ },
+ "/data-centers/indonesia/banten/": {
+  "paragraphs": [
+   "Banten, the province next to Jakarta, is selling itself as the next place for data centers, and so far the record is mostly of officials making the pitch. On 29 July 2026 Governor Andra Soni received Qimeng Sun, chief executive of the Beijing company Hexavia, at the governor's office in Serang. Andra said, as reported by the provincial government and Antara, that the Chinese group had looked at several other provinces whose infrastructure fell short, that Banten's power supply and abundant water were what drew it, and that the province is open to investment as long as it follows the rules. The head of the provincial investment office, Virgojanti, said investors had shown interest this year in sites at Cileles in Lebak Regency, the special economic zone for education, technology and health at BSD in Tangerang Regency, the Cikupa area and, most recently, Serang, and that the province would help with land, electricity and water.",
+   "The BSD zone is where the ambition is most concrete. Designated in October 2024 on about 59.68 hectares, the zone, also called D-HUB SEZ, is about half built on its eastern side, the operator's Lindawaty told Antara, with 29 tenants operating or building and a target of at least 50 within five years. Governor Andra said the zone recorded Rp1.9 trillion of investment and about 1,773 jobs in its first year, targets nearly Rp6 trillion within five years, and is seeking to expand; he said many technologies would come into the zone, data centers among them. A release from the zone's operator lists a data center tenant, APG, among its technology occupants alongside health clinics, Monash University and other schools. Most of the tenants so far are in health and education rather than computing.",
+   "What is missing is any reported project fight, or any figure for how much power and water the data centers being courted would need. The claims of ample electricity and water come from the provincial government itself; no independent assessment of either has appeared publicly, and none of the investors named has announced a site, a capacity or a timeline. In West Java the 2026 dry season left more than a million people short of clean water, the kind of test any large Banten project would also face."
+  ],
+  "sources": [
+   "https://bantenprov.go.id/berita/provinsi-banten-jadi-pilihan-investor-data-center-dan-ai",
+   "https://banten.antaranews.com/berita/386908/banten-siap-tampung-investasi-pusat-data-dan-ai-tiongkok",
+   "https://banten.antaranews.com/berita/390689/jadi-pusat-data-pemprov-banten-targetkan-kek-etki-di-tangerang",
+   "https://mediaindonesia.com/ekonomi/912707/kek-etki-banten-tarik-investasi-rp14-triliun-perkuat-ekosistem-digital-di-bsd-city",
+   "https://jabar.idntimes.com/news/jawa-barat/satu-juta-warga-jabar-terdampak-kekeringan-dan-kesulitan-air-bersih-00-nqtvm-4f35nz"
+  ]
+ },
+ "/data-centers/thailand/nonthaburi/": {
+  "paragraphs": [
+   "Nonthaburi, part of Greater Bangkok, appears in the data center record mostly through directory listings rather than news. The market tracker datacenterHawk lists JasTel's data center in the Jasmine International Tower on Chaeng Watthana Road in Pak Kret district: a 197,160-square-foot building from 1997, retrofitted, with 810 kilowatts commissioned and no additional capacity planned. No news report found for this page describes a new data center project, a local dispute or a planning decision in Nonthaburi.",
+   "What does reach Nonthaburi is the national policy shift. In 2026 Thailand suspended construction of 49 data centers and froze approvals for 117 more while it writes new rules, citing power consumption and effects on local communities, DCD reported, citing Bloomberg; Danucha Pichayanan, secretary-general of the National Economic and Social Development Council, announced the pause. New projects will have to meet requirements on town planning, separation from neighbouring buildings, safety, electrical systems, backup fuel storage and environmental protection, with a transition period for existing operators. The government has not said which facilities were paused, so whether any are in Nonthaburi is not public. The pause followed a surge of approvals, with the Board of Investment backing 88 AI and data center projects worth about 886 billion baht in the first half of 2026, and separately an oil leak from Damac Digital's BKK 01 data center on Rama 9 Road in Bangkok sent oil and chemical odors into residents' drains, a clean-up that removed 32 cubic metres of contaminated water and sludge."
+  ],
+  "sources": [
+   "https://datacenterhawk.com/marketplace/providers/jastel/jasmine-international-tower-chaeng-watthana-rd-tambon-pak-kret-pak-kret-district-nonthaburi-11120/jastel-data-center",
+   "https://www.datacenterdynamics.com/en/news/thailand-pauses-construction-on-49-data-centers-as-it-plans-new-regulations/",
+   "https://www.datacenterdynamics.com/en/news/oil-leak-from-data-center-contaminates-water-in-bangkok-thailand/"
+  ]
+ },
+ "/data-centers/thailand/bangkok/": {
+  "paragraphs": [
+   "Bangkok's data center fight is over Damac's new data center next to Rama 9 Hospital on Rama IX Road, which was still testing its cooling system before opening. The Department of Energy Business found about 200,000 liters of diesel stored there for backup generators without the required license, ordered it removed and filed a police complaint on September 3, 2026; the penalty can be up to two years in prison, a 200,000-baht fine, or both.",
+   "Residents around Soi Rama IX 6 in Huai Khwang district had complained of an oil-like smell for more than two months, with nasal irritation and itching, and some said it left them dizzy or vomiting. Pollution inspectors found murky, oily water at a drain outlet; the operator said a contractor testing backup generators had spilled fuel. The clean-up removed 32 cubic meters of contaminated water and sludge. The Energy Ministry and the Bangkok Metropolitan Administration now say they will not allow data centers to store generator fuel in densely populated neighborhoods.",
+   "Damac's data center arm owns 70% of the site and the Thai company PROEN 30%; Damac plans five to six data centers in Thailand for $1 billion. In Bang Na, Evolution Data Centres has pre-leased the 12-megawatt first phase of its TH01 site to a large cloud company, due online at the end of 2026, with a 40-megawatt phase due in 2027. Nationally, Thailand has paused construction of 49 data centers while it writes rules on zoning, distance from neighbors and fuel storage, without naming which ones."
+  ],
+  "sources": [
+   "https://www.nationthailand.com/news/general/40070583",
+   "https://www.nationthailand.com/thailand/bangkok/40070657",
+   "https://www.nationthailand.com/business/economy/40070782",
+   "https://www.datacenterdynamics.com/en/news/oil-leak-from-data-center-contaminates-water-in-bangkok-thailand/",
+   "https://www.datacenterdynamics.com/en/news/evolution-dc-signs-pre-lease-for-first-phase-of-bangkok-data-center-to-unnamed-hyperscaler/",
+   "https://www.datacenterdynamics.com/en/news/thailand-pauses-construction-on-49-data-centers-as-it-plans-new-regulations/"
+  ]
+ },
+ "/data-centers/taiwan/taipei-city/": {
+  "paragraphs": [
+   "Empyrion Digital is building a five-story, 7-megawatt data center, TW1, in Taipei's Neihu district, with solar panels built into its walls. Construction began in January 2026, financed by E.Sun Bank, and it is due to be ready in the fourth quarter of 2027. Amazon Web Services opened its Asia Pacific (Taipei) cloud region on June 5, 2025, its first in Taiwan, and Reuters reported it would invest a further $5 billion in its Taiwan data centers.",
+   "Power limits what can be built in the capital. Taipower stopped approving data centers larger than 5 megawatts north of Taoyuan after September 2023, and the Ministry of Economic Affairs said the north needs more grid infrastructure and new power sources. Since November 2025, any new data center of 5 megawatts or more must also have its energy-use plan approved before construction.",
+   "The grid's fragility showed after a magnitude 7.2 earthquake knocked out generating units, when Taipower asked TSMC to supply 200 megawatt-hours from its backup generators to help parts of Taipei avoid outages. Vantage calls TPE11, a 16-megawatt data center it opened in 2024, its first Taipei data center, but the building is in Taoyuan."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/empyrion-closes-financing-for-taipei-taiwan-data-center-with-esun-bank/",
+   "https://www.datacenterdynamics.com/en/news/empyrion-digital-breaks-ground-on-first-taiwan-data-center/",
+   "https://www.datacenterdynamics.com/en/news/aws-launches-taiwan-cloud-region-will-invest-5bn-in-data-centers-in-country/",
+   "https://www.datacenterdynamics.com/en/news/taiwan-to-stop-large-data-centers-in-the-north-cites-insufficient-power/",
+   "https://www.reccessary.com/en/news/Taiwan-data-centers-5MW-energy-efficiency",
+   "https://www.datacenterdynamics.com/en/news/tsmc-provides-200000-kwh-from-backup-generators-to-help-taipei-avoid-power-outages/",
+   "https://www.datacenterdynamics.com/en/news/vantage-launches-taipei-data-center-in-taiwan/"
+  ]
+ },
+ "/data-centers/colombia/cundinamarca/": {
+  "paragraphs": [
+   "ODATA, owned by Aligned Data Centers, is spending $1.3 billion on two new data center campuses on the Sabana de Bogotá. DC BG02, in the Zona Franca de Occidente free-trade zone in Mosquera, is to offer 24 megawatts of power for computers; DC BG03, in the Zona Franca Metropolitana in Tenjo, up to 120 megawatts, which ODATA says will make it Colombia's largest data center. ODATA already runs DC BG01, opened in 2018 with 14.6 megawatts.",
+   "The Tenjo campus is built for cloud and artificial intelligence customers and will connect directly to the high-voltage transmission system. A University of the Andes podcast, Cerosetenta, said it could cover up to 65 hectares (about 160 acres) and need as much electricity as a city of 100,000 homes. The podcast asked what it means for the Sabana, a region of farms and homes, to start producing computing power instead. ODATA said the first phases of both new campuses would be finished by the end of 2026."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/odata-to-spend-13bn-building-two-data-centers-in-colombia/",
+   "https://cerosetenta.uniandes.edu.co/sistema-no-operativo-e5-data-centers-en-colombia/"
+  ]
+ }
+}

@@ -1,0 +1,585 @@
+[
+ {
+  "id": "epoch-google-council-bluffs-east",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's data center in Council Bluffs, Iowa sits at 10410 Bunge Avenue in Pottawattamie County, on the Iowa side of the Missouri River from Omaha.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The company operates the site under a subsidiary name, Questa LLC, rather than as Google itself.",
+    "src": "https://programs.iowadnr.gov/easyair/Public/EnSuite/Shared/Pages/Util/ServerRptViewer.aspx?sr=/IDNR/Reports/EASY/RPT_Construction_Application_A_GEN&SUBMISSION_RID=67330&SUB_FORM_RID=148293"
+   },
+   {
+    "para": 0,
+    "t": "In a construction permit modification filed with the Iowa Department of Natural Resources on January 21, 2026, Questa LLC's site manager, Joseph Sprowls, and its environmental health and safety program manager, Armando Carrillo, signed off on changes to the facility's air permit.",
+    "src": "https://programs.iowadnr.gov/easyair/Public/EnSuite/Shared/Pages/Util/ServerRptViewer.aspx?sr=/IDNR/Reports/EASY/RPT_Construction_Application_A_GEN&SUBMISSION_RID=67330&SUB_FORM_RID=148293"
+   },
+   {
+    "para": 1,
+    "t": "Epoch AI estimates the site now draws about 237 megawatts of IT power.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The nearest large power plant is the coal-fired Walter Scott Jr. Energy Center, 1,512 megawatts, four kilometers away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "Three data centers operate in Pottawattamie County in all, including a CyrusOne campus nine kilometers away, and Google runs two more Omaha-area campuses, in Papillion and Omaha itself, each about 28 kilometers off.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://programs.iowadnr.gov/easyair/Public/EnSuite/Shared/Pages/Util/ServerRptViewer.aspx?sr=/IDNR/Reports/EASY/RPT_Construction_Application_A_GEN&SUBMISSION_RID=67330&SUB_FORM_RID=148293"
+  ],
+  "unconfirmed": "No local news coverage of hearings, opposition or community reaction to this specific site turned up; the only primary document found was a routine state permit filing. The Encyclopedia.pub page cited in our record returned a 403 error and DataCenterMap returned a 429 (rate-limited) error, so neither could be checked."
+ },
+ {
+  "id": "epoch-coreweave-denton-tx",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The CoreWeave data center on the western edge of Denton, Texas, used to be a bitcoin mine.",
+    "src": "https://dentonrc.com/news/denton/denton-s-data-center-boom-sparks-debate-over-growth-and-resources/article_edd8a259-a067-45b1-bd99-7aefa775f940.html"
+   },
+   {
+    "para": 0,
+    "t": "Its owner, Core Scientific, is converting the site at 8171 Jim Christal Road, in Denton County, into an AI computing campus that leases capacity to CoreWeave, a company that rents out GPU computing power.",
+    "src": "https://dentonrc.com/news/denton/denton-s-data-center-boom-sparks-debate-over-growth-and-resources/article_edd8a259-a067-45b1-bd99-7aefa775f940.html"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI's data lists OpenAI as the likely end user of that computing power.",
+    "src": "data:tenant"
+   },
+   {
+    "para": 0,
+    "t": "Denton's city council approved the conversion and a Core Scientific investment of up to $6 billion in 2024.",
+    "src": "https://dentonrc.com/news/denton/denton-s-data-center-boom-sparks-debate-over-growth-and-resources/article_edd8a259-a067-45b1-bd99-7aefa775f940.html"
+   },
+   {
+    "para": 0,
+    "t": "On February 26, 2025, the companies announced a further $1.2 billion expansion, adding 70 megawatts of contracted power and bringing the site's contracted capacity to about 260 megawatts.",
+    "src": "https://investors.corescientific.com/news-events/press-releases/detail/110/core-scientific-and-coreweave-announce-1-2-billion-expansion-at-denton-tx-site"
+   },
+   {
+    "para": 0,
+    "t": "Core Scientific's chief executive, Adam Sullivan, said the expansion deepened the company's relationship with CoreWeave on large-scale projects that power advanced AI.",
+    "src": "https://investors.corescientific.com/news-events/press-releases/detail/110/core-scientific-and-coreweave-announce-1-2-billion-expansion-at-denton-tx-site"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI currently estimates the site's IT power at 262 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Denton County resident James Macfadzean told the Denton Record-Chronicle he worried the city was prioritizing development over consequences: \"A lot of it just seems to be like build, build, build and we'll deal with repercussions later.\"",
+    "src": "https://dentonrc.com/news/denton/denton-s-data-center-boom-sparks-debate-over-growth-and-resources/article_edd8a259-a067-45b1-bd99-7aefa775f940.html"
+   },
+   {
+    "para": 1,
+    "t": "City council member Brian Beck, a candidate for mayor, said he is not interested in attracting data centers to Denton: \"I think we need to be making sure that if you are going to come to town, then you need to follow the greenest rules possible.\"",
+    "src": "https://dentonrc.com/news/denton/denton-s-data-center-boom-sparks-debate-over-growth-and-resources/article_edd8a259-a067-45b1-bd99-7aefa775f940.html"
+   },
+   {
+    "para": 1,
+    "t": "The city approved another data center in January 2026, a modular facility from QumulusAI near Western Boulevard and Jim Christal Road.",
+    "src": "https://dentonrc.com/news/denton/denton-s-data-center-boom-sparks-debate-over-growth-and-resources/article_edd8a259-a067-45b1-bd99-7aefa775f940.html"
+   },
+   {
+    "para": 2,
+    "t": "The debate is playing out across the region: Fort Worth adopted a temporary data center moratorium on August 13, 2026, and Texas imposed a grid-connection moratorium on new large power users on August 3, 2026, after Governor Greg Abbott ordered an audit of data center project claims.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Nearby Lewisville and the city of Sanger also passed zoning limits on data centers in 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://dentonrc.com/news/denton/denton-s-data-center-boom-sparks-debate-over-growth-and-resources/article_edd8a259-a067-45b1-bd99-7aefa775f940.html",
+   "https://investors.corescientific.com/news-events/press-releases/detail/110/core-scientific-and-coreweave-announce-1-2-billion-expansion-at-denton-tx-site"
+  ],
+  "unconfirmed": "Secondary listings mention property-tax revenue and job-count figures tied to the city's land lease with Core Scientific, but no primary source for those specific numbers could be verified, so they are left out."
+ },
+ {
+  "id": "epoch-qts-richmond-1",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "QTS Richmond 1 is the largest of three QTS data center campuses on Technology Boulevard and Portugee Road in Sandston, a Henrico County community east of Richmond, Virginia.",
+    "src": "https://q.com/data-centers/richmond-1/"
+   },
+   {
+    "para": 0,
+    "t": "QTS puts the campus at 207 acres with six buildings and 2.3 million square feet, supported by 238 megawatts, which matches Epoch AI's estimate of its IT power.",
+    "src": "https://q.com/data-centers/richmond-1/"
+   },
+   {
+    "para": 0,
+    "t": "The buildings are LEED Gold certified, draw on an on site solar array, and sit near an undersea cable landing station.",
+    "src": "https://q.com/data-centers/richmond-1/"
+   },
+   {
+    "para": 0,
+    "t": "QTS says its closed loop cooling recirculates the same water and needs only a one time fill, so there is no continuing water demand for cooling.",
+    "src": "https://q.com/data-centers/richmond-1/"
+   },
+   {
+    "para": 1,
+    "t": "Henrico welcomed this industry and has since changed its mind about how much more of it to take.",
+    "src": "https://www.datacenterfrontier.com/hyperscale/article/55296394/henrico-county-virginia-moves-to-slow-data-center-growth"
+   },
+   {
+    "para": 1,
+    "t": "On June 10, 2025 the Board of Supervisors approved rules ending by right development of hyperscale data centers anywhere in the county.",
+    "src": "https://www.datacenterfrontier.com/hyperscale/article/55296394/henrico-county-virginia-moves-to-slow-data-center-growth"
+   },
+   {
+    "para": 1,
+    "t": "Every new one now needs a provisional use permit with public hearings before the Planning Commission and the board, a 500 foot tree buffer from homes, limits on when backup generators can be tested, screening or enclosure of noise making equipment and closed loop water cooling.",
+    "src": "https://www.datacenterfrontier.com/hyperscale/article/55296394/henrico-county-virginia-moves-to-slow-data-center-growth"
+   },
+   {
+    "para": 1,
+    "t": "The rules reach back to rezoned projects that have not yet had final site plan approval or started construction.",
+    "src": "https://www.datacenterfrontier.com/hyperscale/article/55296394/henrico-county-virginia-moves-to-slow-data-center-growth"
+   },
+   {
+    "para": 2,
+    "t": "Varina District supervisor Tyrone Nelson, whose district this is, said of the earlier decisions: \"I didn't understand everything that went with data centers. I didn't. But I was excited that they were coming to our community in 2017. I own that, and I own voting last year for the rezoning of the property that QTS purchased.\"",
+    "src": "https://www.datacenterfrontier.com/hyperscale/article/55296394/henrico-county-virginia-moves-to-slow-data-center-growth"
+   },
+   {
+    "para": 3,
+    "t": "Henrico County has 11 data centers, including two more QTS campuses within a kilometre of this one plus sites run by Meta and Iron Mountain.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://q.com/data-centers/richmond-1/",
+   "https://www.datacenterfrontier.com/hyperscale/article/55296394/henrico-county-virginia-moves-to-slow-data-center-growth"
+  ],
+  "unconfirmed": "Searches on QTS with Sandston, on Henrico County with data center, and on White Oak Technology Park with residents found no opposition, permitting fight or community concern attached to this campus specifically; the resident pushback in Henrico is about QTS's proposed expansion next door, which is covered on this site's Richmond 3 page. QTS gives 207 acres where our record had more than 200, and no water figure for the one time fill was published."
+ },
+ {
+  "id": "epoch-qts-richmond-2",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Richmond 2 is the middle QTS data center at the Sandston campus, about a kilometre down Technology Boulevard from Richmond 1 and Richmond 3, in Henrico County east of Richmond, Virginia.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI estimates its IT power at about 180 megawatts, against 238 for Richmond 1 and a planned 240 for Richmond 3 next door.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "QTS's own page for the Sandston campus describes Richmond 1 in detail and gives no separate figures for Richmond 2.",
+    "src": "https://q.com/data-centers/richmond-1/"
+   },
+   {
+    "para": 1,
+    "t": "Henrico County stopped allowing hyperscale data centers to be built by right on June 10, 2025, and now requires a provisional use permit with public hearings, a 500 foot tree buffer from homes, restrictions on generator testing, screening of noise making equipment and closed loop water cooling.",
+    "src": "https://www.datacenterfrontier.com/hyperscale/article/55296394/henrico-county-virginia-moves-to-slow-data-center-growth"
+   },
+   {
+    "para": 1,
+    "t": "Varina District supervisor Tyrone Nelson, who voted for the earlier approvals, said: \"I didn't understand everything that went with data centers. I didn't. But I was excited that they were coming to our community in 2017. I own that, and I own voting last year for the rezoning of the property that QTS purchased.\"",
+    "src": "https://www.datacenterfrontier.com/hyperscale/article/55296394/henrico-county-virginia-moves-to-slow-data-center-growth"
+   },
+   {
+    "para": 1,
+    "t": "QTS says its cooling runs closed loop, taking a single fill of water and recirculating it.",
+    "src": "https://q.com/data-centers/richmond-1/"
+   },
+   {
+    "para": 2,
+    "t": "Henrico County has 11 data centers, including the other two QTS campuses within a kilometre of this building.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://q.com/data-centers/richmond-1/",
+   "https://www.datacenterfrontier.com/hyperscale/article/55296394/henrico-county-virginia-moves-to-slow-data-center-growth"
+  ],
+  "unconfirmed": "Searches on QTS Richmond 2 with Sandston, on Henrico County with data center, and on White Oak Technology Park with residents turned up no marketing material, news report or public filing that treats Richmond 2 separately from Richmond 1 or Richmond 3. Its acreage, building count, square footage and opening date are all unknown, and the 180 megawatt figure is an estimate rather than a published number."
+ },
+ {
+  "id": "epoch-qts-richmond-3",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Richmond 3 is QTS's newest data center campus at Sandston, in Henrico County, Virginia, on Portugee Road at 3525 to 3543: more than 220 acres planned to reach 240 megawatts across five buildings.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI estimates its IT power today at 144 megawatts, below that planned figure.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "What QTS has proposed next door is far bigger.",
+    "src": "https://www.wtvr.com/news/local-news/henrico-county/residents-push-back-qts-data-center-expansion-may-19-2026"
+   },
+   {
+    "para": 1,
+    "t": "Henrico rezoned 622 acres in May 2024 to create White Oak Technology Park II, land the county expected to hold around 13 more data centers.",
+    "src": "https://www.datacenterfrontier.com/hyperscale/article/55296394/henrico-county-virginia-moves-to-slow-data-center-growth"
+   },
+   {
+    "para": 1,
+    "t": "By May 2026 the proposal on the table was 17 new data center buildings on about 600 acres QTS had secured in eastern Henrico, with up to 300 diesel emergency generators and 11 cooling towers.",
+    "src": "https://www.wtvr.com/news/local-news/henrico-county/residents-push-back-qts-data-center-expansion-may-19-2026"
+   },
+   {
+    "para": 2,
+    "t": "At a community meeting on May 19, 2026, residents raised the power grid and electricity costs, water for cooling, air quality, truck traffic, light and noise.",
+    "src": "https://www.wtvr.com/news/local-news/henrico-county/residents-push-back-qts-data-center-expansion-may-19-2026"
+   },
+   {
+    "para": 2,
+    "t": "Brandy Covington, who lives in Varina, said: \"I walk outside and I'm terrified that I won't be able to look at the night sky anymore and have a constant hum in my ears.\"",
+    "src": "https://www.wtvr.com/news/local-news/henrico-county/residents-push-back-qts-data-center-expansion-may-19-2026"
+   },
+   {
+    "para": 2,
+    "t": "Supervisor Tyrone Nelson said he had committed with his colleagues the year before that he did not want to see any new data centers beyond those already approved.",
+    "src": "https://www.wtvr.com/news/local-news/henrico-county/residents-push-back-qts-data-center-expansion-may-19-2026"
+   },
+   {
+    "para": 3,
+    "t": "On June 10, 2025 the county had ended by right development of hyperscale data centers, requiring a provisional use permit with public hearings, a 500 foot tree buffer from homes, limits on generator testing, screening of noise making equipment and closed loop water cooling.",
+    "src": "https://www.datacenterfrontier.com/hyperscale/article/55296394/henrico-county-virginia-moves-to-slow-data-center-growth"
+   },
+   {
+    "para": 3,
+    "t": "From July 2026 new Virginia Department of Environmental Quality rules require backup generators to meet stricter Tier Four emissions standards.",
+    "src": "https://www.wtvr.com/news/local-news/henrico-county/residents-push-back-qts-data-center-expansion-may-19-2026"
+   },
+   {
+    "para": 3,
+    "t": "QTS says its cooling is closed loop, needing one fill of water and then recirculating it.",
+    "src": "https://q.com/data-centers/richmond-1/"
+   }
+  ],
+  "sources": [
+   "https://www.wtvr.com/news/local-news/henrico-county/residents-push-back-qts-data-center-expansion-may-19-2026",
+   "https://www.datacenterfrontier.com/hyperscale/article/55296394/henrico-county-virginia-moves-to-slow-data-center-growth",
+   "https://q.com/data-centers/richmond-1/"
+  ],
+  "unconfirmed": "No permitting decision on the 17 building expansion was found, and it is not established whether that proposal is an extension of Richmond 3 or a separate campus; the coverage treats it as QTS expansion near White Oak Technology Park without tying it to a numbered campus. Acreage is given as more than 220 in our record and about 600 for the expansion parcel, which are different things. No water or power figure for the expansion was published. Two claims were removed for lack of support in the cited sources: that QTS paid about $137 million for all 622 rezoned acres, which Data Center Frontier does not report, and a second Brandy Covington quote, which is not in the WTVR story."
+ },
+ {
+  "id": "epoch-meta-rosemount",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta announced the Rosemount Data Center on March 14, 2024, calling it its 19th data center in the United States.",
+    "src": "https://datacenters.atmeta.com/2024/03/hello-rosemount/"
+   },
+   {
+    "para": 0,
+    "t": "The site is in Dakota County, Minnesota, south of the Twin Cities.",
+    "src": "data:county"
+   },
+   {
+    "para": 0,
+    "t": "The company says it is investing more than $800 million in the 715,000-square-foot facility on 145th Street, which will employ about 100 people once it is running, after a construction phase that brought more than 1,000 skilled trade workers on site at peak.",
+    "src": "https://datacenters.atmeta.com/asset/rosemount-data-center-info-sheet/"
+   },
+   {
+    "para": 0,
+    "t": "Meta says it worked with Xcel Energy so the data center pays the full cost of the power it uses, and with the City of Rosemount so it pays the full cost of its own water and wastewater service.",
+    "src": "https://datacenters.atmeta.com/asset/rosemount-data-center-info-sheet/"
+   },
+   {
+    "para": 1,
+    "t": "That first data center is still under construction at UMore Park, with completion expected later in 2026.",
+    "src": "https://www.hometownsource.com/sun_thisweek/community/rosemount/rosemount-halts-new-data-center-discussion-with-moratorium/article_59c956b3-230d-4e67-aeeb-57028a66816a.html"
+   },
+   {
+    "para": 1,
+    "t": "Meta is already seeking approval for a second data center on the same site, and residents are pushing back.",
+    "src": "https://southmetroscoop.com/blogs/rosemount-second-meta-data-center-residents-moratorium"
+   },
+   {
+    "para": 1,
+    "t": "At a March 3, 2026 city council meeting, a resident named Jeremie read a written statement asking the council to reject the second project; two other residents spoke with similar concerns, according to South Metro Scoop.",
+    "src": "https://southmetroscoop.com/blogs/rosemount-second-meta-data-center-residents-moratorium"
+   },
+   {
+    "para": 1,
+    "t": "Residents pointed to Rosemount's Well No. 8, which they said already tests above state limits for gross alpha radiation, and argued a large new data center could draw millions of gallons of water a year for cooling on top of that.",
+    "src": "https://southmetroscoop.com/blogs/rosemount-second-meta-data-center-residents-moratorium"
+   },
+   {
+    "para": 1,
+    "t": "They asked the council to wait for real operating data from the first data center before approving a second, and pointed to neighboring Eagan, which had passed a one-year moratorium on data centers larger than 20 megawatts or within 500 feet of homes.",
+    "src": "https://southmetroscoop.com/blogs/rosemount-second-meta-data-center-residents-moratorium"
+   },
+   {
+    "para": 2,
+    "t": "The Rosemount City Council voted unanimously on April 21, 2026 to adopt its own one-year moratorium on new data center development.",
+    "src": "https://www.hometownsource.com/sun_thisweek/community/rosemount/rosemount-halts-new-data-center-discussion-with-moratorium/article_59c956b3-230d-4e67-aeeb-57028a66816a.html"
+   },
+   {
+    "para": 2,
+    "t": "Council member Tami Klimpel said the pause would let the city judge water use, noise levels and community impact against the one project already in motion: \"It allows us to move from speculation to evidence.\"",
+    "src": "https://www.hometownsource.com/sun_thisweek/community/rosemount/rosemount-halts-new-data-center-discussion-with-moratorium/article_59c956b3-230d-4e67-aeeb-57028a66816a.html"
+   },
+   {
+    "para": 2,
+    "t": "Council members Paul Essler and Heidi Freske spoke in support, and the moratorium does not affect the data center already under construction.",
+    "src": "https://www.hometownsource.com/sun_thisweek/community/rosemount/rosemount-halts-new-data-center-discussion-with-moratorium/article_59c956b3-230d-4e67-aeeb-57028a66816a.html"
+   },
+   {
+    "para": 2,
+    "t": "Rosemount's moratorium followed similar one-year pauses in Eagan, which started February 17, 2026, and Inver Grove Heights, which started June 26, 2026, and preceded Minneapolis, which capped large data centers for six months starting May 22, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "A bill by state senator Jen McEwen that would have paused new data center development statewide for two years while the impacts were studied never gained momentum, and the 2026 legislative session ended without new restrictions.",
+    "src": "https://www.mprnews.org/story/2026/06/12/new-data-center-regulations-in-minnesota-halted-after-pushback-from-unions-industry"
+   },
+   {
+    "para": 2,
+    "t": "Tom Dicklich, executive director of the Minnesota State Building and Construction Trades Council, argued the buildings will go up somewhere: \"If we can do them in Minnesota, where we have labor standards and we can build these more efficiently than anywhere else in the country, we should be bringing them here.\"",
+    "src": "https://www.mprnews.org/story/2026/06/12/new-data-center-regulations-in-minnesota-halted-after-pushback-from-unions-industry"
+   }
+  ],
+  "sources": [
+   "https://datacenters.atmeta.com/2024/03/hello-rosemount/",
+   "https://datacenters.atmeta.com/asset/rosemount-data-center-info-sheet/",
+   "https://www.hometownsource.com/sun_thisweek/community/rosemount/rosemount-halts-new-data-center-discussion-with-moratorium/article_59c956b3-230d-4e67-aeeb-57028a66816a.html",
+   "https://southmetroscoop.com/blogs/rosemount-second-meta-data-center-residents-moratorium",
+   "https://www.mprnews.org/story/2026/06/12/new-data-center-regulations-in-minnesota-halted-after-pushback-from-unions-industry"
+  ],
+  "unconfirmed": "Could not independently verify residents' claim that Well No. 8 tests above state limits for gross alpha radiation; that claim is attributed to residents as reported by South Metro Scoop, not confirmed against a water-testing record. A quote saying trade workers on the Rosemount project \"have raved about the good treatment and working conditions\" was removed: it is not in the MPR story it was credited to."
+ },
+ {
+  "id": "epoch-amazon-madison-mega-site",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon's data center campus in Canton, Mississippi sits on Nissan Parkway at Highway 22 in Madison County, on what the company calls the Madison County Mega Site.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Amazon says the site is part of a $25 billion buildout across Mississippi that includes an additional $11 billion for Madison County on top of the original campus, plus $3 billion for a Warren County expansion and $1 billion to convert a former Delphi plant in Hinds County, with a combined promise of 2,000 high-skilled jobs statewide.",
+    "src": "https://www.aboutamazon.com/news/company-news/amazon-25-billion-mississippi-data-centers"
+   },
+   {
+    "para": 0,
+    "t": "Mississippi Governor Tate Reeves said the spending is \"what transformational economic growth looks like.\"",
+    "src": "https://www.aboutamazon.com/news/company-news/amazon-25-billion-mississippi-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "Johnny Sims, a Madison County constable who lives 200 yards from the site, said his teenage daughter, who has asthma, has gone to the emergency room repeatedly because of construction dust: \"Amazon brought a lot of baggage with them.\"",
+    "src": "https://www.mississippifreepress.org/amazons-canton-data-center-promises-prosperity-for-neighbors-its-bringing-dust-noise-and-pollution-fears/"
+   },
+   {
+    "para": 1,
+    "t": "Canton alderwoman Cynthia Allen, who lives across from the industrial park, said residents worked out what was coming too late: \"They're just kind of putting us in an Alamo. There's nowhere to go.\"",
+    "src": "https://www.mississippifreepress.org/amazons-canton-data-center-promises-prosperity-for-neighbors-its-bringing-dust-noise-and-pollution-fears/"
+   },
+   {
+    "para": 1,
+    "t": "René Johnson, a retired schoolteacher who lives across the highway, said she learned about the project only after construction was already underway: \"They didn't tell us anything, even when it was in the making.\"",
+    "src": "https://www.mississippifreepress.org/amazons-canton-data-center-promises-prosperity-for-neighbors-its-bringing-dust-noise-and-pollution-fears/"
+   },
+   {
+    "para": 1,
+    "t": "More than 300 diesel backup generators have been approved for the site, and permit filings estimate they could emit up to 240 tons of nitrogen oxide a year.",
+    "src": "https://www.mississippifreepress.org/amazons-canton-data-center-promises-prosperity-for-neighbors-its-bringing-dust-noise-and-pollution-fears/"
+   },
+   {
+    "para": 1,
+    "t": "The Madison County Economic Development Authority has distributed air purifiers to nearby homes and hired cleanup services, while its director, Joey Deeson, said non-disclosure agreements with Amazon kept the county from disclosing the project earlier.",
+    "src": "https://www.mississippifreepress.org/amazons-canton-data-center-promises-prosperity-for-neighbors-its-bringing-dust-noise-and-pollution-fears/"
+   },
+   {
+    "para": 2,
+    "t": "The company and the county are also fighting over what the buildings are worth for tax purposes.",
+    "src": "https://www.wlbt.com/2026/08/18/madison-county-amazon-spar-over-data-center-tax-values/"
+   },
+   {
+    "para": 2,
+    "t": "Madison County's tax assessor, Norman Cannady, valued each of Amazon's five data center buildings at about $292 million for the 2026 tax roll; Amazon's own appraisal put each building at just under $70 million, a gap of more than $1 billion across the five buildings combined.",
+    "src": "https://www.wlbt.com/2026/08/18/madison-county-amazon-spar-over-data-center-tax-values/"
+   },
+   {
+    "para": 2,
+    "t": "Amazon's tax manager, James Poliyanskiy, said the company would not share its internal construction costs, citing competitive concerns, but acknowledged under questioning from county board president Gerald Steen that the disclosed figure would \"come down by a significant amount\" if the internal costs were shared.",
+    "src": "https://www.wlbt.com/2026/08/18/madison-county-amazon-spar-over-data-center-tax-values/"
+   },
+   {
+    "para": 2,
+    "t": "The county board voted to adopt the higher, assessor's valuation while continuing to seek Amazon's cost records.",
+    "src": "https://www.wlbt.com/2026/08/18/madison-county-amazon-spar-over-data-center-tax-values/"
+   }
+  ],
+  "sources": [
+   "https://www.aboutamazon.com/news/company-news/amazon-25-billion-mississippi-data-centers",
+   "https://www.mississippifreepress.org/amazons-canton-data-center-promises-prosperity-for-neighbors-its-bringing-dust-noise-and-pollution-fears/",
+   "https://www.wlbt.com/2026/08/18/madison-county-amazon-spar-over-data-center-tax-values/"
+  ],
+  "unconfirmed": "Epoch AI's record lists Anthropic and Project Rainier as a speculative tenant and program name for this site; no source found in reporting connects Anthropic to this specific Canton facility, so that claim is not repeated here."
+ },
+ {
+  "id": "epoch-google-bristow",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's data center campus in Bristow, Virginia, known as Mango Farm, sits on 250 acres at 13001 Rollins Ford Road in Prince William County, next to Gainesville High School and across from the Jiffy Lube Live amphitheater.",
+    "src": "https://www.princewilliamtimes.com/news/data-centers-near-gainesville-high-part-of-googles-9b-spend-in-virginia/article_27dd9b36-0cbd-4c86-9264-051ee5876e1d.html"
+   },
+   {
+    "para": 0,
+    "t": "County records value the property at $1.2 billion.",
+    "src": "https://www.princewilliamtimes.com/news/data-centers-near-gainesville-high-part-of-googles-9b-spend-in-virginia/article_27dd9b36-0cbd-4c86-9264-051ee5876e1d.html"
+   },
+   {
+    "para": 0,
+    "t": "One data center building, about 290,000 square feet, has operated there since 2023, and county filings show Google plans to build at least two more on the same site.",
+    "src": "https://www.princewilliamtimes.com/news/data-centers-near-gainesville-high-part-of-googles-9b-spend-in-virginia/article_27dd9b36-0cbd-4c86-9264-051ee5876e1d.html"
+   },
+   {
+    "para": 0,
+    "t": "Google announced a $9 billion investment across Virginia on August 27, 2025, with the Bristow-area buildings part of that spending.",
+    "src": "https://www.princewilliamtimes.com/news/data-centers-near-gainesville-high-part-of-googles-9b-spend-in-virginia/article_27dd9b36-0cbd-4c86-9264-051ee5876e1d.html"
+   },
+   {
+    "para": 0,
+    "t": "Trevor Johnson, deputy director of the county's Office of Economic Development and Tourism, said Google's investment \"strengthens our position as a hub for technology and innovation, and we value their commitment to being a strong corporate partner.\"",
+    "src": "https://www.princewilliamtimes.com/news/data-centers-near-gainesville-high-part-of-googles-9b-spend-in-virginia/article_27dd9b36-0cbd-4c86-9264-051ee5876e1d.html"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI estimates the site's current IT power at 238 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Prince William County already has 18 data centers, and the county tightened its data center zoning rules on March 4, 2026.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 1,
+    "t": "Nearby jurisdictions have grown more cautious about data centers generally: Warrenton banned them outright in 2025, and Fairfax and Culpeper counties have both tightened zoning rules.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.princewilliamtimes.com/news/data-centers-near-gainesville-high-part-of-googles-9b-spend-in-virginia/article_27dd9b36-0cbd-4c86-9264-051ee5876e1d.html"
+  ],
+  "unconfirmed": "No news coverage of local opposition, hearings or lawsuits specific to the Bristow/Mango Farm campus turned up in searches. A Data Center Dynamics article describing the site's rezoning history and a claim that the land was formerly an Atlantic Research Corp missile-testing site returned a 403 error on two attempts and could not be verified, so that claim is not repeated here."
+ },
+ {
+  "id": "epoch-microsoft-goodyear",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Microsoft's data center campus in Goodyear, Arizona, at 14250 West Broadway Road in Maricopa County, was announced in 2019, shortly after Microsoft invested $1 billion in OpenAI.",
+    "src": "https://futurism.com/the-byte/microsoft-arizona-water-ai"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI estimates the campus's current IT power at 202 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The 279-acre campus is expected to use about 56 million gallons of drinking water a year once its third building is complete, which reporting put at roughly the annual water use of 670 Goodyear households.",
+    "src": "https://futurism.com/the-byte/microsoft-arizona-water-ai"
+   },
+   {
+    "para": 1,
+    "t": "Goodyear officials have said Microsoft's water use does not affect the city's water portfolio because the company operates under industrial water rights.",
+    "src": "https://futurism.com/the-byte/microsoft-arizona-water-ai"
+   },
+   {
+    "para": 1,
+    "t": "Arizona Attorney General Kris Mayes has criticized the state's approach to deals like this one, saying: \"Allowing one more data center to come to our state is an easy but stupid decision in a lot of cases.\"",
+    "src": "https://futurism.com/the-byte/microsoft-arizona-water-ai"
+   },
+   {
+    "para": 1,
+    "t": "Microsoft has kept its exact water consumption figures out of public city records, saying the information is proprietary.",
+    "src": "https://futurism.com/the-byte/microsoft-arizona-water-ai"
+   },
+   {
+    "para": 2,
+    "t": "Microsoft originally planned to cool the whole campus with water, which would have used up to 5 million gallons a day, but the city's water contains high levels of dissolved solids that made treating it for that purpose too costly.",
+    "src": "https://www.aztechcouncil.org/microsoft-agrees-to-make-data-centers-air-cooled-amid-water-infrastructure-challenges-in-goodyear/"
+   },
+   {
+    "para": 2,
+    "t": "Under a development agreement the Goodyear City Council approved unanimously on March 6, 2023, Microsoft agreed that its fourth and fifth buildings would use air cooling instead of water, while the first three buildings continue to recirculate water for cooling.",
+    "src": "https://www.aztechcouncil.org/microsoft-agrees-to-make-data-centers-air-cooled-amid-water-infrastructure-challenges-in-goodyear/"
+   },
+   {
+    "para": 2,
+    "t": "Microsoft is paying $36 million toward a $90 million expansion of the city's 157th Avenue wastewater treatment plant, plus a $5 million assurance deposit for a new sewer line and an $800,000 fee for a dedicated city coordinator, with the discharge line originally required to be finished by August 31, 2024.",
+    "src": "https://www.aztechcouncil.org/microsoft-agrees-to-make-data-centers-air-cooled-amid-water-infrastructure-challenges-in-goodyear/"
+   }
+  ],
+  "sources": [
+   "https://futurism.com/the-byte/microsoft-arizona-water-ai",
+   "https://www.aztechcouncil.org/microsoft-agrees-to-make-data-centers-air-cooled-amid-water-infrastructure-challenges-in-goodyear/",
+   "https://newsletter.semianalysis.com/p/microsofts-ai-strategy-deconstructed"
+  ],
+  "unconfirmed": "Could not confirm whether the August 31, 2024 wastewater discharge line deadline was met, or find more recent reporting on actual measured water use now that later buildings have come online. A description of Goodyear as Microsoft's second major cluster for OpenAI, with roughly 130,000 GPUs phased in across four buildings, was removed: it was credited to our own capacity record, which does not carry it, and no source we could read supports it."
+ },
+ {
+  "id": "epoch-meta-jeffersonville",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's data center in Jeffersonville, Indiana, at 500 8th Street in Clark County, is the company's first in the state.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Meta broke ground in 2024 and says it is investing more than $800 million in the project, with 1,350 skilled trade workers on site at peak construction and about 100 permanent jobs once it is running.",
+    "src": "https://datacenters.atmeta.com/wp-content/uploads/2025/02/Meta_s-Jeffersonville-Data-Center.pdf"
+   },
+   {
+    "para": 0,
+    "t": "The company says it worked with Duke Energy on its power needs and with the River Ridge Development Authority to pay the full cost of its water and wastewater service.",
+    "src": "https://datacenters.atmeta.com/wp-content/uploads/2025/02/Meta_s-Jeffersonville-Data-Center.pdf"
+   },
+   {
+    "para": 0,
+    "t": "Meta says it has given more than $840,000 directly to Clark County-area schools and nonprofits since 2024, including a grant to Prosser Career Education Center and a partnership between Maker13 and Youth Link that reaches more than 3,500 students a year.",
+    "src": "https://datacenters.atmeta.com/wp-content/uploads/2025/02/Meta_s-Jeffersonville-Data-Center.pdf"
+   },
+   {
+    "para": 1,
+    "t": "Epoch AI estimates the site's current IT power at 178 megawatts.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "No moratorium touches Jeffersonville itself, though several nearby jurisdictions have passed one: New Albany, Indiana banned new data centers starting July 21, 2026; Harrison County, Indiana adopted a moratorium on August 13, 2026; and Meade County, Kentucky, across the Ohio River, did the same on January 13, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://datacenters.atmeta.com/wp-content/uploads/2025/02/Meta_s-Jeffersonville-Data-Center.pdf"
+  ],
+  "unconfirmed": "No independent local news coverage of Jeffersonville residents' views on the data center turned up; the only detailed source available was Meta's own promotional material, so figures on jobs, investment and community giving are the company's own claims, not independently verified. The itamg.com and Meta us-locations pages cited in our record returned a 403 error and were not readable."
+ }
+]

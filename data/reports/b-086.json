@@ -1,0 +1,628 @@
+[
+ {
+  "id": "ft-1778247647739-3538",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Slavic Village is a residential neighbourhood, and that is why this one failed.",
+    "src": "https://signalcleveland.org/cleveland-rejects-data-center-permit-for-slavic-village/"
+   },
+   {
+    "para": 0,
+    "t": "Lakeland Equity Group applied on May 5, 2026 to build a two storey, 300,000 square foot data center on 35 acres between East 49th and East 55th Streets in Cleveland, in Cuyahoga County, at a cost of $1.6 billion.",
+    "src": "https://signalcleveland.org/cleveland-rejects-data-center-permit-for-slavic-village/"
+   },
+   {
+    "para": 0,
+    "t": "The application failed at zoning review, which the city announced without explaining further, and Mayor Justin Bibb's office said he \"has serious concerns about hyperscale, standalone data centers being placed in residential neighborhoods\".",
+    "src": "https://signalcleveland.org/cleveland-rejects-data-center-permit-for-slavic-village/"
+   },
+   {
+    "para": 1,
+    "t": "The council had been moving in the same direction.",
+    "src": "https://signalcleveland.org/cleveland-rejects-data-center-permit-for-slavic-village/"
+   },
+   {
+    "para": 1,
+    "t": "Councilmember Charles Slife, of Ward 15, introduced legislation in late April 2026 for a one year pause on new data center permits, which was still under discussion; the record's sources include a report that the council was advancing a three month pause on new standalone projects.",
+    "src": "https://signalcleveland.org/cleveland-rejects-data-center-permit-for-slavic-village/"
+   },
+   {
+    "para": 1,
+    "t": "Another of the record's sources is headlined that a letter shows the city had given the developer the go-ahead to pitch hyperscale data centers in Cleveland, which sits awkwardly with the refusal; that page could not be read.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The record now carries this entry as blocked, at 150 megawatts on 35 acres, with Lakeland Equity Group as developer and resistance marked as an emerging concern.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "The site sits in Councilmember Deborah Gray's Ward 3, close to parts of Wards 2 and 5 represented by Kevin Bishop and Richard Starr.",
+    "src": "https://signalcleveland.org/cleveland-rejects-data-center-permit-for-slavic-village/"
+   },
+   {
+    "para": 2,
+    "t": "Lakeland's managing director, Sam Khouri, did not respond to requests for comment; the company said in a statement: \"Lakeland Equity Group is disappointed by this abrupt action by the city. We are considering our options for immediate next steps.\"",
+    "src": "https://signalcleveland.org/cleveland-rejects-data-center-permit-for-slavic-village/"
+   },
+   {
+    "para": 3,
+    "t": "Slavic Village sits beside the steel works.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The 99 megawatt Cleveland Works plant is two kilometres away; the nearest large generator, the 1,240 megawatt Perry nuclear station, is 56 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Two small operating data centers sit eight kilometres away and a T5 building 13.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "Cleveland itself has no moratorium on record, though five jurisdictions in the surrounding counties do, from Barberton in November 2025 to Twinsburg in May 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://signalcleveland.org/cleveland-rejects-data-center-permit-for-slavic-village/"
+  ],
+  "unconfirmed": "Our record held this address twice, once cancelled and once proposed with the same figures; they were merged in an earlier pass, and the merge had left both entries' context blocks on the page, giving the Cleveland Works plant twice with two different next-nearest generators, the Perry nuclear station at 56 kilometres and the West Lorain plant at 51, and repeating both the moratorium sentence and Charles Slife's legislation. The duplicates have been removed and the figures from the entry our record kept are the ones on the page. The 150 megawatt figure is not confirmed by the report read here, which gives square footage and acreage but no load. The page had Mayor Bibb saying such data centers do not belong in residential neighbourhoods; his office's words are narrower and are quoted instead, and a claim that Lakeland wanted to work with officials on the project's merits is not in that report and has come out. Neither Data Center Dynamics report in our record is fetchable, and the neo-trans blog, the Cleveland 19 report, the News 5 report and the MSN piece were not fetched, so no resident is quoted. Whether Slife's one year pause was adopted, and whether Lakeland has appealed or resubmitted, are unknown. No water figure was published."
+ },
+ {
+  "id": "ft-401",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is a small colocation suite in an office building, in the middle of the largest data center cluster in Ohio.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The record carries DartPoints at 565 Metro Place South, suite 300, in Dublin, in Franklin County, as operating, with no capacity, no acreage, no cost and no developer, sourced only to the company's own Ohio page.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "What surrounds it is the point.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Ten other recorded data center sites sit within 22 kilometres, six of them Amazon Web Services campuses: Hilliard I at four kilometres and Hilliard II at seven, both operating; Warner Road in Union County at six, Hilliard III at eight and Marysville at 22, all under construction; and Jerome Township at eight, operating.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Three small operating sites, CMH1, CMH2 and CMH3, and a Cologix building used by Lambda are also within 12 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "The record counts eleven data center sites in Franklin County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The townships around Columbus have been putting up barriers all year.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Ten measures are recorded within reach: South Bloomfield's ban from February 1, 2026, Muhlenberg from February 3, Urbana Township from March 3, Scioto Township from March 6, St Albans Township from March 10, Sunbury from April 16, Jackson Township from May 29, Springfield twice from June 29 and July 14, and Ashville from July 8.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The generation is a long way from Dublin and mostly solar.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The nearest are solar farms of 180, 196 and 577 megawatts at 28, 31 and 40 kilometres, with the 480 megawatt Darby Power gas plant at 42.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Pushback at this site is marked unknown, and no objection to it is recorded anywhere.",
+    "src": "data:fractracker"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The Ohio location page in our record was not fetched for this entry, so no source url is listed and each sentence is attributed to our record's source list. Nothing is published about this suite's size, power, cooling or tenants. Given the address is a suite number in an office park, it is likely to be a small colocation presence rather than a building, but that is unconfirmed. No local reporting about it was found. The surrounding context is drawn from our own record rather than from reporting about this site."
+ },
+ {
+  "id": "ft-403",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Two commissions voted against it, unanimously, and then the applicants withdrew.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The PRSM group asked Preble County to rezone about 300 acres near Interstate 70 for a data center campus, with roughly 270 acres south of the motorway going to an industrial classification allowing a computer data storage centre and about 28 acres to the north to a special use provision under agricultural zoning.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The land has about 2,400 feet of frontage on Oxford-Gettysburg Road, 2,500 feet on Eaton-Gettysburg Road and 5,200 feet along the north side of Orphans Road.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The Preble County Planning Commission refused it 11 to 0 on August 21, 2025, and the Rural Zoning Commission refused it 5 to 0.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "A public hearing on September 2, 2025 drew an overflow crowd, with residents objecting on environmental grounds and over what it would do to their energy bills.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The applicants withdrew in early October 2025.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "It is not over.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The president of the land developer said that although the proposal had been withdrawn, interest in having a data center on that land had not gone away.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded as cancelled on 300 acres, with no capacity, no cost and no developer field filled in, and resistance marked as an emerging concern.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "No megawatt figure was ever published.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 4,
+    "t": "This is the only data center site recorded in Preble County, and there is no other within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generators are the 100 megawatt Whitewater Valley coal plant 15 kilometres away, a 68 megawatt gas plant at Richmond at 21, and the 196 megawatt Greenville station at 29.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Four jurisdictions within reach carry measures on record, including Dayton's ban from June 25, 2026 and a Butler County moratorium from June 17.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The WDTN and Register Herald reports in our record were found only in search summaries and not fetched, the county minutes were not opened, and the Data Center Dynamics report is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. No named resident or commissioner is quoted. What PRSM stands for, and who is behind it, are not established. No megawatt or water figure exists. Whether a new application has been filed since October 2025 is unknown."
+ },
+ {
+  "id": "ft-1786993666588-1903",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Eighteen data center buildings of about 220,000 square feet each, on roughly 600 acres of Butler County farmland.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Amazon Web Services has been negotiating with the city of Trenton and other partners over land straddling Wayne Madison Road and Hawkins Road in Madison Township and St Clair Township, just south of Trenton, stretching towards Augspurger Road and the Great Miami River.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "It would be Butler County's first hyperscale campus, and the reported investment is about $5 billion.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The jobs figure is the one to hold onto.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "By the end of 2035 the campus is to employ 120 people full time.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "That is about seven people per building.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded as proposed on 601 acres, with Amazon Web Services as developer, no capacity figure and no cost, and pushback marked unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "No megawatt figure has been published for a campus of eighteen buildings, which is the single most important number missing from this page.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "The gas is already there.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The 566 megawatt Madison plant and the 476 megawatt Woodsdale plant are both two kilometres away, the 136 megawatt Dick's Creek plant ten, and the 468 megawatt Middletown Energy Center 12.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Two more large proposals sit close: Prologis's Project Mila at 240 megawatts three kilometres off, and the Logistix project at 200 megawatts nine.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "Five jurisdictions within reach carry measures on record, including Cincinnati's interim development control overlay running to the end of 2026, Dayton's ban from June 25, 2026, and a Butler County moratorium from June 17 to December 17, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The Data Center Dynamics report in our record is not fetchable and the Local 12 and Butler County Foundation accounts were found only in search summaries, so no source url is listed and each sentence is attributed to our record's source list. No resident, township trustee or Amazon representative is quoted. The $5 billion figure comes from one television report and is not confirmed. No megawatt or water figure has been published. Whether the negotiations with Trenton have concluded, and whether any rezoning has been sought, are unknown. Our record's address places the site in Hamilton while the reporting places it in Madison and St Clair townships south of Trenton."
+ },
+ {
+  "id": "ft-405",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The developer asked the city to stop studying whether the power could be delivered.",
+    "src": "https://www.wvxu.org/environment/2026-01-15/hamilton-data-center-paused-study"
+   },
+   {
+    "para": 0,
+    "t": "On January 15, 2026 Logistix Property Group asked Hamilton, in Butler County, to pause a feasibility study into supplying 240 megawatts to its proposed data center at 1380 University Boulevard, on wooded land the city owns.",
+    "src": "https://www.wvxu.org/environment/2026-01-15/hamilton-data-center-paused-study"
+   },
+   {
+    "para": 0,
+    "t": "An earlier impact study had found it would take at least 24 months just to deliver 45 megawatts.",
+    "src": "https://www.wvxu.org/environment/2026-01-15/hamilton-data-center-paused-study"
+   },
+   {
+    "para": 1,
+    "t": "The city manager Craig Bucheit put it plainly: \"We're still going through the details of it, but what we do know is that it's going to take a significant amount of time, money and infrastructure to meet the project needs that have been set out.\"",
+    "src": "https://www.wvxu.org/environment/2026-01-15/hamilton-data-center-paused-study"
+   },
+   {
+    "para": 1,
+    "t": "He gave the arithmetic too: \"What we know right now is that it would take at least 24 months to deliver 45 megawatts of power.\"",
+    "src": "https://www.wvxu.org/environment/2026-01-15/hamilton-data-center-paused-study"
+   },
+   {
+    "para": 2,
+    "t": "The company said it was \"evaluating the information and that no decision has been made with respect to the project\", adding that developments of this kind are complex, and the city expected an answer by the end of the month.",
+    "src": "https://www.wvxu.org/environment/2026-01-15/hamilton-data-center-paused-study"
+   },
+   {
+    "para": 2,
+    "t": "Jay Kidd, a Hamilton resident, had urged the city to drop it: \"We can just not build it at all. We could just get to the point where it's like, OK, well, it's just not on the table. We are not willing to sacrifice our children for economic growth.\"",
+    "src": "https://www.wvxu.org/environment/2026-01-15/hamilton-data-center-paused-study"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded at 200 megawatts on 29 acres, proposed, costing $1 billion, with Logistix Property Group as developer.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "The reporting gives 240 megawatts as the figure the city was asked to study.",
+    "src": "https://www.wvxu.org/environment/2026-01-15/hamilton-data-center-paused-study"
+   },
+   {
+    "para": 4,
+    "t": "Amazon's proposed 18 building campus is nine kilometres away and Prologis's Project Mila, at 240 megawatts, 12.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 566 megawatt Madison plant and the 476 megawatt Woodsdale plant are both 11 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Seven jurisdictions within reach carry measures on record, including Butler County's own moratorium from June 17 to December 17, 2026, which came five months after the study was paused.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.wvxu.org/environment/2026-01-15/hamilton-data-center-paused-study"
+  ],
+  "unconfirmed": "Whether Logistix decided to continue, and what has happened since January 2026, are unknown; six of our record's eight sources, including two Business Courier pieces behind a paywall, a Local 12 report and a Journal-News account of residents saying no, were not fetched. The capacity differs between our record's 200 megawatts and the 240 the city was studying. The 29 acres in our record is not confirmed by anything read. No end user has been named. No water figure has been published. Only one resident is quoted, from the one report that could be read."
+ },
+ {
+  "id": "ft-1778014585820-4803",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A bitcoin miner bought a power station, and the market monitor asked the federal regulator to attach conditions.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "MARA Holdings agreed on April 30, 2026 to acquire Long Ridge Energy and Power for about $1.5 billion including debt, to put a data center on the site: a 505 megawatt combined cycle gas plant at Hannibal, Ohio, with more than 1,600 contiguous acres and about 100 million cubic feet a day of its own fuel supply.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "It intends to start building a data center on the site in the first half of 2027, with 200 megawatts running by the middle of 2028, and says it could take the site to as much as 600 megawatts by combining grid expansion with generation of its own.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "On May 29, 2026 PJM's independent market monitor asked the Federal Energy Regulatory Commission to approve the sale only if MARA commits to keeping the plant's output in PJM's markets.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Monitoring Analytics argued that letting MARA sell the electricity to its own data centers instead would harm PJM ratepayers at a time when supply is tight.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "MARA says it plans to continue selling into PJM's markets.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "That argument is the one that matters to anyone paying a PJM electricity bill.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The question is not whether a data center is built but whether an existing 505 megawatt plant stops serving the grid and starts serving one customer.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded at 200 megawatts on 1,600 acres, proposed, with no developer field filled in, in Monroe County, Ohio.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "The entry had placed it in Wetzel County, West Virginia, which is across the river from Hannibal.",
+    "src": "data:address"
+   },
+   {
+    "para": 4,
+    "t": "The Long Ridge plant itself is recorded at the same coordinates at 485 megawatts, with the 1,560 megawatt Mitchell coal plant 14 kilometres away and the 1,278 megawatt Pleasants station at 54.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "No jurisdiction anywhere near here has a data center moratorium, ban or zoning limit on record, and there is no other data center site within 40 kilometres.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Everything found came from company announcements, wire copy, an SEC filing and a trade publication; the Data Center Dynamics report in our record is not fetchable and the Utility Dive piece was not fetched, so no source url is listed and each sentence is attributed to our record's source list. Whether the Federal Energy Regulatory Commission has ruled, and on what conditions, is unknown. The plant's capacity is given as 505 megawatts in the announcements and 485 in our record's power plant data. No local resident or official has been quoted anywhere, and our record marks pushback as unknown. The county field in our record used to place the site in Wetzel County, West Virginia, across the river from the Hannibal address it also carries, and now reads Monroe County, Ohio."
+ },
+ {
+  "id": "ft-1768320725363-3199",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "They had the ribbon cutting before the neighbours knew.",
+    "src": "https://irontontribune.com/2025/12/25/jan-8-meeting-set-on-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "Strata Expanse, of Houston, held a ribbon cutting for what it calls an AI Center of Excellence and data center at 1476 County Road 1A near Haverhill, in Lawrence County, which officials claimed was the first in the state, and the company plans to roll out more than thirty of what it calls land-to-hand facilities.",
+    "src": "https://irontontribune.com/2025/12/25/jan-8-meeting-set-on-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "Ellen Taylor, the company's chief revenue officer, said of the power: \"It will be hydrogen powered and will also use natural gas and solar to operate,\" rather than drawing from the local grid.",
+    "src": "https://irontontribune.com/2025/12/25/jan-8-meeting-set-on-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "It is to support cryptocurrency, AI training and larger work.",
+    "src": "https://irontontribune.com/2025/12/25/jan-8-meeting-set-on-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Residents found out after the ribbon was cut.",
+    "src": "https://irontontribune.com/2025/12/25/jan-8-meeting-set-on-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Several Facebook groups appeared against it over a single weekend, a change.org petition titled Stop AI Data Centers in Lawrence County Ohio passed 2,000 signatures by the Tuesday morning, and residents spoke against it at an Ironton City Council meeting, asking how it had been approved without anyone knowing.",
+    "src": "https://irontontribune.com/2025/12/25/jan-8-meeting-set-on-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Ironton City Council and the Lawrence County Commissioners set a joint meeting for 5pm on January 8 to hear them.",
+    "src": "https://irontontribune.com/2025/12/25/jan-8-meeting-set-on-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Ironton adopted a moratorium on February 12, 2026, and Boyd County across the river in Kentucky one from July 9, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded as proposed with no acreage, no capacity and no cost, and Strata as the developer.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "This corner of the Ohio valley is filling fast.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "A Google site at Franklin Furnace is seven kilometres away, a Rubix project recorded at 2,000 megawatts is 12 kilometres, a TeraWulf holding at Ashland 18, and an Alpha Technologies building under construction 34.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The 1,365 megawatt Hanging Rock gas plant is one kilometre away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://irontontribune.com/2025/12/25/jan-8-meeting-set-on-data-center/"
+  ],
+  "unconfirmed": "No acreage, megawatt or water figure has been published for this project, and the report read here gives none. The relationship between our record's developer field, Strata, and the Strata Expanse named in the reporting is presumably the same company but was not confirmed. The phrase \"land-to-hand\" describes the company's planned rollout in that report rather than being Ellen Taylor's description of the model, as the page had it. What was decided at the January 8 meeting, and whether Ironton's moratorium reaches a site outside the city limits, are unknown. The Data Center Dynamics report in our record is not fetchable. How a facility running on hydrogen, gas and solar rather than the grid was permitted, and by whom, is the central unanswered question and is not addressed in anything that could be read."
+ },
+ {
+  "id": "ft-1773979949074-3633",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "It was Project BOSC for months, and then it was Google.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The Allen Economic Development Group confirmed in March 2026 that Google is behind a $500 million data center spread over more than 200 acres in American and Sugar Creek townships, near the junction of Cole Street and Bluelick Road outside Lima.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "It would be Google's third data center in Ohio.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Fifty million of the $500 million is for local infrastructure: roundabouts at Bluelick Road and North Cole Street and at State Route 115 and North Cole Street, and $13.6 million on water infrastructure.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Google will also pay Elida Local Schools $250,000 a year under an agreement offsetting a fifteen year tax abatement.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Construction was expected to start in 2026 and finish by 2030, subject to permits including an Ohio EPA air permit for the diesel generators, and to create fifty full time jobs.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Fifty jobs for $500 million is the arithmetic residents elsewhere in Ohio have been objecting to.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Pushback is marked yes, and a Facebook group formed against it is on file.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded as under construction on 200 acres, costing $500 million, with Google as developer and no capacity figure.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "No megawatt figure has been published, which for a Google campus is unusual and is the number the air permit will turn on.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 4,
+    "t": "There is no other data center site on record anywhere in Allen County, and none within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generators are a 150 megawatt solar farm 30 kilometres away, a 66 megawatt wind farm at 33, a second 150 megawatt solar farm at 33 and the 302 megawatt Blue Creek wind project at 40.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Two jurisdictions within reach carry moratoriums on record, Shawnee Township from April 14, 2026 and Findlay from April 22.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The Data Center Dynamics report in our record is not fetchable and the Lima Ohio reports were found only in search summaries, so no source url is listed and each sentence is attributed to our record's source list. No resident, county commissioner or Google representative is quoted, and our record marks pushback as yes without any account of it that could be read. No megawatt or water figure has been published. Whether the air permit has been granted is unknown."
+ },
+ {
+  "id": "ft-1782755291382-6186",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The county commissioners are against it and cannot stop it.",
+    "src": "https://woub.org/2026/06/23/guernsey-county-proposal-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "Guernsey County has no countywide zoning, so the commissioners cannot approve or refuse a data center on private land; their only lever is a request for a property tax abatement.",
+    "src": "https://woub.org/2026/06/23/guernsey-county-proposal-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "Commissioner Jack Marlin put their position anyway: \"I would say the people have spoken. They're against data centers. We said we were against it. So I don't see how we come back from that.\"",
+    "src": "https://woub.org/2026/06/23/guernsey-county-proposal-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Commissioner Bill Cowgill agreed: \"If it were to be put on the ballot, it would probably not pass here by a large margin.\"",
+    "src": "https://woub.org/2026/06/23/guernsey-county-proposal-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Commissioner Dave Wilson made the wider point: \"When you see a deal has been cut like that, and plus Ohio already has I believe it's 217 data centers, we don't see where it's a good value for Guernsey County.\"",
+    "src": "https://woub.org/2026/06/23/guernsey-county-proposal-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Smart Energy Partners, led by chief executive Rich Stokey, is advising a local estate agent, Jason Miller, on using 425 acres he controls for a data center.",
+    "src": "https://woub.org/2026/06/23/guernsey-county-proposal-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "No site has been announced, though meeting minutes refer to development in the area of Cambridge municipal airport, and describe a closed loop system needing minimal water with behind-the-meter power generated from natural gas.",
+    "src": "https://woub.org/2026/06/23/guernsey-county-proposal-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "More than fifty residents have organised as Guernsey County and Ohio: Data Center Developments, co-led by Amy Kissinger and Geno Riley.",
+    "src": "https://woub.org/2026/06/23/guernsey-county-proposal-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "They worry about farmland, green space and the water supply, particularly the Pleasant City aquifer, which the Ohio Environmental Protection Agency has designated a sole source aquifer, meaning it is the only viable drinking water source for at least half the area's population; withdrawals from it need no EPA review and are governed by Ohio's reasonable use doctrine.",
+    "src": "https://woub.org/2026/06/23/guernsey-county-proposal-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Amy Kissinger was careful to say the group is not against the industry: \"We understand that technology is advancing and that this is an industrial movement that is happening and needs to happen.\"",
+    "src": "https://woub.org/2026/06/23/guernsey-county-proposal-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded as proposed on 425 acres, with Smart Energy Partners as developer, no capacity and no cost, at medium confidence, and the location is given as near Cadiz Road at Lore City, with the word \"likely\" in the address field.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "The 1,782 megawatt Guernsey Power Station is 23 kilometres away, the largest generator anywhere near, with the 540 megawatt Dresden plant at 54.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "No jurisdiction anywhere near here carries a data center moratorium, ban or zoning limit on record, and there is no other data center site within 40 kilometres.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://woub.org/2026/06/23/guernsey-county-proposal-data-center/"
+  ],
+  "unconfirmed": "Rich Stokey answered by email only in general terms, that \"some early conversations have occurred around threshold questions such as site characteristics, potential fiber access, natural gas availability, power options and whether a project could theoretically be evaluated in a responsible way\". The closed loop cooling and behind-the-meter generation come from the commissioners' meeting minutes as reported, not from Stokey directly, which the page had attributed to him. No capacity, final acreage or confirmed location exists. Whether any abatement request has been made, and whether the project has advanced since June 2026, are unknown. A line attributed to Amy Kissinger, that being \"more desperate for economic progress does not mean that we should be taken advantage of\", is not in the report read here, and the words quoted above are hers instead."
+ }
+]

@@ -1,0 +1,533 @@
+[
+ {
+  "id": "research-compass-statesville-iredell-county",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Statesville is a city in western Iredell County, North Carolina, and the site Compass Data Centers wants sits on Stamey Farm Road.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "On August 27, 2025, the Statesville Planning Board voted unanimously to support rezoning the 350-acre tract, over objections from residents who packed the meeting.",
+    "src": "https://www.iredellfreenews.com/news-features/2025/statesville-planning-board-votes-to-support-rezoning-for-compass-data-centers-project-despite-vocal-opposition/"
+   },
+   {
+    "para": 0,
+    "t": "Sheila Shuford, a nurse who lives on Mount Hermon Road, told the board: \"There's got to be a better place for it than in the middle of a community with three schools.\"",
+    "src": "https://www.iredellfreenews.com/news-features/2025/statesville-planning-board-votes-to-support-rezoning-for-compass-data-centers-project-despite-vocal-opposition/"
+   },
+   {
+    "para": 0,
+    "t": "Jeff Byers, of Greenwich Drive, told the board: \"I don't trust anything a developer tells me. I don't trust anything a politician tells me.\"",
+    "src": "https://www.iredellfreenews.com/news-features/2025/statesville-planning-board-votes-to-support-rezoning-for-compass-data-centers-project-despite-vocal-opposition/"
+   },
+   {
+    "para": 0,
+    "t": "Other residents raised fire risk from the backup generators and the project's likely draw on local water supply, and one asked what the city would do if the place caught fire.",
+    "src": "https://www.iredellfreenews.com/news-features/2025/statesville-planning-board-votes-to-support-rezoning-for-compass-data-centers-project-despite-vocal-opposition/"
+   },
+   {
+    "para": 0,
+    "t": "Compass's Katy Hancock told the board the plan calls for up to five buildings of 270,000 square feet each, air-cooled, with 40% of the site left open and biodiesel generators the company says burn 70% cleaner than standard diesel.",
+    "src": "https://www.iredellfreenews.com/news-features/2025/statesville-planning-board-votes-to-support-rezoning-for-compass-data-centers-project-despite-vocal-opposition/"
+   },
+   {
+    "para": 1,
+    "t": "The Statesville City Council approved the rezoning unanimously on September 15, 2025, with Mayor Pro Tem David Jones making the motion and Councilwoman Doris Allison seconding it.",
+    "src": "https://www.iredellfreenews.com/news-features/2025/breaking-news-statesville-council-unanimously-approves-rezoning-request-for-massive-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "More than two dozen residents spoke against the project at that hearing, and one told council a petition against it had drawn 1,300 signatures from West Iredell.",
+    "src": "https://www.iredellfreenews.com/news-features/2025/breaking-news-statesville-council-unanimously-approves-rezoning-request-for-massive-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Compass has said it will cover the cost of utility upgrades needed to serve the site, but residents at the hearing said ratepayers, not the company, would ultimately pay for new power plants to supply it.",
+    "src": "https://www.iredellfreenews.com/news-features/2025/breaking-news-statesville-council-unanimously-approves-rezoning-request-for-massive-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The project is valued at more than $1 billion.",
+    "src": "https://www.iredellfreenews.com/news-features/2025/breaking-news-statesville-council-unanimously-approves-rezoning-request-for-massive-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Almost a year later, on August 11, 2026, the same council approved a first reading of a 180-day moratorium on new data centers, saying the city's development code has no rules written for them yet.",
+    "src": "https://www.iredellfreenews.com/news-features/2026/statesville-city-council-approves-180-day-moratorium-on-data-centers/"
+   },
+   {
+    "para": 2,
+    "t": "Planning Director Erika Martin said the city has already fielded inquiries from other data center developers even though none is formally proposed.",
+    "src": "https://www.iredellfreenews.com/news-features/2026/statesville-city-council-approves-180-day-moratorium-on-data-centers/"
+   },
+   {
+    "para": 2,
+    "t": "The moratorium does not apply to the Compass project, which was approved before it took effect, and residents at the meeting objected to that carve-out.",
+    "src": "https://www.iredellfreenews.com/news-features/2026/statesville-city-council-approves-180-day-moratorium-on-data-centers/"
+   },
+   {
+    "para": 2,
+    "t": "Resident Christian Smith likened the moratorium to a trojan horse, calling it a trick, and Jeff Tucker, who had thought the pause would cover the Compass site, urged the council to \"pull a rabbit out of the hat and put Stamey Farm Road back in it.\"",
+    "src": "https://www.iredellfreenews.com/news-features/2026/statesville-city-council-approves-180-day-moratorium-on-data-centers/"
+   },
+   {
+    "para": 2,
+    "t": "Two other data centers already operate in Iredell County.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://www.iredellfreenews.com/news-features/2025/statesville-planning-board-votes-to-support-rezoning-for-compass-data-centers-project-despite-vocal-opposition/",
+   "https://www.iredellfreenews.com/news-features/2025/breaking-news-statesville-council-unanimously-approves-rezoning-request-for-massive-data-center/",
+   "https://www.iredellfreenews.com/news-features/2026/statesville-city-council-approves-180-day-moratorium-on-data-centers/"
+  ],
+  "unconfirmed": "A sentence attributing to a farmer named Dale Warren the claim that he had put his life savings into property near the site was removed: he does not appear in the report it was credited to."
+ },
+ {
+  "id": "research-terranova-queretaro",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "TERRANOVA is the Latin American data centre platform Actis launched on December 2, 2025, with plans to put $1.5 billion into Brazil, Mexico and Chile over three years.",
+    "src": "https://www.act.is/2025/12/02/actis-launches-new-latin-american-hyperscale-data-center-platform-terranova-to-accelerate-latin-americas-digital-expansion/"
+   },
+   {
+    "para": 0,
+    "t": "Its first Mexican campus is at Queretaro and can scale to 20 megawatts, with a second at San Miguel de Allende in Guanajuato due in early 2026.",
+    "src": "https://www.datacenterdynamics.com/en/news/terranova-launches-in-mexico-with-its-first-data-center-campus/"
+   },
+   {
+    "para": 1,
+    "t": "Queretaro is now Mexico's data centre capital, and it is running out of water.",
+    "src": "https://www.context.news/ai/long-read/resistance-blooms-in-mexicos-data-centre-valley"
+   },
+   {
+    "para": 1,
+    "t": "Eight of the state's eleven aquifers are overexploited, and a two year drought in the semi desert municipality of Colon has left people with dead crops and rationed water.",
+    "src": "https://www.context.news/ai/long-read/resistance-blooms-in-mexicos-data-centre-valley"
+   },
+   {
+    "para": 1,
+    "t": "In towns such as Viborillas, homes get water three days a week, and in some cases have gone a month without any.",
+    "src": "https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town"
+   },
+   {
+    "para": 1,
+    "t": "A single 15 megawatt facility needs about 1.36 million litres a day.",
+    "src": "https://www.context.news/ai/long-read/resistance-blooms-in-mexicos-data-centre-valley"
+   },
+   {
+    "para": 2,
+    "t": "One of the incentives the state offers investors is exemption from having to prepare an environmental impact assessment.",
+    "src": "https://www.context.news/ai/long-read/resistance-blooms-in-mexicos-data-centre-valley"
+   },
+   {
+    "para": 2,
+    "t": "Residents have begun meeting informally to work out what these buildings need, and academics are forming networks with environmental and rights groups to press the government for information about their effects.",
+    "src": "https://www.context.news/ai/long-read/resistance-blooms-in-mexicos-data-centre-valley"
+   },
+   {
+    "para": 2,
+    "t": "The largest of them is not TERRANOVA's: on September 25, 2024 CloudHQ announced a $4.8 billion hyperscale campus at Queretaro, the biggest in Mexico, built almost entirely for AI.",
+    "src": "https://mexicobusiness.news/cloudanddata/news/queretaro-data-center-boom-triggers-water-power-backlash"
+   }
+  ],
+  "sources": [
+   "https://www.act.is/2025/12/02/actis-launches-new-latin-american-hyperscale-data-center-platform-terranova-to-accelerate-latin-americas-digital-expansion/",
+   "https://www.datacenterdynamics.com/en/news/terranova-launches-in-mexico-with-its-first-data-center-campus/",
+   "https://www.context.news/ai/long-read/resistance-blooms-in-mexicos-data-centre-valley",
+   "https://www.context.news/ai/thirsty-data-centres-spring-up-in-water-poor-mexican-town",
+   "https://mexicobusiness.news/cloudanddata/news/queretaro-data-center-boom-triggers-water-power-backlash"
+  ],
+  "unconfirmed": "Our record describes the project as near San Miguel de Allende in Guanajuato and as the first of the regional build out; the trade coverage describes a first campus at Queretaro and a separate one at San Miguel de Allende, so which this entry refers to is unresolved. No address, acreage, water figure or planning record was found for either, and no resident is quoted by name in the reports we could read. The water and drought material describes Queretaro state, not TERRANOVA's campus, whose own consumption has not been published."
+ },
+ {
+  "id": "research-scala-bahia",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A Scala Data Centers project is placed in the Camacari industrial hub near Salvador, in Bahia, with the 393 megawatts of a renewable energy supply agreement beginning in 2025 once attached to it.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "The agreement is real and the location of the generation is Bahia, but the two are not the same thing.",
+    "src": "https://renewablesnow.com/news/scala-data-centers-to-source-power-from-393-mw-of-wind-parks-in-bahia-867271/"
+   },
+   {
+    "para": 1,
+    "t": "Scala signed with the Brazilian clean energy investor Serena Energia for power from two wind farms in Bahia, Assurua 4 and Ventos da Bahia 3, with 393 megawatts of installed capacity between them.",
+    "src": "https://renewablesnow.com/news/scala-data-centers-to-source-power-from-393-mw-of-wind-parks-in-bahia-867271/"
+   },
+   {
+    "para": 1,
+    "t": "Scala took a stake in the wind farms, tripling the renewable power available to its customers, and the supply began in January 2025.",
+    "src": "https://renewablesnow.com/news/scala-data-centers-to-source-power-from-393-mw-of-wind-parks-in-bahia-867271/"
+   },
+   {
+    "para": 1,
+    "t": "The companies describe it as the largest renewable power commitment in Latin America, and Scala says it can guarantee customers entirely renewable energy in Brazil to 2033.",
+    "src": "https://scaladatacenters.com/en/scala-data-centers-guarantees-its-customers-100-renewable-energy-up-to-2033-in-brazil/"
+   },
+   {
+    "para": 2,
+    "t": "Those wind farms supply Scala's data centres; they are not a data centre at Camacari.",
+    "src": "https://renewablesnow.com/news/scala-data-centers-to-source-power-from-393-mw-of-wind-parks-in-bahia-867271/"
+   },
+   {
+    "para": 2,
+    "t": "No source describes a Scala building at Camacari, and no site, investment figure or construction timeline for one exists in public.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://renewablesnow.com/news/scala-data-centers-to-source-power-from-393-mw-of-wind-parks-in-bahia-867271/",
+   "https://scaladatacenters.com/en/scala-data-centers-guarantees-its-customers-100-renewable-energy-up-to-2033-in-brazil/"
+  ],
+  "unconfirmed": "Searches on Scala with Bahia, on Camacari with data centre, and on Scala with Brazil renewable energy found nothing describing a data centre building at Camacari. The 393 megawatt figure in our record belongs to two wind farms, not to a facility, and treating it as the project's capacity would be wrong. This is logged in our notes on reporting against the record."
+ },
+ {
+  "id": "research-tecfusions-puente-alto",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "TECfusions and the Chilean construction and quarry company Baeza Group signed a binding letter of intent on May 7, 2025 for exclusive rights to develop a data centre campus at Puente Alto, southeast of Santiago, where most of Chile's data centres are.",
+    "src": "https://tecfusions.com/tecfusions-and-baeza-group-secure-landmark-land-deal-for-chiles-largest-planned-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "It would launch with 10 megawatts available immediately and another 10 from the local grid, scaling to 100, which would make it the largest campus planned for the Santiago region.",
+    "src": "https://www.datacenterdynamics.com/en/news/tecfusions-to-develop-100mw-data-center-campus-in-puente-alto-chile/"
+   },
+   {
+    "para": 1,
+    "t": "The design uses no water, which the companies present as an answer to Chile's scarcity.",
+    "src": "https://www.datacenterdynamics.com/en/news/tecfusions-to-develop-100mw-data-center-campus-in-puente-alto-chile/"
+   },
+   {
+    "para": 1,
+    "t": "That answers the objection that has already stopped one project in the city.",
+    "src": "https://climatecasechart.com/non-us-case/municipality-of-cerrillos-google-data-center-v-evaluation-commission-of-the-metropolitan-region/"
+   },
+   {
+    "para": 1,
+    "t": "On September 26, 2024 Chile's Second Environmental Court sent Google's Cerrillos data centre back for reassessment, after residents and the municipality argued the evaluation had not properly weighed the effect on the aquifer during an ongoing mega drought; the project would have drawn 228 litres a second from three wells.",
+    "src": "https://climatecasechart.com/non-us-case/municipality-of-cerrillos-google-data-center-v-evaluation-commission-of-the-metropolitan-region/"
+   },
+   {
+    "para": 1,
+    "t": "Chile has been in drought since 2010, with forecasts running to 2040.",
+    "src": "https://restofworld.org/2024/data-centers-environmental-issues/"
+   },
+   {
+    "para": 2,
+    "t": "Eduardo Baeza, the group's chief executive, said the partnership \"allows us to retain a stake in our family's land while unlocking its full potential for Chile's digital future.\"",
+    "src": "https://tecfusions.com/tecfusions-and-baeza-group-secure-landmark-land-deal-for-chiles-largest-planned-data-center/"
+   }
+  ],
+  "sources": [
+   "https://tecfusions.com/tecfusions-and-baeza-group-secure-landmark-land-deal-for-chiles-largest-planned-data-center/",
+   "https://www.datacenterdynamics.com/en/news/tecfusions-to-develop-100mw-data-center-campus-in-puente-alto-chile/",
+   "https://climatecasechart.com/non-us-case/municipality-of-cerrillos-google-data-center-v-evaluation-commission-of-the-metropolitan-region/",
+   "https://restofworld.org/2024/data-centers-environmental-issues/"
+  ],
+  "unconfirmed": "Searches on TECfusions with Puente Alto, on Puente Alto with data centre, and on Chile with data centre water found no environmental permit, planning decision or resident comment on this project, and no Chilean local reporting on it. Our record dates the announcement to June 2025 and the companies' own release to May 7, 2025. Whether the joint venture completed due diligence was not established, and the zero water claim is the developers' own."
+ },
+ {
+  "id": "research-stargate-argentina",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "OpenAI and the Argentine developer Sur Energy announced a $25 billion, 500-megawatt data center plan for Patagonia in late 2025, but as of June 2026 it remained only a non-binding letter of intent.",
+    "src": "https://www.infobae.com/economia/2026/06/21/clima-de-negocios-que-paso-con-el-mega-data-center-de-usd-25000-millones-y-el-otro-gigante-global-que-tambien-mira-a-la-patagonia/"
+   },
+   {
+    "para": 0,
+    "t": "OpenAI said in a statement that the project is a complex, long-term one and that the company maintains its intention to pursue it.",
+    "src": "https://www.infobae.com/economia/2026/06/21/clima-de-negocios-que-paso-con-el-mega-data-center-de-usd-25000-millones-y-el-otro-gigante-global-que-tambien-mira-a-la-patagonia/"
+   },
+   {
+    "para": 0,
+    "t": "The company has pointed to global supply chain delays and, as one example, a severe weather event at its Abilene, Texas facility, and Sam Altman has been more cautious with spending amid talk of a possible IPO.",
+    "src": "https://www.infobae.com/economia/2026/06/21/clima-de-negocios-que-paso-con-el-mega-data-center-de-usd-25000-millones-y-el-otro-gigante-global-que-tambien-mira-a-la-patagonia/"
+   },
+   {
+    "para": 1,
+    "t": "Sur Energy is evaluating plots in the Confluencia department of Neuquen province, near the towns of Senillosa and Arroyito along the Limay River, far from the coordinates which mark a spot further south in Patagonia.",
+    "src": "https://www.infobae.com/economia/2026/06/21/clima-de-negocios-que-paso-con-el-mega-data-center-de-usd-25000-millones-y-el-otro-gigante-global-que-tambien-mira-a-la-patagonia/"
+   },
+   {
+    "para": 1,
+    "t": "Sur Energy's Emiliano Kargieman, who also founded the satellite company Satellogic, has promised renewable power, direct-to-chip cooling and a closed-loop water system he says would let the plant use no more water than its bathrooms would.",
+    "src": "https://www.infobae.com/economia/2026/06/21/clima-de-negocios-que-paso-con-el-mega-data-center-de-usd-25000-millones-y-el-otro-gigante-global-que-tambien-mira-a-la-patagonia/"
+   },
+   {
+    "para": 1,
+    "t": "Power suppliers Central Puerto and Genneia are named as partners, and Tesla has separately opened talks with the Argentine utility YPF Luz about a competing data center in Neuquen, with a delegation expected in July.",
+    "src": "https://www.infobae.com/economia/2026/06/21/clima-de-negocios-que-paso-con-el-mega-data-center-de-usd-25000-millones-y-el-otro-gigante-global-que-tambien-mira-a-la-patagonia/"
+   }
+  ],
+  "sources": [
+   "https://www.infobae.com/economia/2026/06/21/clima-de-negocios-que-paso-con-el-mega-data-center-de-usd-25000-millones-y-el-otro-gigante-global-que-tambien-mira-a-la-patagonia/"
+  ],
+  "unconfirmed": "The only account of the project's status we could read is in Spanish, so OpenAI's statement is given as a paraphrase rather than a quotation. Our record's coordinates mark a spot in Patagonia well south of the Neuquen plots Sur Energy is reported to be evaluating."
+ },
+ {
+  "id": "research-apple-athenry",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Apple announced in February 2015 that it would spend 850 million euro on a data centre at Derrydonnell Woods, on about 500 acres of forest land outside Athenry in County Galway.",
+    "src": "https://www.rte.ie/news/2018/0510/961458-apple/"
+   },
+   {
+    "para": 0,
+    "t": "Galway County Council granted permission that September.",
+    "src": "https://www.rte.ie/news/2018/0510/961458-apple/"
+   },
+   {
+    "para": 1,
+    "t": "Three people stopped it.",
+    "src": "https://www.rte.ie/news/ireland/2018/0510/961460-apple-athenry/"
+   },
+   {
+    "para": 1,
+    "t": "Allan Daly, Sinead Fitzpatrick and Brian McDonagh challenged An Bord Pleanala's permission in court, arguing the board was legally required to assess the environmental impact of Apple's whole masterplan for eight data halls rather than just the first one.",
+    "src": "https://www.rte.ie/news/2018/0510/961458-apple/"
+   },
+   {
+    "para": 1,
+    "t": "One strand of the case was that the approval had ignored climate change obligations.",
+    "src": "https://www.irishtimes.com/news/crime-and-law/courts/supreme-court/apple-data-centre-approval-ignored-climate-change-obligations-1.3386485"
+   },
+   {
+    "para": 1,
+    "t": "The Commercial Court backed the board in October 2017, and the Supreme Court agreed to hear an appeal.",
+    "src": "https://www.rte.ie/news/2018/0510/961458-apple/"
+   },
+   {
+    "para": 2,
+    "t": "On May 10, 2018, three years after the announcement, Apple's counsel told Chief Justice Frank Clarke the company was withdrawing from the proceedings and would not build.",
+    "src": "https://www.rte.ie/news/ireland/2018/0510/961460-apple-athenry/"
+   },
+   {
+    "para": 2,
+    "t": "Apple said delays in the planning process had forced it to make other plans, and noted it had spent more than 550 million euro with Irish companies in the previous two years and supported more than 25,000 jobs in the country.",
+    "src": "https://www.rte.ie/news/ireland/2018/0510/961460-apple-athenry/"
+   },
+   {
+    "para": 2,
+    "t": "The Chief Justice adjourned the matter to May 31, observing that the commercial urgency had gone but that somebody else might still want to use the permission.",
+    "src": "https://www.rte.ie/news/ireland/2018/0510/961460-apple-athenry/"
+   },
+   {
+    "para": 3,
+    "t": "Not everyone in Athenry had been against it.",
+    "src": "https://www.rte.ie/news/ireland/2018/0510/961460-apple-athenry/"
+   },
+   {
+    "para": 3,
+    "t": "Paul Keane, who ran the Athenry for Apple campaign, said he could not blame the company and that the delays would cost \"not just Athenry but future investment in rural Ireland.\"",
+    "src": "https://www.rte.ie/news/ireland/2018/0510/961460-apple-athenry/"
+   }
+  ],
+  "sources": [
+   "https://www.rte.ie/news/ireland/2018/0510/961460-apple-athenry/",
+   "https://www.rte.ie/news/2018/0510/961458-apple/",
+   "https://www.irishtimes.com/news/crime-and-law/courts/supreme-court/apple-data-centre-approval-ignored-climate-change-obligations-1.3386485"
+  ],
+  "unconfirmed": "No capacity figure for the proposed data centre was found, nor a water figure. The Supreme Court's eventual ruling, after Apple withdrew, was not established, and the Irish Times account of the climate change argument was read through a search summary rather than directly."
+ },
+ {
+  "id": "research-google-berlin-cancelled",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google spent years looking at a data centre site near the L30 and the A13 outside Mittenwalde, south of Berlin, and in July 2025 it gave up on it.",
+    "src": "https://www.entwicklungsstadt.de/rechenzentrum-in-brandenburg-kommt-nicht-google-setzt-auf-hanau/"
+   },
+   {
+    "para": 1,
+    "t": "The company said it had examined feasibility, the economics and its own internal priorities, and decided not to go ahead, and that the market had changed over the past few years.",
+    "src": "https://www.entwicklungsstadt.de/rechenzentrum-in-brandenburg-kommt-nicht-google-setzt-auf-hanau/"
+   },
+   {
+    "para": 1,
+    "t": "German coverage points to something more concrete: insufficient power supply and a lack of grid stability, with the missing network infrastructure and bottlenecks in energy supply given as the main reasons.",
+    "src": "https://security-storage-und-channel-germany.de/google-kein-rechenzentrum-in-mittenwalde-google-no-data-center-in-mittenwalde/"
+   },
+   {
+    "para": 1,
+    "t": "Google is concentrating instead on its existing German sites, chiefly Hanau.",
+    "src": "https://www.entwicklungsstadt.de/rechenzentrum-in-brandenburg-kommt-nicht-google-setzt-auf-hanau/"
+   },
+   {
+    "para": 2,
+    "t": "Brandenburg did not go short of projects.",
+    "src": "https://www.entwicklungsstadt.de/15-rechenzentren-fuer-brandenburg-was-der-ki-boom-fuer-die-region-bedeutet/"
+   },
+   {
+    "para": 2,
+    "t": "The state now has 15 data centre projects, seven in planning, five under construction and three paused, among them the two AWS sites carrying the European Sovereign Cloud at Massen and Baruth/Mark, and the regional network is described as reaching its limits given the number of connection requests.",
+    "src": "https://www.entwicklungsstadt.de/15-rechenzentren-fuer-brandenburg-was-der-ki-boom-fuer-die-region-bedeutet/"
+   }
+  ],
+  "sources": [
+   "https://www.entwicklungsstadt.de/rechenzentrum-in-brandenburg-kommt-nicht-google-setzt-auf-hanau/",
+   "https://security-storage-und-channel-germany.de/google-kein-rechenzentrum-in-mittenwalde-google-no-data-center-in-mittenwalde/",
+   "https://www.entwicklungsstadt.de/15-rechenzentren-fuer-brandenburg-was-der-ki-boom-fuer-die-region-bedeutet/"
+  ],
+  "unconfirmed": "No size, capacity or investment figure for the abandoned Mittenwalde project was found, and no date within July 2025. No Mittenwalde resident or local official is quoted in anything we could read, so whether the town wanted it is unknown. The grid explanation comes from German trade coverage rather than from Google, whose own statement is more general."
+ },
+ {
+  "id": "research-aws-european-sovereign-cloud",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon Web Services has committed more than 7.8 billion euro through 2040 to build a sovereign cloud data centre region in Brandenburg, Germany, meant to keep European customers' data under European control.",
+    "src": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/elbe-elster/massen/307913/78-mrd-euro-amazon-plant-rechenzentren-in-baruth-und-massen.html"
+   },
+   {
+    "para": 0,
+    "t": "The region opened on January 15, 2026.",
+    "src": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/elbe-elster/massen/307913/78-mrd-euro-amazon-plant-rechenzentren-in-baruth-und-massen.html"
+   },
+   {
+    "para": 1,
+    "t": "It rests on two sites.",
+    "src": "https://ayedo.de/en/posts/aws-european-sovereign-cloud-in-brandenburg/"
+   },
+   {
+    "para": 1,
+    "t": "Massen, near Finsterwalde in the Elbe-Elster district, is planned at about 200 megawatts; Baruth/Mark, south of Berlin, at about 100.",
+    "src": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/elbe-elster/massen/307913/78-mrd-euro-amazon-plant-rechenzentren-in-baruth-und-massen.html"
+   },
+   {
+    "para": 1,
+    "t": "Both campuses start in leased buildings before AWS moves into its own, and the region runs on three availability zones.",
+    "src": "https://ayedo.de/en/posts/aws-european-sovereign-cloud-in-brandenburg/"
+   },
+   {
+    "para": 1,
+    "t": "At Massen, earthworks and a container village for the workers were visible by May 2026, the Elbe-Elster district issued the building permit after about four months, and approval for a substation on the property was still partly outstanding.",
+    "src": "https://www.datacenter-insider.de/aws-baut-rechenzentrum-bei-finsterwalde-im-gewerbegebiet-massen-a-4d9b9567a4bcf8f12f5307d6d5a95b57/"
+   },
+   {
+    "para": 2,
+    "t": "AWS says the programme will support an average of 2,800 full time jobs a year and add about 17.2 billion euro to German GDP.",
+    "src": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/elbe-elster/massen/307913/78-mrd-euro-amazon-plant-rechenzentren-in-baruth-und-massen.html"
+   },
+   {
+    "para": 2,
+    "t": "Brandenburg now has 15 data centre projects, seven in planning, five under construction and three paused, which together could take the state's computing capacity from under 50 megawatts to almost 900.",
+    "src": "https://www.entwicklungsstadt.de/15-rechenzentren-fuer-brandenburg-was-der-ki-boom-fuer-die-region-bedeutet/"
+   },
+   {
+    "para": 2,
+    "t": "Many Brandenburg districts appear on the Heisse Luft initiative's mapping as areas under structural or acute groundwater stress, and the regional power network is described as reaching its limits given the number of connection requests.",
+    "src": "https://www.entwicklungsstadt.de/15-rechenzentren-fuer-brandenburg-was-der-ki-boom-fuer-die-region-bedeutet/"
+   }
+  ],
+  "sources": [
+   "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/elbe-elster/massen/307913/78-mrd-euro-amazon-plant-rechenzentren-in-baruth-und-massen.html",
+   "https://ayedo.de/en/posts/aws-european-sovereign-cloud-in-brandenburg/",
+   "https://www.datacenter-insider.de/aws-baut-rechenzentrum-bei-finsterwalde-im-gewerbegebiet-massen-a-4d9b9567a4bcf8f12f5307d6d5a95b57/",
+   "https://www.entwicklungsstadt.de/15-rechenzentren-fuer-brandenburg-was-der-ki-boom-fuer-die-region-bedeutet/"
+  ],
+  "unconfirmed": "No water withdrawal figure for either site was found, no site areas and no building counts. Searches on the European Sovereign Cloud with Brandenburg, on Massen with Finsterwalde, and on Baruth with Amazon found no objection, council debate or resident comment, and no critic is quoted by name in any of the coverage. This entry covers the programme; the two individual sites have their own pages on this site."
+ },
+ {
+  "id": "research-microsoft-germany-elsdorf",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Microsoft is building a cloud region of three hyperscale data centres across Bedburg, Bergheim and Elsdorf, in the Rhein-Erft district of North Rhine-Westphalia.",
+    "src": "https://www.elsdorf.de/rathaus-service/verwaltung/aktuell/1973/bergheim-bedburg-und-elsdorf-holen-weltkonzern-microsoft-ins-rheinische-revier"
+   },
+   {
+    "para": 0,
+    "t": "Two of them sit on intercommunal industrial land: the INKA terra nova site at Bergheim and a newly developed area called BEB61 at Bedburg.",
+    "src": "https://www.bedburg.de/Unsere-Stadt/Aktuelles-aus-Bedburg.htm/Aktuelles/Doppelpack-fuer-die-Region-Weltkonzern-Microsoft-kommt-nach-Bedburg-und-Bergheim.html"
+   },
+   {
+    "para": 1,
+    "t": "This is the Rhenish lignite field, and the three towns brought Microsoft in deliberately.",
+    "src": "https://www.elsdorf.de/rathaus-service/verwaltung/aktuell/1973/bergheim-bedburg-und-elsdorf-holen-weltkonzern-microsoft-ins-rheinische-revier"
+   },
+   {
+    "para": 1,
+    "t": "The councils present the investment, which runs to billions of euro, as part of the structural change from brown coal to something else, and say it benefits the three places worst hit by the mining phase out.",
+    "src": "https://www.elsdorf.de/rathaus-service/verwaltung/aktuell/1973/bergheim-bedburg-und-elsdorf-holen-weltkonzern-microsoft-ins-rheinische-revier"
+   },
+   {
+    "para": 2,
+    "t": "The planning is at different stages in each town.",
+    "src": "https://www.bedburg.de/Unsere-Stadt/Aktuelles-aus-Bedburg.htm/Aktuelles/Doppelpack-fuer-die-Region-Weltkonzern-Microsoft-kommt-nach-Bedburg-und-Bergheim.html"
+   },
+   {
+    "para": 2,
+    "t": "At Bedburg the development plan is already legally approved; at Bergheim the council bodies were still preparing theirs.",
+    "src": "https://www.bedburg.de/Unsere-Stadt/Aktuelles-aus-Bedburg.htm/Aktuelles/Doppelpack-fuer-die-Region-Weltkonzern-Microsoft-kommt-nach-Bedburg-und-Bergheim.html"
+   },
+   {
+    "para": 3,
+    "t": "No source records how much water or electricity any of the three will use.",
+    "src": "data:note"
+   },
+   {
+    "para": 3,
+    "t": "In neighbouring Hesse there is no public disclosure requirement for data centre water use at all, and the state economics ministry says nobody knows how much energy the sector consumes there in total.",
+    "src": "https://www.hessenschau.de/wirtschaft/warum-rechenzentren-wasser-brauchen--und-kaum-jemand-weiss-wie-viel-v1,wasserverbrauch-rechenzentren-100.html"
+   }
+  ],
+  "sources": [
+   "https://www.elsdorf.de/rathaus-service/verwaltung/aktuell/1973/bergheim-bedburg-und-elsdorf-holen-weltkonzern-microsoft-ins-rheinische-revier",
+   "https://www.bedburg.de/Unsere-Stadt/Aktuelles-aus-Bedburg.htm/Aktuelles/Doppelpack-fuer-die-Region-Weltkonzern-Microsoft-kommt-nach-Bedburg-und-Bergheim.html",
+   "https://www.hessenschau.de/wirtschaft/warum-rechenzentren-wasser-brauchen--und-kaum-jemand-weiss-wie-viel-v1,wasserverbrauch-rechenzentren-100.html"
+  ],
+  "unconfirmed": "Searches on Microsoft with Elsdorf, on the Rhein-Erft district with Rechenzentrum, and on Bergheim and Bedburg with Microsoft found no capacity figure, no water figure, no investment total and no resident objection or comment. The only accounts available are the three towns' own announcements, which are uniformly positive. The date of the announcement was not established, and the Hesse comparison is a different state, included only to show how little is published in Germany generally."
+ },
+ {
+  "id": "research-ia-fouju",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Fouju is a village of about 600 to 650 residents in Seine-et-Marne, southeast of Paris, and it is where a consortium including Mistral AI, MGX, Bpifrance and NVIDIA announced a data center campus at the Choose France investment summit in 2025.",
+    "src": "https://www.msn.com/fr-fr/finance/autres/50-milliards-pour-un-data-center-qui-va-payer-la-facture/ar-AA252Ocx"
+   },
+   {
+    "para": 0,
+    "t": "It was billed as the largest AI campus in Europe, with 1.4 gigawatts of planned capacity, and coverage has put the total cost at 50 billion euros.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "French reporting has described the planned facility as 10 to 15 times bigger than a typical data center, and one report said its power draw would match the electricity use of about 200,000 households.",
+    "src": "https://www.msn.com/fr-fr/technologie/entreprises-technologiques/ce-gigantesque-data-center-pour-l-ia-%C3%A0-fouju-en-seine-et-marne-sera-10-%C3%A0-15-fois-plus-gros-qu-un-centre-classique-la-contestation-s-organise/ar-AA2bjRm8"
+   },
+   {
+    "para": 1,
+    "t": "TF1 reported that residents near Fouju are worried about the project moving onto farmland around their homes, weighing promised financial gains and international prestige against the disruption of a huge industrial buildout next door.",
+    "src": "https://www.tf1info.fr/societe/reportage-bien-sur-ca-nous-inquiete-en-seine-et-marne-ces-habitants-redoutent-l-implantation-du-plus-grand-data-center-d-europe-2464407.html"
+   },
+   {
+    "para": 1,
+    "t": "By September 2026, French coverage described organized opposition to the project taking shape, though the names of specific resident groups could not be confirmed from the sources read.",
+    "src": "https://www.msn.com/fr-fr/technologie/entreprises-technologiques/ce-gigantesque-data-center-pour-l-ia-%C3%A0-fouju-en-seine-et-marne-sera-10-%C3%A0-15-fois-plus-gros-qu-un-centre-classique-la-contestation-s-organise/ar-AA2bjRm8"
+   },
+   {
+    "para": 1,
+    "t": "Construction is expected to begin in 2026, with operations planned for 2028.",
+    "src": "data:source_notes"
+   }
+  ],
+  "sources": [
+   "https://www.msn.com/fr-fr/finance/autres/50-milliards-pour-un-data-center-qui-va-payer-la-facture/ar-AA252Ocx",
+   "https://www.msn.com/fr-fr/technologie/entreprises-technologiques/ce-gigantesque-data-center-pour-l-ia-%C3%A0-fouju-en-seine-et-marne-sera-10-%C3%A0-15-fois-plus-gros-qu-un-centre-classique-la-contestation-s-organise/ar-AA2bjRm8",
+   "https://www.tf1info.fr/societe/reportage-bien-sur-ca-nous-inquiete-en-seine-et-marne-ces-habitants-redoutent-l-implantation-du-plus-grand-data-center-d-europe-2464407.html"
+  ],
+  "unconfirmed": "Full text of the TF1 and MSN France articles could not be retrieved directly, only their headlines and search-result snippets; direct quotes from named residents could not be confirmed beyond what those snippets carried. Named opposition groups were not identified."
+ }
+]

@@ -1,0 +1,479 @@
+[
+ {
+  "id": "amazon-aws-dublin-mulhuddart",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "It took three years and five appeals, but Amazon has permission to build three data centres at Cruiserath Road in Mulhuddart, Dublin 15.",
+    "src": "https://www.thejournal.ie/amazon-gets-planning-permission-for-three-new-data-centres-in-north-dublin-6912849-Dec2025/"
+   },
+   {
+    "para": 0,
+    "t": "An Coimisiun Pleanala granted permission on December 26, 2025. Universal Developers LLC had lodged the plans in December 2022 and Fingal County Council approved them in September 2023, before the appeals stalled the decision.",
+    "src": "https://www.thejournal.ie/amazon-gets-planning-permission-for-three-new-data-centres-in-north-dublin-6912849-Dec2025/"
+   },
+   {
+    "para": 0,
+    "t": "The three buildings sit on a 65 acre site and carry a combined power load of 73 megawatts.",
+    "src": "https://www.thejournal.ie/amazon-gets-planning-permission-for-three-new-data-centres-in-north-dublin-6912849-Dec2025/"
+   },
+   {
+    "para": 1,
+    "t": "The five parties who appealed were Friends of the Earth, the Fingal One Future Group, Dr Colin Doyle, John Conway, and the Louth Environmental Group with Mannix Coyne.",
+    "src": "https://www.thejournal.ie/amazon-gets-planning-permission-for-three-new-data-centres-in-north-dublin-6912849-Dec2025/"
+   },
+   {
+    "para": 1,
+    "t": "The argument was about carbon. Consultant AWN Consulting put the greenhouse gas emissions at 213,840 tonnes of CO2 in 2025, falling to 132,164 tonnes by 2030 as the grid cleans up.",
+    "src": "https://www.thejournal.ie/amazon-gets-planning-permission-for-three-new-data-centres-in-north-dublin-6912849-Dec2025/"
+   },
+   {
+    "para": 1,
+    "t": "Taking the wider campus, including development flagged as indicative, the figure reaches 262,535 tonnes a year by 2030, which the assessment put at 8.8 percent of Ireland's 2030 electricity sector emissions ceiling.",
+    "src": "https://www.thejournal.ie/amazon-gets-planning-permission-for-three-new-data-centres-in-north-dublin-6912849-Dec2025/"
+   },
+   {
+    "para": 1,
+    "t": "The commission concluded that the proposal \"would have no unacceptable impacts on the environment or on property in the vicinity.\"",
+    "src": "https://www.thejournal.ie/amazon-gets-planning-permission-for-three-new-data-centres-in-north-dublin-6912849-Dec2025/"
+   },
+   {
+    "para": 2,
+    "t": "Permission came with a condition. Before the data centres can operate, the developer must sign a corporate power purchase agreement with a renewable energy provider generating at least as much electricity as the data centres use.",
+    "src": "https://www.thejournal.ie/amazon-gets-planning-permission-for-three-new-data-centres-in-north-dublin-6912849-Dec2025/"
+   },
+   {
+    "para": 3,
+    "t": "That condition reflects where Ireland now stands. Since 2021 the Commission for Regulation of Utilities had told grid operator EirGrid to stop processing standard connection applications for data centres in the Greater Dublin Area, after warnings that demand could bring rolling blackouts.",
+    "src": "https://www.energyconnects.com/news/utilities/2025/december/ireland-ends-moratorium-on-new-power-links-to-data-centers/"
+   },
+   {
+    "para": 3,
+    "t": "The regulator ended that freeze on December 12, 2025, two weeks before this permission was granted, but attached conditions: on-site generation or batteries able to meet full demand, power returned to the grid when needed, at least 80 percent of annual electricity from new renewable projects, and annual reporting.",
+    "src": "https://www.energyconnects.com/news/utilities/2025/december/ireland-ends-moratorium-on-new-power-links-to-data-centers/"
+   },
+   {
+    "para": 3,
+    "t": "Data centres now take close to a quarter of Ireland's electricity, more than all urban households combined, up from about 5 percent a decade ago.",
+    "src": "https://www.energyconnects.com/news/utilities/2025/december/ireland-ends-moratorium-on-new-power-links-to-data-centers/"
+   },
+   {
+    "para": 4,
+    "t": "The site is not alone: Digital Realty Blanchardstown and Keppel DC Dublin 2 stand about 3 kilometres away, Meta Clonee about 5 kilometres away, and TikTok's Dublin site about 6 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.thejournal.ie/amazon-gets-planning-permission-for-three-new-data-centres-in-north-dublin-6912849-Dec2025/",
+   "https://www.energyconnects.com/news/utilities/2025/december/ireland-ends-moratorium-on-new-power-links-to-data-centers/",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "Our record notes the campus may run to eight buildings, but only three were covered by this permission and no figure for the full build was confirmed. One source put the permitted and indicative development together at 219.7 megawatts and 607,523 tonnes of CO2 a year, which does not match the figures in the decision reported here, and the difference could not be resolved. No appellant was quoted directly in the sources reached, and no water figure was published."
+ },
+ {
+  "id": "amazon-aws-drogheda",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon's Drogheda data centre sits in the IDA Business and Technology Park on Donore Road, on the Meath side of the Meath and Louth boundary, despite the Drogheda address.",
+    "src": "https://droghedalife.com/an-taisce-objects-to-amazons-second-drogheda-data-centre/"
+   },
+   {
+    "para": 0,
+    "t": "Meath County Council granted conditional permission on February 13, 2020 to Amazon Data Services Ireland Ltd, with the US firm CAP Developments LLC as developer.",
+    "src": "https://www.rte.ie/news/business/2020/0207/1113886-amazon-gets-green-light-for-drogheda-data-centre/"
+   },
+   {
+    "para": 0,
+    "t": "The building is two storeys with mezzanine levels, up to 25 metres tall, with a gross floor area of 28,573 square metres on a 19.46 hectare site. It came with 26 emergency generators, an electricity substation, water storage tanks, 50 car spaces and 26 bike spaces.",
+    "src": "https://www.rte.ie/news/business/2020/0207/1113886-amazon-gets-green-light-for-drogheda-data-centre/"
+   },
+   {
+    "para": 0,
+    "t": "The council said construction would employ up to 400 people at its peak. No objections to that first application were received.",
+    "src": "https://www.rte.ie/news/business/2020/0207/1113886-amazon-gets-green-light-for-drogheda-data-centre/"
+   },
+   {
+    "para": 1,
+    "t": "The second one drew a fight. It is one of three data centres planned for the site, and after Meath County Council granted permission for it in June, the environmental body An Taisce appealed to An Bord Pleanala while work was already under way on the first.",
+    "src": "https://droghedalife.com/an-taisce-objects-to-amazons-second-drogheda-data-centre/"
+   },
+   {
+    "para": 1,
+    "t": "An Taisce argued the direct, indirect and cumulative environmental effects had not been properly assessed, and that data centres are the fastest growing carbon footprint in the technology sector.",
+    "src": "https://droghedalife.com/an-taisce-objects-to-amazons-second-drogheda-data-centre/"
+   },
+   {
+    "para": 1,
+    "t": "It said data centres consumed 11 percent of Ireland's grid electricity at the time and would add between 1.5 and 3 million tonnes of CO2 to the country's emissions by 2028.",
+    "src": "https://droghedalife.com/an-taisce-objects-to-amazons-second-drogheda-data-centre/"
+   },
+   {
+    "para": 1,
+    "t": "Ireland then had 70 operating data centres drawing 900 megawatts, with eight more under construction expected to need 250 megawatts. Each facility employs roughly 40 to 50 people once running.",
+    "src": "https://droghedalife.com/an-taisce-objects-to-amazons-second-drogheda-data-centre/"
+   }
+  ],
+  "sources": [
+   "https://www.rte.ie/news/business/2020/0207/1113886-amazon-gets-green-light-for-drogheda-data-centre/",
+   "https://droghedalife.com/an-taisce-objects-to-amazons-second-drogheda-data-centre/",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "The outcome of An Taisce's appeal to An Bord Pleanala was not established. No investment figure was confirmed from a reachable source, though one report put the first data centre at 350 million euro. No electrical capacity for the campus has been published, and no local resident was quoted in the coverage found."
+ },
+ {
+  "id": "amazon-aws-greenhills-tallaght",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon's Greenhills site in Tallaght, Dublin 24, is operating, and it sits in one of the densest clusters of data centres in Europe.",
+    "src": "data:status"
+   },
+   {
+    "para": 0,
+    "t": "Vantage Dublin and TikTok's Dublin site stand about 5 kilometres away, and Google Dublin, Microsoft Grange Castle, CyrusOne Dublin and Digital Realty Grange Castle all about 7 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "That concentration is why Ireland stopped connecting new data centres around Dublin to the grid. From 2021 the Commission for Regulation of Utilities had EirGrid halt standard connection applications in the Greater Dublin Area, after warnings that demand risked rolling blackouts.",
+    "src": "https://www.energyconnects.com/news/utilities/2025/december/ireland-ends-moratorium-on-new-power-links-to-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "The freeze was lifted on December 12, 2025, with new conditions: on-site generation or batteries able to cover full demand, power returned to the grid when needed, and at least 80 percent of annual electricity from new renewable projects.",
+    "src": "https://www.energyconnects.com/news/utilities/2025/december/ireland-ends-moratorium-on-new-power-links-to-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "Data centres in Ireland now use close to a quarter of the country's electricity, more than every urban household put together.",
+    "src": "https://www.energyconnects.com/news/utilities/2025/december/ireland-ends-moratorium-on-new-power-links-to-data-centers/"
+   }
+  ],
+  "sources": [
+   "https://www.energyconnects.com/news/utilities/2025/december/ireland-ends-moratorium-on-new-power-links-to-data-centers/",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "No planning history, opening date, capacity, building count or water figure was found for the Greenhills site specifically, and no local coverage of it exists in the sources reached. What is written here about the Dublin grid applies to the area rather than to this building."
+ },
+ {
+  "id": "amazon-aws-offaly-eco-energy-park",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one starts with peat. Bord na Mona, the state company that spent decades cutting turf from the Irish midlands, is turning about 3,000 hectares of its cutaway bogland into what it calls an Eco Energy Park, and an Amazon data centre is its first tenant.",
+    "src": "https://www.bnm.ie/bord-na-mona-announces-amazon-web-services-as-first-business-to-join-eco-energy-park/"
+   },
+   {
+    "para": 0,
+    "t": "The two companies announced the arrangement on April 30, 2024. AWS is the anchor tenant, subject to planning and regulatory consent.",
+    "src": "https://www.bnm.ie/bord-na-mona-announces-amazon-web-services-as-first-business-to-join-eco-energy-park/"
+   },
+   {
+    "para": 0,
+    "t": "The data centre is to sit alongside wind and solar generation and flexible plant built on the same land.",
+    "src": "https://www.bnm.ie/bord-na-mona-announces-amazon-web-services-as-first-business-to-join-eco-energy-park/"
+   },
+   {
+    "para": 1,
+    "t": "AWS committed to invest in up to 800 megawatts of new renewable energy projects across Ireland, and signed its first power purchase agreement under that pipeline for the 105 megawatt Derrinlough wind farm in County Offaly.",
+    "src": "https://www.bnm.ie/bord-na-mona-announces-amazon-web-services-as-first-business-to-join-eco-energy-park/"
+   },
+   {
+    "para": 1,
+    "t": "Tom Donnellan, chief executive of Bord na Mona, said: \"We are delighted to be working with Amazon Web Services at our first Bord na Mona Eco Energy Park.\"",
+    "src": "https://www.bnm.ie/bord-na-mona-announces-amazon-web-services-as-first-business-to-join-eco-energy-park/"
+   },
+   {
+    "para": 1,
+    "t": "Lindsay McQuade, AWS director of energy for Europe, the Middle East and Africa, said the collaboration \"will help us to continue to decarbonise our operations.\"",
+    "src": "https://www.bnm.ie/bord-na-mona-announces-amazon-web-services-as-first-business-to-join-eco-energy-park/"
+   },
+   {
+    "para": 1,
+    "t": "Environment Minister Eamon Ryan called it \"an important step in decarbonising large energy users in Ireland.\"",
+    "src": "https://www.bnm.ie/bord-na-mona-announces-amazon-web-services-as-first-business-to-join-eco-energy-park/"
+   },
+   {
+    "para": 2,
+    "t": "Building in the midlands rather than Dublin was the point. From 2021 Ireland's utility regulator had EirGrid stop processing standard grid connection applications for data centres in the Greater Dublin Area, pushing new projects to regions outside it.",
+    "src": "https://www.energyconnects.com/news/utilities/2025/december/ireland-ends-moratorium-on-new-power-links-to-data-centers/"
+   },
+   {
+    "para": 2,
+    "t": "That freeze ended on December 12, 2025, replaced by conditions requiring on-site generation or batteries covering full demand and 80 percent of annual electricity from new renewable projects.",
+    "src": "https://www.energyconnects.com/news/utilities/2025/december/ireland-ends-moratorium-on-new-power-links-to-data-centers/"
+   },
+   {
+    "para": 2,
+    "t": "The nearest other project is Microsoft's Naas site, about 39 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.bnm.ie/bord-na-mona-announces-amazon-web-services-as-first-business-to-join-eco-energy-park/",
+   "https://www.energyconnects.com/news/utilities/2025/december/ireland-ends-moratorium-on-new-power-links-to-data-centers/",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "Our record places this project at Rhode Green Energy Park in County Offaly, while Bord na Mona has described the park as being developed near the M6 at Rochfortbridge in Westmeath, taking in parts of Offaly and Meath, so the exact location of the Amazon buildings is unclear. No planning application, building count, capacity, investment figure or timeline for the data centre itself was found, and no local resident or objector was quoted anywhere in the sources reached."
+ },
+ {
+  "id": "amazon-aws-didcot",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon is building its data centres where a coal plant used to stand. Didcot A was commissioned in 1964, connected to the national grid in 1970, shut down in March 2013, and its cooling towers came down between 2014 and 2019.",
+    "src": "https://www.silicon.co.uk/cloud/datacenter/amazon-didcot-data-centre-628354"
+   },
+   {
+    "para": 0,
+    "t": "The German power company RWE sold the idle site to Amazon for about 197 million pounds. It lies northwest of Didcot in Oxfordshire, about 13 miles south of Oxford.",
+    "src": "https://www.silicon.co.uk/cloud/datacenter/amazon-didcot-data-centre-628354"
+   },
+   {
+    "para": 1,
+    "t": "Amazon filed its original application in 2021 under the name Willow Developments LLC, and the Vale of White Horse District Council planning committee approved it in July 2021.",
+    "src": "https://www.silicon.co.uk/cloud/datacenter/amazon-didcot-data-centre-628354"
+   },
+   {
+    "para": 1,
+    "t": "A reserved matters application covering four data centre buildings, a gate house and supporting buildings went back to the same council, with a target decision date of January 27, 2026.",
+    "src": "https://www.silicon.co.uk/cloud/datacenter/amazon-didcot-data-centre-628354"
+   },
+   {
+    "para": 1,
+    "t": "The site forms part of Amazon's stated 8 billion pound investment in building, operating and maintaining UK data centres between 2024 and 2028.",
+    "src": "https://www.silicon.co.uk/cloud/datacenter/amazon-didcot-data-centre-628354"
+   },
+   {
+    "para": 2,
+    "t": "Two other projects sit close by: CloudHQ's London site about 3 kilometres away, and the proposed 500 megawatt Culham AI Data Centre about 5 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.silicon.co.uk/cloud/datacenter/amazon-didcot-data-centre-628354",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "No electrical capacity, water figure or construction timeline for the Didcot campus was found, and the outcome of the January 2026 reserved matters decision could not be established. No objection, campaign group or resident comment on this site appeared in the sources reached. Our record lists the site as operating, which the planning history does not support."
+ },
+ {
+  "id": "amazon-aws-bracknell",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon's Bracknell data centre stands on the former Hewlett-Packard campus at Amen Corner Business Park, Cain Road, Binfield, replacing two data centres HP built there in the 1990s.",
+    "src": "https://www.datacentermap.com/united-kingdom/berkshire/amazon-aws-lhr-bracknell/"
+   },
+   {
+    "para": 0,
+    "t": "Bracknell Forest Council approved it under application 21/00239/FUL as a single storey building holding four data halls, about 93,500 square feet, built by McLaren Construction.",
+    "src": "https://docs.planning.org.uk/20210330/173/QPEKMEBVFGV00/mjw8r6mmv6gg16y3.pdf"
+   },
+   {
+    "para": 0,
+    "t": "The consent covers the data halls and their plant rooms, a loading bay, offices, emergency backup generators with emission stacks, diesel tanks and a filling area, an electrical switchroom, a sprinkler pump room and water tank, a gate house, access roads, drainage and landscaping.",
+    "src": "https://docs.planning.org.uk/20210330/173/QPEKMEBVFGV00/mjw8r6mmv6gg16y3.pdf"
+   },
+   {
+    "para": 0,
+    "t": "Amazon Data Services UK holds the site's environmental permit, which covers 11 standby generators, against an IT load of about 27 megawatts.",
+    "src": "https://www.datacentermap.com/united-kingdom/berkshire/amazon-aws-lhr-bracknell/"
+   },
+   {
+    "para": 0,
+    "t": "The first phase has been running since 2023.",
+    "src": "https://www.datacentermap.com/united-kingdom/berkshire/amazon-aws-lhr-bracknell/"
+   },
+   {
+    "para": 1,
+    "t": "The site sits at the edge of the Slough data centre belt.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "CyrusOne's London sites and Iron Mountain's stand about 15 to 16 kilometres away, with Digital Realty Slough and Equinix xScale Slough about 16 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.datacentermap.com/united-kingdom/berkshire/amazon-aws-lhr-bracknell/",
+   "https://docs.planning.org.uk/20210330/173/QPEKMEBVFGV00/mjw8r6mmv6gg16y3.pdf",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "Searches on the site address with Bracknell, on Bracknell with data centre, and on Amazon Data Services UK with Bracknell Forest returned the planning documents and trade directories but no local news report, no council debate, no objection and no resident comment. The Bracknell News covered the earlier proposal to redevelop the HP offices but not the decision on this scheme. The date of the planning approval was not established and water use has not been published. The 27 megawatt figure comes from a directory rather than from Amazon or the council."
+ },
+ {
+  "id": "amazon-aws-houghton-regis-linmere",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The application for a data centre campus at Linmere Island, near Houghton Regis northwest of Luton, was submitted during 2025 by Colliers Properties LLC, a company known to work with Amazon. Amazon Data Services is named in several council documents.",
+    "src": "https://bebeez.eu/2025/06/09/campaigners-oppose-hyperscale-data-center-in-bedfordshire-uk-over-water-and-power-fears/"
+   },
+   {
+    "para": 0,
+    "t": "The plan is a two building campus, each building 20 metres tall, with backup generators, supporting infrastructure and around 140 solar panels.",
+    "src": "https://bebeez.eu/2025/06/09/campaigners-oppose-hyperscale-data-center-in-bedfordshire-uk-over-water-and-power-fears/"
+   },
+   {
+    "para": 1,
+    "t": "The advocacy group Foxglove wrote to Central Bedfordshire Council opposing it, on the grounds that there is no answer yet to whether there is enough power and water for the people who already live there.",
+    "src": "https://bebeez.eu/2025/06/09/campaigners-oppose-hyperscale-data-center-in-bedfordshire-uk-over-water-and-power-fears/"
+   },
+   {
+    "para": 1,
+    "t": "Foxglove said of the government's data centre strategy: \"What is not up for debate is the tremendous resource cost, in drinking water, power, and carbon emissions.\" It argued that \"planning permission should be refused\" until those questions are answered.",
+    "src": "https://bebeez.eu/2025/06/09/campaigners-oppose-hyperscale-data-center-in-bedfordshire-uk-over-water-and-power-fears/"
+   },
+   {
+    "para": 2,
+    "t": "NTT's Hemel Hempstead campus stands about 17 kilometres away and Google's 88 megawatt Waltham Cross site about 39 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://bebeez.eu/2025/06/09/campaigners-oppose-hyperscale-data-center-in-bedfordshire-uk-over-water-and-power-fears/",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "Reports indicate the scheme was approved by Central Bedfordshire Council and then approved again after a legal challenge, but the page carrying that account could not be retrieved, so the dates, the vote, who brought the challenge and on what grounds are not established here. An annual electricity figure of about 114.8 million kilowatt hours has been reported but not confirmed from a reachable source, and Amazon has not confirmed the site as its own."
+ },
+ {
+  "id": "amazon-aws-villanueva-de-gallego",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Aragon is dry, and that is where the argument is. Amazon's data centre at Villanueva de Gallego, in the Poligono Industrial San Roque north of Zaragoza, has been running since 2022 and is one of three AWS sites in the region now being expanded.",
+    "src": "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath"
+   },
+   {
+    "para": 0,
+    "t": "AWS plans 11 interconnected complexes across Aragon by 2030.",
+    "src": "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath"
+   },
+   {
+    "para": 1,
+    "t": "In January 2026 two civil society groups, Tu Nube Seca Mi Rio and Ecologistas en Accion, filed an administrative appeal against the Government of Aragon. The High Court of Justice of Aragon accepted it weeks later, in what campaigners describe as Spain's first court case over a data centre approval.",
+    "src": "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath"
+   },
+   {
+    "para": 1,
+    "t": "The case is led by Aurora Gomez and Luis Garcia Valverde and argued by the Barcelona firm Fons de Defensa Ambiental. It challenges the fast track approval of Amazon's project under the regional PIGA framework, which the groups say bypassed democratic process.",
+    "src": "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath"
+   },
+   {
+    "para": 1,
+    "t": "Aurora Gomez said of the regional government: \"They turn a deaf ear to concerned citizens and bypass democratic processes.\" A crowdfunding campaign raised 15,000 euro for the legal action.",
+    "src": "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath"
+   },
+   {
+    "para": 2,
+    "t": "The scale is the objection. One complex alone is reported to account for 16.5 percent of the region's total energy use, and the combined output of the planned sites would exceed current regional demand.",
+    "src": "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath"
+   },
+   {
+    "para": 2,
+    "t": "Water consumption has not been disclosed, and campaigners say Amazon has resisted publishing figures for its Spanish sites.",
+    "src": "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath"
+   },
+   {
+    "para": 3,
+    "t": "Amazon's answer is that it puts water back. On March 3, 2026 it announced three water projects in Aragon worth 17.2 million euro, including work with the leak detection company FIDO Tech which it says saved 33 million litres a year at Villanueva de Gallego, and says it now replenishes more water than it uses in the region.",
+    "src": "https://www.aboutamazon.eu/news/aws/tech4water-datacentres-aragon"
+   },
+   {
+    "para": 4,
+    "t": "In March 2026 AWS announced 33.7 billion euro for Spain as a whole.",
+    "src": "data:note"
+   },
+   {
+    "para": 4,
+    "t": "Microsoft's Zaragoza site is about 11 kilometres away, AWS El Burgo de Ebro about 28 kilometres away, and a proposed AWS site at La Cartuja about 23 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath",
+   "https://www.aboutamazon.eu/news/aws/tech4water-datacentres-aragon",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "Our record ties this site to a 15.7 billion euro Aragon investment, which we could not reconcile with the 33.7 billion euro AWS announced for Spain as a whole in March 2026. Water consumption for the Aragon sites has not been disclosed."
+ },
+ {
+  "id": "amazon-aws-huesca-walqa",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon is building at the Walqa Technology Park outside Huesca, one of three AWS locations in Aragon named in the legal challenge to the region's data centre approvals.",
+    "src": "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath"
+   },
+   {
+    "para": 0,
+    "t": "The AWS Europe (Spain) Region runs three availability zones spread across the provinces of Zaragoza and Huesca.",
+    "src": "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath"
+   },
+   {
+    "para": 1,
+    "t": "In January 2026 the groups Tu Nube Seca Mi Rio and Ecologistas en Accion filed an administrative appeal against the Government of Aragon over the fast track approval of Amazon's project, and the High Court of Justice of Aragon accepted the case weeks later.",
+    "src": "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath"
+   },
+   {
+    "para": 1,
+    "t": "AWS plans 11 interconnected complexes in the region by 2030. Campaigners say the water consumption has never been disclosed.",
+    "src": "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath"
+   },
+   {
+    "para": 2,
+    "t": "Amazon says it announced three water projects in Aragon worth 17.2 million euro on March 3, 2026, and that it now returns more water to the region than its data centres consume.",
+    "src": "https://www.aboutamazon.eu/news/aws/tech4water-datacentres-aragon"
+   },
+   {
+    "para": 2,
+    "t": "No other data centre project sits within 40 kilometres of the Huesca site, which sets it apart from the Zaragoza cluster to the south.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath",
+   "https://www.aboutamazon.eu/news/aws/tech4water-datacentres-aragon",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "No building count, capacity, investment figure, timeline or planning history specific to the Walqa site was found, and no Huesca resident or local official was quoted in any source reached. The water and energy figures reported for Aragon are not broken down by site."
+ },
+ {
+  "id": "amazon-aws-el-burgo-de-ebro",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "El Burgo de Ebro is a village on the Ebro southeast of Zaragoza. Amazon's data centre there, in the Poligono Industrial El Espartal, is operating, and is one of the three Aragon sites at issue in the court case against the regional government.",
+    "src": "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath"
+   },
+   {
+    "para": 0,
+    "t": "Tu Nube Seca Mi Rio, whose name translates as \"your cloud dries up my river,\" and Ecologistas en Accion filed the appeal in January 2026, and the High Court of Justice of Aragon accepted it weeks later.",
+    "src": "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath"
+   },
+   {
+    "para": 1,
+    "t": "The groups argue the approval was pushed through the regional PIGA fast track framework, and that one complex alone would take 16.5 percent of the region's total energy use.",
+    "src": "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath"
+   },
+   {
+    "para": 1,
+    "t": "Amazon says it replenishes more water than its Aragon data centres use, and announced 17.2 million euro of water projects in the region on March 3, 2026.",
+    "src": "https://www.aboutamazon.eu/news/aws/tech4water-datacentres-aragon"
+   },
+   {
+    "para": 2,
+    "t": "The site sits inside a tight cluster. A proposed AWS site at La Cartuja is about 14 kilometres away, Microsoft Zaragoza about 22 kilometres away, and AWS Villanueva de Gallego about 28 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.dirtydata.earth/stories/an-aragonese-david-against-the-ai-goliath",
+   "https://www.aboutamazon.eu/news/aws/tech4water-datacentres-aragon",
+   "https://baxtel.com/data-centers/amazon-aws"
+  ],
+  "unconfirmed": "No opening date, capacity, building count, investment figure or water figure specific to El Burgo de Ebro was found, and no resident of the village was quoted in any source reached."
+ }
+]

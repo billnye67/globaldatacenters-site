@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<title>What is a hyperscale data center? — Global Data Centers</title>
+<meta name="description" content="What hyperscale data centers are, why they are landing in local backyards, what they change for the people next door, and what has worked to stop them.">
+
+<style>
+html{color-scheme:light;scroll-behavior:smooth}button,a{-webkit-tap-highlight-color:transparent;touch-action:manipulation}a{color:inherit;text-underline-offset:5px}
+@font-face{font-family:'Fraunces';font-style:italic;font-weight:400;font-display:swap;src:url(fonts/Fraunces-400i.woff) format('woff')}
+@font-face{font-family:'Fraunces';font-style:normal;font-weight:400;font-display:swap;src:url(fonts/Fraunces-400.woff) format('woff')}
+@font-face{font-family:'Fraunces';font-style:normal;font-weight:600;font-display:swap;src:url(fonts/Fraunces-600.woff) format('woff')}
+@font-face{font-family:'Work Sans';font-style:normal;font-weight:400;font-display:swap;src:url(fonts/WorkSans-400.woff) format('woff')}
+@font-face{font-family:'Work Sans';font-style:normal;font-weight:500;font-display:swap;src:url(fonts/WorkSans-500.woff) format('woff')}
+@font-face{font-family:'Work Sans';font-style:normal;font-weight:600;font-display:swap;src:url(fonts/WorkSans-600.woff) format('woff')}
+/* DESKTOP COMPOSITION: one coordinate system for copy, sphere and paper fade.
+   At 1920x950: inset 64px; story 560px; sphere 1382px; sphere left 414px.
+   The globe's left edge overlaps the story by 210px at every desktop width.
+   Keep these variables together when porting this hero. */
+:root{--paper:#f7f4ec;--ink:#1a1915;--red:#a0231d;--rule:#c9c3b3;--muted:#666458;--blue:#526cb1;--green:#294e36;--serif:'Fraunces',Georgia,serif;--sans:'Work Sans',Arial,sans-serif;--header-h:76px;--inset:clamp(36px,3.4vw,64px);--copy-w:clamp(470px,30vw,560px);--title-w:clamp(520px,36vw,680px);--sphere-d:clamp(1020px,72vw,1440px);--sphere-x:calc(var(--inset) + var(--copy-w) - 155px);--sphere-y:calc(50% - var(--sphere-d)/2);--sphere-x-globe:calc(50% - var(--sphere-d)/2);--sphere-y-globe:calc(50% - var(--sphere-d)/2)}
+*,*::before,*::after{box-sizing:border-box}
+html{color-scheme:light;scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);-webkit-font-smoothing:antialiased}
+button:focus-visible,a:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--red);outline-offset:5px}
+::selection{color:var(--paper);background:var(--red)}
+.skip{position:fixed;top:-100px;left:20px;z-index:50;background:var(--ink);color:var(--paper);padding:12px 20px}
+.skip:focus{top:12px}
+.masthead{height:var(--header-h);padding:0 var(--inset);display:flex;align-items:center;justify-content:space-between;gap:30px;position:relative;z-index:10;background:var(--paper);border-bottom:3px double var(--ink)}
+.nameplate{display:flex;align-items:center;gap:11px;font:600 clamp(22px,1.5vw,28px)/1 var(--serif);letter-spacing:-1px;white-space:nowrap;text-decoration:none}
+.nameplate .mark{flex:none;width:46px;height:46px;display:inline-flex;align-items:center;justify-content:center;background:var(--red);color:#f7f4ec;font:700 16.5px/1 var(--serif);letter-spacing:-.02em}
+.nameplate-text{display:block}
+@media(max-width:760px){.nameplate{gap:9px}
+.nameplate .mark{width:40px;height:40px;font-size:14px}}
+.nav{display:flex;align-items:center;gap:clamp(25px,2.15vw,42px);font-size:12px;letter-spacing:.13em;text-transform:uppercase}
+.nav>a{text-decoration:none}
+.nav>a:hover{color:var(--red)}
+.nav .nav-action{background:var(--red);color:var(--paper);padding:12px 22px;font-weight:600;letter-spacing:.09em}
+.nav .nav-action:hover{background:#801c17;color:var(--paper)}
+.resource-links a:hover{background:#eae6db}
+.kicker{display:flex;align-items:center;gap:13px;font-size:12px;letter-spacing:.14em;text-transform:uppercase;font-weight:500;margin:0 0 21px;line-height:1.4}
+.kicker::before{content:'';width:25px;border-top:1px solid var(--red)}
+.primary{display:inline-flex;align-items:center;justify-content:center;gap:16px;background:var(--red);color:var(--paper);font-family:var(--serif);font-size:18px;font-weight:600;letter-spacing:.01em;line-height:1.3;padding:20px 32px;min-height:62px;text-decoration:none;box-shadow:0 6px 20px #a0231d2e;white-space:nowrap;transition:background .15s,transform .15s;font-variation-settings:"opsz" 40}
+.primary:hover{background:#801c17}
+.primary svg{width:19px;height:19px;flex:none}
+.secondary{display:inline-flex;align-items:center;gap:14px;font-size:14px;font-weight:400;text-decoration:none;padding:4px 7px 7px;border-bottom:1px solid var(--ink);white-space:nowrap}
+.secondary:hover{color:var(--red);border-color:var(--red)}
+.secondary svg{width:16px;height:16px}
+.sr-only{position:absolute;top:0;left:0;margin:0;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}
+
+@media(min-width:761px) and (max-height:840px){.kicker{margin-bottom:16px}}
+
+@media(max-width:1050px) and (min-width:761px){:root{--inset:30px;--copy-w:435px;--title-w:490px;--sphere-d:960px;--sphere-x:245px}
+.nav{gap:20px}
+.nameplate{font-size:26px}
+.nav{font-size:11px}
+.nav .nav-action{padding:12px 16px}
+.primary{font-size:13px;padding:17px 15px;gap:12px}}
+
+@media(max-width:760px){:root{--header-h:68px;--inset:20px;--copy-w:100%;--title-w:100%;--sphere-d:122vw;--sphere-x:-32vw;--sphere-y:-14vw;--sphere-x-globe:calc(50% - var(--sphere-d)/2);--sphere-y-globe:calc((100svh - var(--header-h) - var(--sphere-d))/2)}
+.masthead{gap:10px;position:sticky;top:0;z-index:50}
+.nameplate{font-size:27px;letter-spacing:-1.2px}
+.nav>a:not(.nav-action),.nav .resources{display:none}
+.nav .nav-action{font-size:10px;letter-spacing:.04em;padding:10px}
+.kicker{margin-bottom:12px;font-size:10px;letter-spacing:.2em}
+.primary{width:auto;min-height:50px;padding:0 22px;font-size:15px;gap:12px}
+.kicker{align-items:center}}
+
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}
+*,*::before,*::after{transition:none!important;animation:none!important}}
+:root{--paper-dark:#efece2;--ink-soft:#3d3b33;--ink-fade:#8a8778;--sand:#d6ceb8;--rule:#d8d4c6}
+.nameplate{display:flex;flex-direction:row;line-height:1.05}
+.nameplate-text{display:flex;flex-direction:column}
+.formerly{font-family:var(--serif);font-style:italic;font-size:12.5px;font-weight:400;letter-spacing:.01em;color:var(--muted);margin:3px 0 0 4px;white-space:nowrap}
+.masthead{transition:transform .6s ease}
+
+@media(max-width:900px){/* the header is pinned at every width that uses the stacked section (900 and under), not only 760 and under */
+.masthead{position:sticky;top:0;z-index:50}}
+.letter-body{padding:22px 20px 40px;font:400 14px/1.7 var(--sans);color:#3d3b33;max-height:420px}
+.letter-body p{margin:0 0 12px}
+.letter-body strong{color:var(--ink);font-weight:600}
+.letters .kicker{color:var(--red)}
+@media(max-width:900px){.masthead{border-bottom:1px solid var(--ink);transition:box-shadow .2s}}
+/* ===== FOOTER ===== */
+.footer{background:var(--ink);color:#f7f4ec;padding:72px 0 28px;border-top:1px solid #2a2823}
+.footer a{color:inherit;text-decoration:none}
+.footer-top{display:grid;grid-template-columns:minmax(0,1.4fr) repeat(4,minmax(0,1fr));gap:40px;padding-bottom:48px;border-bottom:1px solid rgba(247,244,236,.14)}
+.footer-brand{font:600 24px/1 var(--serif);letter-spacing:-.02em;margin:0 0 4px}
+.footer-brand .dot{color:var(--red)}
+.footer-former{font:italic 400 13px/1.4 var(--serif);color:rgba(247,244,236,.6);margin:0 0 18px}
+.footer-about{font:400 14px/1.6 var(--sans);color:rgba(247,244,236,.72);max-width:380px;margin:0 0 26px}
+.footer-handle{color:#f7f4ec;border-bottom:1px solid rgba(247,244,236,.5)}
+.footer-signup{max-width:400px}
+.footer-signup .eyebrow{font:600 10px/1 var(--sans);letter-spacing:.2em;text-transform:uppercase;color:rgba(247,244,236,.55);margin:0 0 10px}
+.footer-signup form{display:flex;border:1px solid rgba(247,244,236,.35)}
+.footer-signup input{flex:1 1 auto;min-width:0;background:transparent;border:0;color:#f7f4ec;padding:13px 14px;font:400 15px var(--serif);outline:none}
+.footer-signup input::placeholder{color:rgba(247,244,236,.4)}
+.footer-signup button{flex:none;background:var(--red);color:#fff;border:0;padding:0 18px;font:600 12px var(--sans);letter-spacing:.08em;text-transform:uppercase;cursor:pointer}
+.footer-signup .foot{font:400 11.5px/1.5 var(--sans);color:rgba(247,244,236,.45);margin:8px 0 0}
+.footer-fb{display:inline-block;margin-top:16px;font:500 13px/1 var(--sans);color:#f7f4ec;border-bottom:1px solid rgba(247,244,236,.5);padding-bottom:3px}
+.footer-col h4{font:600 10.5px/1 var(--sans);letter-spacing:.2em;text-transform:uppercase;color:rgba(247,244,236,.55);margin:6px 0 16px}
+.footer-col ul{list-style:none;margin:0;padding:0}
+.footer-col li{margin:0 0 10px}
+.footer-col li a{font:400 14.5px/1.35 var(--sans);color:rgba(247,244,236,.88);border-bottom:1px solid transparent;transition:border-color .15s}
+.footer-col li a:hover{border-color:rgba(247,244,236,.6)}
+.footer-mid{display:flex;flex-wrap:wrap;gap:18px 34px;align-items:center;padding:22px 0;border-bottom:1px solid rgba(247,244,236,.14);font:400 12.5px/1.5 var(--sans);color:rgba(247,244,236,.6)}
+.footer-mid b{font-weight:600;color:rgba(247,244,236,.85)}
+.footer-social{display:flex;gap:16px;margin-left:auto}
+.footer-social a{font:500 12px/1 var(--sans);letter-spacing:.06em;color:rgba(247,244,236,.85);border-bottom:1px solid rgba(247,244,236,.35);padding-bottom:3px}
+.footer-legal{display:flex;flex-wrap:wrap;gap:12px 28px;justify-content:space-between;padding-top:22px;font:400 12px/1.6 var(--sans);color:rgba(247,244,236,.5)}
+.footer-legal p{margin:0;max-width:760px}
+.footer-legal ul{list-style:none;display:flex;flex-wrap:wrap;gap:16px;margin:0;padding:0}
+.footer-legal ul a{color:rgba(247,244,236,.7);border-bottom:1px solid transparent}
+.footer-legal ul a:hover{border-color:rgba(247,244,236,.5)}
+
+@media(max-width:1100px){.footer-top{grid-template-columns:1fr 1fr;gap:34px}
+.footer-top>.footer-lead{grid-column:1 / -1}}
+
+@media(max-width:900px){.footer{padding:52px 0 24px}
+.footer-top{grid-template-columns:1fr 1fr;gap:26px 18px;padding-bottom:32px}
+.footer-mid{gap:12px 20px}
+.footer-social{margin-left:0}
+.footer-legal{flex-direction:column}}
+.menu-btn,.drawer{display:none}
+
+@media(max-width:760px){.menu-btn{display:inline-flex;flex-direction:column;justify-content:center;gap:6px;width:40px;height:40px;flex:none;background:none;border:0;padding:0 8px;cursor:pointer}
+.menu-btn span{display:block;height:2px;background:var(--ink)}
+.nav{display:none}
+.masthead{justify-content:flex-start;gap:12px}
+.nameplate{font-size:22px;letter-spacing:-.9px}
+.nameplate-text{align-items:center}
+.formerly{margin:2px 0 0;letter-spacing:.04em}
+.drawer{display:block;position:fixed;inset:0;z-index:1300;pointer-events:none}
+.drawer-scrim{position:absolute;inset:0;background:rgba(26,25,21,.45);opacity:0;transition:opacity .3s}
+.drawer-panel{position:absolute;top:0;left:0;bottom:0;width:min(84vw,340px);background:var(--paper);border-right:3px double var(--ink);padding:0 22px 28px;overflow-y:auto;transform:translateX(-102%);transition:transform .35s cubic-bezier(.2,.8,.2,1);display:flex;flex-direction:column}
+.drawer.open{pointer-events:auto}
+.drawer.open .drawer-scrim{opacity:1}
+.drawer.open .drawer-panel{transform:none}
+.drawer-head{display:flex;align-items:center;justify-content:space-between;height:68px;border-bottom:1px solid var(--ink);margin-bottom:6px}
+.drawer-brand{font:500 10px/1.4 var(--sans);letter-spacing:.2em;text-transform:uppercase;color:var(--muted)}
+.drawer-close{background:none;border:0;font:300 34px/1 var(--serif);color:var(--ink);padding:0 4px;cursor:pointer}
+.drawer-panel a{display:flex;align-items:center;gap:14px;font:500 17px/1.25 var(--serif);color:var(--ink);text-decoration:none;padding:11px 0;border-bottom:1px solid var(--rule)}
+.drawer-panel a.drawer-home{font-size:19px;padding:14px 0}
+.drawer-panel a.drawer-red{color:var(--red)}
+.drawer-panel .mi{width:19px;height:19px;flex:none;color:var(--muted)}
+.drawer-panel a.drawer-red .mi{color:var(--red)}
+.drawer-kicker{font:500 10px/1.4 var(--sans);letter-spacing:.2em;text-transform:uppercase;color:var(--muted);margin:22px 0 2px}
+.drawer-foot{margin-top:auto;padding-top:26px;display:flex;gap:22px}
+.drawer-foot a{font:400 12px/1.4 var(--sans);letter-spacing:.13em;text-transform:uppercase;border-bottom:1px solid var(--ink);padding:0 0 3px}
+body.drawer-open{overflow:hidden}}
+.nav{flex:1 1 auto;justify-content:space-between;margin-left:clamp(28px,3vw,56px)}
+.nav-left,.nav-right{display:flex;align-items:center;gap:clamp(22px,2vw,36px)}
+.nav-left a,.dd-btn{text-decoration:none;color:var(--ink);font:500 12px/1 var(--sans);letter-spacing:.13em;text-transform:uppercase;white-space:nowrap}
+.nav-left a{display:inline-flex;align-items:center;gap:9px;font-size:13.5px;letter-spacing:.11em}
+.nav-left .mi{width:18px;height:18px;color:var(--muted)}
+.nav-left a:hover .mi{color:var(--red)}
+.nav-left a:hover{color:var(--red)}
+.dd{position:relative}
+.dd-btn{display:inline-flex;align-items:center;gap:7px;background:none;border:0;padding:8px 0;cursor:pointer}
+.dd-btn .chev{width:11px;height:11px;transition:transform .2s}
+.dd.open .dd-btn{color:var(--red)}
+.dd.open .chev{transform:rotate(180deg)}
+.dd-menu{position:absolute;top:calc(var(--header-h)/2 + 50% - 3px);left:-18px;min-width:230px;padding:10px 0 8px;background:var(--paper);border:1px solid var(--ink);border-top:0;box-shadow:0 10px 26px rgba(26,25,21,.14);z-index:60;display:none;clip-path:inset(0 0 100% 0);transform:translateY(-14px)}
+.dd-menu::before{content:"";position:absolute;left:0;right:0;bottom:100%;height:30px}
+.dd:last-of-type .dd-menu{left:auto;right:-18px}
+.dd.open .dd-menu{display:block;animation:ddslide .28s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes ddslide{to{clip-path:inset(0);transform:none}}
+.dd-menu a{display:flex;align-items:center;gap:12px;padding:10px 18px 10px 16px;font:500 14.5px/1.3 var(--serif);letter-spacing:0;text-transform:none;color:var(--ink);text-decoration:none;white-space:nowrap}
+.dd-menu a:hover{background:#eae6db;color:var(--red)}
+.dd-menu .mi{width:17px;height:17px;flex:none;color:var(--muted)}
+.dd-menu a:hover .mi{color:var(--red)}
+
+@media(max-width:760px){.nav{display:none}}
+.dot{width:7px;height:7px;border-radius:50%;background:var(--blue);display:inline-block;flex:none}
+.dot.project{background:var(--green);width:9px;height:9px}
+.wrap{max-width:1200px;margin:0 auto;padding:0 24px}
+@media(min-width:1600px){.wrap{max-width:1320px}
+.press .wrap{max-width:1200px}}
+.fl-stats .wrap{max-width:1240px}
+.shop>.wrap{width:100%;max-width:1320px}
+@media(max-width:900px){.shop>.wrap{max-width:none}}
+/* ---- Learn page ---- */
+.learn{--lw:1120px}
+.learn h1,.learn h2,.learn h3{font-family:var(--serif);font-weight:600;letter-spacing:-.01em;margin:0}
+.learn h2{font-size:clamp(26px,2.4vw,36px);line-height:1.12;max-width:16em;margin:6px 0 22px}
+.learn p{margin:0 0 1em;font-family:var(--serif);font-size:17px;line-height:1.6}
+.learn .kicker{color:var(--red);margin:0 0 10px}
+.learn .kicker::before{content:"";display:inline-block;width:28px;height:1px;background:var(--red);margin-right:13px;vertical-align:middle}
+.lwrap{max-width:var(--lw);margin:0 auto;padding:64px var(--inset)}
+
+.lhero{position:relative;min-height:520px;display:flex;align-items:flex-end;background:#161713;color:var(--paper);overflow:hidden;border-bottom:3px double var(--ink)}
+.lhero-img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.lhero-shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(22,23,19,.15),rgba(22,23,19,.78) 78%),radial-gradient(60% 80% at 80% 20%,rgba(160,35,29,.25),transparent 70%)}
+.lhero-inner{position:relative;max-width:var(--lw);margin:0 auto;padding:110px var(--inset) 54px;width:100%}
+.lhero .kicker{color:#e3b8b4}
+.lhero h1{font-size:clamp(38px,5.2vw,68px);line-height:1.02;max-width:12em}
+.lhero h1 em{font-style:italic;color:#e8a09a}
+.lhero-sub{font-size:19px;color:#d8d3c5;max-width:36em;margin:18px 0 0}
+
+.lgrid{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(260px,1fr);gap:56px;align-items:start}
+.lcopy p{font-size:19px;line-height:1.62}
+.lcopy strong{font-weight:600;color:var(--ink)}
+.lstats{border-top:3px double var(--ink);padding-top:8px}
+.lstats div{display:flex;gap:16px;align-items:baseline;padding:16px 0;border-bottom:1px solid var(--rule)}
+.lstats b{font:600 clamp(28px,2.6vw,36px)/1 var(--serif);color:var(--red);min-width:4.2em;letter-spacing:-.02em}
+.lstats span{font:400 14px/1.45 var(--sans);color:var(--muted)}
+
+.lband{padding-top:0}
+.lband-inner{background:#1a1915;color:var(--paper);padding:44px clamp(24px,4vw,56px);display:flex;align-items:center;justify-content:space-between;gap:40px}
+.lband .kicker{color:#e8a09a}.lband .kicker::before{background:#e8a09a}
+.lband h2{color:var(--paper);margin-bottom:12px}
+.lband p{color:#cfcabd;max-width:34em;margin:0}
+.lband .primary{flex:none}
+
+.lacc{border-top:3px double var(--ink)}
+.lacc details{border-bottom:1px solid var(--ink)}
+.lacc summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:20px;padding:20px 0;font:600 20px/1.2 var(--serif)}
+.lacc summary::-webkit-details-marker{display:none}
+.lacc summary::after{content:"";width:12px;height:12px;border-right:1.6px solid var(--ink);border-bottom:1.6px solid var(--ink);transform:rotate(45deg);margin-right:6px;transition:transform .2s;flex:none}
+.lacc details[open] summary::after{transform:rotate(-135deg)}
+.lacc details[open] summary{color:var(--red)}
+.lacc details>div{padding:0 0 22px;max-width:44em}
+.lacc details>div p{margin:0}
+
+.lsteps-row{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(4,1fr);gap:0;border-top:3px double var(--ink)}
+.lsteps-row li{padding:24px 22px 26px 0;border-right:1px solid var(--rule);margin-right:22px}
+.lsteps-row li:last-child{border-right:0;margin-right:0}
+.lsteps-row b{display:block;font:600 40px/1 var(--serif);color:var(--red);margin-bottom:14px;letter-spacing:-.03em}
+.lsteps-row h3{font-size:19px;line-height:1.2;margin-bottom:10px}
+.lsteps-row p{font:400 14.5px/1.5 var(--sans);color:var(--muted);margin:0}
+
+.lcards{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-bottom:28px}
+.lcards article{background:#efebe0;padding:26px 26px 22px;border-top:3px solid var(--ink)}
+.lcard-tag{font:500 10px/1.4 var(--sans);letter-spacing:.2em;text-transform:uppercase;color:var(--red);margin:0 0 12px}
+.lcards h3{font-size:20px;margin-bottom:10px}
+.lcards article p:last-child{font:400 15px/1.55 var(--sans);color:#3f3d35;margin:0}
+
+.ldo{padding-bottom:96px}
+.ldo-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+.ldo-card{display:flex;flex-direction:column;text-decoration:none;color:var(--ink);border:1.5px solid var(--ink);padding:26px 24px 22px;min-height:230px;transition:transform .2s,box-shadow .2s;background:var(--paper)}
+.ldo-card:hover{transform:translateY(-3px);box-shadow:0 12px 28px rgba(26,25,21,.12)}
+.ldo-n{font:500 11px/1 var(--sans);letter-spacing:.2em;color:var(--muted);margin-bottom:22px}
+.ldo-card h3{font-size:22px;line-height:1.15;margin-bottom:10px}
+.ldo-card p{font:400 15px/1.5 var(--sans);color:#3f3d35;margin:0 0 auto}
+.ldo-go{font:500 12px/1 var(--sans);letter-spacing:.13em;text-transform:uppercase;margin-top:22px;border-bottom:1px solid currentColor;align-self:flex-start;padding-bottom:4px}
+.ldo-red{background:var(--red);border-color:var(--red);color:var(--paper)}
+.ldo-red .ldo-n,.ldo-red p{color:#f0d9d6}
+
+.lallies{padding-bottom:96px}
+.lally-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:20px}
+.lally{display:flex;flex-direction:column;text-decoration:none;color:var(--ink);background:#efebe0;padding:22px 22px 20px;border-top:3px solid var(--ink);transition:background .2s}
+.lally:hover{background:#e8e3d5}
+.lally h3{font-size:18px;margin-bottom:8px}
+.lally p{font:400 14px/1.5 var(--sans);color:#3f3d35;margin:0 0 auto}
+.lally span{font:500 11px/1 var(--sans);letter-spacing:.15em;text-transform:uppercase;margin-top:18px}
+
+@media(max-width:900px){
+.lwrap{padding:48px var(--inset)}
+.lgrid{grid-template-columns:1fr;gap:36px}
+.lband-inner{flex-direction:column;align-items:flex-start;padding:34px 24px}
+.lsteps-row{grid-template-columns:1fr 1fr}
+.lsteps-row li{border-right:0;margin-right:0;padding-right:16px;border-bottom:1px solid var(--rule)}
+.lcards,.ldo-grid{grid-template-columns:1fr}
+.lally-grid{grid-template-columns:1fr 1fr}
+}
+@media(max-width:600px){
+.lhero{min-height:360px}.lhero-inner{padding:90px var(--inset) 40px}
+.lsteps-row,.lally-grid{grid-template-columns:1fr}
+.lcopy p{font-size:17px}
+.ldo-card{min-height:0}
+}
+
+.learn .secondary{color:var(--ink)}
+
+</style>
+<script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "whyg2fbg7c");</script>
+</head>
+<body>
+<header class="masthead">
+<button type="button" class="menu-btn" id="menu-btn" aria-label="Open menu" aria-expanded="false"><span></span><span></span><span></span></button><a class="nameplate" href="/" aria-label="Global Data Centers home"><span class="mark" aria-hidden="true">GDC</span><span class="nameplate-text">Global Data Centers.<span class="formerly">formerly Florida Data Centers</span></span></a>
+<nav class="nav" aria-label="Main navigation"><div class="nav-left"><a href="/"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 6l6-2 6 2 6-2v14l-6 2-6-2-6 2z"/><path d="M9 4v14M15 6v14"/></svg>Map</a><a href="/learn"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 9l9-4 9 4-9 4z"/><path d="M7 11v5c0 1.5 2.5 3 5 3s5-1.5 5-3v-5"/><path d="M21 9v5"/></svg>Learn</a><a href="/support"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 20s-7-4.5-7-10a4 4 0 0 1 7-2.5A4 4 0 0 1 19 10c0 5.5-7 10-7 10z"/></svg>Donate</a></div><div class="nav-right"><div class="dd"><button type="button" class="dd-btn" aria-haspopup="true" aria-expanded="false">Resources<svg class="chev" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 4.5 6 7.5l3-3"/></svg></button><div class="dd-menu"><a href="/#wins"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 21V4"/><path d="M5 5h12l-2 3 2 3H5"/></svg>Where communities won</a><a href="/moratorium"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M10 9v6M14 9v6"/></svg>Moratorium tracker</a><a href="/your-rights"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v6c0 4-3 7-7 9-4-2-7-5-7-9V6z"/><path d="M9 12l2 2 4-4"/></svg>Your rights as a resident</a><a href="/sources"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5a2 2 0 0 1 2-2h12v16H6a2 2 0 0 0-2 2z"/><path d="M4 19V5"/><path d="M8 7h7"/></svg>Sources &amp; methodology</a><a href="/about"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M12 11v5M12 8h.01"/></svg>About this site</a></div></div><div class="dd"><button type="button" class="dd-btn" aria-haspopup="true" aria-expanded="false">Get involved<svg class="chev" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 4.5 6 7.5l3-3"/></svg></button><div class="dd-menu"><a href="/take-action"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 6h16v12H4z"/><path d="M4 7l8 6 8-6"/></svg>Send an opposition letter</a><a href="/#check"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-6-5.5-6-11a6 6 0 0 1 12 0c0 5.5-6 11-6 11z"/><circle cx="12" cy="10" r="2"/></svg>Check your address</a><a href="/contact"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 10v4h3l7 4V6l-7 4z"/><path d="M17 9a4 4 0 0 1 0 6"/></svg>Report a project · Tip line</a><a href="/shop"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 8h12l1 12H5z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/></svg>Shop</a><a href="/contact"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5h16v11H9l-5 4z"/></svg>Contact</a></div></div><div class="dd"><button type="button" class="dd-btn" aria-haspopup="true" aria-expanded="false">Socials<svg class="chev" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 4.5 6 7.5l3-3"/></svg></button><div class="dd-menu"><a href="https://tiktok.com/@jamesdatacenters" target="_blank" rel="noopener"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 18V5l9-2v13"/><circle cx="7" cy="18" r="3"/><circle cx="16" cy="16" r="3"/></svg>TikTok</a><a href="https://instagram.com/jamesdatacenters" target="_blank" rel="noopener"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="4"/><circle cx="12" cy="12" r="3.5"/><path d="M17 7h.01"/></svg>Instagram</a><a href="https://www.facebook.com/share/g/1BS4kskLw1/" target="_blank" rel="noopener"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="9" cy="8" r="3"/><circle cx="17" cy="9" r="2.5"/><path d="M3 19a6 6 0 0 1 12 0"/><path d="M15 19a4.5 4.5 0 0 1 6-3.5"/></svg>Stop Data Centers group</a></div></div><a class="nav-action" href="/take-action">Take action</a></div></nav>
+</header>
+<div class="drawer" id="drawer" aria-hidden="true"><div class="drawer-scrim" id="drawer-scrim"></div><nav class="drawer-panel" aria-label="Site menu">
+<div class="drawer-head"><span class="drawer-brand">Menu</span><button type="button" class="drawer-close" id="drawer-close" aria-label="Close menu">&times;</button></div>
+<a class="drawer-home" href="/"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 11l8-7 8 7"/><path d="M6 10v10h12V10"/><path d="M10 20v-6h4v6"/></svg>Home</a>
+<p class="drawer-kicker">Explore</p>
+<a href="/" class="drawer-red"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 6l6-2 6 2 6-2v14l-6 2-6-2-6 2z"/><path d="M9 4v14M15 6v14"/></svg>The map</a><a href="/learn"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 9l9-4 9 4-9 4z"/><path d="M7 11v5c0 1.5 2.5 3 5 3s5-1.5 5-3v-5"/><path d="M21 9v5"/></svg>Learn</a><a href="/#check"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-6-5.5-6-11a6 6 0 0 1 12 0c0 5.5-6 11-6 11z"/><circle cx="12" cy="10" r="2"/></svg>Check your address</a><a href="/#wins"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 21V4"/><path d="M5 5h12l-2 3 2 3H5"/></svg>Where communities won</a><a href="/moratorium"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M10 9v6M14 9v6"/></svg>Moratorium tracker</a><a href="/your-rights"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v6c0 4-3 7-7 9-4-2-7-5-7-9V6z"/><path d="M9 12l2 2 4-4"/></svg>Your rights as a resident</a>
+<p class="drawer-kicker">Act</p>
+<a href="/take-action" class="drawer-red"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 6h16v12H4z"/><path d="M4 7l8 6 8-6"/></svg>Send an opposition letter</a><a href="/contact"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 10v4h3l7 4V6l-7 4z"/><path d="M17 9a4 4 0 0 1 0 6"/></svg>Report a project · Tip line</a><a href="/shop"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 8h12l1 12H5z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/></svg>Shop</a><a href="/support"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 20s-7-4.5-7-10a4 4 0 0 1 7-2.5A4 4 0 0 1 19 10c0 5.5-7 10-7 10z"/></svg>Support the work</a>
+<p class="drawer-kicker">About</p>
+<a href="/contact" class="drawer-red"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5h16v11H9l-5 4z"/></svg>Contact</a><a href="/about"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M12 11v5M12 8h.01"/></svg>About this site</a><a href="/sources"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5a2 2 0 0 1 2-2h12v16H6a2 2 0 0 0-2 2z"/><path d="M4 19V5"/><path d="M8 7h7"/></svg>Sources &amp; methodology</a><a href="/press"><svg class="mi" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 5h14v14H5z"/><path d="M8 9h8M8 12h8M8 15h5"/></svg>Press</a>
+<div class="drawer-foot"><a href="https://tiktok.com/@jamesdatacenters">TikTok</a><a href="https://instagram.com/jamesdatacenters">Instagram</a></div>
+</nav></div>
+
+<main id="main" class="learn">
+
+<section class="lhero" aria-labelledby="learn-title">
+  <img class="lhero-img" src="img/learn-hero.jpg" alt="Aerial view of a hyperscale data center campus under construction">
+  <div class="lhero-shade"></div>
+  <div class="lhero-inner">
+    <p class="kicker">Learn</p>
+    <h1 id="learn-title">What is a <em>hyperscale</em> data center?</h1>
+    <p class="lhero-sub">The buildings behind the AI boom, and why one may be headed for a field near you.</p>
+  </div>
+</section>
+
+<section class="lwrap lexplain">
+  <div class="lgrid">
+    <div class="lcopy">
+      <p>A hyperscale data center is a <strong>warehouse-scale computer</strong>: hundreds of thousands of servers in windowless buildings, running around the clock to train and serve AI models for a handful of companies. One campus can cover <strong>hundreds of acres</strong>, draw <strong>as much electricity as a mid-size city</strong>, and need <strong>millions of gallons of water a day</strong> to keep the machines from overheating.</p>
+      <p>They are being built at a pace no zoning board was designed for. The land is bought quietly, often under a <strong>code name and a non-disclosure agreement</strong>, and the power and water are spoken for before most residents hear a word. By the time a hearing shows up on the agenda, <strong>half the decision has already been made</strong>.</p>
+      <p>This site exists to close that gap: to show where these projects are landing, what they mean for the people next door, and what has actually worked to stop or reshape them.</p>
+    </div>
+    <aside class="lstats" aria-label="By the numbers">
+      <div><b>300+</b><span>acres for a single campus, larger than most towns' downtowns</span></div>
+      <div><b>1 GW</b><span>of power demand at the biggest sites, roughly what 750,000 homes use</span></div>
+      <div><b>millions</b><span>of gallons of water a day for cooling at large campuses</span></div>
+      <div><b>24 / 7</b><span>cooling fans, plus diesel backup generators tested on a schedule</span></div>
+    </aside>
+  </div>
+</section>
+
+<section class="lwrap lband">
+  <div class="lband-inner">
+    <div>
+      <p class="kicker">What do they look like?</p>
+      <h2>See the projects that have already been filed.</h2>
+      <p>Every dot on the map is a real proposal, tracked from public filings and local reporting, with the county, the acreage, and where the vote stands.</p>
+    </div>
+    <a class="primary" href="/"><span>Open the map</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><path d="M4 12h15M14 6l6 6-6 6"/></svg></a>
+  </div>
+</section>
+
+<section class="lwrap lconcern" aria-labelledby="concern-title">
+  <p class="kicker">Why you should care</p>
+  <h2 id="concern-title">What a data center next door actually changes.</h2>
+  <div class="lacc">
+    <details open>
+      <summary>Your power bill</summary>
+      <div><p>A single campus can need more electricity than every home in the county combined. Utilities build new plants and lines to serve it, and the cost of that buildout is spread across <strong>everyone's bill</strong> unless state law or the utility deal says otherwise. Ask who pays for the new substation before it's built.</p></div>
+    </details>
+    <details>
+      <summary>Your water</summary>
+      <div><p>Cooling the machines takes water, and most of it evaporates instead of going back. In places already under drought watch or with strained aquifers, a data center becomes the <strong>largest single water user in the county</strong> overnight, competing with farms and homes for the same wells.</p></div>
+    </details>
+    <details>
+      <summary>Noise and diesel</summary>
+      <div><p>Cooling fans run day and night, a low hum that carries for miles over flat ground. Behind the building sit rows of <strong>diesel backup generators</strong>, dozens at a large site, that are tested regularly and run for hours when the grid falters.</p></div>
+    </details>
+    <details>
+      <summary>Tax deals and NDAs</summary>
+      <div><p>Developers routinely arrive under a code name, bind local officials with <strong>non-disclosure agreements</strong>, and ask for decades of property-tax abatements in exchange for a few dozen permanent jobs. Residents usually learn the real company's name after the vote.</p></div>
+    </details>
+    <details>
+      <summary>Your property</summary>
+      <div><p>Farmland and residential-adjacent parcels get rezoned to heavy industrial. Once that happens, the zoning follows the land, not the project: if the first developer walks, <strong>the next one inherits the approval</strong>.</p></div>
+    </details>
+  </div>
+</section>
+
+<section class="lwrap lsteps" aria-labelledby="steps-title">
+  <p class="kicker">How they get approved</p>
+  <h2 id="steps-title">Four steps, and residents usually hear about the third one.</h2>
+  <ol class="lsteps-row">
+    <li><b>1</b><h3>Land goes under contract</h3><p>Options on farmland or industrial parcels, often through an LLC with no obvious owner.</p></li>
+    <li><b>2</b><h3>The paperwork is filed</h3><p>A rezoning or comprehensive-plan amendment lands in the county's planning queue, weeks before it's on any agenda.</p></li>
+    <li><b>3</b><h3>The public hearing</h3><p>Planning commission first, then the county commission or city council. This is where public comment counts.</p></li>
+    <li><b>4</b><h3>The vote</h3><p>A handful of elected officials decide. Written opposition, delivered before the vote, is part of the permanent record.</p></li>
+  </ol>
+</section>
+
+<section class="lwrap lwins" aria-labelledby="wins-title">
+  <p class="kicker">Communities are winning</p>
+  <h2 id="wins-title">Written opposition works.</h2>
+  <div class="lcards">
+    <article><p class="lcard-tag">Denied</p><h3>Pinal County, Arizona</h3><p>The largest data center ever proposed in the state, 3,300 acres with its own gas plants, voted down 4 to 1 in September after residents organized over water and power.</p></article>
+    <article><p class="lcard-tag">Denied</p><h3>DeKalb County, Georgia</h3><p>A $1.6 billion, million-square-foot campus rejected unanimously in August after months of pushback, with a countywide moratorium already in place through 2027.</p></article>
+    <article><p class="lcard-tag">Denied</p><h3>Kansas City, Missouri</h3><p>A 20-story downtown data center blocked 6 to 0 after 475 opposition letters arrived and zero letters in support.</p></article>
+  </div>
+  <a class="secondary" href="/#wins">More wins on the map<svg viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.3" aria-hidden="true"><path d="M5 15 15 5M5 5h10v10"/></svg></a>
+</section>
+
+<section class="lwrap ldo" aria-labelledby="do-title">
+  <p class="kicker">What you can do</p>
+  <h2 id="do-title">Three things that take less than five minutes.</h2>
+  <div class="ldo-grid">
+    <a class="ldo-card" href="/#check"><span class="ldo-n">01</span><h3>Check your address</h3><p>See whether a project is filed near you and who votes on it.</p><span class="ldo-go">Check now ↗</span></a>
+    <a class="ldo-card ldo-red" href="/take-action"><span class="ldo-n">02</span><h3>Send your opposition letter</h3><p>We write it for your address and county and email every commissioner, on your behalf.</p><span class="ldo-go">Send the letter ↗</span></a>
+    <a class="ldo-card" href="/contact"><span class="ldo-n">03</span><h3>Send a tip</h3><p>Heard about a filing, a hearing, or a land deal? We read every message.</p><span class="ldo-go">Tip line ↗</span></a>
+  </div>
+</section>
+
+
+
+</main>
+
+<footer class="footer" role="contentinfo">
+  <div class="wrap">
+    <div class="footer-top">
+      <div class="footer-lead">
+        <p class="footer-brand">Global Data Centers<span class="dot">.</span></p>
+        <p class="footer-former">Formerly Florida Data Centers</p>
+        <p class="footer-about">Built and run by James Boger, <a href="https://www.instagram.com/jamesdatacenters/" target="_blank" rel="noopener" class="footer-handle">@jamesdatacenters</a>. Every project is reported from public records and local news, cited. Independent: no money from developers, utilities, advocacy groups, or government.</p>
+        <div class="footer-signup">
+          <p class="eyebrow">Alerts · 50,000+ residents subscribed</p>
+          <form action="/api/contact" method="post"><input type="email" name="email" placeholder="your@email.com" required aria-label="Email address"><input type="hidden" name="type" value="newsletter"><button type="submit">Get alerts</button></form>
+          <p class="foot">One email when a filing, vote, tax deal, or deadline hits your area. No spam, unsubscribe anytime.</p>
+          <a class="footer-fb" href="https://www.facebook.com/share/g/1BS4kskLw1/" target="_blank" rel="noopener">Join the Facebook group →</a>
+        </div>
+      </div>
+      <div class="footer-col"><h4>Explore</h4><ul>
+        <li><a href="/">The map</a></li><li><a href="/data-centers/">Data centers by place</a></li><li><a href="/company/">Data centers by company</a></li><li><a href="/#wins">Where communities won</a></li><li><a href="/moratorium">Moratorium tracker</a></li><li><a href="/your-rights">Your rights as a resident</a></li></ul></div>
+      <div class="footer-col"><h4>Act</h4><ul>
+        <li><a href="/take-action">Send an opposition letter</a></li><li><a href="/#check">Check your address</a></li><li><a href="/contact">Report a project · Tip line</a></li><li><a href="/shop">Shop</a></li><li><a href="/support">Support the work</a></li></ul></div>
+      <div class="footer-col"><h4>About</h4><ul>
+        <li><a href="/about">About this site</a></li><li><a href="/sources">Sources &amp; methodology</a></li><li><a href="/#check">How we score risk</a></li><li><a href="/contact">Contact</a></li><li><a href="/press">Press</a></li></ul></div>
+      <div class="footer-col"><h4>Legal</h4><ul>
+        <li><a href="/privacy">Privacy</a></li><li><a href="/terms">Terms of use</a></li><li><a href="/disclaimer">Disclaimer</a></li><li><a href="/corrections">Corrections</a></li><li><a href="/accessibility">Accessibility</a></li></ul></div>
+    </div>
+    <div class="footer-mid">
+      <span><b>Data:</b> public records, agenda packets, and local reporting, cited per project.</span>
+      <span><b>Imagery:</b> Esri, Maxar, Earthstar Geographics &amp; the GIS User Community.</span>
+      <span><b>Geocoding:</b> OpenStreetMap contributors. Addresses are not stored.</span>
+      <div class="footer-social"><a href="https://www.instagram.com/jamesdatacenters/" target="_blank" rel="noopener">Instagram</a><a href="https://www.tiktok.com/@jamesdatacenters" target="_blank" rel="noopener">TikTok</a><a href="https://www.facebook.com/share/g/1BS4kskLw1/" target="_blank" rel="noopener">Facebook group</a><a href="mailto:james@floridadatacenters.org">Email</a></div>
+    </div>
+    <div class="footer-legal">
+      <p>© <span class="js-year">2026</span> Global Data Centers · Independent reporting. Not legal, financial, or environmental advice. Project statuses reflect the latest public record we could verify and may change; see each entry for its sources and date. Product names and marks belong to their owners.</p>
+      <ul><li><a href="/privacy">Privacy</a></li><li><a href="/terms">Terms</a></li><li><a href="/sitemap.xml">Sitemap</a></li></ul>
+    </div>
+  </div>
+</footer>
+<script>(function(){var d=document.getElementById('drawer'),b=document.getElementById('menu-btn');if(!d||!b)return;function set(on){d.classList.toggle('open',on);d.setAttribute('aria-hidden',on?'false':'true');b.setAttribute('aria-expanded',on?'true':'false');document.body.classList.toggle('drawer-open',on);}
+b.addEventListener('click',function(){set(true);});document.getElementById('drawer-close').addEventListener('click',function(){set(false);});document.getElementById('drawer-scrim').addEventListener('click',function(){set(false);});
+d.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){set(false);});});document.addEventListener('keydown',function(e){if(e.key==='Escape')set(false);});})();</script>
+<script>(function(){var dds=[].slice.call(document.querySelectorAll('.nav .dd'));if(!dds.length)return;var t;function closeAll(except){dds.forEach(function(d){if(d!==except){d.classList.remove('open');d.querySelector('.dd-btn').setAttribute('aria-expanded','false');}});}
+function open(d){clearTimeout(t);closeAll(d);d.classList.add('open');d.querySelector('.dd-btn').setAttribute('aria-expanded','true');}
+dds.forEach(function(d){var b=d.querySelector('.dd-btn');d.addEventListener('mouseenter',function(){open(d);});d.addEventListener('mouseleave',function(){clearTimeout(t);t=setTimeout(function(){closeAll();},160);});
+b.addEventListener('click',function(e){e.preventDefault();if(d.classList.contains('open')){closeAll();}else open(d);});
+d.addEventListener('focusin',function(){open(d);});});
+document.addEventListener('click',function(e){if(!e.target.closest('.nav .dd'))closeAll();});document.addEventListener('keydown',function(e){if(e.key==='Escape')closeAll();});})();</script>
+</body>
+</html>

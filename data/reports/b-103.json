@@ -1,0 +1,534 @@
+[
+ {
+  "id": "ft-556",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Project Fei is recorded as a 100 megawatt data center under construction near Childress, in Childress County, Texas.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The entry gives two sources for it, a Data Center Dynamics article about Soluna that refuses requests and a page about a solar farm.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The solar farm is Misae, 240 megawatts on 1,674 acres, about 1,200 football pitches, six miles east of Childress, built from 2018 and in commercial operation from the last quarter of 2019, and its owner says it makes enough for nearly 60,000 houses a year.",
+    "src": "https://www.cip.com/projects/our-projects/misae/"
+   },
+   {
+    "para": 0,
+    "t": "That page says nothing about a data center.",
+    "src": "https://www.cip.com/projects/our-projects/misae/"
+   },
+   {
+    "para": 1,
+    "t": "Childress has become a place where large computing sits next to large generation.",
+    "src": "https://iren.com/data-centers/childress"
+   },
+   {
+    "para": 1,
+    "t": "IREN's Childress data center, four kilometres from this entry and marked operating at 750 megawatts on record, is 576 acres of freehold land connected straight to the ERCOT grid through substations the company owns, with dual diverse fibre and both air and liquid cooling.",
+    "src": "https://iren.com/data-centers/childress"
+   },
+   {
+    "para": 1,
+    "t": "A Lancium proposal sits four kilometres away too, and three data center sites are counted in Childress County.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Beyond the solar, the generation is distant wind: a 200 megawatt farm 54 kilometres off, a 99 megawatt one 59 and the 350 megawatt Foard City farm 61.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Childress County has written no moratorium on data centers, which is part of why so much computing has gone there.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.cip.com/projects/our-projects/misae/",
+   "https://iren.com/data-centers/childress"
+  ],
+  "unconfirmed": "Nothing we could read describes Project Fei itself: no developer, acreage, building, timetable or customer, and the 100 megawatts comes from our record alone. Reporting we could not open says Crusoe and Lancium announced a one gigawatt campus on 270 acres at Childress with construction from the third quarter of 2026; whether Project Fei is part of that, or a Soluna site, was not established."
+ },
+ {
+  "id": "ft-557",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Soluna signed a term sheet for power on April 8, 2025 for Project Hedy, 120 megawatts of data center capacity built in two 60 megawatt phases.",
+    "src": "https://www.solunacomputing.com/news/project-hedy-term-sheet/"
+   },
+   {
+    "para": 0,
+    "t": "It is to be co-located with a 200 megawatt wind farm owned by what the company describes only as \"a multinational conglomerate that focuses on developing and managing sustainable infrastructure solutions.\"",
+    "src": "https://www.solunacomputing.com/news/project-hedy-term-sheet/"
+   },
+   {
+    "para": 0,
+    "t": "No end customer is named; the site would take bitcoin mining, AI and machine learning work while supporting grid stability in ERCOT.",
+    "src": "https://www.solunacomputing.com/news/project-hedy-term-sheet/"
+   },
+   {
+    "para": 0,
+    "t": "At the announcement the company still had to finalise power purchase agreements, land agreements and the ERCOT planning process.",
+    "src": "https://www.solunacomputing.com/news/project-hedy-term-sheet/"
+   },
+   {
+    "para": 1,
+    "t": "The entry puts the site near Lyford in Willacy County and marks it under construction at 120 megawatts, with low confidence.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "Soluna's own announcement places Project Hedy in Cameron County rather than Willacy, which is the sort of discrepancy worth knowing about before reading a map.",
+    "src": "https://www.solunacomputing.com/news/project-hedy-term-sheet/"
+   },
+   {
+    "para": 1,
+    "t": "The 200 megawatt Los Vientos 1A wind farm is one kilometre from the point the record uses and the 273 megawatt Las Majadas farm six.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "This corner of south Texas now holds a cluster of these.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Soluna's 166 megawatt Project Kati is six kilometres away and under construction, Fluidstack's 1,100 acre Cameron County site ten, a 2,000 megawatt Eneus Energy proposal twelve, the 100 megawatt Project Ellen twelve and the 187 megawatt Project Rosa 25.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Two data center sites are counted in Willacy County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "Willacy County has no moratorium; the statewide measure the record attaches, dated August 3, 2026, is Governor Abbott's direction to the Public Utility Commission of Texas and ERCOT to review the electricity and water demands, infrastructure, tax incentives, ownership and community effects of data centers seeking to connect to the grid.",
+    "src": "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+   }
+  ],
+  "sources": [
+   "https://www.solunacomputing.com/news/project-hedy-term-sheet/",
+   "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+  ],
+  "unconfirmed": "The wind farm's name and owner are not given, nor the acreage, the timetable or whether the power agreements were ever signed. Our county and the company's differ. Whether anything is under construction, as our status says, was not established, and our record's own confidence rating for this entry is low."
+ },
+ {
+  "id": "ft-558",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Project Ellen is recorded as a 100 megawatt data center under construction near Rio Hondo, in Cameron County, Texas.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The record rates its own confidence in the entry low, cites a single source that refuses requests, and gives it one of four Soluna project names in this part of the state.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The pattern across them is the same: the company sites computing beside wind farms to take power that would otherwise be curtailed, and buys it under term sheets before the land and the grid paperwork are settled.",
+    "src": "https://www.solunacomputing.com/news/project-hedy-term-sheet/"
+   },
+   {
+    "para": 1,
+    "t": "At the nearest of its siblings, Project Hedy, Soluna signed a term sheet for power on April 8, 2025 for 120 megawatts in two phases, co-located with a 200 megawatt wind farm whose owner it would not name, with no end customer identified and the power purchase agreements, land agreements and ERCOT planning still to come.",
+    "src": "https://www.solunacomputing.com/news/project-hedy-term-sheet/"
+   },
+   {
+    "para": 1,
+    "t": "Hedy is twelve kilometres from this entry.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The wind here is immediate.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The 199 megawatt La Chalupa farm is two kilometres from this point, the 143 megawatt Palmas farm four, Cameron Wind 1 at 181 megawatts seven and Los Vientos 1A at 200 megawatts thirteen.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Five data center sites are counted in Cameron County, with Fluidstack's 1,100 acre Harlingen site eleven kilometres away, a 2,000 megawatt Eneus proposal fifteen, Project Kati seventeen and Project Rosa 33.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Cameron County has written no moratorium on data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.solunacomputing.com/news/project-hedy-term-sheet/"
+  ],
+  "unconfirmed": "Nothing we could read describes Project Ellen itself: no acreage, no developer confirmation, no wind farm partner, no timetable and no customer. The 100 megawatts and the under construction status come from our record alone, which rates its own confidence low. The Data Center Dynamics article our record cites refuses our requests."
+ },
+ {
+  "id": "ft-559",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Project Rosa is a 187 megawatt data center recorded near Santa Rosa, in Cameron County, Texas, and it is the least documented of the four Soluna names in this part of the state.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The entry marks it under construction with low confidence and cites one article that refuses requests.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "No acreage, developer confirmation, timetable or customer was found in anything that would open.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "What the company says about its nearest project tells you the shape of the business.",
+    "src": "https://www.solunacomputing.com/news/project-hedy-term-sheet/"
+   },
+   {
+    "para": 1,
+    "t": "For Project Hedy, 25 kilometres from here, Soluna signed a term sheet for power on April 8, 2025 covering 120 megawatts in two 60 megawatt phases, co-located with a 200 megawatt wind farm owned by a conglomerate it would not name, with no end customer and the power purchase agreements, land agreements and grid planning still outstanding.",
+    "src": "https://www.solunacomputing.com/news/project-hedy-term-sheet/"
+   },
+   {
+    "para": 1,
+    "t": "The sites are announced at the term sheet stage, which is well before anything is certain.",
+    "src": "https://www.solunacomputing.com/news/project-hedy-term-sheet/"
+   },
+   {
+    "para": 2,
+    "t": "The generation around Santa Rosa is wind and sun: the 200 megawatt Raymond farm fourteen kilometres away, a 135 megawatt solar plant seventeen, Los Vientos 1B at 202 megawatts twenty and West Raymond at 240 megawatts 23.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Five data center sites are counted in Cameron County, and four more entries sit within 33 kilometres, including a 2,000 megawatt Eneus Energy proposal at nineteen.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Nothing around Santa Rosa is covered by a moratorium on data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.solunacomputing.com/news/project-hedy-term-sheet/"
+  ],
+  "unconfirmed": "Everything specific to Project Rosa is missing: acreage, the wind farm it would use, the build stage and the customer. Our 187 megawatts and the under construction status come from our own record, which rates its confidence low. No local reaction was found."
+ },
+ {
+  "id": "ft-1786992679173-8336",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Project Big Pine data center is being sold to a tenant before it is built.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The record holds it as a 450 acre, 300 megawatt proposal at 107 Chapel Lane, inside the TexAmericas Center at New Boston, in Bowie County, Texas.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The developer, Potentia, is marketing it rather than applying for it.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The reason it matters here is the grid it is not on.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 1,
+    "t": "This corner of Texas sits in the Southwest Power Pool rather than ERCOT, with a peak load the record puts at 48,687 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 1,
+    "t": "The site is being pitched as behind the meter, generating its own power rather than waiting in an interconnection queue.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Two data center sites are counted in Bowie County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The other, an operating building at Texarkana, is 27 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The generation nearby is mills and coal: the 128 megawatt Ashdown biomass plant 29 kilometres off, the 65 megawatt International Paper Texarkana mill 34, and the 650 megawatt John W Turk coal station 53.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Bowie County has written no moratorium on data centers, and TexAmericas is the single local permitting authority for the park.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Neither source in our record could be read: the Data Center Dynamics report refuses our requests and the TexAmericas Center site was not fetched. Search results describe a $3.5 billion projected investment, about 120 permanent jobs, a 345 kilovolt line bordering the site, a utility study with Southwestern Electric Power Company, TexAmericas acting as the single local permitting authority, and energisation targeted 20 to 30 months after a tenant commits; none of that is carried above. No tenant has committed and no application has been filed."
+ },
+ {
+  "id": "ft-562",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The county judge said out loud that he could not stop the CloudBurst data center at 2955 Francis Harris Lane, in Hays County.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Ruben Becerra: \"This building ... that they want to do in Hays County is going to get approved, it's going to get built, and there's nothing we're going to do about it, because there's nothing we can do about it.\"",
+    "src": "https://communityimpact.com/san-marcos-buda-kyle/development/new-data-center-planned-near-new-braunfels-and-san-marcos-sparks-debate/"
+   },
+   {
+    "para": 0,
+    "t": "The site straddles Hays and Guadalupe counties and sits outside the city limits and extraterritorial jurisdictions of both New Braunfels and San Marcos, which is why neither city can refuse it.",
+    "src": "https://communityimpact.com/san-marcos-buda-kyle/development/new-data-center-planned-near-new-braunfels-and-san-marcos-sparks-debate/"
+   },
+   {
+    "para": 1,
+    "t": "The campus is phased up to 1.2 gigawatts, powered by a behind-the-meter natural gas plant on site, with a supply agreement from Energy Transfer for up to 450,000 million British thermal units a day.",
+    "src": "https://communityimpact.com/san-marcos-buda-kyle/development/new-data-center-planned-near-new-braunfels-and-san-marcos-sparks-debate/"
+   },
+   {
+    "para": 1,
+    "t": "Construction was expected to start in the second quarter of 2025 and the first phase to finish in the third quarter of 2026.",
+    "src": "https://communityimpact.com/san-marcos-buda-kyle/development/new-data-center-planned-near-new-braunfels-and-san-marcos-sparks-debate/"
+   },
+   {
+    "para": 1,
+    "t": "Community Impact put the site at 96 acres; the record carries 706 acres and $14.5 billion, and marks the project under construction with organised opposition and a petition attached.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "What residents raised was transparency, gas demand and emissions, and water.",
+    "src": "https://communityimpact.com/san-marcos-buda-kyle/development/new-data-center-planned-near-new-braunfels-and-san-marcos-sparks-debate/"
+   },
+   {
+    "para": 2,
+    "t": "San Marcos faces water demand exceeding supply by 2050, and extreme drought covered 108,472 people in Comal County and 131,533 in Guadalupe County.",
+    "src": "https://communityimpact.com/san-marcos-buda-kyle/development/new-data-center-planned-near-new-braunfels-and-san-marcos-sparks-debate/"
+   },
+   {
+    "para": 2,
+    "t": "Cynthia Thompson, CloudBurst's co-founder and executive chairperson, answered in general terms: \"Without data centers, you can't have commerce. The businesses that operate every day use a data center whether they realize it or not. We're fulfilling a need in any community we go into.\"",
+    "src": "https://communityimpact.com/san-marcos-buda-kyle/development/new-data-center-planned-near-new-braunfels-and-san-marcos-sparks-debate/"
+   },
+   {
+    "para": 2,
+    "t": "Hays County was reviewing a flood hazard permit, the only county application it had, while Guadalupe County looked at the data center and the gas plant.",
+    "src": "https://communityimpact.com/san-marcos-buda-kyle/development/new-data-center-planned-near-new-braunfels-and-san-marcos-sparks-debate/"
+   },
+   {
+    "para": 3,
+    "t": "Six data center sites are counted in Hays County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "Palomino Alpha is two kilometres from here, the refused San Marcos campus three, a blocked Highlander site fourteen, and Tract's 3,000 acre Caldwell Valley site and Prime's Uhland campus 28.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "San Marcos banned data centers on February 18, 2026, the night it refused the Highlander proposal.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The 916 megawatt Hays Energy Project is two kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://communityimpact.com/san-marcos-buda-kyle/development/new-data-center-planned-near-new-braunfels-and-san-marcos-sparks-debate/"
+  ],
+  "unconfirmed": "Our 706 acres and the 96 acres in the reporting differ by a factor of seven and we could not reconcile them; the larger figure may cover the whole assembly and the smaller the first phase. The $14.5 billion in our record does not appear in the page we read. Water withdrawal figures for the campus were not published, and the outcome of the county permit reviews is unknown."
+ },
+ {
+  "id": "ft-1784673433709-2419",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google announced this on February 24, 2026, and named almost nothing.",
+    "src": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/data-center-wilbarger-county/"
+   },
+   {
+    "para": 0,
+    "t": "The company said it is building a data center in Wilbarger County, Texas, co-located with new clean power developed by AES, as part of a $40 billion investment in the state through 2027.",
+    "src": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/data-center-wilbarger-county/"
+   },
+   {
+    "para": 0,
+    "t": "Cooling is advanced air cooling, limiting water use to critical campus operations such as kitchens.",
+    "src": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/data-center-wilbarger-county/"
+   },
+   {
+    "para": 0,
+    "t": "Google also set up a $30 million Energy Impact Fund for energy affordability, weatherisation of homes and public schools, efficiency and energy workforce development across Texas, and says it has contracted more than 7,800 megawatts of net-new generation and capacity for the Texas grid.",
+    "src": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/data-center-wilbarger-county/"
+   },
+   {
+    "para": 0,
+    "t": "It gave no job figure, no investment figure for this site and no completion date.",
+    "src": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/data-center-wilbarger-county/"
+   },
+   {
+    "para": 1,
+    "t": "The record holds the project as Project Rise 1A and 2A, on FM 2897 at Oklaunion, marked proposed with no capacity figure.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Oklaunion is the name of the coal power station that closed there in 2020, and a bitcoin site called Rowdy now operates on that ground, five kilometres from this entry.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Two data center sites are counted in Wilbarger County and those are the two.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The power here is wind: the 230 megawatt Electra farm four kilometres away, the 184 megawatt Lockett farm twelve, Blue Summit at 135 megawatts 28 and Western Trail at 367 megawatts 31.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Wilbarger County has written no moratorium on data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/data-center-wilbarger-county/"
+  ],
+  "unconfirmed": "Google's own announcement gives no capacity, acreage, investment or timetable for this site. Reporting we could not open describes two $500 million filings, Project Rise 1A and 2A, each 991,000 square feet, filed by Planton Investments and Platon Investments, with work from March 31, 2026 to the end of March 2028 and about 50 permanent jobs; none of that is carried above. No local hearing or objection was found."
+ },
+ {
+  "id": "ft-563",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The power station here is the project, and the data center is what it is for.",
+    "src": "https://www.gem.wiki/Pampa_Data_Center_power_station"
+   },
+   {
+    "para": 0,
+    "t": "The Global Energy Monitor records a 400 megawatt gas turbine plant at Pampa, in Gray County, owned by New APR Energy LLC, which is held 68 percent by Mubadala Investment Company and 32 percent by Fortress Investment Group.",
+    "src": "https://www.gem.wiki/Pampa_Data_Center_power_station"
+   },
+   {
+    "para": 0,
+    "t": "It is in pre-construction and planned to begin operating in 2026, and it is designated for captive industry use, supplying a data center rather than the grid.",
+    "src": "https://www.gem.wiki/Pampa_Data_Center_power_station"
+   },
+   {
+    "para": 0,
+    "t": "The record carries 400 megawatts on 800 acres, marks the project under construction, and records emerging concern.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Gray County is in the Texas panhandle and the generation around it is all wind.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "The 80 megawatt Llano Estacado ranch is 24 kilometres away, Pattern Panhandle Wind at 218 megawatts 26, Pattern Panhandle Wind 2 at 182 megawatts 35 and Colbeck's Corner at 200 megawatts 36.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 1,
+    "t": "A 400 megawatt gas plant built for one customer would be larger than any of them.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Gray County, with a Project Pumpkin proposal 37 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Gray County has no moratorium; the statewide measure the record attaches, dated August 3, 2026, is Governor Abbott's direction to the Public Utility Commission of Texas and ERCOT to review data centers seeking to connect to the grid, their electricity and water demands, infrastructure, tax incentives, ownership and effect on communities.",
+    "src": "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+   }
+  ],
+  "sources": [
+   "https://www.gem.wiki/Pampa_Data_Center_power_station",
+   "https://www.mondaq.com/unitedstates/utilities/1834510/texas-data-center-policy-what-has-changed-and-what-to-watch"
+  ],
+  "unconfirmed": "The local coverage our record cites refuses our requests, so the approval date, the chamber of commerce's role and any local reaction are not carried here. Reporting we could not open says the Pampa Chamber of Commerce and Economic Development Corporation approved the project on July 10, that the site was chosen for water, fibre and gas, that the company wants a two gigawatt permanent plant to let the campus scale, and that the data center could use up to 1.5 million gallons of water a day. Our record's own confidence rating for this entry is low."
+ },
+ {
+  "id": "ft-564",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Project Annie is recorded as a 75 megawatt data center under construction near 4210 Old Bonham Road at Paris, in Lamar County, Texas.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "That address is a solar project.",
+    "src": "https://www.monarchprivate.com/impact-investing-projects/view/tyson-nick-solar/"
+   },
+   {
+    "para": 0,
+    "t": "The Tyson Nick solar development at that address is 121 megawatts, credited with abating 3,844,905 tonnes of carbon dioxide equivalent over an expected 40 year life and with creating 482 jobs.",
+    "src": "https://www.monarchprivate.com/impact-investing-projects/view/tyson-nick-solar/"
+   },
+   {
+    "para": 0,
+    "t": "Its page says nothing about a data center, and nothing about Project Annie.",
+    "src": "https://www.monarchprivate.com/impact-investing-projects/view/tyson-nick-solar/"
+   },
+   {
+    "para": 1,
+    "t": "The other source on record is an article about Soluna developing two Texas data centers, which refuses requests, so the link between the solar site and the computing is not established.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "This is the only data center site recorded in Lamar County and there is no other within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The generation around Paris is substantial and mostly gas.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The 1,004 megawatt Lamar Power Project is three kilometres from this point, the 239 megawatt Paris Energy Center seven, the 240 megawatt Eiffel solar plant nine and a 100 megawatt battery installation 23.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Nothing around Paris is covered by a moratorium, and no objection to this entry has been recorded.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.monarchprivate.com/impact-investing-projects/view/tyson-nick-solar/"
+  ],
+  "unconfirmed": "Nothing describing a data center at this address was found. The 75 megawatts and the under construction status come from our record alone. Whether Project Annie is a Soluna site co-located with the Tyson Nick solar development, or something else, was not established; the only article that might say so refuses our requests."
+ }
+]

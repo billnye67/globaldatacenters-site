@@ -1,0 +1,106 @@
+project_name;developer_or_owner;tenant;city;state_or_region;country;address;latitude;longitude;capacity_mw;site_size;status;year_announced;year_operating_or_planned;note;source_url
+AWS Hilliard I (Hayden Run);Amazon Web Services;AWS;Hilliard;Ohio;United States;5109 Hayden Run Rd, Hilliard, OH 43026;;;;;operating;2015;2016;First Ohio campus, five buildings;https://baxtel.com/data-centers/amazon-aws
+AWS Hilliard II (Cosgray Road);Amazon Web Services;AWS;Hilliard;Ohio;United States;Cosgray Rd & Leppert Rd, Hilliard, OH 43026;;;;104 acres;operating;2020;;Second Hilliard campus;https://baxtel.com/data-centers/amazon-aws
+AWS Hilliard III (Scioto Darby);Amazon Web Services;AWS;Hilliard;Ohio;United States;4120 Scioto Darby Rd, Hilliard, OH 43026;;;;151 acres;under construction;2022;;Seven data center buildings plus utility building;https://baxtel.com/data-centers/amazon-aws
+AWS New Albany Beech Road;Amazon Web Services;AWS;New Albany;Ohio;United States;3180 Beech Rd, New Albany, OH 43054;;;;;operating;;;;https://baxtel.com/data-centers/amazon-aws
+AWS New Albany Beech & Miller;Amazon Web Services;AWS;New Albany;Ohio;United States;Beech Rd & Miller Rd, New Albany, OH 43054;;;;439 acres;under construction;2023;;Five data centers on 85 of 439 acres;https://baxtel.com/data-centers/amazon-aws
+AWS New Albany Crosby Court;Amazon Web Services;AWS;New Albany;Ohio;United States;6665 Crosby Ct, New Albany, OH 43054;;;;;operating;;;Five-building campus;https://baxtel.com/data-centers/amazon-aws
+AWS Jerome Township (Industrial Parkway);Amazon Web Services;AWS;Plain City;Ohio;United States;8619 Industrial Pkwy, Plain City, OH 43064;;;;98 acres;operating;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Warner Road (Union County);Amazon Web Services;AWS;Plain City;Ohio;United States;Warner Rd & Industrial Pkwy, Plain City, OH 43064;;;;111 acres;under construction;;;$200M campus;https://baxtel.com/data-centers/amazon-aws
+AWS Jefferson Township (Columbus);Amazon Web Services;AWS;Jefferson Township;Ohio;United States;Jefferson Township, Franklin County, OH;;;;590 acres;proposed;2025;;590 acres bought for $102.4M;https://baxtel.com/data-centers/amazon-aws
+AWS Marysville;Amazon Web Services;AWS;Marysville;Ohio;United States;Marysville, OH 43040;;;;;under construction;;;Two-building campus;https://baxtel.com/data-centers/amazon-aws
+AWS Sidney (Project Galaxy);Amazon Web Services;AWS;Sidney;Ohio;United States;Sidney, OH 45365;;;;;proposed;;;$3B project;https://baxtel.com/data-centers/amazon-aws
+AWS Wilmington Ohio;Amazon Web Services;AWS;Wilmington;Ohio;United States;1488 S US-68, Wilmington, OH 45177;;;;471 acres;proposed;;;$4B investment;https://baxtel.com/data-centers/amazon-aws
+AWS Pickaway County;Amazon Web Services;AWS;Ashville;Ohio;United States;9905 State Route 104, Ashville, OH 43103;;;;234 acres;proposed;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Hermiston;Amazon Web Services;AWS;Hermiston;Oregon;United States;28803 NW Livestock Rd, Hermiston, OR 97838;;;;117 acres;operating;;;Four buildings;https://baxtel.com/data-centers/amazon-aws
+AWS Boardman Olson Road;Amazon Web Services;AWS;Boardman;Oregon;United States;79386 Olson Rd, Boardman, OR 97818;;;;75 acres;operating;;;Four buildings;https://baxtel.com/data-centers/amazon-aws
+AWS Boardman Gar Swanson;Amazon Web Services;AWS;Boardman;Oregon;United States;75242 Gar Swanson Dr, Boardman, OR 97818;;;;;operating;;;;https://www.datacentermap.com/usa/oregon/boardman/amazon-aws-pdx-gar-swanson-campus
+AWS Boardman Bombing Range;Amazon Web Services;AWS;Boardman;Oregon;United States;Bombing Range Rd, Boardman, OR 97818;;;;127 acres;under construction;;;Four single-story buildings;https://baxtel.com/data-centers/amazon-aws
+AWS Boardman Tower Road East;Amazon Web Services;AWS;Boardman;Oregon;United States;Tower Rd, Boardman, OR 97818;;;;;under construction;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Arlington Oregon;Amazon Web Services;AWS;Arlington;Oregon;United States;Arlington, OR 97812;;;;400 acres;proposed;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Wallula Gap;Amazon Web Services;AWS;Wallula;Washington;United States;Wallula Gap Business Park, Port of Walla Walla, WA 99363;;;;500 acres;proposed;;;$4.8B, 16 buildings in four phases;https://baxtel.com/data-centers/amazon-aws
+AWS Lake Anna Tech Campus;Amazon Web Services;AWS;Louisa County;Virginia;United States;Lake Anna Tech Campus, Louisa County, VA;;;;;under construction;;;1.7M sq ft at full build;https://baxtel.com/data-centers/amazon-aws
+AWS Northeast Creek Technology Campus;Amazon Web Services;AWS;Louisa County;Virginia;United States;Louisa County, VA;;;;;proposed;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Desper Creek Technology Campus;Amazon Web Services;AWS;Louisa County;Virginia;United States;Louisa County, VA;;;;;proposed;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Louisa County Third Campus;Amazon Web Services;AWS;Louisa County;Virginia;United States;Louisa County, VA;;;;;withdrawn;;;Withdrawn after community opposition;https://baxtel.com/data-centers/amazon-aws
+AWS Stevensburg (Culpeper);Amazon Web Services;AWS;Stevensburg;Virginia;United States;Route 3, Stevensburg, Culpeper County, VA;;;;230 acres;under construction;;;Neighbors sued county over rezoning;https://baxtel.com/data-centers/amazon-aws
+AWS Manassas Tanner Way;Amazon Web Services;AWS;Manassas;Virginia;United States;Tanner Way, Manassas, VA 20109;;;;;operating;;;Four buildings, 795,191 sq ft;https://baxtel.com/data-centers/amazon-aws
+AWS Manassas Innovation Drive;Amazon Web Services;AWS;Manassas;Virginia;United States;9680 Innovation Dr, Manassas, VA 20110;;;;;operating;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Manassas Vulcan Lane;Amazon Web Services;AWS;Manassas;Virginia;United States;8401 Vulcan Ln, Manassas, VA 20109;;;;113 acres;proposed;;;Part of $152M land purchase;https://baxtel.com/data-centers/amazon-aws
+AWS Manassas Nokesville Road;Amazon Web Services;AWS;Manassas;Virginia;United States;Nokesville Rd, Manassas, VA 20110;;;;;under construction;;;Three-building campus;https://baxtel.com/data-centers/amazon-aws
+AWS Stafford Potomac Church;Amazon Web Services;AWS;Stafford;Virginia;United States;Old Potomac Church Rd, Stafford, VA 22554;;;;50 acres;under construction;;;Two-building campus;https://baxtel.com/data-centers/amazon-aws
+AWS Cosner Tech Campus (Spotsylvania);Amazon Web Services;AWS;Fredericksburg;Virginia;United States;4049 Massaponax Church Rd, Fredericksburg, VA 22408;;;;;under construction;;;Phase II adds five buildings;https://baxtel.com/data-centers/amazon-aws
+AWS Summit Crossing Tech Campus;Amazon Web Services;AWS;Massaponax;Virginia;United States;Massaponax, Spotsylvania County, VA;;;;231 acres;proposed;;;2.1M sq ft proposed;https://baxtel.com/data-centers/amazon-aws
+AWS Carter's Store Tech Campus;Amazon Web Services;AWS;Fredericksburg;Virginia;United States;8432 Flippo Dr, Fredericksburg, VA 22407;;;;313 acres;proposed;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Mattameade / Orrock Tech Campus;Amazon Web Services;AWS;Spotsylvania County;Virginia;United States;Spotsylvania County, VA;;;;1143 acres;proposed;;;Spans Spotsylvania and Caroline counties;https://baxtel.com/data-centers/amazon-aws
+AWS Birchwood (King George);Amazon Web Services;AWS;King George;Virginia;United States;Birchwood Power Plant site, King George, VA 22485;;;;869 acres;on hold;;;$6B, 19 buildings, stalled pending lawsuit;https://baxtel.com/data-centers/amazon-aws
+AWS Devlin Technology Park (Bristow);Amazon Web Services;AWS;Bristow;Virginia;United States;Devlin Rd, Bristow, VA 20136;;;;269 acres;proposed;2025;;;https://baxtel.com/data-centers/amazon-aws
+AWS Bridgefield Tech Center (Ashburn);Amazon Web Services;AWS;Ashburn;Virginia;United States;44983 Knoll Square, Ashburn, VA 20147;;;;122 acres;proposed;;;Former GWU Ashburn campus, $427M;https://baxtel.com/data-centers/amazon-aws
+AWS Erin's Run (Sterling);Amazon Web Services;AWS;Sterling;Virginia;United States;23825 Erins Run Dr, Sterling, VA 20166;;;;;operating;;;Three buildings;https://baxtel.com/data-centers/amazon-aws
+AWS Renaissance Technology Park (Herndon);Amazon Web Services;AWS;Herndon;Virginia;United States;Herndon, Fairfax County, VA;;;;60 acres;under construction;;;2.14M sq ft;https://baxtel.com/data-centers/amazon-aws
+AWS Mallory Drive (Chantilly);Amazon Web Services;AWS;Chantilly;Virginia;United States;3980 Virginia Mallory Dr, Chantilly, VA 20151;;;;;under construction;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Reeds Farm Lane (Dulles);Amazon Web Services;AWS;Sterling;Virginia;United States;42139 Reeds Farm Ln, Sterling, VA 20166;;;;90 acres;under construction;;;Three buildings;https://baxtel.com/data-centers/amazon-aws
+AWS Pathfinder Plaza (Sterling);Amazon Web Services;AWS;Sterling;Virginia;United States;45900 Pathfinder Plz, Sterling, VA 20165;;;;33 acres;proposed;2024;;;https://baxtel.com/data-centers/amazon-aws
+AWS Haymarket;Amazon Web Services;AWS;Haymarket;Virginia;United States;Haymarket, VA 20169;;;;;operating;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Frederick Maryland (BWI-150);Amazon Web Services;AWS;Frederick;Maryland;United States;5601 Manor Woods Rd, Frederick, MD 21703;;;;;under construction;;;Within Quantum Frederick;https://baxtel.com/data-centers/amazon-aws
+AWS Calvert Cliffs (Lusby);Amazon Web Services;AWS;Lusby;Maryland;United States;Lusby, MD 20657;;;;;withdrawn;;;Withdrawn, next to Calvert Cliffs nuclear plant;https://baxtel.com/data-centers/amazon-aws
+AWS Kline Township (Schuylkill);Amazon Web Services;AWS;Kline Township;Pennsylvania;United States;Kline Township, Schuylkill County, PA;;;;346 acres;proposed;2025;;$178M land purchase;https://baxtel.com/data-centers/amazon-aws
+AWS Homer City;Amazon Web Services;AWS;Homer City;Pennsylvania;United States;Homer City Energy Campus, Homer City, PA 15748;;;;;proposed;;;Under evaluation;https://baxtel.com/data-centers/amazon-aws
+AWS Hobart Indiana;Amazon Web Services;AWS;Hobart;Indiana;United States;Hobart, IN 46342;;;;;proposed;;;$15B campus;https://baxtel.com/data-centers/amazon-aws
+AWS Wheatfield (Project Rise);Amazon Web Services;AWS;Wheatfield;Indiana;United States;Wheatfield, IN 46392;;;;304 acres;proposed;;;$7B;https://baxtel.com/data-centers/amazon-aws
+AWS Portage Indiana;Amazon Web Services;AWS;Portage;Indiana;United States;AmeriPlex at the Port, Portage, IN 46368;;;;;under construction;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Covington Georgia;Amazon Web Services;AWS;Covington;Georgia;United States;Alcovy Rd, Covington, GA 30014;;;;430 acres;under construction;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Douglas County Georgia;Amazon Web Services;AWS;Douglasville;Georgia;United States;Douglas County, GA;;;;118 acres;proposed;;;$37M land purchase;https://baxtel.com/data-centers/amazon-aws
+AWS Butts County (I-75);Amazon Web Services;AWS;Jackson;Georgia;United States;West of I-75, Butts County, GA;;;;985 acres;proposed;2025;;$270M land purchase;https://baxtel.com/data-centers/amazon-aws
+AWS Richmond County NC;Amazon Web Services;AWS;Rockingham;North Carolina;United States;Richmond County, NC;;;;;proposed;;;$10B campus;https://baxtel.com/data-centers/amazon-aws
+AWS Vicksburg;Amazon Web Services;AWS;Vicksburg;Mississippi;United States;Vicksburg, Warren County, MS;;;;;proposed;;;$3B;https://baxtel.com/data-centers/amazon-aws
+AWS Clinton Mississippi;Amazon Web Services;AWS;Clinton;Mississippi;United States;Clinton, Hinds County, MS;;;;;under construction;;;$1B;https://baxtel.com/data-centers/amazon-aws
+AWS Resilient Technology Park (Shreveport);STACK Infrastructure;AWS;Shreveport;Louisiana;United States;Shreveport, LA;;;;;under construction;;;STACK-built for AWS;https://baxtel.com/data-centers/amazon-aws
+AWS Blanchard State Line;Amazon Web Services;AWS;Blanchard;Louisiana;United States;North Caddo Parish, LA;;;;810 acres;proposed;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Bossier Parish;Amazon Web Services;AWS;Benton;Louisiana;United States;North of Benton, Bossier Parish, LA;;;;;proposed;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Project Spectrum (Hood County);Amazon Web Services;AWS;Granbury;Texas;United States;Hood County, TX;;;;1265 acres;proposed;;;$5B next to Comanche Peak nuclear plant;https://baxtel.com/data-centers/amazon-aws
+AWS Bastrop County (Cedar Creek);Amazon Web Services;AWS;Cedar Creek;Texas;United States;Cedar Creek, Bastrop County, TX;;;;1300 acres;proposed;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Project Eagle (Boling);Amazon Web Services;AWS;Boling;Texas;United States;Boling, Wharton County, TX;;;;;under construction;;;Ten-plus buildings planned;https://baxtel.com/data-centers/amazon-aws
+AWS GW Ranch (Pecos County);Amazon Web Services;AWS;Fort Stockton;Texas;United States;North of Fort Stockton, Pecos County, TX;;;;;under construction;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Horizon Junction (Floydada);Amazon Web Services;AWS;Floydada;Texas;United States;Near Floydada, Floyd County, TX;;;;;under construction;;;;https://baxtel.com/data-centers/amazon-aws
+AWS San Antonio Bitter Blue;Amazon Web Services;AWS;San Antonio;Texas;United States;San Antonio, TX;;;;;proposed;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Mesa Pecos Road (PHX065);Amazon Web Services;AWS;Mesa;Arizona;United States;Pecos Rd, Mesa, AZ 85212;;;;;under construction;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Mesa Elliot Road;Amazon Web Services;AWS;Mesa;Arizona;United States;Elliot Rd, Mesa, AZ 85212;;;;42.9 acres;proposed;;;Adjacent to Apple Mesa;https://baxtel.com/data-centers/amazon-aws
+AWS Laveen (Phoenix);Amazon Web Services;AWS;Phoenix;Arizona;United States;Loop 202 & Dobbins Rd, Laveen, Phoenix, AZ;;;;220 acres;proposed;;;$277M land;https://baxtel.com/data-centers/amazon-aws
+AWS Tucson;Amazon Web Services;AWS;Tucson;Arizona;United States;Tucson, AZ;;;;630;;withdrawn;;;Withdrawn over water constraints;https://baxtel.com/data-centers/amazon-aws
+AWS Gilroy;Amazon Web Services;AWS;Gilroy;California;United States;Highway 101 between Leavesley Rd and Gilman Rd, Gilroy, CA 95020;;;;56 acres;proposed;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Santa Clara Mission College;Amazon Web Services;AWS;Santa Clara;California;United States;2305 Mission College Blvd, Santa Clara, CA 95054;;;;;under construction;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Project Green (New Florence);Amazon Web Services;AWS;New Florence;Missouri;United States;Hudson Rd & Ellis Rd, New Florence, MO 63363;;;;;proposed;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Becker Minnesota;Amazon Web Services;AWS;Becker;Minnesota;United States;Becker, MN 55308;;;;;on hold;;;Plans suspended;https://baxtel.com/data-centers/amazon-aws
+AWS Dublin Mulhuddart;Amazon Web Services;AWS;Mulhuddart;Dublin;Ireland;Mulhuddart, Dublin 15, Ireland;;;;26 acres;under construction;;;Up to eight buildings;https://baxtel.com/data-centers/amazon-aws
+AWS Dublin Clonshaugh;Amazon Web Services;AWS;Dublin;Dublin;Ireland;Clonshaugh Business Park, Dublin 17, Ireland;;;;;operating;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Drogheda;Amazon Web Services;AWS;Drogheda;County Meath;Ireland;IDA Business & Technology Park, Donore Rd, Drogheda, Ireland;;;;;under construction;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Greenhills (Tallaght);Amazon Web Services;AWS;Dublin;Dublin;Ireland;Greenhills Industrial Estate, Dublin 24, Ireland;;;;;operating;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Offaly Eco Energy Park;Amazon Web Services;AWS;Rhode;County Offaly;Ireland;Bord na Mona Eco Energy Park, County Offaly, Ireland;;;;;proposed;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Didcot;Amazon Web Services;AWS;Didcot;Oxfordshire;United Kingdom;Didcot Power Station site, Didcot, UK;;;;;operating;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Bracknell;Amazon Web Services;AWS;Bracknell;Berkshire;United Kingdom;Amen Corner, Cain Rd, Bracknell RG12 1HN, UK;;;;;operating;;2023;;https://baxtel.com/data-centers/amazon-aws
+AWS Houghton Regis (Linmere);Amazon Web Services;AWS;Houghton Regis;Bedfordshire;United Kingdom;Linmere Island, Houghton Regis, UK;;;;;proposed;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Villanueva de Gallego;Amazon Web Services;AWS;Villanueva de Gallego;Aragon;Spain;Villanueva de Gallego, Zaragoza, Spain;;;;;operating;2022;;Part of EUR15.7B Aragon investment;https://baxtel.com/data-centers/amazon-aws
+AWS Huesca (Walqa);Amazon Web Services;AWS;Huesca;Aragon;Spain;Parque Tecnologico Walqa, Huesca, Spain;;;;;under construction;;;;https://baxtel.com/data-centers/amazon-aws
+AWS El Burgo de Ebro;Amazon Web Services;AWS;El Burgo de Ebro;Aragon;Spain;El Burgo de Ebro, Zaragoza, Spain;;;;;operating;;;;https://baxtel.com/data-centers/amazon-aws
+AWS La Cartuja (Zaragoza);Amazon Web Services;AWS;Zaragoza;Aragon;Spain;La Cartuja, Zaragoza, Spain;;;;;proposed;;;;https://baxtel.com/data-centers/amazon-aws
+AWS La Puebla de Hijar (Teruel);Amazon Web Services;AWS;La Puebla de Hijar;Aragon;Spain;La Puebla de Hijar, Teruel, Spain;;;;;proposed;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Massen-Niederlausitz;Amazon Web Services;AWS;Massen-Niederlausitz;Brandenburg;Germany;Massen-Niederlausitz, Elbe-Elster, Germany;;;;;proposed;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Baruth/Mark;Amazon Web Services;AWS;Baruth/Mark;Brandenburg;Germany;Baruth/Mark, Dahme-Spreewald, Germany;;;;;proposed;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Schoeneck;Amazon Web Services;AWS;Schoeneck;Hesse;Germany;Schoeneck, Hesse, Germany;;;;;proposed;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Maintal-West;Amazon Web Services;AWS;Maintal;Hesse;Germany;Former DHL site, Maintal-West, Germany;;;;;proposed;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Tnuvot;Amazon Web Services;AWS;Tnuvot;Central District;Israel;Tnuvot Industrial Park, Israel;;;;;operating;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Padre Hurtado (Santiago);Amazon Web Services;AWS;Padre Hurtado;Santiago Metropolitan;Chile;Padre Hurtado, Santiago, Chile;;;;;under construction;;;$205M first Chile campus;https://baxtel.com/data-centers/amazon-aws
+AWS Huechuraba (Santiago);Amazon Web Services;AWS;Huechuraba;Santiago Metropolitan;Chile;Huechuraba, Santiago, Chile;;;;;under construction;;;Two buildings;https://baxtel.com/data-centers/amazon-aws
+AWS Puente Alto (Santiago);Amazon Web Services;AWS;Puente Alto;Santiago Metropolitan;Chile;Puente Alto, Santiago, Chile;;;;;blocked;;;Rejected by SEA in 2023;https://baxtel.com/data-centers/amazon-aws
+AWS Hyderabad Chandanvelly;Amazon Web Services;AWS;Hyderabad;Telangana;India;Chandanvelly, Hyderabad, India;;;;;operating;2022;;;https://baxtel.com/data-centers/amazon-aws
+AWS Hyderabad Pharma City;Amazon Web Services;AWS;Hyderabad;Telangana;India;Pharma City, Hyderabad, India;;;;50 acres;operating;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Hyderabad Fab City;Amazon Web Services;AWS;Hyderabad;Telangana;India;Fab City, Hyderabad, India;;;;48 acres;operating;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Navi Mumbai Taloja;Amazon Web Services;AWS;Navi Mumbai;Maharashtra;India;Taloja, Navi Mumbai, India;;;;;under construction;;;$429.8M;https://baxtel.com/data-centers/amazon-aws
+AWS Thane;Amazon Web Services;AWS;Thane;Maharashtra;India;Thane, Maharashtra, India;;;;54 acres;proposed;2022;;;https://baxtel.com/data-centers/amazon-aws
+AWS Cyberjaya;Amazon Web Services;AWS;Cyberjaya;Selangor;Malaysia;Persiaran APEC, Cyberjaya, Selangor, Malaysia;;;;;under construction;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Hamura (Tokyo);Amazon Web Services;AWS;Hamura;Tokyo;Japan;Hamura, Tokyo, Japan;;;;;under construction;;2026;;https://baxtel.com/data-centers/amazon-aws
+AWS Ulsan (SK Group);SK Group;AWS;Ulsan;Ulsan;South Korea;Ulsan, South Korea;;;;;proposed;;;7 trillion won AI data center;https://baxtel.com/data-centers/amazon-aws
+AWS Smeaton Grange (Sydney);Amazon Web Services;AWS;Smeaton Grange;New South Wales;Australia;Smeaton Grange, NSW, Australia;;;;40;;under construction;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Cobblebank (Melbourne);Amazon Web Services;AWS;Cobblebank;Victoria;Australia;54-80 Ferris Rd, Cobblebank, VIC, Australia;;;;13.2 hectares;proposed;;;;https://baxtel.com/data-centers/amazon-aws
+AWS Kutanegara (West Java);Amazon Web Services;AWS;Karawang;West Java;Indonesia;Kutanegara, West Java, Indonesia;;;;;operating;;;;https://baxtel.com/data-centers/amazon-aws

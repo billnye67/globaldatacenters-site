@@ -1,0 +1,736 @@
+[
+ {
+  "id": "ft-1768322840623-4794",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Nobody has proposed a data center at Fort Bragg.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The Department of Defense has asked whether anyone wants to build one.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Fort Bragg appears on a list of four sites, alongside Fort Hood, Fort Bliss and Dugway Proving Ground, where the department has invited proposals to put AI data centers on underused base land.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "These are solicitations rather than commitments; only two projects have been awarded anywhere on the list, both conditionally, with initial capability projected at Fort Bliss in the 2027 financial year and Dugway in 2029.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "What matters locally is where on the base.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Contracting documents show the Army weighing several possible locations at Fort Bragg within a mile of civilian areas and within half a mile of civilian housing.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Fort Bragg is described as offering East Coast positioning with access to the PJM interconnection and established fibre routes.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The entry stands as proposed with no developer, no acreage and no capacity, at low confidence.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "That is a fair description of what exists.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "The surrounding counties have not waited.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "Eight measures are recorded within reach: moratoriums in Chatham County from February 11, 2026, Harnett County from May 5, Lee County and Holly Springs from mid June, and Sanford from August 5, plus zoning limits in Fayetteville from June 16 and in Sanford and Lee County with no dates recorded.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "None of them reaches a federal military installation.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generator is the 227 megawatt Butler-Warner plant 19 kilometres away, with three solar farms of 79, 71 and 65 megawatts between 27 and 48 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "The grid is Duke Energy Progress East, which peaks at 13,233 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 4,
+    "t": "This is the only data center entry recorded anywhere in Cumberland County.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Three searches were run: Fort Bragg with AI data centers and the Department of Defense list; the Pentagon's military base data center solicitations for 2026; and Cumberland County data center activity. Everything found was national coverage of the solicitation rather than local reporting, and the Data Center Dynamics report in our record is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. No size, capacity, developer or timetable exists for a Fort Bragg project because none has been awarded. Whether the Army has held any public consultation with the communities within half a mile of the candidate parcels, we could not establish. No local resident or official has been quoted anywhere we found."
+ },
+ {
+  "id": "ft-1786993215278-6354",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "More than 70 people had signed up to speak about the data center proposed at 3101 Jones Sausage Road, in Wake County, North Carolina, and the developer pulled it before they could.",
+    "src": "https://www.wunc.org/term/news/2026-08-17/data-center-southeast-raleigh-opposition-city-council"
+   },
+   {
+    "para": 0,
+    "t": "The annexation petition, case AX-09-26, was withdrawn on August 15, 2026, ahead of the city council vote set for the following Tuesday, and the hearing was cancelled.",
+    "src": "https://www.wunc.org/term/news/2026-08-17/data-center-southeast-raleigh-opposition-city-council"
+   },
+   {
+    "para": 0,
+    "t": "Hundreds of emails had arrived over the weekend once the agenda went out.",
+    "src": "https://www.wunc.org/term/news/2026-08-17/data-center-southeast-raleigh-opposition-city-council"
+   },
+   {
+    "para": 0,
+    "t": "Mayor Janet Cowell said Beacon Partners had withdrawn its proposal to build a data center on Jones Sausage Road.",
+    "src": "https://www.wral.com/news/local/developer-withdraws-plans-data-center-southeast-raleigh-mayor-says-august-2026/"
+   },
+   {
+    "para": 1,
+    "t": "The building would have been three storeys and about 100,000 square feet, on a site of nearly 14 acres already zoned for industrial mixed use in southeast Raleigh.",
+    "src": "https://www.wunc.org/term/news/2026-08-17/data-center-southeast-raleigh-opposition-city-council"
+   },
+   {
+    "para": 1,
+    "t": "WRAL describes the parcel as more than 13 acres, across the street from a neighbourhood and down the road from restaurants and petrol stations.",
+    "src": "https://www.wral.com/news/local/developer-withdraws-plans-data-center-southeast-raleigh-mayor-says-august-2026/"
+   },
+   {
+    "para": 1,
+    "t": "It lies about two miles from Interstate 40 near Rock Quarry Road and Big Branch Creek, with the Parrish Manor neighbourhood across the road and the Chelmshire Downs subdivision about 1,000 feet away.",
+    "src": "https://www.wunc.org/term/news/2026-08-17/data-center-southeast-raleigh-opposition-city-council"
+   },
+   {
+    "para": 1,
+    "t": "The project was put at $180 million.",
+    "src": "https://www.wunc.org/term/news/2026-08-17/data-center-southeast-raleigh-opposition-city-council"
+   },
+   {
+    "para": 2,
+    "t": "Who was actually behind it is not settled.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Walker Gorham, for Beacon Partners of Charlotte, said: \"Beacons Partners owns the parcel. We went under contract to sell the parcel in 2025. We have no involvement in the proposed development project nor do we have visibility on their current plans.\"",
+    "src": "https://www.wunc.org/term/news/2026-08-17/data-center-southeast-raleigh-opposition-city-council"
+   },
+   {
+    "para": 2,
+    "t": "One account names RadiusDC as the party that might return.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The entry gives Beacon as the developer.",
+    "src": "data:developer"
+   },
+   {
+    "para": 2,
+    "t": "Council member Mitchell Silver said of those who signed up: \"The vast majority were opposed.\"",
+    "src": "https://www.wunc.org/term/news/2026-08-17/data-center-southeast-raleigh-opposition-city-council"
+   },
+   {
+    "para": 3,
+    "t": "The entry is recorded as cancelled on 13 acres, with no capacity figure.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Garner itself has had a data center moratorium since May 19, 2026, and nine other moratoriums are recorded within reach, including Apex, Wendell, Wilson, Bailey, Spring Hope, Holly Springs, Durham, Chatham County and Harnett County.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "A separate entry, a blocked Raleigh data center, sits at the same coordinates.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 964 megawatt Harris nuclear station is 37 kilometres away, and the nearest other generators are solar farms of 79 and 50 megawatts at 41 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.wral.com/news/local/developer-withdraws-plans-data-center-southeast-raleigh-mayor-says-august-2026/",
+   "https://www.wunc.org/term/news/2026-08-17/data-center-southeast-raleigh-opposition-city-council"
+  ],
+  "unconfirmed": "Our record held this address twice, as a blocked-list entry and as a FracTracker entry; they have been merged, and a second merge on this pass removed three sentences that repeated the building size, the acreage, the cost and Beacon's role a second time. The speaker count differs: WUNC reports about 70 or more signed up, while our record carries more than 130, and the higher figure is not in either report. The acreage differs too, more than 13 acres in WRAL and nearly 14 in WUNC against 13 in our record. Mayor Cowell's announcement is reported rather than quoted in the WRAL account, so it is no longer given inside quotation marks. RadiusDC is named only in search summaries, not in either report we read. No capacity in megawatts was published, and the environmental justice context of southeast Raleigh is not set out in either account."
+ },
+ {
+  "id": "ft-1776888239501-7805",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The commissioners approved this rezoning six to one, and then declined to say who voted which way.",
+    "src": "https://www.wral.com/news/local/vance-county-board-approves-rezoning-potential-data-center-development-april-2026/"
+   },
+   {
+    "para": 0,
+    "t": "On April 21, 2026 the Vance County Board of Commissioners rezoned land along US 158 near Henderson at the request of Natelli Investments, a data center developer that has not said what it intends to build there.",
+    "src": "https://www.wral.com/news/local/vance-county-board-approves-rezoning-potential-data-center-development-april-2026/"
+   },
+   {
+    "para": 0,
+    "t": "Asked to specify the vote, the commission said it was not appropriate.",
+    "src": "https://www.wral.com/news/local/vance-county-board-approves-rezoning-potential-data-center-development-april-2026/"
+   },
+   {
+    "para": 1,
+    "t": "More than 100 people came, and most were against it.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "One woman told the board: \"You just sold out. I'm leaving. I'm leaving. But shame on all of you and every single one of you up here.\"",
+    "src": "https://www.wral.com/news/local/vance-county-board-approves-rezoning-potential-data-center-development-april-2026/"
+   },
+   {
+    "para": 1,
+    "t": "She also asked: \"We have had enough, and y'all talking about putting another one up in this town?\"",
+    "src": "https://www.wral.com/news/local/vance-county-board-approves-rezoning-potential-data-center-development-april-2026/"
+   },
+   {
+    "para": 2,
+    "t": "Local research groups map the rezoning at about 113 acres across three parcels on US 158 Business, opposite the Carolina Pines neighbourhood.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The entry gives 40 acres.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "County records list the applicants as Michael Natelli and Beth Trahos, with Patricia Galloway as the property owner.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The same developer had pulled out of a much larger project the month before.",
+    "src": "https://www.wral.com/news/local/natelli-withdraws-apex-data-center-project-shearon-harris-march-2026/"
+   },
+   {
+    "para": 3,
+    "t": "On March 5, 2026 Natelli Investments withdrew the New Hill Digital Campus in Apex, a 250 megawatt scheme beside the Shearon Harris nuclear plant, after sustained opposition.",
+    "src": "https://www.wral.com/news/local/natelli-withdraws-apex-data-center-project-shearon-harris-march-2026/"
+   },
+   {
+    "para": 4,
+    "t": "A change.org petition against the Henderson project and a separate petition for a one year moratorium on data center rezonings in the county are both circulating.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 4,
+    "t": "The entry is recorded as suspended, with no capacity, no cost and no developer field filled in.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "Vance County has no moratorium recorded, and there is no other data center site in the county.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generators are two 50 megawatt solar farms at 24 and 27 kilometres and the 297 megawatt John H Kerr hydroelectric dam at 36.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.wral.com/news/local/vance-county-board-approves-rezoning-potential-data-center-development-april-2026/",
+   "https://www.wral.com/news/local/natelli-withdraws-apex-data-center-project-shearon-harris-march-2026/"
+  ],
+  "unconfirmed": "The acreage is unresolved: 40 in our record, about 113 across three parcels in the mapping cited by search results. The applicants' names, the property owner and the petition totals come from search summaries of reports we did not fetch, including the Henderson Dispatch and a county analysis, and are attributed to our record's source list. The WRAL report we did read does not confirm the rezoning is specifically for a data center. Our record marks the project suspended; nothing we read says it was suspended, only that the rezoning passed. No capacity, cost or end user has been published, and Kerr Lake, which residents elsewhere have raised as the water source at risk, is not addressed in anything we could read."
+ },
+ {
+  "id": "ft-1786991748772-7428",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The data center at 805 Island Drive in Madison, in Rockingham County, North Carolina, appears twice in the record: this entry and the Enovum one are the same building.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "This one records 40 megawatts, operating, at $50 million; the other records 200 megawatts, proposed, at $45 million.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The figures in the announcements are staged rather than contradictory.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "A Unifi yarn plant ran here for more than 30 years before it closed, and Unifi used the proceeds of the sale to pay down debt.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "WhiteFiber, the high performance computing arm of Bit Digital, bought the 96 acre, one million square foot site for $45 million and is turning it into the campus it calls NC-1.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "It has a capacity agreement with Duke Energy for 99 megawatts, of which 24 were due around September 1, 2025, and the utility's preliminary study supports up to 200 megawatts over time, subject to service agreements.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Rockingham County has welcomed it as a billion dollar investment creating more than 60 jobs.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The site sits in the Piedmont Triad, within 100 miles of Charlotte, Raleigh, Winston-Salem and Greensboro, and about 13 miles from the Virginia line.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "No local objection is recorded anywhere, and the entry marks pushback as unknown.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "The plant sits in a corner of North Carolina already given over to generation.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Belews Creek, at 2,220 megawatts, is 15 kilometres away; the 825 megawatt Rockingham County station is 17 kilometres; the 662 megawatt Dan River plant 26 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The grid is Duke Energy Carolinas, peaking at 20,398 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 4,
+    "t": "The county has no data center moratorium recorded, while Yadkin County adopted a two year one on August 17, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Our record held this site twice, as Enovum Data Center and as WhiteFiber Enovum NC-1 MAD01, at the same address; they have been merged, and a second merge on this pass removed three sentences that repeated the purchase, the capacity agreement and the county's welcome a second time. All of our record's sources returned errors or are not fetchable, so no source url is listed and each sentence is attributed to our record's source list. The sale price is given as $45 million in the company's own announcement and over $50 million in a local television headline. The capacity figures, 24, 40, 99 and 200 megawatts, reflect operational, contracted and study figures rather than contradictions, but we could not confirm which applies now. No water figure has been published."
+ },
+ {
+  "id": "ft-343",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The town plan for this land, written in 2017, called for shops, houses and offices.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Project Accelerate would have put five two storey data center buildings on 123 acres along East John Street at I-485 in Matthews, in Mecklenburg County, North Carolina, a campus that could have needed up to 600 megawatts.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "A staff report found the rezoning generally inconsistent with the East John Area Plan.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "It did not reach a vote.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The rezoning was due to be considered on October 13, 2025, and on October 8 Mayor John Higdon announced on Facebook that the developers had asked to withdraw it.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "A spokesperson for Crosland Southeast confirmed the withdrawal.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Residents had packed a community meeting, most of them worried about how much power the campus would draw.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The entry is recorded as cancelled on 123 acres, with no capacity figure and no developer.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "The 600 megawatt figure, if it is right, would be about three percent of the whole Duke Energy Carolinas system, which peaks at 20,398 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 3,
+    "t": "Charlotte adopted a data center moratorium running from June 8 to November 5, 2026, Waxhaw a year long one from August 11, 2026, and York County across the South Carolina line one from July 14.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "All of them came after this proposal was withdrawn.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "Four existing or unclassified data center sites sit within 36 kilometres, two of them Digital Realty buildings in Charlotte.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generators are solar farms of 55 and 75 megawatts at 21 and 28 kilometres, with the 2,310 megawatt Catawba nuclear station 33 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Three searches were run: Matthews with Project Accelerate, East John Street and the 123 acres; the withdrawal and the mayor's announcement; and the Mecklenburg County context. The WFAE, WBTV and WCNC reports that carry the withdrawal, the staff report and the 600 megawatt figure were found only through search summaries and were not fetched, and the Data Center Dynamics report in our record is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. No resident is quoted here as a result. The 600 megawatt figure is described in reporting as what the site could house rather than as a filed number. Who was behind Project Accelerate beyond Crosland Southeast, and whether they have gone elsewhere in Mecklenburg County, is unknown."
+ },
+ {
+  "id": "ft-1773461117966-4882",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This data center would have gone next to a nuclear power station, and that was not enough to save it.",
+    "src": "https://www.wral.com/news/local/natelli-withdraws-apex-data-center-project-shearon-harris-march-2026/"
+   },
+   {
+    "para": 0,
+    "t": "On March 5, 2026 Natelli Investments withdrew its applications for the New Hill Digital Campus, a 250 megawatt scheme beside Duke Energy's Shearon Harris nuclear plant in western Wake County.",
+    "src": "https://www.wral.com/news/local/natelli-withdraws-apex-data-center-project-shearon-harris-march-2026/"
+   },
+   {
+    "para": 0,
+    "t": "The plan was six buildings of 70 feet and about 80 generators of three megawatts each.",
+    "src": "https://www.wral.com/news/local/natelli-withdraws-apex-data-center-project-shearon-harris-march-2026/"
+   },
+   {
+    "para": 1,
+    "t": "The company had filed for annexation, rezoning and a land use amendment with the town of Apex for 189 acres in the New Hill area, arguing the 2019 Advance Apex land use map had already marked the property for industrial employment.",
+    "src": "https://indyweek.com/news/wake/developer-files-plans-for-digital-campus-in-western-wake/"
+   },
+   {
+    "para": 1,
+    "t": "Michael Natelli, the executive vice president, said: \"Data Storage Facilities are modest users of public facilities. Not only do they generate far less traffic than residential communities, but they create high-wage technology jobs and strengthen the technology eco-system in their region.\"",
+    "src": "https://indyweek.com/news/wake/developer-files-plans-for-digital-campus-in-western-wake/"
+   },
+   {
+    "para": 1,
+    "t": "The company said cooling would use recirculating non-potable water and that the power would come off the Duke transmission grid without straining the municipal supply.",
+    "src": "https://indyweek.com/news/wake/developer-files-plans-for-digital-campus-in-western-wake/"
+   },
+   {
+    "para": 2,
+    "t": "Over 100 residents turned up to an Apex town council meeting in red shirts, and an online petition gathered nearly 2,000 signatures in a fortnight.",
+    "src": "https://indyweek.com/news/wake/developer-files-plans-for-digital-campus-in-western-wake/"
+   },
+   {
+    "para": 2,
+    "t": "Doug Stewart, from Jordan Pointe, told the council: \"Just like this birdhouse here, our community is handcrafted. It's imperfect, but it's also built to last, just like our town is.\"",
+    "src": "https://indyweek.com/news/wake/developer-files-plans-for-digital-campus-in-western-wake/"
+   },
+   {
+    "para": 2,
+    "t": "Residents formed the Protect Wake County Coalition, worried about water, diesel fumes and who would pay for the infrastructure.",
+    "src": "https://www.wral.com/news/local/natelli-withdraws-apex-data-center-project-shearon-harris-march-2026/"
+   },
+   {
+    "para": 2,
+    "t": "Melissa Ripper, one of the campaigners, said of the withdrawal: \"We thought we had, probably, another six [or] eight months of trying to push back.\"",
+    "src": "https://www.wral.com/news/local/natelli-withdraws-apex-data-center-project-shearon-harris-march-2026/"
+   },
+   {
+    "para": 2,
+    "t": "US Representative Valerie Foushee had come out against it: \"Plainly, I don't support a new data center in the heart of our district.\"",
+    "src": "https://www.wral.com/news/local/natelli-withdraws-apex-data-center-project-shearon-harris-march-2026/"
+   },
+   {
+    "para": 3,
+    "t": "Apex did not stop there.",
+    "src": "https://www.wral.com/news/local/natelli-withdraws-apex-data-center-project-shearon-harris-march-2026/"
+   },
+   {
+    "para": 3,
+    "t": "Council member Terry Mahaffey said he would bring a motion on March 10 for a one year moratorium on data center applications, permits and construction: \"This will give us the time we need to finish the work that we started, to update the UDO.\"",
+    "src": "https://www.wral.com/news/local/natelli-withdraws-apex-data-center-project-shearon-harris-march-2026/"
+   },
+   {
+    "para": 3,
+    "t": "Apex adopted a moratorium on April 14, 2026, one of fifteen measures now in force within reach of this site.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The entry is recorded as cancelled at 250 megawatts on 89 acres.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "The acreage does not agree with the reporting, which gives 189 acres in both accounts.",
+    "src": "https://www.wral.com/news/local/natelli-withdraws-apex-data-center-project-shearon-harris-march-2026/"
+   },
+   {
+    "para": 4,
+    "t": "The 964 megawatt Harris nuclear station is four kilometres away, and nine other recorded data center sites sit within 36 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.wral.com/news/local/natelli-withdraws-apex-data-center-project-shearon-harris-march-2026/",
+   "https://indyweek.com/news/wake/developer-files-plans-for-digital-campus-in-western-wake/"
+  ],
+  "unconfirmed": "The acreage is unresolved between our record's 89 and the 189 acres both WRAL and Indy Week give; a line describing a 190 acre farm came out, because neither account says that. The petition figure here is Indy Week's nearly 2,000 signatures in a fortnight; a later total of more than 5,000 appears only in search summaries of reports we did not fetch, as do the job and tax revenue figures the developer put forward. Whether Apex's moratorium was the one Mahaffey proposed on March 10 or a later measure is not established; our record dates it April 14, 2026. Whether Natelli Investments intends to return to this site is unknown; the company went on to seek rezoning in Vance County the following month. Construction had been planned for late 2026 or early 2027."
+ },
+ {
+  "id": "ft-1764178421499-3631",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Five years on nothing has been built, and nothing published describes the Research Triangle Park project as a data center.",
+    "src": "https://abc11.com/post/apple-given-4-more-years-hiring-investment-goals-east-coast-hub-nc-research-triangle-park/18208496/"
+   },
+   {
+    "para": 0,
+    "t": "Apple announced a $1 billion East Coast hub at Research Triangle Park in April 2021, promising 378 jobs in the Triangle by the end of 2024, 990 by the end of 2025, at least 2,700 by 2031, and at least $500 million spent on a Wake County site by 2031.",
+    "src": "https://abc11.com/post/apple-given-4-more-years-hiring-investment-goals-east-coast-hub-nc-research-triangle-park/18208496/"
+   },
+   {
+    "para": 0,
+    "t": "The company paused the development in June 2024.",
+    "src": "https://abc11.com/post/apple-given-4-more-years-hiring-investment-goals-east-coast-hub-nc-research-triangle-park/18208496/"
+   },
+   {
+    "para": 1,
+    "t": "On November 26, 2025 North Carolina's Economic Investment Committee, part of the Department of Commerce, granted Apple about four more years to meet the hiring and investment targets.",
+    "src": "https://abc11.com/post/apple-given-4-more-years-hiring-investment-goals-east-coast-hub-nc-research-triangle-park/18208496/"
+   },
+   {
+    "para": 1,
+    "t": "Apple has added more than 600 employees to its existing Raleigh operations over three years, but no campus has gone up.",
+    "src": "https://abc11.com/post/apple-given-4-more-years-hiring-investment-goals-east-coast-hub-nc-research-triangle-park/18208496/"
+   },
+   {
+    "para": 1,
+    "t": "Scott Levitan, who runs Research Triangle Park, said: \"Research Triangle Park is a great home for so many companies, and we're thrilled that Apple will be among them.\"",
+    "src": "https://abc11.com/post/apple-given-4-more-years-hiring-investment-goals-east-coast-hub-nc-research-triangle-park/18208496/"
+   },
+   {
+    "para": 1,
+    "t": "Gerald Cohen, chief economist at the UNC Kenan Institute, was more measured: \"We have a skill set. We have people that they want to tap into. The negative is that it's going to be slower going.\"",
+    "src": "https://abc11.com/post/apple-given-4-more-years-hiring-investment-goals-east-coast-hub-nc-research-triangle-park/18208496/"
+   },
+   {
+    "para": 2,
+    "t": "The entry is recorded as suspended at $1 billion, with no capacity and no acreage, and marks pushback as unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "The same report says Apple has plans to build a data center in the Charlotte area, which is a different project from this one.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "The ground around it has shifted while Apple waited.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "Thirteen jurisdictions within reach of the park now carry data center moratoriums or zoning limits, including Durham from June 16, 2026, Apex from April 14, Garner from May 19, Chatham County from February 11 and Orange County from April 21.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "An operating Compass data center is five kilometres away, CyrusOne's Durham buildings nine kilometres, and the cancelled New Hill campus 22 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The 964 megawatt Harris nuclear station is 25 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://abc11.com/post/apple-given-4-more-years-hiring-investment-goals-east-coast-hub-nc-research-triangle-park/18208496/"
+  ],
+  "unconfirmed": "This entry is in a data center record, but nothing we read describes the Research Triangle Park project as a data center; Apple announced an engineering and operations campus, and the same report places Apple's North Carolina data center in the Charlotte area instead. The Little Drive location in our record and the suspended status are not confirmed by the reporting, and no capacity figure exists. What the extension's revised deadlines are, and whether Apple has committed to any construction date, we could not establish. The other two sources in our record, an earlier ABC11 piece and an aggregator, were not fetched."
+ },
+ {
+  "id": "ft-1775148797572-2455",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The hearing room applauded when the planning board said no.",
+    "src": "https://www.wfdd.org/politics-government/2026-06-11/planning-board-recommends-denying-rezoning-for-proposed-rural-hall-data-center"
+   },
+   {
+    "para": 0,
+    "t": "On June 11, 2026 the Winston-Salem and Forsyth County Planning Board recommended refusing the Drox Group's request to rezone 129 acres across from Rural Hall Town Hall for a hyperscale data center.",
+    "src": "https://www.wfdd.org/politics-government/2026-06-11/planning-board-recommends-denying-rezoning-for-proposed-rural-hall-data-center"
+   },
+   {
+    "para": 0,
+    "t": "Michael Foess, for the company, said the buildings would keep noise below 60 decibels and minimise water use, that the plans had been revised after meeting neighbours to lower one building and add a public recreation area, and that the county would gain nearly $80 million in tax over ten years.",
+    "src": "https://www.wfdd.org/politics-government/2026-06-11/planning-board-recommends-denying-rezoning-for-proposed-rural-hall-data-center"
+   },
+   {
+    "para": 0,
+    "t": "Board member Lindsey Schwab acknowledged the money and answered it: \"I question the cost of that today.\"",
+    "src": "https://www.wfdd.org/politics-government/2026-06-11/planning-board-recommends-denying-rezoning-for-proposed-rural-hall-data-center"
+   },
+   {
+    "para": 1,
+    "t": "Residents objected on noise, water and what an industrial building of that scale would do to a rural place.",
+    "src": "https://www.wfdd.org/politics-government/2026-06-11/planning-board-recommends-denying-rezoning-for-proposed-rural-hall-data-center"
+   },
+   {
+    "para": 2,
+    "t": "The refusal came on July 30, 2026, after six months, more than 400 emails and dozens of speakers.",
+    "src": "https://www.wfae.org/2026-07-30/forsyth-commission-votes-down-rural-hall-data-center-proposal"
+   },
+   {
+    "para": 2,
+    "t": "Forsyth County commissioners voted 5 to 2 to deny the rezoning for Project Iron Spur, with only Don Martin and Gloria Whisenhunt in favour.",
+    "src": "https://www.wfae.org/2026-07-30/forsyth-commission-votes-down-rural-hall-data-center-proposal"
+   },
+   {
+    "para": 2,
+    "t": "Commissioner Gray Wilson said the board was not against data centers but against this one here: \"I don't know that we make the decision that this is something that they ought to have and we just cram it down everybody's throat.\"",
+    "src": "https://www.wfae.org/2026-07-30/forsyth-commission-votes-down-rural-hall-data-center-proposal"
+   },
+   {
+    "para": 2,
+    "t": "Commissioners said the county needed to find more suitable locations.",
+    "src": "https://www.wfae.org/2026-07-30/forsyth-commission-votes-down-rural-hall-data-center-proposal"
+   },
+   {
+    "para": 2,
+    "t": "The case number is F-1669.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The entry is now recorded as blocked, on 129 acres with no capacity figure, and a change.org petition against the rezoning is attached.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Forsyth County itself has no data center moratorium recorded, but four counties around it do: Rowan from April 21, 2026, Davie from June 7, Surry from July 21 for two years, and Yadkin from August 17 for two years.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The 2,220 megawatt Belews Creek plant is 22 kilometres away, and the nearest other generator is a 50 megawatt solar farm at 17 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "WhiteFiber's campus at Madison is one of five other recorded data center sites within 38 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.wfdd.org/politics-government/2026-06-11/planning-board-recommends-denying-rezoning-for-proposed-rural-hall-data-center",
+   "https://www.wfae.org/2026-07-30/forsyth-commission-votes-down-rural-hall-data-center-proposal"
+  ],
+  "unconfirmed": "A sentence saying the commissioners refused the rezoning on July 30 appeared twice, once against our record's source list and once against the WFAE account; the duplicate is gone, and the case number now stands on its own. Neither source gives a capacity in megawatts, a water figure or an investment figure, and the 1.3 million square feet in our record is not confirmed by either. Our record's status is blocked, which the earlier note wrongly described as proposed. A report that Rural Hall's own town leaders reversed course and passed a resolution in support was found in search and not read, so it is not described above."
+ },
+ {
+  "id": "ft-1769472104271-6330",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one would burn its own gas, from a well drilled in 1998.",
+    "src": "https://insideclimatenews.org/news/01112025/north-carolina-natural-gas-well-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "Deep River Data, a company incorporated in Alamance County on April 30, 2025, wants to put a data center on a 643 acre forested tract just south of US Highway 421 near the Lee and Chatham county line, powered from Butler Well Number 3, a vertical well sunk 2,655 feet into black shale and old coal deposits.",
+    "src": "https://insideclimatenews.org/news/01112025/north-carolina-natural-gas-well-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The land belongs to Ed Myrick of Pompano Beach, Florida; the mineral rights belong to Dan Butler of Southern Pines, who holds rights under more than 2,700 acres in Lee County.",
+    "src": "https://insideclimatenews.org/news/01112025/north-carolina-natural-gas-well-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The company's adviser, Dan Spuller, a crypto entrepreneur and natural gas landman, contacted the state Oil and Gas Commission about the project in September 2025.",
+    "src": "https://insideclimatenews.org/news/01112025/north-carolina-natural-gas-well-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Spuller said the company was evaluating whether the well can safely and efficiently produce gas by conventional methods rather than fracking, and that it remains in a pre-feasibility phase.",
+    "src": "https://insideclimatenews.org/news/01112025/north-carolina-natural-gas-well-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Fracking is legal in North Carolina, and Lee County's own fracking moratoriums, from 2017 and 2019, have both expired.",
+    "src": "https://insideclimatenews.org/news/01112025/north-carolina-natural-gas-well-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "The site sits less than a tenth of a mile from the Deep River and Patterson Creek.",
+    "src": "https://insideclimatenews.org/news/01112025/north-carolina-natural-gas-well-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Nearly 23 miles of the Deep River are on the federal impaired waters list, carrying 1,4-dioxane, a likely carcinogen.",
+    "src": "https://insideclimatenews.org/news/01112025/north-carolina-natural-gas-well-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Stephanie Stephens, the Deep River riverkeeper, said the county should be choosy about the industry it takes: \"We already have a polluted river.\"",
+    "src": "https://insideclimatenews.org/news/01112025/north-carolina-natural-gas-well-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Therese Vick of the Blue Ridge Environmental Defense League said: \"The Oil and Gas Commission must look carefully at this proposal to exploit the gas well near the Deep River, as well as those who want to develop it.\"",
+    "src": "https://insideclimatenews.org/news/01112025/north-carolina-natural-gas-well-data-center/"
+   },
+   {
+    "para": 3,
+    "t": "Duke Energy has projected that data centers could add nearly six gigawatts to North Carolina's demand, which is the wider reason a company would go looking for its own gas rather than wait in a utility queue.",
+    "src": "https://insideclimatenews.org/news/01112025/north-carolina-natural-gas-well-data-center/"
+   },
+   {
+    "para": 4,
+    "t": "The entry stands as proposed with no acreage, no capacity and no cost.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "Eleven jurisdictions within reach now carry moratoriums or zoning limits, including Lee County itself from June 16, 2026 and Sanford from August 5, plus Chatham County from February 11.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The 964 megawatt Harris nuclear station is 29 kilometres away, and a CyrusOne site sits 14 kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://insideclimatenews.org/news/01112025/north-carolina-natural-gas-well-data-center/"
+  ],
+  "unconfirmed": "No megawatt figure, building count or acreage for the data center itself has been published; the 643 acres is the tract, not the campus. A line saying Spuller had promised minimal water use and no draw from the Deep River came out: what he is quoted saying is that the well is in a pre-feasibility phase and that the company is evaluating conventional production. Therese Vick had been given a sentence she did not say, about due diligence being incumbent on the commission; her own words are now used. Thomas Mierisch, the Lee County zoning administrator, is named in the reporting but not quoted on this project. Whether the Oil and Gas Commission has acted, and whether Lee County's June 2026 moratorium reaches a project powered by its own gas rather than by the utility, are both unresolved. The campaign page in our record, run by Clean Water for North Carolina, was not read. No figure has been given for how much gas the well can actually produce, which is the question the whole scheme turns on."
+ }
+]

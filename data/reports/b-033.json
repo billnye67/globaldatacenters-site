@@ -1,0 +1,596 @@
+[
+ {
+  "id": "amazon-aws-butts-county-i-75",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon's data services arm agreed on July 25, 2025 to pay about $270 million for 985 acres along Interstate 75 in rural Lamar County, Georgia, roughly an hour south of Atlanta, land it is weighing for a data center.",
+    "src": "https://www.ajc.com/business/2025/08/amazons-data-center-division-pays-270m-to-buy-sprawling-georgia-property/"
+   },
+   {
+    "para": 0,
+    "t": "The site is part of a development called the Legacy 75 Trade Center.",
+    "src": "https://www.ajc.com/business/2025/08/amazons-data-center-division-pays-270m-to-buy-sprawling-georgia-property/"
+   },
+   {
+    "para": 1,
+    "t": "Amazon has not said it will build anything.",
+    "src": "https://www.ajc.com/business/2025/08/amazons-data-center-division-pays-270m-to-buy-sprawling-georgia-property/"
+   },
+   {
+    "para": 1,
+    "t": "The company said: \"We are constantly evaluating new locations based on customer demand. We recently purchased land in Lamar County, Georgia, and are performing due diligence in exploring possible data center locations.\"",
+    "src": "https://www.ajc.com/business/2025/08/amazons-data-center-division-pays-270m-to-buy-sprawling-georgia-property/"
+   },
+   {
+    "para": 2,
+    "t": "Several counties nearby, including Newton, Monroe, Lamar and Coweta, have passed data center moratoriums or zoning limits over the past year.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Butts County itself has not.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.ajc.com/business/2025/08/amazons-data-center-division-pays-270m-to-buy-sprawling-georgia-property/"
+  ],
+  "unconfirmed": "Our record filed this purchase in Butts County, off Georgia Highway 16 near Colwell Road outside Jackson. Lamar County borders Butts to the south, and the acreage, price and closing date all match, so this is very likely the same transaction filed under the wrong county."
+ },
+ {
+  "id": "amazon-aws-richmond-county-nc",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Hamlet is a small city in Richmond County, North Carolina, where county commissioners negotiated the sale of land for Amazon's data center under the code name Project Blue Marlin without telling the public who the buyer was.",
+    "src": "https://insideclimatenews.org/news/04082026/north-carolina-amazon-data-center-secret-deal/"
+   },
+   {
+    "para": 0,
+    "t": "The county drafted a confidential agreement to sell 646 acres on March 19, 2025, and rezoned the site to heavy industrial in early April.",
+    "src": "https://insideclimatenews.org/news/04082026/north-carolina-amazon-data-center-secret-deal/"
+   },
+   {
+    "para": 0,
+    "t": "Commissioners voted in May 2025 to sell the county-owned parcels for $26 million without naming the buyer, and did not confirm it was Amazon until June 4, 2025, the same day they approved the project's tax breaks.",
+    "src": "https://insideclimatenews.org/news/04082026/north-carolina-amazon-data-center-secret-deal/"
+   },
+   {
+    "para": 0,
+    "t": "Resident Lee Quick, who owns property next to the site, said he never heard about a hearing: \"I don't recall any public hearing. No one informed me.\"",
+    "src": "https://insideclimatenews.org/news/04082026/north-carolina-amazon-data-center-secret-deal/"
+   },
+   {
+    "para": 0,
+    "t": "Shaun Ingram, who grew up in the county and co-leads the Richmond County Coalition for Justice, said it was \"shameful to sign away public trust while residents are left to ask basic questions about our energy, wells, water, wildlife and our health.\"",
+    "src": "https://insideclimatenews.org/news/04082026/north-carolina-amazon-data-center-secret-deal/"
+   },
+   {
+    "para": 1,
+    "t": "The deal gives Amazon a 50 percent property tax break on the buildings and a 65 percent reduction on machinery and equipment for 20 years.",
+    "src": "https://insideclimatenews.org/news/04082026/north-carolina-amazon-data-center-secret-deal/"
+   },
+   {
+    "para": 1,
+    "t": "State and county officials describe the $10 billion project, planned as 21 buildings of 200,000 square feet each, as the largest economic development deal in North Carolina history.",
+    "src": "https://insideclimatenews.org/news/04082026/north-carolina-amazon-data-center-secret-deal/"
+   },
+   {
+    "para": 1,
+    "t": "The first building is expected to be running by 2027, with more phases through 2029.",
+    "src": "https://www.wral.com/news/local/why-one-north-carolina-county-said-yes-to-amazon-10-billion-dollar-data-center-july-2026/"
+   },
+   {
+    "para": 1,
+    "t": "County officials said they picked the data center over nearly 50 competing industrial proposals for the site because it would use less water and electricity than most manufacturing alternatives, and because Amazon is paying for its own infrastructure upgrades rather than asking the county to fund them.",
+    "src": "https://www.wral.com/news/local/why-one-north-carolina-county-said-yes-to-amazon-10-billion-dollar-data-center-july-2026/"
+   },
+   {
+    "para": 1,
+    "t": "County management analyst Martie Butler said officials called other states where Amazon had already built data centers before deciding the company had \"proved to be a very good corporate steward in their community and followed through.\"",
+    "src": "https://www.wral.com/news/local/why-one-north-carolina-county-said-yes-to-amazon-10-billion-dollar-data-center-july-2026/"
+   },
+   {
+    "para": 2,
+    "t": "The plan calls for 592 diesel backup generators at Amazon's buildings, plus 57 temporary generators Duke Energy wants to run until new transmission lines are finished, a total of 649.",
+    "src": "https://www.wral.com/business/technology/north-carolina-diesel-generators-amazon-data-center-september-2026/"
+   },
+   {
+    "para": 2,
+    "t": "State regulators estimated the generators could emit close to 250 tons a year of nitrogen oxides, carbon monoxide and other pollutants.",
+    "src": "https://insideclimatenews.org/news/04082026/north-carolina-amazon-data-center-secret-deal/"
+   },
+   {
+    "para": 2,
+    "t": "The area around the site already has two rock quarries, an asphalt plant, a wood-pellet plant and a poultry slaughterhouse, and Richmond County ranks last among North Carolina counties on measures of air and water quality.",
+    "src": "https://insideclimatenews.org/news/04082026/north-carolina-amazon-data-center-secret-deal/"
+   },
+   {
+    "para": 2,
+    "t": "At a July 30, 2026 hearing on the air permits, resident Luis Balli, who has worked with diesel engines, said: \"The toxins will be harmful, let's put it that way. Very harmful for people with illnesses. Especially the elderly.\"",
+    "src": "https://www.wsoctv.com/news/local/public-hearing-scheduled-over-richmond-county-data-center-noise-concerns/MXNHPOAM5NHSXCF7Q5TMR7OLGE/"
+   },
+   {
+    "para": 2,
+    "t": "The state Department of Environmental Quality approved air permits for all 649 generators on September 1, 2026.",
+    "src": "https://www.wral.com/business/technology/north-carolina-diesel-generators-amazon-data-center-september-2026/"
+   },
+   {
+    "para": 2,
+    "t": "Luna Homsi of the North Carolina Conservation Network said the decision to give Duke Energy and Amazon a green light on hundreds of diesel generators was \"disappointing and will cause harm to the neighboring communities.\"",
+    "src": "https://www.wral.com/business/technology/north-carolina-diesel-generators-amazon-data-center-september-2026/"
+   },
+   {
+    "para": 2,
+    "t": "Amazon said it had worked closely with the state Division of Air Quality to meet or exceed environmental and public health standards, and pointed to $200,000 in community grants, a partnership with the Hamlet Fire Department and workforce programs with Richmond Community College.",
+    "src": "https://www.wral.com/business/technology/north-carolina-diesel-generators-amazon-data-center-september-2026/"
+   }
+  ],
+  "sources": [
+   "https://insideclimatenews.org/news/04082026/north-carolina-amazon-data-center-secret-deal/",
+   "https://www.wral.com/business/technology/north-carolina-diesel-generators-amazon-data-center-september-2026/",
+   "https://www.wsoctv.com/news/local/public-hearing-scheduled-over-richmond-county-data-center-noise-concerns/MXNHPOAM5NHSXCF7Q5TMR7OLGE/",
+   "https://www.wral.com/news/local/why-one-north-carolina-county-said-yes-to-amazon-10-billion-dollar-data-center-july-2026/"
+  ],
+  "unconfirmed": "An attendance figure of nearly 200 people at the July 30, 2026 air permit hearing is not given in the report it was credited to and has been removed."
+ },
+ {
+  "id": "amazon-aws-vicksburg",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The AWS data center planned for Warren County is a $3 billion project, the largest private investment in the county's history.",
+    "src": "https://www.mississippifreepress.org/amazon-is-expanding-data-centers-in-central-mississippi-governor-announces/"
+   },
+   {
+    "para": 0,
+    "t": "Amazon calls it an AI data center, and it is one piece of about $25 billion the company has now committed across Mississippi.",
+    "src": "https://www.mississippifreepress.org/amazon-is-expanding-data-centers-in-central-mississippi-governor-announces/"
+   },
+   {
+    "para": 1,
+    "t": "On Saturday, July 18, 2026, about 50 people gathered in Vicksburg to protest against it.",
+    "src": "https://vicksburgnews.com/locals-gather-for-a-peaceful-protest-against-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "What they raised was energy and water costs, health risks, and noise, light and air pollution along with wastewater.",
+    "src": "https://vicksburgnews.com/locals-gather-for-a-peaceful-protest-against-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "The protest formed part of a national day of action called by the group Humans First.",
+    "src": "data:note"
+   },
+   {
+    "para": 2,
+    "t": "Amazon and local officials have held public meetings to answer the questions.",
+    "src": "data:note"
+   },
+   {
+    "para": 2,
+    "t": "A town hall covered utilities, taxes, jobs, local contracting and the effect on the surrounding neighbourhood, and a follow up meeting was set for September 16, 2026 with AWS project manager Andrea Hutchins, Vicksburg mayor Willis Thompson and Warren County board of supervisors president Kelle Barfield.",
+    "src": "data:note"
+   },
+   {
+    "para": 3,
+    "t": "On water and power, Roger Wehner, the AWS vice president for economic development, said of the company's Mississippi campuses: \"We made a commitment when we first came on two things in particular, one was water, one was energy. We try to keep our word every step of the way.\"",
+    "src": "https://www.mississippifreepress.org/amazon-is-expanding-data-centers-in-central-mississippi-governor-announces/"
+   },
+   {
+    "para": 3,
+    "t": "Across the state Amazon is required to cover the cost of substation and transmission upgrades, and Entergy Mississippi's chief executive Haley Fisackerly has put the resulting fuel savings to customers at $700 million.",
+    "src": "https://www.mississippifreepress.org/amazon-is-expanding-data-centers-in-central-mississippi-governor-announces/"
+   },
+   {
+    "para": 3,
+    "t": "Neither figure is broken out for the Vicksburg site.",
+    "src": "https://www.mississippifreepress.org/amazon-is-expanding-data-centers-in-central-mississippi-governor-announces/"
+   }
+  ],
+  "sources": [
+   "https://www.mississippifreepress.org/amazon-is-expanding-data-centers-in-central-mississippi-governor-announces/",
+   "https://vicksburgnews.com/locals-gather-for-a-peaceful-protest-against-data-centers/"
+  ],
+  "unconfirmed": "No protester or resident is quoted by name in any account we could read; the Vicksburg Post and WJTV reports on the march both refuse our requests, as does Mississippi Today's original announcement story. Job figures for the Vicksburg site vary between accounts and no power capacity or water withdrawal figure has been published for it. Reports put the crowd at about 50 and at more than 40; the lower figure comes from the local paper that covered it and is used here."
+ },
+ {
+  "id": "amazon-aws-clinton-mississippi",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The AWS data center in Clinton, in Hinds County, Mississippi, is going up on Industrial Park Drive, on the site of the former Delphi Packard Electric plant, a building that had stood empty.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The city held a groundbreaking on June 9, 2026.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Governor Tate Reeves announced the project on April 9, 2026 as part of a $13 billion Amazon expansion across central Mississippi.",
+    "src": "https://www.mississippifreepress.org/amazon-is-expanding-data-centers-in-central-mississippi-governor-announces/"
+   },
+   {
+    "para": 1,
+    "t": "The Clinton facility is put at $1 billion and 100 jobs, the smallest of the sites announced that day.",
+    "src": "https://www.mississippifreepress.org/amazon-is-expanding-data-centers-in-central-mississippi-governor-announces/"
+   },
+   {
+    "para": 1,
+    "t": "Amazon says it will use no water here, against recycled water for cooling at its Canton campus and groundwater about 30 days a year at Ridgeland.",
+    "src": "https://www.mississippifreepress.org/amazon-is-expanding-data-centers-in-central-mississippi-governor-announces/"
+   },
+   {
+    "para": 2,
+    "t": "On October 7, 2025 Clinton amended an ordinance to let backup generators run without interruption during an emergency.",
+    "src": "https://www.mississippifreepress.org/amazon-is-expanding-data-centers-in-central-mississippi-governor-announces/"
+   },
+   {
+    "para": 2,
+    "t": "Generators are what neighbours of these campuses tend to notice: more than 800 are planned across Amazon's Madison County sites alone.",
+    "src": "https://www.mississippifreepress.org/amazon-is-expanding-data-centers-in-central-mississippi-governor-announces/"
+   },
+   {
+    "para": 2,
+    "t": "The concerns raised about the Mississippi buildout generally have been traffic, noise, dust, utility rates and water depletion.",
+    "src": "https://www.mississippifreepress.org/amazon-is-expanding-data-centers-in-central-mississippi-governor-announces/"
+   },
+   {
+    "para": 3,
+    "t": "Clinton's mayor, Will Purdie, thanked Amazon for choosing the city.",
+    "src": "https://www.mississippifreepress.org/amazon-is-expanding-data-centers-in-central-mississippi-governor-announces/"
+   },
+   {
+    "para": 3,
+    "t": "Reeves said: \"Mississippi is not attracting the industries of the future: we're building them.\"",
+    "src": "https://www.mississippifreepress.org/amazon-is-expanding-data-centers-in-central-mississippi-governor-announces/"
+   }
+  ],
+  "sources": [
+   "https://www.mississippifreepress.org/amazon-is-expanding-data-centers-in-central-mississippi-governor-announces/"
+  ],
+  "unconfirmed": "No power capacity figure was found for the Clinton site, no tax terms, and no resident quoted about it. Our record describes a $12 billion state expansion; the announcement covered here is $13 billion, and the two figures were not reconciled. WAPT and the Daily Journal reports on the groundbreaking refuse our requests."
+ },
+ {
+  "id": "amazon-aws-resilient-technology-park-shreveport",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is the newest of three Amazon data center campuses that Amazon and its developer, STACK Infrastructure, are building in northwest Louisiana, in Caddo and Bossier parishes, an investment that grew from $12 billion in February 2026 to $18 billion by August 2026.",
+    "src": "https://www.ksla.com/2026/02/24/campuses-newly-announced-amazon-data-center-spanning-bossier-caddo-parishes-confirmed/"
+   },
+   {
+    "para": 0,
+    "t": "It sits at Resilient Technology Park off Greenwood Road in west Shreveport and was added after the original two-campus announcement.",
+    "src": "https://www.ksla.com/2026/02/24/campuses-newly-announced-amazon-data-center-spanning-bossier-caddo-parishes-confirmed/"
+   },
+   {
+    "para": 0,
+    "t": "The first building there is expected to be finished by mid-2027, with all five buildings across the three campuses complete by 2028.",
+    "src": "https://finance.yahoo.com/technology/articles/amazon-plans-3rd-data-center-205015208.html"
+   },
+   {
+    "para": 0,
+    "t": "A lawsuit is pending over the city of Shreveport's approval of the project.",
+    "src": "https://finance.yahoo.com/technology/articles/amazon-plans-3rd-data-center-205015208.html"
+   },
+   {
+    "para": 1,
+    "t": "Caddo Parish has no zoning outside Shreveport's city limits and a five-mile buffer around them, so Amazon's projects there face few local land-use restrictions.",
+    "src": "https://www.ksla.com/2026/09/15/caddo-parish-commission-rejects-pause-data-center-construction/"
+   },
+   {
+    "para": 1,
+    "t": "Caddo Parish Commissioner John-Paul Young, who said an earlier Amazon tax agreement had come before the commission quickly and with limited public input, proposed a two-year pause on new data centers in unincorporated Caddo in August 2026, saying it \"will be the first opportunity for organized and careful public discussion and scrutiny of these huge projects that are being presented to our region.\"",
+    "src": "https://www.yahoo.com/news/politics/articles/caddo-commissioner-wants-moratorium-deeper-090537413.html"
+   },
+   {
+    "para": 1,
+    "t": "The full Caddo Parish Commission voted 6-4 against pausing data center construction on August 31, 2026, with two commissioners absent.",
+    "src": "https://www.ksla.com/2026/09/15/caddo-parish-commission-rejects-pause-data-center-construction/"
+   }
+  ],
+  "sources": [
+   "https://www.ksla.com/2026/02/24/campuses-newly-announced-amazon-data-center-spanning-bossier-caddo-parishes-confirmed/",
+   "https://finance.yahoo.com/technology/articles/amazon-plans-3rd-data-center-205015208.html",
+   "https://www.yahoo.com/news/politics/articles/caddo-commissioner-wants-moratorium-deeper-090537413.html",
+   "https://www.ksla.com/2026/09/15/caddo-parish-commission-rejects-pause-data-center-construction/"
+  ],
+  "unconfirmed": "The details of the lawsuit over Shreveport's approval were not available in any source we could read."
+ },
+ {
+  "id": "amazon-aws-blanchard-state-line",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Amazon data center campus on Stateline Road, just north of Blanchard Latex Road in Caddo Parish, Louisiana, runs to 1.3 million square feet.",
+    "src": "https://www.shreveportbossieradvocate.com/business/staack-and-aws-to-host-first-data-center-meeting-for-caddo-parish/article_7824f681-e203-475e-ab4b-71ab2835a5ad.html"
+   },
+   {
+    "para": 0,
+    "t": "Governor Jeff Landry announced it on February 23, 2026, one of two sites under construction in an $18 billion buildout across northwest Louisiana that Amazon is doing with the developer STACK Infrastructure.",
+    "src": "https://www.shreveportbossieradvocate.com/business/staack-and-aws-to-host-first-data-center-meeting-for-caddo-parish/article_7824f681-e203-475e-ab4b-71ab2835a5ad.html"
+   },
+   {
+    "para": 1,
+    "t": "The number that has worried people here is the water.",
+    "src": "https://www.shreveportbossieradvocate.com/business/staack-and-aws-to-host-first-data-center-meeting-for-caddo-parish/article_7824f681-e203-475e-ab4b-71ab2835a5ad.html"
+   },
+   {
+    "para": 1,
+    "t": "The campus is expected to take between 1.5 million and 5 million gallons a day from Caddo Lake.",
+    "src": "https://www.shreveportbossieradvocate.com/business/staack-and-aws-to-host-first-data-center-meeting-for-caddo-parish/article_7824f681-e203-475e-ab4b-71ab2835a5ad.html"
+   },
+   {
+    "para": 2,
+    "t": "The first public meeting on the project was held at Blanchard town hall on March 4, 2026, nine days after the announcement.",
+    "src": "https://www.shreveportbossieradvocate.com/business/staack-and-aws-to-host-first-data-center-meeting-for-caddo-parish/article_7824f681-e203-475e-ab4b-71ab2835a5ad.html"
+   },
+   {
+    "para": 2,
+    "t": "The room held 60 people. Mayor Jim Galambos said it was \"the largest space we had to offer\" and that \"the occupancy is set by the State Fire Marshal.\"",
+    "src": "https://www.shreveportbossieradvocate.com/business/staack-and-aws-to-host-first-data-center-meeting-for-caddo-parish/article_7824f681-e203-475e-ab4b-71ab2835a5ad.html"
+   },
+   {
+    "para": 2,
+    "t": "William Bradford, STACK Infrastructure's community liaison, told residents: \"This won't be the only opportunity to engage in the process.\"",
+    "src": "https://www.shreveportbossieradvocate.com/business/staack-and-aws-to-host-first-data-center-meeting-for-caddo-parish/article_7824f681-e203-475e-ab4b-71ab2835a5ad.html"
+   },
+   {
+    "para": 2,
+    "t": "Mary Stahl May, who had been trying since January to get a public meeting with data center representatives, put it differently: \"They shoved it down our throats. So now we're going to make sure that they do what they say they're going to do.\"",
+    "src": "https://www.shreveportbossieradvocate.com/business/staack-and-aws-to-host-first-data-center-meeting-for-caddo-parish/article_7824f681-e203-475e-ab4b-71ab2835a5ad.html"
+   },
+   {
+    "para": 2,
+    "t": "What residents raised was the lake, the absence of an environmental impact study, and a decision they say was closed before they were asked.",
+    "src": "https://www.shreveportbossieradvocate.com/business/staack-and-aws-to-host-first-data-center-meeting-for-caddo-parish/article_7824f681-e203-475e-ab4b-71ab2835a5ad.html"
+   },
+   {
+    "para": 3,
+    "t": "Caddo Parish Commissioner John-Paul Young named this site when he proposed a two year moratorium on new data centers in August 2026, after saying he had approved an earlier Amazon tax agreement with limited public input.",
+    "src": "data:note"
+   },
+   {
+    "para": 3,
+    "t": "The commission voted 6 to 4 on August 31, 2026 against sending a moratorium to the parish planning and zoning commission.",
+    "src": "data:note"
+   },
+   {
+    "para": 3,
+    "t": "The parish has no zoning at all in unincorporated areas beyond a five mile buffer around Shreveport.",
+    "src": "data:note"
+   },
+   {
+    "para": 3,
+    "t": "The campus is expected to come into operation in phases through 2028.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [
+   "https://www.shreveportbossieradvocate.com/business/staack-and-aws-to-host-first-data-center-meeting-for-caddo-parish/article_7824f681-e203-475e-ab4b-71ab2835a5ad.html"
+  ],
+  "unconfirmed": "No acreage, building count or power capacity figure was found. The water figure is given as a range of 1.5 to 5 million gallons a day with no explanation of what moves it within that range, and no source we could read gives Caddo Lake's yield for comparison. KTAL's report on the two Caddo Parish resolutions, covering the proposed environmental study and an ordinance on temporary workforce housing for construction crews at this site, refuses our requests."
+ },
+ {
+  "id": "amazon-aws-bossier-parish",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This Amazon data center campus sits about five miles north of Benton, on the west side of Highway 3 in Bossier Parish, Louisiana.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It is one of three in an $18 billion buildout across northwest Louisiana that Amazon is doing with the developer STACK Infrastructure.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "Amazon says it will bring about 540 jobs on site paying at least 150 percent of Louisiana's average wage, and roughly 1,700 more in the surrounding area.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "The site was put on a different transmission line from Amazon's Caddo Parish campus, with Southwestern Electric Power Company, so that the two can back each other up if one loses power.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "The fight over this buildout has happened next door, in Caddo Parish.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Commissioner John-Paul Young proposed a two year moratorium on new data centers there in August 2026, saying he had approved an earlier Amazon tax agreement with limited public input.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "The Caddo commission voted 6 to 4 against the pause on August 31, 2026.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Caddo has no zoning at all in unincorporated areas beyond a five mile buffer around Shreveport.",
+    "src": "data:note"
+   },
+   {
+    "para": 2,
+    "t": "No comparable fight has been reported in Bossier Parish itself.",
+    "src": "data:note"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Searches on Benton with data center, on Bossier Parish with data center, and on Amazon with Bossier Parish found no coverage of a hearing, zoning decision or resident reaction in this parish. No acreage, building count, capacity figure or construction timetable was found for this campus, and the jobs figures come from the company rather than an independent count."
+ },
+ {
+  "id": "amazon-aws-spectrum-hood-county",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Hood County commissioners approved Project Spectrum, an Amazon data center next to the Comanche Peak nuclear plant, on a 3-0 vote on May 26, 2025.",
+    "src": "https://www.yahoo.com/news/us/articles/inside-granbury-data-center-revolt-095500032.html"
+   },
+   {
+    "para": 0,
+    "t": "In nearby Granbury, residents later filed recall petitions against the mayor and four council members and a lawsuit under the state Open Meetings Act, after the city annexed and rezoned 2,000 acres for a separate data center and power plant project called Project Patriot.",
+    "src": "https://www.yahoo.com/news/us/articles/inside-granbury-data-center-revolt-095500032.html"
+   },
+   {
+    "para": 0,
+    "t": "Those residents asked the Second Court of Appeals in August 2026 to force the city to recognize the recall petitions before the November election.",
+    "src": "https://www.keranews.org/politics/2026-08-17/granbury-residents-sue-to-revive-recall-effort-over-data-centers-ahead-of-november-elections"
+   },
+   {
+    "para": 0,
+    "t": "A third proposal south of Granbury, called Comanche Circle, drew opposition from a group called Protect the Paluxy Valley over water and power concerns; county commissioners postponed a vote on it to October 13, 2026.",
+    "src": "https://www.nbcdfw.com/news/local/hood-county-commissioners-set-to-discuss-proposed-data-center-projects-amid-ongoing-debate/4073892/"
+   },
+   {
+    "para": 0,
+    "t": "Texas imposed a moratorium on new data center grid connections statewide on August 3, 2026, and the city of Granbury adopted its own zoning limits on data centers on May 21, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.yahoo.com/news/us/articles/inside-granbury-data-center-revolt-095500032.html",
+   "https://www.keranews.org/politics/2026-08-17/granbury-residents-sue-to-revive-recall-effort-over-data-centers-ahead-of-november-elections",
+   "https://www.nbcdfw.com/news/local/hood-county-commissioners-set-to-discuss-proposed-data-center-projects-amid-ongoing-debate/4073892/"
+  ],
+  "unconfirmed": "No coverage specific to Project Spectrum's size, water use or planned capacity was found beyond the approval vote; the fight described above involves separate, nearby projects (Project Patriot, Comanche Circle), not Project Spectrum itself, and is included here only because a resident near Project Spectrum would see it as the same wave of development."
+ },
+ {
+  "id": "amazon-aws-bastrop-county-cedar-creek",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon Data Services bought 1,229 acres in Bastrop County, Texas, on May 1, about three miles southwest of the EdgeConneX data center campuses at Cedar Creek.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/government/bastrop-county-residents-organize-for-data-center-transparency-local-guardrails/"
+   },
+   {
+    "para": 0,
+    "t": "The company told Community Impact it \"has not made a final development decision\" about the land.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/government/bastrop-county-residents-organize-for-data-center-transparency-local-guardrails/"
+   },
+   {
+    "para": 1,
+    "t": "It would be arriving into an argument already under way.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/development/town-halls-set-for-3-cedar-creek-data-centers-spanning-nearly-1500-acres/"
+   },
+   {
+    "para": 1,
+    "t": "EdgeConneX has three campuses planned at Cedar Creek: 112 acres and a $440 million, 578,000 square foot building now under construction, a second of 951 acres and $1.4 billion, and a third of 400 acres with nine possible buildings.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/development/town-halls-set-for-3-cedar-creek-data-centers-spanning-nearly-1500-acres/"
+   },
+   {
+    "para": 1,
+    "t": "County commissioner David Glass asked the company to hold three town halls, on June 16 at Elgin, June 17 at Smithville and June 18 at Bastrop.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/development/town-halls-set-for-3-cedar-creek-data-centers-spanning-nearly-1500-acres/"
+   },
+   {
+    "para": 1,
+    "t": "EdgeConneX chief marketing officer Phillip Marangella said the projects would mean more than 200 permanent jobs on a payroll of about $16 million a year.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/government/bastrop-county-residents-organize-for-data-center-transparency-local-guardrails/"
+   },
+   {
+    "para": 2,
+    "t": "Residents have organized across party lines.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/government/bastrop-county-residents-organize-for-data-center-transparency-local-guardrails/"
+   },
+   {
+    "para": 2,
+    "t": "A meeting run by the League of Independent Voters of Texas was co-sponsored by the county's Republican Club, its Democratic Party and the Texas Forward Party.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/government/bastrop-county-residents-organize-for-data-center-transparency-local-guardrails/"
+   },
+   {
+    "para": 2,
+    "t": "Merrie Santana, who lives in Cedar Creek, said: \"I am for economic development as long as it is responsible. But this location right here, where you see all of those communities, where you see all of those families, that location is not suitable for a data center of that magnitude.\"",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/government/bastrop-county-residents-organize-for-data-center-transparency-local-guardrails/"
+   },
+   {
+    "para": 2,
+    "t": "She asked when the air quality, groundwater and noise studies would be done.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/government/bastrop-county-residents-organize-for-data-center-transparency-local-guardrails/"
+   },
+   {
+    "para": 2,
+    "t": "Elgin attorney Nick Lealos proposed a framework he calls the Bastrop Bill of Rights, and Texas agriculture commissioner Sid Miller told the meeting: \"Just stop. Hold up. This is getting away from us. We have got to put some guardrails around this industry, or we're gonna be in a huge train wreck.\"",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/government/bastrop-county-residents-organize-for-data-center-transparency-local-guardrails/"
+   },
+   {
+    "para": 3,
+    "t": "The county has little power here.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/government/bastrop-county-residents-organize-for-data-center-transparency-local-guardrails/"
+   },
+   {
+    "para": 3,
+    "t": "A draft policy would require companies seeking tax abatements to disclose their effects on air and water quality, runoff, wetlands, waste and noise, and to hire at least 25 full time workers with a quarter of them from the county.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/government/bastrop-county-residents-organize-for-data-center-transparency-local-guardrails/"
+   },
+   {
+    "para": 3,
+    "t": "Commissioners tabled a resolution on August 10 that would have declared the county's limited authority and asked the Texas legislature for more.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/government/bastrop-county-residents-organize-for-data-center-transparency-local-guardrails/"
+   },
+   {
+    "para": 3,
+    "t": "The county hired PFM Group Consulting in March 2026 to work out what all this actually costs and returns.",
+    "src": "https://communityimpact.com/bastrop-cedar-creek/development/town-halls-set-for-3-cedar-creek-data-centers-spanning-nearly-1500-acres/"
+   }
+  ],
+  "sources": [
+   "https://communityimpact.com/bastrop-cedar-creek/government/bastrop-county-residents-organize-for-data-center-transparency-local-guardrails/",
+   "https://communityimpact.com/bastrop-cedar-creek/development/town-halls-set-for-3-cedar-creek-data-centers-spanning-nearly-1500-acres/"
+  ],
+  "unconfirmed": "Our record puts this site on State Highway 21 west of Cedar Creek; the reporting locates Amazon's holding three miles southwest of EdgeConneX without giving a road, so the two may or may not describe the same parcel. No building plan, capacity, timeline or application has been published, and Amazon says it has not decided whether to develop it at all. The year of the May 1 purchase is not stated in the report."
+ },
+ {
+  "id": "amazon-aws-eagle-boling",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Project Eagle is a $10 billion Amazon data center campus on roughly 3,000 acres off FM 442 near Boling in Wharton County, with ten buildings planned and construction already underway.",
+    "src": "https://www.click2houston.com/news/local/2026/09/10/community-conversation-to-explore-amazon-data-center-plans-in-boling/"
+   },
+   {
+    "para": 0,
+    "t": "At a community meeting on September 10, 2026, Amazon's director of supply solutions for the Americas, Keith Klein, said the campus would create 300 full-time jobs, with 150 of them filled by the end of 2027.",
+    "src": "https://www.click2houston.com/news/local/2026/09/10/community-conversation-to-explore-amazon-data-center-plans-in-boling/"
+   },
+   {
+    "para": 0,
+    "t": "Asked what would happen to local water, Klein said the facility would use about 16,000 gallons a day for domestic purposes, the equivalent of roughly 54 houses, and that its power comes through its own ERCOT connection so it will not affect other customers' bills.",
+    "src": "https://www.click2houston.com/news/local/2026/09/10/community-conversation-to-explore-amazon-data-center-plans-in-boling/"
+   },
+   {
+    "para": 0,
+    "t": "Resident Pete Kucera welcomed the tax revenue for the school district and county; others at the meeting asked about noise, dust and flooding during construction.",
+    "src": "https://www.click2houston.com/news/local/2026/09/10/community-conversation-to-explore-amazon-data-center-plans-in-boling/"
+   },
+   {
+    "para": 1,
+    "t": "Wharton County officials signed a nondisclosure agreement with Amazon's site-selection consultant, VisionFirst Advisors, which has made it harder for residents to learn details of the project, Yahoo Finance reported.",
+    "src": "https://finance.yahoo.com/real-estate/articles/amazon-10b-houston-data-center-164242528.html"
+   },
+   {
+    "para": 1,
+    "t": "The project still needs additional county permits, and Governor Greg Abbott's pause on new power grid connections pending statewide audits has slowed data center approvals across Texas generally.",
+    "src": "https://finance.yahoo.com/real-estate/articles/amazon-10b-houston-data-center-164242528.html"
+   },
+   {
+    "para": 1,
+    "t": "The first building, at 189,000 square feet, is targeted for completion in 2027, and peak power demand is expected to reach up to 75 megawatts, though that figure is not finalized.",
+    "src": "https://finance.yahoo.com/real-estate/articles/amazon-10b-houston-data-center-164242528.html"
+   }
+  ],
+  "sources": [
+   "https://www.click2houston.com/news/local/2026/09/10/community-conversation-to-explore-amazon-data-center-plans-in-boling/",
+   "https://finance.yahoo.com/real-estate/articles/amazon-10b-houston-data-center-164242528.html"
+  ],
+  "unconfirmed": null
+ }
+]

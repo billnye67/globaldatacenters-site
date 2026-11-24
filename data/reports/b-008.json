@@ -1,0 +1,589 @@
+[
+ {
+  "id": "epoch-crusoe-abilene-expansion",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Crusoe campus that Microsoft is filling with computing capacity sits on Spinks Road in Abilene, Taylor County.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Crusoe Energy is building the site, and Microsoft has secured large blocks of its capacity, according to Data Center Knowledge.",
+    "src": "https://www.datacenterknowledge.com/build-design/crusoe-expands-abilene-ai-campus-with-new-900mw-ai-factory-for-microsoft"
+   },
+   {
+    "para": 0,
+    "t": "In March 2026 Crusoe said it would add a 900 megawatt building and an on-site gas power plant with battery storage, bringing the planned campus to about 2.1 gigawatts across eight buildings.",
+    "src": "https://www.datacenterknowledge.com/build-design/crusoe-expands-abilene-ai-campus-with-new-900mw-ai-factory-for-microsoft"
+   },
+   {
+    "para": 0,
+    "t": "U.S. Rep. Jodey Arrington, a Texas Republican, said the expansion showed \"West Texas has become the Silicon Prairie for AI.\"",
+    "src": "https://www.datacenterknowledge.com/build-design/crusoe-expands-abilene-ai-campus-with-new-900mw-ai-factory-for-microsoft"
+   },
+   {
+    "para": 1,
+    "t": "Crusoe says the campus will bring more than 8,000 construction jobs and about 400 permanent, skilled positions, for a projected $1 billion economic impact over 20 years.",
+    "src": "https://www.crusoe.ai/about/communities/abilene"
+   },
+   {
+    "para": 1,
+    "t": "Abilene Mayor Weldon Hurt said, \"The Crusoe expansion at the Lancium Clean Campus represents a new era of innovation for Abilene.\"",
+    "src": "https://www.crusoe.ai/about/communities/abilene"
+   },
+   {
+    "para": 1,
+    "t": "Local business owners echoed that. Holly Hoemke, who owns Gypsy Rose, said the data center is \"bringing in a ton of new business,\" and Byron Stephenson of The Shed said \"our community is growing and it has been very good for small business.\"",
+    "src": "https://www.crusoe.ai/about/communities/abilene"
+   },
+   {
+    "para": 1,
+    "t": "Crusoe says its closed-loop cooling system uses almost no water in normal operation, and that it, not ratepayers, is paying for the power infrastructure.",
+    "src": "https://www.crusoe.ai/about/communities/abilene"
+   },
+   {
+    "para": 2,
+    "t": "The expansion comes as Texas regulators impose a statewide moratorium on new grid connections for large power users, in effect since August 3, 2026, while the state audits demand from data centers.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterknowledge.com/build-design/crusoe-expands-abilene-ai-campus-with-new-900mw-ai-factory-for-microsoft",
+   "https://www.crusoe.ai/about/communities/abilene"
+  ],
+  "unconfirmed": "Bloomberg's report on Oracle/OpenAI scaling back the flagship Abilene site (a cited source) could not be fetched (403); its relevance to this specific Microsoft-anchored expansion is unconfirmed. Current operating capacity is not established."
+ },
+ {
+  "id": "epoch-goodnight",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Goodnight data center campus sits on 1,300 acres near the town of Claude, in Armstrong County on the Texas Panhandle.",
+    "src": "https://abc7amarillo.com/news/local/google-announces-new-data-center-in-armstrong-county-texas-judge-adam-ensey-crusoe-energy-ercot-southwest-power-pool-claude-texas"
+   },
+   {
+    "para": 0,
+    "t": "Crusoe Energy began construction in May 2025, and completion is expected by late 2028 or early 2029.",
+    "src": "https://abc7amarillo.com/news/local/google-announces-new-data-center-in-armstrong-county-texas-judge-adam-ensey-crusoe-energy-ercot-southwest-power-pool-claude-texas"
+   },
+   {
+    "para": 0,
+    "t": "Armstrong County Judge Adam Ensey said the site would draw power from the ERCOT grid rather than the regional Southwest Power Pool: \"We are a net exporter of electricity from the Texas Panhandle through the ERCOT grid.\"",
+    "src": "https://abc7amarillo.com/news/local/google-announces-new-data-center-in-armstrong-county-texas-judge-adam-ensey-crusoe-energy-ercot-southwest-power-pool-claude-texas"
+   },
+   {
+    "para": 0,
+    "t": "Ensey said the campus's closed-loop cooling system, similar to a car radiator, would need refilling only if it leaked: \"The water usage to this data center is going to be minimal.\"",
+    "src": "https://abc7amarillo.com/news/local/google-announces-new-data-center-in-armstrong-county-texas-judge-adam-ensey-crusoe-energy-ercot-southwest-power-pool-claude-texas"
+   },
+   {
+    "para": 0,
+    "t": "The project is expected to employ 80 to 100 people, in a county that has lost population every year since 1930 and relies on farming and ranching for its tax base.",
+    "src": "https://abc7amarillo.com/news/local/google-announces-new-data-center-in-armstrong-county-texas-judge-adam-ensey-crusoe-energy-ercot-southwest-power-pool-claude-texas"
+   },
+   {
+    "para": 1,
+    "t": "In January 2026 Crusoe filed a permit for a 933 megawatt gas power plant on the campus, according to documents obtained by the research group Cleanview.",
+    "src": "https://cleanview.co/reports/google-power-strategy"
+   },
+   {
+    "para": 1,
+    "t": "The plant would not connect to the public grid. It would power two of the campus buildings directly, and its turbines could emit as much as 4.5 million tons of carbon dioxide a year, the filing shows.",
+    "src": "https://cleanview.co/reports/google-power-strategy"
+   },
+   {
+    "para": 1,
+    "t": "Satellite imagery reviewed by Cleanview in February 2026 showed those two buildings already under construction.",
+    "src": "https://cleanview.co/reports/google-power-strategy"
+   },
+   {
+    "para": 1,
+    "t": "Google said it has not yet signed a deal to buy power from the plant.",
+    "src": "https://cleanview.co/reports/google-power-strategy"
+   },
+   {
+    "para": 1,
+    "t": "The permit was filed as Texas moved toward a statewide moratorium on new grid connections for large power users, which took effect August 3, 2026. The Goodnight gas plant sidesteps that by not connecting to the grid at all.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://abc7amarillo.com/news/local/google-announces-new-data-center-in-armstrong-county-texas-judge-adam-ensey-crusoe-energy-ercot-southwest-power-pool-claude-texas",
+   "https://cleanview.co/reports/google-power-strategy"
+  ],
+  "unconfirmed": "Whether Google has since signed an offtake agreement with the gas plant is unknown."
+ },
+ {
+  "id": "epoch-google-cedar-rapids",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's proposed Cedar Rapids data center campus is planned for the Big Cedar Industrial Center, on Alliant Energy land in the southwest of the city, in Linn County, Iowa.",
+    "src": "https://corridorbusiness.com/cedar-rapids-council-advances-projects-for-proposed-google-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The Cedar Rapids City Council voted unanimously on June 11, 2024 to extend a 30-inch water main to the site and to relocate a road there, before Google had even publicly confirmed the project.",
+    "src": "https://corridorbusiness.com/cedar-rapids-council-advances-projects-for-proposed-google-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "By June 2026 the council was moving to approve a separate agreement with Google covering the data center's possible effects on the nearby Eastern Iowa Airport, after concerns that heat and steam plumes from the facility could interfere with landings and takeoffs.",
+    "src": "https://www.kcrg.com/2026/06/22/cedar-rapids-set-agreement-with-google-regarding-data-center-impacts/"
+   },
+   {
+    "para": 1,
+    "t": "The deal would also let Google get a temporary occupancy certificate for one data center building while those impacts are studied.",
+    "src": "https://www.kcrg.com/2026/06/22/cedar-rapids-set-agreement-with-google-regarding-data-center-impacts/"
+   },
+   {
+    "para": 2,
+    "t": "Linn County, where Cedar Rapids sits, adopted zoning limits on data centers on February 18, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Neighboring Johnson County considered its own moratorium starting November 8, 2025.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://corridorbusiness.com/cedar-rapids-council-advances-projects-for-proposed-google-data-center/",
+   "https://www.kcrg.com/2026/06/22/cedar-rapids-set-agreement-with-google-regarding-data-center-impacts/"
+  ],
+  "unconfirmed": "The cited MISO PDF could not be read (corrupted download). Total investment, jobs figures and current construction status for this specific campus are not established from readable sources."
+ },
+ {
+  "id": "epoch-google-fort-wayne",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's data center campus in southeast Allen County, near Fort Wayne, is now in its second construction phase.",
+    "src": "https://www.thelocalfw.com/what-to-know-about-googles-plans-for-wetlands-in-fort-wayne/"
+   },
+   {
+    "para": 0,
+    "t": "The company's investment there has grown from $845 million to at least $2 billion as AI demand has risen, and the campus is expected to grow to 12 buildings in all.",
+    "src": "https://www.thelocalfw.com/what-to-know-about-googles-plans-for-wetlands-in-fort-wayne/"
+   },
+   {
+    "para": 0,
+    "t": "Construction broke ground in April 2024.",
+    "src": "https://www.thelocalfw.com/what-to-know-about-googles-plans-for-wetlands-in-fort-wayne/"
+   },
+   {
+    "para": 1,
+    "t": "For this phase, Google is seeking approval to fill about 2.47 acres of wetlands, some protected under the Clean Water Act. Combined with the first phase, the project will destroy 8.54 acres of wetlands.",
+    "src": "https://www.thelocalfw.com/what-to-know-about-googles-plans-for-wetlands-in-fort-wayne/"
+   },
+   {
+    "para": 1,
+    "t": "Bruce Kingsbury, director of Purdue Fort Wayne's Environmental Resources Center, said small losses compound: \"When you just take a quarter acre here and a quarter acre there, over and over again, it adds up.\"",
+    "src": "https://www.thelocalfw.com/what-to-know-about-googles-plans-for-wetlands-in-fort-wayne/"
+   },
+   {
+    "para": 1,
+    "t": "Wetlands filter water and reduce flooding. Google plans to buy mitigation credits in Eel River Township, in the county's northwest, instead of restoring wetlands near the site, which Kingsbury said would not address flooding for downstream neighbors.",
+    "src": "https://www.thelocalfw.com/what-to-know-about-googles-plans-for-wetlands-in-fort-wayne/"
+   },
+   {
+    "para": 1,
+    "t": "A hyperscale data center can use up to 5 million gallons of water a day for cooling, roughly what a town of 10,000 to 50,000 people uses, the report said.",
+    "src": "https://www.thelocalfw.com/what-to-know-about-googles-plans-for-wetlands-in-fort-wayne/"
+   },
+   {
+    "para": 2,
+    "t": "Fort Wayne granted Google a 10-year, 50 percent property tax abatement.",
+    "src": "https://www.thelocalfw.com/what-to-know-about-googles-plans-for-wetlands-in-fort-wayne/"
+   },
+   {
+    "para": 2,
+    "t": "The state environmental agency IDEM took public comment on the wetlands permit through September 11, 2025.",
+    "src": "https://www.thelocalfw.com/what-to-know-about-googles-plans-for-wetlands-in-fort-wayne/"
+   }
+  ],
+  "sources": [
+   "https://www.thelocalfw.com/what-to-know-about-googles-plans-for-wetlands-in-fort-wayne/"
+  ],
+  "unconfirmed": "The outcome of IDEM's permit review after the September 2025 comment period is unknown."
+ },
+ {
+  "id": "epoch-meta-hyperion",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Diane Cobb has lived in Holly Ridge, in Richland Parish, Louisiana, since 1961. Watching Meta's Hyperion data center campus rise near her home, she said: \"It's not Holly Ridge anymore. It really isn't.\"",
+    "src": "https://www.wwno.org/public-health/2026-03-11/the-community-around-metas-data-center-has-questions-were-looking-for-answers"
+   },
+   {
+    "para": 0,
+    "t": "She said no one told residents what was coming: \"Nobody told us anything. They supposedly had a big meeting. The whole community was supposed to come. Nobody knew anything about it. Ever.\"",
+    "src": "https://www.wwno.org/public-health/2026-03-11/the-community-around-metas-data-center-has-questions-were-looking-for-answers"
+   },
+   {
+    "para": 0,
+    "t": "Joe Williams, who lives across the road from the site, said the same: \"You can't get information, and they did not send no letters out, no nothing before they ever started this.\"",
+    "src": "https://www.wwno.org/public-health/2026-03-11/the-community-around-metas-data-center-has-questions-were-looking-for-answers"
+   },
+   {
+    "para": 0,
+    "t": "His wife, Robin Williams, said: \"No one come knocked on our door.\"",
+    "src": "https://www.wwno.org/public-health/2026-03-11/the-community-around-metas-data-center-has-questions-were-looking-for-answers"
+   },
+   {
+    "para": 1,
+    "t": "Meta announced the project, a $10 billion investment, in December 2024.",
+    "src": "https://fortune.com/2026/03/26/meta-ai-data-center-hyperion-louisiana/"
+   },
+   {
+    "para": 1,
+    "t": "The campus covers 2,250 acres of former farmland near Holly Ridge, and Meta has since bought roughly 1,400 more acres next to it for a second phase.",
+    "src": "https://fortune.com/2026/03/26/meta-ai-data-center-hyperion-louisiana/"
+   },
+   {
+    "para": 1,
+    "t": "The finished complex is planned to reach 4 million square feet and run around the clock.",
+    "src": "https://fortune.com/2026/03/26/meta-ai-data-center-hyperion-louisiana/"
+   },
+   {
+    "para": 1,
+    "t": "In October 2025 Meta brought in Blue Owl Capital as a joint venture partner, which pushed the total planned cost toward $27 billion.",
+    "src": "https://fortune.com/2026/03/26/meta-ai-data-center-hyperion-louisiana/"
+   },
+   {
+    "para": 1,
+    "t": "About 3,700 construction workers were on site as of the report, with a peak of roughly 5,000 expected. Some residents say they have heard estimates as high as 8,000.",
+    "src": "https://fortune.com/2026/03/26/meta-ai-data-center-hyperion-louisiana/"
+   },
+   {
+    "para": 2,
+    "t": "Residents told WWNO their water sometimes turns brown and their electricity shuts off without notice, sometimes for days at a time.",
+    "src": "https://www.wwno.org/public-health/2026-03-11/the-community-around-metas-data-center-has-questions-were-looking-for-answers"
+   },
+   {
+    "para": 2,
+    "t": "The nearest air quality monitor is 30 miles away, in Monroe.",
+    "src": "https://www.wwno.org/public-health/2026-03-11/the-community-around-metas-data-center-has-questions-were-looking-for-answers"
+   },
+   {
+    "para": 2,
+    "t": "An elementary school playground was closed because of construction truck traffic, and the area saw a 600 percent increase in vehicle crashes, according to the report.",
+    "src": "https://www.wwno.org/public-health/2026-03-11/the-community-around-metas-data-center-has-questions-were-looking-for-answers"
+   },
+   {
+    "para": 3,
+    "t": "The building boom has split local fortunes. Chris Holyfield started a company supplying septic services to Meta's workforce and now runs 58 units on site: \"This area's about to explode.\"",
+    "src": "https://fortune.com/2026/03/26/meta-ai-data-center-hyperion-louisiana/"
+   },
+   {
+    "para": 3,
+    "t": "Holyfield also said, \"No one believed it at first. Now we're all feeling the difference.\"",
+    "src": "https://fortune.com/2026/03/26/meta-ai-data-center-hyperion-louisiana/"
+   },
+   {
+    "para": 3,
+    "t": "Katie and Logan Stewart put more than $40,000 into a food truck to feed construction crews, then lost most of that business when the main contractor brought in an out-of-state catering company: \"You talk about supporting the local community, but then you outsource the work. It felt like a slap in the face.\"",
+    "src": "https://fortune.com/2026/03/26/meta-ai-data-center-hyperion-louisiana/"
+   },
+   {
+    "para": 3,
+    "t": "In nearby Monroe, 34-year-old Erika James said her rent kept rising and she was given five days to vacate her mobile home after paying rent one day late: \"We are now having to entertain the idea of leaving the area completely. There is nowhere to go if you can't pay triple prices.\"",
+    "src": "https://fortune.com/2026/03/26/meta-ai-data-center-hyperion-louisiana/"
+   }
+  ],
+  "sources": [
+   "https://www.wwno.org/public-health/2026-03-11/the-community-around-metas-data-center-has-questions-were-looking-for-answers",
+   "https://fortune.com/2026/03/26/meta-ai-data-center-hyperion-louisiana/"
+  ],
+  "unconfirmed": "Our records also list a separate Meta Richland Parish project about 14 km away; it is unclear whether that is the same build under an earlier name or a distinct site. Two quotes were removed for lack of support in the cited Fortune report: one attributed to Monroe Mayor Friday Ellis about years of being ignored, and one attributed to journalist and activist Amber Perez about contracts not being awarded on a fair playing field. Neither person appears in the version of the story we could read."
+ },
+ {
+  "id": "meta-meta-richland-parish",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's Richland Parish data center sits near the intersection of LA-183 and I-20 in Holly Ridge, Richland Parish, Louisiana.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Meta's own project page for the site describes a campus meant to deliver 5 gigawatts of computing capacity, more than 2 gigawatts of it for training open-source large language models.",
+    "src": "https://datacenters.atmeta.com/richland-parish-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "Meta says it has invested more than $50 billion in Louisiana data center infrastructure since the project began.",
+    "src": "https://datacenters.atmeta.com/richland-parish-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The company says peak construction employed more than 7,500 skilled trade workers, with 1,000 permanent jobs once the site is complete.",
+    "src": "https://datacenters.atmeta.com/richland-parish-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "Meta says it is paying for a closed-loop glycol cooling system, which runs dry for most of the year, and covering its own power costs through a partnership with Entergy that it says will save Entergy customers $2.65 billion over 20 years.",
+    "src": "https://datacenters.atmeta.com/richland-parish-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "Meta says it has awarded more than $1.6 billion in Louisiana business contracts, put more than $1 million into local schools, and given $215 million to Entergy's bill assistance and energy efficiency programs for low and fixed income customers.",
+    "src": "https://datacenters.atmeta.com/richland-parish-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Power for the site is expected to come from the Franklin Farms plant, two 780 megawatt gas units Entergy Louisiana is building nearby, due onstream in 2028.",
+    "src": "https://www.gem.wiki/Franklin_Farms_power_station"
+   }
+  ],
+  "sources": [
+   "https://datacenters.atmeta.com/richland-parish-data-center/",
+   "https://www.gem.wiki/Franklin_Farms_power_station"
+  ],
+  "unconfirmed": "All economic and benefit figures here come from Meta's own materials rather than independent reporting. This entry sits about 14 kilometres from our separately tracked Meta Hyperion record and it is not clear from our sources whether the two describe the same build under different names or two distinct sites; see that page for independent, on-the-ground reporting about the same parish. Meta's project page calls this campus the Richland Parish Data Center and does not use the name Hyperion, so an earlier claim that the page calls it Hyperion has been removed."
+ },
+ {
+  "id": "epoch-microsoft-narvik-norway",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Narvik data centre campus, above the Arctic Circle in northern Norway, is being built by the British company Nscale.",
+    "src": "https://time.com/article/2026/06/03/ai-norway-nscale-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "Microsoft has signed a five-year, $6.2 billion deal for computing capacity from the site.",
+    "src": "https://time.com/article/2026/06/03/ai-norway-nscale-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The project is expected to use up to 520 megawatts of power once fully built, with about 230 megawatts in the first phase, due in 2027.",
+    "src": "https://time.com/article/2026/06/03/ai-norway-nscale-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "It is meant to run entirely on Norwegian hydropower, priced at 4 to 5 cents per unit, well below the European average of about 10 cents.",
+    "src": "https://time.com/article/2026/06/03/ai-norway-nscale-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Nscale expects the project to create about 200 permanent jobs. As of the report, 350 workers were on site, with numbers expected to reach 1,500 or more during construction.",
+    "src": "https://time.com/article/2026/06/03/ai-norway-nscale-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Site manager Torkjell Lund, a Narvik native, said the aim is to use local green power rather than export it.",
+    "src": "https://time.com/article/2026/06/03/ai-norway-nscale-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Norwegian lawmaker Lars Haltbrekken warned the country could see data centre power demand triple or quadruple by 2030: \"We might have an enormous amount of data centers in Norway within a few years.\"",
+    "src": "https://time.com/article/2026/06/03/ai-norway-nscale-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Katarzyna Zysk, a professor at the Norwegian military's Institute for Defence Studies, said such facilities would be \"ideal targets\" in a direct conflict, given the region's proximity to Russia.",
+    "src": "https://time.com/article/2026/06/03/ai-norway-nscale-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "Energy economists cited in the report expect electricity prices in northern Norway to double within two to three years as data center demand grows.",
+    "src": "https://time.com/article/2026/06/03/ai-norway-nscale-data-center/"
+   }
+  ],
+  "sources": [
+   "https://time.com/article/2026/06/03/ai-norway-nscale-data-center/"
+  ],
+  "unconfirmed": "The Nscale press release and datacentermap.com pages listed in our record could not be fetched (429/403); details there were not independently confirmed."
+ },
+ {
+  "id": "epoch-openai-stargate-lordstown",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Lordstown site, in Trumbull County, Ohio, is a former General Motors plant, now being converted by Foxconn and SoftBank into a factory that builds AI servers and other equipment for OpenAI's Stargate program, rather than a full data center of its own.",
+    "src": "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand"
+   },
+   {
+    "para": 0,
+    "t": "It connects to the grid through Foxconn's existing substation.",
+    "src": "data:source_notes"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI estimates the facility's own capacity at under 0.3 gigawatts, with combined capacity at Lordstown and OpenAI's much larger Milam County, Texas site targeted to reach 1.5 gigawatts by 2027.",
+    "src": "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand"
+   },
+   {
+    "para": 1,
+    "t": "In October 2025 the Lordstown Village Council began advancing an ordinance to ban future data centers in the village, though the Foxconn/OpenAI facility already under construction would be allowed to proceed.",
+    "src": "https://www.tribtoday.com/news/local-news/2025/10/lordstown-starts-process-to-ban-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "The council gave the ordinance a first reading on October 7, 2025, with a second scheduled for October 20.",
+    "src": "https://www.tribtoday.com/news/local-news/2025/10/lordstown-starts-process-to-ban-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "Residents raised concerns about noise, well contamination and whether the local fire department could handle an electrical fire at a large data center. Resident Phillip Fisher said: \"A committee needs to be put together to do more research on data centers and establish a set of rules and if the rules are not met, there should be a hefty fine.\"",
+    "src": "https://www.tribtoday.com/news/local-news/2025/10/lordstown-starts-process-to-ban-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "Ohio already had 167 data centers statewide at the time, the paper reported.",
+    "src": "https://www.tribtoday.com/news/local-news/2025/10/lordstown-starts-process-to-ban-data-centers/"
+   },
+   {
+    "para": 1,
+    "t": "In neighboring Hubbard, residents separately petitioned against a proposed data center at the Deer Creek Golf Course, a project called Milo.",
+    "src": "https://www.tribtoday.com/news/local-news/2025/10/lordstown-starts-process-to-ban-data-centers/"
+   }
+  ],
+  "sources": [
+   "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand",
+   "https://www.tribtoday.com/news/local-news/2025/10/lordstown-starts-process-to-ban-data-centers/"
+  ],
+  "unconfirmed": "Whether the village ultimately passed the ban on its second reading is unknown; the Data Center Dynamics report on that outcome could not be fetched (403)."
+ },
+ {
+  "id": "epoch-openai-stargate-michigan",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Related Companies is building a data center campus known locally as \"The Barn\" on 250 acres in Saline Township, Washtenaw County, for Oracle and OpenAI.",
+    "src": "https://www.related-digital.com/michigan"
+   },
+   {
+    "para": 0,
+    "t": "Related's own materials describe more than 1 gigawatt of capacity across three 550,000-square-foot buildings, with more than 750 acres set aside as preserved farmland, wetlands and woodland.",
+    "src": "https://www.related-digital.com/michigan"
+   },
+   {
+    "para": 0,
+    "t": "DTE Energy is supplying the power, from existing resources plus new battery storage, according to the developer.",
+    "src": "https://www.related-digital.com/michigan"
+   },
+   {
+    "para": 1,
+    "t": "The township board voted 4 to 1 on September 10, 2025 to deny rezoning for the project.",
+    "src": "https://planetdetroit.org/2026/07/data-center-news-saline-township/"
+   },
+   {
+    "para": 1,
+    "t": "Related sued, and on October 15, 2025 the two sides reached a consent judgment allowing the project to proceed on farmland north of Michigan Avenue.",
+    "src": "https://planetdetroit.org/2026/07/data-center-news-saline-township/"
+   },
+   {
+    "para": 2,
+    "t": "The fight that followed was over how much of the project the township could tax. On July 14, 2026 the board voted unanimously to cap a 12-year, 50 percent property tax abatement at the project's original $4.8 billion valuation, even though the project's value had grown to about $43 billion, a step that would have cut Oracle's tax break from a potential $147 million a year to less than $20 million.",
+    "src": "https://bridgemi.com/business-watch/massive-data-center-wins-local-tax-break-but-9-times-smaller-than-requested/"
+   },
+   {
+    "para": 2,
+    "t": "Residents packed two meetings, one running nearly two hours of public comment, to push the board toward the cap.",
+    "src": "https://bridgemi.com/business-watch/massive-data-center-wins-local-tax-break-but-9-times-smaller-than-requested/"
+   },
+   {
+    "para": 2,
+    "t": "Eight days later, on July 22, the board reversed itself and lifted the cap after township attorney David Landry warned trustees: \"You're going to get sued for violating consent judgment, and you're going to lose.\"",
+    "src": "https://www.cbsnews.com/detroit/news/saline-township-reverses-vote-limit-oracles-data-center-tax-break/"
+   },
+   {
+    "para": 2,
+    "t": "The reversal drew boos and shouts of \"shame\" from the audience. Democratic candidate Yousef Rabhi urged the board to stand up for its community rather than the corporation, and a GoFundMe to help pay the township's legal costs raised more than $5,000.",
+    "src": "https://www.cbsnews.com/detroit/news/saline-township-reverses-vote-limit-oracles-data-center-tax-break/"
+   },
+   {
+    "para": 2,
+    "t": "The board kept a clawback clause letting it recover the tax break if the project is never finished or later shuts down.",
+    "src": "https://bridgemi.com/business-watch/massive-data-center-wins-local-tax-break-but-9-times-smaller-than-requested/"
+   },
+   {
+    "para": 3,
+    "t": "On August 12, 2026 resident Kathryn Haushalter and attorney Ellis Boal filed a challenge with the Michigan State Tax Commission, arguing the township never legally created the industrial development district Oracle's tax break depends on because it skipped a required public hearing.",
+    "src": "https://civicmedia.us/news/2026/08/14/in-bid-to-stop-saline-data-center-tax-break-an-attorney-argues-the-township-skipped-crucial-steps"
+   },
+   {
+    "para": 3,
+    "t": "Boal noted Oracle began construction on February 6, 2026, before the exemption paperwork that is supposed to precede it was filed.",
+    "src": "https://civicmedia.us/news/2026/08/14/in-bid-to-stop-saline-data-center-tax-break-an-attorney-argues-the-township-skipped-crucial-steps"
+   },
+   {
+    "para": 3,
+    "t": "The challenge was still pending as of the report.",
+    "src": "https://civicmedia.us/news/2026/08/14/in-bid-to-stop-saline-data-center-tax-break-an-attorney-argues-the-township-skipped-crucial-steps"
+   },
+   {
+    "para": 4,
+    "t": "The fight here sits inside a wider wave. Since late 2025 at least a dozen other Washtenaw County communities, including Ann Arbor Township, the city of Ypsilanti, Ypsilanti Township, Manchester Township, Northville, South Lyon and Wixom, have passed moratoriums or zoning limits on data centers.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "In Augusta Township, voters rejected a rezoning sought by a separate data center project in an August 2026 referendum.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "Ypsilanti's water utility passed its own moratorium that specifically blocks two other proposed projects nearby, one from the University of Michigan and Los Alamos National Laboratory and another from Thor Equities in Augusta Township.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.related-digital.com/michigan",
+   "https://planetdetroit.org/2026/07/data-center-news-saline-township/",
+   "https://bridgemi.com/business-watch/massive-data-center-wins-local-tax-break-but-9-times-smaller-than-requested/",
+   "https://www.cbsnews.com/detroit/news/saline-township-reverses-vote-limit-oracles-data-center-tax-break/",
+   "https://civicmedia.us/news/2026/08/14/in-bid-to-stop-saline-data-center-tax-break-an-attorney-argues-the-township-skipped-crucial-steps"
+  ],
+  "unconfirmed": "The Michigan Public Service Commission's own release on DTE's energy contracts for this project (a cited source) could not be fetched (403), so its specific terms are not confirmed here. The tax commission challenge's outcome was still pending as of the latest report."
+ },
+ {
+  "id": "epoch-openai-stargate-milam",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Milam County data center campus is being built by SB Energy, a SoftBank subsidiary, on a 595-acre site in Burlington, Texas, for OpenAI's Stargate program.",
+    "src": "https://baxtel.com/data-center/openai-stargate-milam-county-tx"
+   },
+   {
+    "para": 0,
+    "t": "SB Energy had previously described it as a $3 billion campus.",
+    "src": "https://baxtel.com/data-center/openai-stargate-milam-county-tx"
+   },
+   {
+    "para": 0,
+    "t": "OpenAI selected SB Energy to build and operate the 1.2 gigawatt facility.",
+    "src": "https://sbenergy.com/openai-and-softbank-group-partner-with-sb-energy/"
+   },
+   {
+    "para": 0,
+    "t": "In January 2026 OpenAI and SoftBank each put $500 million into SB Energy to help fund it, part of the wider $500 billion Stargate initiative.",
+    "src": "https://sbenergy.com/openai-and-softbank-group-partner-with-sb-energy/"
+   },
+   {
+    "para": 0,
+    "t": "SB Energy says it is building new on-site power generation to supply the campus and to avoid pushing costs onto Texas ratepayers, and that the design is meant to minimize water use.",
+    "src": "https://sbenergy.com/openai-and-softbank-group-partner-with-sb-energy/"
+   },
+   {
+    "para": 1,
+    "t": "Epoch AI reported steel framing and roofing underway by March 2026, with the first building targeted for October 2026 and the full project due to finish in the fourth quarter of 2028.",
+    "src": "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand"
+   },
+   {
+    "para": 1,
+    "t": "The project is part of a broader July 2025 agreement between OpenAI and Oracle for up to 4.5 gigawatts of additional Stargate capacity.",
+    "src": "https://baxtel.com/data-center/openai-stargate-milam-county-tx"
+   }
+  ],
+  "sources": [
+   "https://baxtel.com/data-center/openai-stargate-milam-county-tx",
+   "https://sbenergy.com/openai-and-softbank-group-partner-with-sb-energy/",
+   "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand"
+  ],
+  "unconfirmed": "Local news coverage of the site (KVUE, KCEN) returned 403 errors and could not be read directly, so any claims about the site's former industrial use or specific job counts from those outlets are omitted."
+ }
+]

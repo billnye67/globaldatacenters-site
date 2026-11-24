@@ -1,0 +1,752 @@
+[
+ {
+  "id": "ft-1767731168400-3957",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The land for this one comes from a trucking company, and the power from a remediated coal plant.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "In late December 2025 Jet.AI announced a joint venture with Choo Choo Express LLC to develop a 50 megawatt data center campus on about 20 acres at Moapa, in Clark County, with Choo Choo Express contributing the land.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Jet.AI expects to put in around $10 million over about two years, against development and infrastructure milestones, and puts the enterprise value of the finished campus at about $500 million.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The site sits next to a remediated coal-fired power plant with existing electricity transmission, gas, fibre, water and road access; the former coal mine now runs as a 200 megawatt battery storage facility.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Choo Choo Express is described as bringing thousands of contractors and forty years of development experience in the state.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The land around it is already covered in solar.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "A 220 megawatt battery installation at Reid Gardner is four kilometres away, the 300 megawatt Eagle Shadow Mountain solar farm eight kilometres, the 250 megawatt Moapa Southern Paiute solar plant 22 kilometres, and the 1,070 megawatt Gemini solar hybrid project 29.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The Moapa Band of Paiutes has its reservation in this valley, and the solar plant named for it sits on tribal land.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded at 50 megawatts on 20 acres, proposed, with no developer field filled in and pushback marked unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "No jurisdiction anywhere near here has adopted a data center moratorium, ban or zoning limit on record, and there is no other data center site within 40 kilometres.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The grid is Nevada Power, which peaks at 9,058 megawatts.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Three searches were run: Jet.AI with Choo Choo Express, Moapa and the 50 megawatt figure; the joint venture announcement; and Clark County data center activity. Everything found came from the company's announcement, wire copy, an SEC filing and trade press; the Data Center Dynamics report in our record is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. No county filing, permit or construction date has been found. No water figure has been published. No local resident or official has been quoted anywhere we found, and we could not establish whether the Moapa Band of Paiutes has any position on the project or any interest in the land. Whether the joint venture has closed is unknown."
+ },
+ {
+  "id": "ft-1764305284386-6651",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Reno approved three data centers and then stopped approving them.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "In early June 2026 the Reno city council, in Washoe County, voted to keep a moratorium on new data centers in place until August 31, 2027, or until the city adopts regulations of its own.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Existing buildings and those already under construction are exempt, including this one.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "City officials had approved three data centers in the previous eighteen months, run by Colovore, Oppidan and Centra.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "This entry is Centra's second Reno building, at 265 Keystone Avenue, listed on record as under construction at 12 megawatts.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "A Lumen mini data center of two megawatts sits at the same coordinates.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The reason the council acted is visible in the surrounding entries.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Ten other recorded data center sites sit within 29 kilometres, including Google's operating Storey County campus at 161 megawatts, Apple's Reno site, Vantage's, EdgeCore's, and two Tract land holdings covering 8,590 and 686 acres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "Councilmember Devon Reese proposed running the pause to August 2027 so the city could take evidence and see what the state legislature does in its session from February to June 2027.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The generation nearby is modest by comparison.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The 954 megawatt Tracy gas plant is 26 kilometres away, a 60 megawatt solar farm the same distance, and the 117 megawatt Western 102 plant 27 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The record dates the Reno moratorium from June 1, 2026 to June 30, 2027, which does not match the August 31, 2027 end date in the reporting.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Everything found came from search summaries of Nevada Current, the Nevada Independent and local outlets that were not fetched, and the Data Center Dynamics report in our record is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. The end date of the moratorium in our record, June 30, 2027, conflicts with the August 31, 2027 date in the reporting. Nothing specific about this building's size, cost, customers or water use was found, and no resident objection to it. Our record gives the developer field as empty though the entry is named Centra."
+ },
+ {
+  "id": "ft-376",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Environmental groups fought this one and lost, and then the city stopped taking applications.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "In January 2025 the Reno City Council, in Washoe County, upheld the planning commission's decision to grant a conditional use permit for the Webb data center in the North Valleys, on North Virginia Street, over objections from environmental groups.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "A further approval followed in March 2025.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The building is recorded as under construction at 28 megawatts, with an Oppidan data center of eight megawatts at the same coordinates.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "By the following summer the council had changed course.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "In early June 2026 it voted to keep a moratorium on new data centers running until August 31, 2027, or until Reno adopts regulations, exempting buildings already approved or under construction, including the Oppidan and Keystone projects.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Councilmember Devon Reese wanted the pause to last long enough to see what the state legislature does in its 2027 session.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The North Valleys sit at the edge of a very large cluster.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Ten other recorded data center sites lie within 35 kilometres, among them Google's 161 megawatt Storey County campus, Apple's Reno site at Sparks, Vantage, EdgeCore, PowerHouse, Novva and two Tract land holdings of 8,590 and 686 acres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generators are a 60 megawatt solar farm and the 954 megawatt Tracy gas plant, both 31 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "The record dates the Reno moratorium from June 1, 2026 to June 30, 2027, which does not match the reporting.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "It marks pushback at this site as unknown, though the record's own sources describe environmental groups opposing it.",
+    "src": "data:fractracker"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Both Reno Gazette-Journal reports in our record could not be fetched, so no source url is listed and each sentence is attributed to our record's source list. As a result no council member, resident or campaigner is quoted, and which environmental groups objected, and on what grounds, could not be established. The developer behind the Webb data center is not named in our record or in anything found. No water figure has been published. Whether construction has finished is unknown."
+ },
+ {
+  "id": "ft-381",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The land is wetland, and it borders a national wildlife refuge and the Tonawanda Seneca Nation.",
+    "src": "https://www.thebatavian.com/howard-owens/dozens-of-speakers-tell-gcedc-proposed-data-centers-pose-big-environmental-threat-for"
+   },
+   {
+    "para": 0,
+    "t": "On February 4, 2025 more than fifty people came to the Alabama Volunteer Fire Department recreation hall in Genesee County, and more than two dozen spoke against data centers proposed at the STAMP site.",
+    "src": "https://www.thebatavian.com/howard-owens/dozens-of-speakers-tell-gcedc-proposed-data-centers-pose-big-environmental-threat-for"
+   },
+   {
+    "para": 0,
+    "t": "Three proposals were on the table that night, from STREAM US Data Centers LLC, Project Rampart LLC and Potentia Holdings LLC, each over 750,000 square feet, which speakers put at more than thirteen football fields, costing between $2.2 billion and $6.32 billion and promising 100 to 200 jobs each.",
+    "src": "https://www.thebatavian.com/howard-owens/dozens-of-speakers-tell-gcedc-proposed-data-centers-pose-big-environmental-threat-for"
+   },
+   {
+    "para": 1,
+    "t": "The figures residents kept returning to were water and power.",
+    "src": "https://www.thebatavian.com/howard-owens/dozens-of-speakers-tell-gcedc-proposed-data-centers-pose-big-environmental-threat-for"
+   },
+   {
+    "para": 1,
+    "t": "The Potentia proposal alone was described as needing 195 megawatts, and the projects together 800,000 gallons of fresh water a day plus six million gallons a day drawn from the Niagara River.",
+    "src": "https://www.thebatavian.com/howard-owens/dozens-of-speakers-tell-gcedc-proposed-data-centers-pose-big-environmental-threat-for"
+   },
+   {
+    "para": 1,
+    "t": "Speakers raised the destruction of wetland inside a 20,000 acre network, and the threat to short-eared owls and monarch butterflies in the Tonawanda Wildlife Management Area.",
+    "src": "https://www.thebatavian.com/howard-owens/dozens-of-speakers-tell-gcedc-proposed-data-centers-pose-big-environmental-threat-for"
+   },
+   {
+    "para": 1,
+    "t": "Dr Kirk Scirto called them \"parasitic centers that would suck up an immense amount of the drinking water\".",
+    "src": "https://www.thebatavian.com/howard-owens/dozens-of-speakers-tell-gcedc-proposed-data-centers-pose-big-environmental-threat-for"
+   },
+   {
+    "para": 2,
+    "t": "Maggie Cowen said: \"this is one of the few natural areas remaining in this region of the state, and it seems ridiculous to throw away.\"",
+    "src": "https://www.thebatavian.com/howard-owens/dozens-of-speakers-tell-gcedc-proposed-data-centers-pose-big-environmental-threat-for"
+   },
+   {
+    "para": 2,
+    "t": "Diane Sirczyk of the Sierra Club said: \"Data centers around the country are notoriously dirty and noisy consumers of vast amounts of electricity.\"",
+    "src": "https://www.thebatavian.com/howard-owens/dozens-of-speakers-tell-gcedc-proposed-data-centers-pose-big-environmental-threat-for"
+   },
+   {
+    "para": 2,
+    "t": "Angela Carlson put the Indigenous objection: \"One cannot claim to care about the environment while continuing to disregard and disrespect the rights of Indigenous peoples.\"",
+    "src": "https://www.thebatavian.com/howard-owens/dozens-of-speakers-tell-gcedc-proposed-data-centers-pose-big-environmental-threat-for"
+   },
+   {
+    "para": 3,
+    "t": "The entry stands as Project Double Reed, proposed at 500 megawatts on 1,263 acres, costing $6.3 billion, with the Genesee County Economic Development Corporation, Plug Power and Edwards Vacuum in the developer field.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "It holds a change.org petition asking that STAMP not destroy wetlands in the Iroquois National Wildlife Refuge, and a campaign page run by Allies of the Tonawanda Seneca Nation.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "Its sources include reports that approvals were rescinded in September 2025 and that the project could then grow, and a New York Times piece from March 2026; neither could be fetched.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "New York State has since paused this kind of development.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The record shows a statewide moratorium running from June 4, 2026 to June 4, 2027, alongside a local one at Mount Morris from January 27, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 5,
+    "t": "Four other recorded data center sites sit 30 to 37 kilometres away, towards Buffalo and Lockport, three of them already operating.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 5,
+    "t": "The nearest generator is the 219 megawatt Lockport Energy plant, 29 kilometres off, with two wind farms of 112 and 94 megawatts at 34 and 36.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.thebatavian.com/howard-owens/dozens-of-speakers-tell-gcedc-proposed-data-centers-pose-big-environmental-threat-for"
+  ],
+  "unconfirmed": "The Batavian report covers a February 2025 hearing on three proposals and does not mention Project Double Reed by name, so the relationship between that hearing and our record's entry is not established. A claim that Scirto warned of at least 500 tons of carbon dioxide a year is not in it, and his words about drinking water are quoted instead. The New York Times account from March 2026, the Democrat and Chronicle report that approvals were rescinded in September 2025, the Truthout piece describing a billionaire backer, and the Daily News report of a 2.2 million square foot SEQR application all could not be fetched, so the current state of the project, its ownership and the legal position are unknown. The Tonawanda Seneca Nation's own position is referred to in our record's campaign links but no statement from the Nation itself could be read. The 500 megawatt and 1,263 acre figures in our record are not confirmed by anything read."
+ },
+ {
+  "id": "ft-1777412785651-2157",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A convent stood here until it burned down.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Kenwood Commons, where a data center is now proposed, is 76 acres on a hill off Southern Boulevard in Albany, the former site of the Doane Stuart School and the Kenwood convent, whose vacant building was destroyed by fire in 2023.",
+    "src": "https://cbs6albany.com/news/local/albany-data-center-proposal-faces-new-questions-after-hochuls-statewide-moratorium-kenwood-doane-new-york-wrgb"
+   },
+   {
+    "para": 0,
+    "t": "Guild Ventures, which owns it, proposes a mixed use technology campus costing billions and anchored by a data center: about 500,000 square feet of data center space, research and laboratory buildings, offices and nearly 300 flats.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The power request is the number that matters.",
+    "src": "https://cbs6albany.com/news/local/albany-data-center-proposal-faces-new-questions-after-hochuls-statewide-moratorium-kenwood-doane-new-york-wrgb"
+   },
+   {
+    "para": 1,
+    "t": "The developer has asked for 180 megawatts for the whole site at full build, of which the data center alone could take up to 100.",
+    "src": "https://cbs6albany.com/news/local/albany-data-center-proposal-faces-new-questions-after-hochuls-statewide-moratorium-kenwood-doane-new-york-wrgb"
+   },
+   {
+    "para": 1,
+    "t": "That is double the threshold in Governor Kathy Hochul's one year moratorium, which pauses certain state environmental permits for data centers of 50 megawatts and above while New York works out rules on energy demand, water, air quality and the effect on utilities.",
+    "src": "https://cbs6albany.com/news/local/albany-data-center-proposal-faces-new-questions-after-hochuls-statewide-moratorium-kenwood-doane-new-york-wrgb"
+   },
+   {
+    "para": 2,
+    "t": "No formal application has been filed with the city.",
+    "src": "https://cbs6albany.com/news/local/albany-data-center-proposal-faces-new-questions-after-hochuls-statewide-moratorium-kenwood-doane-new-york-wrgb"
+   },
+   {
+    "para": 2,
+    "t": "Michael-Henry Elghanian-Krayem, a director of Guild Ventures, is the developer named.",
+    "src": "https://cbs6albany.com/news/local/albany-data-center-proposal-faces-new-questions-after-hochuls-statewide-moratorium-kenwood-doane-new-york-wrgb"
+   },
+   {
+    "para": 2,
+    "t": "Owusu Anane, who represents the 10th Ward on the Albany Common Council, said: \"We've seen many promises being made as it relates to data centers, but it's had an adverse impact on various communities, particularly when it comes to the water or even the utility bills.\"",
+    "src": "https://cbs6albany.com/news/local/albany-data-center-proposal-faces-new-questions-after-hochuls-statewide-moratorium-kenwood-doane-new-york-wrgb"
+   },
+   {
+    "para": 2,
+    "t": "He added: \"We need to make sure that we're protecting our water infrastructure, but also protecting residents from utility bills skyrocketing. So right now, this pause, I believe, is a step in the right direction.\"",
+    "src": "https://cbs6albany.com/news/local/albany-data-center-proposal-faces-new-questions-after-hochuls-statewide-moratorium-kenwood-doane-new-york-wrgb"
+   },
+   {
+    "para": 2,
+    "t": "Asked whether data centers benefit Albany residents, he said the decision \"needs to be led by the residents of those communities that are going to be impacted the most\"; neighbours have held rallies and pressed the city to consider other uses for the hill, including affordable housing.",
+    "src": "https://cbs6albany.com/news/local/albany-data-center-proposal-faces-new-questions-after-hochuls-statewide-moratorium-kenwood-doane-new-york-wrgb"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded at 100 megawatts on 76 acres, proposed, with Edge given as the developer, and resistance marked as an emerging concern.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Its only source is a Google Drive file, which was not opened.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "The generation around it is large and close.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "The 816 megawatt Bethlehem Energy Center is four kilometres away, the 580 megawatt Empire Generating plant and a 79 megawatt cogeneration plant two kilometres, and the 353 megawatt Selkirk cogeneration plant nine.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "This is the only data center site recorded in Albany County.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://cbs6albany.com/news/local/albany-data-center-proposal-faces-new-questions-after-hochuls-statewide-moratorium-kenwood-doane-new-york-wrgb"
+  ],
+  "unconfirmed": "The 34 slide presentation and the full scale of the mixed use scheme come from search summaries of Times Union and other Albany reporting that was not fetched, and are attributed to our record's source list. Our record names Edge as the developer while the reporting names Guild Ventures and its director Michael-Henry Elghanian-Krayem; whether Edge is a partner, a brand for the data center element or an error could not be established. The date of the governor's executive order is given in our record's moratorium field as June 4, 2026 but is not stated in the report read here. No water figure has been published. Whether an application has been filed since, and whether the moratorium applies to a project with no permit application, are both unresolved."
+ },
+ {
+  "id": "ft-1779984485357-9169",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "No data center has been proposed at Camp Monterey, and no developer has put its name to one.",
+    "src": "https://www.fingerlakes1.com/2026/05/27/foild-emails-fuel-concern-over-possible-data-center-interest-at-former-camp-monterey-site/"
+   },
+   {
+    "para": 0,
+    "t": "What exists is a set of emails obtained under New York's freedom of information law and published on May 27, 2026, between Judy McKinney Cherry, executive director of FLX Gateway, and Greg Hering, co-founder and director of development at ClearPath Energy, discussing data barns at Beaver Dams, in Schuyler County, and other places in the Southern Tier.",
+    "src": "https://www.fingerlakes1.com/2026/05/27/foild-emails-fuel-concern-over-possible-data-center-interest-at-former-camp-monterey-site/"
+   },
+   {
+    "para": 0,
+    "t": "In November 2025 Hering asked about industrial electrical service, water storage and the capacity of the wastewater treatment plant; on January 23, 2026 the exchange turned to data barns, data center conferences and fibre plans.",
+    "src": "https://www.fingerlakes1.com/2026/05/27/foild-emails-fuel-concern-over-possible-data-center-interest-at-former-camp-monterey-site/"
+   },
+   {
+    "para": 1,
+    "t": "The former Camp Monterey property has three productive wells yielding about 140,000 gallons a day, sits near a 115 kilovolt line and has natural gas about half a mile off.",
+    "src": "https://www.fingerlakes1.com/2026/05/27/foild-emails-fuel-concern-over-possible-data-center-interest-at-former-camp-monterey-site/"
+   },
+   {
+    "para": 1,
+    "t": "One message says simply: \"I only need 4 acres, lots of power and gas.\"",
+    "src": "https://www.fingerlakes1.com/2026/05/27/foild-emails-fuel-concern-over-possible-data-center-interest-at-former-camp-monterey-site/"
+   },
+   {
+    "para": 1,
+    "t": "Seneca Lake Guardian, the group that has spent years fighting the cryptocurrency operation at Dresden, obtained the emails and shared screenshots publicly.",
+    "src": "https://www.fingerlakes1.com/2026/05/27/foild-emails-fuel-concern-over-possible-data-center-interest-at-former-camp-monterey-site/"
+   },
+   {
+    "para": 2,
+    "t": "The towns around Schuyler County have not waited for an application.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The record shows Dryden banning data centers on February 27, 2026, Danby on May 26, Ulysses adopting zoning limits on April 7, and Newfield a year long moratorium from July 14, alongside the statewide pause running from June 4, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The entry stands as proposed with no acreage, no capacity and no cost, and FLX Gateway as the developer.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "FLX Gateway is an economic development body rather than a data center company, which is why the emails matter: they are the only public record of the interest.",
+    "src": "https://www.fingerlakes1.com/2026/05/27/foild-emails-fuel-concern-over-possible-data-center-interest-at-former-camp-monterey-site/"
+   },
+   {
+    "para": 4,
+    "t": "The only other data center site recorded within 40 kilometres is the Vulcan plant at Dresden, 38 kilometres away, which is a gas power station running cryptocurrency mining beside Seneca Lake.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generator is that same plant, the 105 megawatt Greenidge station, with wind farms of 55, 88 and 130 megawatts between 43 and 47 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.fingerlakes1.com/2026/05/27/foild-emails-fuel-concern-over-possible-data-center-interest-at-former-camp-monterey-site/"
+  ],
+  "unconfirmed": "No proposal has been submitted and no developer has been identified beyond the two people in the emails, so there is no acreage, no capacity, no cost and no timetable. Whether the town of Dix or Schuyler County has taken any position could not be established; the report does not say. Neither Cherry nor Hering is quoted responding to the disclosure. The message about needing four acres is undated in the report and it is not clear whether it relates to this site or another. Our record treats this as a proposed project; on the evidence available it is an expression of interest recorded in correspondence."
+ },
+ {
+  "id": "ft-1763170035575-2992",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Indian Point stopped making electricity in 2021, and Holtec wants to sell 200 megawatts of it to a data center instead.",
+    "src": "https://peekskillherald.com/21026/environment/holtec-tells-decommissioning-board-it-wants-to-bring-data-center-to-indian-point/"
+   },
+   {
+    "para": 0,
+    "t": "The company, which took ownership of the site at Buchanan, in Westchester County, in May 2021 to decommission it, told the Indian Point Decommissioning Oversight Board on December 5, 2024 that it had asked the New York Independent System Operator that October for 200 megawatts of grid power.",
+    "src": "https://peekskillherald.com/21026/environment/holtec-tells-decommissioning-board-it-wants-to-bring-data-center-to-indian-point/"
+   },
+   {
+    "para": 0,
+    "t": "The plan is for the 240 acre site, and specifically the training building area, to anchor an initiative Holtec calls HI-CLOUD: a million square foot, 200 megawatt utility-ready data center.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "There is no customer.",
+    "src": "https://peekskillherald.com/21026/environment/holtec-tells-decommissioning-board-it-wants-to-bring-data-center-to-indian-point/"
+   },
+   {
+    "para": 1,
+    "t": "Holtec vice president Frank Spagnuolo told the board: \"Currently we have no offer. We're not working with any outside Amazon, Microsoft, nobody, for a data center or anything.\"",
+    "src": "https://peekskillherald.com/21026/environment/holtec-tells-decommissioning-board-it-wants-to-bring-data-center-to-indian-point/"
+   },
+   {
+    "para": 2,
+    "t": "The board had other things on its mind.",
+    "src": "https://peekskillherald.com/21026/environment/holtec-tells-decommissioning-board-it-wants-to-bring-data-center-to-indian-point/"
+   },
+   {
+    "para": 2,
+    "t": "Richard Webster of Riverkeeper raised caesium-137, found in July in one surface soil sample near the training building: \"It's never good when you find radioactive materials that you don't expect to be there.\"",
+    "src": "https://peekskillherald.com/21026/environment/holtec-tells-decommissioning-board-it-wants-to-bring-data-center-to-indian-point/"
+   },
+   {
+    "para": 2,
+    "t": "Spagnuolo said the area \"was not identified as an area of concern. We did not expect to see any cesium or any radioactive components there at all.\"",
+    "src": "https://peekskillherald.com/21026/environment/holtec-tells-decommissioning-board-it-wants-to-bring-data-center-to-indian-point/"
+   },
+   {
+    "para": 2,
+    "t": "The environmental lawyer Susan Shapiro framed it as a choice: \"AI has no interest in human life, so we have to choose, are we going to support AI that really has no use for us as human beings and life and the health things that we need to live like clean water and clean air.\"",
+    "src": "https://peekskillherald.com/21026/environment/holtec-tells-decommissioning-board-it-wants-to-bring-data-center-to-indian-point/"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded at 200 megawatts, proposed, with no acreage, no cost and no developer field filled in, and pushback marked unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Its sources are a New York Independent System Operator planning document and a Holtec press release, neither of which was read.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "New York State's moratorium, running from June 4, 2026 to June 4, 2027, covers data centers of 50 megawatts and above, and East Fishkill has a three year moratorium from June 25, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generators are a 51 megawatt waste-to-energy plant a kilometre away and the 1,160 megawatt Bowline Point plant across the river at seven kilometres.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "Four other recorded data center sites sit within 37 kilometres, including a suspended 1,000 megawatt proposal at 31.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://peekskillherald.com/21026/environment/holtec-tells-decommissioning-board-it-wants-to-bring-data-center-to-indian-point/"
+  ],
+  "unconfirmed": "The board meeting was December 5, 2024, which the page had guessed at December 2025; the request to the system operator was therefore made in October 2024, and nothing found says what has happened since. The HI-CLOUD name, the million square feet and the utility-ready description are not in the report read here and come from our record's source list, which includes a Holtec press release that was not opened. Whether the New York Independent System Operator has responded to the 200 megawatt request is unknown, as is whether the statewide moratorium adopted in June 2026 affects it. The caesium finding is reported as unexpected and under investigation, with no conclusion published; the half life of about thirty years and the suggestion that it came from a reactor are not in that report. No water figure has been given, which matters at a site whose cooling water intake from the Hudson was contentious for decades. Reports elsewhere describe Holtec officials discussing a restart of the reactors; that is a separate question and is not covered here."
+ },
+ {
+  "id": "ft-1768453625879-6878",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one was cancelled from Texas.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Tesla had pledged $500 million over five years for its Dojo supercomputer, a data center at the Riverbend factory at 1339 South Park Avenue in Buffalo, in Erie County, including at least $350 million by the end of 2025 and the rest by the end of 2029, with the machine expected to take about 100,000 square feet of the building.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "In August 2025 Elon Musk shut Dojo down and moved the work to a different supercomputer, Cortex, at Tesla's plant in Austin.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The Buffalo investment did not happen.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Riverbend is the plant New York State built.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Employment there stood at 1,808 at the end of December 2024.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The cancellation is another setback for a site the state has spent heavily on in the hope of the jobs.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The entry stands as cancelled, with no capacity, no acreage and no cost, and marks pushback as unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "No megawatt figure was ever published for Dojo at Buffalo.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "Western New York has a great deal of this kind of development, much of it in former industrial buildings.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Seven other recorded data center sites sit within 35 kilometres, including a suspended 600 megawatt scheme at the Riverview Innovation and Technology Campus 15 kilometres away, a 140 megawatt Urbacon campus under construction at Niagara at 30, a proposed 600 megawatt site at 33, and two operating cryptocurrency-era plants at North Tonawanda and BlockFusion.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "New York State's moratorium on data centers of 50 megawatts and above runs from June 4, 2026 to June 4, 2027.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generators are a 52 megawatt gas plant 21 kilometres away, the 219 megawatt Lockport Energy plant at 34, and the 240 megawatt Lewiston Niagara pumped storage plant at 35.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Everything about the pledge, the shutdown and the Riverbend employment figure comes from wire copy and trade coverage in our record's source list, none of it fetched, so no source url is listed. No megawatt figure was ever published for Dojo at Buffalo. No state official, Tesla representative or Buffalo resident is quoted. What the space will be used for now is unknown."
+ },
+ {
+  "id": "ft-1763415612655-9636",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Yvonne Taylor's drinking water comes out of Seneca Lake through a pipe that runs down the hill from her house.",
+    "src": "https://insideclimatenews.org/news/10052025/new-york-bitcoin-mines-buying-up-power-plants/"
+   },
+   {
+    "para": 0,
+    "t": "She is vice president of Seneca Lake Guardian, and her worry about the power plant and data center at Dresden, in Yates County, is specific: \"If there's a harmful algal bloom in front of my water source, I can't use my water at all. I can't flush the toilet, I can't shower, I can't bathe.\"",
+    "src": "https://insideclimatenews.org/news/10052025/new-york-bitcoin-mines-buying-up-power-plants/"
+   },
+   {
+    "para": 1,
+    "t": "The plant was coal and is now gas, and Taylor says it set the pattern: \"The Greenidge facility actually became the test case for how 49 other underutilized or decommissioned power plants across the state could turn to bitcoin or cryptocurrency mining and be resurrected.\"",
+    "src": "https://insideclimatenews.org/news/10052025/new-york-bitcoin-mines-buying-up-power-plants/"
+   },
+   {
+    "para": 1,
+    "t": "Atlas Holdings bought it in 2014, and a bitcoin mine started there in March 2020.",
+    "src": "https://insideclimatenews.org/news/10052025/new-york-bitcoin-mines-buying-up-power-plants/"
+   },
+   {
+    "para": 1,
+    "t": "In 2018, running only as a peaker, it produced 203,918 megawatt hours for the state grid; by 2020 it supplied 215,588 to the grid and made a further 132,215 for the bitcoin mine.",
+    "src": "https://insideclimatenews.org/news/10052025/new-york-bitcoin-mines-buying-up-power-plants/"
+   },
+   {
+    "para": 1,
+    "t": "Court filings put projected emissions from 2022 to 2026 at more than six times the plant's average before it turned to cryptocurrency.",
+    "src": "https://insideclimatenews.org/news/10052025/new-york-bitcoin-mines-buying-up-power-plants/"
+   },
+   {
+    "para": 2,
+    "t": "The plant discharges warm water into Seneca Lake and into nearby Keuka Lake, which is what residents fear will feed cyanobacteria and set off algal blooms.",
+    "src": "https://insideclimatenews.org/news/10052025/new-york-bitcoin-mines-buying-up-power-plants/"
+   },
+   {
+    "para": 2,
+    "t": "Its air permit expired in 2021, and in June 2022 the state Department of Environmental Conservation refused to renew it, finding the operation inconsistent with New York's Climate Act.",
+    "src": "https://insideclimatenews.org/news/10052025/new-york-bitcoin-mines-buying-up-power-plants/"
+   },
+   {
+    "para": 2,
+    "t": "The company has appealed repeatedly and continues to run while the matter is unresolved.",
+    "src": "https://insideclimatenews.org/news/10052025/new-york-bitcoin-mines-buying-up-power-plants/"
+   },
+   {
+    "para": 2,
+    "t": "Taylor's view of that: \"They're behaving like a petulant, rich child, because they don't like the answer that they get. At some point they're going to exhaust their options, and I am confident that we will prevail.\"",
+    "src": "https://insideclimatenews.org/news/10052025/new-york-bitcoin-mines-buying-up-power-plants/"
+   },
+   {
+    "para": 3,
+    "t": "Seneca Lake Guardian, the Sierra Club and the Committee to Preserve the Finger Lakes sued under the Clean Water Act in 2023; the case was dismissed, the court finding the company's permit application sufficient.",
+    "src": "https://insideclimatenews.org/news/10052025/new-york-bitcoin-mines-buying-up-power-plants/"
+   },
+   {
+    "para": 4,
+    "t": "The site is recorded as operating at 55 megawatts on 150 acres, under the name Vulcan Infrastructure and Power, formerly the Greenidge Generation Yates County facility.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "The 105 megawatt Greenidge generating station is recorded at the same coordinates, which is the point: the computing and the power plant are the same site.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 5,
+    "t": "The towns of the Finger Lakes have since acted.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 5,
+    "t": "Dryden banned data centers on February 27, 2026, Danby on May 26, Ulysses adopted zoning limits on April 7, Newfield a moratorium from July 14, and the state a moratorium on projects of 50 megawatts and above from June 4, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 5,
+    "t": "A TeraWulf site at Lansing sits 27 kilometres away and the Camp Monterey emails concern a site 38 kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://insideclimatenews.org/news/10052025/new-york-bitcoin-mines-buying-up-power-plants/"
+  ],
+  "unconfirmed": "The name change to Vulcan Infrastructure and Power is in our record but is not explained in the report read here, which describes Greenidge and Atlas Holdings; who owns and runs the site now, and whether the air permit fight has concluded, could not be established. The output figures are given in the source as megawatts and are almost certainly annual megawatt hours; they are stated as megawatt hours on that reading and the ambiguity is flagged. The 55 megawatt figure in our record refers to the computing load rather than the plant, which is 105 megawatts, but neither is confirmed here. The New York Times and My Twin Tiers reports in our record were not fetched, so no resident other than Taylor is quoted."
+ },
+ {
+  "id": "ft-1772679409535-8250",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "IBM was born in Endicott and left in October 2023, when it declined to renew the lease on 1701 North Street.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Global AI has taken over multiple buildings across the old campus at Endicott, in Broome County, and runs what the record calls a 32 megawatt data center there, across two buildings, using the power infrastructure and closed loop liquid cooling already on the site.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The company says it houses the largest cluster of Nvidia GB300 processors in New York State.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The people behind it know the buildings.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Co-founder and chairman Dr John E Kelly III spent nearly forty years at IBM, worked at the Endicott campus and is credited with creating Watson; chief executive Sami Issa previously set up a joint venture between Mubadala and IBM and founded a blockchain data center venture.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The record's only source for this entry is a trade report about Global AI developing a data center outside Denver, Colorado, which says nothing about Endicott.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Directory listings for the Endicott site give figures ranging from 32 to 100 megawatts, and which is current is not established.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Broome County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The generation is a long way off: the 765 megawatt Hamilton Liberty gas plant is 47 kilometres away and a 112 megawatt wind farm 48.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "New York State's moratorium on new data centers of 50 megawatts and above runs from June 4, 2026 to June 4, 2027 and would not reach a building already operating.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "Four jurisdictions within reach have acted locally: Dryden banned data centers on February 27, 2026, Danby on May 26, Newfield adopted a moratorium from July 14, and Susquehanna County across the Pennsylvania line brought in zoning limits on December 29, 2025.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Everything found came from directory listings, the company's own pages and trade coverage of a different project, so no source url is listed and each sentence is attributed to our record's source list. Our record's only source concerns a Global AI project in Colorado and does not support this entry. The capacity is unresolved between 32 and 100 megawatts. No water figure is published, and the closed loop cooling is the company's own description. No local reporting about residents' response to the site was found, and our record marks pushback as unknown."
+ }
+]

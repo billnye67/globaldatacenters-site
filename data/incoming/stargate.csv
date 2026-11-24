@@ -1,0 +1,7 @@
+project_name;developer_or_owner;tenant;city;state_or_region;country;address;latitude;longitude;capacity_mw;site_size;status;year_announced;year_operating_or_planned;note;source_url
+Stargate UAE (Abu Dhabi, G42);G42 / OpenAI / Oracle;OpenAI;Abu Dhabi;Abu Dhabi;United Arab Emirates;Abu Dhabi, UAE;;;;1000;;under construction;2025;2026;First international Stargate, 1GW of a 5GW campus;https://openai.com/index/five-new-stargate-sites/
+Stargate Norway (Narvik, Nscale / Aker);Nscale / Aker;OpenAI;Narvik;Nordland;Norway;Teknologiveien 2A, 8514 Narvik, Norway;;;;230;;under construction;2025;2026;Hydro-powered, capacity reportedly reassigned to Microsoft;https://openai.com/index/five-new-stargate-sites/
+Stargate UK (Cobalt Park, Nscale, suspended);Nscale;OpenAI;Wallsend;Tyne and Wear;United Kingdom;Cobalt Park, Wallsend, Newcastle, UK;;;;;;withdrawn;2025;;Suspended over grid constraints, pipeline moved to Canada;https://openai.com/index/five-new-stargate-sites/
+Stargate Argentina (Patagonia, Sur Energy);Sur Energy;OpenAI;Patagonia;Patagonia;Argentina;Patagonia, Argentina;;;;500;;proposed;2025;;$25B, location within Patagonia not disclosed;https://openai.com/index/five-new-stargate-sites/
+Stargate Korea (SK Group);SK Group / OpenAI;OpenAI;Jeollanam-do;Jeollanam-do;South Korea;Jeollanam-do, South Korea;;;;;;proposed;2025;;Southwest Korea site with SK;https://openai.com/index/five-new-stargate-sites/
+Stargate India;Reliance / OpenAI;OpenAI;India;India;India;India;;;;1000;;proposed;2025;;Location not disclosed;https://openai.com/index/five-new-stargate-sites/

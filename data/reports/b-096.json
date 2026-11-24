@@ -1,0 +1,726 @@
+[
+ {
+  "id": "ft-486",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The lawyer withdrew it in one sentence, before the council could vote.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "In early September 2025 Terra Nexus Ventures asked Kershaw County to rezone 162 vacant acres on Park Road at Camden for one or two data center buildings.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The county planning staff approved it and so did the planning commission, and it went to the full county council; before that meeting the company's lawyer filed a formal withdrawal.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The land is still farmland and there is no active proposal on it.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The company appears to keep the site on its portfolio.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Residents had raised noise, land use and how it would look, at public meetings before the withdrawal, and a local report on residents speaking against a data center at Cassatt could not be fetched.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The project is now recorded as cancelled, on 162 acres with no capacity, no cost and no developer field filled in, at high confidence.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "The record still marks pushback as unknown, which does not fit residents turning up to object.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site the record holds in Kershaw County, and there is no other within 40 kilometres.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The 74 megawatt Wateree hydroelectric station is 16 kilometres away, the 759 megawatt H B Robinson nuclear plant 36, a 230 megawatt gas plant in Darlington County 36 and a 92 megawatt solar farm at Eastover 43.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "The grid here is Duke Energy Progress East, whose peak demand the record puts at 13,233 megawatts, a tenth of PJM's.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 4,
+    "t": "The only measure on record within reach is Chesterfield County's zoning limits, running from July 6, 2026 to July 6, 2027 and noted as following a previous moratorium.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The Data Center Dynamics report in our record is not fetchable and the local pmg-sc report returned HTTP 429, so no source url is listed and each sentence is attributed to our record's source list. The date of the withdrawal is not established and neither is the reason. No megawatt, water or cost figure was ever published. No resident, council member or company representative is quoted. Whether the Cassatt proposal residents objected to is this same project is unresolved."
+ },
+ {
+  "id": "ft-487",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Two point one billion dollars buys thirty jobs.",
+    "src": "https://governor.sc.gov/news/2025-06/cielo-digital-infrastructure-selects-cherokee-county-first-south-carolina-development"
+   },
+   {
+    "para": 0,
+    "t": "Cielo Digital Infrastructure announced on June 24, 2025 that it would build its first South Carolina data center campus on Ford Road at Gaffney, in Cherokee County: four buildings of about 400,000 square feet each with an electrical substation, first operations expected by the end of 2028.",
+    "src": "https://governor.sc.gov/news/2025-06/cielo-digital-infrastructure-selects-cherokee-county-first-south-carolina-development"
+   },
+   {
+    "para": 0,
+    "t": "The state put the investment at about $2.1 billion and the new jobs at 30, and trade reporting puts the campus at up to 300 megawatts at full buildout.",
+    "src": "https://governor.sc.gov/news/2025-06/cielo-digital-infrastructure-selects-cherokee-county-first-south-carolina-development"
+   },
+   {
+    "para": 0,
+    "t": "C.J. Maier, a senior vice president at Cielo, said: \"Cielo is excited to bring our newest project to Gaffney. We look forward to advancing on a site that we think offers connectivity and critical energy access to support data center development.\"",
+    "src": "https://governor.sc.gov/news/2025-06/cielo-digital-infrastructure-selects-cherokee-county-first-south-carolina-development"
+   },
+   {
+    "para": 0,
+    "t": "Governor Henry McMaster said the decision \"reinforces South Carolina's reputation as a place where top technology companies can thrive\".",
+    "src": "https://governor.sc.gov/news/2025-06/cielo-digital-infrastructure-selects-cherokee-county-first-south-carolina-development"
+   },
+   {
+    "para": 1,
+    "t": "The site is on the North Carolina line, east of Spartanburg and west of Charlotte, which is the point: it is close to both markets and close to gas.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The 867 megawatt Broad River Energy Center and an 86 megawatt cogeneration plant are both two kilometres away, and the 563 megawatt Mill Creek plant 18.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded as proposed at 300 megawatts at $2.1 billion with no acreage and no developer field filled in, at medium confidence, and pushback marked unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "Gaffney adopted zoning limits on January 6, 2026, and York County next door a moratorium running from July 14, 2026 to April 14, 2027.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "A town writing limits within months of the announcement is not proof of opposition, but it is not nothing either.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site the record holds in Cherokee County.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "A T5 site at Kings Mountain is 26 kilometres off, a blocked Lighthouse Data Centers proposal in Spartanburg County 27 and Meta's operating Forest City campus 37.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 4,
+    "t": "The grid is Duke Energy Carolinas, peaking at 20,398 megawatts on record.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 4,
+    "t": "Three hundred megawatts is about one and a half per cent of that, from one campus.",
+    "src": "data:capacity_mw"
+   }
+  ],
+  "sources": [
+   "https://governor.sc.gov/news/2025-06/cielo-digital-infrastructure-selects-cherokee-county-first-south-carolina-development"
+  ],
+  "unconfirmed": "The governor's office announcement carries the investment, the jobs, the four buildings, the square footage, the substation and the end of 2028 date, but no megawatt figure; the 300 megawatts at full buildout comes from trade reporting, and the Data Center Dynamics report in our record is not fetchable. That Cielo was founded in 2023 and is owned by Arroyo Investors comes from our record's source list rather than from the announcement, and every figure here originates with the company or the state. No water figure has been published. No resident or county council member is quoted, no account of any local response was found, and whether any tax agreement or rezoning has since been approved is unestablished."
+ },
+ {
+  "id": "ft-489",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "DC Blox runs a data center it calls GSP1 at 33 Global Drive in Greenville, in Greenville County, in the Global Business Park off Interstate 85 and less than two miles from Clemson University's automotive research campus.",
+    "src": "https://www.dcblox.com/data-centers/greenville/"
+   },
+   {
+    "para": 0,
+    "t": "It opened with a ribbon cutting in April 2022, covers 36,493 square feet, and the company gives it 8 critical megawatts committed and planned, with a first phase of up to 3 megawatts that can be expanded to 18.",
+    "src": "https://www.dcblox.com/data-centers/greenville/"
+   },
+   {
+    "para": 0,
+    "t": "The company says Data Hall 2 is the first multi-tenant data hall in South Carolina to hold the Uptime Institute's Tier III Certification of Constructed Facility.",
+    "src": "https://www.dcblox.com/data-centers/greenville/"
+   },
+   {
+    "para": 1,
+    "t": "The building is recorded as operating at high confidence with no capacity, no acreage, no cost and no source, but it records that people objected: pushback confirmed, resistance logged as emerging concern, and a Facebook group linked.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "One account of the project, written admiringly, says DC Blox delivered it on time and on budget in about a year while overcoming local opposition, FCC regulations and airport restrictions.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "What that opposition was about is not described in anything that could be found, which is the part of this entry that most needs a source.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "No water figure and no employment figure has been published either.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "Greenville County holds one data center site on record, this one.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 2,
+    "t": "The only other site within 40 kilometres is Project Spero, the cancelled 500 megawatt TigerDC scheme at Spartanburg, 31 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The generation around it is large and mostly old.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The 864 megawatt W S Lee plant is 24 kilometres off, the 152 megawatt Keowee hydro station 49, the 2,554 megawatt Oconee nuclear plant 51 and the 780 megawatt Jocassee pumped storage plant 55.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "The only measure on record within reach is across the state line: Henderson County, North Carolina, adopted zoning limits on July 16, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "Nothing in Greenville County itself.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.dcblox.com/data-centers/greenville/"
+  ],
+  "unconfirmed": "The page previously said that no megawatt figure or square footage had been published for this building; both are on the company's own site and are now on the page, credited to the company. Our record carries no source for the entry at all, and the Facebook group it links was not opened. No news report describing the local opposition, who organised it, when it happened or what it objected to could be found, and the admiring account of the build is the only thing that mentions opposition at all. The 8 critical megawatts and the expansion to 18 are the company's figures for what is committed and planned rather than what is drawn today."
+ },
+ {
+  "id": "ft-1775616979269-7668",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The county approved it during a snowstorm, and nobody was told it was a data center.",
+    "src": "https://capitalbnews.org/secret-data-center-deal-marion-county-south-carolina/"
+   },
+   {
+    "para": 0,
+    "t": "Marion County Council approved Project Liberty on January 22, 2026, a $2.4 billion scheme on about 400 acres of the Marion County Industrial Park, while a winter storm that killed at least two people in South Carolina was paralysing the state with ice and snow.",
+    "src": "https://capitalbnews.org/secret-data-center-deal-marion-county-south-carolina/"
+   },
+   {
+    "para": 0,
+    "t": "County officials had signed a nondisclosure agreement that stopped them describing the project before the vote, and the agenda said only \"Project Liberty\".",
+    "src": "https://capitalbnews.org/secret-data-center-deal-marion-county-south-carolina/"
+   },
+   {
+    "para": 1,
+    "t": "The deal was a fee in lieu of tax agreement worth tens of millions to the developer against the standard local rate, which officials projected would still bring the county about $28 million a year, more than its entire $25 million budget.",
+    "src": "https://capitalbnews.org/secret-data-center-deal-marion-county-south-carolina/"
+   },
+   {
+    "para": 1,
+    "t": "Engineers estimated each building would use about 7,175 gallons of water a day, with perhaps six buildings, roughly what 150 households use, and the project would create about 20 permanent jobs.",
+    "src": "https://capitalbnews.org/secret-data-center-deal-marion-county-south-carolina/"
+   },
+   {
+    "para": 2,
+    "t": "Marion County is majority Black, with about 30,000 people, poverty and unemployment roughly twice the national rate, and 66 per cent of residents with regular internet access against 90 per cent nationally.",
+    "src": "https://capitalbnews.org/secret-data-center-deal-marion-county-south-carolina/"
+   },
+   {
+    "para": 2,
+    "t": "Jessie Chandler said of the process: \"There was a public meeting, which most were unaware of. I know legally they had to announce the public meeting within a certain time frame for all of us to attend, but most of the county [was] preparing for this winter storm, which we know firsthand will affect us all because it has before.\"",
+    "src": "https://capitalbnews.org/secret-data-center-deal-marion-county-south-carolina/"
+   },
+   {
+    "para": 2,
+    "t": "Samuel Burns asked the council for more: \"I don't know what it's going to do to the county. I would like to see a little bit more transparency coming from this body to inform the public, because this is going to affect all the taxpayers in Marion County.\"",
+    "src": "https://capitalbnews.org/secret-data-center-deal-marion-county-south-carolina/"
+   },
+   {
+    "para": 2,
+    "t": "Dylan Coleman raised the farms: \"If there's another drought, it would be a big one. Marion County is a farming community, and I think that's important to the farmers around here.\"",
+    "src": "https://capitalbnews.org/secret-data-center-deal-marion-county-south-carolina/"
+   },
+   {
+    "para": 3,
+    "t": "The council member Joel Rogers said the council itself had been rushed: \"We've only received in the last day or two important documents related to this project. I think I agree with the general sense of saying we need to slow down on this particular project, even for us.\"",
+    "src": "https://capitalbnews.org/secret-data-center-deal-marion-county-south-carolina/"
+   },
+   {
+    "para": 3,
+    "t": "On June 11, 2026 Stream said Project Liberty would not go ahead, because utility power could not be sourced on the site within the required timeframe.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The United People Project, which had campaigned against it, said it celebrated the decision.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "The project is recorded as cancelled on 400 acres at $2.4 billion, with Stream as developer, pushback confirmed as organised advocacy at high confidence.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "This is the only data center site recorded in Marion County and there is no other within 40 kilometres; the nearest generation is a 99 megawatt biomass plant at Florence, 20 kilometres away, and there is no moratorium anywhere near.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://capitalbnews.org/secret-data-center-deal-marion-county-south-carolina/"
+  ],
+  "unconfirmed": "Stream Data Centers is named as the developer by our record rather than by the report read here, which does not name the company; the same report gives no acreage, and the 400 acres is our record's. The cancellation is reported by Data Center Dynamics as an $800 million project while our record and the local reporting give $2.4 billion; that report is not fetchable and the figures cannot be reconciled. The Post and Courier and WMBF reports, and Stream's own Project Liberty page, were not fetched, so the February meetings, the June 11 statement and the United People Project's response are attributed to our record's source list. The acreage is given as about 400 in our record and about 407 elsewhere. No megawatt figure was ever published. No Stream representative is quoted directly, and whether the company has taken the project elsewhere is unknown."
+ },
+ {
+  "id": "ft-1769702647022-9251",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Hundreds of people came to the public hearing, and a week later the council said no.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "TigerDC proposed Project Spero, a $3 billion data center in the Tyger River Industrial Park along Highway 290 near Anderson Mill Road in Spartanburg County, with construction on an SC1 campus due to start in 2026 and a first phase of 100 megawatts in 2027.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The company said it would employ 50 people and pay an estimated $249 million in taxes over 30 years.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The fight was about the tax agreement, which would have let the company pay an annual fee instead of the standard property tax rate.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Council chairman Manning Lynch announced at a press conference that the council would not offer the incentives, a week after a contentious hearing at which hundreds of residents raised energy bills and long term health effects.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "On Friday, February 27, 2026 TigerDC withdrew.",
+    "src": "https://www.foxcarolina.com/2026/02/27/company-withdraws-ai-data-center-spartanburg-county-consideration/"
+   },
+   {
+    "para": 2,
+    "t": "Its statement read: \"Major infrastructure investments require alignment among stakeholders. Project Spero recognizes that alignment has not been achieved,\" and said: \"TigerDC will now focus our efforts on communities that are ready to move forward with this type of infrastructure.\"",
+    "src": "https://www.foxcarolina.com/2026/02/27/company-withdraws-ai-data-center-spartanburg-county-consideration/"
+   },
+   {
+    "para": 2,
+    "t": "The council member Monier Abusaft, known as Mo, said: \"We're certainly not shutting the door on data centers,\" and added: \"Hopefully when another project like this comes, we have clear guidelines from the state.\"",
+    "src": "https://www.foxcarolina.com/2026/02/27/company-withdraws-ai-data-center-spartanburg-county-consideration/"
+   },
+   {
+    "para": 3,
+    "t": "The company's case had been that the campus \"utilizes a closed-loop cooling system with negligible water impact and a self-contained power strategy designed to avoid strain on the local residential grid\", and that it would comply with any data center rules enacted \"now or in the future, including standards related to ratepayer protections, environmental safeguards, and utility oversight, without seeking exemption or special treatment\".",
+    "src": "https://www.foxcarolina.com/2026/02/27/company-withdraws-ai-data-center-spartanburg-county-consideration/"
+   },
+   {
+    "para": 3,
+    "t": "A state senator had called for a pause on the tax deal before the vote.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "The project is recorded as cancelled at 500 megawatts and $3 billion with TigerDC as developer, pushback confirmed at medium confidence, a change.org petition to stop data centers coming to the upstate, and a Facebook group.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "The 500 megawatts on record is the full campus; the reporting describes a first phase of 100.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 5,
+    "t": "A blocked 60 megawatt Lighthouse Data Centers proposal is 21 kilometres away, DC Blox's Greenville building 31 and the 49 megawatt Project Alpaca at Union 35.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 5,
+    "t": "Gaffney adopted zoning limits on January 6, 2026, three weeks before the Spartanburg hearing.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.foxcarolina.com/2026/02/27/company-withdraws-ai-data-center-spartanburg-county-consideration/"
+  ],
+  "unconfirmed": "The Post and Courier and WYFF reports were not fetched and the two Data Center Dynamics reports are not fetchable, so the project's figures, the council chairman's press conference, the state senator's call for a pause and the hearing attendance are attributed to our record's source list; the report that was read gives neither the investment figure nor the megawatts. No resident is quoted by name in it. The dates of the public hearing and the council's decision are not established beyond being in the week before February 27, 2026. Whether the council held a formal vote, and where TigerDC has taken the project, are unknown. The acreage was never published."
+ },
+ {
+  "id": "ft-490",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one is small and sits inside somebody else's industrial park.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "DC Blox acquired 27 acres at Camp Hall, off Three Point Drive at Ridgeville in Berkeley County, for a 45 megawatt data center campus.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The entry is recorded as proposed at 45 megawatts on 28 acres with no cost and no developer field filled in, at medium confidence, and marks pushback as unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 1,
+    "t": "The neighbours are the reason this corner matters.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Google's Project Dawson at Charleston is 19 kilometres away, its operating Moncks Corner campus 22 and its Project Evergreen in Dorchester County 26; those three are the only other data center sites within 40 kilometres, and all three are Google.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The power is coal.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The 2,335 megawatt Cross plant is 30 kilometres away and the 605 megawatt Williams plant 34, with the 140 megawatt Jefferies hydroelectric station at 29 and a 75 megawatt solar farm at 41.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The grid here is South Carolina Electric and Gas, whose peak the record puts at 4,586 megawatts, and the Cross plant alone is half of that.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 3,
+    "t": "Berkeley County holds two data center sites on record.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "There is no moratorium and no zoning limit anywhere within reach of this site on record, which sets it apart from almost every other South Carolina entry.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "No cost, water figure, building count or timetable has been published, and no tenant is named.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 4,
+    "t": "Forty five megawatts on 27 acres is a fraction of the gigawatt schemes proposed elsewhere in the state, and it has attracted none of the attention.",
+    "src": "data:capacity_mw"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The Data Center Dynamics report in our record is not fetchable, so no source url is listed and each sentence is attributed to our record's source list. The acreage differs between our record's 28 and the 27 in the reporting. The date of the acquisition, the planning status, the building count and the timetable are all unestablished. No county official, resident or company representative is quoted, and no account of any local response was found. Whether Camp Hall's status as a planned commerce park means the use is already permitted is unresolved."
+ },
+ {
+  "id": "ft-1776707659042-4442",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The company says the coolant comes from Texas; a resident who has worked on these systems says the water will come from here.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Volt Edge Energy proposes Project Alpaca, a 49 megawatt data center campus at the Midway Green Industrial Park, 265 Midway Drive, Union, in Union County.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The company representative Ankit Joshi put it at $410 million of private investment, millions in new county tax revenue, more than 500 construction jobs and more than 50 high wage jobs once running.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The company's fact sheet says the cooling is closed loop, using a specialised coolant mixture sourced from Texas rather than the local water system.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Braeden Jones, a resident who has worked at facilities using closed loop cooling, says local water will be used and that it will produce an odour.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "He started a petition that gathered hundreds of signatures.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "On April 28, 2026 Union County Council voted to table the first reading of a fee in lieu of tax agreement for Project Alpaca, saying the delay would give it time to review and evaluate every part of the project, and the public hearing set for May 12 was cancelled; the council said that if the project comes back there will be a public information forum before any decision on the tax agreement.",
+    "src": "https://www.foxcarolina.com/2026/05/05/union-county-data-center-tax-breaks-tabled-by-county-council/"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded as proposed at 49 megawatts and $410 million with no acreage, with Volt Edge Energy as developer, pushback confirmed at high confidence, and a change.org petition to halt new data center approvals in Union.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "The upstate has been refusing these one after another.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The cancelled Project Spero is 35 kilometres away and a blocked Lighthouse Data Centers proposal 39; Gaffney adopted zoning limits on January 6, 2026, Newberry County a moratorium on June 3 running to June 2027, Chester County one on June 18, and York County one on July 14 running to April 2027.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "Union County itself has no measure on record.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generation is 41 kilometres away, an 86 megawatt cogeneration plant at Cherokee County, with the 867 megawatt Broad River plant at 42 and a 576 megawatt pumped storage station at Fairfield 54.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.foxcarolina.com/2026/05/05/union-county-data-center-tax-breaks-tabled-by-county-council/"
+  ],
+  "unconfirmed": "The WSPA report in our record returned HTTP 403 and the cleanview and Union development board pages were not fetched, so the campus description, Ankit Joshi's figures and Braeden Jones's account are attributed to our record's source list. Those two accounts of the cooling are each one side's claim and neither has been verified. The report on the tabled ordinance carries no megawatt figure and quotes no council member by name. The acreage, building count, water volume and timetable are unestablished, and whether the council has returned to the ordinance since May 2026 is unknown."
+ },
+ {
+  "id": "ft-1767851240920-5564",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A state senator called it a risk to the Ashepoo, and a candidate for governor called it a death star.",
+    "src": "https://www.fitsnews.com/2025/12/19/ace-basin-data-center-draws-ire-at-zoning-appeals-meeting/"
+   },
+   {
+    "para": 0,
+    "t": "Eagle Rock Partners, with the engineers Thomas and Hutton, propose a data center campus of about 859 acres on rural timberland along Cooks Hill Road south of Walterboro in Colleton County, nine buildings, a gigawatt, $6 billion.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "It would be the state's first gigawatt campus.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The site sits in the ACE Basin, a 350,000 acre undeveloped estuary named for the Ashepoo, Combahee and Edisto rivers that feed it, home to nine federally endangered species including peregrine falcons, wood storks and leatherback turtles.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "State Senator Chip Campsen told the zoning appeals board on December 18, 2025 that \"the most significant conservation achievement in the state of South Carolina...is the protection of the ACE Basin\", and said of the campus that \"it will pose a great risk to the Ashepoo River system and the ecology\".",
+    "src": "https://www.fitsnews.com/2025/12/19/ace-basin-data-center-draws-ire-at-zoning-appeals-meeting/"
+   },
+   {
+    "para": 2,
+    "t": "The board took no vote that night and set an information-only session instead, which killed the county council's attempt to push the approval through on a single reading.",
+    "src": "https://www.fitsnews.com/2025/12/19/ace-basin-data-center-draws-ire-at-zoning-appeals-meeting/"
+   },
+   {
+    "para": 2,
+    "t": "Mullins McLeod, running for governor as a Democrat, said: \"Do you know what else this death star would do to this community? It would drive up every person's electric bill.\"",
+    "src": "https://www.fitsnews.com/2025/12/19/ace-basin-data-center-draws-ire-at-zoning-appeals-meeting/"
+   },
+   {
+    "para": 2,
+    "t": "The resident Richard Burke told the board that \"a special exception is not to be granted as a matter of right\", and finished: \"The answer is not here, not now, not ever.\"",
+    "src": "https://www.fitsnews.com/2025/12/19/ace-basin-data-center-draws-ire-at-zoning-appeals-meeting/"
+   },
+   {
+    "para": 3,
+    "t": "Ken Loeber, who co-founded Eagle Rock Partners, said the campus was \"not a relocation\" but \"new growth\", promised 450 jobs once the nine buildings were finished, with 30 per cent in network and IT roles at twice the area average wage, and said of the electrical grid upgrades that the company \"will cover all of those costs\".",
+    "src": "https://www.fitsnews.com/2025/12/19/ace-basin-data-center-draws-ire-at-zoning-appeals-meeting/"
+   },
+   {
+    "para": 3,
+    "t": "He also told an earlier meeting: \"The AI race that this country is in with other countries around the world is real.\"",
+    "src": "https://www.fitsnews.com/2025/12/19/ace-basin-data-center-draws-ire-at-zoning-appeals-meeting/"
+   },
+   {
+    "para": 4,
+    "t": "Hundreds of residents filled the Walterboro civic centre in December 2025 to object to the council amending its zoning process to make the campus possible.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "The project is recorded as proposed at 1,000 megawatts on 859 acres at $6 billion, with Eagle Rock Partners as developer, pushback confirmed at high confidence, and a change.org petition to stop the data center coming to Walterboro.",
+    "src": "data:status"
+   },
+   {
+    "para": 5,
+    "t": "It is not the only one: a second entry, a Colleton County ACE Basin campus from an undisclosed developer, also at 1,000 megawatts, sits two kilometres away, and local reporting counted nine new data centers proposed in the county.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 5,
+    "t": "The grid is South Carolina Electric and Gas, peaking at 4,586 megawatts on record; the nearest generation is solar, 73 megawatts at Seabrook 33 kilometres off and 71 at Moffett 44, and there is no moratorium anywhere near.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.fitsnews.com/2025/12/19/ace-basin-data-center-draws-ire-at-zoning-appeals-meeting/"
+  ],
+  "unconfirmed": "The SC Daily Gazette report in our record returned HTTP 403, and the live5news and abcnews4 reports and the county's mapping application were not fetched, so the nine buildings, the $6 billion, the gigawatt, the engineers Thomas and Hutton, the ACE Basin description and the December civic centre meeting are attributed to our record's source list. The report that was read gives the acreage and the building count but no cost and no capacity, and names no endangered species; the nine federally endangered species and the three named animals come from our record's source list. The acreage is variously 850, 859 and 860 across accounts. No water figure has been published, which is the question Campsen raised. What the zoning appeals board and the county council have done since December 2025, and whether an application has been filed, are unknown. The relationship between this entry and the ACE Basin campus two kilometres away is unresolved."
+ },
+ {
+  "id": "ft-1772680694340-1860",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The cooling water is a single fill of about 19,000 to 20,000 gallons and then nothing.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Sequitor Edge plans a 30,000 square foot Tier III data center on a ten acre site in Dream Design's Black Hills Industrial Center, on the east side of Highway 16 across from the Rapid City landfill, in Pennington County.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "It would start at 2 megawatts and reach a maximum of 10.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The first phase is one data hall on a single acre, with room to grow to five halls on seven acres.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The developers describe their model as the opposite of hyperscale: small, decentralised, local buildings that keep data near where it is made and used.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Groundbreaking was expected in the summer, with about 14 months of construction and completion in 2027.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The project is recorded as proposed at 15 megawatts on ten acres with no cost and no developer field filled in, at medium confidence, and pushback marked unknown.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "The 15 megawatts matches nothing in the reporting, which gives 2 at the start and 10 at most.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Pennington County, and there is no other within 40 kilometres.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The 78 megawatt Ben French gas plant is eight kilometres away and the 128 megawatt Wild Springs solar farm 28; the next nearest generation is 88 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "The grid is the Western Area Power Administration's Rocky Mountain region, which the record puts at a peak of 3,362 megawatts, small enough that a hyperscale campus would not fit inside it at all.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 4,
+    "t": "There is no moratorium or zoning limit anywhere within reach on record.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The Data Center Dynamics report in our record is not fetchable and the Mitchell Republic, NewsCenter1, KOTA and local radio reports were not fetched, so no source url is listed and each sentence is attributed to our record's source list. The year of the expected groundbreaking is not established. One directory listing places the site on South Highway 79 rather than Highway 16 and gives 10 megawatts. No cost or employment figure has been published, and no resident or city official is quoted; one report was headlined around drought straining the South Dakota grid and was not read."
+ },
+ {
+  "id": "ft-492",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The petition to put the data center to a public vote came in 1,692 signatures short.",
+    "src": "https://www.dakotanewsnow.com/2026/01/30/petition-drive-data-center-falls-short-required-signatures/"
+   },
+   {
+    "para": 0,
+    "t": "Gemini Data Center SD LLC, connected to a California family office listed under the name Michael Anvar that invests in property, renewable energy and technology, bought 160 acres from Xcel Energy late in 2025 and began the city approval process at Sioux Falls, in Minnehaha County.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The site, marketed as the Sioux Falls Technology Park, is about a mile south of the Veterans Parkway exit from Interstate 90 near Rice Street, just south of Xcel's Split Rock substation and Angus Anson power station, which is what makes a 500 megawatt load possible.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The city said yes twice.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The city council approved the rezoning unanimously on January 6, 2026, taking the land from agricultural to light industrial, with Gemini committed to paying for all utility extensions, the on site substation and the Xcel infrastructure upgrades; councillors separately voted to annex the land into the city on the same condition.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "A group calling itself Let Sioux Falls Vote circulated a referendum petition to give the city's voters a say and submitted 5,012 signatures against the 6,704 needed; the city said that \"even assuming each signature is legally valid and the petition has met all other legal requirements, the total number of signatures submitted of 5,012 is not sufficient to submit the ordinance to an election\", and that the city clerk had to reject it by law.",
+    "src": "https://www.dakotanewsnow.com/2026/01/30/petition-drive-data-center-falls-short-required-signatures/"
+   },
+   {
+    "para": 2,
+    "t": "Those who opposed it said they had been given too little information, and raised water, the electricity grid, air pollution, the location and AI itself.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The project is recorded as proposed at 500 megawatts on 160 acres with no cost and no developer field filled in, pushback marked confirmed at high confidence, and no group or petition attached.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Five hundred megawatts is the whole point of the site and no water figure has been published at all.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 4,
+    "t": "The 327 megawatt Angus Anson gas plant is a kilometre away, a 110 megawatt wind farm at Walleye 21 kilometres, a 200 megawatt wind farm at Prairie Rose 37 and a 206 megawatt one at Fenton 58.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "This is the only data center site recorded in Minnehaha County and there is no other within 40 kilometres; the only measure on record within reach is Sioux County's moratorium, across the state line in Iowa, running from June 23, 2026 to June 23, 2027.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.dakotanewsnow.com/2026/01/30/petition-drive-data-center-falls-short-required-signatures/"
+  ],
+  "unconfirmed": "The siouxfalls.business, Sioux Falls Live and Dakota Scout reports were not fetched and the Data Center Dynamics report is not fetchable, so the ownership, the land purchase, the rezoning and annexation votes and the objections raised are attributed to our record's source list. The report on the petition gives the signature counts and the city's statement but nothing about the site, the developer or the project's size. No resident, council member or company representative is quoted by name. The tenant, the building count, the cost and the water use are all unestablished, and our record gives 160 acres while one report says 164."
+ }
+]

@@ -1,0 +1,23 @@
+project_name;developer_or_owner;tenant;city;state_or_region;country;address;latitude;longitude;capacity_mw;site_size;status;year_announced;year_operating_or_planned;note;source_url
+Vantage Montreal I;Vantage Data Centers;hyperscale;Montreal;Quebec;Canada;Montreal, QC, Canada;;;;;;operating;;;Undisclosed location per Vantage;https://vantage-dc.com/data-center-locations/
+Vantage Montreal II;Vantage Data Centers;hyperscale;Montreal;Quebec;Canada;Montreal, QC, Canada;;;;;;operating;;;Undisclosed location per Vantage;https://vantage-dc.com/data-center-locations/
+Vantage Montreal III;Vantage Data Centers;hyperscale;Montreal;Quebec;Canada;Montreal, QC, Canada;;;;;;operating;;;Undisclosed location per Vantage;https://vantage-dc.com/data-center-locations/
+Vantage Quebec City;Vantage Data Centers;hyperscale;Quebec City;Quebec;Canada;Quebec City, QC, Canada;;;;;;operating;;;Undisclosed location per Vantage;https://vantage-dc.com/data-center-locations/
+Vantage Dublin;Vantage Data Centers;hyperscale;Dublin;Leinster;Ireland;Dublin, Ireland;;;;;;under construction;;;Undisclosed location per Vantage;https://vantage-dc.com/data-center-locations/
+Vantage Johannesburg II;Vantage Data Centers;hyperscale;Isando;Gauteng;South Africa;16 Electron Ave, Isando, Johannesburg, South Africa;;;;;;under construction;;;;https://vantage-dc.com/data-center-locations/
+Vantage London I;Vantage Data Centers;hyperscale;London;Greater London;United Kingdom;London, UK;;;;;;operating;;;Undisclosed location per Vantage;https://vantage-dc.com/data-center-locations/
+Vantage London II;Vantage Data Centers;hyperscale;London;Greater London;United Kingdom;London, UK;;;;;;under construction;;;Undisclosed location per Vantage;https://vantage-dc.com/data-center-locations/
+Vantage Milan I (Melegnano);Vantage Data Centers;hyperscale;Melegnano;Lombardy;Italy;32 Via per Carpiano, 20077 Melegnano, Milan, Italy;;;;;;operating;;;;https://vantage-dc.com/data-center-locations/
+Vantage Milan II (Castelletto);Vantage Data Centers;hyperscale;Settimo Milanese;Lombardy;Italy;Via Aganippo Brocchi, Castelletto, 20019 Milan, Italy;;;;;;under construction;;;;https://vantage-dc.com/data-center-locations/
+Vantage Warsaw;Vantage Data Centers;hyperscale;Warsaw;Masovian;Poland;Zgrupowania AK Kampinos 42D, 01-949 Warsaw, Poland;;;;;;operating;;;;https://vantage-dc.com/data-center-locations/
+Vantage Zurich I (Winterthur);Vantage Data Centers;hyperscale;Winterthur;Zurich;Switzerland;12 Fabrikstrasse, 8404 Winterthur, Switzerland;;;;;;operating;;;;https://vantage-dc.com/data-center-locations/
+Vantage Zurich II (Glattfelden);Vantage Data Centers;hyperscale;Glattfelden;Zurich;Switzerland;Spinnerei Lettenstrasse, 8192 Glattfelden, Switzerland;;;;;;operating;;;;https://vantage-dc.com/data-center-locations/
+Vantage Cyberjaya I;Vantage Data Centers;hyperscale;Cyberjaya;Selangor;Malaysia;Cyberjaya, Selangor, Malaysia;;;;;;operating;;;Undisclosed location per Vantage;https://vantage-dc.com/data-center-locations/
+Vantage Cyberjaya II;Vantage Data Centers;hyperscale;Cyberjaya;Selangor;Malaysia;Cyberjaya, Selangor, Malaysia;;;;;;under construction;;;Undisclosed location per Vantage;https://vantage-dc.com/data-center-locations/
+Vantage Johor;Vantage Data Centers;hyperscale;Kulai;Johor;Malaysia;Jalan Digital Utama, Sedenak Tech Park, 82100 Kulai, Johor, Malaysia;;;;;;under construction;;;;https://www.datacentermap.com/malaysia/johor-bahru/yondr-johor-data-center/
+Vantage Fo Tan;Vantage Data Centers;hyperscale;Fo Tan;Hong Kong;Hong Kong;Fo Tan, Sha Tin, Hong Kong;;;;;;operating;;;Undisclosed location per Vantage;https://vantage-dc.com/data-center-locations/
+Vantage Kwai Chung;Vantage Data Centers;hyperscale;Kwai Chung;Hong Kong;Hong Kong;Kwai Chung, Hong Kong;;;;;;operating;;;Undisclosed location per Vantage;https://vantage-dc.com/data-center-locations/
+Vantage On Lok;Vantage Data Centers;hyperscale;Fanling;Hong Kong;Hong Kong;On Lok, Fanling, Hong Kong;;;;;;under construction;;;Undisclosed location per Vantage;https://vantage-dc.com/data-center-locations/
+Vantage Osaka;Vantage Data Centers;hyperscale;Osaka;Osaka;Japan;Osaka, Japan;;;;;;under construction;;;Undisclosed location per Vantage;https://vantage-dc.com/data-center-locations/
+Vantage Taipei;Vantage Data Centers;hyperscale;Taipei;Taipei;Taiwan;Taipei, Taiwan;;;;;;under construction;;;Undisclosed location per Vantage;https://vantage-dc.com/data-center-locations/
+Vantage Melbourne;Vantage Data Centers;hyperscale;Melbourne;Victoria;Australia;Melbourne, VIC, Australia;;;;;;under construction;;;Undisclosed location per Vantage;https://vantage-dc.com/data-center-locations/

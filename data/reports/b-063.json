@@ -1,0 +1,557 @@
+[
+ {
+  "id": "ft-1775148054695-4922",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one is a bitcoin mine rather than an artificial intelligence data center.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "A Simple Mining site is listed at Cascade Industrial Park, filed under Jones County, Iowa, with no acreage and no capacity figure, and the single source, headed \"Simple Mining plans bitcoin mining expansion in Dubuque County, Iowa\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The entry is filed in Jones County while that headline places the expansion in Dubuque County.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "The counties around it have been closing in.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Dubuque County adopted a year long data center moratorium on 26 May 2026, Guttenberg one on 8 June 2026, Cassville in Wisconsin a two year one on 29 April 2026, and Linn County zoning limits on 18 February 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The Karis site near Dubuque is 27 kilometres away and a Dubuque data center 33.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generation is a 54 megawatt wind farm 48 kilometres off, further than most sites on this map.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the size of the expansion, its power draw, its cost, the filing date and whether it has been approved are all unknown. The county in our record does not match the county in the source headline. A second Simple Mining entry appears in our record at Cedar Falls, and whether the company's two sites are related was not established. No local reporting was sought and our record logs pushback as unknown."
+ },
+ {
+  "id": "ft-1775147721305-8550",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Officials in Cedar Falls, in Black Hawk County, Iowa, put off hearing this data center, and no reason is recorded.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The single source attached to the entry, headed \"Officials in Cedar Falls, Iowa delay hearing on Simple Mining's cryptomine rezoning\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The site is put at 38 acres at Viking Road and South Union Road, with local pushback logged and the project listed as proposed.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 1,
+    "t": "The word in the headline is cryptomine, not data center, which is the distinction that decides how much of the year the building runs flat out.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Two plants sit 7 kilometres away, the 56 megawatt Streeter Station and the 190 megawatt Electrifarm, both gas.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Black Hawk County, with no other project within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "No local government within reach has restricted them.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the date of the delayed hearing, the reason for the delay, the megawatt capacity, the developer's full plans and what happened afterwards are all unknown. Our record logs pushback but names no group, petition or resident, so nothing can be said about who objects or why. No Cedar Falls local reporting was sought."
+ },
+ {
+  "id": "ft-222",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "A 200 megawatt Edged campus is recorded on East Kanesville Boulevard in Council Bluffs, in Pottawattamie County, Iowa, and the single source says the company made it smaller.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "That source, headed \"Edged reduces scope of planned data center campus in Council Bluffs, Iowa\", returned 403, so by how much and why is not recorded.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Council Bluffs is one of the oldest data center towns in the country, and the map around it shows that.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "A CyrusOne facility is 8 kilometres away, Google's Council Bluffs campus 12, a Bellevue site 14, Google's Omaha campus 20, and two more across the river at 24.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The power is coal.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The 1,512 megawatt Walter Scott Jr Energy Center is 11 kilometres away and the 564 megawatt North Omaha plant 12, with a 124 megawatt oil plant at 9.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Council Bluffs and the towns around it have adopted no pause.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the original and reduced size of the campus, the reason for the reduction, the acreage, the square footage, the timeline and the current status are all unknown. Whether the 200 megawatt figure in our record is the original plan or the reduced one is not established. No water figure and no local reaction are known, and no Council Bluffs reporting was sought."
+ },
+ {
+  "id": "ft-1783823589544-7821",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The unusual thing about this data center, proposed on the edge of Maquoketa in Clinton County, Iowa, is what the town is not giving away.",
+    "src": "https://www.yahoo.com/news/us/articles/small-data-center-proposed-industrial-024543749.html"
+   },
+   {
+    "para": 0,
+    "t": "City Manager Josh Boldt said of the agreement: \"We have no local incentives in this agreement.\"",
+    "src": "https://www.yahoo.com/news/us/articles/small-data-center-proposed-industrial-024543749.html"
+   },
+   {
+    "para": 0,
+    "t": "No tax breaks, no discounted electricity, no publicly funded infrastructure.",
+    "src": "https://www.yahoo.com/news/us/articles/small-data-center-proposed-industrial-024543749.html"
+   },
+   {
+    "para": 0,
+    "t": "He said the facility would bring hundreds of thousands of dollars a year to the city, county and school budgets at a time when inflation is squeezing them.",
+    "src": "https://www.yahoo.com/news/us/articles/small-data-center-proposed-industrial-024543749.html"
+   },
+   {
+    "para": 1,
+    "t": "The site is 46 acres in an industrial park south of Maquoketa, near Walmart and Highway 61, in Clinton County, Iowa.",
+    "src": "https://www.yahoo.com/news/us/articles/small-data-center-proposed-industrial-024543749.html"
+   },
+   {
+    "para": 1,
+    "t": "The land has not been transferred yet; questions about nuisance, utility use and construction requirements have to be settled first, and construction would be years away and depends on approval.",
+    "src": "https://www.yahoo.com/news/us/articles/small-data-center-proposed-industrial-024543749.html"
+   },
+   {
+    "para": 2,
+    "t": "Residents spoke against it at a city council meeting.",
+    "src": "https://www.yahoo.com/news/us/articles/small-data-center-proposed-industrial-024543749.html"
+   },
+   {
+    "para": 2,
+    "t": "Forrest Grey said: \"I think when people think of Maquoketa, a data center is not going to be on the list of positives for us.\"",
+    "src": "https://www.yahoo.com/news/us/articles/small-data-center-proposed-industrial-024543749.html"
+   },
+   {
+    "para": 2,
+    "t": "Angie Petit Lichter, of the county conservation board, questioned the employment projections over a twenty year horizon.",
+    "src": "https://www.yahoo.com/news/us/articles/small-data-center-proposed-industrial-024543749.html"
+   },
+   {
+    "para": 2,
+    "t": "Marie Young said: \"Maquoketa can think bigger and more creatively, and Maquoketa can choose a better future for our people.\"",
+    "src": "https://www.yahoo.com/news/us/articles/small-data-center-proposed-industrial-024543749.html"
+   },
+   {
+    "para": 3,
+    "t": "The site is recorded at 46 acres, which matches, but the address is given as off Highway 61 at Delmar in Clinton County while the entry is named for Jackson County, where Maquoketa is.",
+    "src": "data:address"
+   },
+   {
+    "para": 3,
+    "t": "A QTS campus at Clinton is 37 kilometres away, and the 1,819 megawatt Quad Cities nuclear station 44.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.yahoo.com/news/us/articles/small-data-center-proposed-industrial-024543749.html"
+  ],
+  "unconfirmed": "No developer is named in the report or in our record, and no megawatt figure, square footage or water demand was published. The date of the city council meeting is not given. No county approval date or vote was found. The address in our record puts the site at Delmar in Clinton County while the reporting places it south of Maquoketa in Jackson County, about 15 kilometres apart, so the coordinates and the surrounding context may be wrong. The Data Center Dynamics article in our record returned 403."
+ },
+ {
+  "id": "ft-225",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The single source attached to this entry is about a different Cielo project in South Carolina and says nothing about Iowa.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "A 150 megawatt Cielo data center campus is recorded on 166 acres at US Highway 65 and Iowa Highway 5 in Des Moines, with low confidence attached to the entry.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The same South Carolina article is attached to two other Cielo entries, in Colorado and Florida, and concerns none of them.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Six data center sites are recorded in Polk County, with an Apple site at Waukee 7 kilometres away, an Edged building at Ankeny 10, and Meta and Tract campuses at Altoona 13.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The generation is close: the 113 megawatt River Hills plant 4 kilometres off, the 504 megawatt Greater Des Moines plant and the 154 megawatt Pleasant Hill plant both at 5.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Nothing within reach of Des Moines restricts these buildings.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Nothing about this project could be verified. The only source in our record concerns a different state, so the 150 megawatts, the 166 acres, the developer's plans, the filing date and the current status all rest on our record alone, which itself marks the entry low confidence. The repeated attachment of one South Carolina article to three separate Cielo entries looks like a filing error in the dataset. No Des Moines local reporting was sought."
+ },
+ {
+  "id": "ft-1782755707189-2976",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Nearly 300 people came to Dubuque County's first public meeting about data centers.",
+    "src": "https://www.kcrg.com/2026/06/24/data-center-concerns-draw-hundreds-dubuque-county-town-hall/"
+   },
+   {
+    "para": 0,
+    "t": "It was held at the Peosta Rec Center in June 2026, and about 30 of them spoke, on water quality, property values, utility infrastructure and what else the county might attract instead.",
+    "src": "https://www.kcrg.com/2026/06/24/data-center-concerns-draw-hundreds-dubuque-county-town-hall/"
+   },
+   {
+    "para": 1,
+    "t": "Stephanie Grutz, who owns The Health Spa in Peosta, said: \"I want to make sure that we're not driving forward without really understanding the health and long-term implications of it.\"",
+    "src": "https://www.kcrg.com/2026/06/24/data-center-concerns-draw-hundreds-dubuque-county-town-hall/"
+   },
+   {
+    "para": 2,
+    "t": "The county had already voted for a twelve month halt on data center development, and is writing an ordinance with public input: a draft in four months and a final version in about ten.",
+    "src": "https://www.kcrg.com/2026/06/24/data-center-concerns-draw-hundreds-dubuque-county-town-hall/"
+   },
+   {
+    "para": 2,
+    "t": "That moratorium runs from 26 May 2026 to 26 May 2027.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "Karis is named as the developer of a data center near Dubuque Regional Airport, with organised local advocacy logged against it, but no acreage and no capacity figure.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "A second Dubuque data center is 6 kilometres away and a Simple Mining site 27.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "A 200 megawatt solar plant 35 kilometres off is the closest generation to it.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.kcrg.com/2026/06/24/data-center-concerns-draw-hundreds-dubuque-county-town-hall/"
+  ],
+  "unconfirmed": "The report on the town hall never names Karis or the airport site, so the connection between the meeting and this particular project rests on our record and on the timing. No acreage, megawatt figure, water demand, filing date or hearing has been established for the Karis proposal itself, and no official is named or quoted. The Data Center Dynamics article naming Karis as the firm behind the project returned 403. Whether the county ordinance has since been adopted is not known."
+ },
+ {
+  "id": "ft-1782767279002-6514",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Two counties adopted moratoriums a week apart after this one became public.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 0,
+    "t": "Plymouth County put a year long halt on data centers in force on 17 June 2026 and Woodbury County, where the site is, on 24 June 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "The project is put at 900 acres on 260th Street at Salix, with MidAmerican named in the entry and Google as a potential tenant, and a petition headed \"Stop proposed hyper data center in Salix, Iowa\" against it.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 1,
+    "t": "Both trade reports attached to the entry returned 403, so the megawatt capacity, the investment, the timeline and the basis for the Google connection could not be checked.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The power is two coal plants over the fence.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "George Neal South, 647 megawatts, is 8 kilometres away and George Neal North, 510 megawatts, is 9.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "After that the nearest generation is a wind farm 46 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Woodbury County, with no other project within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Both sources in our record returned 403. Google's involvement is described in our record as potential and no source read confirms it; the company has not been shown to have commented. The megawatt capacity, the investment, the utility arrangement and the current status of any application are all unknown, as is what the two county moratoriums mean for a project already in train. No resident or official is named or quoted, and the petition in our record was not read."
+ },
+ {
+  "id": "ft-1765218735449-8207",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This proposal is for a data center powered by its own small nuclear reactor, on federal laboratory land.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "It is put at 60 megawatts at the Idaho National Laboratory near Idaho Falls, in Bonneville County, Idaho, and the single source, headed \"SMR developer Deep Atomic proposes nuclear-powered AI data center at Idaho National Lab\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "A petition against it, headed \"Say no to nuclear-powered AI in Idaho without strong climate and safety protections\", is attached to the entry, with local pushback logged.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "The generation around the laboratory today is wind: four farms totalling about 466 megawatts between 18 and 21 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The grid is the Bonneville Power Administration's, with a peak load of 9,418 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Bonneville County, with no other project within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "No county or city nearby has moved to restrict them.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the reactor design, the timeline, the regulatory route, the cost and whether the laboratory or the Department of Energy has agreed to anything are all unknown. A small modular reactor of this kind would need Nuclear Regulatory Commission licensing, and nothing about that process could be established. The petition in our record was not read and no resident, official or tribal representative is named or quoted."
+ },
+ {
+  "id": "ft-1788614497039-3418",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Sherry Agnew has lived beside this land in Kuna, in Ada County, Idaho, for 25 years, and what worries her about the data center is her electricity bill.",
+    "src": "https://www.kivitv.com/kuna/620-acre-data-center-planned-for-kuna-sparks-concerns-over-power-rates"
+   },
+   {
+    "para": 0,
+    "t": "\"I'm just worried being a senior citizen, I don't want my power rates to go up,\" she said, describing the scale of what is planned as mind-boggling.",
+    "src": "https://www.kivitv.com/kuna/620-acre-data-center-planned-for-kuna-sparks-concerns-over-power-rates"
+   },
+   {
+    "para": 1,
+    "t": "Diode Ventures is developing the Gemstone Technology Park on 620 acres of farmland in southeast Kuna, and the city approved the rezoning in 2025.",
+    "src": "https://www.kivitv.com/kuna/620-acre-data-center-planned-for-kuna-sparks-concerns-over-power-rates"
+   },
+   {
+    "para": 1,
+    "t": "The company had not broken ground on any infrastructure or buildings when that report was published.",
+    "src": "https://www.kivitv.com/kuna/620-acre-data-center-planned-for-kuna-sparks-concerns-over-power-rates"
+   },
+   {
+    "para": 2,
+    "t": "The legislature took up the rate question.",
+    "src": "https://www.kivitv.com/kuna/620-acre-data-center-planned-for-kuna-sparks-concerns-over-power-rates"
+   },
+   {
+    "para": 2,
+    "t": "Idaho House Bill 756 would require customers needing 20 megawatts or more, Gemstone among them, to pay for their own infrastructure so the cost does not fall on other ratepayers.",
+    "src": "https://www.kivitv.com/kuna/620-acre-data-center-planned-for-kuna-sparks-concerns-over-power-rates"
+   },
+   {
+    "para": 3,
+    "t": "The developer's own project page says it will take on all of the cost of the grid interconnection upgrades, and that Idaho Power has run a feasibility study on the power needed.",
+    "src": "https://www.diodeventures.com/gemstone-project-updates"
+   },
+   {
+    "para": 3,
+    "t": "It gives no megawatt figure at all.",
+    "src": "https://www.diodeventures.com/gemstone-project-updates"
+   },
+   {
+    "para": 4,
+    "t": "On water, the company says the land's historical groundwater irrigation rights are being converted to industrial use, which cuts the maximum allowable usage by 33 percent, so the total volume falls while the diversion rate stays the same.",
+    "src": "https://www.diodeventures.com/gemstone-project-updates"
+   },
+   {
+    "para": 4,
+    "t": "Cooling water would be treated to Idaho Department of Environmental Quality standards, and the site would not use the city of Kuna's utilities.",
+    "src": "https://www.diodeventures.com/gemstone-project-updates"
+   },
+   {
+    "para": 5,
+    "t": "The company puts the investment at more than $1 billion, with 800 to 1,200 construction jobs at peak and more than 100 permanent ones.",
+    "src": "https://www.diodeventures.com/gemstone-project-updates"
+   },
+   {
+    "para": 5,
+    "t": "It offers $30 million to the Kuna Rural Fire District over 13 years, $10 million to Kuna Police over 20, and $500,000 to the school district for athletics and technology.",
+    "src": "https://www.diodeventures.com/gemstone-project-updates"
+   },
+   {
+    "para": 5,
+    "t": "It promises phased development, setbacks, berms, landscaped screening, dark sky compatible lighting and noise dampening enclosures around the generators.",
+    "src": "https://www.diodeventures.com/gemstone-project-updates"
+   },
+   {
+    "para": 6,
+    "t": "The project is listed as under construction, which the reporting contradicts.",
+    "src": "data:status"
+   },
+   {
+    "para": 6,
+    "t": "Meta's Kuna campus is 5 kilometres away and a T5 campus at Nampa 24.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 6,
+    "t": "Idaho Power's whole system has a peak load of 3,723 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 6,
+    "t": "The nearest generation to the site is the 83 megawatt Lucky Peak hydroelectric plant, 26 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.kivitv.com/kuna/620-acre-data-center-planned-for-kuna-sparks-concerns-over-power-rates",
+   "https://www.diodeventures.com/gemstone-project-updates"
+  ],
+  "unconfirmed": "No megawatt figure has been published for a project the legislature singled out as a large load, which is the number the rate argument turns on. The water claim, the job figures, the investment and the community payments are all the developer's own and no independent assessment was found. Whether House Bill 756 passed is not established. Our record's status of under construction conflicts with the report that no ground had been broken. A BoiseDev report on a lawsuit over the project returned 403, so who sued, over what and with what result are unknown."
+ },
+ {
+  "id": "ft-1784071383967-5023",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Pocatello's hearing examiner refused this data center on 14 May 2026, on the ground that the developer had failed to prove it would not harm the community's health, safety or welfare.",
+    "src": "https://idahobusinessreview.com/2026/07/13/pocatello-city-council-appeal-data-center-proposal/"
+   },
+   {
+    "para": 0,
+    "t": "Lex Developments appealed, and the Pocatello city council, in Bannock County, Idaho, heard the appeal on 16 July 2026, unable to take new evidence or testimony.",
+    "src": "https://idahobusinessreview.com/2026/07/13/pocatello-city-council-appeal-data-center-proposal/"
+   },
+   {
+    "para": 1,
+    "t": "The project is valued at $2.6 billion, on the site of the former Hoku Materials polysilicon plant at Pocatello, in Bannock County, Idaho.",
+    "src": "https://idahobusinessreview.com/2026/07/13/pocatello-city-council-appeal-data-center-proposal/"
+   },
+   {
+    "para": 1,
+    "t": "It is put at 100 megawatts and listed as suspended.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "On 7 July 2026, from Fort Hall, the Shoshone-Bannock Tribes reaffirmed their opposition, after going through the public records, the project materials and the testimony given at the conditional use permit hearing.",
+    "src": "https://www.sbtribes.com/shoshone-bannock-tribes-reaffirm-opposition-to-proposed-ai-data-center-in-pocatello/"
+   },
+   {
+    "para": 2,
+    "t": "Their objection is that the developer has not given enough information to judge three things: what it would do to electricity rates, to water, and to the environment.",
+    "src": "https://www.sbtribes.com/shoshone-bannock-tribes-reaffirm-opposition-to-proposed-ai-data-center-in-pocatello/"
+   },
+   {
+    "para": 3,
+    "t": "On rates, the Tribes note that House Bill 911 of 2026 requires developers to fund their own infrastructure but question whether it will be enforced, and point out that Idaho Power testified it did not have sufficient near term capacity while citing growth in its rate cases.",
+    "src": "https://www.sbtribes.com/shoshone-bannock-tribes-reaffirm-opposition-to-proposed-ai-data-center-in-pocatello/"
+   },
+   {
+    "para": 3,
+    "t": "On water, they quote the developer's own answer, that \"we are not going to use more than four to five houses worth of water\", and say that is not enough to review, with the Portneuf River running alongside the site.",
+    "src": "https://www.sbtribes.com/shoshone-bannock-tribes-reaffirm-opposition-to-proposed-ai-data-center-in-pocatello/"
+   },
+   {
+    "para": 3,
+    "t": "On the environment they list construction pollution, generator emissions, heat, wastewater and runoff as unaddressed, and add that keeping coal plants running longer to feed data center demand extends both the fossil fuel burn and the water it consumes.",
+    "src": "https://www.sbtribes.com/shoshone-bannock-tribes-reaffirm-opposition-to-proposed-ai-data-center-in-pocatello/"
+   },
+   {
+    "para": 3,
+    "t": "The statement rests the Tribes' standing on their responsibility for \"ceded lands and historical homelands\", and asks for decisions driven by environmental data rather than economics alone.",
+    "src": "https://www.sbtribes.com/shoshone-bannock-tribes-reaffirm-opposition-to-proposed-ai-data-center-in-pocatello/"
+   },
+   {
+    "para": 4,
+    "t": "Josh Johnson, central Idaho director of the Idaho Conservation League, put the scale of the industry this way: \"the energy use of data centers is unprecedented\".",
+    "src": "https://idahobusinessreview.com/2026/07/13/pocatello-city-council-appeal-data-center-proposal/"
+   },
+   {
+    "para": 4,
+    "t": "He pointed to the Stratos facility in Utah, whose developers expect to need 7 gigawatts, more than twice what the whole state of Idaho uses now, and said a medium sized data center can use about as much water as an 18 hole golf course or a large alfalfa field.",
+    "src": "https://idahobusinessreview.com/2026/07/13/pocatello-city-council-appeal-data-center-proposal/"
+   },
+   {
+    "para": 5,
+    "t": "Idaho's legislature passed House Bill 895 in 2026, requiring closed loop water systems for data centers starting construction after 1 July 2026, which Johnson called a step in the right direction.",
+    "src": "https://idahobusinessreview.com/2026/07/13/pocatello-city-council-appeal-data-center-proposal/"
+   },
+   {
+    "para": 5,
+    "t": "The state still gives data centers tax breaks; a bill to end them failed in the 2026 session.",
+    "src": "https://idahobusinessreview.com/2026/07/13/pocatello-city-council-appeal-data-center-proposal/"
+   },
+   {
+    "para": 6,
+    "t": "Bannock County adopted its own data center moratorium on 30 July 2026, two weeks after the appeal hearing.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 6,
+    "t": "A second Lex Developments entry sits at the same coordinates.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://idahobusinessreview.com/2026/07/13/pocatello-city-council-appeal-data-center-proposal/",
+   "https://www.sbtribes.com/shoshone-bannock-tribes-reaffirm-opposition-to-proposed-ai-data-center-in-pocatello/"
+  ],
+  "unconfirmed": "How the city council decided the appeal on 16 July 2026 is not established, so our record's status of suspended could not be confirmed. The campus is described elsewhere as seven buildings of about 100,000 square feet each reaching 100 megawatts by 2031, but the reports read give no building count or capacity, so those figures are not used above. No city official is named or quoted, and no representative of Lex Developments responded in anything read. Our record holds a duplicate Lex Developments entry at the same coordinates. Both Data Center Dynamics articles in our record returned 403."
+ }
+]

@@ -1,0 +1,1485 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="robots" content="noindex,follow">
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Florida Data Center Risk Calculator — All 67 Counties Ranked | FloridaDataCenters.org</title>
+    <meta name="description" content="How likely is a hyperscale data center in your Florida county? Interactive map + full ranking for all 67 Florida counties. Power, water, land, and proximity factors. Free tool, public data, transparent methodology.">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="Florida Data Center Risk Calculator — All 67 Counties Ranked | Florida Data Centers">
+    <meta property="og:description" content="How likely is a hyperscale data center in your Florida county? Interactive map + full ranking for all 67 Florida counties. Power, water, land, and proximity factors. Free tool, public data, transparent methodology.">
+    <meta property="og:image" content="https://globaldatacenters.net/og-image.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://globaldatacenters.net/og-image.png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400&family=Work+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css">
+    <link rel="stylesheet" href="/risk-calculator.css">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://globaldatacenters.net/#org",
+      "name": "Florida Data Centers",
+      "url": "https://globaldatacenters.net",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://globaldatacenters.net/apple-touch-icon.png",
+        "width": 180,
+        "height": 180
+      },
+      "description": "Independent, non-commercial tracker of hyperscale and AI data center projects proposed across all 50 states, with the deepest coverage in Florida's 67 counties."
+    },
+    {
+      "@type": "WebApplication",
+      "name": "Florida Data Center Risk Calculator",
+      "url": "https://globaldatacenters.net/risk-calculator",
+      "applicationCategory": "UtilityApplication",
+      "operatingSystem": "Any (web)",
+      "description": "Interactive risk score for all 67 Florida counties measuring hyperscale data center likelihood across power, water, land, and proximity factors.",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "publisher": {
+        "@id": "https://globaldatacenters.net/#org"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://globaldatacenters.net/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Risk Calculator",
+          "item": "https://globaldatacenters.net/risk-calculator"
+        }
+      ]
+    }
+  ]
+}
+</script>
+    <script type="text/javascript">
+        (function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "whyg2fbg7c");
+    </script>
+</head>
+<body>
+
+<header class="masthead">
+    <div class="wrap">
+        <div class="masthead-inner">
+            <div class="mast-meta js-date-full">Sunday, April 19, 2026</div>
+            <div class="mast-title"><a href="/">Florida Data Centers<span class="dot">.</span></a></div>
+            <div class="mast-meta mast-meta-right">Est. 2026 · Independent</div>
+        </div>
+    </div>
+</header>
+
+<div class="tagline-bar">
+    <div class="wrap">Tracking every proposed hyperscale data center in Florida's 67 counties.</div>
+</div>
+
+<nav class="county-nav">
+    <div class="wrap">
+        <div class="county-nav-inner">
+            <a href="/#map">Map</a>
+            <a href="/risk-calculator" class="active">Risk Calculator</a>
+            <a href="/palm-beach-county">Palm Beach</a>
+            <a href="/polk-county">Polk</a>
+            <a href="/st-lucie-county">St. Lucie</a>
+            <a href="/okeechobee-county">Okeechobee</a>
+            <a href="/martin-county">Martin</a>
+            <a href="/citrus-county">Citrus</a>
+            <a href="/nassau-county">Nassau</a>
+            <a href="/broward-county">Broward</a>
+            <a href="/miami-dade-county">Miami-Dade</a>
+            <a href="/#florida-law">Florida Law</a>
+        </div>
+    </div>
+</nav>
+
+<div class="wrap">
+    <div class="breadcrumb">
+        <a href="/">Florida</a>
+        <span class="sep">/</span>
+        Risk Calculator
+    </div>
+</div>
+
+<section class="rc-landing-header">
+    <div class="wrap">
+        <div class="rc-kicker">Risk Calculator</div>
+        <h1 class="rc-landing-title">How likely is a <em>data center</em> in your Florida county?</h1>
+        <p class="rc-landing-lede">Every county in Florida has different structural factors that attract or repel hyperscale data center development. Power availability. Water capacity. Land. Proximity to existing projects. We score all 67 Florida counties on these factors — not to predict, but to surface the conditions that developers evaluate before they pick a site.</p>
+
+        <div class="rc-selector">
+            <label for="county-select" class="rc-selector-label">Select your county</label>
+            <select id="county-select" class="rc-selector-dropdown" onchange="if(this.value) window.location=this.value">
+                <option value="">— Choose a county —</option>
+                <option value="/counties/alachua">Alachua</option>
+<option value="/counties/baker">Baker</option>
+<option value="/counties/bay">Bay</option>
+<option value="/counties/bradford">Bradford</option>
+<option value="/counties/brevard">Brevard</option>
+<option value="/counties/broward">Broward</option>
+<option value="/counties/calhoun">Calhoun</option>
+<option value="/counties/charlotte">Charlotte</option>
+<option value="/counties/citrus">Citrus</option>
+<option value="/counties/clay">Clay</option>
+<option value="/counties/collier">Collier</option>
+<option value="/counties/columbia">Columbia</option>
+<option value="/counties/desoto">DeSoto</option>
+<option value="/counties/dixie">Dixie</option>
+<option value="/counties/duval">Duval</option>
+<option value="/counties/escambia">Escambia</option>
+<option value="/counties/flagler">Flagler</option>
+<option value="/counties/franklin">Franklin</option>
+<option value="/counties/gadsden">Gadsden</option>
+<option value="/counties/gilchrist">Gilchrist</option>
+<option value="/counties/glades">Glades</option>
+<option value="/counties/gulf">Gulf</option>
+<option value="/counties/hamilton">Hamilton</option>
+<option value="/counties/hardee">Hardee</option>
+<option value="/counties/hendry">Hendry</option>
+<option value="/counties/hernando">Hernando</option>
+<option value="/counties/highlands">Highlands</option>
+<option value="/counties/hillsborough">Hillsborough</option>
+<option value="/counties/holmes">Holmes</option>
+<option value="/counties/indian-river">Indian River</option>
+<option value="/counties/jackson">Jackson</option>
+<option value="/counties/jefferson">Jefferson</option>
+<option value="/counties/lafayette">Lafayette</option>
+<option value="/counties/lake">Lake</option>
+<option value="/counties/lee">Lee</option>
+<option value="/counties/leon">Leon</option>
+<option value="/counties/levy">Levy</option>
+<option value="/counties/liberty">Liberty</option>
+<option value="/counties/madison">Madison</option>
+<option value="/counties/manatee">Manatee</option>
+<option value="/counties/marion">Marion</option>
+<option value="/counties/martin">Martin</option>
+<option value="/counties/miami-dade">Miami-Dade</option>
+<option value="/counties/monroe">Monroe</option>
+<option value="/counties/nassau">Nassau</option>
+<option value="/counties/okaloosa">Okaloosa</option>
+<option value="/counties/okeechobee">Okeechobee</option>
+<option value="/counties/orange">Orange</option>
+<option value="/counties/osceola">Osceola</option>
+<option value="/counties/palm-beach">Palm Beach</option>
+<option value="/counties/pasco">Pasco</option>
+<option value="/counties/pinellas">Pinellas</option>
+<option value="/counties/polk">Polk</option>
+<option value="/counties/putnam">Putnam</option>
+<option value="/counties/santa-rosa">Santa Rosa</option>
+<option value="/counties/sarasota">Sarasota</option>
+<option value="/counties/seminole">Seminole</option>
+<option value="/counties/st-johns">St. Johns</option>
+<option value="/counties/st-lucie">St. Lucie</option>
+<option value="/counties/sumter">Sumter</option>
+<option value="/counties/suwannee">Suwannee</option>
+<option value="/counties/taylor">Taylor</option>
+<option value="/counties/union">Union</option>
+<option value="/counties/volusia">Volusia</option>
+<option value="/counties/wakulla">Wakulla</option>
+<option value="/counties/walton">Walton</option>
+<option value="/counties/washington">Washington</option>
+            </select>
+        </div>
+    </div>
+</section>
+
+<section class="rc-map-section" id="map">
+    <div class="wrap">
+        <div class="rc-map-head">
+            <h2 class="rc-map-title">Find your county on the map.</h2>
+            <p class="rc-map-lede">Every Florida county colored by risk tier. Click your county to see its score and what's nearby.</p>
+        </div>
+
+        <div class="rc-map-container">
+            <div id="fl-choropleth" class="fl-choropleth"></div>
+            <div class="rc-map-legend">
+                <div class="rc-map-legend-title">Risk Tier</div>
+                <div class="rc-map-legend-item"><span class="rc-map-legend-swatch" style="background:#a0231d"></span> Very High (80+)</div>
+                <div class="rc-map-legend-item"><span class="rc-map-legend-swatch" style="background:#b5872a"></span> High (65–79)</div>
+                <div class="rc-map-legend-item"><span class="rc-map-legend-swatch" style="background:#2f4a35"></span> Moderate (45–64)</div>
+                <div class="rc-map-legend-item"><span class="rc-map-legend-swatch" style="background:#8a8578"></span> Low (25–44)</div>
+                <div class="rc-map-legend-item"><span class="rc-map-legend-swatch rc-map-legend-pattern"></span> Active project</div>
+            </div>
+        </div>
+
+        <p class="rc-map-footnote">Data: U.S. Census Bureau county boundaries · Scoring: <a href="/methodology" class="in-text-link">floridadatacenters.org methodology</a></p>
+    </div>
+</section>
+
+<main>
+    <div class="wrap">
+        <section class="section">
+            <div class="rc-landing-stats">
+                <div class="rc-landing-stat">
+                    <div class="rc-landing-stat-num">67</div>
+                    <div class="rc-landing-stat-label">Florida counties scored</div>
+                </div>
+                <div class="rc-landing-stat">
+                    <div class="rc-landing-stat-num">4</div>
+                    <div class="rc-landing-stat-label">Structural factors</div>
+                </div>
+                <div class="rc-landing-stat">
+                    <div class="rc-landing-stat-num">9</div>
+                    <div class="rc-landing-stat-label">Counties with known projects</div>
+                </div>
+                <div class="rc-landing-stat">
+                    <div class="rc-landing-stat-num">11</div>
+                    <div class="rc-landing-stat-label">Counties with High or Very High risk</div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section">
+            <div class="section-head">
+                <div class="section-kicker">All Counties · By Tier</div>
+                <h2 class="section-title">Or browse the full ranked list.</h2>
+                <div class="section-count"></div>
+            </div>
+
+            
+            <div class="rc-tier-section">
+                <div class="rc-tier-head rc-tier-very-high">
+                    <h2 class="rc-tier-title">Very High Risk</h2>
+                    <div class="rc-tier-count">5 counties</div>
+                </div>
+                <p class="rc-tier-intro">Counties where all major factors align for data center development. Five of these counties have known proposed, approved, or recently-withdrawn projects.</p>
+                <div class="rc-tier-grid">
+                    
+                <a class="rc-county-row" href="/counties/citrus">
+                    <div class="rc-county-row-name">Citrus</div>
+                    <div class="rc-county-row-region">Nature Coast</div>
+                    <div class="rc-county-row-score rc-score-very-high">90</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/martin">
+                    <div class="rc-county-row-name">Martin</div>
+                    <div class="rc-county-row-region">Treasure Coast</div>
+                    <div class="rc-county-row-score rc-score-very-high">89</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/polk">
+                    <div class="rc-county-row-name">Polk</div>
+                    <div class="rc-county-row-region">Central</div>
+                    <div class="rc-county-row-score rc-score-very-high">82</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/st-lucie">
+                    <div class="rc-county-row-name">St. Lucie</div>
+                    <div class="rc-county-row-region">Treasure Coast</div>
+                    <div class="rc-county-row-score rc-score-very-high">82</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/okeechobee">
+                    <div class="rc-county-row-name">Okeechobee</div>
+                    <div class="rc-county-row-region">Heartland</div>
+                    <div class="rc-county-row-score rc-score-very-high">81</div>
+                </a>
+            
+                </div>
+            </div>
+        
+            <div class="rc-tier-section">
+                <div class="rc-tier-head rc-tier-high">
+                    <h2 class="rc-tier-title">High Risk</h2>
+                    <div class="rc-tier-count">6 counties</div>
+                </div>
+                <p class="rc-tier-intro">Counties with strong structural attractiveness. These are the next most likely targets for development based on power, water, land, and proximity to existing projects.</p>
+                <div class="rc-tier-grid">
+                    
+                <a class="rc-county-row" href="/counties/nassau">
+                    <div class="rc-county-row-name">Nassau</div>
+                    <div class="rc-county-row-region">Northeast</div>
+                    <div class="rc-county-row-score rc-score-high">77</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/palm-beach">
+                    <div class="rc-county-row-name">Palm Beach</div>
+                    <div class="rc-county-row-region">South</div>
+                    <div class="rc-county-row-score rc-score-high">73</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/miami-dade">
+                    <div class="rc-county-row-name">Miami-Dade</div>
+                    <div class="rc-county-row-region">South</div>
+                    <div class="rc-county-row-score rc-score-high">68</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/manatee">
+                    <div class="rc-county-row-name">Manatee</div>
+                    <div class="rc-county-row-region">Tampa Bay</div>
+                    <div class="rc-county-row-score rc-score-high">67</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/glades">
+                    <div class="rc-county-row-name">Glades</div>
+                    <div class="rc-county-row-region">Heartland</div>
+                    <div class="rc-county-row-score rc-score-high">66</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/indian-river">
+                    <div class="rc-county-row-name">Indian River</div>
+                    <div class="rc-county-row-region">Treasure Coast</div>
+                    <div class="rc-county-row-score rc-score-high">66</div>
+                </a>
+            
+                </div>
+            </div>
+        
+            <div class="rc-tier-section">
+                <div class="rc-tier-head rc-tier-moderate">
+                    <h2 class="rc-tier-title">Moderate Risk</h2>
+                    <div class="rc-tier-count">32 counties</div>
+                </div>
+                <p class="rc-tier-intro">Most of Florida falls into this tier. Some factors favor development, others work against it. Risk depends heavily on specific parcels and timing.</p>
+                <div class="rc-tier-grid">
+                    
+                <a class="rc-county-row" href="/counties/sumter">
+                    <div class="rc-county-row-name">Sumter</div>
+                    <div class="rc-county-row-region">Central</div>
+                    <div class="rc-county-row-score rc-score-moderate">64</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/hardee">
+                    <div class="rc-county-row-name">Hardee</div>
+                    <div class="rc-county-row-region">Heartland</div>
+                    <div class="rc-county-row-score rc-score-moderate">63</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/osceola">
+                    <div class="rc-county-row-name">Osceola</div>
+                    <div class="rc-county-row-region">Central</div>
+                    <div class="rc-county-row-score rc-score-moderate">62</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/baker">
+                    <div class="rc-county-row-name">Baker</div>
+                    <div class="rc-county-row-region">North</div>
+                    <div class="rc-county-row-score rc-score-moderate">60</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/highlands">
+                    <div class="rc-county-row-name">Highlands</div>
+                    <div class="rc-county-row-region">Heartland</div>
+                    <div class="rc-county-row-score rc-score-moderate">60</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/hendry">
+                    <div class="rc-county-row-name">Hendry</div>
+                    <div class="rc-county-row-region">Southwest</div>
+                    <div class="rc-county-row-score rc-score-moderate">59</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/levy">
+                    <div class="rc-county-row-name">Levy</div>
+                    <div class="rc-county-row-region">Nature Coast</div>
+                    <div class="rc-county-row-score rc-score-moderate">59</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/hillsborough">
+                    <div class="rc-county-row-name">Hillsborough</div>
+                    <div class="rc-county-row-region">Tampa Bay</div>
+                    <div class="rc-county-row-score rc-score-moderate">57</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/dixie">
+                    <div class="rc-county-row-name">Dixie</div>
+                    <div class="rc-county-row-region">Nature Coast</div>
+                    <div class="rc-county-row-score rc-score-moderate">56</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/pasco">
+                    <div class="rc-county-row-name">Pasco</div>
+                    <div class="rc-county-row-region">Tampa Bay</div>
+                    <div class="rc-county-row-score rc-score-moderate">56</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/duval">
+                    <div class="rc-county-row-name">Duval</div>
+                    <div class="rc-county-row-region">Northeast</div>
+                    <div class="rc-county-row-score rc-score-moderate">55</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/lake">
+                    <div class="rc-county-row-name">Lake</div>
+                    <div class="rc-county-row-region">Central</div>
+                    <div class="rc-county-row-score rc-score-moderate">55</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/marion">
+                    <div class="rc-county-row-name">Marion</div>
+                    <div class="rc-county-row-region">Central</div>
+                    <div class="rc-county-row-score rc-score-moderate">55</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/volusia">
+                    <div class="rc-county-row-name">Volusia</div>
+                    <div class="rc-county-row-region">East</div>
+                    <div class="rc-county-row-score rc-score-moderate">54</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/hernando">
+                    <div class="rc-county-row-name">Hernando</div>
+                    <div class="rc-county-row-region">Nature Coast</div>
+                    <div class="rc-county-row-score rc-score-moderate">53</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/alachua">
+                    <div class="rc-county-row-name">Alachua</div>
+                    <div class="rc-county-row-region">North Central</div>
+                    <div class="rc-county-row-score rc-score-moderate">52</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/desoto">
+                    <div class="rc-county-row-name">DeSoto</div>
+                    <div class="rc-county-row-region">Heartland</div>
+                    <div class="rc-county-row-score rc-score-moderate">51</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/orange">
+                    <div class="rc-county-row-name">Orange</div>
+                    <div class="rc-county-row-region">Central</div>
+                    <div class="rc-county-row-score rc-score-moderate">51</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/brevard">
+                    <div class="rc-county-row-name">Brevard</div>
+                    <div class="rc-county-row-region">East Central</div>
+                    <div class="rc-county-row-score rc-score-moderate">50</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/escambia">
+                    <div class="rc-county-row-name">Escambia</div>
+                    <div class="rc-county-row-region">Panhandle</div>
+                    <div class="rc-county-row-score rc-score-moderate">50</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/broward">
+                    <div class="rc-county-row-name">Broward</div>
+                    <div class="rc-county-row-region">South</div>
+                    <div class="rc-county-row-score rc-score-moderate">50</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/bay">
+                    <div class="rc-county-row-name">Bay</div>
+                    <div class="rc-county-row-region">Panhandle</div>
+                    <div class="rc-county-row-score rc-score-moderate">49</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/charlotte">
+                    <div class="rc-county-row-name">Charlotte</div>
+                    <div class="rc-county-row-region">Southwest</div>
+                    <div class="rc-county-row-score rc-score-moderate">49</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/sarasota">
+                    <div class="rc-county-row-name">Sarasota</div>
+                    <div class="rc-county-row-region">Southwest</div>
+                    <div class="rc-county-row-score rc-score-moderate">49</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/putnam">
+                    <div class="rc-county-row-name">Putnam</div>
+                    <div class="rc-county-row-region">Northeast</div>
+                    <div class="rc-county-row-score rc-score-moderate">47</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/seminole">
+                    <div class="rc-county-row-name">Seminole</div>
+                    <div class="rc-county-row-region">Central</div>
+                    <div class="rc-county-row-score rc-score-moderate">47</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/bradford">
+                    <div class="rc-county-row-name">Bradford</div>
+                    <div class="rc-county-row-region">North Central</div>
+                    <div class="rc-county-row-score rc-score-moderate">46</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/gilchrist">
+                    <div class="rc-county-row-name">Gilchrist</div>
+                    <div class="rc-county-row-region">Nature Coast</div>
+                    <div class="rc-county-row-score rc-score-moderate">46</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/union">
+                    <div class="rc-county-row-name">Union</div>
+                    <div class="rc-county-row-region">North</div>
+                    <div class="rc-county-row-score rc-score-moderate">46</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/collier">
+                    <div class="rc-county-row-name">Collier</div>
+                    <div class="rc-county-row-region">Southwest</div>
+                    <div class="rc-county-row-score rc-score-moderate">45</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/flagler">
+                    <div class="rc-county-row-name">Flagler</div>
+                    <div class="rc-county-row-region">East</div>
+                    <div class="rc-county-row-score rc-score-moderate">45</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/leon">
+                    <div class="rc-county-row-name">Leon</div>
+                    <div class="rc-county-row-region">Panhandle</div>
+                    <div class="rc-county-row-score rc-score-moderate">45</div>
+                </a>
+            
+                </div>
+            </div>
+        
+            <div class="rc-tier-section">
+                <div class="rc-tier-head rc-tier-low">
+                    <h2 class="rc-tier-title">Low Risk</h2>
+                    <div class="rc-tier-count">24 counties</div>
+                </div>
+                <p class="rc-tier-intro">Counties with structural factors that slow data center development — typically dense urban cores with limited land, or rural counties with limited power access.</p>
+                <div class="rc-tier-grid">
+                    
+                <a class="rc-county-row" href="/counties/columbia">
+                    <div class="rc-county-row-name">Columbia</div>
+                    <div class="rc-county-row-region">North</div>
+                    <div class="rc-county-row-score rc-score-low">44</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/clay">
+                    <div class="rc-county-row-name">Clay</div>
+                    <div class="rc-county-row-region">Northeast</div>
+                    <div class="rc-county-row-score rc-score-low">43</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/pinellas">
+                    <div class="rc-county-row-name">Pinellas</div>
+                    <div class="rc-county-row-region">Tampa Bay</div>
+                    <div class="rc-county-row-score rc-score-low">43</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/santa-rosa">
+                    <div class="rc-county-row-name">Santa Rosa</div>
+                    <div class="rc-county-row-region">Panhandle</div>
+                    <div class="rc-county-row-score rc-score-low">43</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/st-johns">
+                    <div class="rc-county-row-name">St. Johns</div>
+                    <div class="rc-county-row-region">Northeast</div>
+                    <div class="rc-county-row-score rc-score-low">43</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/walton">
+                    <div class="rc-county-row-name">Walton</div>
+                    <div class="rc-county-row-region">Panhandle</div>
+                    <div class="rc-county-row-score rc-score-low">43</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/lee">
+                    <div class="rc-county-row-name">Lee</div>
+                    <div class="rc-county-row-region">Southwest</div>
+                    <div class="rc-county-row-score rc-score-low">41</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/hamilton">
+                    <div class="rc-county-row-name">Hamilton</div>
+                    <div class="rc-county-row-region">North</div>
+                    <div class="rc-county-row-score rc-score-low">40</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/lafayette">
+                    <div class="rc-county-row-name">Lafayette</div>
+                    <div class="rc-county-row-region">Nature Coast</div>
+                    <div class="rc-county-row-score rc-score-low">40</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/madison">
+                    <div class="rc-county-row-name">Madison</div>
+                    <div class="rc-county-row-region">North</div>
+                    <div class="rc-county-row-score rc-score-low">40</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/suwannee">
+                    <div class="rc-county-row-name">Suwannee</div>
+                    <div class="rc-county-row-region">North</div>
+                    <div class="rc-county-row-score rc-score-low">40</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/taylor">
+                    <div class="rc-county-row-name">Taylor</div>
+                    <div class="rc-county-row-region">Nature Coast</div>
+                    <div class="rc-county-row-score rc-score-low">40</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/calhoun">
+                    <div class="rc-county-row-name">Calhoun</div>
+                    <div class="rc-county-row-region">Panhandle</div>
+                    <div class="rc-county-row-score rc-score-low">39</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/franklin">
+                    <div class="rc-county-row-name">Franklin</div>
+                    <div class="rc-county-row-region">Panhandle</div>
+                    <div class="rc-county-row-score rc-score-low">39</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/gadsden">
+                    <div class="rc-county-row-name">Gadsden</div>
+                    <div class="rc-county-row-region">Panhandle</div>
+                    <div class="rc-county-row-score rc-score-low">39</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/gulf">
+                    <div class="rc-county-row-name">Gulf</div>
+                    <div class="rc-county-row-region">Panhandle</div>
+                    <div class="rc-county-row-score rc-score-low">39</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/holmes">
+                    <div class="rc-county-row-name">Holmes</div>
+                    <div class="rc-county-row-region">Panhandle</div>
+                    <div class="rc-county-row-score rc-score-low">39</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/jackson">
+                    <div class="rc-county-row-name">Jackson</div>
+                    <div class="rc-county-row-region">Panhandle</div>
+                    <div class="rc-county-row-score rc-score-low">39</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/jefferson">
+                    <div class="rc-county-row-name">Jefferson</div>
+                    <div class="rc-county-row-region">North</div>
+                    <div class="rc-county-row-score rc-score-low">39</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/liberty">
+                    <div class="rc-county-row-name">Liberty</div>
+                    <div class="rc-county-row-region">Panhandle</div>
+                    <div class="rc-county-row-score rc-score-low">39</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/okaloosa">
+                    <div class="rc-county-row-name">Okaloosa</div>
+                    <div class="rc-county-row-region">Panhandle</div>
+                    <div class="rc-county-row-score rc-score-low">39</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/wakulla">
+                    <div class="rc-county-row-name">Wakulla</div>
+                    <div class="rc-county-row-region">Panhandle</div>
+                    <div class="rc-county-row-score rc-score-low">39</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/washington">
+                    <div class="rc-county-row-name">Washington</div>
+                    <div class="rc-county-row-region">Panhandle</div>
+                    <div class="rc-county-row-score rc-score-low">39</div>
+                </a>
+            
+                <a class="rc-county-row" href="/counties/monroe">
+                    <div class="rc-county-row-name">Monroe</div>
+                    <div class="rc-county-row-region">Keys</div>
+                    <div class="rc-county-row-score rc-score-low">28</div>
+                </a>
+            
+                </div>
+            </div>
+        
+        </section>
+
+        <section class="section rc-methodology-link">
+            <h2 class="rc-section-title">How the score works</h2>
+            <p class="rc-section-lede">Every input is public data or a clearly-labeled proxy. The formula is transparent. <a href="/methodology" class="in-text-link">Read the full methodology →</a></p>
+        </section>
+    </div>
+
+        <section class="section rc-cta-section">
+            <div class="wrap">
+                <div class="rc-cta">
+                    <div class="rc-cta-kicker">What you can do</div>
+                    <h2 class="rc-cta-heading">See your county's tier. Now make your opposition count.</h2>
+                    <p class="rc-cta-body">Enter your address and pick your concerns. We research your commissioners, write a personalized opposition letter citing state statutes and your county's project data, and email it directly to every commissioner on your behalf. You get a full copy of everything sent.<br><br>
+                    1,143 letters sent so far. Works in any state. 60 seconds.</p>
+                    <a href="/take-action" class="rc-cta-button" style="display:inline-block;text-decoration:none;text-align:center;">Take Action Now</a>
+                    <p class="rc-cta-note">60 seconds &middot; Letter sent within 24 hours</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="section topic-links-section" style="padding: 30px 0 50px; border-top: 1px solid var(--rule);">
+            <div class="wrap">
+                <div class="section-kicker" style="margin-bottom: 16px;">Resident guides</div>
+                <h2 class="topic-links-heading" style="font-family: 'Fraunces', serif; font-size: 1.4rem; font-weight: 500; margin-bottom: 18px; letter-spacing: -0.01em;">More on what data centers mean for Florida residents</h2>
+                <ul class="topic-links-list" style="list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 8px 24px;">
+                    <li><a href="/data-center-water-usage-florida" class="in-text-link">Water usage &amp; aquifer impact</a></li>
+                    <li><a href="/data-center-well-water-florida" class="in-text-link">Well water contamination</a></li>
+                    <li><a href="/data-center-electric-bill-florida" class="in-text-link">Your FPL / Duke / electric bill</a></li>
+                    <li><a href="/data-center-noise-florida" class="in-text-link">Industrial noise &amp; decibels</a></li>
+                    <li><a href="/data-center-property-value-florida" class="in-text-link">Property value impact</a></li>
+                    <li><a href="/data-center-health-risks-florida" class="in-text-link">Health risks &amp; air quality</a></li>
+                    <li><a href="/data-center-near-my-home-florida" class="in-text-link">Is one near my home?</a></li>
+                    <li><a href="/data-center-hoa-florida" class="in-text-link">HOA &amp; deed restrictions</a></li>
+                    <li><a href="/selling-home-near-data-center-florida" class="in-text-link">Selling a home near a data center</a></li>
+                    <li><a href="/find-data-center-proposal-florida" class="in-text-link">How to find a proposal</a></li>
+                    <li><a href="/florida-county-commission-hearing-data-center" class="in-text-link">County commission hearings</a></li>
+                    <li><a href="/florida-public-comment-letter-data-center" class="in-text-link">Writing a public comment letter</a></li>
+                    <li><a href="/stop-data-center-florida" class="in-text-link">How communities stop data centers</a></li>
+                    <li><a href="/data-centers-coming-to-florida" class="in-text-link">Data centers coming to Florida</a></li>
+                    <li><a href="/what-is-a-hyperscale-data-center" class="in-text-link">What is a hyperscale data center?</a></li>
+                </ul>
+            </div>
+        </section>
+
+</main>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3" defer></script>
+<script>
+window.addEventListener('load', function() {
+    const mapEl = document.getElementById('fl-choropleth');
+    if (!mapEl) return;
+
+    if (typeof L === 'undefined') {
+        mapEl.innerHTML = '<div class="rc-map-fallback" style="padding:40px;text-align:center;color:#6a665a;">Map library failed to load. <a href="#tier-sections">See the ranked list below</a>.</div>';
+        return;
+    }
+
+    const SCORES = {
+  "12017": {
+    "name": "Citrus",
+    "slug": "citrus",
+    "score": 90,
+    "tier": "very-high",
+    "tierLabel": "Very High",
+    "project": "Deltona Corp (Proposed)"
+  },
+  "12085": {
+    "name": "Martin",
+    "slug": "martin",
+    "score": 89,
+    "tier": "very-high",
+    "tierLabel": "Very High",
+    "project": "Indiantown (Proposed)"
+  },
+  "12105": {
+    "name": "Polk",
+    "slug": "polk",
+    "score": 82,
+    "tier": "very-high",
+    "tierLabel": "Very High",
+    "project": "Fort Meade Campus (Approved)"
+  },
+  "12111": {
+    "name": "St. Lucie",
+    "slug": "st-lucie",
+    "score": 82,
+    "tier": "very-high",
+    "tierLabel": "Very High",
+    "project": "Sentinel Grove (Withdrawn)"
+  },
+  "12093": {
+    "name": "Okeechobee",
+    "slug": "okeechobee",
+    "score": 81,
+    "tier": "very-high",
+    "tierLabel": "Very High",
+    "project": "Okee-One (Canceled)"
+  },
+  "12089": {
+    "name": "Nassau",
+    "slug": "nassau",
+    "score": 77,
+    "tier": "high",
+    "tierLabel": "High",
+    "project": "NextNRG (Proposed)"
+  },
+  "12099": {
+    "name": "Palm Beach",
+    "slug": "palm-beach",
+    "score": 73,
+    "tier": "high",
+    "tierLabel": "High",
+    "project": "Project Tango (Vote Delayed)"
+  },
+  "12081": {
+    "name": "Manatee",
+    "slug": "manatee",
+    "score": 67,
+    "tier": "high",
+    "tierLabel": "High",
+    "project": null
+  },
+  "12043": {
+    "name": "Glades",
+    "slug": "glades",
+    "score": 66,
+    "tier": "high",
+    "tierLabel": "High",
+    "project": null
+  },
+  "12061": {
+    "name": "Indian River",
+    "slug": "indian-river",
+    "score": 66,
+    "tier": "high",
+    "tierLabel": "High",
+    "project": null
+  },
+  "12119": {
+    "name": "Sumter",
+    "slug": "sumter",
+    "score": 64,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12049": {
+    "name": "Hardee",
+    "slug": "hardee",
+    "score": 63,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12097": {
+    "name": "Osceola",
+    "slug": "osceola",
+    "score": 62,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12003": {
+    "name": "Baker",
+    "slug": "baker",
+    "score": 60,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12055": {
+    "name": "Highlands",
+    "slug": "highlands",
+    "score": 60,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12051": {
+    "name": "Hendry",
+    "slug": "hendry",
+    "score": 59,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12075": {
+    "name": "Levy",
+    "slug": "levy",
+    "score": 59,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12057": {
+    "name": "Hillsborough",
+    "slug": "hillsborough",
+    "score": 57,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12029": {
+    "name": "Dixie",
+    "slug": "dixie",
+    "score": 56,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12101": {
+    "name": "Pasco",
+    "slug": "pasco",
+    "score": 56,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12031": {
+    "name": "Duval",
+    "slug": "duval",
+    "score": 55,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12069": {
+    "name": "Lake",
+    "slug": "lake",
+    "score": 55,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12083": {
+    "name": "Marion",
+    "slug": "marion",
+    "score": 55,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12127": {
+    "name": "Volusia",
+    "slug": "volusia",
+    "score": 54,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12053": {
+    "name": "Hernando",
+    "slug": "hernando",
+    "score": 53,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12001": {
+    "name": "Alachua",
+    "slug": "alachua",
+    "score": 52,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12027": {
+    "name": "DeSoto",
+    "slug": "desoto",
+    "score": 51,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12095": {
+    "name": "Orange",
+    "slug": "orange",
+    "score": 51,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12009": {
+    "name": "Brevard",
+    "slug": "brevard",
+    "score": 50,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12033": {
+    "name": "Escambia",
+    "slug": "escambia",
+    "score": 50,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12005": {
+    "name": "Bay",
+    "slug": "bay",
+    "score": 49,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12015": {
+    "name": "Charlotte",
+    "slug": "charlotte",
+    "score": 49,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12115": {
+    "name": "Sarasota",
+    "slug": "sarasota",
+    "score": 49,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12107": {
+    "name": "Putnam",
+    "slug": "putnam",
+    "score": 47,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12117": {
+    "name": "Seminole",
+    "slug": "seminole",
+    "score": 47,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12007": {
+    "name": "Bradford",
+    "slug": "bradford",
+    "score": 46,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12041": {
+    "name": "Gilchrist",
+    "slug": "gilchrist",
+    "score": 46,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12125": {
+    "name": "Union",
+    "slug": "union",
+    "score": 46,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12021": {
+    "name": "Collier",
+    "slug": "collier",
+    "score": 45,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12035": {
+    "name": "Flagler",
+    "slug": "flagler",
+    "score": 45,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12073": {
+    "name": "Leon",
+    "slug": "leon",
+    "score": 45,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": null
+  },
+  "12011": {
+    "name": "Broward",
+    "slug": "broward",
+    "score": 50,
+    "tier": "moderate",
+    "tierLabel": "Moderate",
+    "project": "Broward Data Center (Proposed)"
+  },
+  "12023": {
+    "name": "Columbia",
+    "slug": "columbia",
+    "score": 44,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12019": {
+    "name": "Clay",
+    "slug": "clay",
+    "score": 43,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12086": {
+    "name": "Miami-Dade",
+    "slug": "miami-dade",
+    "score": 68,
+    "tier": "high",
+    "tierLabel": "High",
+    "project": "Iron Mountain MIA-1 (Under Construction)"
+  },
+  "12103": {
+    "name": "Pinellas",
+    "slug": "pinellas",
+    "score": 43,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12113": {
+    "name": "Santa Rosa",
+    "slug": "santa-rosa",
+    "score": 43,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12109": {
+    "name": "St. Johns",
+    "slug": "st-johns",
+    "score": 43,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12131": {
+    "name": "Walton",
+    "slug": "walton",
+    "score": 43,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12071": {
+    "name": "Lee",
+    "slug": "lee",
+    "score": 41,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12047": {
+    "name": "Hamilton",
+    "slug": "hamilton",
+    "score": 40,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12067": {
+    "name": "Lafayette",
+    "slug": "lafayette",
+    "score": 40,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12079": {
+    "name": "Madison",
+    "slug": "madison",
+    "score": 40,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12121": {
+    "name": "Suwannee",
+    "slug": "suwannee",
+    "score": 40,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12123": {
+    "name": "Taylor",
+    "slug": "taylor",
+    "score": 40,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12013": {
+    "name": "Calhoun",
+    "slug": "calhoun",
+    "score": 39,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12037": {
+    "name": "Franklin",
+    "slug": "franklin",
+    "score": 39,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12039": {
+    "name": "Gadsden",
+    "slug": "gadsden",
+    "score": 39,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12045": {
+    "name": "Gulf",
+    "slug": "gulf",
+    "score": 39,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12059": {
+    "name": "Holmes",
+    "slug": "holmes",
+    "score": 39,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12063": {
+    "name": "Jackson",
+    "slug": "jackson",
+    "score": 39,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12065": {
+    "name": "Jefferson",
+    "slug": "jefferson",
+    "score": 39,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12077": {
+    "name": "Liberty",
+    "slug": "liberty",
+    "score": 39,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12091": {
+    "name": "Okaloosa",
+    "slug": "okaloosa",
+    "score": 39,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12129": {
+    "name": "Wakulla",
+    "slug": "wakulla",
+    "score": 39,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12133": {
+    "name": "Washington",
+    "slug": "washington",
+    "score": 39,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  },
+  "12087": {
+    "name": "Monroe",
+    "slug": "monroe",
+    "score": 28,
+    "tier": "low",
+    "tierLabel": "Low",
+    "project": null
+  }
+};
+
+    const TIER_COLORS = {
+        "very-high": "#a0231d",
+        "high":      "#b5872a",
+        "moderate":  "#2f4a35",
+        "low":       "#8a8578",
+        "very-low":  "#c9c3b3"
+    };
+
+    const map = L.map('fl-choropleth', {
+        center: [27.8, -83.5],
+        zoom: 7,
+        scrollWheelZoom: false,
+        zoomControl: true,
+        attributionControl: true
+    });
+
+    L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
+        attribution: '&copy; OpenStreetMap &copy; Esri · Boundaries: U.S. Census',
+        maxZoom: 12,
+        minZoom: 6
+    }).addTo(map);
+
+    // Enable scroll zoom on click so it doesn't hijack page scroll
+    map.on('click', function() { map.scrollWheelZoom.enable(); });
+    map.on('mouseout', function() { map.scrollWheelZoom.disable(); });
+
+    fetch('https://cdn.jsdelivr.net/npm/us-atlas@3/counties-10m.json')
+        .then(r => r.json())
+        .then(topology => {
+            const counties = topojson.feature(topology, topology.objects.counties);
+            const flFeatures = counties.features.filter(f => String(f.id).startsWith('12'));
+
+            const flGeo = { type: 'FeatureCollection', features: flFeatures };
+
+            const defaultStyle = feature => {
+                const data = SCORES[feature.id];
+                const color = data ? TIER_COLORS[data.tier] : '#e5e1d4';
+                return {
+                    fillColor: color,
+                    fillOpacity: data && data.project ? 0.88 : 0.75,
+                    color: '#ffffff',
+                    weight: 1.2
+                };
+            };
+
+            const hoverStyle = { weight: 2.5, color: '#1a1915', fillOpacity: 0.95 };
+
+            const layer = L.geoJSON(flGeo, {
+                style: defaultStyle,
+                onEachFeature: (feature, lyr) => {
+                    const data = SCORES[feature.id];
+                    if (!data) {
+                        lyr.bindTooltip('No data available', { direction: 'top' });
+                        return;
+                    }
+
+                    const projectBadge = data.project
+                        ? `<span class="risk-popup-has-project">● ${data.project}</span>`
+                        : '';
+
+                    lyr.bindPopup(`
+                        <div class="risk-popup">
+                            <span class="risk-popup-kicker tier-${data.tier}">${data.tierLabel} Risk</span>
+                            <span class="risk-popup-name">${data.name} County</span>
+                            <span class="risk-popup-score tier-${data.tier}">${data.score}<span class="denom">/100</span></span>
+                            ${projectBadge}
+                            <a class="risk-popup-link" href="/counties/${data.slug}">See full risk report &rarr;</a>
+                        </div>
+                    `, { closeButton: true, maxWidth: 260 });
+
+                    lyr.bindTooltip(`<strong>${data.name}</strong> · ${data.score}/100`, {
+                        direction: 'top',
+                        sticky: true,
+                        className: 'rc-map-tooltip'
+                    });
+
+                    lyr.on({
+                        mouseover: e => e.target.setStyle(hoverStyle),
+                        mouseout:  e => layer.resetStyle(e.target),
+                        click:     e => map.fitBounds(e.target.getBounds().pad(0.3))
+                    });
+                }
+            }).addTo(map);
+
+            // Fit FL bounds
+            map.fitBounds(layer.getBounds(), { padding: [20, 20] });
+        })
+        .catch(err => {
+            console.error('Map load failed:', err);
+            document.getElementById('fl-choropleth').innerHTML =
+                '<div class="rc-map-fallback">Map failed to load. <a href="#tier-sections">See the ranked list below</a>.</div>';
+        });
+});
+</script>
+
+<section class="section" id="signup" style="padding: 30px 0 60px;">
+    <div class="wrap">
+        <div class="signup-box">
+            <div>
+                <div class="signup-title">They&#39;ll approve the next one <em>before you hear about it.</em></div>
+                <p class="signup-sub">One email when data center filings, votes, tax deals, or ballot deadlines hit your county. Sourced from public records and local reporting nationwide.</p>
+            </div>
+            <form class="signup-form" action="/api/contact" method="post">
+                <div class="signup-eyebrow">2,400+ residents subscribed</div>
+                <input type="email" name="email" class="signup-input" placeholder="your@email.com" required>
+                <input type="hidden" name="type" value="newsletter">
+                <button type="submit" class="signup-btn">Get county alerts</button>
+                <div class="signup-foot">No spam. Unsubscribe anytime.</div>
+            </form>
+        </div>
+    </div>
+</section>
+
+<section class="section" style="padding: 0 0 55px;">
+    <div class="wrap" style="text-align: center;">
+        <a href="https://www.facebook.com/share/g/1BS4kskLw1/" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; gap: 8px; background: #1877F2; color: #fff; padding: 13px 28px; font-family: 'Work Sans', sans-serif; font-size: 0.82rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; text-decoration: none; border: none; cursor: pointer;">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="white"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+            Join the Stop Data Centers group
+        </a>
+        <p style="font-size: 0.78rem; color: var(--ink-fade); font-style: italic; margin-top: 12px;">Public group &middot; Free to join</p>
+    </div>
+</section>
+
+<footer class="footer">
+    <div class="wrap">
+        <div class="footer-grid">
+            <div>
+                <div class="footer-brand">Florida Data Centers<span class="dot">.</span></div>
+                <p class="footer-about">An independent, non-commercial tracker of proposed hyperscale and AI data center projects across all 50 states, with the deepest coverage in Florida's 67 counties. We report facts as filed in public records and reported by local news. We are not affiliated with any developer, operator, advocacy group, or government agency.</p>
+            </div>
+            <div>
+                <div class="footer-heading">Tools</div>
+                <ul class="footer-links">
+                    <li><a href="/news">News</a>
+            <a href="/risk-calculator">Risk Calculator</a>
+            <a href="/take-action">Take Action</a></li>
+                    <li><a href="/methodology">Methodology</a></li>
+                    <li><a href="/your-rights">Your Rights</a></li>
+                    <li><a href="/#florida-law">Florida Legislation</a></li>
+                </ul>
+            </div>
+            <div>
+                <div class="footer-heading">Active Projects</div>
+                <ul class="footer-links">
+                    <li><a href="/palm-beach-county">Palm Beach</a></li>
+                    <li><a href="/polk-county">Polk</a></li>
+                    <li><a href="/st-lucie-county">St. Lucie</a></li>
+                    <li><a href="/okeechobee-county">Okeechobee</a></li>
+                    <li><a href="/martin-county">Martin</a></li>
+                    <li><a href="/citrus-county">Citrus</a></li>
+                    <li><a href="/nassau-county">Nassau</a>
+            <a href="/broward-county">Broward</a>
+            <a href="/miami-dade-county">Miami-Dade</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-legal">
+            <div>© <span class="js-year">2026</span> floridadatacenters.org · Independent reporting. Not legal, financial, or environmental advice.</div>
+            <div>Last updated <span class="js-date-long">April 19, 2026</span></div>
+        </div>
+    </div>
+</footer>
+
+<script>
+    (function() {
+        const today = new Date();
+        const longOpts = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+        const shortOpts = { month: 'long', day: 'numeric', year: 'numeric' };
+        document.querySelectorAll('.js-date-full').forEach(el => el.textContent = today.toLocaleDateString('en-US', longOpts));
+        document.querySelectorAll('.js-date-long').forEach(el => el.textContent = today.toLocaleDateString('en-US', shortOpts));
+        document.querySelectorAll('.js-year').forEach(el => el.textContent = today.getFullYear());
+    })();
+</script>
+
+</body>
+</html>

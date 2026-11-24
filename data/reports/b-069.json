@@ -1,0 +1,535 @@
+[
+ {
+  "id": "ft-1782768716724-7542",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Cave City, in Barren County, Kentucky, stopped this data center, and the developer is trying to have the stop overturned.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The single source attached to the entry is headed \"Data center moratorium blocking gigawatt campus challenged in Cave City, Kentucky\", and it returned 403, so who is challenging it and on what grounds is not recorded.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The project is put at 1,200 megawatts on 380 acres at 2001 Doyle Avenue, with Kentucky Industrial Alliance LLC named as the developer, listed as suspended and with organised local advocacy logged against it.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Cave City's moratorium runs from 20 May 2026 to 20 May 2027.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Three neighbouring places have acted too: Allen County with a two year moratorium from 10 June 2026, Edmonson County with a one year one from 8 June 2026, and Bowling Green with zoning limits from 16 June 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The power question here is stark.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generation of any size is a 55 megawatt solar plant 35 kilometres away; after that the nearest is the 300 megawatt Wolf Creek dam at 79 kilometres and the 1,763 megawatt Paradise gas plant at 90.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "A campus of 1,200 megawatts would need more than everything within eighty kilometres of it.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "This is the only data center site recorded in Barren County, with no other project within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the nature and current status of the challenge to the moratorium, the date it was filed, who brought it, the investment figure and who stands behind Kentucky Industrial Alliance LLC are all unknown. No water figure exists. Our record logs organised advocacy but names no group, petition or resident. No Barren County local reporting was sought."
+ },
+ {
+  "id": "ft-1763323509256-4676",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meade County refused the rezoning, and then the county put a moratorium on the whole question.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The single source attached to the entry is headed \"Officials in Meade County, Kentucky reject data center rezoning plan\" and returned 403, so the date, the vote and the reasons are not recorded.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The project is listed as cancelled, at 138 acres on Joe Prather Highway at Ekron, with a petition headed \"Stop the AI data center construction in Ekron, KY\" against it.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 1,
+    "t": "Meade County's moratorium runs from 13 January 2026 for a year, and Breckinridge County next door had already adopted one on 15 December 2025.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 1,
+    "t": "Across the river, New Albany adopted a moratorium on 21 July 2026 and Harrison County a two year one on 13 August 2026.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "The 1,165 megawatt Mill Creek coal plant is 24 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Meade County; the nearest other is a PowerHouse campus at Louisville, 40 kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so the developer, the megawatts, the investment, the date of the refusal and the vote are all unknown, as is whether the moratorium adopted in January 2026 came before or after the rejection. The petition was not read, so no resident is named and the specific objections are not established."
+ },
+ {
+  "id": "ft-1773461556521-5226",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The planning commission approved this data center unanimously, and did not let the public ask questions.",
+    "src": "https://www.franklinfavorite.com/news/article_a847db4f-a029-58aa-baee-cb01774ca008.html"
+   },
+   {
+    "para": 0,
+    "t": "On 3 March 2026 the Franklin-Simpson Planning and Zoning Commission approved TenKey LandCo, LLC's preliminary development plan, on condition that the company file monthly status reports with the commission and that those reports be made public.",
+    "src": "https://www.franklinfavorite.com/news/article_a847db4f-a029-58aa-baee-cb01774ca008.html"
+   },
+   {
+    "para": 1,
+    "t": "The site is about 200 acres on Steele Road near Exit 2 of Interstate 65, and the plan is three buildings of 200,000 square feet each, built over three years.",
+    "src": "https://www.franklinfavorite.com/news/article_a847db4f-a029-58aa-baee-cb01774ca008.html"
+   },
+   {
+    "para": 1,
+    "t": "It is described not simply as a data center but as a data storage and service centre with power manufacturing on the site.",
+    "src": "https://www.franklinfavorite.com/news/article_a847db4f-a029-58aa-baee-cb01774ca008.html"
+   },
+   {
+    "para": 1,
+    "t": "The developer is Adam DeSimone and the company's attorney is Greg Dutton.",
+    "src": "https://www.franklinfavorite.com/news/article_a847db4f-a029-58aa-baee-cb01774ca008.html"
+   },
+   {
+    "para": 2,
+    "t": "The company says the project \"represents the next generation of data infrastructure, providing high-paying jobs, generating millions in tax revenue\", and describes its closed-loop cooling as advanced.",
+    "src": "https://www.franklinfavorite.com/news/article_a847db4f-a029-58aa-baee-cb01774ca008.html"
+   },
+   {
+    "para": 2,
+    "t": "The full development plan will take several months and requires investigations, studies and assessments against local, state and federal requirements.",
+    "src": "https://www.franklinfavorite.com/news/article_a847db4f-a029-58aa-baee-cb01774ca008.html"
+   },
+   {
+    "para": 3,
+    "t": "The project is listed as under construction, with local pushback logged.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Simpson County adopted data center zoning limits on 7 January 2026, and four more measures are in force nearby including a two year moratorium in Cedar Hill, Tennessee.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The site draws on the Tennessee Valley Authority's system.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 4,
+    "t": "The closest generation is a 173 megawatt solar plant 36 kilometres away, with the 1,556 megawatt Gallatin coal plant at 42 and Meta's Gallatin campus 34 kilometres off.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.franklinfavorite.com/news/article_a847db4f-a029-58aa-baee-cb01774ca008.html"
+  ],
+  "unconfirmed": "No megawatt figure, investment total or water demand was published, and the phrase \"power manufacturing\" on the site is not explained anywhere read, though on site generation is what it would usually mean. No resident is named or quoted, because the public was not allowed to ask questions at the meeting; our record logs pushback but nothing read establishes who objects or why. The developer's own site carried no detail beyond a title. Our record's status of under construction is not supported by a preliminary plan approval in March 2026."
+ },
+ {
+  "id": "ft-1772034500997-4053",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The stables across the road are the reason this one became a fight.",
+    "src": "https://spectrumnews1.com/ky/louisville/news/2026/02/22/mercer-county-residents-petition-against-data-center"
+   },
+   {
+    "para": 0,
+    "t": "Caitlyn Cooper, who co-owns Desmar Stables opposite the site on Handy Road in Mercer County, Kentucky, said: \"I've had mares and babies run through fences, and it's just not safe to have a data center right across the street that's going to produce that much noise day in and day out.\"",
+    "src": "https://spectrumnews1.com/ky/louisville/news/2026/02/22/mercer-county-residents-petition-against-data-center"
+   },
+   {
+    "para": 1,
+    "t": "The proposal covers 555 acres, and residents found out about it from a LinkedIn listing posted six months before it was reported in February 2026, placed by the property firm JLL, which would not comment.",
+    "src": "https://spectrumnews1.com/ky/louisville/news/2026/02/22/mercer-county-residents-petition-against-data-center"
+   },
+   {
+    "para": 2,
+    "t": "Diane Floyd's petition against it passed 2,000 signatures, a group calling itself We Are Mercer County formed, and more than 50 residents turned up to a planning and zoning commission meeting.",
+    "src": "https://spectrumnews1.com/ky/louisville/news/2026/02/22/mercer-county-residents-petition-against-data-center"
+   },
+   {
+    "para": 2,
+    "t": "Rick Angel, a physician, spoke about the noise: \"This causes life issues, difficulty, concentration and fragmented sleep. Basically, if we're two miles away from this, it can disrupt their sleep, even if it complies.\"",
+    "src": "https://spectrumnews1.com/ky/louisville/news/2026/02/22/mercer-county-residents-petition-against-data-center"
+   },
+   {
+    "para": 3,
+    "t": "Not everyone is against it.",
+    "src": "https://spectrumnews1.com/ky/louisville/news/2026/02/22/mercer-county-residents-petition-against-data-center"
+   },
+   {
+    "para": 3,
+    "t": "Chris LeMonds, superintendent of Burgin Independent Schools, said the facility could bring \"$25 to $30 million annually in new tax revenue for our district\".",
+    "src": "https://spectrumnews1.com/ky/louisville/news/2026/02/22/mercer-county-residents-petition-against-data-center"
+   },
+   {
+    "para": 3,
+    "t": "The next meeting was set for 25 March 2026.",
+    "src": "https://spectrumnews1.com/ky/louisville/news/2026/02/22/mercer-county-residents-petition-against-data-center"
+   },
+   {
+    "para": 4,
+    "t": "The project is put at 645 megawatts on 555 acres.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 4,
+    "t": "For scale, the whole Louisville Gas and Electric and Kentucky Utilities system has a peak load of 6,661 megawatts, so this one campus would be about a tenth of it.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 4,
+    "t": "The 1,328 megawatt E W Brown gas plant is 6 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 5,
+    "t": "A second entry, a 900 acre Panattoni project called Bluegrass, sits at the same coordinates.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 5,
+    "t": "Lexington adopted a data center moratorium on 9 June 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://spectrumnews1.com/ky/louisville/news/2026/02/22/mercer-county-residents-petition-against-data-center"
+  ],
+  "unconfirmed": "No megawatt or water figure appears in the report, so our record's 645 megawatts is uncorroborated. The developer is not identified: our record gives \"Jones Lang Sallee (Gray Construction?)\", which appears to be a garbled rendering of JLL, the firm that listed the land rather than a developer, and that field should be corrected. What the planning and zoning commission decided on 25 March 2026 is not established. Whether this entry and the Panattoni entry at the same coordinates are the same scheme is unresolved."
+ },
+ {
+  "id": "ft-1785254902468-1607",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Two data center entries sit at these coordinates near Harrodsburg, in Mercer County, Kentucky, and this is the larger one.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "It lists a 900 acre Panattoni project called Bluegrass near Bailey Pike, with no capacity figure, and the single trade source, headed \"900-acre data center project proposed outside Lexington, Kentucky\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The other entry, at 555 acres and 645 megawatts, is the one residents petitioned against, with more than 2,000 signatures and a group called We Are Mercer County.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Opposition to this entry is logged as an emerging concern, with a Facebook photo post as its second source.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "The 1,328 megawatt E W Brown gas plant is 6 kilometres away, and after that the nearest generation is a 50 megawatt solar plant at 27 and the 784 megawatt J K Smith plant at 61.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Lexington adopted a data center moratorium on 9 June 2026, running to the end of October.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only trade source returned 403 and the second source is a Facebook photo that was not read, so the megawatts, the investment, the filing date, the county process and the current status are all unknown. Whether this entry and the Mercer County entry at the same coordinates are one scheme recorded twice, or two adjoining proposals, is unresolved; the acreages, 900 and 555, do not match. Panattoni's role, whether as developer, landowner or agent, is not established."
+ },
+ {
+  "id": "ft-1787597977129-3250",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The entry for this Hopkinsville data center, in Christian County, Kentucky, and its own sources disagree about how big it is.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The entry gives 15 megawatts, while both trade headlines attached to it say 50: \"Sphere 3D plans 50MW data center in Hopkinsville, Kentucky\" and \"Residents raise concerns over proposed 50MW data center in Hopkinsville, Kentucky\".",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Both returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The site is on North Campbell Street in Hopkinsville, in Christian County, Kentucky, listed as proposed, with local opposition recorded as an emerging concern.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "This is the only data center site recorded in Christian County, though Google's Clarksville campus is 34 kilometres away across the Tennessee line and a Cielo site 35.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "The site draws on the Tennessee Valley Authority's system, and the nearest generation is a 173 megawatt solar plant 48 kilometres off and the 2,470 megawatt Cumberland coal plant at 56.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Cedar Hill, across the state line, adopted a two year data center moratorium on 4 June 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Both sources in our record returned 403, so the capacity cannot be settled between our record's 15 megawatts and the headlines' 50, and the acreage, investment, filing date, city process and current status are all unknown. What concerns residents raised, and to whom, could not be read. The Sphere 3D name suggests a company better known for cryptocurrency mining, but nothing read establishes what this site would be used for."
+ },
+ {
+  "id": "ft-1784673966393-6863",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The word in the headline is off-grid, in a county built on coal.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "An early stage data center proposal is listed on 100 acres at the Gateway Industrial Park in Jenkins, Letcher County, and the single source, headed \"Off-grid data center proposed for Letcher County, Kentucky, report\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Off-grid means the site would make its own electricity rather than draw it from the network, which changes what the neighbours would be living beside: generation as well as computing.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "No fuel, capacity figure, developer or date is attached to it.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 2,
+    "t": "The nearest generation on the network is the 610 megawatt Virginia City hybrid coal plant 39 kilometres away and the 460 megawatt Clinch River plant at 48.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The Mineral Gap data center is 24 kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "No county in this corner of Kentucky has adopted a pause.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, and its headline describes a report rather than a filing, so the developer, the fuel, the capacity, the investment and whether anything has been applied for are all unknown. What off-grid would mean in practice here, gas, coal or something else, is not established. No Letcher County local reporting was sought and our record logs pushback as unknown."
+ },
+ {
+  "id": "ft-1785381367484-2023",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The site is a former uranium enrichment plant.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "A Brookfield data center campus is placed at the Kentucky gaseous diffusion plant on Hobbs Road at Kevil, in McCracken County, Kentucky, at 1,200 megawatts on 750 acres, with the cost given as $100 billion.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 0,
+    "t": "The single source, headed \"Brookfield to develop gigawatt-scale data center campus at DOE's Kentucky nuclear enrichment plant\", returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The power is next door: the 1,206 megawatt Shawnee coal plant is 6 kilometres away, with a 110 megawatt gas plant at 19, a 76 megawatt dam at 35 and the 582 megawatt Marshall Energy Facility at 38.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "Three data center sites are recorded in McCracken County, and the two nearest, 10 and 12 kilometres away, are Riot facilities, which is to say cryptocurrency mines.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 2,
+    "t": "A Core Scientific site at Calvert City is 38 kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "Nothing in western Kentucky restricts these buildings yet.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "The only source in our record returned 403, so nothing could be checked, and the $100 billion figure in our record is extreme enough that it needs verifying before the page is trusted; it may be a data entry error. The condition of the enrichment plant site, which was operated for decades and carries a known contamination legacy, is the thing a neighbour would most want addressed, and nothing about it could be established from any source read. No timeline, tenant, water figure or federal approval process is known, and our record marks its confidence in the entry as medium."
+ },
+ {
+  "id": "ft-1763324182750-5583",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The company moved this one rather than fight for it, and the man who organised against it called that a slight victory.",
+    "src": "https://www.lpm.org/news/2025-06-03/oldham-county-data-center-switches-sites-reduces-size-amid-local-resistance"
+   },
+   {
+    "para": 0,
+    "t": "Western Hospitality Partners announced in late March 2025 a hyperscale data center on 267 acres of farmland on Highway 53 in rural Oldham County: two million square feet in eight buildings, 600 megawatts, $6 billion.",
+    "src": "https://www.lpm.org/news/2025-06-03/oldham-county-data-center-switches-sites-reduces-size-amid-local-resistance"
+   },
+   {
+    "para": 1,
+    "t": "On Monday 2 June 2025 it announced it was moving to 3210 DW Griffith Lane, the 30 acre former drive-in cinema site between LaGrange and Buckner, with two buildings instead of eight.",
+    "src": "https://www.lpm.org/news/2025-06-03/oldham-county-data-center-switches-sites-reduces-size-amid-local-resistance"
+   },
+   {
+    "para": 1,
+    "t": "It did not say how much power the smaller version would need or what it would cost.",
+    "src": "https://www.lpm.org/news/2025-06-03/oldham-county-data-center-switches-sites-reduces-size-amid-local-resistance"
+   },
+   {
+    "para": 1,
+    "t": "Abie Kassin of the company said the plans changed \"after hearing the community's concerns about the Highway 53 site and working closely with numerous leaders within the community\".",
+    "src": "https://www.lpm.org/news/2025-06-03/oldham-county-data-center-switches-sites-reduces-size-amid-local-resistance"
+   },
+   {
+    "para": 2,
+    "t": "Nate Oberg, whose family's land adjoins the original site, had founded We Are Oldham County in April 2025, and it grew to thousands of members.",
+    "src": "https://www.lpm.org/news/2025-06-03/oldham-county-data-center-switches-sites-reduces-size-amid-local-resistance"
+   },
+   {
+    "para": 2,
+    "t": "\"The fight still goes on,\" he said. \"It's always been my position that without regulation in place, Oldham County is still at risk.\"",
+    "src": "https://www.lpm.org/news/2025-06-03/oldham-county-data-center-switches-sites-reduces-size-amid-local-resistance"
+   },
+   {
+    "para": 2,
+    "t": "He called the move \"a last ditch effort to circumvent the process, to circumvent any moratorium that will be coming down the road soon\".",
+    "src": "https://www.lpm.org/news/2025-06-03/oldham-county-data-center-switches-sites-reduces-size-amid-local-resistance"
+   },
+   {
+    "para": 3,
+    "t": "Officials split on the new site.",
+    "src": "https://www.lpm.org/news/2025-06-03/oldham-county-data-center-switches-sites-reduces-size-amid-local-resistance"
+   },
+   {
+    "para": 3,
+    "t": "County Judge-Executive David Voegele, who had opposed the Highway 53 location, called the new one \"an appropriate location\" and correctly zoned.",
+    "src": "https://www.lpm.org/news/2025-06-03/oldham-county-data-center-switches-sites-reduces-size-amid-local-resistance"
+   },
+   {
+    "para": 3,
+    "t": "House Speaker David Osborne, whose district covers both sites, said: \"It was obvious from the beginning that the original proposal was poorly conceived.\"",
+    "src": "https://www.lpm.org/news/2025-06-03/oldham-county-data-center-switches-sites-reduces-size-amid-local-resistance"
+   },
+   {
+    "para": 4,
+    "t": "Oldham County went on to pass a 150 day data center moratorium, according to a trade headline attached to the entry.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "This site is listed as cancelled and the second version 6 kilometres away as proposed.",
+    "src": "data:status"
+   },
+   {
+    "para": 5,
+    "t": "The 501 megawatt Bluegrass generating station is 6 kilometres away and the 2,179 megawatt Trimble County coal plant 16.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 5,
+    "t": "The same developer appears on two Illinois sites, at Braidwood and near Peoria, both of which have also stalled.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.lpm.org/news/2025-06-03/oldham-county-data-center-switches-sites-reduces-size-amid-local-resistance"
+  ],
+  "unconfirmed": "The date and terms of Oldham County's 150 day moratorium come from a trade headline in our record that returned 403 and could not be read. No water figure was published for either version of the project. Whether the Highway 53 site has been formally abandoned or merely set aside is not established, and our record's status of cancelled rests on the relocation rather than on any decision by the county."
+ },
+ {
+  "id": "ft-286",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "To build this one, a drive-in cinema has to move.",
+    "src": "https://www.lpm.org/news/2025-06-03/oldham-county-data-center-switches-sites-reduces-size-amid-local-resistance"
+   },
+   {
+    "para": 0,
+    "t": "Western Hospitality Partners moved its Oldham County data center on 2 June 2025 to 3210 DW Griffith Lane, the 30 acre former drive-in site between LaGrange and Buckner, cutting the plan from eight buildings to two.",
+    "src": "https://www.lpm.org/news/2025-06-03/oldham-county-data-center-switches-sites-reduces-size-amid-local-resistance"
+   },
+   {
+    "para": 0,
+    "t": "One of the reports attached to the entry is headed \"Sauerbeck Family Drive-In to relocate\" because of the project; it returned 403.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "County Judge-Executive David Voegele, who had opposed the company's first site on Highway 53, called this one \"an appropriate location\" and properly zoned.",
+    "src": "https://www.lpm.org/news/2025-06-03/oldham-county-data-center-switches-sites-reduces-size-amid-local-resistance"
+   },
+   {
+    "para": 1,
+    "t": "Nate Oberg of We Are Oldham County saw it differently, calling the move \"a last ditch effort to circumvent the process, to circumvent any moratorium that will be coming down the road soon\".",
+    "src": "https://www.lpm.org/news/2025-06-03/oldham-county-data-center-switches-sites-reduces-size-amid-local-resistance"
+   },
+   {
+    "para": 2,
+    "t": "This version is put at $1.5 billion, with WHP named as the developer, listed as proposed and with local pushback logged.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 2,
+    "t": "It holds four further sources on the dispute, including a report headed \"Zoning dispute erupts over proposed data center, Oldham County\" and a business journal piece headed \"WHP Oldham County data stalled\"; none could be retrieved.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The 501 megawatt Bluegrass generating station is a kilometre away, and the 2,179 megawatt Trimble County coal plant 21.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "The original site is 6 kilometres off, and Meta's Jeffersonville campus 31.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://www.lpm.org/news/2025-06-03/oldham-county-data-center-switches-sites-reduces-size-amid-local-resistance"
+  ],
+  "unconfirmed": "The megawatt capacity of the reduced scheme was never disclosed, and no water figure exists. What the zoning dispute consisted of, how the county's 150 day moratorium applied to this site, and why a business journal reported the project stalled in July 2025 could not be read; four of the six sources in our record returned 403 and one was blocked. The drive-in's owners are not named or quoted in anything reached, and whether it has in fact relocated is not established."
+ }
+]

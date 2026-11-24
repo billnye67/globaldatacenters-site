@@ -1,0 +1,534 @@
+[
+ {
+  "id": "epoch-colossus-1",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Colossus 1 is xAI's data center in south Memphis, Tennessee, built on the site of a former Electrolux appliance factory.",
+    "src": "https://www.gem.wiki/Colossus_1_power_station"
+   },
+   {
+    "para": 0,
+    "t": "The site is in Shelby County.",
+    "src": "data:county"
+   },
+   {
+    "para": 0,
+    "t": "xAI leased the site and turned to gas turbines to power it while permanent grid connections were built.",
+    "src": "https://www.gem.wiki/Colossus_1_power_station"
+   },
+   {
+    "para": 0,
+    "t": "Community and environmental groups say South Memphis already has high industrial pollution, elevated asthma rates and a shorter life expectancy than the rest of the city.",
+    "src": "https://www.gem.wiki/Colossus_1_power_station"
+   },
+   {
+    "para": 1,
+    "t": "The Southern Environmental Law Center found in August 2024 that xAI was running methane gas turbines at the site with no air permit at all.",
+    "src": "https://www.selc.org/news/inside-memphis-fight-against-xai/"
+   },
+   {
+    "para": 1,
+    "t": "xAI applied for a permit covering 15 turbines in January 2025, and the Shelby County Health Department approved it on July 2, 2025, though the law center says the approval contained significant flaws.",
+    "src": "https://www.selc.org/news/inside-memphis-fight-against-xai/"
+   },
+   {
+    "para": 1,
+    "t": "Aerial imaging on April 9, 2025 found 35 turbines on site, more than double what xAI had disclosed, and thermal imaging on April 24 confirmed more than 30 were running at once.",
+    "src": "https://www.selc.org/news/inside-memphis-fight-against-xai/"
+   },
+   {
+    "para": 1,
+    "t": "xAI removed the unpermitted turbines on June 17, 2025, after the law center sent a legal notice.",
+    "src": "https://www.selc.org/news/inside-memphis-fight-against-xai/"
+   },
+   {
+    "para": 2,
+    "t": "Hundreds of residents attended an April 25, 2025 public hearing on the permit, and the law center says the opposition was unanimous.",
+    "src": "https://www.selc.org/news/inside-memphis-fight-against-xai/"
+   },
+   {
+    "para": 2,
+    "t": "Memphis Community Against Pollution, Young Gifted & Green and the Sierra Club joined the law center in fighting the permit.",
+    "src": "https://www.selc.org/news/inside-memphis-fight-against-xai/"
+   },
+   {
+    "para": 2,
+    "t": "Memphis Mayor Paul Young made false claims about how many turbines were operating, the law center says.",
+    "src": "https://www.selc.org/news/inside-memphis-fight-against-xai/"
+   },
+   {
+    "para": 3,
+    "t": "xAI runs a second, larger facility called Colossus 2 about nine kilometers away in Southaven, Mississippi, also powered in part by gas turbines.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The NAACP sued xAI on April 14, 2026, alleging the Southaven turbines were also running without an air permit, ahead of the operation of 27 gas-fired units there.",
+    "src": "https://www.wsmv.com/2026/04/14/naacp-sues-xai-alleging-unlawful-operation-gas-turbines-southaven/"
+   },
+   {
+    "para": 3,
+    "t": "\"xAI's continued operation of these turbines without a permit and without adequate pollution controls is not only illegal, it's an insult to families living nearby who for months have expressed serious concerns about how air pollution from the company's personal power plant could impact their health and well-being,\" SELC senior attorney Ben Grillot said.",
+    "src": "https://www.wsmv.com/2026/04/14/naacp-sues-xai-alleging-unlawful-operation-gas-turbines-southaven/"
+   },
+   {
+    "para": 3,
+    "t": "In June 2026 the U.S. Department of Justice moved to intervene in that case and have it dismissed, arguing it threatened national, economic and energy security.",
+    "src": "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+   },
+   {
+    "para": 4,
+    "t": "In May 2026, Anthropic announced a partnership tied to SpaceX that would add more than 300 megawatts of new capacity, over 220,000 Nvidia GPUs, at Colossus 1 within the month.",
+    "src": "https://www.anthropic.com/news/higher-limits-spacex"
+   },
+   {
+    "para": 4,
+    "t": "Epoch AI estimates the campus now draws about 340 megawatts of IT power, close to a quarter of the output of the Allen gas plant six kilometers away, which produces 1,479 megawatts within the Tennessee Valley Authority's grid.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 4,
+    "t": "TVA's own regional peak demand runs close to 29,000 megawatts against nearly 39,000 megawatts of capacity.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [
+   "https://www.gem.wiki/Colossus_1_power_station",
+   "https://www.selc.org/news/inside-memphis-fight-against-xai/",
+   "https://www.wsmv.com/2026/04/14/naacp-sues-xai-alleging-unlawful-operation-gas-turbines-southaven/",
+   "https://www.anthropic.com/news/higher-limits-spacex",
+   "https://en.wikipedia.org/wiki/Colossus_(data_center)"
+  ],
+  "unconfirmed": "Could not confirm whether the turbine fleet at Colossus 1 itself, as opposed to Colossus 2 in Southaven, is now fully permitted and in what quantity; the two facilities are often covered together in the press."
+ },
+ {
+  "id": "epoch-microsoft-fairwater-atlanta",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Microsoft's Fairwater Atlanta data center runs inside a leased QTS shell building in Fayetteville, Georgia, with OpenAI likely the tenant using the capacity.",
+    "src": "data:tenant"
+   },
+   {
+    "para": 1,
+    "t": "Fayette County records reviewed by Atlanta News First in 2026 showed a single QTS water line at the site had billed 20.6 million gallons since a meter was activated in February 2024, and all 13 water lines on the campus combined had billed 109 million gallons, roughly the volume of 5,500 backyard pools.",
+    "src": "https://www.atlantanewsfirst.com/2026/07/13/records-raise-questions-about-georgias-largest-data-center-its-water-use/"
+   },
+   {
+    "para": 1,
+    "t": "Fayette County initially said two of the lines were unauthorized and billed QTS $147,000, then said the lines had in fact been permitted and blamed the discrepancy on a smart-meter upgrade; no wrongdoing was alleged.",
+    "src": "https://www.atlantanewsfirst.com/2026/07/13/records-raise-questions-about-georgias-largest-data-center-its-water-use/"
+   },
+   {
+    "para": 1,
+    "t": "QTS says that once the campus's closed-loop cooling system is finished, expected by 2030, monthly water use will fall to the equivalent of four households.",
+    "src": "https://www.atlantanewsfirst.com/2026/07/13/records-raise-questions-about-georgias-largest-data-center-its-water-use/"
+   },
+   {
+    "para": 2,
+    "t": "\"If my daughter down here tapped into that big pipeline down the road without putting a meter on it, she'd be in jail. A data center is not going to jail,\" said Willard Neal, an 87-year-old neighbor of the site.",
+    "src": "https://www.atlantanewsfirst.com/2026/07/13/records-raise-questions-about-georgias-largest-data-center-its-water-use/"
+   },
+   {
+    "para": 2,
+    "t": "Neighbor Jesse Brooks said, \"These giant things don't need to be in anyone's backyard.\"",
+    "src": "https://www.atlantanewsfirst.com/2026/07/13/records-raise-questions-about-georgias-largest-data-center-its-water-use/"
+   },
+   {
+    "para": 2,
+    "t": "Georgia Tech researcher Ahmed Saeed said current use is under 1 percent of the county's monthly water supply, but warned that \"once you have tens of such data centers coming up, then the water consumption becomes a problem.\"",
+    "src": "https://www.atlantanewsfirst.com/2026/07/13/records-raise-questions-about-georgias-largest-data-center-its-water-use/"
+   },
+   {
+    "para": 3,
+    "t": "Fayetteville sits amid a wider backlash: nearby Marietta and Chamblee passed data center moratoriums in 2026, Cobb and Carroll counties extended theirs, and Atlanta has banned new data centers from its Beltline business district since 2024.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.atlantanewsfirst.com/2026/07/13/records-raise-questions-about-georgias-largest-data-center-its-water-use/"
+  ],
+  "unconfirmed": "Could not confirm from a readable source whether Fayetteville's city council has passed a citywide ban on new data centers since the QTS controversy; some search results referenced this but the city's own pages returned access errors."
+ },
+ {
+  "id": "epoch-meta-prometheus",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Prometheus is Meta's data center cluster in New Albany, Ohio.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It sits in the Licking County part of the village.",
+    "src": "data:county"
+   },
+   {
+    "para": 0,
+    "t": "In September 2025 Meta engineers set out the scale they were after: \"Our next AI cluster, Prometheus, will be a 1-gigawatt cluster spanning across multiple data center buildings.\"",
+    "src": "https://engineering.fb.com/2025/09/29/data-infrastructure/metas-infrastructure-evolution-and-the-advent-of-ai/"
+   },
+   {
+    "para": 0,
+    "t": "Meta has since bought an additional 429 acres in New Albany and Jersey Township for future expansion.",
+    "src": "https://www.wosu.org/2026-01-19/data-center-giants-meta-and-microsoft-try-to-offset-rising-utility-rates-as-costs-rise-for-consumers"
+   },
+   {
+    "para": 1,
+    "t": "To power Prometheus and its other Ohio sites without raising bills for ordinary Ohioans, Meta is working with nuclear startup Oklo to build small reactors generating 1.2 gigawatts at a former uranium enrichment site in Pike County, more than an hour south.",
+    "src": "https://www.wosu.org/2026-01-19/data-center-giants-meta-and-microsoft-try-to-offset-rising-utility-rates-as-costs-rise-for-consumers"
+   },
+   {
+    "para": 1,
+    "t": "Oklo cofounder and chief operating officer Caroline DeWitte said of ordinary customers, \"Why should they be footing the bill for these other groups?\", arguing that companies like Meta investing in generation help offset grid upgrade costs.",
+    "src": "https://www.wosu.org/2026-01-19/data-center-giants-meta-and-microsoft-try-to-offset-rising-utility-rates-as-costs-rise-for-consumers"
+   },
+   {
+    "para": 1,
+    "t": "Ohio regulators had already approved a new AEP Ohio rate structure on July 9, 2025 requiring large data centers to pay for at least 85 percent of their contracted power every month.",
+    "src": "https://www.powermag.com/regulator-approves-aep-ohios-landmark-data-center-tariff/"
+   },
+   {
+    "para": 1,
+    "t": "Central Ohio residential customers could still pay about $36 more a month by 2027 in combined electric, gas and water bills if pending increases are approved.",
+    "src": "https://www.wosu.org/2026-01-19/data-center-giants-meta-and-microsoft-try-to-offset-rising-utility-rates-as-costs-rise-for-consumers"
+   },
+   {
+    "para": 2,
+    "t": "Prometheus sits in Licking County, where three townships and the city of Sunbury have passed data center moratoriums since March 2026, and St. Albans Township became the first community in the county to ban them outright.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://engineering.fb.com/2025/09/29/data-infrastructure/metas-infrastructure-evolution-and-the-advent-of-ai/",
+   "https://www.wosu.org/2026-01-19/data-center-giants-meta-and-microsoft-try-to-offset-rising-utility-rates-as-costs-rise-for-consumers",
+   "https://www.powermag.com/regulator-approves-aep-ohios-landmark-data-center-tariff/"
+  ],
+  "unconfirmed": "Could not find direct resident reaction specific to the Prometheus site itself, as opposed to New Albany-area data centers generally; Meta's own info sheet on the New Albany campus could not be read. A description of Prometheus being spread across weatherproof tents and colocation buildings was removed: Meta's engineering post describes that arrangement, but not for this cluster by name."
+ },
+ {
+  "id": "epoch-google-pryor-north",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's data center campus in Pryor, Oklahoma sits inside the state-owned MidAmerica Industrial Park and has been operating since 2007, when Google first invested there.",
+    "src": "https://www.emporiagazette.com/free/article_fc937b08-b205-432f-b17d-214bca7e2d9e.html"
+   },
+   {
+    "para": 0,
+    "t": "Google has invested more than $15 billion in Oklahoma since opening its Mayes County data center, generating an estimated $2.6 billion in economic activity in 2025 alone, and the Pryor campus is now the company's second-largest data center campus in the world.",
+    "src": "https://www.emporiagazette.com/free/article_fc937b08-b205-432f-b17d-214bca7e2d9e.html"
+   },
+   {
+    "para": 1,
+    "t": "Mayes County's population grew from 33,366 residents in 1990 to just over 41,000 as families moved in for jobs, and the county's average age has fallen; Pryor Public Schools opened a new high school in 2022 and is building a new middle school to keep pace.",
+    "src": "https://www.emporiagazette.com/free/article_fc937b08-b205-432f-b17d-214bca7e2d9e.html"
+   },
+   {
+    "para": 1,
+    "t": "Tim Lawson, editor of the Pryor Information Publication, said of Google: \"They use a lot of electric. There's no denying that. But they generate that energy and our electric rates have not increased.\"",
+    "src": "https://www.emporiagazette.com/free/article_fc937b08-b205-432f-b17d-214bca7e2d9e.html"
+   },
+   {
+    "para": 2,
+    "t": "The Pryor data center used more than 1.1 billion gallons of water between July 2024 and June 2025, drawn from the Neosho River through the industrial park, which holds a state permit to withdraw up to 27.375 billion gallons a year.",
+    "src": "https://www.readfrontier.org/stories/as-data-centers-boom-in-oklahoma-so-does-water-demand/"
+   },
+   {
+    "para": 2,
+    "t": "About 253 million gallons of that water was discharged back into the river as treated wastewater.",
+    "src": "https://www.readfrontier.org/stories/as-data-centers-boom-in-oklahoma-so-does-water-demand/"
+   },
+   {
+    "para": 2,
+    "t": "Yohanes Sugeng, an engineer with the Oklahoma Water Resources Board, said new users like data centers \"will contribute to the strain depending on how data centers source water,\" as the state projects an 18 percent rise in water demand over the next 20 years and Google announces five more Oklahoma data center projects.",
+    "src": "https://www.readfrontier.org/stories/as-data-centers-boom-in-oklahoma-so-does-water-demand/"
+   }
+  ],
+  "sources": [
+   "https://www.emporiagazette.com/free/article_fc937b08-b205-432f-b17d-214bca7e2d9e.html",
+   "https://www.readfrontier.org/stories/as-data-centers-boom-in-oklahoma-so-does-water-demand/"
+  ],
+  "unconfirmed": "Could not establish whether this project, labeled North in our record, is a distinct newer campus from the original 2007 facility or the same site; the sources treat Pryor as a single, continuously expanding campus. An earlier version of this page put the water not returned to the river at about 847 million gallons; that was arithmetic rather than a figure any source gives, and it has been removed."
+ },
+ {
+  "id": "epoch-google-new-albany",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google announced its New Albany, Ohio data center in 2019, a roughly $600 million investment on 400 acres inside the New Albany International Business Park.",
+    "src": "https://en.wikipedia.org/wiki/Google_data_centers"
+   },
+   {
+    "para": 0,
+    "t": "The site is in Licking County, northeast of Columbus.",
+    "src": "data:county"
+   },
+   {
+    "para": 0,
+    "t": "The park has drawn a wave of hyperscale tenants since data center development began there in 2010: Amazon Web Services arrived in 2015 and Meta in 2017.",
+    "src": "https://www.news5cleveland.com/news/local-news/ohios-data-center-boom-really-started-in-new-albany-we-went-there-to-see-what-it-looks-like"
+   },
+   {
+    "para": 0,
+    "t": "More than 40 data centers have opened in the park since 2010, with 28 more planned or under construction.",
+    "src": "https://www.news5cleveland.com/news/local-news/ohios-data-center-boom-really-started-in-new-albany-we-went-there-to-see-what-it-looks-like"
+   },
+   {
+    "para": 1,
+    "t": "New Albany, a village of more than 11,000 residents with a median household income around $200,000, has logged only four noise complaints about its data centers since 2015, according to the village's community development director, Jennifer Chrysler.",
+    "src": "https://www.news5cleveland.com/news/local-news/ohios-data-center-boom-really-started-in-new-albany-we-went-there-to-see-what-it-looks-like"
+   },
+   {
+    "para": 1,
+    "t": "\"That's kind of the secret sauce that we share with communities,\" Chrysler said, while making clear New Albany is not holding itself up as the formula every community should copy.",
+    "src": "https://www.news5cleveland.com/news/local-news/ohios-data-center-boom-really-started-in-new-albany-we-went-there-to-see-what-it-looks-like"
+   },
+   {
+    "para": 2,
+    "t": "Google is one of several tech companies, alongside Amazon, Microsoft and Meta, that objected to American Electric Power's proposed rate structure for large data center customers before Ohio regulators approved a revised version on July 9, 2025 requiring the companies to pay for at least 85 percent of their contracted power every month.",
+    "src": "https://www.powermag.com/regulator-approves-aep-ohios-landmark-data-center-tariff/"
+   },
+   {
+    "para": 2,
+    "t": "Just outside New Albany, several Licking County communities, including Sunbury, Jackson Township and St. Albans Township, have passed data center moratoriums or bans since March 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Google_data_centers",
+   "https://www.news5cleveland.com/news/local-news/ohios-data-center-boom-really-started-in-new-albany-we-went-there-to-see-what-it-looks-like",
+   "https://www.wosu.org/2026-01-19/data-center-giants-meta-and-microsoft-try-to-offset-rising-utility-rates-as-costs-rise-for-consumers",
+   "https://www.powermag.com/regulator-approves-aep-ohios-landmark-data-center-tariff/"
+  ],
+  "unconfirmed": "Could not find resident opposition specific to Google's own New Albany site; local coverage of friction in the area centers on the business park and county generally, not this facility by name."
+ },
+ {
+  "id": "epoch-openai-stargate-abilene",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "OpenAI's Stargate data center campus outside Abilene, in Taylor County, Texas, began construction in 2024 and was announced by President Trump in January 2025; it is the most advanced of the Stargate sites, with an estimated four of eight planned buildings already operating as of April 2026.",
+    "src": "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand"
+   },
+   {
+    "para": 0,
+    "t": "The site is projected to reach 1.2 gigawatts of capacity, running Nvidia Blackwell chips on a mix of on-site natural gas generation and grid power that includes local wind energy; OpenAI originally planned to expand the site further, to 2.1 gigawatts, before redirecting that added capacity elsewhere.",
+    "src": "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand"
+   },
+   {
+    "para": 1,
+    "t": "Mortenson, the power-delivery contractor, energized the first Phase 2 transformer on December 19, 2025, nine months after construction began, and had five main transformers running by March 10, 2026, after deploying temporary units to work around supply-chain delays.",
+    "src": "https://www.mortenson.com/projects/abilene-data-center-development"
+   },
+   {
+    "para": 1,
+    "t": "Abilene gave the project an 85 percent tax abatement, and the Development Corporation of Abilene projects about $30 million a year in new revenue; the project has created roughly 9,000 construction jobs and is expected to leave about 1,000 permanent ones once built out.",
+    "src": "https://www.kut.org/energy-environment/2026-08-12/abilene-tx-stargate-ai-data-center-economy-housing-crisis"
+   },
+   {
+    "para": 2,
+    "t": "Average rent in Abilene has risen to nearly $2,600 a month, up almost 50 percent in a year.",
+    "src": "https://www.kut.org/energy-environment/2026-08-12/abilene-tx-stargate-ai-data-center-economy-housing-crisis"
+   },
+   {
+    "para": 2,
+    "t": "One renter, who asked to be identified only as \"Steve Rogers\" to protect his job, said of his family's finances: \"We don't have anything left for savings. I'm in school and I work full-time, and it's just scary.\"",
+    "src": "https://www.kut.org/energy-environment/2026-08-12/abilene-tx-stargate-ai-data-center-economy-housing-crisis"
+   },
+   {
+    "para": 2,
+    "t": "Michael Prado, a case manager at Abilene Hope Haven, said families now take six months to move from shelter into permanent housing, up from one month before the boom, in a city where HUD's fair-market rent cap for the families he assists is $1,020 a month.",
+    "src": "https://www.kut.org/energy-environment/2026-08-12/abilene-tx-stargate-ai-data-center-economy-housing-crisis"
+   },
+   {
+    "para": 2,
+    "t": "Resident Lexi Smith said the project cost her property value and was not worth the trade-off: \"There's no amount of money worth it. None.\"",
+    "src": "https://www.kut.org/energy-environment/2026-08-12/abilene-tx-stargate-ai-data-center-economy-housing-crisis"
+   },
+   {
+    "para": 2,
+    "t": "Mayor Weldon Hurt did not respond to interview requests, and Development Corporation of Abilene CEO Misty Mayo, who promoted the project's economic gains in an official video, was also unavailable for interview.",
+    "src": "https://www.kut.org/energy-environment/2026-08-12/abilene-tx-stargate-ai-data-center-economy-housing-crisis"
+   },
+   {
+    "para": 3,
+    "t": "OpenAI says it will \"minimize water use by prioritizing closed-loop or low-water cooling systems\" across its Stargate sites, using direct-to-chip liquid cooling that needs less water than older evaporation-based methods.",
+    "src": "https://www.theregister.com/2026/01/21/stargate_openai_community_plans/"
+   },
+   {
+    "para": 3,
+    "t": "The Texas site is expected to employ about 100 full-time workers once operational, with many more on site only during construction.",
+    "src": "https://www.theregister.com/2026/01/21/stargate_openai_community_plans/"
+   }
+  ],
+  "sources": [
+   "https://epoch.ai/publications/openai-stargate-where-the-us-sites-stand",
+   "https://www.mortenson.com/projects/abilene-data-center-development",
+   "https://www.kut.org/energy-environment/2026-08-12/abilene-tx-stargate-ai-data-center-economy-housing-crisis",
+   "https://www.theregister.com/2026/01/21/stargate_openai_community_plans/"
+  ],
+  "unconfirmed": "Could not confirm a specific figure for how much city water the cooling system used to fill; that figure appeared in secondary summaries but not in any source read directly, so it was left out."
+ },
+ {
+  "id": "epoch-microsoft-fairwater-wisconsin",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Microsoft's Fairwater data center sits on the former Foxconn LCD-factory site in Mount Pleasant, Wisconsin, a project that once promised the region 13,000 manufacturing jobs before falling far short.",
+    "src": "https://www.wpr.org/politics/mount-pleasant-approves-microsoft-deal-data-centers-foxconn-land"
+   },
+   {
+    "para": 0,
+    "t": "The Mount Pleasant Village Board, in Racine County, approved Microsoft's initial deal for the site unanimously on November 27, 2023; the company paid $100 million for the land and guaranteed a minimum assessed value of $1.4 billion by January 1, 2028.",
+    "src": "https://www.wpr.org/politics/mount-pleasant-approves-microsoft-deal-data-centers-foxconn-land"
+   },
+   {
+    "para": 1,
+    "t": "Microsoft also committed $4.2 million to creek restoration, $100,000 to water restoration and $200,000 to STEM education as part of the deal.",
+    "src": "https://www.wpr.org/politics/mount-pleasant-approves-microsoft-deal-data-centers-foxconn-land"
+   },
+   {
+    "para": 1,
+    "t": "Village board president Dave DeGroot dismissed comparisons to Foxconn's failed jobs promise, saying, \"I think that we've way moved on beyond that,\" even though Microsoft's data centers typically employ only 300 to 400 people per building, a fraction of what Foxconn once pledged.",
+    "src": "https://www.wpr.org/politics/mount-pleasant-approves-microsoft-deal-data-centers-foxconn-land"
+   },
+   {
+    "para": 2,
+    "t": "Microsoft proposed 15 more data centers at the site on January 21, 2026, across two campuses, Durand Avenue and International Drive, totaling 8.7 million square feet and more than $13 billion in combined investment.",
+    "src": "https://civicmedia.us/news/2026/01/21/microsoft-proposes-15-more-data-centers-at-mount-pleasant-project"
+   },
+   {
+    "para": 2,
+    "t": "Backers project $75 million a year in property tax revenue for local governments once existing tax-increment financing districts retire, and Microsoft is expected to become Racine County's largest taxpayer by the end of 2026; residents still question whether the new electrical substations and added water demand will raise their own utility bills.",
+    "src": "https://civicmedia.us/news/2026/01/21/microsoft-proposes-15-more-data-centers-at-mount-pleasant-project"
+   }
+  ],
+  "sources": [
+   "https://www.wpr.org/politics/mount-pleasant-approves-microsoft-deal-data-centers-foxconn-land",
+   "https://civicmedia.us/news/2026/01/21/microsoft-proposes-15-more-data-centers-at-mount-pleasant-project"
+  ],
+  "unconfirmed": "Could not confirm details of Microsoft's reported withdrawal of a separate data center proposal in neighboring Caledonia after resident opposition there; the source describing it returned an access error."
+ },
+ {
+  "id": "epoch-google-columbus",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Columbus data center, on South High Street on the city's Far South Side, launched in 2022 as the anchor of Google's us-east5 cloud region.",
+    "src": "https://en.wikipedia.org/wiki/Google_data_centers"
+   },
+   {
+    "para": 0,
+    "t": "It sits in Franklin County, Ohio.",
+    "src": "data:county"
+   },
+   {
+    "para": 1,
+    "t": "Columbus City Council held a public hearing on the growing footprint of data centers citywide on March 11, 2026, a forum organized by Council President Shannon Hardin.",
+    "src": "https://abc6onyourside.com/news/local/columbus-city-council-hold-wednesday-hearing-growing-concerns-over-data-centers-ohio-enviroment-utilities-water-electricity"
+   },
+   {
+    "para": 1,
+    "t": "Robert Hackney, who lives in South Columbus just off Route 23, said the area used to be \"country, you know, quiet, peaceful.\"",
+    "src": "https://abc6onyourside.com/news/local/columbus-city-council-hold-wednesday-hearing-growing-concerns-over-data-centers-ohio-enviroment-utilities-water-electricity"
+   },
+   {
+    "para": 1,
+    "t": "Since construction began, he said, \"Oh, it's terrible. It's upside down. Now it's like I've got dust everywhere. I've got no pond back here.\"",
+    "src": "https://abc6onyourside.com/news/local/columbus-city-council-hold-wednesday-hearing-growing-concerns-over-data-centers-ohio-enviroment-utilities-water-electricity"
+   },
+   {
+    "para": 1,
+    "t": "Hackney said his electric, gas and water bills have all gone up as well, and that he would not want a data center in his own backyard.",
+    "src": "https://abc6onyourside.com/news/local/columbus-city-council-hold-wednesday-hearing-growing-concerns-over-data-centers-ohio-enviroment-utilities-water-electricity"
+   },
+   {
+    "para": 2,
+    "t": "Franklin County already has 11 data centers, and the March hearing came amid a wider wave of moratoriums in nearby communities, including Sunbury, Ashville and three Licking County townships.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Google_data_centers",
+   "https://abc6onyourside.com/news/local/columbus-city-council-hold-wednesday-hearing-growing-concerns-over-data-centers-ohio-enviroment-utilities-water-electricity"
+  ],
+  "unconfirmed": "Could not confirm the land purchase price or acreage for this specific site from a source that loaded; several Ohio outlets carrying those figures returned access errors."
+ },
+ {
+  "id": "epoch-google-mesa",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's data center in Mesa, Arizona, in Maricopa County, was a $600 million project and the company's first physical presence in the state.",
+    "src": "https://www.constructiondive.com/news/google-data-center-mesa-arizona/693029/"
+   },
+   {
+    "para": 0,
+    "t": "\"We are proud to put down roots in Arizona with both the data center in Mesa and the Phoenix cloud region,\" said Joe Kava, Google's vice president of data centers.",
+    "src": "https://www.constructiondive.com/news/google-data-center-mesa-arizona/693029/"
+   },
+   {
+    "para": 1,
+    "t": "Google chose to cool the Mesa campus with air rather than water, citing the region's poor watershed health; a similarly sized water-cooled facility can use more than 250 gallons of water per megawatt-hour, and large data centers can draw up to five million gallons a day.",
+    "src": "https://www.latitudemedia.com/news/in-lieu-of-water-cooling-google-locks-down-renewables-for-mesa-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "To offset the extra electricity that air cooling requires, Google signed an eight-year deal with Salt River Project for 434 megawatts of renewable capacity, including the 250-megawatt Sonoran Solar Energy Center and the 161-megawatt Babbitt Ranch wind project, aiming for 80 percent carbon-free power within a year of opening.",
+    "src": "https://www.latitudemedia.com/news/in-lieu-of-water-cooling-google-locks-down-renewables-for-mesa-data-center/"
+   },
+   {
+    "para": 2,
+    "t": "Maricopa County already has about 40 data centers, and Mesa, Phoenix, Chandler, Tempe and Maricopa County itself have all adopted data center zoning limits since 2023 as the industry has grown.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://www.constructiondive.com/news/google-data-center-mesa-arizona/693029/",
+   "https://www.latitudemedia.com/news/in-lieu-of-water-cooling-google-locks-down-renewables-for-mesa-data-center/"
+  ],
+  "unconfirmed": "Could not confirm this campus's exact road intersection or acreage from a source read directly; some listings call it 'Redhawk' but that name could not be verified against Google's own materials."
+ },
+ {
+  "id": "epoch-dayone-nusajaya",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "DayOne's Nusajaya data centre campus in Iskandar Puteri, Johor, Malaysia is operating, with about 240 megawatts of AI campus capacity live on top of an earlier 69.5 megawatt first phase, and an estimated eventual 473 megawatts.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "Together with a second DayOne site at Kempas Tech Park, the company runs about 120 megawatts across its two existing Johor facilities.",
+    "src": "https://www.datacenterdynamics.com/en/news/malaysian-property-group-paragon-globe-agrees-to-sell-65-acre-johor-land-parcel-to-data-center-firm-dayone/"
+   },
+   {
+    "para": 1,
+    "t": "On June 23, 2026 the Malaysian developer Paragon Globe told Bursa Malaysia it had agreed to sell 26.42 hectares of freehold land, about 65 acres, to DayOne Data Centers Malaysia III for RM398.11 million in cash, booking an expected net gain of RM189.72 million.",
+    "src": "https://theedgemalaysia.com/node/807976"
+   },
+   {
+    "para": 1,
+    "t": "The land lies along Jalan Gelang Patah to Tanjung Kupang in Gerbang Nusajaya, inside the Johor-Singapore Special Economic Zone and about seven kilometres from the Sultan Abu Bakar customs and immigration complex.",
+    "src": "https://theedgemalaysia.com/node/807976"
+   },
+   {
+    "para": 1,
+    "t": "It is vacant and unoccupied, and the sale is not expected to complete until the second half of 2027.",
+    "src": "https://theedgemalaysia.com/node/807976"
+   },
+   {
+    "para": 2,
+    "t": "The parcel sits next to the campus that is already running rather than under it, so the land deal is a future expansion and not the purchase of the operating site.",
+    "src": "https://theedgemalaysia.com/node/807976"
+   }
+  ],
+  "sources": [
+   "https://theedgemalaysia.com/node/807976",
+   "https://www.datacenterdynamics.com/en/news/malaysian-property-group-paragon-globe-agrees-to-sell-65-acre-johor-land-parcel-to-data-center-firm-dayone/"
+  ],
+  "unconfirmed": "Our own record describes this as a completed purchase of the campus site, which the Bursa Malaysia filing does not support. Searches on DayOne with Nusajaya, on Gerbang Nusajaya with Paragon Globe, and on Johor with data centre residents found no Malaysian local coverage of this campus, its water or power draw, or any community reaction to it, and no Johor resident or official is quoted anywhere we could read. The archive.org source cited in our record could not be fetched. The 240 and 473 megawatt figures come from our own record rather than from a company or regulator statement."
+ }
+]

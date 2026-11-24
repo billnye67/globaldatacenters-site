@@ -1,0 +1,461 @@
+[
+ {
+  "id": "gemini-google-delhi",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Delhi data centre presence is a cloud region rather than a building the company has identified.",
+    "src": "https://w.media/google-announces-the-opening-of-its-second-google-cloud-region-in-delhi-ncr/"
+   },
+   {
+    "para": 0,
+    "t": "It opened on July 15, 2021, India's second Google Cloud region after Mumbai in 2017, running on three availability zones.",
+    "src": "https://w.media/google-announces-the-opening-of-its-second-google-cloud-region-in-delhi-ncr/"
+   },
+   {
+    "para": 1,
+    "t": "The district the region sits in is under real water stress.",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 1,
+    "t": "Gautam Buddh Nagar, in the National Capital Region, has 17 data centres operating or coming, 644 megawatts of proposed capacity as of June 2025, and groundwater extraction running at 104.79 percent of annual replenishment.",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 1,
+    "t": "In Khora Colony the water table has fallen from 120 feet in the early 2000s to about 600 today, and residents buy tanker water every two or three days.",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 1,
+    "t": "Uttar Pradesh's 2021 data centre policy promises operators uninterrupted water supply around the clock and says nothing about sustainable use, and officials say they do not know how much these facilities take.",
+    "src": "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+   },
+   {
+    "para": 2,
+    "t": "At least five other data centre projects, from the Adani Group, ST Telemedia and NTT among others, are under construction or proposed within 40 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://w.media/google-announces-the-opening-of-its-second-google-cloud-region-in-delhi-ncr/",
+   "https://www.downtoearth.org.in/water/indias-digital-thirst-a-booming-data-centre-corridor-in-uttar-pradeshs-gb-nagar-is-running-on-empty-wells"
+  ],
+  "unconfirmed": "No street address for the Delhi region has been published and three searches found none, so the water and groundwater figures above describe the district the region sits in rather than this facility."
+ },
+ {
+  "id": "gemini-google-doha",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google Cloud opened its Doha data centre region on May 22, 2023, three years after committing to it in 2020.",
+    "src": "https://www.prnewswire.com/news-releases/google-cloud-opens-new-cloud-region-in-doha-301830419.html"
+   },
+   {
+    "para": 0,
+    "t": "At launch it was one of 37 Google Cloud regions and 112 zones worldwide. Qatar Airways, beIN Media Group, the Qatar Financial Centre and Al Jazeera Media Network were named among the organisations using it.",
+    "src": "https://www.prnewswire.com/news-releases/google-cloud-opens-new-cloud-region-in-doha-301830419.html"
+   },
+   {
+    "para": 1,
+    "t": "Google projected the region would add $18.9 billion to Qatar's gross economic output between 2023 and 2030, and support 25,000 jobs by 2030.",
+    "src": "https://www.prnewswire.com/news-releases/google-cloud-opens-new-cloud-region-in-doha-301830419.html"
+   },
+   {
+    "para": 1,
+    "t": "Mohammed bin Ali Al Mannai, the minister of communications and information technology, said the launch \"fits into our comprehensive vision to achieve the desired goals of Qatar National Vision 2030, including the establishment of a strong digital infrastructure.\"",
+    "src": "https://www.prnewswire.com/news-releases/google-cloud-opens-new-cloud-region-in-doha-301830419.html"
+   },
+   {
+    "para": 1,
+    "t": "Adaire Fox-Martin, then president of go-to-market at Google Cloud, said, \"We are proud to be delivering on the commitment we made in 2020 to the Government of Qatar and the business community to open a cloud region in the country.\"",
+    "src": "https://www.prnewswire.com/news-releases/google-cloud-opens-new-cloud-region-in-doha-301830419.html"
+   }
+  ],
+  "sources": [
+   "https://www.prnewswire.com/news-releases/google-cloud-opens-new-cloud-region-in-doha-301830419.html",
+   "https://en.wikipedia.org/wiki/Google_data_centers"
+  ],
+  "unconfirmed": "This is a cloud region announcement rather than a building Google has described, and no address, capacity figure, water figure or Qatari resident or official outside the launch release was found. Our record lists no other data centre project within 40 kilometres of the site. A quote attributed to Adaire Fox-Martin calling the region a catalyst for economic development is not in the release it was credited to and was replaced with what she did say."
+ },
+ {
+  "id": "gemini-google-dublin",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's data center at Grange Castle Business Park in Dublin has operated since 2012, after being announced in 2011, and employs about 150 people.",
+    "src": "https://en.wikipedia.org/wiki/Google_data_centers"
+   },
+   {
+    "para": 1,
+    "t": "In August 2024, South Dublin County Council refused planning permission for a new Google data centre proposed for the same Grange Castle site, a 72,400 square metre building with data halls and a high voltage compound.",
+    "src": "https://dublinpeople.com/news/southside/articles/2024/09/05/council-refuses-google-data-centre-planning-permission/"
+   },
+   {
+    "para": 1,
+    "t": "The council cited insufficient national grid capacity, a lack of renewable energy commitments, unclear engagement on power purchase agreements, no connection to a district heating network, and inadequate detail on how the plant would affect the power supply once operational in 2027.",
+    "src": "https://dublinpeople.com/news/southside/articles/2024/09/05/council-refuses-google-data-centre-planning-permission/"
+   },
+   {
+    "para": 1,
+    "t": "Councillor Madeleine Johansson said councillors had previously voted to ban further data centre development in the area, but the government overturned that decision.",
+    "src": "https://dublinpeople.com/news/southside/articles/2024/09/05/council-refuses-google-data-centre-planning-permission/"
+   },
+   {
+    "para": 1,
+    "t": "Google told the council that without the project, meeting customer demand for its cloud services would become difficult.",
+    "src": "https://dublinpeople.com/news/southside/articles/2024/09/05/council-refuses-google-data-centre-planning-permission/"
+   },
+   {
+    "para": 1,
+    "t": "Teachta Dala Gino Kenny said data centres are expected to use 27 percent of Ireland's electricity by 2028.",
+    "src": "https://dublinpeople.com/news/southside/articles/2024/09/05/council-refuses-google-data-centre-planning-permission/"
+   },
+   {
+    "para": 2,
+    "t": "The operating Dublin site sits among at least ten other data centers within 11 kilometers, run by Microsoft, Amazon, Meta, Equinix, Digital Realty, CyrusOne, Vantage and Keppel, among others.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Google_data_centers",
+   "https://dublinpeople.com/news/southside/articles/2024/09/05/council-refuses-google-data-centre-planning-permission/"
+  ],
+  "unconfirmed": "It is not confirmed whether the refused 2024 application has since been resubmitted, approved on appeal, or dropped."
+ },
+ {
+  "id": "gemini-google-frankfurt",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google operates a data center on Marie-Curie-Strasse in Hanau, just outside Frankfurt am Main.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The campus is carried as operating since 2022; a Google Cloud press release describes the Hanau site as having opened in 2023, so the exact date is unclear.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "In November 2025, Google said it would invest 5.5 billion euros in Germany through 2029, including continued build-out at Hanau and a new data center in nearby Dietzenbach.",
+    "src": "https://www.googlecloudpresscorner.com/2025-11-11-Google-Announces-EUR5-5-Billion-Investment-in-Germany,-including-AI-Infrastructure,-through-2029"
+   },
+   {
+    "para": 1,
+    "t": "Google said the investment would add about 1 billion euros a year to German GDP and support roughly 9,000 jobs through the decade's end.",
+    "src": "https://www.googlecloudpresscorner.com/2025-11-11-Google-Announces-EUR5-5-Billion-Investment-in-Germany,-including-AI-Infrastructure,-through-2029"
+   },
+   {
+    "para": 1,
+    "t": "At the Dietzenbach site, Google is working with local utility Energieversorgung Offenbach to capture waste heat and pipe it to more than 2,000 households as district heating.",
+    "src": "https://www.googlecloudpresscorner.com/2025-11-11-Google-Announces-EUR5-5-Billion-Investment-in-Germany,-including-AI-Infrastructure,-through-2029"
+   },
+   {
+    "para": 2,
+    "t": "The Hanau site sits within 20 kilometers of at least nine other data centers, including projects from Amazon Web Services, Digital Realty, Vantage Data Centers and Equinix, plus Google's own proposed Dietzenbach facility.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Google_data_centers",
+   "https://www.googlecloudpresscorner.com/2025-11-11-Google-Announces-EUR5-5-Billion-Investment-in-Germany,-including-AI-Infrastructure,-through-2029",
+   "https://www.datacenterdynamics.com/en/news/google-to-invest-55bn-in-data-centers-and-offices-in-germany/"
+  ],
+  "unconfirmed": "No local resident reaction, permitting fight or water/power concern specific to the Hanau site was found; coverage found was mostly Google's own announcements."
+ },
+ {
+  "id": "google-google-hanau",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Hanau data centre stands on Marie-Curie-Strasse, near Frankfurt, in Hesse.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "Google is expanding it as part of 5.5 billion euro announced for Germany in November 2025, running to 2029 and including a separate new data centre at Dietzenbach.",
+    "src": "https://www.hessenschau.de/wirtschaft/google-investiert-55-milliarden-euro--hessen-wird-wichtiger-standort-v6,google-rechenzentren-hessen-100.html"
+   },
+   {
+    "para": 1,
+    "t": "Hanau is one of the few German data centres for which a water figure exists at all.",
+    "src": "https://www.hessenschau.de/wirtschaft/warum-rechenzentren-wasser-brauchen--und-kaum-jemand-weiss-wie-viel-v1,wasserverbrauch-rechenzentren-100.html"
+   },
+   {
+    "para": 1,
+    "t": "Google says the site used 7,192 cubic metres of water in 2025, which a spokesperson described as less than a golf course uses in a year, and attributes the low figure to not using evaporative cooling.",
+    "src": "https://www.hessenschau.de/wirtschaft/warum-rechenzentren-wasser-brauchen--und-kaum-jemand-weiss-wie-viel-v1,wasserverbrauch-rechenzentren-100.html"
+   },
+   {
+    "para": 1,
+    "t": "The company gave that number voluntarily.",
+    "src": "https://www.hessenschau.de/wirtschaft/warum-rechenzentren-wasser-brauchen--und-kaum-jemand-weiss-wie-viel-v1,wasserverbrauch-rechenzentren-100.html"
+   },
+   {
+    "para": 2,
+    "t": "In Hesse nobody has to say.",
+    "src": "https://www.hessenschau.de/wirtschaft/warum-rechenzentren-wasser-brauchen--und-kaum-jemand-weiss-wie-viel-v1,wasserverbrauch-rechenzentren-100.html"
+   },
+   {
+    "para": 2,
+    "t": "There is no public disclosure requirement for data centre water use in the state, and although EU law requires reporting to the European Commission, those figures stay confidential.",
+    "src": "https://www.hessenschau.de/wirtschaft/warum-rechenzentren-wasser-brauchen--und-kaum-jemand-weiss-wie-viel-v1,wasserverbrauch-rechenzentren-100.html"
+   },
+   {
+    "para": 2,
+    "t": "Jens Gröger of the Öko-Institut argues that operators should have to publish absolute figures for both water and electricity so that councils can decide with the numbers in front of them.",
+    "src": "https://www.hessenschau.de/wirtschaft/warum-rechenzentren-wasser-brauchen--und-kaum-jemand-weiss-wie-viel-v1,wasserverbrauch-rechenzentren-100.html"
+   },
+   {
+    "para": 2,
+    "t": "Hessen's economics ministry says nobody knows how much energy the state's data centres use in total.",
+    "src": "https://www.hessenschau.de/wirtschaft/warum-rechenzentren-wasser-brauchen--und-kaum-jemand-weiss-wie-viel-v1,wasserverbrauch-rechenzentren-100.html"
+   },
+   {
+    "para": 3,
+    "t": "Two billion euro projects in the Rhine-Main area have failed against resistance from residents and local politicians: a 2.5 billion euro Vantage Data Centers scheme at Gross-Gerau, and one at Maintal that EdgeConneX withdrew.",
+    "src": "https://www.hessenschau.de/politik/kommunalwahlen/internetknoten-rhein-main-gross-gerau-sagt-nein-zu-diesem-xxl-rechenzentrum--v1,kom26-gross-gerau-rechenzentrum-100.html"
+   },
+   {
+    "para": 3,
+    "t": "The mayors of Hanau and Dietzenbach have proposed that commercial tax on these buildings be calculated on installed computing power instead.",
+    "src": "https://www.hessenschau.de/wirtschaft/google-investiert-55-milliarden-euro--hessen-wird-wichtiger-standort-v6,google-rechenzentren-hessen-100.html"
+   }
+  ],
+  "sources": [
+   "https://www.hessenschau.de/wirtschaft/warum-rechenzentren-wasser-brauchen--und-kaum-jemand-weiss-wie-viel-v1,wasserverbrauch-rechenzentren-100.html",
+   "https://www.hessenschau.de/wirtschaft/google-investiert-55-milliarden-euro--hessen-wird-wichtiger-standort-v6,google-rechenzentren-hessen-100.html",
+   "https://www.hessenschau.de/politik/kommunalwahlen/internetknoten-rhein-main-gross-gerau-sagt-nein-zu-diesem-xxl-rechenzentrum--v1,kom26-gross-gerau-rechenzentrum-100.html"
+  ],
+  "unconfirmed": "This entry covers the same Marie-Curie-Strasse site that appears separately in our data as Google Frankfurt. Our record shows it operating since 2022, while a Google Cloud press release puts the campus's opening in 2023, and the two could not be reconciled."
+ },
+ {
+  "id": "gemini-google-jakarta",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Jakarta data centre has operated since 2020.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "It is one of at least three large cloud data centres in the city, alongside facilities run by Huawei Cloud, Amazon Web Services and Tencent Cloud.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "Its capacity, address, water use and employment have not been published.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Indonesia's data centre build out has moved largely to Batam and to Karawang in West Java, where Amazon runs three sites and where industrial estates rather than the capital now take most new capacity.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Searches on Jakarta with Google data centre, on Indonesia with Google data centre, and on Jakarta with data centre water found no address, capacity, investment, water or power figure, and no Indonesian local reporting on this facility of any kind."
+ },
+ {
+  "id": "gemini-google-koto-ku",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's data centre in Tokyo's Koto ward has operated since 2016.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "It sits in one of Tokyo's densest data centre clusters, within a few kilometres of facilities run by Equinix, Oracle, NTT linked operators and Amazon Web Services.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 0,
+    "t": "Its capacity, water use and employment are not published.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Google's other Japanese site, at Inzai in Chiba prefecture, opened in 2023 about 36 kilometres away, in the larger cluster that has grown up north east of Tokyo alongside AirTrunk, STACK Infrastructure, NTT Global Data Centers and MC Digital Realty.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Searches on Koto ward with Google data centre, on Tokyo with data centre water, and on Google with Japan found no capacity, water or power figure, no planning record and no Japanese local reporting on this facility. Nothing distinguishes it in public from the many other buildings in the same cluster."
+ },
+ {
+  "id": "gemini-google-lenoir",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's data center at 708 Lynhaven Drive in Lenoir, in Caldwell County, has operated since 2009, after the company announced it in 2007.",
+    "src": "https://en.wikipedia.org/wiki/Google_data_centers"
+   },
+   {
+    "para": 0,
+    "t": "The campus has grown to 3.37 million square feet on about 60 acres and employs roughly 400 people.",
+    "src": "https://news.constructconnect.com/google-plans-1-billion-expansion-of-north-carolina-data-center-campus"
+   },
+   {
+    "para": 1,
+    "t": "On March 13, 2026, Google announced it would invest $1 billion over two years to expand the Lenoir campus for artificial intelligence and cloud computing, on top of a $600 million upgrade completed in 2024 and its original 2007 investment.",
+    "src": "https://news.constructconnect.com/google-plans-1-billion-expansion-of-north-carolina-data-center-campus"
+   },
+   {
+    "para": 1,
+    "t": "Caldwell County Commission Chairman Randy Church said the investment \"will bring new opportunities for local workers and help drive long-term economic success.\"",
+    "src": "https://www.cityoflenoir.com/m/newsflash/Home/Detail/594"
+   },
+   {
+    "para": 1,
+    "t": "Mayor Joseph Gibbons said the funding would \"enhance our workforce, expand economic development opportunities, and ensure North Carolina remains a leader in innovation.\"",
+    "src": "https://www.cityoflenoir.com/m/newsflash/Home/Detail/594"
+   },
+   {
+    "para": 1,
+    "t": "The expansion is expected to create at least 30 new jobs.",
+    "src": "https://news.constructconnect.com/google-plans-1-billion-expansion-of-north-carolina-data-center-campus"
+   },
+   {
+    "para": 2,
+    "t": "Google is funding a $2 million Energy Impact Fund with Blue Ridge Community Action, Blue Ridge Energy and Advanced Energy for weatherization and community solar for low-income households, a $100,000 donation toward renovating Lenoir's historic high school, and a three-year, $270,000 grant to Communities in Schools of Caldwell County for workforce and digital-equity programs running through 2027.",
+    "src": "https://www.cityoflenoir.com/m/newsflash/Home/Detail/594"
+   },
+   {
+    "para": 3,
+    "t": "On October 22, 2024, Caldwell County commissioners and the Lenoir city council approved property tax incentive grants worth 50 percent of real property taxes and 85 percent of personal property taxes over 20 years for roughly 60 acres of expansion land next to the existing campus.",
+    "src": "https://www.cityoflenoir.com/CivicAlerts.aspx?AID=498"
+   },
+   {
+    "para": 3,
+    "t": "Google also agreed to contribute $6.8 million toward the city's water infrastructure so it can supply the expanded campus.",
+    "src": "https://www.cityoflenoir.com/CivicAlerts.aspx?AID=498"
+   },
+   {
+    "para": 3,
+    "t": "County Chair Randy Church said Google \"has been an outstanding community partner, contributing to hundreds of jobs\" over 17 years, and Mayor Joe Gibbons said \"Google has done so much for Lenoir and Caldwell County over the years.\"",
+    "src": "https://www.cityoflenoir.com/CivicAlerts.aspx?AID=498"
+   },
+   {
+    "para": 4,
+    "t": "Google paid about $5.2 million in property taxes in the county last year, nearly 10 percent of the county's total property tax collections, in a county the state ranks in its most economically distressed tier.",
+    "src": "https://insideclimatenews.org/news/10042026/north-carolina-data-centers-economic-impact/"
+   },
+   {
+    "para": 4,
+    "t": "Under a 2024 confidentiality agreement with the county and city, Google's precise energy use and water and sewer use are kept as trade secrets, and the company's exact employee count is not disclosed.",
+    "src": "https://insideclimatenews.org/news/10042026/north-carolina-data-centers-economic-impact/"
+   },
+   {
+    "para": 4,
+    "t": "State Rep. Pricey Harrison said officials should also track \"residents' health impacts and quality of life,\" not just financial metrics, and a state Commerce Department report found that \"state agencies have a limited view of the sector's energy use and economic activity.\"",
+    "src": "https://insideclimatenews.org/news/10042026/north-carolina-data-centers-economic-impact/"
+   },
+   {
+    "para": 5,
+    "t": "Caldwell County has one other data center, and Microsoft has a separate project in neighboring Catawba County, about 36 kilometers away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 5,
+    "t": "Neither moratorium applies to Lenoir directly, but two neighboring counties have moved against data centers: Boone passed a one-year moratorium on new data center development on March 24, 2026, and Watauga County passed its own one-year moratorium on April 25, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Google_data_centers",
+   "https://news.constructconnect.com/google-plans-1-billion-expansion-of-north-carolina-data-center-campus",
+   "https://www.cityoflenoir.com/m/newsflash/Home/Detail/594",
+   "https://www.cityoflenoir.com/CivicAlerts.aspx?AID=498",
+   "https://insideclimatenews.org/news/10042026/north-carolina-data-centers-economic-impact/"
+  ],
+  "unconfirmed": "No organized resident opposition or public hearing dissent specific to Lenoir's 2026 expansion was found in the sources checked, unlike the moratorium fights in neighboring Boone and Watauga County."
+ },
+ {
+  "id": "gemini-google-lok-yang-way",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Lok Yang Way data centre, in Singapore's Pioneer area, has operated since 2022.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The timing matters: it opened in the year Singapore lifted the de facto moratorium on new large data centres it had run since 2019 over energy, water and land use.",
+    "src": "https://w.media/singapore-data-centre-moratorium-lifted-what-next/"
+   },
+   {
+    "para": 0,
+    "t": "Approvals restarted under a selective call for applications aimed at about 60 megawatts, which by 2023 had awarded roughly 80 megawatts to four operators.",
+    "src": "https://w.media/singapore-data-centre-moratorium-lifted-what-next/"
+   },
+   {
+    "para": 1,
+    "t": "A Green Data Centre Roadmap in 2024 then set stricter requirements on energy efficiency, renewable sourcing and cooling, and on October 27, 2025 the Economic Development Board and JTC set aside about 20 hectares on Jurong Island for a low carbon data centre park of up to 700 megawatts.",
+    "src": "https://www.reedsmith.com/articles/singapores-data-centre-expansion-jurong-island-sustainable-growth/"
+   },
+   {
+    "para": 2,
+    "t": "Equinix, Oracle, Huawei Cloud, DayOne and Keppel all operate data centres within a kilometre of this one, and Google's own Jurong West facility is four kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://w.media/singapore-data-centre-moratorium-lifted-what-next/",
+   "https://www.reedsmith.com/articles/singapores-data-centre-expansion-jurong-island-sustainable-growth/"
+  ],
+  "unconfirmed": "Searches on Lok Yang Way with Google, on Singapore with data centre moratorium, and on Pioneer with data centre found no capacity, water or employment figure for this site, and no resident or community comment. It is not established whether this facility was one of the projects approved under the 2022 call for applications or was permitted before the pause."
+ },
+ {
+  "id": "google-google-jurong-west",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Jurong West data centre has operated since 2013, two years after it was announced, and was expanded in 2015.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "It sits within a few kilometres of at least ten others run by Equinix, Oracle, Meta, Digital Realty and Iron Mountain, plus Google's own Lok Yang Way site four kilometres off.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 1,
+    "t": "Singapore is the one place that simply stopped approving these buildings.",
+    "src": "https://w.media/singapore-data-centre-moratorium-lifted-what-next/"
+   },
+   {
+    "para": 1,
+    "t": "From 2019 to 2022 the government ran a de facto moratorium on new large data centres over energy, water and land, and used the pause to rewrite its framework, consult the industry and set new sustainability benchmarks.",
+    "src": "https://w.media/singapore-data-centre-moratorium-lifted-what-next/"
+   },
+   {
+    "para": 1,
+    "t": "When it lifted the pause in 2022 it did not simply reopen the door: the Infocomm Media Development Authority and the Economic Development Board ran a selective call for applications targeting about 60 megawatts, and by 2023 had awarded roughly 80 megawatts to four operators.",
+    "src": "https://w.media/singapore-data-centre-moratorium-lifted-what-next/"
+   },
+   {
+    "para": 2,
+    "t": "The rules have tightened since.",
+    "src": "https://www.reedsmith.com/articles/singapores-data-centre-expansion-jurong-island-sustainable-growth/"
+   },
+   {
+    "para": 2,
+    "t": "A Green Data Centre Roadmap published in 2024 set stricter obligations on energy efficiency, renewable sourcing and cooling.",
+    "src": "https://www.reedsmith.com/articles/singapores-data-centre-expansion-jurong-island-sustainable-growth/"
+   },
+   {
+    "para": 2,
+    "t": "On October 27, 2025 the Economic Development Board and JTC Corporation set aside about 20 hectares on Jurong Island for what they describe as Singapore's largest low carbon data centre park, with room for up to 700 megawatts.",
+    "src": "https://www.reedsmith.com/articles/singapores-data-centre-expansion-jurong-island-sustainable-growth/"
+   }
+  ],
+  "sources": [
+   "https://w.media/singapore-data-centre-moratorium-lifted-what-next/",
+   "https://www.reedsmith.com/articles/singapores-data-centre-expansion-jurong-island-sustainable-growth/"
+  ],
+  "unconfirmed": "Searches on Jurong West with Google, on Singapore with data centre moratorium, and on Singapore with data centre water found no capacity figure, water figure, employment number or local comment specific to this site. Singapore's policy is documented in detail; individual buildings are not, and no resident or community group is quoted anywhere in the coverage."
+ }
+]

@@ -1,0 +1,227 @@
+{
+ "/data-centers/united-states/alaska/": {
+  "paragraphs": [
+   "The largest data center proposed in Alaska is on the North Slope. Anchorage-based Stak Energy wants a 50-year lease of about a square mile of state land off the Dalton Highway, some 25 miles south of Deadhorse, for gas-fired power plants that could produce up to 3 gigawatts for AI computing. In May 2026 the Department of Natural Resources issued a preliminary decision that the lease is in the state's \"best interest.\" Public comments closed July 17, and the department will review them before making a final decision.",
+   "More than 500 people commented, and fewer than a dozen supported the project, the Alaska Beacon reported. State documents cite a $500 million first phase, a peak of 1,500 construction workers, about 60 permanent jobs and 7 million cubic yards of gravel. Stak's chief strategy officer, John Boyle, was Gov. Mike Dunleavy's natural resources commissioner from 2023 to 2025 and puts the full cost at more than $10 billion. Stak had no firm gas supply deal when it applied, and it still needs a federal Clean Water Act permit for its gravel pad.",
+   "The utilities in Anchorage and Fairbanks say they cannot power a large data center. \"We currently do not have gas to serve a large data center, but we do have generation capacity,\" Chugach Electric spokesperson Julie Hasquet told the Anchorage Daily News; its main gas contract ends in 2028. In April the Air Force offered five sites of about 60 to nearly 200 acres at Joint Base Elmendorf-Richardson and land near Fairbanks, though its own solicitation says the base sites have \"insufficient power.\"",
+   "In March the Anchorage Assembly voted 10-2 to keep data centers out of residential zones, require noise buffers and require a written statement from the utility that the grid has \"sufficient system capacity.\" The Mat-Su Borough Assembly went the other way, overriding Mayor Edna DeVries's veto to have staff pitch borough land near Port MacKenzie and Big Lake to data centers.",
+   "In July the state proposed giving a 30-square-mile parcel north of Houston to the Alaska Industrial Development and Export Authority for an industrial park that could include \"scalable data centers.\" Houston City Council member Lisa Johansen has proposed banning data centers in the city; the council postponed its vote to August 13, and no result has been published."
+  ],
+  "sources": [
+   "https://alaskabeacon.com/2026/05/14/a-huge-data-center-could-rise-on-alaskas-north-slope/",
+   "https://alaskabeacon.com/2026/07/06/data-center-critics-flood-alaska-land-managers-with-opposition-to-north-slope-project/",
+   "https://www.adn.com/alaska-news/military/2026/05/05/the-military-wants-to-host-data-centers-in-alaska-raising-questions-about-whether-theres-enough-gas-to-power-them/",
+   "https://www.adn.com/alaska-news/anchorage/2026/03/27/anchorage-assembly-preemptively-adopts-data-center-regulations/",
+   "https://alaskabeacon.com/2026/07/16/alaskas-economic-development-agency-plans-a-mat-su-industrial-park-with-data-centers/"
+  ]
+ },
+ "/data-centers/ireland/county-kildare/": {
+  "paragraphs": [
+   "Naas is Kildare's data center battleground. Kildare County Council approved Herbata Ltd's €3 billion campus of six data centers, 180 megawatts in all, beside the M7 business park in August 2025, and the decision is now before An Coimisiún Pleanála, the planning appeals board. An Taisce, Friends of the Earth Ireland and Friends of the Irish Environment appealed, and so did Herbata over some conditions. Nearby at Jigginstown, Microsoft is planning a second campus on land zoned only for data centers, but has not yet applied.",
+   "On September 3, 2026, more than 200 people by the Irish Times' count, and over 300 by the Leinster Leader's, packed the Osprey Hotel for a meeting of the new Kildare Data Centre Awareness Campaign; organizers had expected about 80. \"We have a very deep understanding of what's happening, and we just don't want them,\" said resident Liz Denieffe. Naas Mayor Bill Clear had visited a data center in Clondalkin, where people more than 2 kilometers away complain they cannot sleep, and said its whistling \"was almost like if you had tinnitus.\"",
+   "Herbata, owned by Combilift co-founder Robert Moffett, plans gas turbines, gas engines and batteries on site and says half its power will come from renewable contracts. The council attached 77 conditions, including €8.3 million in contributions and proof of an EirGrid connection for the full load before building starts. Elaine McGoff of An Taisce, a Naas resident, told the meeting the campus would in fact draw from the grid and would need water for cooling in summer.",
+   "The Microsoft site covers 54.55 hectares and comes within 130 meters of the Primrose Gardens estate, says former councillor Sorcha O'Neill, whose petition to rezone it has almost 400 signatures. In September council official Amy Granville told the Naas Municipal District there was \"currently no planning evidence\" that the zoning was wrong, and officials said only the full 40-member county council can change it. Clear said he would bring a rezoning motion anyway: \"I will do it, but it will not work.\""
+  ],
+  "sources": [
+   "https://www.irishtimes.com/ireland/2026/09/04/naas-has-a-message-for-the-bond-villains-we-dont-want-your-data-centres/",
+   "https://www.leinsterleader.ie/news/naas/angry-scenes-as-hundreds-protest-over-kildare-data-centre-plans-8960397",
+   "https://www.kildarenow.com/news/naas/kildare-residents-concerns-over-data-centre-are-ignored-by-council-9021354",
+   "https://www.kildare-nationalist.ie/news/opposition-mounts-over-potential-kildare-data-centre_arid-108220.html",
+   "https://www.rte.ie/news/business/2025/0821/1529524-kildare-county-council-approves-3-billion-data-campus/",
+   "https://www.datacenterdynamics.com/en/news/kildare-county-council-grants-permission-for-3bn-data-center-near-naas-ireland/",
+   "https://www.datacenterdynamics.com/en/news/microsoft-plans-data-center-campus-in-naas-ireland/",
+   "https://local.microsoft.com/blog/jigginstown-datacentre-project-update/"
+  ]
+ },
+ "/data-centers/iceland/reykjanesb-r/": {
+  "paragraphs": [
+   "Reykjanesbær, the town around Keflavík International Airport, is the center of Iceland's data center industry, and both big operators here are growing. On May 22, 2026, the town's environment and planning council approved Verne Global's plan for a new data center at Ásbrú: one building on a 24,000-square-meter plot with outdoor backup generators, drawing up to 120 megawatts of power in three 40-megawatt phases between 2026 and 2028. Next come further planning work and site preparation. Verne says its Keflavík campus already has more than 140 megawatts.",
+   "atNorth runs ICE02 near the airport, which Landsvirkjun, the state power company, has called one of the largest data centers in Europe. In November 2024 atNorth began expanding ICE02 together with its Akureyri site, at a combined cost of 41.2 billion krónur, and chartered a special cargo ship and the country's largest crane to bring in equipment. In September 2026 atNorth was sold to the Canadian pension fund CPP Investments and Equinix in a $4 billion deal.",
+   "The local question is who gains from the power. Data centers used just under 4 percent of Iceland's electricity in the first half of 2026, Landsvirkjun told Iceland Review, and investment tied to data centers hit a record in the second quarter even as the economy shrank. \"Iceland already sells itself by the megawatt,\" the magazine's York Underwood wrote. \"Maybe it's time it came together and decided on the price.\""
+  ],
+  "sources": [
+   "https://braggi.is/gagnaver-verne-global-a-asbru-nytt-120-mw-gagnaver-i-thremur-afongum/",
+   "https://www.verne.co/iceland",
+   "https://www.landsvirkjun.com/news/new-landsvirkjun-electricity-contract-boosts-atnorths-data-centre-expansion",
+   "https://www.mbl.is/vidskipti/frettir/2024/11/08/atnorth_staekkar_gagnaver/",
+   "https://www.icelandreview.com/in-focus/selling-iceland-megawatt-data-centres-electricity/",
+   "https://www.datacenterdynamics.com/en/news/atnorth-sold-to-equinix-and-cpp-investments-in-42bn-deal/"
+  ]
+ },
+ "/data-centers/iceland/akureyrarb-r/": {
+  "paragraphs": [
+   "Akureyri has one data center, atNorth's ICE03, on a one-hectare plot granted by the town planning council with nearby land for expansion. It opened with 12 megawatts of power in two buildings and could grow to five buildings and 50 megawatts. The state power company Landsvirkjun has signed a new five-year contract to supply it with up to 12 megawatts from the second half of 2026, and in September 2026 atNorth was sold to the Canadian pension fund CPP Investments and Equinix in a $4 billion deal.",
+   "The site exists because of a quirk of the grid: limits on Iceland's transmission lines leave the north with more electricity than it can send south, Landsvirkjun says. \"The location of the data center in Akureyri is very practical as energy demand in the South is already high,\" Landsvirkjun's Tinna Traustadóttir said. Mayor Ásthildur Sturludóttir welcomed the jobs and tied the project to new power lines in the northeast.",
+   "In November 2024 atNorth began expanding ICE03 alongside its site in Reykjanesbær, a joint investment of 41.2 billion krónur. The start-up Hringvarmi is using the data center's waste heat to grow microgreens with Rækta Microfarm. Data centers used just under 4 percent of Iceland's electricity in the first half of 2026, Landsvirkjun told Iceland Review."
+  ],
+  "sources": [
+   "https://www.datacenter-forum.com/atnorth/atnorth-reveals-location-of-its-third-data-center-in-akureyri-iceland",
+   "https://www.datacenterdynamics.com/en/news/atnorth-signs-ppa-for-newly-launched-icelandic-data-center/",
+   "https://www.landsvirkjun.com/news/landsvirkjun-and-atnorth-akureyri-sign-new-green-firm-ppa",
+   "https://www.akureyri.net/is/frettir/staekka-gagnaverin-og-heimta-glatvarma",
+   "https://www.icelandreview.com/in-focus/selling-iceland-megawatt-data-centres-electricity/",
+   "https://www.datacenterdynamics.com/en/news/atnorth-sold-to-equinix-and-cpp-investments-in-42bn-deal/"
+  ]
+ },
+ "/data-centers/new-zealand/": {
+  "paragraphs": [
+   "New Zealand's biggest data center plan is Datagrid's NZ$3.5 billion \"AI factory\" at Makarewa, about 10 minutes north of Invercargill. Southland District Council, Environment Southland and Invercargill City Council granted it full resource consent in March 2026, without public notification. At 280 megawatts of power it would be the country's second-biggest electricity user after the Tiwai Point aluminum smelter, using about 6% of national demand. Grid operator Transpower was still studying the connection in July, so the hoped-for July 2026 construction start looked unlikely.",
+   "Because the consent was not publicly notified, neighbors had no formal chance to object, and the right to appeal is narrow. The consents allow Datagrid to take more than 600,000 liters of groundwater a day, though the company says it will use none. Southland Mayor Rob Scott has called the project a good opportunity for the region. The first phase promises about 75 permanent jobs, and Datagrid's stated goal is to grow to 1 gigawatt, which a government briefing described as almost double Tiwai's use.",
+   "Data centers are now an election issue. In July the Greens called for a one-year pause on consents for new AI data centers; Prime Minister Christopher Luxon called that \"alarmist\" and asked Economic Growth Minister Nicola Willis to draw up rules requiring large sites to bring new power generation. Labour says data centers should secure their own renewable power and pay their own connection costs. New Zealand votes on November 7, 2026."
+  ],
+  "sources": [
+   "https://www.odt.co.nz/southland/who-gains-southlands-massive-new-ai-data-centre",
+   "https://b2bnews.co.nz/articles/ai-data-centre-boom-runs-into-politics-and-the-law/",
+   "https://b2bnews.co.nz/news/five-south-island-data-centres-test-the-power-grid/",
+   "https://www.rnz.co.nz/news/politics/796938/urgent-need-for-rules-and-protections-on-data-centres-greens-say",
+   "https://www.1news.co.nz/2026/07/27/govt-wants-common-sense-rules-around-big-data-centres-pm/",
+   "https://www.nzherald.co.nz/nz/politics/election-2026-labour-reveals-rules-it-wants-imposed-on-new-data-centres-artificial-intelligence-policy/A7HJT7UA4RG3JDEWIORJKUAT6M/"
+  ]
+ },
+ "/data-centers/saudi-arabia/makkah-province/": {
+  "paragraphs": [
+   "In Makkah Province the data centre story is Jeddah's. The Red Sea port has a cable landing station and data centres run by the local telco Salam. The biggest announced project is Equinix's. At the LEAP summit in Riyadh in February 2025 it said it would invest more than $1 billion in a 100-megawatt data centre in Jeddah. \"The data center will facilitate our hyperscale and retail customers, companies in Saudi Arabia and beyond, and also bring many of our customers to the Middle East,\" Equinix's Judith Gardiner said, as reported by The National and DCD. Equinix did not share other specifications. It already operates in Oman, Dubai and Abu Dhabi.",
+   "North of the city, King Abdullah Economic City, a 185-square-kilometre new city on the Red Sea coast developed by Emaar, The Economic City, is trying to become a connectivity hub. In July 2023 it signed a memorandum of understanding with the Damac-backed developer Edgnex, Salam and the cable company Cinturion to develop a data centre, an open-access cable landing station and fibre, DCD reported. No details of what would be built, or when, were shared, and the articles read reported no progress since. The Saudi contractor Horizons says on its own site that it holds the construction contract for a 24-megawatt \"hyperscale\" data centre in Jeddah valued at more than 1.2 billion riyals, without naming the client.",
+   "None of these has produced reported local opposition, and the coverage found contains no discussion of their water or power use. Much of the kingdom's larger build-out is planned elsewhere: DataVolt's 1.5-gigawatt campus is under construction at Neom's Oxagon on the Red Sea coast in Tabuk Province.",
+   "What to watch is whether Equinix's Jeddah site gets a construction date and a capacity timeline, and whether the King Abdullah Economic City agreement turns into a planning application. Most of what is public about Makkah Province projects comes from company announcements. Independent reporting on them is thin, and this page says so rather than repeat the developers' claims."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/equinix-plans-1bn-saudi-data-center/",
+   "https://www.datacenterdynamics.com/en/news/damac-and-cinturion-to-build-data-center-and-cable-landing-station-in-saudis-new-king-abdullah-economic-city/",
+   "https://hcc-ksa.com/jed-hyper-scale-datacenter/",
+   "https://www.datacenterdynamics.com/en/news/datavolt-plans-15gw-data-center-campus-in-neoms-oxagon/",
+   "https://www.neom.com/en-us/newsroom/HUMAIN-and-DataVolt-to-develop-AI-data-center-in-NEOM"
+  ],
+  "unconfirmed": "The Oracle cloud region in Jeddah listed on this site was not covered in any article read. Reports of other Jeddah projects (a 50MW 'Desert Dragon' facility and a 10MW immersion-cooled site by XDS Datacentres) appeared only in search summaries or press releases and are not used. An Arab News article on Saudi data centres would not open."
+ },
+ "/data-centers/saudi-arabia/tabuk-province/": {
+  "paragraphs": [
+   "Tabuk Province's data center is being built at Oxagon, the industrial port city of Neom, on Saudi Arabia's Red Sea coast. Neom and DataVolt, a Riyadh-based developer, signed a $5 billion deal at the LEAP conference in February 2025 for a 1.5-gigawatt campus there, to run on Neom's wind and solar power.",
+   "On August 31, 2026, Neom announced DataVolt had broken ground on the campus's 360-megawatt first phase; HUMAIN, the Public Investment Fund's AI company, is jointly developing 100 megawatts of that phase, due in 2028. \"Construction is underway, 100MW is moving forward,\" HUMAIN chief executive Tareq Amin said. DataVolt has not named its customers or disclosed contract values.",
+   "The land is home to the Huwaitat tribe, at least 20,000 of whose members faced eviction, DCD has reported. No source read said how much water or cooling the campus would use, beyond the developers' description of \"innovative cooling.\" Tonomus, a Neom company, opened an earlier, smaller data center at Neom in July 2023."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/datavolt-plans-15gw-data-center-campus-in-neoms-oxagon/",
+   "https://www.agbi.com/tech/2026/08/neom-to-start-constructing-oxagon-ai-data-centre-in-months/",
+   "https://www.neom.com/en-us/newsroom/HUMAIN-and-DataVolt-to-develop-AI-data-center-in-NEOM"
+  ]
+ },
+ "/data-centers/turkey/": {
+  "paragraphs": [
+   "Turkey's established data centers are in Istanbul, where Equinix runs its IS1 site, but the new ones are going up around Ankara. The e-commerce company Trendyol, majority-owned by Alibaba, and the UAE's Castle Investments are building the Ankara Data Hub, a roughly $500 million, 48-megawatt data center whose first 9.6 megawatts were due to open in the third quarter of 2026. Trendyol plans to use about 40% of it and rent the rest to cloud and business customers.",
+   "The Emirati operator Khazna, backed by G42, announced in April 2025 that it would build a data center of up to 100 megawatts of power in the Başkent Organized Industrial Zone, southwest of Ankara, starting with cloud computing and later adding AI. In September 2026 Digital Realty formed a joint venture with Rönesans Infrastructure that is building an Ankara campus of more than 22 megawatts; the partners say land, power and permits are secured, and the first building is due in 2028, with a second site planned in Istanbul."
+  ],
+  "sources": [
+   "https://www.aa.com.tr/en/economy/trendyol-castle-investments-to-build-500m-data-center-in-turkish-capital/3581122",
+   "https://www.datacenterdynamics.com/en/news/turkeys-trendyol-to-build-48mw-data-center-in-ankara/",
+   "https://www.datacenterdynamics.com/en/news/khazna-to-build-data-center-near-ankara-turkey/",
+   "https://grafa.com/en/news/united-states/digital-realty-turkiye-data-center-jv-22mw-ankara"
+  ]
+ },
+ "/data-centers/united-states/texas/armstrong-county/": {
+  "paragraphs": [
+   "Armstrong County, a ranching county east of Amarillo, is getting a Google-tenant AI data center campus that Crusoe is building off Lima Road near Claude. Filed as Project Llano and also called the Goodnight campus, construction began in May 2025, and Google confirmed it would be the tenant in November 2025, part of a $40 billion Texas investment that also covers a campus in Haskell County. Filings with the Texas Department of Licensing and Regulation now show at least six buildings, four at 805,380 square feet and two at 484,955 square feet, set to go live in phases between August 2026 and February 2027.",
+   "The county's money comes through a tax abatement Crusoe asked commissioners to restructure in October 2025: instead of one lump sum per finished phase, the county now gets $1.35 million a year for each building as it opens. County Judge Adam Ensey said the total amount due would not change, and warned that an abatement guarantees nothing if a project is never built, pointing to wind farms that won abatements and were never constructed. The project is expected to employ 80 to 100 people.",
+   "Crusoe filed in January 2026 for a 933-megawatt natural gas plant on the campus that would power two of the buildings without connecting to the grid; its turbines could emit up to 4.5 million tons of carbon dioxide a year with no carbon capture, and Google has said it has not agreed to buy the plant's power. The research firm Aterio estimates the full campus at more than a gigawatt across seven buildings, a figure neither company has confirmed.",
+   "Residents' main worries are water, traffic and the ranches around the site. Crusoe and Ensey say the buildings use a closed-loop cooling system that, once filled, draws no more water from the aquifer than an office building's plumbing. At a Sept. 22 open house at Claude High School, Claude resident Elizabeth Magar said, \"I feel like what is happening around me is taking away my ability to protect our ranch. It's our legacy.\" Google's Austin Hutchinson said the companies had added safety patrols at an intersection after concerns about students crossing near construction traffic."
+  ],
+  "sources": [
+   "https://newschannel10.com/2025/10/18/armstrong-county-ai-data-center-project-scaled-back-original-plan/",
+   "https://abc7amarillo.com/news/local/google-announces-new-data-center-in-armstrong-county-texas-judge-adam-ensey-crusoe-energy-ercot-southwest-power-pool-claude-texas",
+   "https://www.distilled.earth/p/google-is-weighing-natural-gas-without",
+   "https://www.datacenterdynamics.com/en/news/crusoe-files-for-two-more-data-centers-at-goodnight-campus-in-armstrong-county-texas/",
+   "https://newschannel10.com/2026/09/13/crusoe-google-host-community-open-house-about-claude-data-center-project/",
+   "https://abc7amarillo.com/news/local/open-house-held-as-data-center-impact-concerns-grow-in-armstrong-county-project-llano-google-crusoe"
+  ]
+ },
+ "/data-centers/united-states/texas/carson-county/": {
+  "paragraphs": [
+   "Carson County, outside Amarillo, is the site of Project Matador, a data center and power campus that developer Fermi America calls the world's largest, built on land leased from Texas Tech next to the Pantex nuclear weapons plant about 35 miles northeast of the city. Fermi plans up to 17,000 megawatts from gas turbines, four nuclear reactors and other sources; the reactors are not yet licensed. On August 10, 2026, Fermi signed a 15-year, $6.5 billion lease with AI cloud provider TensorWave for 222 megawatts of the campus, to be delivered starting in the second half of 2027, though the lease still depends on financing that has not closed.",
+   "Carson County's commissioners approved a tax abatement instead of full taxes: Fermi pays the county $3 per square foot of buildings and $2,500 to $2,750 per megawatt each year, in exchange for a promise of 600 jobs over 15 phases. County Judge Dan Looten said the county already handles heavy daily traffic from Pantex's own workforce and was not overly worried about more. Amarillo agreed to sell Fermi up to 2.5 million gallons of water a day for 20 years, at twice the rate other industrial customers pay, though Fermi's own IPO filing said it may eventually need up to 5.5 million gallons a day; neither contract says what happens if it goes over. \"Wealth here is the water,\" said Will Masters, a founder of the nonprofit Ogallala Life. \"If the water is not here, this area is impoverished.\"",
+   "In February 2026, the Texas Commission on Environmental Quality approved air permits for the campus's gas-fired power plant and denied a hearing request from Panhandle Taxpayers for Transparency, whose founder Michael Ford said the group would appeal. Member Kendra Seawright said a hearing would have shown \"how much the pollution from that affects communities.\" The federal government has not yet licensed the project's four planned nuclear reactors."
+  ],
+  "sources": [
+   "https://abc7amarillo.com/news/local/fermi-america-signs-six-point-five-billion-dollar-lease-for-worlds-largest-data-center-after-months-of-turmoil-tensorwave-amarillo-texas-carson-county-water-city-council-greg-abbott-audir",
+   "https://amarillotribune.org/2025/11/05/just-facts-fermi-america-and-project-matador/",
+   "https://amarillotribune.org/2025/10/08/digging-into-fermis-filings-carson-county-roads-and-company-leadership/",
+   "https://www.texastribune.org/2025/10/02/rural-texas-data-centers-water/",
+   "https://abc7amarillo.com/news/local/tceq-approves-air-permits-for-fermi-americas-proposed-data-center-power-plant-texas-commission-on-environmental-quality-panhandle-first-coalition-kendra-seawright-catarina-gonzalez",
+   "https://amarillotribune.org/2026/02/25/tceq-approves-fermi-america-air-quality-permit-application/"
+  ]
+ },
+ "/data-centers/united-states/texas/dickens-county/": {
+  "paragraphs": [
+   "Dickens County, a West Texas county of fewer than 2,000 people, is home to Galaxy Digital's Helios data center near Afton, one of the largest AI computing campuses in North America. Helios began in 2021 as Argo Blockchain's bitcoin mine; when Argo struggled in the 2022 crypto downturn, Galaxy Digital bought it for about $65 million and converted it to AI computing starting in 2025. CoreWeave, the AI cloud company whose customers include Microsoft, has now leased all 800 megawatts of the site's approved capacity in three phases; the first phase began generating rent in early 2026, and Phase II data halls are due in the first half of 2027.",
+   "In January 2026, ERCOT approved another 830 megawatts for the site, bringing its total approved capacity to 1.63 gigawatts across more than 2,200 acres; Galaxy says the campus could eventually reach 3.6 gigawatts. Instead of full property taxes, Dickens County agreed in July 2025 to a 10-year payment of $18.5 million plus $2 million for new housing from Galaxy, with the first $500,000 and the housing money due October 1, 2026. Commissioners have since approved similar abatements for two more phases, Helios II and III. \"If we don't start creating the housing for them, they'll commute,\" County Judge Kevin Brendle said.",
+   "Helios is expected to add more than 100 permanent jobs, plus about 50 more from CoreWeave. Inside the original mining hall, temperatures can reach 130 degrees, and the plant has paused operations on hot afternoons when the Texas grid asked large users to cut back. The county's next payments, and the first of the abated taxes, are due October 1, 2026."
+  ],
+  "sources": [
+   "https://www.thetexasspur.com/content/hitchhiker%E2%80%99s-guide-galaxy-digital",
+   "https://www.datacenterdynamics.com/en/news/coreweave-leases-another-260mw-capacity-from-galaxy-in-texas/",
+   "https://www.thetexasspur.com/news/galaxy-inks-major-deal-dickens-helios-host-services-coreweave",
+   "https://blockspace.media/insight/galaxy-delivers-helios-to-coreweave/",
+   "https://www.thetexasspur.com/news/205m-tax-abatement-paves-way-galaxy-growth-dickens-county",
+   "https://www.thetexasspur.com/news/dickens-commission-approves-galaxy-ii-iii-abatements"
+  ]
+ },
+ "/data-centers/united-states/texas/gray-county/": {
+  "paragraphs": [
+   "Gray County has two data center projects, and it is the second, not the first, that is under construction. Intersect Power, the energy developer Google has since acquired, won a county tax abatement in 2024 for a green hydrogen plant east of Pampa, then switched the site in 2025 to a data center campus called Meitner: up to three buildings of 600,000 to 750,000 square feet each, an estimated $1 billion apiece, drawing 840 megawatts from its own wind and solar farms. By January 2026 crews were pouring the slab for the first building, KFDA reported, and Pampa Mayor Mike Borger called it a $3 billion project.",
+   "The abatement fight ran through 2025. Landowners inside the reinvestment zone said they were never consulted. \"Intersect did not contact a bunch of us, I promise you that. We were slapped in the face with this,\" Denise Howard told the commissioners court on October 15, saying two homes sat within 300 yards of the buildings. Supporters, including the chamber and Pampa ISD Superintendent Hugh Piatt, said the county needed the tax base. The court approved the abatement unanimously that day. \"We made it a condition of these agreements that this will be an air-cooled data center,\" Commissioner Logan Hudson said. \"The moment it ceases to be, you no longer get the tax abatement, and you owe us the back taxes.\"",
+   "The county's first proposal, APR Energy's 800-acre campus starting at 400 megawatts of modular gas turbines, got local approval in June 2025 but has not found a tenant or sought a county abatement since. At a February 2026 forum, County Judge Chris Porter said two more data center developers were talking to the county without seeking abatements \"because they want to use water,\" without naming them.",
+   "What to watch: whether the Meitner buildings open air-cooled as required, whether APR Energy's site finds a tenant, and who the two unnamed developers are."
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/apr-energy-obtains-approval-for-800-acre-natural-gas-powered-data-center-in-pampa-texas/",
+   "https://newprojectmedia.com/origination-intersect-power-pursuing-840-mw-data-center-conversion-at-former-green-hydrogen-project-in-tx-panhandle/",
+   "https://www.thepampanews.com/stories/tax-abatement-talks-and-department-relocations-at-county-commissioners-meeting,121493",
+   "https://www.thepampanews.com/stories/intersect-power-tax-abatement-negotiations-pushed-to-september,124510",
+   "https://www.thepampanews.com/stories/county-passes-tax-abatement-for-intersect-power-in-recent-meeting,135676",
+   "https://www.newschannel10.com/2026/01/17/pampas-3-billion-ai-data-center-signals-new-era-growth-gray-county/",
+   "https://www.thepampanews.com/stories/gray-county-candidate-forum-part-2-question-and-answer,154580"
+  ]
+ },
+ "/data-centers/united-states/virginia/franklin-county/": {
+  "paragraphs": [
+   "Franklin County's only tracked project, a Crusoe data center once known inside county government as \"Project Flash,\" is cancelled. Residents pieced the plan together from Freedom of Information Act requests in the spring of 2026, after officials had told a April 30 town hall no data center was coming; supervisor Mike Meredith told a community meeting on August 16 that \"Project Flash is not proceeding.\"",
+   "The proposed site was Summit View Business Park, a county-owned industrial park on U.S. 220 near Rocky Mount and the only property in the county zoned to allow a data center without a public hearing or a supervisors' vote. Crusoe and the county had discussed a 50-to-100-megawatt facility since a November 2025 letter of intent, but held no public hearing before residents' FOIA requests turned up Microsoft Teams meeting invitations titled \"Project Flash\" and \"SVBP.\" A group led by Dawn King-Greer drafted a referendum ordinance requiring a countywide vote for any project drawing 25 megawatts or more.",
+   "The secrecy cost Meredith his seat. He resigned on August 18 after disclosing confidential Project Flash details, said on September 2 he had spoken \"under duress\" and would stay, then dropped his fight on September 9. A 71-page complaint accusing three officials of violating Virginia's open-meetings law has been referred to a special prosecutor. About 150 acres at Summit View remain zoned for a data center by right, and the residents' referendum ordinance had not been scheduled for a vote as of the county's most recent public statement on it."
+  ],
+  "sources": [
+   "https://www.wdbj7.com/2026/07/02/franklin-county-residents-concerned-about-possible-data-center/",
+   "https://www.wdbj7.com/2026/07/12/foia-requests-reveal-potential-franklin-county-data-center/",
+   "https://www.wsls.com/news/local/2026/08/27/what-was-project-flash/",
+   "https://www.wdbj7.com/2026/08/17/data-center-proposal-dropped-franklin-county/",
+   "https://www.wdbj7.com/2026/09/09/mike-meredith-officially-ends-legal-fight-against-franklin-county-board-supervisors/",
+   "https://www.smithmountaineagle.com/news/project-flash-initiative-shut-down-by-franklin-county-board-of-supervisors/article_27ab1925-77b5-428e-9a12-13ca0d2c3918.html"
+  ]
+ },
+ "/data-centers/united-states/virginia/montgomery-county/": {
+  "paragraphs": [
+   "Montgomery County, home to Virginia Tech, has no large data center and none is proposed. Its only facility calling itself a data center is Brush Mountain Data Center, a colocation and hosted-computing business inside the Virginia Tech Corporate Research Center in Blacksburg, run by Advanced Logic Industries. Blacksburg Town Manager Marc Vernier told Cardinal News it is not the sort of large stand-alone data center that has spread across Northern Virginia.",
+   "The county is writing rules before anyone arrives. In December 2025 supervisors asked the Planning Commission and staff to study data center siting and recommend zoning changes, since the current ordinance \"does not define or allow data center facilities as a use,\" Cardinal News reported. In February 2026 the Planning Commission told The News Feed NRV that no proposals or zoning changes were under consideration. \"Montgomery County probably doesn't draw much benefit from a data center, but it could be persuaded by promises of revenue,\" said Virginia Tech professor Margaret Cowell.",
+   "In Blacksburg, both candidates in a November 2026 Town Council special election told the Roanoke Times they opposed data centers in town. \"I am wholly against them,\" said Leslie Harwood. Joel Goodhart said the town is \"a little bit constrained on utilities that could possibly service a data center.\"",
+   "The pressure is coming from neighboring counties: Google has bought 312 acres in Botetourt County for three data centers, and Wythe, Pulaski, Appomattox, Campbell and Pittsylvania counties are all weighing proposals, WDBJ reported. No developer has been publicly linked to a site in Montgomery County, and the Planning Commission's zoning study is still underway."
+  ],
+  "sources": [
+   "https://cardinalnews.org/2025/12/15/montgomery-supervisors-consider-seeking-study-on-data-center-zoning/",
+   "https://thenewsfeednrv.com/2026/02/18/rural-virginia-could-see-growth-in-data-centers/",
+   "https://www.vtcrc.com/a-full-service-data-center-scaled-for-vtcrc-organizations/",
+   "https://roanoke.com/news/local/government-politics/elections/article_360f58db-a646-438f-87ca-fe25ce309024.html",
+   "https://www.roanokerambler.com/google-aims-to-build-3-data-centers-totaling-nearly-1-million-square-feet-in-botetourt-records-show/",
+   "https://www.wdbj7.com/2026/07/12/foia-requests-reveal-potential-franklin-county-data-center/"
+  ]
+ },
+ "/data-centers/united-states/virginia/surry-county/": {
+  "paragraphs": [
+   "In 2024 Surry County approved a data center, hydrogen fuel and small nuclear reactor campus called the Surry Green Energy Center, but nothing has been built there since. Green Energy Partners, a Middleburg developer, secured about 600 acres off Hog Island Road next to Dominion Energy's Surry nuclear plant for 19 data centers, a hydrogen plant and eventually four to six small modular reactors; supervisors approved the rezoning 3-2 on February 8, 2024, with Amy Drewry and Timothy Calhoun voting no.",
+   "Seven months later, in September 2024, Green Energy Partners filed for Chapter 11 bankruptcy, listing more than $3 million in unsecured claims from 10 creditors. Drewry said \"too many times, Surry County makes decisions on verbal promises that are not legally enforceable, which is risky when a company goes out of business or is sold.\" A 2022 contract to buy the land for $12 million was reassigned in February 2025 to a new entity, Surry Green Energy Center LLC, at a price rising 10% a year until closing; the developer's attorney called the bankruptcy \"a reorganization, not a liquidation.\"",
+   "In June 2026 the local group Keep Surry Rural signed a statewide letter asking Governor Abigail Spanberger to end Virginia's sales tax exemption for data centers, which it says cost the state $1.9 billion in 2025. No construction or tenant has been reported at the Surry site since."
+  ],
+  "sources": [
+   "https://www.smithfieldtimes.com/news/surry-approves-nuclear-powered-data-center-campus-that-promises-more-than-1300-jobs-24927/",
+   "https://www.smithfieldtimes.com/news/developer-of-surry-data-center-project-enters-chapter-11-bankruptcy-41771",
+   "https://www.smithfieldtimes.com/news/surry-group-signs-open-letter-to-spanberger-urging-end-to-state-data-center-tax-exemption-e6098f70"
+  ]
+ }
+}

@@ -1,0 +1,674 @@
+[
+ {
+  "id": "ft-1782184370358-2124",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Warrenton, in Warren County, Missouri, said yes to this data center early, and it is now being built.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Crusoe is putting a 340 acre campus at 22151 Northwest Service Road: two buildings of 805,000 square feet each and a 40,000 square foot administrative building.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The site plan and conditional use permits were approved in early 2026, and in April 2026 the city granted a 75 percent abatement on personal property tax.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "About $8.36 billion is to be spent on the computing equipment inside.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The land splits across the city line: 337 acres inside Warrenton and 243 acres in the county, the county portion left undeveloped as a buffer.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Crusoe says the closed loop cooling will use about 120,000 gallons a year, because its system loses almost nothing to evaporation.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "It expects 2,000 to 2,400 construction jobs and 100 permanent ones, with the first building running in late 2027 and the campus finished by 2029.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The entry is recorded as under construction on 340 acres, with no capacity figure and no cost.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "No megawatt figure has been published, which for a campus of this size is the number that matters most.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 3,
+    "t": "The grid here is Associated Electric Cooperative, whose whole system peaks at 4,770 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 3,
+    "t": "Two very large neighbours sit close by: Amazon's Project Green at New Florence 22 kilometres away, and the 1,200 megawatt Project Spade 24 kilometres.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generator is a 139 megawatt solar farm eight kilometres off; the 2,372 megawatt Labadie coal plant is 42 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Warren County has no data center moratorium or zoning limit recorded, though St Charles County next door has had one since July 13, 2026 and the City of St Charles a ban since May.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Three searches were run for this entry: Crusoe with Warrenton and Warren County; the Warrenton planning and zoning approvals; and the company's Missouri campus. The Warren County Record and Mid Rivers Newsmagazine reports that carry the approvals, the tax abatement, the acreage split and the water figure were found only through search summaries and were not fetched, so no source url is listed and each sentence is attributed to our record's source list; the Data Center Dynamics report in our record is not fetchable. No power figure has been published. The 120,000 gallons a year and the zero evaporation claim are the company's own and were not independently checked. No resident objection was found, and our record marks pushback as unknown."
+ },
+ {
+  "id": "ft-327",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This one was announced as the third largest economic development project in Mississippi's history, and the ground was broken within a month.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "AVAIO Digital Partners is building a $6 billion campus it calls the Taurus Data Center Hub in the East Metropolitan Center business and industrial park at Brandon, in Rankin County.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "It signed an electric service agreement with Entergy in August 2025 and site work began on September 10, 2025, with the campus due to be ready for occupancy in the first half of 2027.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The entry is recorded as under construction at 116 megawatts on 329 acres.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The company's own announcement describes 175 acres.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Rankin County and the city of Brandon are both assisting the project.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The entry marks pushback as yes and carries a change.org petition about the risks of the Rankin County data center to the community.",
+    "src": "data:fractracker"
+   },
+   {
+    "para": 3,
+    "t": "The area is filling up with Amazon.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "An operating 228 megawatt Amazon campus at Ridgeland is 23 kilometres away, another under construction at Clinton 34 kilometres off, and an operating 284 megawatt Amazon site at the Madison mega site 37 kilometres away.",
+    "src": "data:context.other_projects_within_40km"
+   },
+   {
+    "para": 3,
+    "t": "The city of Jackson adopted a data center moratorium running from July 14, 2026 to January 14, 2027; Rankin County has no measure recorded.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generator is the 473 megawatt Hinds Energy gas plant, 23 kilometres away, with two solar farms of 100 and 175 megawatts at 32 and 41 kilometres.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Three searches were run: AVAIO Digital with Brandon and the $6 billion campus; AVAIO with Rankin County, the groundbreaking and opposition; and the East Metropolitan Center site. Everything found came from state and company announcements rather than independent reporting, so no source url is listed and each sentence is attributed to our record's source list. The Clarion Ledger report in our record could not be fetched. The acreage conflicts, 329 in our record against 175 in the company's announcement, and may reflect the park versus the campus. The 116 megawatt figure is not confirmed anywhere we looked, and no water figure has been published. Our record marks pushback as yes and holds a petition, but no account of that opposition could be read: the searches returned only press releases from the state, the governor's office and the company, which is a gap rather than an absence."
+ },
+ {
+  "id": "ft-1773980337121-4985",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Clarksdale, in Coahoma County, Mississippi, has not approved a data center.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "It has rezoned the land one could go on.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The tract is 648 acres between the Sunflower River, US Route 278, Tallahatchie Street and the Roundyard neighbourhood, and the rezoning takes it from commercial and agricultural to light industrial.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The city council passed the motion allowing it on March 24, 2026.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The developer is the Crossroads Economic Partnership, acting for a global technology company it will not name.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The capacity, the layout and the end user are all unknown.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The conditions the city has floated include a $5 million local impact fee, guarantees on water use, and a buffer of at least 1,000 feet between the site and any residential district.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "A town hall was held before the vote, and the city published a frequently asked questions document of its own.",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "The entry stands as proposed on 648 acres, with no capacity, no cost and no developer.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "No data center moratorium or zoning limit is recorded anywhere near here, and no other data center site within 40 kilometres.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The 308 megawatt Crossroads Energy Center gas plant is four kilometres away, and the next nearest generators are a 185 megawatt wind farm at 38 kilometres and a 100 megawatt solar farm at 43.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Coahoma County is one of the poorest counties in Mississippi, and the land in question sits against a residential neighbourhood, which is why the buffer distance is the condition residents have focused on.",
+    "src": "data:sources"
+   }
+  ],
+  "sources": [],
+  "unconfirmed": "Three searches were run: Clarksdale with the 648 acres, Coahoma County and the Sunflower River; the Clarksdale rezoning vote; and the town hall. The Mississippi Today reports that carry the vote, the conditions and the residents' own words returned HTTP 403 and could not be fetched, so no source url is listed and each sentence is attributed to our record's source list. No council member or resident is quoted here as a result, which is the main gap in this page. No capacity, cost or end user has been disclosed. The description of Coahoma County's poverty is general knowledge rather than a sourced figure and should be treated as context, not as a finding. Our record's entry name misspells the town as Clarksville."
+ },
+ {
+  "id": "ft-1782768383796-6279",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The planning commission turned this one down because it could not get straight answers.",
+    "src": "https://reflector-online.com/42299/news/crypto-mining-facility-turned-down-for-starkville-after-community-shares-concerns/"
+   },
+   {
+    "para": 0,
+    "t": "On August 11, 2026 the Starkville Planning and Zoning Commission denied the exemption that would have let Starkville Energy LLC open a cryptocurrency mining data center on Industrial Park Road, in Oktibbeha County, Mississippi, finding the application lacked transparency and had failed to address residents' concerns.",
+    "src": "https://reflector-online.com/42299/news/crypto-mining-facility-turned-down-for-starkville-after-community-shares-concerns/"
+   },
+   {
+    "para": 0,
+    "t": "Mandy Jiang, representing the company, said: \"I don't think we are going to give up. We're probably going to appeal.\"",
+    "src": "https://reflector-online.com/42299/news/crypto-mining-facility-turned-down-for-starkville-after-community-shares-concerns/"
+   },
+   {
+    "para": 1,
+    "t": "The plant would have taken up to 30 megawatts, which would have made it Starkville Utilities' second largest customer after Mississippi State University, on about half of a seven acre plot near a utility substation.",
+    "src": "https://cdispatch.com/news/crypto-mining-center-pitched-for-industrial-park-road/"
+   },
+   {
+    "para": 1,
+    "t": "The water figures given differ sharply: the initial pitch in June described up to 20,000 gallons a day, less than a tenth of one percent of Starkville Utilities' water capacity, while by the August hearing the figure was at most 73,000 gallons a day in the hotter months.",
+    "src": "https://reflector-online.com/42299/news/crypto-mining-facility-turned-down-for-starkville-after-community-shares-concerns/"
+   },
+   {
+    "para": 2,
+    "t": "Mayor Lynn Spruill had been open to it.",
+    "src": "https://cdispatch.com/news/crypto-mining-center-pitched-for-industrial-park-road/"
+   },
+   {
+    "para": 2,
+    "t": "She said of the money: \"The revenue that we get from the business is such that we would not necessarily have to do a rate increase to cover some of our capital costs.\"",
+    "src": "https://cdispatch.com/news/crypto-mining-center-pitched-for-industrial-park-road/"
+   },
+   {
+    "para": 2,
+    "t": "About $800,000 was to pay for the transmission line from the substation to the site, under three separate power agreements.",
+    "src": "https://cdispatch.com/news/crypto-mining-center-pitched-for-industrial-park-road/"
+   },
+   {
+    "para": 2,
+    "t": "Alderman Kim Moreland worried about the strain on the system and asked for protective clauses: \"If something goes sideways and say we do end up going this route, is there a way that we can put a clause in?\"",
+    "src": "https://cdispatch.com/news/crypto-mining-center-pitched-for-industrial-park-road/"
+   },
+   {
+    "para": 3,
+    "t": "Those who spoke against it included Carys Snyder from Ward 3, Jane Moorhead, a Mississippi State professor who lives nearby, former resident Lishman Heathcock and members of the Oktibbeha Humane Society.",
+    "src": "https://reflector-online.com/42299/news/crypto-mining-facility-turned-down-for-starkville-after-community-shares-concerns/"
+   },
+   {
+    "para": 3,
+    "t": "Heathcock dismissed the tax argument: \"The crypto mine would've brought in tax money; however, any job would bring tax money.\"",
+    "src": "https://reflector-online.com/42299/news/crypto-mining-facility-turned-down-for-starkville-after-community-shares-concerns/"
+   },
+   {
+    "para": 3,
+    "t": "Douglass Carswell, president of the Mississippi Center for Public Policy, spoke in favour.",
+    "src": "https://reflector-online.com/42299/news/crypto-mining-facility-turned-down-for-starkville-after-community-shares-concerns/"
+   },
+   {
+    "para": 3,
+    "t": "A Tennessee Valley Authority representative, Josh Wotten, told the meeting he expected no strain on the grid.",
+    "src": "https://reflector-online.com/42299/news/crypto-mining-facility-turned-down-for-starkville-after-community-shares-concerns/"
+   },
+   {
+    "para": 4,
+    "t": "The entry is now recorded as blocked, at 30 megawatts, with a change.org petition attached.",
+    "src": "data:status"
+   },
+   {
+    "para": 4,
+    "t": "No other data center site is recorded anywhere in Oktibbeha County, and no moratorium nearby.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "The grid here is the Tennessee Valley Authority, which peaks at 28,930 megawatts.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [
+   "https://reflector-online.com/42299/news/crypto-mining-facility-turned-down-for-starkville-after-community-shares-concerns/",
+   "https://cdispatch.com/news/crypto-mining-center-pitched-for-industrial-park-road/"
+  ],
+  "unconfirmed": "The applicant is described differently in the two accounts we read: the Dispatch in June has the Tennessee Municipal Electric Power Association working with an unnamed site developer, while the Reflector in August names Starkville Energy LLC, represented by Mandy Jiang. We could not establish the relationship between them or who ultimately owns the project. The water figures do not reconcile and both are given. Whether the appeal has been heard is unknown. Our record's entry name attaches the mayor's surname to the project, which the reporting does not support; Spruill is the mayor, not the developer."
+ },
+ {
+  "id": "ft-1783825074231-3258",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "There was a cryptocurrency mine in this building before, and Missoula County has not forgotten it.",
+    "src": "https://montanafreepress.org/2026/05/21/missoula-panel-highlights-data-center-concerns/"
+   },
+   {
+    "para": 0,
+    "t": "Krambu, an Idaho company, applied to put a data center in the former UFP Edge building at 9314 Bonner Mill Road in the Bonner Industrial Park, where a crypto operation ran from 2017 to 2020.",
+    "src": "https://montanafreepress.org/2026/05/21/missoula-panel-highlights-data-center-concerns/"
+   },
+   {
+    "para": 0,
+    "t": "The building sits within 500 feet of a residential boundary, which means the county's Consolidated Land Use Board had to hold a special exception review of traffic, noise, lighting, landscaping and screening before any permit could be issued.",
+    "src": "https://montanafreepress.org/2026/05/21/missoula-panel-highlights-data-center-concerns/"
+   },
+   {
+    "para": 0,
+    "t": "The hearing was set for July 1, 2026, the first project reviewed under data center rules the county adopted in 2021.",
+    "src": "https://montanafreepress.org/2026/05/21/missoula-panel-highlights-data-center-concerns/"
+   },
+   {
+    "para": 1,
+    "t": "The load would have started at about seven megawatts and grown to 29, with a theoretical ceiling of 100 depending on demand and available power, and the county's zoning requires renewable sources.",
+    "src": "https://montanafreepress.org/2026/05/21/missoula-panel-highlights-data-center-concerns/"
+   },
+   {
+    "para": 1,
+    "t": "The building would run continuously with no regular staff.",
+    "src": "https://montanafreepress.org/2026/05/21/missoula-panel-highlights-data-center-concerns/"
+   },
+   {
+    "para": 1,
+    "t": "Cooling was to be a closed loop with evaporative and dry towers, the evaporative towers needing about 500 gallons to fill and recharged three or four times a year, though the exact configuration was never specified.",
+    "src": "https://montanafreepress.org/2026/05/21/missoula-panel-highlights-data-center-concerns/"
+   },
+   {
+    "para": 2,
+    "t": "More than 100 people came to a University of Montana panel on May 19, 2026 to talk about it.",
+    "src": "https://montanafreepress.org/2026/05/21/missoula-panel-highlights-data-center-concerns/"
+   },
+   {
+    "para": 2,
+    "t": "Derek Goldman argued for putting protections in place first: \"If we aren't diligent and firm and seeking strong sideboards around data centers, we could end up paying the financial and environmental cost, with the economic benefits largely accruing to out-of-state tech billionaires.\"",
+    "src": "https://montanafreepress.org/2026/05/21/missoula-panel-highlights-data-center-concerns/"
+   },
+   {
+    "para": 2,
+    "t": "Anne Hedges pointed out that three data centers looking to connect to NorthWestern Energy were seeking 1,400 megawatts by 2030: \"It's mind-numbing to think that we would have to provide that much power to these companies. We simply cannot supply this amount of energy.\"",
+    "src": "https://montanafreepress.org/2026/05/21/missoula-panel-highlights-data-center-concerns/"
+   },
+   {
+    "para": 3,
+    "t": "The entry is recorded as cancelled at 29 megawatts, with a change.org petition attached asking the county to reject the permits.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "Krambu had submitted five applications that county planning staff found insufficient before the complete one went in.",
+    "src": "data:sources"
+   },
+   {
+    "para": 4,
+    "t": "Missoula County has had zoning limits on this kind of use since 2019, adopted in response to cryptocurrency mining.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 4,
+    "t": "No other data center site is recorded anywhere in the county, and the grid here is the Bonneville Power Administration, peaking at 9,418 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generator of any size is a 228 megawatt hydroelectric plant 94 kilometres away.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://montanafreepress.org/2026/05/21/missoula-panel-highlights-data-center-concerns/"
+  ],
+  "unconfirmed": "Our record marks the project cancelled and the Data Center Dynamics headline says the plans were dropped, but that report is not fetchable, so the date and circumstances of the withdrawal are not given here, and we do not know whether the July 1 hearing went ahead. The five earlier insufficient applications come from a search summary of Missoula Current reporting we did not fetch. Residents' specific objections, including questions about wastewater, infrasonic vibration and whether the building would serve Department of Defense contracts, are known to us only through search summaries and are not attributed above. Krambu's backers and its customers are not named anywhere we read."
+ },
+ {
+  "id": "ft-1775695533341-7374",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The data center campus proposed outside Billings, in Yellowstone County, Montana, would use about as much electricity as the utility that serves it can currently make.",
+    "src": "https://montanafreepress.org/2025/07/31/northwestern-energy-inks-power-agreement-with-an-ai-data-center-planned-for-yellowstone-county/"
+   },
+   {
+    "para": 0,
+    "t": "Quantica Infrastructure is planning a 5,000 acre campus it calls Big Sky Digital Infrastructure, starting at 500 megawatts of renewable power and battery storage and expandable to a gigawatt, with construction expected to begin in 2026.",
+    "src": "https://bigskyeconomicdevelopment.org/quantica-infrastructure-introduces-big-sky-digital-infrastructure-as-its-flagship-development-platform-in-montana/"
+   },
+   {
+    "para": 0,
+    "t": "On July 31, 2025 NorthWestern Energy announced a letter of intent to supply up to 1,000 megawatts to the project.",
+    "src": "https://montanafreepress.org/2025/07/31/northwestern-energy-inks-power-agreement-with-an-ai-data-center-planned-for-yellowstone-county/"
+   },
+   {
+    "para": 1,
+    "t": "NorthWestern supplies about 760 megawatts on an average day and peaks at around 1,300.",
+    "src": "https://montanafreepress.org/2025/07/31/northwestern-energy-inks-power-agreement-with-an-ai-data-center-planned-for-yellowstone-county/"
+   },
+   {
+    "para": 1,
+    "t": "The utility says folding the data center into its regulated business will \"improve cost efficiency by spreading the fixed costs of operating Montana-based energy infrastructure across a broader customer base\".",
+    "src": "https://montanafreepress.org/2025/07/31/northwestern-energy-inks-power-agreement-with-an-ai-data-center-planned-for-yellowstone-county/"
+   },
+   {
+    "para": 1,
+    "t": "Anne Hedges, who runs the Montana Environmental Information Center, does not accept that: \"We have what we need. Adding [new data centers] to the system should cost them, not us.\"",
+    "src": "https://montanafreepress.org/2025/07/31/northwestern-energy-inks-power-agreement-with-an-ai-data-center-planned-for-yellowstone-county/"
+   },
+   {
+    "para": 1,
+    "t": "Alana Lake, executive director of the Montana Public Service Commission, said: \"New data center loads of this size represent a significant change to NorthWestern's energy service obligation.\"",
+    "src": "https://montanafreepress.org/2025/07/31/northwestern-energy-inks-power-agreement-with-an-ai-data-center-planned-for-yellowstone-county/"
+   },
+   {
+    "para": 1,
+    "t": "NorthWestern's chief financial officer Crystal Lail had argued in a March 2025 letter that the commission has no legal authority to require approval for a large new customer, citing House Bill 25 and the Reintegration Act; the commission says it is watching closely but has opened no docket.",
+    "src": "https://montanafreepress.org/2025/07/31/northwestern-energy-inks-power-agreement-with-an-ai-data-center-planned-for-yellowstone-county/"
+   },
+   {
+    "para": 2,
+    "t": "Quantica's founders are Damon Obie, a Montanan, and John Chesser, with Charlie Baker as chief financial officer.",
+    "src": "https://bigskyeconomicdevelopment.org/quantica-infrastructure-introduces-big-sky-digital-infrastructure-as-its-flagship-development-platform-in-montana/"
+   },
+   {
+    "para": 2,
+    "t": "The company describes hundreds of miles of new fibre-ready underground conduit and diverse routes to major metropolitan areas.",
+    "src": "https://bigskyeconomicdevelopment.org/quantica-infrastructure-introduces-big-sky-digital-infrastructure-as-its-flagship-development-platform-in-montana/"
+   },
+   {
+    "para": 2,
+    "t": "No tenant is named in its announcement, which describes the campus as serving AI, hyperscale and data center operators generally.",
+    "src": "https://bigskyeconomicdevelopment.org/quantica-infrastructure-introduces-big-sky-digital-infrastructure-as-its-flagship-development-platform-in-montana/"
+   },
+   {
+    "para": 3,
+    "t": "The developer field used to name Meta, Google and Amazon; it now names Quantica Infrastructure, and no published account supports the earlier three.",
+    "src": "data:developer"
+   },
+   {
+    "para": 3,
+    "t": "NorthWestern was at the same time negotiating with TAC Data Centers for 600 megawatts near Great Falls and Atlas Power for 150 megawatts in Butte, the Butte project expected to be running within the year.",
+    "src": "https://montanafreepress.org/2025/07/31/northwestern-energy-inks-power-agreement-with-an-ai-data-center-planned-for-yellowstone-county/"
+   },
+   {
+    "para": 4,
+    "t": "The nearest generators to the recorded point are an 80 megawatt solar farm 22 kilometres away and the 166 megawatt Yellowstone County gas station at 28.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 4,
+    "t": "No moratorium is recorded anywhere near it.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://montanafreepress.org/2025/07/31/northwestern-energy-inks-power-agreement-with-an-ai-data-center-planned-for-yellowstone-county/",
+   "https://bigskyeconomicdevelopment.org/quantica-infrastructure-introduces-big-sky-digital-infrastructure-as-its-flagship-development-platform-in-montana/"
+  ],
+  "unconfirmed": "Our record held this project twice at the same Buffalo Trail Road location with the same 1,000 megawatt figure; they have been merged, and a second merge on this pass removed a repeated pair of sentences about Anne Hedges, Alana Lake and the two other Montana proposals, which the page carried twice. The developer field naming Meta, Google and Amazon is not supported by anything we read; Quantica's own announcement names no tenant, and a letter of intent with a utility is not a customer, nor a construction commitment. The acreage and capacity come from the company and from the economic development body that published its announcement, not from a filing. Whether construction actually began in 2026, and whether the Public Service Commission asserted jurisdiction, are unknown."
+ },
+ {
+  "id": "ft-1765288165990-8143",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "What killed this one was not the protest but a clause from 1996.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "Sabey Data Centers had an option to buy about 606 acres at the Montana Connections industrial park in Butte, in Silver Bow County, Montana, for two buildings of 500,000 square feet each, and terminated it when REC Silicon, already a tenant of part of the park, exercised a right of first refusal dating from 1996 and bought roughly 628 acres at $2,000 an acre.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "The closing date had been August 11.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Before that, the argument in Butte was about power and water.",
+    "src": "https://nbcmontana.com/news/local/proposed-butte-data-center-stirs-debate"
+   },
+   {
+    "para": 1,
+    "t": "NorthWestern Energy had approved 50 megawatts a year from 2026, with the possibility of 250, which is about a third of the utility's current Montana customer load of 759 megawatts.",
+    "src": "https://nbcmontana.com/news/local/proposed-butte-data-center-stirs-debate"
+   },
+   {
+    "para": 1,
+    "t": "Sabey said it would use under 30 million gallons a year from Silver Lake, which is not Butte's drinking supply.",
+    "src": "https://nbcmontana.com/news/local/proposed-butte-data-center-stirs-debate"
+   },
+   {
+    "para": 1,
+    "t": "Sarah Borduin, a community organiser, wanted a guarantee of water use written into a contract and restricted to Silver Lake water, while Ben Catton of the Montana Environmental Information Center said data centers \"require enormous amounts of water as well for cooling\"; the centre and other advocates want the Public Service Commission to create a separate rate class so that Montana households do not subsidise the industry.",
+    "src": "https://nbcmontana.com/news/local/proposed-butte-data-center-stirs-debate"
+   },
+   {
+    "para": 1,
+    "t": "J P Gallagher, the Butte-Silver Bow chief executive, supported the project, calling it \"upwards of over $1 billion of investment\" with \"construction jobs that could go on for 10 plus years\".",
+    "src": "https://nbcmontana.com/news/local/proposed-butte-data-center-stirs-debate"
+   },
+   {
+    "para": 2,
+    "t": "The entry is recorded as cancelled at 250 megawatts on 600 acres, costing $1 billion, with two change.org petitions and the Montana Environmental Information Center attached.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "Sabey has said it is still looking in southwest Montana, including Silver Bow and Deer Lodge counties.",
+    "src": "data:sources"
+   },
+   {
+    "para": 3,
+    "t": "The grid here is NorthWestern Energy, whose entire Montana system peaks at 1,799 megawatts.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 3,
+    "t": "The nearest generators are the 54 megawatt Basin Creek gas plant 14 kilometres away and the 132 megawatt Dave Gates station at 20.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "No data center moratorium is recorded anywhere near Butte, and no other data center site in Silver Bow County.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://nbcmontana.com/news/local/proposed-butte-data-center-stirs-debate"
+  ],
+  "unconfirmed": "The termination, the REC Silicon right of first refusal, the acreage and the price per acre come from search summaries of an NBC Montana follow-up, a Montana Standard report and a trade summary, none of which we fetched, so those sentences are attributed to our record's source list. The date of the termination is not established beyond the August 11 closing deadline. The 250 megawatt figure is a ceiling discussed with the utility, not an approved load; the approved figure was 50 megawatts a year from 2026. Whether Atlas Power's separate 150 megawatt Butte proposal is connected to this site is unknown."
+ },
+ {
+  "id": "ft-329",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The power was not there, and in the end that is what stopped it.",
+    "src": "https://montanafreepress.org/2026/07/28/group-asks-cascade-county-to-pause-data-center-development/"
+   },
+   {
+    "para": 0,
+    "t": "TAC Data Centers proposed Project Cardinal, a campus of up to 20 single storey buildings drawing up to 600 megawatts on 569 acres next to the AgriTech Park north of Malmstrom Air Force Base, near the Rainbow power substation at Great Falls, in Cascade County, Montana, at a cost of $1 to $1.5 billion.",
+    "src": "data:sources"
+   },
+   {
+    "para": 0,
+    "t": "It was the largest data center proposed in Montana at the time.",
+    "src": "https://montanafreepress.org/2026/07/28/group-asks-cascade-county-to-pause-data-center-development/"
+   },
+   {
+    "para": 0,
+    "t": "By the autumn of 2025 the company had dropped it, because that much power is not available in that corner of Cascade County and its transmission study with NorthWestern Energy was moving slowly with no clear timeline.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "The withdrawal did not end the argument.",
+    "src": "https://montanafreepress.org/2026/07/28/group-asks-cascade-county-to-pause-data-center-development/"
+   },
+   {
+    "para": 1,
+    "t": "On July 28, 2026 the Golden Triangle Resource Council came to the Cascade County Commission with about 250 signatures asking for three things: that the county press the Montana Public Service Commission to look at consumer protections, that it ask Governor Greg Gianforte to do the same through his energy task force, and that it adopt a county moratorium on hyperscale data centers until rules exist.",
+    "src": "https://montanafreepress.org/2026/07/28/group-asks-cascade-county-to-pause-data-center-development/"
+   },
+   {
+    "para": 1,
+    "t": "Steve Grout of the council put it plainly: \"We had a petition that about 250 signed that they want the county commission to take some steps to safeguard ourselves, our pocketbook and our natural resources and put some positive steps in place before the hyperscale lands on us.\"",
+    "src": "https://montanafreepress.org/2026/07/28/group-asks-cascade-county-to-pause-data-center-development/"
+   },
+   {
+    "para": 1,
+    "t": "Brett Doney, president of the Great Falls Development Alliance, described a different response to the same problem: \"We formed a data center task force to learn about the potential benefits and potential negative impacts, so if we do have another proposed data center project, we're better informed.\"",
+    "src": "https://montanafreepress.org/2026/07/28/group-asks-cascade-county-to-pause-data-center-development/"
+   },
+   {
+    "para": 2,
+    "t": "Project Cardinal is now recorded as cancelled, at 600 megawatts on 569 acres.",
+    "src": "data:status"
+   },
+   {
+    "para": 2,
+    "t": "For scale, NorthWestern Energy's entire Montana system peaks at 1,799 megawatts, so this one campus would have been a third of it.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 3,
+    "t": "The site sits among small hydroelectric dams on the Missouri: the 63 megawatt Cochrane plant is a kilometre away, the 64 megawatt Rainbow plant two kilometres, and the 72 megawatt Ryan plant six.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Together those three make less than a third of what the campus would have drawn.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 3,
+    "t": "Cascade County has no data center moratorium recorded, and no other data center site is recorded in the county.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://montanafreepress.org/2026/07/28/group-asks-cascade-county-to-pause-data-center-development/"
+  ],
+  "unconfirmed": "The project's own details, the 20 buildings, the two substations, the 2026 construction start and the reasons given for dropping it, come from search summaries of the Data Center Dynamics report in our record and of a local radio piece, neither of which we fetched, and are attributed to our record's source list. The exact date of the withdrawal is not established beyond the autumn of 2025. Brett Doney of the Great Falls Development Alliance is quoted on the task force his organisation formed to weigh the benefits and the harms, rather than as an opponent of the council's request, which is how the page had him. Whether the county commission acted on the Golden Triangle Resource Council's three requests is unknown. No water figure was ever published. Our record's status of proposed is out of date."
+ },
+ {
+  "id": "ft-331",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "This is a small existing data center in Buncombe County, North Carolina, and the interesting thing around it is how quickly the western part of the state has moved to stop new ones.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 0,
+    "t": "DartPoints runs a facility it calls AVL01 in the Biltmore Park Technology Center at Asheville, with about 23,000 square feet of white space, an 11,200 square foot data hall, 1.5 megawatts of utility power, 2,050 kilowatts of backup generation and 330 tons of cooling in an N+1 configuration.",
+    "src": "https://dartpoints.com/locations/north-carolina/"
+   },
+   {
+    "para": 0,
+    "t": "The company advertises a 296 kilowatt critical IT load, five fibre entries and seven network providers on site.",
+    "src": "https://dartpoints.com/locations/north-carolina/"
+   },
+   {
+    "para": 1,
+    "t": "On June 23, 2026 Asheville City Council voted unanimously for a one year moratorium on new data centers inside the city, covering cryptocurrency mining as well.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "City staff had reported that data centers place heavy demands on electricity and water and can generate noise and heat that disturb neighbouring properties.",
+    "src": "data:sources"
+   },
+   {
+    "para": 1,
+    "t": "Council member Maggie Ullman said: \"We didn't spend decades becoming an amazing arts community, adding to our culture, having this amazing outdoor recreation and small boutiques so we could become a warehouse district for AI.\"",
+    "src": "data:sources"
+   },
+   {
+    "para": 2,
+    "t": "Asheville was not first and will not be last.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 2,
+    "t": "Nine separate measures are recorded within reach of this building: moratoriums in Canton from February 11, 2026, Clyde from April 17, Woodfin from May 20, Asheville from June 23, and three in Madison County between May and June, plus zoning limits in Weaverville from April 27 aimed at cryptocurrency and in Henderson County from July 16.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "The building is recorded as operating with no capacity figure and no developer, on the strength of the company's own page.",
+    "src": "data:status"
+   },
+   {
+    "para": 3,
+    "t": "It is the only data center site recorded in Buncombe County, and there is no other entry within 40 kilometres.",
+    "src": "data:context.data_centers_in_county"
+   },
+   {
+    "para": 3,
+    "t": "The 814 megawatt Asheville gas plant is two kilometres away, and the grid is Duke Energy Carolinas, which peaks at 20,398 megawatts.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://dartpoints.com/locations/north-carolina/"
+  ],
+  "unconfirmed": "Three searches were run: DartPoints with Asheville and North Carolina; Asheville's data center moratorium for June 2026; and the Buncombe County measures. The moratorium details and Ullman's quote come from search summaries of Mountain Xpress and Asheville Watchdog reports, both of which returned errors when fetched, so those sentences are attributed to our record's source list. Whether the moratorium reaches an existing building like this one is not established; on its face it applies to new development. The building's figures are the company's own marketing. No local reporting about this specific facility was found, and no objection to it."
+ }
+]

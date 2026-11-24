@@ -1,0 +1,31 @@
+project_name;developer_or_owner;tenant;city;state_or_region;country;address;latitude;longitude;capacity_mw;site_size;status;year_announced;year_operating_or_planned;note;source_url
+AWS Dublin Cruiserath Road (DUB);Amazon Web Services;AWS;Dublin;Leinster;Ireland;Cruiserath Rd, Blanchardstown, Dublin 15, Ireland;;;;;;operating;;;Three more buildings filed 2023, opposed on emissions;https://baxtel.com/news/data-centers/amazon-dub-3
+AWS Drogheda (Ireland);Amazon Web Services;AWS;Drogheda;Leinster;Ireland;Drogheda, Co. Louth, Ireland;;;;;;approved;2023;;;https://baxtel.com/news/data-centers/amazon-dub-3
+AWS London Region (Slough / Didcot / Hayes);Amazon Web Services;AWS;Slough;Berkshire;United Kingdom;Slough, UK;;;;;;operating;2016;;Region since 2016, GBP 8bn expansion pledged 2024;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Paris Region (Wissous / Cergy / Marcoussis);Amazon Web Services;AWS;Wissous;Ile-de-France;France;Wissous, France;;;;;;operating;2017;;EUR 1.2bn expansion;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Milan Region (Settimo Milanese / Cornaredo);Amazon Web Services;AWS;Settimo Milanese;Lombardy;Italy;Settimo Milanese, Milan, Italy;;;;;;operating;2020;;EUR 1.2bn expansion 2024;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Stockholm Region (Eskilstuna / Katrineholm / Vasteras);Amazon Web Services;AWS;Eskilstuna;Sodermanland;Sweden;Eskilstuna, Sweden;;;;;;operating;2018;;Three towns west of Stockholm;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Zurich Region;Amazon Web Services;AWS;Zurich;Zurich;Switzerland;Zurich, Switzerland;;;;;;operating;2022;;;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Bahrain Region (Manama);Amazon Web Services;AWS;Manama;Capital;Bahrain;Manama, Bahrain;;;;;;operating;2019;;;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS UAE Region (Abu Dhabi / Dubai);Amazon Web Services;AWS;Abu Dhabi;Abu Dhabi;United Arab Emirates;Abu Dhabi, UAE;;;;;;operating;2022;;;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Saudi Arabia Region;Amazon Web Services;AWS;Riyadh;Riyadh;Saudi Arabia;Riyadh, Saudi Arabia;;;;;;under construction;2024;2026;$5.3bn announced 2024;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Cape Town Region;Amazon Web Services;AWS;Cape Town;Western Cape;South Africa;Cape Town, South Africa;;;;;;operating;2020;;Includes River Club HQ site opposed by Khoi and San groups;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Tokyo Region (Inzai / Tama);Amazon Web Services;AWS;Inzai;Chiba;Japan;Inzai, Chiba, Japan;;;;;;operating;2011;;JPY 2.26tn expansion through 2027;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Osaka Region;Amazon Web Services;AWS;Osaka;Osaka;Japan;Osaka, Japan;;;;;;operating;2021;;;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Singapore Region;Amazon Web Services;AWS;Singapore;Singapore;Singapore;Singapore;;;;;;operating;2010;;$9bn expansion 2024-2028;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Thailand Region (Bangkok);Amazon Web Services;AWS;Bangkok;Bangkok;Thailand;Bangkok, Thailand;;;;;;operating;2024;2025;$5bn;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Taiwan Region (Taipei);Amazon Web Services;AWS;Taipei;Taipei;Taiwan;Taipei, Taiwan;;;;;;operating;2024;2025;;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Hong Kong Region;Amazon Web Services;AWS;Hong Kong;Hong Kong;Hong Kong;Hong Kong;;;;;;operating;2019;;;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Melbourne Region;Amazon Web Services;AWS;Melbourne;Victoria;Australia;Melbourne, VIC, Australia;;;;;;operating;2023;;;https://baxtel.com/news/data-centers/amazon-dub-3
+AWS New Zealand Region (Auckland);Amazon Web Services;AWS;Auckland;Auckland;New Zealand;Auckland, New Zealand;;;;;;operating;2021;2025;NZ$7.5bn;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Canada Central (Montreal);Amazon Web Services;AWS;Montreal;Quebec;Canada;Montreal, QC, Canada;;;;;;operating;2016;;;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Canada West (Calgary);Amazon Web Services;AWS;Calgary;Alberta;Canada;Calgary, AB, Canada;;;;;;operating;2023;;;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Mexico Region (Queretaro);Amazon Web Services;AWS;Queretaro;Queretaro;Mexico;Queretaro, Mexico;;;;;;operating;2024;2025;$5bn;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Sao Paulo Region;Amazon Web Services;AWS;Sao Paulo;Sao Paulo;Brazil;Sao Paulo, SP, Brazil;;;;;;operating;2011;;R$10.1bn expansion through 2034;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Frankfurt Region (Hattersheim / Kelsterbach);Amazon Web Services;AWS;Frankfurt;Hesse;Germany;Frankfurt am Main, Germany;;;;;;operating;2014;;;https://www.datacenterdynamics.com/en/news/aws-opens-eu-frankfurt-region/
+AWS Mumbai Region;Amazon Web Services;AWS;Mumbai;Maharashtra;India;Mumbai, India;;;;;;operating;2016;;;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Seoul Region;Amazon Web Services;AWS;Seoul;Seoul;South Korea;Seoul, South Korea;;;;;;operating;2016;;;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Jakarta Region;Amazon Web Services;AWS;Jakarta;Jakarta;Indonesia;Jakarta, Indonesia;;;;;;operating;2021;;;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS Tel Aviv Region;Amazon Web Services;AWS;Tel Aviv;Tel Aviv;Israel;Tel Aviv, Israel;;;;;;operating;2023;;Project Nimbus;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS China Beijing Region (Sinnet);Sinnet (for AWS);AWS;Beijing;Beijing;China;Beijing, China;;;;;;operating;2016;;Operated by Sinnet under Chinese law;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
+AWS China Ningxia Region (NWCD);NWCD (for AWS);AWS;Zhongwei;Ningxia;China;Zhongwei, Ningxia, China;;;;;;operating;2017;;Operated by NWCD;https://aws.amazon.com/about-aws/global-infrastructure/regions_az/

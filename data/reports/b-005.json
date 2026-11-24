@@ -1,0 +1,617 @@
+[
+ {
+  "id": "epoch-vnet-bayin-ulanqab",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "VNet runs a data center campus at Bayin, in Ulanqab, Inner Mongolia, in northern China.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI estimates the site currently draws about 221 megawatts of IT power.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "Bloomberg reported in March 2026 that VNet had secured a deal to supply TikTok owner ByteDance with about 500 megawatts of data center capacity across China, as ByteDance seeks more computing power for its Doubao chatbot and other AI systems.",
+    "src": "https://www.bloomberg.com/news/articles/2026-03-03/vnet-is-said-to-secure-data-center-deal-with-tiktok-owner-bytedance"
+   },
+   {
+    "para": 1,
+    "t": "Trade coverage of the deal said VNet's Ulanqab campus has drawn 28 megawatts and 55 megawatts of contracted capacity in separate phases, with more phases under discussion.",
+    "src": "https://www.insidermonkey.com/blog/why-bytedances-reported-data-center-order-could-be-a-major-win-for-vnet-vnet-1714707/"
+   },
+   {
+    "para": 1,
+    "t": "The South China Morning Post reported ByteDance was separately discussing adding five to six gigawatts of computing capacity in Ulanqab's Jining district, aiming for delivery by early 2028.",
+    "src": "https://www.scmp.com/tech/big-tech/article/3366220/bytedance-expand-massive-ai-data-centre-cluster-inner-mongolia-source-says"
+   }
+  ],
+  "sources": [
+   "https://www.bloomberg.com/news/articles/2026-03-03/vnet-is-said-to-secure-data-center-deal-with-tiktok-owner-bytedance",
+   "https://www.insidermonkey.com/blog/why-bytedances-reported-data-center-order-could-be-a-major-win-for-vnet-vnet-1714707/",
+   "https://www.scmp.com/tech/big-tech/article/3366220/bytedance-expand-massive-ai-data-centre-cluster-inner-mongolia-source-says"
+  ],
+  "unconfirmed": "No local reporting on residents or community impact near Bayin was found. Coverage is financial and trade press about the ByteDance leasing deal, not the physical site or its neighbors. The cited Datacenter Dynamics source in our own record could not be fetched (blocked); the ByteDance deal facts above come from Bloomberg and trade coverage of it instead."
+ },
+ {
+  "id": "epoch-huawei-horinger",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Huawei operates a cloud data center in the Shengle Economic Development Zone of Horinger New District, part of Hohhot, the capital of Inner Mongolia.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "China Daily reported the project broke ground on October 8, 2023, on a 5,963 mu site, about 398 hectares, in what the district calls its Cloud Valley zone, with a planned capacity of more than a million servers.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI estimates the site's current IT power at about 242 megawatts.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Horinger is not one data center but a cluster, and one of the ten largest in China.",
+    "src": "https://sinocities.org/p/mapping-chinas-inland-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "China Telecom started building south of Hohhot in Horinger County in 2011, Inner Mongolia announced a provincial big data strategy in 2016 modelled on Guizhou's, and the area was branded China Cloud Valley.",
+    "src": "https://sinocities.org/p/mapping-chinas-inland-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "Huawei sits there alongside China Telecom, China Mobile, U-Cloud and planned facilities for the Bank of China, the Agricultural Bank of China and China Construction Bank.",
+    "src": "https://sinocities.org/p/mapping-chinas-inland-data-centers"
+   },
+   {
+    "para": 1,
+    "t": "Sixty-two computing centre projects have clustered in Horinger, including the three big telecom operators and 16 financial institutions.",
+    "src": "https://asianews.network/hohhot-inner-mongolia-converting-prairie-winds-into-computing-power/"
+   },
+   {
+    "para": 1,
+    "t": "A local human resources company was set up to train workers for the jobs.",
+    "src": "https://sinocities.org/p/mapping-chinas-inland-data-centers"
+   },
+   {
+    "para": 2,
+    "t": "What the cluster runs on is grassland wind and cheap land, and the electricity bill still dominates everything.",
+    "src": "https://asianews.network/hohhot-inner-mongolia-converting-prairie-winds-into-computing-power/"
+   },
+   {
+    "para": 2,
+    "t": "China Mobile's Hohhot Intelligent Computing Center paid about 290 million yuan for electricity in 2025, more than 70 percent of its total operating costs.",
+    "src": "https://asianews.network/hohhot-inner-mongolia-converting-prairie-winds-into-computing-power/"
+   },
+   {
+    "para": 2,
+    "t": "Training a large model on tens of thousands of GPUs can take more than 100 million kilowatt hours a year.",
+    "src": "https://asianews.network/hohhot-inner-mongolia-converting-prairie-winds-into-computing-power/"
+   },
+   {
+    "para": 2,
+    "t": "That operator recovers waste heat from nearby power plants to cool its halls, taking one of them from a power usage effectiveness of 1.315 to 1.209, and expects annual savings of 10 million kilowatt hours of electricity and 150,000 tonnes of water once two halls are running.",
+    "src": "https://asianews.network/hohhot-inner-mongolia-converting-prairie-winds-into-computing-power/"
+   },
+   {
+    "para": 3,
+    "t": "China Mobile and China Telecom also run data centers in Horinger, 7 and 13 kilometres from Huawei's.",
+    "src": "data:context.other_projects_within_40km"
+   }
+  ],
+  "sources": [
+   "https://sinocities.org/p/mapping-chinas-inland-data-centers",
+   "https://asianews.network/hohhot-inner-mongolia-converting-prairie-winds-into-computing-power/"
+  ],
+  "unconfirmed": "Searches on Huawei with Horinger, on Hohhot with data center water, and on Horinger with Inner Mongolia found nothing on residents, land acquisition or environmental review, and no coverage beyond Chinese state and trade press. The power and water figures above belong to China Mobile's neighbouring facility, not Huawei's, because no figures for Huawei's own site have been published. The two sources originally cited in our record, a Sina Finance archive page and a directory listing, could not be fetched."
+ },
+ {
+  "id": "epoch-google-arcola",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Arcola campus sits on Arcola Boulevard in Sterling, in Loudoun County's data center corridor.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Google announced the site in 2017.",
+    "src": "https://en.wikipedia.org/wiki/Google_data_centers"
+   },
+   {
+    "para": 0,
+    "t": "The company now runs a 400,000-square-foot data center building there.",
+    "src": "https://www.bisnow.com/national/news/data-center/google-investing-1b-to-improve-northern-virginia-data-centers-124025"
+   },
+   {
+    "para": 1,
+    "t": "On April 26, 2024, Google announced it would spend $1 billion to upgrade three Virginia data centers, including Arcola, along with Leesburg in Loudoun County and Gainesville in Prince William County.",
+    "src": "https://www.bisnow.com/national/news/data-center/google-investing-1b-to-improve-northern-virginia-data-centers-124025"
+   },
+   {
+    "para": 1,
+    "t": "The announcement came at an event with Governor Glenn Youngkin at Google's Reston Station office and brought the company's total investment in Virginia to $4.2 billion.",
+    "src": "https://www.bisnow.com/national/news/data-center/google-investing-1b-to-improve-northern-virginia-data-centers-124025"
+   },
+   {
+    "para": 1,
+    "t": "Google said the money would go toward technical infrastructure, but Bisnow reported it was unclear whether that meant expanding the facilities or simply upgrading the equipment inside them.",
+    "src": "https://www.bisnow.com/national/news/data-center/google-investing-1b-to-improve-northern-virginia-data-centers-124025"
+   },
+   {
+    "para": 2,
+    "t": "Loudoun County already has about 50 data centers.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Google_data_centers",
+   "https://www.bisnow.com/national/news/data-center/google-investing-1b-to-improve-northern-virginia-data-centers-124025"
+  ],
+  "unconfirmed": "No news coverage of resident reaction specific to the Arcola site was found. Loudoun County has seen widely reported 2026 complaints about data center noise and diesel generator fumes, including a study estimating premature deaths from emissions, but those concern other facilities such as a Vantage Data Centers site in Sterling; nothing found ties those complaints to Arcola specifically, so that fight was left out of this page."
+ },
+ {
+  "id": "epoch-google-red-oak",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Red Oak data center sits on 166 acres where Farm-to-Market Road 664 meets State Highway 342 in Ellis County, south of Dallas.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Google built it as a $600 million investment, Ellis County commissioners approved a 10 year tax abatement in 2018, and it employs about 30 people full time.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "It is operating, and an expansion announced in 2023 is under way.",
+    "src": "https://www.fox4news.com/news/texas-data-centers-google-water-fund-stewardship-plan"
+   },
+   {
+    "para": 1,
+    "t": "The existing buildings are evaporative cooled, which means they consume water.",
+    "src": "https://www.fox4news.com/news/texas-data-centers-google-water-fund-stewardship-plan"
+   },
+   {
+    "para": 1,
+    "t": "The expansion will be closed loop air cooled instead, as will Google's new Texas sites in Haskell, Wilbarger and Armstrong counties.",
+    "src": "https://www.fox4news.com/news/texas-data-centers-google-water-fund-stewardship-plan"
+   },
+   {
+    "para": 1,
+    "t": "In 2026 the company published a Texas water stewardship plan: a $10 million Texas Water Impact Fund for communities where it builds, a commitment to replenish more water than it consumes at its sites by 2030, annual public reporting of water use, and work on reclaimed water.",
+    "src": "https://www.fox4news.com/news/texas-data-centers-google-water-fund-stewardship-plan"
+   },
+   {
+    "para": 1,
+    "t": "Google says it has put more than $500 million into water infrastructure in communities where it has data centers.",
+    "src": "https://www.fox4news.com/news/texas-data-centers-google-water-fund-stewardship-plan"
+   },
+   {
+    "para": 1,
+    "t": "Ben Townsend, its global head of infrastructure and sustainability, said the company wants to \"walk the walk and talk the talk\" on water.",
+    "src": "https://www.fox4news.com/news/texas-data-centers-google-water-fund-stewardship-plan"
+   },
+   {
+    "para": 2,
+    "t": "Red Oak itself has been arguing about the industry, though not primarily about Google.",
+    "src": "https://www.credaily.com/briefs/red-oak-faces-data-center-boom-amid-resident-backlash/"
+   },
+   {
+    "para": 2,
+    "t": "The town's population more than doubled to 20,000 between 2018 and 2025, and there are now seven data center sites at various stages: two operating, one under construction and four in the pipeline, with projected investment of $13 billion.",
+    "src": "https://www.credaily.com/briefs/red-oak-faces-data-center-boom-amid-resident-backlash/"
+   },
+   {
+    "para": 2,
+    "t": "In May 2026 the city council voted 4 to 1 to rezone 830 acres of farmland for Compass Datacenters, which plans eight two storey buildings of 200,000 square feet each.",
+    "src": "https://www.credaily.com/briefs/red-oak-faces-data-center-boom-amid-resident-backlash/"
+   },
+   {
+    "para": 2,
+    "t": "More than 130 residents turned up at city hall meetings to object, raising noise, light pollution, the risk of water contamination, traffic and property values.",
+    "src": "https://www.credaily.com/briefs/red-oak-faces-data-center-boom-amid-resident-backlash/"
+   },
+   {
+    "para": 2,
+    "t": "Mayor Mark Stanfill defended the growth as deliberate, positioning Red Oak as a regional gateway and business hub.",
+    "src": "https://www.credaily.com/briefs/red-oak-faces-data-center-boom-amid-resident-backlash/"
+   },
+   {
+    "para": 3,
+    "t": "Google, Compass and DataBank have each been granted 10 year tax breaks; the most recent abatement backed campus is a $9.45 billion investment expected to add $405 million to the tax base across the abatement period.",
+    "src": "https://www.credaily.com/briefs/red-oak-faces-data-center-boom-amid-resident-backlash/"
+   },
+   {
+    "para": 3,
+    "t": "Nine data centers are operating or planned in Ellis County.",
+    "src": "data:context.data_centers_in_county"
+   }
+  ],
+  "sources": [
+   "https://www.fox4news.com/news/texas-data-centers-google-water-fund-stewardship-plan",
+   "https://www.credaily.com/briefs/red-oak-faces-data-center-boom-amid-resident-backlash/"
+  ],
+  "unconfirmed": "No opposition to Google's own already operating campus was found. The 130 residents who turned out at city hall were objecting to the Compass Datacenters rezoning on Goodloe Lane, a separate and much larger project, and no resident is quoted by name in the coverage we could read. Google's water use at Red Oak has not been published and the stewardship plan gives no site level figure. Whether the $9.45 billion abatement backed campus is Google's expansion or another company's is not stated in the source."
+ },
+ {
+  "id": "epoch-google-papillion",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's data center near Papillion sits on 275 acres off Nebraska Highway 50 and Schram Road in Sarpy County.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It was built in 2019 as a $600 million investment, the eighth data center in the county, about three kilometres from Meta's Sarpy County campus in a cluster along the Highway 50 corridor.",
+    "src": "https://flatwaterfreepress.org/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+   },
+   {
+    "para": 1,
+    "t": "The number that has changed fastest here is water.",
+    "src": "https://flatwaterfreepress.org/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+   },
+   {
+    "para": 1,
+    "t": "Google's Nebraska operations used 46.6 million gallons in 2022, 134.7 million in 2023, and 732.1 million in 2025.",
+    "src": "https://flatwaterfreepress.org/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+   },
+   {
+    "para": 1,
+    "t": "That figure covers all three of the company's Nebraska sites, at Papillion, Omaha and Lincoln, and is not broken out by campus.",
+    "src": "https://flatwaterfreepress.org/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+   },
+   {
+    "para": 1,
+    "t": "For comparison, Meta's four million square foot campus nearby withdrew between 26.7 and 37.5 million gallons a year from 2020 to 2024.",
+    "src": "https://flatwaterfreepress.org/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+   },
+   {
+    "para": 1,
+    "t": "Google says it uses evaporative cooling or closed loop air cooled chillers depending on how much water a place has.",
+    "src": "https://flatwaterfreepress.org/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+   },
+   {
+    "para": 2,
+    "t": "Large parts of Nebraska are in extreme drought.",
+    "src": "https://flatwaterfreepress.org/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+   },
+   {
+    "para": 2,
+    "t": "John Winkler, general manager of the Papio-Missouri River Natural Resources District, put the problem plainly: \"From a logical, common-sense perspective, we really need to stop putting industry in areas where they can't be supported by natural resources like water.\"",
+    "src": "https://flatwaterfreepress.org/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+   },
+   {
+    "para": 2,
+    "t": "Anthony Schutz, a law professor at the University of Nebraska-Lincoln, noted that set against the water Nebraska pours on its fields, the data center draw \"remains a small amount relative to that.\"",
+    "src": "https://flatwaterfreepress.org/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+   },
+   {
+    "para": 2,
+    "t": "Pete Marin, who runs T5 Data Centers, allowed that while most of the industry is \"doing the right thing,\" there is a share of bad actors.",
+    "src": "https://flatwaterfreepress.org/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+   },
+   {
+    "para": 3,
+    "t": "Until recently nobody had to say how much they used.",
+    "src": "https://flatwaterfreepress.org/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+   },
+   {
+    "para": 3,
+    "t": "A law passed in the Nebraska legislature's 2026 session requires data center developments to report annual water use and energy demand to the state Department of Water, Energy and Environment, starting later that year.",
+    "src": "https://flatwaterfreepress.org/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+   },
+   {
+    "para": 3,
+    "t": "The department's director, Jesse Bradley, said the state has a planning process in every area of Nebraska whose objective is to protect all existing water users.",
+    "src": "https://flatwaterfreepress.org/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+   }
+  ],
+  "sources": [
+   "https://flatwaterfreepress.org/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+  ],
+  "unconfirmed": "Searches on Papillion with data center, on Sarpy County with data center water, and on Google with Sarpy County produced no capacity figure, jobs number or opening date for this site from a source we could read, and no resident quoted about this campus in particular; Epoch AI's estimate of its IT power is 237 megawatts. The 732.1 million gallon figure is statewide across Google's three Nebraska sites and cannot be attributed to Papillion alone."
+ },
+ {
+  "id": "epoch-meta-gallatin",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's data center campus in Gallatin, Tennessee, in Sumner County northeast of Nashville, sits on 900 acres and includes four buildings totaling about 1.7 million square feet, which Nashville member station WPLN described as equivalent to ten Walmart Supercenters.",
+    "src": "https://wpln.org/post/gallatin-offers-a-glimpse-at-hyperscale-data-center-experiences/"
+   },
+   {
+    "para": 0,
+    "t": "Meta called the project \"Project Woolhawk\" while it was under development.",
+    "src": "https://wpln.org/post/gallatin-offers-a-glimpse-at-hyperscale-data-center-experiences/"
+   },
+   {
+    "para": 0,
+    "t": "Construction began in 2020.",
+    "src": "https://datacenters.atmeta.com/2020/08/hello-gallatin/"
+   },
+   {
+    "para": 0,
+    "t": "The campus went live in November 2024.",
+    "src": "https://datacenters.atmeta.com/2024/11/gallatin-we-are-online/"
+   },
+   {
+    "para": 1,
+    "t": "Meta has said its investment in the campus to date is $1.5 billion.",
+    "src": "https://wpln.org/post/gallatin-offers-a-glimpse-at-hyperscale-data-center-experiences/"
+   },
+   {
+    "para": 1,
+    "t": "Earlier coverage described a planned buildout of up to 450 megawatts and $4.4 billion, which would make it the largest single private investment in Tennessee history; available reporting does not make clear whether that larger figure describes a future phase or an earlier, since-revised plan.",
+    "src": "https://www.datacenterdynamics.com/en/news/meta-officially-launches-gallatin-data-center-campus-in-tennessee/"
+   },
+   {
+    "para": 2,
+    "t": "Gallatin's mayor, Paige Brown, has estimated the campus supports more than 100 jobs; Meta says the number is about 65 operational roles.",
+    "src": "https://wpln.org/post/gallatin-offers-a-glimpse-at-hyperscale-data-center-experiences/"
+   },
+   {
+    "para": 2,
+    "t": "Utility records show Meta used more than 53 million gallons of water in 2025, about 2% of the city's total usage and enough to rank among the city's top five water customers.",
+    "src": "https://wpln.org/post/gallatin-offers-a-glimpse-at-hyperscale-data-center-experiences/"
+   },
+   {
+    "para": 2,
+    "t": "City Councilman Pascal Jouvence said of Meta, \"It's one entity and they can do more per the contract with the city, and they're still building.\"",
+    "src": "https://wpln.org/post/gallatin-offers-a-glimpse-at-hyperscale-data-center-experiences/"
+   },
+   {
+    "para": 2,
+    "t": "Meta says its closed-loop cooling system uses 80% less water than a typical data center, recirculating water through sealed pipes rather than drawing fresh supply continuously.",
+    "src": "https://wpln.org/post/gallatin-offers-a-glimpse-at-hyperscale-data-center-experiences/"
+   },
+   {
+    "para": 2,
+    "t": "The company has agreed to bring enough solar power onto the Tennessee Valley Authority grid to match its consumption, which it expects to reach about 300 megawatts at full buildout, roughly enough to power 200,000 homes.",
+    "src": "https://wpln.org/post/gallatin-offers-a-glimpse-at-hyperscale-data-center-experiences/"
+   },
+   {
+    "para": 3,
+    "t": "The city gave Meta a 20-year PILOT agreement worth about $19.5 million in tax breaks; Meta paid an estimated $1.8 million in local taxes in 2025.",
+    "src": "https://wpln.org/post/gallatin-offers-a-glimpse-at-hyperscale-data-center-experiences/"
+   },
+   {
+    "para": 3,
+    "t": "Neighbors have reported construction dust and a low hum from cooling equipment and generators at night.",
+    "src": "https://wpln.org/post/gallatin-offers-a-glimpse-at-hyperscale-data-center-experiences/"
+   },
+   {
+    "para": 3,
+    "t": "About five homes near the campus have sold since Meta arrived, with three currently on the market, and one resident received a $2,500 settlement over complaints of structural damage.",
+    "src": "https://wpln.org/post/gallatin-offers-a-glimpse-at-hyperscale-data-center-experiences/"
+   },
+   {
+    "para": 3,
+    "t": "Meta gave $250,000 to restore the historic gym at Gallatin's Shalom Zone community campus.",
+    "src": "https://ttc.tml1.org/2024/11/15/meta-data-center-begins-operations-gallatin"
+   }
+  ],
+  "sources": [
+   "https://wpln.org/post/gallatin-offers-a-glimpse-at-hyperscale-data-center-experiences/",
+   "https://datacenters.atmeta.com/2020/08/hello-gallatin/",
+   "https://datacenters.atmeta.com/2024/11/gallatin-we-are-online/",
+   "https://www.datacenterdynamics.com/en/news/meta-officially-launches-gallatin-data-center-campus-in-tennessee/",
+   "https://ttc.tml1.org/2024/11/15/meta-data-center-begins-operations-gallatin"
+  ],
+  "unconfirmed": "Sources disagree on the jobs count (100+ vs 65) and on the project's ultimate scale ($4.4 billion / 450 megawatts vs $1.5 billion invested to date); both figures are reported above rather than resolved. The $2,500 settlement detail rests on a single report and could not be independently confirmed."
+ },
+ {
+  "id": "epoch-meta-los-lunas",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's Los Lunas, New Mexico data center sits along the Rio Grande near Interstate 25, south of Albuquerque, in Valencia County.",
+    "src": "https://www.santafenewmexican.com/news/local_news/similar-to-los-alamos-in-1940s-los-lunas-getting-transformed-by-tech/article_d2a3ca02-4f80-49b6-8af2-e2da8bc378e9.html"
+   },
+   {
+    "para": 0,
+    "t": "Meta announced the project in 2016.",
+    "src": "https://www.mmcginvest.com/post/the-desert-becomes-a-data-center-meta-s-3-3-billion-bet-on-los-lunas-new-mexico"
+   },
+   {
+    "para": 1,
+    "t": "A local group called Valencia Water Watchers has said the village has not been transparent about how much water the data center uses, and that the impact on the region's water reserves is unclear.",
+    "src": "https://www.datacenterdynamics.com/en/news/los-lunas-locals-question-facebooks-data-center-expansion-worry-about-water-use/"
+   },
+   {
+    "para": 1,
+    "t": "Much of Valencia County has been in extreme drought.",
+    "src": "https://www.datacenterdynamics.com/en/news/los-lunas-locals-question-facebooks-data-center-expansion-worry-about-water-use/"
+   },
+   {
+    "para": 1,
+    "t": "In 2020, Meta's water withdrawals for the site totaled 59 million gallons, according to a fact-check by Yahoo News.",
+    "src": "https://www.yahoo.com/news/science/articles/fact-check-metas-mexico-data-230000174.html"
+   },
+   {
+    "para": 1,
+    "t": "The village's permit allows Meta to draw water from the underground aquifer, with limits set under its agreement with the village.",
+    "src": "https://www.news-bulletin.com/news/tax-break-water-deal-for-meta-data-center/article_d4ff8540-163d-4c73-8a17-a5ec65209c42.html"
+   },
+   {
+    "para": 1,
+    "t": "Meta has said it aims to restore 200% of the water the site consumes back into New Mexico watersheds, and that a 2020 restoration partnership returned about 64 million gallons to the Rio Grande watershed.",
+    "src": "https://www.yahoo.com/news/science/articles/fact-check-metas-mexico-data-230000174.html"
+   },
+   {
+    "para": 2,
+    "t": "The site's utility, the Public Service Company of New Mexico, has a peak load of about 2,665 megawatts against roughly 2,863 megawatts of capacity.",
+    "src": "data:context.grid_control_area"
+   }
+  ],
+  "sources": [
+   "https://www.santafenewmexican.com/news/local_news/similar-to-los-alamos-in-1940s-los-lunas-getting-transformed-by-tech/article_d2a3ca02-4f80-49b6-8af2-e2da8bc378e9.html",
+   "https://www.mmcginvest.com/post/the-desert-becomes-a-data-center-meta-s-3-3-billion-bet-on-los-lunas-new-mexico",
+   "https://www.datacenterdynamics.com/en/news/los-lunas-locals-question-facebooks-data-center-expansion-worry-about-water-use/",
+   "https://www.yahoo.com/news/science/articles/fact-check-metas-mexico-data-230000174.html",
+   "https://www.news-bulletin.com/news/tax-break-water-deal-for-meta-data-center/article_d4ff8540-163d-4c73-8a17-a5ec65209c42.html"
+  ],
+  "unconfirmed": "The Datacenter Dynamics article on local water concerns could not be directly fetched (automated access blocked); its content here is drawn from search-engine summaries of the page rather than the full text. No water withdrawal figures more recent than 2020 were found."
+ },
+ {
+  "id": "epoch-coreweave-ellendale-nd",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Applied Digital's Ellendale data center campus in Dickey County, North Dakota, hosts CoreWeave's AI computing under a lease the companies announced on June 2, 2025.",
+    "src": "https://www.inforum.com/news/north-dakota/7-billion-data-center-deal-in-southeast-north-dakota-is-worth-the-growing-pains-residents-say"
+   },
+   {
+    "para": 0,
+    "t": "The deal is worth an estimated $7 billion over about 15 years.",
+    "src": "https://www.inforum.com/news/north-dakota/7-billion-data-center-deal-in-southeast-north-dakota-is-worth-the-growing-pains-residents-say"
+   },
+   {
+    "para": 0,
+    "t": "It covers 250 megawatts for AI processing and 82 megawatts for cooling, on a campus Applied Digital says can reach 530 megawatts now and 1 gigawatt eventually.",
+    "src": "https://www.inforum.com/news/north-dakota/7-billion-data-center-deal-in-southeast-north-dakota-is-worth-the-growing-pains-residents-say"
+   },
+   {
+    "para": 0,
+    "t": "Epoch AI estimates the site's current IT power at about 68 megawatts, reflecting what has been built so far.",
+    "src": "data:capacity_mw"
+   },
+   {
+    "para": 1,
+    "t": "The deal is expected to bring 300 to 350 full-time jobs to the campus, with about 100 workers relocating to Ellendale.",
+    "src": "https://www.inforum.com/news/north-dakota/7-billion-data-center-deal-in-southeast-north-dakota-is-worth-the-growing-pains-residents-say"
+   },
+   {
+    "para": 1,
+    "t": "News of the lease sent CoreWeave's stock up about 22% and Applied Digital's up about 88%.",
+    "src": "https://www.inforum.com/news/north-dakota/7-billion-data-center-deal-in-southeast-north-dakota-is-worth-the-growing-pains-residents-say"
+   },
+   {
+    "para": 1,
+    "t": "The town has since seen construction of 20 new homes and a planned 34-unit apartment complex, and is annexing the campus into city limits to redirect its tax revenue to the municipality.",
+    "src": "https://www.inforum.com/news/north-dakota/7-billion-data-center-deal-in-southeast-north-dakota-is-worth-the-growing-pains-residents-say"
+   },
+   {
+    "para": 2,
+    "t": "Resident Nathan Walstad said newcomers get a wary look at first: \"There's this suspicion when people move to small North Dakota towns, like 'what's the agenda?' But those growing pains only go away with time.\"",
+    "src": "https://www.inforum.com/news/north-dakota/7-billion-data-center-deal-in-southeast-north-dakota-is-worth-the-growing-pains-residents-say"
+   },
+   {
+    "para": 2,
+    "t": "Mayor Don Flaherty said annexation would bring \"more services without increased costs for the people of Ellendale.\"",
+    "src": "https://www.inforum.com/news/north-dakota/7-billion-data-center-deal-in-southeast-north-dakota-is-worth-the-growing-pains-residents-say"
+   },
+   {
+    "para": 2,
+    "t": "Not everyone is reassured: resident Renee Hutchinson said, \"We just wish we knew about it before we bought here so that we could be further away from the bustle.\"",
+    "src": "https://www.inforum.com/news/north-dakota/7-billion-data-center-deal-in-southeast-north-dakota-is-worth-the-growing-pains-residents-say"
+   }
+  ],
+  "sources": [
+   "https://www.inforum.com/news/north-dakota/7-billion-data-center-deal-in-southeast-north-dakota-is-worth-the-growing-pains-residents-say"
+  ],
+  "unconfirmed": "No additional local coverage beyond this Inforum report was found. Could not confirm water use or environmental review details."
+ },
+ {
+  "id": "epoch-meta-sarpy",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's Sarpy County campus, addressed on Fairview Road in Springfield, Nebraska, was first announced in 2017 as the Papillion Data Center.",
+    "src": "https://www.wowt.com/2022/07/28/sarpy-county-meta-data-center-campus-grow-even-bigger/"
+   },
+   {
+    "para": 0,
+    "t": "It grew from two buildings to six, totaling more than 2.6 million square feet, and went online in 2019; Meta has since announced expansion to nine buildings and about 4 million square feet.",
+    "src": "https://www.wowt.com/2022/07/28/sarpy-county-meta-data-center-campus-grow-even-bigger/"
+   },
+   {
+    "para": 0,
+    "t": "More than 150 full-time employees work across the six operating buildings, a number Meta expects to roughly double once the Springfield buildings are complete.",
+    "src": "https://www.wowt.com/2022/07/28/sarpy-county-meta-data-center-campus-grow-even-bigger/"
+   },
+   {
+    "para": 1,
+    "t": "From 2020 to 2024, the campus withdrew between 26.7 million and 37.5 million gallons of water a year from the local supply, according to the Flatwater Free Press.",
+    "src": "https://flatwaterfreepress.org/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+   },
+   {
+    "para": 1,
+    "t": "Meta says the campus runs on 100% renewable energy, backed by its investment in a wind farm in Dixon County, Nebraska.",
+    "src": "https://www.wowt.com/2022/07/28/sarpy-county-meta-data-center-campus-grow-even-bigger/"
+   }
+  ],
+  "sources": [
+   "https://www.wowt.com/2022/07/28/sarpy-county-meta-data-center-campus-grow-even-bigger/",
+   "https://flatwaterfreepress.org/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+  ],
+  "unconfirmed": "No lawsuit or organized opposition campaign was found for this campus. Three sentences were removed for lack of support: a farmland owner named Deborah Bowman saying selling to Facebook was \"absolutely the last thing I wanted done\", a neighbour named Jane Amerine on county officials favouring development, and a Sarpy County farmland-loss comparison with Washington County. None of the three, and neither Mark Norman of the Greater Omaha Chamber nor Commissioner Don Kelly, appears in the Flatwater Free Press report they were credited to."
+ },
+ {
+  "id": "epoch-coreweave-chester-va",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "CoreWeave runs a data center at 1401 Meadowville Technology Parkway in Chester, in Chesterfield County, about 15 miles south of Richmond.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "It has three data halls across 250,000 square feet and is fully operational.",
+    "src": "data:note"
+   },
+   {
+    "para": 0,
+    "t": "CoreWeave holds a 12 year licence for the space with two five year extension options, on an 88 acre campus owned by Chirisa Technology Parks and Chirisa Investments, and Chirisa took a $200 million loan to fit the building out.",
+    "src": "https://www.datacenterdynamics.com/en/news/chirisa-secures-200-million-loan-to-fit-out-virginia-data-center-for-coreweave/"
+   },
+   {
+    "para": 0,
+    "t": "The campus was originally developed for Capital One in 2013 and has room for two more buildings of about 190,000 square feet and 100 megawatts each, expected in late 2027 and mid 2028.",
+    "src": "data:note"
+   },
+   {
+    "para": 1,
+    "t": "Chesterfield County changed the rules for what comes next.",
+    "src": "https://www.chesterfield.gov/datacenters"
+   },
+   {
+    "para": 1,
+    "t": "In May 2025, after community meetings and public hearings before the Planning Commission and the Board of Supervisors, the board approved a zoning ordinance ending by right development of new data centers; each one now needs a conditional use permit obtained in public.",
+    "src": "https://www.chesterfield.gov/datacenters"
+   },
+   {
+    "para": 1,
+    "t": "Several other data centers sit in and around Meadowville Technology Park, including Chirisa's own buildings at 1381 Meadowville Technology Parkway and 1551 Digital Drive.",
+    "src": "https://www.chesterfield.gov/datacenters"
+   },
+   {
+    "para": 2,
+    "t": "The county's published water arithmetic concerns Google rather than CoreWeave: three approved Google sites could together use about 8.6 million gallons a day, which the county puts at under 8 percent of its capacity.",
+    "src": "https://www.chesterfield.gov/datacenters"
+   },
+   {
+    "para": 2,
+    "t": "A fourth water supply, adding 27 million gallons a day, is not expected until 2036, and Google is funding a study into reusing treated wastewater from the Proctors Creek plant.",
+    "src": "https://www.chesterfield.gov/datacenters"
+   },
+   {
+    "para": 2,
+    "t": "Google has also committed to buying 200 megawatts from a commercial fusion plant Commonwealth Fusion Systems plans to build in the county.",
+    "src": "https://www.chesterfield.gov/datacenters"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/chirisa-secures-200-million-loan-to-fit-out-virginia-data-center-for-coreweave/",
+   "https://www.chesterfield.gov/datacenters"
+  ],
+  "unconfirmed": "Searches on Meadowville with Chesterfield County, on Chesterfield County with data center, and on CoreWeave with Chesterfield found no community reaction to this facility. The county's own data center page does not mention CoreWeave at all, listing only Chirisa's buildings on the same parkway, so it is unclear whether the county treats this as a Chirisa facility. No water or power figure for this building was published, and Meadowville is an established industrial park rather than a neighbourhood, which may be why nobody has covered it."
+ }
+]

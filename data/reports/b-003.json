@@ -1,0 +1,519 @@
+[
+ {
+  "id": "epoch-google-kansas-city-east",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Hunt Midwest data center sits in the Hunt Midwest Business Center in Clay County, north of Kansas City.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Google announced the $1 billion project in March 2024, its first data center in Missouri.",
+    "src": "https://huntmidwest.com/2024/03/google-announces-1-billion-data-center-at-hunt-midwest-business-center/"
+   },
+   {
+    "para": 0,
+    "t": "Governor Mike Parson, Kansas City Mayor Quinton Lucas and Hunt Midwest chief executive Ora Reynolds all welcomed the announcement in the developer's press release.",
+    "src": "https://huntmidwest.com/2024/03/google-announces-1-billion-data-center-at-hunt-midwest-business-center/"
+   },
+   {
+    "para": 1,
+    "t": "Google paired the announcement with a Skilled Trades and Readiness program for the region and a contribution of more than $100,000 to the North Kansas City School District's STEAM center.",
+    "src": "https://huntmidwest.com/2024/03/google-announces-1-billion-data-center-at-hunt-midwest-business-center/"
+   },
+   {
+    "para": 1,
+    "t": "It also announced a partnership for 400 megawatts of new solar power from the Beavertail Solar farm.",
+    "src": "https://huntmidwest.com/2024/03/google-announces-1-billion-data-center-at-hunt-midwest-business-center/"
+   },
+   {
+    "para": 2,
+    "t": "As of February 2026 the campus was still under construction, Google said, by which time the company had confirmed a second, separate data center project elsewhere in Kansas City's Northland.",
+    "src": "https://www.kctv5.com/2026/02/12/google-confirms-new-data-center-development-kansas-citys-northland/"
+   },
+   {
+    "para": 2,
+    "t": "Four kilometres from the site sits the Hawthorn plant, a 955 megawatt coal-fired power station, one of the larger plants in the region.",
+    "src": "data:context.nearest_power_plants"
+   },
+   {
+    "para": 2,
+    "t": "The site draws on the Southwest Power Pool grid, which carries a peak load of about 48,700 megawatts against roughly 73,400 megawatts of capacity.",
+    "src": "data:context.grid_control_area"
+   },
+   {
+    "para": 3,
+    "t": "Opposition has grown elsewhere in the region: nearby Jackson County and the city of Independence have both passed moratoriums on new data center applications, and Kansas City has adopted zoning limits on them.",
+    "src": "data:context.moratoriums_nearby"
+   },
+   {
+    "para": 3,
+    "t": "A September 2026 KCUR investigation found anger over water use, electricity costs and non-disclosure agreements uniting towns across Missouri and Kansas against data center development, though it did not report opposition specific to the Hunt Midwest site.",
+    "src": "https://www.kcur.org/housing-development-section/2026-09-02/data-center-backlash-missouri-kansas"
+   }
+  ],
+  "sources": [
+   "https://huntmidwest.com/2024/03/google-announces-1-billion-data-center-at-hunt-midwest-business-center/",
+   "https://www.kctv5.com/2026/02/12/google-confirms-new-data-center-development-kansas-citys-northland/",
+   "https://www.kcur.org/housing-development-section/2026-09-02/data-center-backlash-missouri-kansas"
+  ],
+  "unconfirmed": "No record found of Clay County council votes, resident opposition or lawsuits tied specifically to the Hunt Midwest site itself, as opposed to the wider Kansas City region."
+ },
+ {
+  "id": "epoch-aws-new-albany",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon's data center campus in New Albany sits along Beech and Miller roads in Licking County, Ohio, just east of Columbus.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Amazon has invested $6.2 billion in Licking County AWS infrastructure since 2015, an investment the city says supports an average of 1,550 full-time equivalent jobs a year.",
+    "src": "https://newalbanyohio.org/news/2025/08/amazon-investment-in-new-albany/"
+   },
+   {
+    "para": 1,
+    "t": "The campus includes at least four AWS buildings: Building A and Building E at Miller and Beech, each around 250,000 square feet, Building B at Beech and Jug, 260,000 square feet, and a smaller security control building, Building F.",
+    "src": "https://newalbanyohio.org/community-development/project-updates/"
+   },
+   {
+    "para": 2,
+    "t": "Amazon is not done building. Amazon Data Services bought close to 400 acres along Beech Road, touching the Franklin County line, for more than $116 million, according to Licking County auditor's records.",
+    "src": "https://www.datacenterdynamics.com/en/news/aws-linked-company-files-plans-for-two-massive-data-center-campus-in-new-albany-ohio/"
+   },
+   {
+    "para": 2,
+    "t": "A related entity, MBJ Holdings, a subsidiary of the New Albany Company real estate developer, filed wetland permit applications with the Ohio EPA in November for two more data center campuses on both sides of Beech Road, 18 buildings on one side and 11 on the other, totaling more than 12 million square feet.",
+    "src": "https://www.datacenterdynamics.com/en/news/aws-linked-company-files-plans-for-two-massive-data-center-campus-in-new-albany-ohio/"
+   },
+   {
+    "para": 2,
+    "t": "Residents attended an Ohio EPA public hearing to raise concerns about the wetlands and about Blacklick Creek, which runs just south of the project area.",
+    "src": "https://www.datacenterdynamics.com/en/news/aws-linked-company-files-plans-for-two-massive-data-center-campus-in-new-albany-ohio/"
+   },
+   {
+    "para": 2,
+    "t": "An Amazon spokesperson declined to comment on the company's plans for the land.",
+    "src": "https://www.datacenterdynamics.com/en/news/aws-linked-company-files-plans-for-two-massive-data-center-campus-in-new-albany-ohio/"
+   },
+   {
+    "para": 3,
+    "t": "Licking County now holds 13 data centers, and the strain shows in surrounding townships: since March 2026, St. Albans Township, Scioto Township and Jackson Township have all passed their own moratoriums on new data center construction, with St. Albans becoming the first community in Licking County to ban them outright.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://newalbanyohio.org/community-development/project-updates/",
+   "https://newalbanyohio.org/news/2025/08/amazon-investment-in-new-albany/",
+   "https://www.datacenterdynamics.com/en/news/aws-linked-company-files-plans-for-two-massive-data-center-campus-in-new-albany-ohio/"
+  ],
+  "unconfirmed": "Current status of the Ohio EPA wetland permits, and whether the two additional campuses have been approved, could not be established."
+ },
+ {
+  "id": "epoch-google-omaha",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Omaha data center sits at 11110 State Street in Douglas County, one of three Google data centers in Nebraska along with Papillion and Lincoln.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "Google's data centers across Nebraska, Omaha included, used about 732 million gallons of water in 2025, up sharply from 134.7 million gallons in 2023 and 46.6 million in 2022.",
+    "src": "https://nebraskaexaminer.com/2026/07/09/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+   },
+   {
+    "para": 1,
+    "t": "That combined 2025 total was more water than Omaha's Metropolitan Utilities District customers use in a typical week.",
+    "src": "https://nebraskaexaminer.com/2026/07/09/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+   },
+   {
+    "para": 1,
+    "t": "On September 13, 2026, Omaha held a public water education event shaped in part by rising concern over data centers' water use, at a time when large parts of Nebraska remain in extreme drought.",
+    "src": "https://www.wowt.com/2026/09/13/omahas-water-education-event-highlights-new-data-center-concerns/"
+   },
+   {
+    "para": 1,
+    "t": "Google says it is supporting water resilience in Nebraska through three projects in the Platte River basin, mostly aimed at improving irrigation efficiency for farmers.",
+    "src": "https://nebraskaexaminer.com/2026/07/09/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+   }
+  ],
+  "sources": [
+   "https://nebraskaexaminer.com/2026/07/09/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/",
+   "https://www.wowt.com/2026/09/13/omahas-water-education-event-highlights-new-data-center-concerns/"
+  ],
+  "unconfirmed": "Water or power use at the Omaha site alone, as opposed to Google's statewide Nebraska total, was not available."
+ },
+ {
+  "id": "epoch-google-lincoln",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Google's Lincoln data center sits along Interstate 80 in northeast Lincoln, Lancaster County, Nebraska.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The project has a long history. Agate LLC, a Google-linked entity, first filed plans for a $600 million campus on the site in July 2019, but nothing was built for years.",
+    "src": "https://www.datacenterdynamics.com/en/news/work-on-data-center-in-lincoln-nebraska-finally-starting/"
+   },
+   {
+    "para": 0,
+    "t": "Groundwork finally began in 2026, roughly seven years after the original filing.",
+    "src": "https://www.datacenterdynamics.com/en/news/work-on-data-center-in-lincoln-nebraska-finally-starting/"
+   },
+   {
+    "para": 1,
+    "t": "The finished campus is planned to cover more than 570 acres of former farmland with about 2 million square feet of data center space, Google's third Nebraska site after Papillion and Omaha.",
+    "src": "https://www.datacenterdynamics.com/en/news/work-on-data-center-in-lincoln-nebraska-finally-starting/"
+   },
+   {
+    "para": 1,
+    "t": "Lincoln's project adds to a statewide total: Google's Nebraska data centers together used about 732 million gallons of water in 2025, up from 134.7 million in 2023, as some Nebraskans worry about the state's uneven, often drought-stressed water supply.",
+    "src": "https://nebraskaexaminer.com/2026/07/09/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+   }
+  ],
+  "sources": [
+   "https://www.datacenterdynamics.com/en/news/work-on-data-center-in-lincoln-nebraska-finally-starting/",
+   "https://nebraskaexaminer.com/2026/07/09/data-centers-can-guzzle-serious-water-as-some-nebraskans-worry-tech-giants-seek-solutions/"
+  ],
+  "unconfirmed": "No Lincoln-specific resident reaction or council vote was found; reporting so far centers on the project's long delay and its share of statewide water use."
+ },
+ {
+  "id": "epoch-google-the-dalles",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "The Dalles is home to Google's oldest data center campus, three facilities on the Columbia River in Wasco County, Oregon.",
+    "src": "data:address"
+   },
+   {
+    "para": 1,
+    "t": "In September 2021 The Oregonian asked the city of The Dalles for records showing how much water Google's data centers were using.",
+    "src": "https://www.rcfp.org/dalles-google-oregonian-settlement/"
+   },
+   {
+    "para": 1,
+    "t": "The city refused, arguing the figures were a Google trade secret, and after Wasco County's district attorney ruled against it, the city sued to keep the records sealed rather than release them.",
+    "src": "https://www.rcfp.org/dalles-google-oregonian-settlement/"
+   },
+   {
+    "para": 1,
+    "t": "Google itself had funded part of the city's legal defense before reversing course and dropping its objection to disclosure.",
+    "src": "https://www.rcfp.org/dalles-google-oregonian-settlement/"
+   },
+   {
+    "para": 1,
+    "t": "The city settled with the Reporters Committee for Freedom of the Press on December 15, 2022, agreeing to release a decade of water use data, from 2012 through 2021, and to pay the committee's legal fees.",
+    "src": "https://www.rcfp.org/dalles-google-oregonian-settlement/"
+   },
+   {
+    "para": 2,
+    "t": "The released numbers showed Google's water use in The Dalles had nearly tripled over the previous five years and accounted for more than a quarter of all water used in the city.",
+    "src": "https://www.rcfp.org/dalles-google-oregonian-settlement/"
+   },
+   {
+    "para": 2,
+    "t": "Later reporting found the increase continued: by 2025 Google's three Dalles data centers were using about 550 million gallons of water a year, close to 40 percent of the city's total water use.",
+    "src": "https://scienceblog.com/j-the-town-of-the-dalles-oregon-spent-two-years-fighting-google-in-court-just-to-learn-how-much-of-its-river-water-the-companys-data-centers-were-using-and-when-the-numbers-finally-came-out-they-revea/"
+   },
+   {
+    "para": 2,
+    "t": "After the settlement, Google said it would stop treating site-level water use figures as a trade secret at any of its data centers nationwide.",
+    "src": "https://www.datacenterdynamics.com/en/news/we-now-know-how-much-water-googles-oregon-data-centers-use-after-city-drops-lawsuit-against-journalists/"
+   },
+   {
+    "para": 3,
+    "t": "The Dalles sits about 5 kilometres from, the 1,823 megawatt hydroelectric Dalles Dam, on the Bonneville Power Administration grid.",
+    "src": "data:context.nearest_power_plants"
+   }
+  ],
+  "sources": [
+   "https://www.rcfp.org/dalles-google-oregonian-settlement/",
+   "https://scienceblog.com/j-the-town-of-the-dalles-oregon-spent-two-years-fighting-google-in-court-just-to-learn-how-much-of-its-river-water-the-companys-data-centers-were-using-and-when-the-numbers-finally-came-out-they-revea/",
+   "https://www.datacenterdynamics.com/en/news/we-now-know-how-much-water-googles-oregon-data-centers-use-after-city-drops-lawsuit-against-journalists/"
+  ],
+  "unconfirmed": "No water use figures more recent than 2025, and no update on whether the city has changed its records policy since, were found."
+ },
+ {
+  "id": "epoch-meta-montgomery",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's Montgomery data center sits off County Road 42 in Montgomery County, Alabama.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "Meta broke ground on the campus in 2024, and by September 23, 2025 was expanding it, adding two buildings that will bring the campus to nearly 1.3 million square feet.",
+    "src": "https://datacenters.atmeta.com/2025/09/montgomery-were-growing/"
+   },
+   {
+    "para": 0,
+    "t": "The company raised its Montgomery investment to more than $1.5 billion; combined with its Huntsville, Alabama facility, Meta's total Alabama data center spending now tops $3 billion.",
+    "src": "https://datacenters.atmeta.com/2025/09/montgomery-were-growing/"
+   },
+   {
+    "para": 1,
+    "t": "At peak, construction supports more than 1,000 skilled trade workers; once running, the campus is expected to employ more than 100 people.",
+    "src": "https://datacenters.atmeta.com/2025/09/montgomery-were-growing/"
+   },
+   {
+    "para": 1,
+    "t": "Meta says it is backing 227 megawatts of new clean power in Alabama to match the site's energy use.",
+    "src": "https://datacenters.atmeta.com/2025/09/montgomery-were-growing/"
+   },
+   {
+    "para": 1,
+    "t": "Henry Thornton, Meta's community engagement manager for the site, told a local TV station in August 2026 that the company had signed a ratepayer protection pledge, pays for the electricity, water and wastewater the center uses, and restores a gallon of freshwater for every gallon it uses to cool the facility.",
+    "src": "https://www.wsfa.com/2026/08/04/infrastructure-vs-impact-inside-alabamas-growing-data-center-conversation/"
+   },
+   {
+    "para": 2,
+    "t": "Not everyone in Alabama is reassured. Some advocates have called for a statewide moratorium on data center construction, arguing the state is growing the industry faster than it understands the consequences, while developers have denied claims that the projects are depleting groundwater.",
+    "src": "https://bhamnow.com/2026/05/05/data-center-alabama-492-alabamians-weigh-in/"
+   }
+  ],
+  "sources": [
+   "https://datacenters.atmeta.com/2025/09/montgomery-were-growing/",
+   "https://www.wsfa.com/2026/08/04/infrastructure-vs-impact-inside-alabamas-growing-data-center-conversation/",
+   "https://bhamnow.com/2026/05/05/data-center-alabama-492-alabamians-weigh-in/"
+  ],
+  "unconfirmed": "No resident opposition specific to the Montgomery site itself was found; the concerns identified in reporting are statewide in scope."
+ },
+ {
+  "id": "epoch-meta-kuna",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's data center sits on Kuna Mora Road in Kuna, a small city in Ada County, Idaho, south of Boise.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "When the city announced that Meta would build there, officials were flooded with more than 50 pages of emails from angry residents.",
+    "src": "https://www.idahopress.com/news/local/controversy-in-kuna-metas-new-data-center-draws-mixed-response/article_7635c83e-2575-11ed-b68d-5f47f7451ac5.html"
+   },
+   {
+    "para": 1,
+    "t": "Kuna resident Mychal Wilson asked officials what the project would do to the water needed for crops, animals and local landscaping, and said he worried those questions would be swept aside by what he called \"the big, big green dollar bills.\"",
+    "src": "https://www.idahopress.com/news/local/controversy-in-kuna-metas-new-data-center-draws-mixed-response/article_7635c83e-2575-11ed-b68d-5f47f7451ac5.html"
+   },
+   {
+    "para": 1,
+    "t": "The concern arose as most of the Treasure Valley was rated abnormally dry amid broader drought conditions across Idaho.",
+    "src": "https://www.idahopress.com/news/local/controversy-in-kuna-metas-new-data-center-draws-mixed-response/article_7635c83e-2575-11ed-b68d-5f47f7451ac5.html"
+   },
+   {
+    "para": 2,
+    "t": "Meta says its data centers use 80 percent less water than the industry average and has pledged to be water positive across its operations by 2030, restoring more water than it consumes to local watersheds.",
+    "src": "https://idahonews.com/news/local/meta-opens-new-ai-data-center-in-kuna-hopes-to-become-water-positive"
+   },
+   {
+    "para": 2,
+    "t": "The company also offered a new water treatment facility and funding for public services, but those commitments were not enough to satisfy opponents of the project.",
+    "src": "https://www.idahopress.com/news/local/controversy-in-kuna-metas-new-data-center-draws-mixed-response/article_7635c83e-2575-11ed-b68d-5f47f7451ac5.html"
+   }
+  ],
+  "sources": [
+   "https://www.idahopress.com/news/local/controversy-in-kuna-metas-new-data-center-draws-mixed-response/article_7635c83e-2575-11ed-b68d-5f47f7451ac5.html",
+   "https://idahonews.com/news/local/meta-opens-new-ai-data-center-in-kuna-hopes-to-become-water-positive"
+  ],
+  "unconfirmed": "The exact announcement date and any final council vote on the Kuna project were not confirmed."
+ },
+ {
+  "id": "epoch-meta-temple",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's Temple data center covers 386 acres off Eberhardt Road in Bell County, Texas, with three buildings totaling more than 750,000 square feet of data center and office space.",
+    "src": "https://jedunn.com/projects/meta-temple-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "Construction began in April 2022; JE Dunn, the general contractor, expects to finish in 2026, with as many as 1,200 skilled trades workers on site at peak.",
+    "src": "https://jedunn.com/projects/meta-temple-data-center/"
+   },
+   {
+    "para": 0,
+    "t": "The campus draws 152 megawatts of power, uses dry cooling to limit water use, and is intended to run on 100 percent renewable energy.",
+    "src": "https://jedunn.com/projects/meta-temple-data-center/"
+   },
+   {
+    "para": 1,
+    "t": "The project has become the center of a fight over tax breaks in Bell County. On July 1, 2026, commissioners heard from residents pushing to scrap data center tax abatements altogether.",
+    "src": "https://www.kwtx.com/2026/07/07/theyre-already-ahead-bell-county-residents-push-scrap-data-center-tax-abatements/"
+   },
+   {
+    "para": 1,
+    "t": "Farmer Alton Fowler told commissioners he did not think any data center should get an abatement, since the companies were coming to Bell County regardless.",
+    "src": "https://www.kwtx.com/2026/07/07/theyre-already-ahead-bell-county-residents-push-scrap-data-center-tax-abatements/"
+   },
+   {
+    "para": 1,
+    "t": "Resident Joe Royer told commissioners that not one data center had ever been built without an abatement, so offering one bought the county nothing.",
+    "src": "https://www.kwtx.com/2026/07/07/theyre-already-ahead-bell-county-residents-push-scrap-data-center-tax-abatements/"
+   },
+   {
+    "para": 2,
+    "t": "Sarah Royer, founder of the group Temple Stands Together, criticized Meta's 75 percent tax abatement, saying the city granted it while residents are left to cover $118 million in infrastructure debt, and noted the Temple facility holds both a city and a separate county abatement on the same project.",
+    "src": "https://www.kwtx.com/2026/07/07/theyre-already-ahead-bell-county-residents-push-scrap-data-center-tax-abatements/"
+   },
+   {
+    "para": 2,
+    "t": "Precinct 2 Commissioner Bobby Whitson defended the abatements as the county's only leverage to impose conditions on noise, water use and backup generators.",
+    "src": "https://www.kwtx.com/2026/07/07/theyre-already-ahead-bell-county-residents-push-scrap-data-center-tax-abatements/"
+   },
+   {
+    "para": 2,
+    "t": "Commissioners did not agree to end the abatements but said the policy needed to change, and planned a public hearing before adopting a revised policy by September 8, 2026.",
+    "src": "https://kdhnews.com/news/region/bell-county-to-consider-amending-tax-abatement-policy-as-residents-speak-out-against-data-centers/article_3a96956e-c3b9-5a10-a010-6865c7c4511e.html"
+   }
+  ],
+  "sources": [
+   "https://jedunn.com/projects/meta-temple-data-center/",
+   "https://www.kwtx.com/2026/07/07/theyre-already-ahead-bell-county-residents-push-scrap-data-center-tax-abatements/",
+   "https://kdhnews.com/news/region/bell-county-to-consider-amending-tax-abatement-policy-as-residents-speak-out-against-data-centers/article_3a96956e-c3b9-5a10-a010-6865c7c4511e.html"
+  ],
+  "unconfirmed": "Whether Bell County's amended tax abatement policy was actually adopted by the September 8, 2026 deadline was not confirmed."
+ },
+ {
+  "id": "epoch-meta-cheyenne",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Meta's Cheyenne data center is a 715,000 square foot campus in Laramie County, Wyoming, announced on July 2, 2024 with an investment of more than $800 million.",
+    "src": "https://datacenters.atmeta.com/2024/07/hello-cheyenne/"
+   },
+   {
+    "para": 0,
+    "t": "At peak, more than 1,000 construction workers are on site; once finished, the campus is expected to employ about 100 people.",
+    "src": "https://datacenters.atmeta.com/2024/07/hello-cheyenne/"
+   },
+   {
+    "para": 0,
+    "t": "Meta partnered with Black Hills Energy on grid resources and with the Laramie County Conservation District on a Crow Creek restoration project meant to help recharge the Ogallala Aquifer.",
+    "src": "https://datacenters.atmeta.com/2024/07/hello-cheyenne/"
+   },
+   {
+    "para": 1,
+    "t": "In February 2026, fill-and-flush wastewater operations at the site contaminated Cheyenne's reclaimed water system with a rare, metal-resistant bacterium called Cupriavidus gilardii.",
+    "src": "https://cowboystatedaily.com/2026/07/02/cheyenne-wont-take-data-center-wastewater-after-meta-company-contaminated-system/"
+   },
+   {
+    "para": 1,
+    "t": "On March 24, 2026, the Cheyenne Board of Public Utilities revoked the industrial discharge privileges of Goat Systems, Meta's corporate entity on the project, and suspended all data center fill-and-flush wastewater discharges into the city system.",
+    "src": "https://cowboystatedaily.com/2026/07/02/cheyenne-wont-take-data-center-wastewater-after-meta-company-contaminated-system/"
+   },
+   {
+    "para": 1,
+    "t": "The contamination was not publicly traced to the site until the Board of Public Utilities announcement on July 2, 2026.",
+    "src": "https://cowboystatedaily.com/2026/07/02/cheyenne-wont-take-data-center-wastewater-after-meta-company-contaminated-system/"
+   },
+   {
+    "para": 2,
+    "t": "City councilman Pete Laybourn called it \"a very, very unpleasant surprise\" and said, \"It's about the last thing we need right now. But it's a reality we're going to have to work through.\"",
+    "src": "https://cowboystatedaily.com/2026/07/02/cheyenne-wont-take-data-center-wastewater-after-meta-company-contaminated-system/"
+   },
+   {
+    "para": 2,
+    "t": "Mayor Patrick Collins called it \"a disappointment to everyone involved.\"",
+    "src": "https://cowboystatedaily.com/2026/07/02/cheyenne-wont-take-data-center-wastewater-after-meta-company-contaminated-system/"
+   },
+   {
+    "para": 2,
+    "t": "A Meta spokesperson said the company was supporting its general contractor, Fortis, in resolving the problem.",
+    "src": "https://cowboystatedaily.com/2026/07/02/cheyenne-wont-take-data-center-wastewater-after-meta-company-contaminated-system/"
+   },
+   {
+    "para": 3,
+    "t": "US Representative Harriet Hageman sent a letter to Meta chief executive Mark Zuckerberg demanding answers about the contamination.",
+    "src": "https://hageman.house.gov/media/press-releases/hageman-demands-answers-meta-over-data-center-water-contamination"
+   },
+   {
+    "para": 3,
+    "t": "Regulators fined the contractor $10,000 over the noncompliance, according to Fortune.",
+    "src": "https://fortune.com/2026/07/10/wyoming-officials-meta-715000-square-foot-data-center-responsible-contaminating-water-system-rare-bacterium/"
+   }
+  ],
+  "sources": [
+   "https://datacenters.atmeta.com/2024/07/hello-cheyenne/",
+   "https://cowboystatedaily.com/2026/07/02/cheyenne-wont-take-data-center-wastewater-after-meta-company-contaminated-system/",
+   "https://hageman.house.gov/media/press-releases/hageman-demands-answers-meta-over-data-center-water-contamination",
+   "https://fortune.com/2026/07/10/wyoming-officials-meta-715000-square-foot-data-center-responsible-contaminating-water-system-rare-bacterium/"
+  ],
+  "unconfirmed": "Whether Cheyenne's reclaimed water system has since been fully decontaminated, and the outcome of Hageman's inquiry, were not confirmed as of this writing."
+ },
+ {
+  "id": "epoch-amazon-ridgeland",
+  "sentences": [
+   {
+    "para": 0,
+    "t": "Amazon's data center at 1626 County Line Road sits in Ridgeland, Madison County, Mississippi.",
+    "src": "data:address"
+   },
+   {
+    "para": 0,
+    "t": "The site is part of Amazon's roughly $25 billion planned investment in Mississippi data centers and has been linked in reporting to Project Rainier, the company's giant AI computing buildout for Anthropic, though Amazon has not confirmed Anthropic as the tenant.",
+    "src": "https://www.semafor.com/article/10/29/2025/aws-massive-multi-state-ai-data-center-is-powering-anthropics-claude"
+   },
+   {
+    "para": 1,
+    "t": "Amazon agreed to draw its water exclusively from the city of Ridgeland's system, estimating it will use about 93 million gallons a year, roughly what 800 Madison County households use annually.",
+    "src": "https://www.mississippifreepress.org/inside-the-private-deal-between-amazon-and-ridgelands-water-system/"
+   },
+   {
+    "para": 1,
+    "t": "The company is paying $37 million toward expanding the city's water system, on top of a $3.6 million federal pandemic recovery grant and $1.2 million from the city itself, more than $40 million in total.",
+    "src": "https://www.mississippifreepress.org/inside-the-private-deal-between-amazon-and-ridgelands-water-system/"
+   },
+   {
+    "para": 1,
+    "t": "The deal sets a maximum daily withdrawal of 3.67 million gallons and a peak wastewater discharge of 1.84 million gallons a day into the sewer system that flows on to Jackson, Mississippi.",
+    "src": "https://www.mississippifreepress.org/inside-the-private-deal-between-amazon-and-ridgelands-water-system/"
+   },
+   {
+    "para": 2,
+    "t": "Jackson's water and sewer system, still recovering after a 2022 crisis that left more than 150,000 residents without safe water and led the state to hand control to the utility JXN Water in 2023, is one reason some experts are watching the arrangement closely.",
+    "src": "https://www.mississippifreepress.org/inside-the-private-deal-between-amazon-and-ridgelands-water-system/"
+   },
+   {
+    "para": 2,
+    "t": "Haley Gentry, assistant director of Tulane's Institute on Water Resources Law and Policy, said the deal leaves Amazon free to use far more than its estimate: \"There's no binding language that would prevent Amazon from using the peak more regularly.\"",
+    "src": "https://www.mississippifreepress.org/inside-the-private-deal-between-amazon-and-ridgelands-water-system/"
+   },
+   {
+    "para": 2,
+    "t": "Ridgeland public works director Alan Hart said of Amazon, \"They have given us everything we've asked for, and we demanded a lot.\"",
+    "src": "https://www.mississippifreepress.org/inside-the-private-deal-between-amazon-and-ridgelands-water-system/"
+   },
+   {
+    "para": 2,
+    "t": "The agreement includes no enforcement mechanism if Amazon's water use exceeds its estimate and no requirement to disclose if it does; non-disclosure agreements common in the industry shield many of its specifics from public view.",
+    "src": "https://www.mississippifreepress.org/inside-the-private-deal-between-amazon-and-ridgelands-water-system/"
+   },
+   {
+    "para": 3,
+    "t": "Ridgeland resident Elizabeth Partin said the arrangement made her uneasy: \"It feels dirty. I understand economic pushes and things like that, but you can't do it at the deficit of the humans living here.\"",
+    "src": "https://www.mississippifreepress.org/inside-the-private-deal-between-amazon-and-ridgelands-water-system/"
+   },
+   {
+    "para": 3,
+    "t": "Amazon has made what it calls a water positive pledge, meaning it intends to return more water to local systems than it draws from them.",
+    "src": "https://www.mississippifreepress.org/inside-the-private-deal-between-amazon-and-ridgelands-water-system/"
+   },
+   {
+    "para": 3,
+    "t": "The nearby city of Jackson passed its own six month moratorium on new data center applications on July 14, 2026.",
+    "src": "data:context.moratoriums_nearby"
+   }
+  ],
+  "sources": [
+   "https://www.mississippifreepress.org/inside-the-private-deal-between-amazon-and-ridgelands-water-system/",
+   "https://www.semafor.com/article/10/29/2025/aws-massive-multi-state-ai-data-center-is-powering-anthropics-claude"
+  ],
+  "unconfirmed": "Exact construction status and opening date for the Ridgeland facility beyond Amazon's general Mississippi investment timeline were not confirmed."
+ }
+]
